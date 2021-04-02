@@ -1,0 +1,399 @@
+
+Introduction
+
+We are a leading broadband connectivity company and cable operator serving more than 31 million customers in 41 states through our Spectrum brand. Over an advanced high-capacity, two-way telecommunications network, we offer a full range of state-of-the-art residential and business services including Spectrum Internet, TV, Mobile and Voice. For small and medium-sized companies, Spectrum Business® delivers the same suite of broadband products and services coupled with special features and applications to enhance productivity, while for larger businesses and government entities, Spectrum Enterprise provides highly customized, fiber-based solutions. Spectrum Reach® delivers tailored advertising and production for the modern media landscape. We also distribute award-winning news coverage, sports and high-quality original programming to our customers through Spectrum Networks and Spectrum Originals.
+
+Our network, which we own and operate, passes over 53 million households and small and medium businesses ("SMBs") across the United States. Our core strategy is to use our network to deliver high quality products at competitive prices, combined with outstanding customer service. This strategy, combined with simple, easy to understand pricing and packaging, is central to our goal of growing our customer base while selling more of our core connectivity services, which include both fixed and mobile Internet, video and voice services, to each individual customer.  We execute this strategy by managing our operations in a consumer-friendly, efficient and cost-effective manner. Our operating strategy includes insourcing nearly all of our customer care and field operations workforces, which results in higher quality service delivery. While an insourced operating model can increase the field operations and customer care costs associated with individual service transactions, the higher quality nature of insourced labor service transactions significantly reduces the volume of service transactions per customer, more than offsetting the higher investment made in each insourced service transaction. As we reduce the number of service transactions and recurring costs per customer relationship, we continue to provide our customers with products and prices that we believe provide more value than what our competitors offer. The combination of offering high quality, competitively priced products and outstanding service, allows us to both increase the number of customers we serve over our fully deployed network, and to increase the number of products we sell to each customer. This combination also reduces the number of service transactions we perform per relationship, yielding higher customer satisfaction and lower customer churn, resulting in lower costs to acquire and serve customers and greater profitability. 
+
+We have enhanced our service operations to allow our customers to (1) more frequently interact with us through our customer website and My Spectrum application, online chat and social media, (2) have their services installed at the time and in the manner of their own choosing, including self-installation, and (3) receive a variety of video packages on an increasing number of connected devices including those owned by us and those owned by the customer. By offering our customers growing levels of choices in how they receive and install their services and how they interact with us, we are driving higher overall levels of customer satisfaction and reducing our operating costs and capital expenditures per customer relationship. Ultimately, our operating strategy enables us to offer high quality, competitively priced services profitably, while continuing to invest in new products and services.
+
+The capability and functionality of our network continues to grow in a number of areas, especially with respect to wireless connectivity. Our Internet service offers consumers the ability to wirelessly connect to our network using WiFi technology. We estimate that approximately 400 million devices are wirelessly connected to our network through WiFi. In addition, we extend Internet connectivity to our customers beyond the home via our Spectrum Mobile product through our mobile virtual network operator (“MVNO”) reseller agreement with Verizon Communications Inc. ("Verizon"). In 2020, we purchased 210 Citizens Broadband Radio Service (“CBRS”) Priority Access Licenses (“PALs”) within our footprint from the Federal Communications Commission ("FCC"). We intend to use the licenses along with unlicensed CBRS spectrum to build our own fifth generation ("5G") mobile network which we plan to use in combination with our MVNO and WiFi network to enhance our customer’s experience and improve our cost structure.
+
+Our principal executive offices are located at 400 Atlantic Street, Stamford, Connecticut 06901. Our telephone number is (203) 905-7801, and we have a website accessible at www.corporate.charter.com. Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K, and all amendments thereto, are available on our website free of charge as soon as reasonably practicable after they have been filed. The information posted on our website is not incorporated into this annual report.
+
+
+1
+
+Corporate Entity Structure
+
+The chart below sets forth our entity structure and that of our direct and indirect subsidiaries. The chart does not include all of our affiliates and subsidiaries and, in some cases, we have combined separate entities for presentation purposes. The equity ownership percentages shown below are approximations. Indebtedness amounts shown below are principal amounts as of December 31, 2020. See Note 9 to the accompanying consolidated financial statements contained in “Part II. Item 8. Financial Statements and Supplementary Data,” which also includes the accreted values of the indebtedness described below.
+chtr-20201231_g2.jpg
+
+2
+
+Footprint
+
+We operate in geographically diverse areas which are managed centrally on a consolidated level. The map below highlights our footprint as of December 31, 2020.
+chtr-20201231_g3.jpg
+Products and Services
+
+We offer our customers subscription-based Internet services, video services, and mobile and voice services. Our services are offered to residential and commercial customers on a subscription basis, with prices and related charges based on the types of service selected, whether the services are sold as a “bundle” or on an individual basis, and based on the equipment necessary to receive our services. Bundled services are available to substantially all of our passings, and approximately 56% of our residential customers subscribe to a bundle of services including some combination of our Internet, video and/or voice products.
+
+
+3
+
+The following table summarizes our customer statistics for Internet, video, voice and mobile as of December 31, 2020 and 2019 (in thousands except per customer data and footnotes).
+
+											
+	Approximate as of
+	December 31,
+	
+2020 (a)
+		
+2019 (a)
+Customer Relationships (b)
+			
+Residential	29,079 			27,277 	
+SMB	2,051 			1,958 	
+Total Customer Relationships 	31,130 			29,235 	
+			
+Monthly Residential Revenue per Residential Customer (c)
+	$	111.15 			$	112.63 	
+Monthly SMB Revenue per SMB Customer (d)
+	$	165.60 			$	169.90 	
+			
+Internet			
+Residential	27,023 			24,908 	
+SMB	1,856 			1,756 	
+Total Internet Customers	28,879 			26,664 	
+			
+Video			
+Residential	15,639 			15,620 	
+SMB	561 			524 	
+Total Video Customers	16,200 			16,144 	
+			
+Voice			
+Residential	9,215 			9,443 	
+SMB	1,224 			1,144 	
+Total Voice Customers	10,439 			10,587 	
+			
+Mobile Lines			
+Residential	2,320 			1,078 	
+SMB	55 			4 	
+Total Mobile Lines	2,375 			1,082 	
+			
+Enterprise Primary Service Units ("PSUs") (e)
+	274 			267 	
+
+(a)We calculate the aging of customer accounts based on the monthly billing cycle for each account. On that basis, as of December 31, 2020 and 2019, customers include approximately 168,400 and 154,200 customers, respectively, whose accounts were over 60 days past due, approximately 17,800 and 13,500 customers, respectively, whose accounts were over 90 days past due, and approximately 11,100 and 10,000 customers, respectively, whose accounts were over 120 days past due.
+(b)Customer relationships include the number of customers that receive one or more levels of service, encompassing Internet, video and voice services, without regard to which service(s) such customers receive. Customers who reside in residential multiple dwelling units (“MDUs”) and that are billed under bulk contracts are counted based on the number of billed units within each bulk MDU. Total customer relationships exclude enterprise and mobile-only customer relationships.
+(c)Monthly residential revenue per residential customer is calculated as total residential annual revenue divided by twelve divided by average residential customer relationships during the respective year and excludes mobile revenue and customers.
+(d)Monthly SMB revenue per SMB customer is calculated as total SMB annual revenue divided by twelve divided by average SMB customer relationships during the respective year and excludes mobile revenue and customers.
+(e)Enterprise PSUs represent the aggregate number of fiber service offerings counting each separate service offering at each customer location as an individual PSU.
+
+
+4
+
+Residential Services
+
+Internet Services
+
+Our Spectrum pricing and packaging (“SPP”) offers an entry level Internet download speed of at least 200 megabits per second (“Mbps”) in nearly 75% of our footprint and 100 Mbps across the remainder of our footprint, which among other things, allows several people within a single household to stream high definition (“HD”) video content while simultaneously using our Internet service for other purposes. Additionally, leveraging DOCSIS 3.1 technology, we offer Spectrum Internet Gig (940 Mbps) speed service in nearly all of our footprint. Finally, we offer a security suite with our Internet services which, upon installation by customers, provides protection against computer viruses and spyware and includes parental control features.
+
+We offer an in-home WiFi product that provides customers with high performance wireless routers and a managed WiFi service to maximize their in-home wireless Internet experience. During 2020, we continued to roll out our advanced in-home WiFi product and we plan to expand availability from over 65% of our footprint to substantially all by the end of 2021. With advanced in-home WiFi, customers enjoy an optimized WiFi connection and have the ability to view and control their WiFi network with the My Spectrum App allowing them to set schedules for specific devices. Advanced in-home WiFi is built on a software platform that will allow us to integrate and launch additional network based security and control features as well as enhanced speeds for our mobile customers within the home. In 2020, we also launched the option to add Spectrum WiFi Pods to our advanced in-home WiFi product. Spectrum WiFi pods are small, discreet and powerful pods that plug into electrical outlets in the home to deliver additional access points, resulting in more consistent coverage throughout the home.
+
+Video Services
+
+Our video customers receive a package of programming which generally includes a digital receiver that provides an interactive electronic programming guide with parental controls, access to pay-per-view services, including video on demand (“VOD”) (available to nearly all of our passings) and the ability to view certain video services on third-party devices inside and outside the home. Customers have the option to purchase additional tiers of services, including premium channels which provide original programming, commercial-free movies, sports, and other special event entertainment programming. Substantially all of our video programming is available in high definition. We also offer certain video packages containing a limited number of channels.
+
+In the vast majority of our footprint, we offer VOD service which allows customers to select from over 75,000 titles at any time. VOD programming options may be accessed at no additional cost if the content is associated with a customer’s linear subscription, or for a fee on a transactional basis. VOD services are also offered on a subscription basis included in a digital tier premium channel subscription or for a monthly fee. Pay-per-view channels allow customers to pay on a per-event basis to view a single showing of a one-time special sporting event, music concert, or similar event on a commercial-free basis.
+
+Our goal is to provide our video customers with the programming they want, when they want it, on any device. Digital video recorder (“DVR”) service enables customers to digitally record programming and to pause and rewind live programming.  Customers can also use our Spectrum TV application on Internet Protocol ("IP") devices to watch over 375 channels of cable TV in home and approximately 300 channels out of home and view VOD programming. Customers are increasingly accessing their subscription video content through connected IP devices via our IP network. Our cloud DVR service allows customers to schedule, record and watch their favorite programming anytime from connected IP devices as well as SpectrumTV.com. Our video customers also have access to programmer authenticated applications and websites (known as TV Everywhere services) such as Fox Now, Discovery Go and ESPN. We deploy Spectrum Guide®, our network or “cloud-based” user interface, to new video customers in the majority of our service areas. Spectrum Guide runs on traditional digital receivers but offers a look and feel similar to that of our IP-based Spectrum TV application. Spectrum Guide also provides access to third-party video applications such as Netflix.
+
+Voice Services
+
+We provide voice communications services using voice over Internet protocol ("VoIP") technology to transmit digital voice signals over our network. Our voice services include unlimited local and long distance calling to the United States, Canada, Mexico and Puerto Rico, voicemail, call waiting, caller ID, call forwarding and other features and offers international calling either by the minute, or through packages of minutes per month. For customers that subscribe to both our voice and video offerings, caller ID on TV is also available in most areas. In early 2021, we launched Call Guard, a new advanced caller ID and robocall blocking solution, for our residential and SMB voice customers. Call Guard reduces customer frustration and improves
+
+5
+
+security by blocking malicious calls while ensuring our customers continue to receive the legitimate automated calls they need from schools or healthcare providers.
+
+Mobile Services
+
+Our Spectrum Mobile service is offered to customers subscribing to our Internet service, and runs on Verizon’s mobile network, combined with Spectrum WiFi. In 2020, we launched nationwide 5G service at no incremental cost to our customers enabling them to stream content several times faster and reducing latency when connecting to apps or webpages where 5G coverage exists. In addition, we continue to focus on improving the customer experience and integrating our mobile and Internet products, providing improved WiFi speeds and performance using more than 500,000 of our out of home WiFi access points across our footprint. In addition, we refreshed our device portfolio with new devices including 5G models from Apple, Google and Samsung that include installment plan and trade-in options along with a bring-your-own-device (“BYOD”) program which lowers the costs for our customers switching to Spectrum Mobile from other mobile operators.
+
+Commercial Services
+
+We offer scalable broadband communications solutions for businesses and carrier organizations of all sizes, selling Internet access, data networking, fiber connectivity to cellular towers and office buildings, video entertainment services and business telephone services.
+ 
+Small and Medium Business
+
+Spectrum Business offers Internet, voice and video services to SMBs over our hybrid fiber coaxial network. In addition, we offer our Spectrum Mobile service to SMB customers. Spectrum Business includes a full range of video programming and entry-level Internet speeds of 200 Mbps downstream and 10 Mbps upstream in virtually all of our markets. Additionally, customers can upgrade their Internet speeds by purchasing Internet Ultra (600 Mbps downstream) or Internet Gig (940 Mbps downstream). Spectrum Business also includes a set of business services including static IP and business WiFi, e-mail and security, and multi-line telephone services with more than 35 business features including web-based service management, that are generally not available to residential customers. In 2020, we launched Wireless Internet Backup for our SMB customers throughout our footprint. Wireless Internet Backup is designed to enhance and protect Internet service for small- and medium-sized businesses in the event of a network disruption.
+ 
+Enterprise
+
+Spectrum Enterprise offers tailored communications products and managed service solutions to larger businesses, as well as high-capacity last-mile data connectivity services to mobile and wireline carriers on a wholesale basis.  The Spectrum Enterprise product portfolio includes Internet access (fiber, wireless and coax delivered); Wide Area Network ("WAN") Solutions including Ethernet; SD-WAN and cloud connectivity services that privately and securely connect geographically dispersed customer locations; and managed services which address a wide range of enterprise networking and security challenges. To meet the communications needs of these more sophisticated customers, Spectrum Enterprise also offers an array of voice trunking services and unified messaging/unified communications solutions. In addition, for industries such as hospitality, education and healthcare where specialized video solutions are demanded, Spectrum Enterprise offers a wide range of solutions designed to meet those requirements. Spectrum Enterprise serves businesses nationally by combining its large, serviceable footprint and robust portfolio of fiber lit buildings with a significant wholesale partner network. As a result, these customers benefit by obtaining advanced communications solutions from a single provider who is committed to an exceptional customer experience and who delivers compelling value by simplifying procurement and potentially reducing their costs.
+
+Advertising Services
+
+Our advertising sales division, Spectrum Reach, offers local, regional and national businesses the opportunity to advertise in individual and multiple service areas on cable television networks and advanced advertising platforms. We receive revenues from the sale of local advertising across various platforms for networks such as MTV, CNN and ESPN. In any particular service area, we typically insert local advertising on 40 to 85 channels. Our large footprint provides opportunities for advertising customers to address broader regional audiences from a single provider and thus reach more customers with a single transaction. Our size also provides scale to invest in new technology to create more targeted and addressable advertising capabilities.
+
+
+6
+
+Available advertising time is generally sold by our advertising sales force. In some service areas, we have formed advertising interconnects or entered into representation agreements with other video distributors, including, among others, Verizon, AT&T Inc. (“AT&T”) and Comcast Corporation, under which we sell advertising on behalf of those operators. In other service areas, we enter into representation agreements under which another operator in the area will sell advertising on our behalf. These arrangements enable us and our partners to deliver linear commercials across wider geographic areas, replicating the reach of local broadcast television stations to the extent possible. In addition, we enter into interconnect agreements from time to time with other cable operators, which, on behalf of a number of video operators, sells advertising time to national and regional advertisers in individual or multiple service areas.
+
+Additionally, we sell the advertising inventory of our owned and operated local sports and news channels, of our regional sports networks that carry Los Angeles Lakers’ basketball games and other sports programming and of SportsNet LA, a regional sports network that carries Los Angeles Dodgers’ baseball games and other sports programming.
+
+In 2020, we continued to expand our deployment of household addressability ("HHA"), which allows for more precise targeting within various parts of our footprint. This will be more widely deployed in 2021. Additionally in the next year, in conjunction with other MVPD’s, Spectrum Reach will enable affiliated cable networks to deploy HHA on their own inventory in our footprints, charging them an enablement fee. We also continued to develop our Ad Portal, which allows small businesses to purchase local cable advertising and/or creative services via our web portal with no sales personnel interaction at a price within their budgets. They join our fully deployed Audience App, which uses our proprietary digital receiver viewership data (all anonymized and aggregated) to optimize linear inventory, and Streaming TV, our expanded Ads Everywhere offering which includes inventory on over-the-top streaming content providers, in our suite of advanced advertising products available to the marketplace.
+
+Other Services
+
+Regional Sports and News Networks
+
+We have an agreement with the Los Angeles Lakers for rights to distribute all locally available Los Angeles Lakers’ games through 2033. We broadcast those games on our regional sports network, Spectrum SportsNet. American Media Productions, LLC ("American Media Productions"), an unaffiliated third party, owns SportsNet LA, a regional sports network carrying the Los Angeles Dodgers’ baseball games and other sports programming. In accordance with agreements with American Media Productions, we act as the network’s exclusive affiliate and advertising sales representative and have certain branding and programming rights with respect to the network. In addition, we provide certain production and technical services to American Media Productions. The affiliate, advertising, production and programming agreements continue through 2038. We also own 26.8% of Sterling Entertainment Enterprises, LLC (doing business as SportsNet New York), a New York City-based regional sports network that carries New York Mets’ baseball games as well as other regional sports programming.
+
+We manage 31 local news channels, including Spectrum News NY1® and LA1, 24-hour news channels focused on New York City and Los Angeles. Our local news channels provide 24/7 hyperlocal content, focusing on news, programming and storytelling that addresses the deeper needs and interests of the diverse communities and neighborhoods we serve. We also provide the Spectrum News app where customers can read, watch and listen to news stories by our Spectrum News journalists and local partner publications on their mobile device.
+
+Pricing of Our Products and Services
+
+Our revenues are principally derived from the monthly fees customers pay for the services we provide. We typically charge a one-time installation fee which is sometimes waived or discounted in certain sales channels during certain promotional periods.
+
+Our Spectrum pricing and packaging generally offers a standardized price for each tier of service, bundle of services, and add-on service in a service area. We believe SPP:
+
+•offers a higher quality and more value-based set of services relative to our competitors, including faster Internet speeds, more HD channels, lower equipment fees and a more transparent pricing structure;
+•offers simplicity for customers to understand our offers, and for our employees in service delivery;
+•drives our ability to package more services at the time of sale, thus increasing revenue per customer;
+•drives higher customer satisfaction, lower service calls and churn; and
+•allows for gradual price increases at the end of promotional periods.
+
+
+7
+
+We sell Internet and video packages with the option to add on voice and mobile services at attractive pricing. Our mobile customers can choose one of two simple ways to pay for data. Customers can choose from unlimited data plans or by-the-gig data usage plans and pricing includes all taxes and fees. All plans include free nationwide talk and text and customers can easily switch between mobile data plans during the month. Customers can also purchase mobile devices and accessory products and have the option to pay for devices under interest-free monthly installment plans.
+
+Our Network Technology
+
+Our network includes three key components: a national backbone, regional/metro networks and a “last-mile” network.  Both our national backbone and regional/metro network components utilize a redundant IP ring/mesh architecture.  The national backbone component provides connectivity from regional demarcation points to nationally centralized content, connectivity and services.  The regional/metro network components provide connectivity between the regional demarcation points and headends within a specific geographic area and enable the delivery of content and services between these network components.
+
+Our last-mile network utilizes a hybrid fiber coaxial cable (“HFC”) architecture, which combines the use of fiber optic cable with coaxial cable.  In most systems, we deliver our signals via fiber optic cable from the headend to a group of nodes, and use coaxial cable to deliver the signal from individual nodes to the homes served by that node. For our Spectrum Enterprise customers, fiber optic cable is extended from individual nodes to the customer’s site.  For certain new build and MDU sites, we increasingly bring fiber to the customer site. Our design standard allows spare fiber strands to each node to be utilized for additional residential traffic capacity, and enterprise customer needs as they arise. We believe that this hybrid network design provides high capacity and signal quality. 
+HFC architecture benefits include:
+
+•bandwidth capacity to enable traditional and two-way video and broadband services;
+•dedicated bandwidth for two-way services; and
+•signal quality and high service reliability.
+
+Our systems provide a two-way all-digital platform, leveraging DOCSIS 3.1 technology and bandwidth of 750 megahertz or greater, to approximately 100% of our estimated passings. This bandwidth-rich network enables us to offer a large selection of HD channels and Spectrum Internet Gig while providing greater plant security and enabling lower installation and disconnect service truck rolls. We believe as demand for data continues to grow, that with our deployed DOCSIS 3.1 technology, we have the ability to increase speeds and reliability by allocating more of our plant bandwidth to both upstream and downstream IP services in a variety of ways, including moving our video services to MPEG-4 compression, moving more HD video content to switched digital video and more efficiently packaging our non-IP service channels. We are also evaluating additional network upgrades that could be made on the increment giving us the ability to offer multi-gigabit downstream speeds and up to one gigabit upstream speeds all in advance of migrating towards the next standard, DOCSIS 4.0, in which we are currently investing with key vendors and industry participants.
+
+In 2020, we purchased 210 CBRS PALs and intend to use the licenses along with unlicensed CBRS spectrum to build our own 5G mobile network on targeted 5G small cell sites leveraging our HFC network providing power and data connectivity to the majority of the sites. These 5G small cells, combined with improving WiFi capabilities, increase speed and reliability along with improving our cost structure. During 2021, we will focus on scaling our systems to actively manage traffic on Spectrum Mobile devices using our MVNO, network through WiFi and future 5G mobile network. In addition, we plan on deploying some targeted 5G small cell sites which will help us learn how to pace our broader multi-year 5G mobile network build-out based on disciplined cost reduction targets.
+
+We also participated in phase I of the Rural Digital Opportunity Fund (“RDOF”) auction to further extend our broadband services in states where we currently operate. The purpose of Phase I of RDOF was to bring broadband to unserved areas. Approximately $9.2 billion was awarded nationwide in Phase I of RDOF through a reverse auction process of which we won a bidding process for $1.2 billion in December 2020. We expect to fund our multi-billion dollar fiber-based build-out over a six to eight-year period. This investment will allow us to generate long-term infrastructure-style returns by further taking advantage of the efficiencies of the scale and quality of our network and construction capabilities while offering our high quality products and services to more homes and businesses. We expect newly-served homes will be enabled to engage in distance learning, remote work, telemedicine and other bandwidth-heavy applications that require high speed broadband connectivity. Newly-served rural areas would also benefit from our high-value SPP structure including our voice and mobile offerings, as well as our comprehensive selection of video products. The successful and timely execution of such build-out is dependent on a variety of external factors, including the make-ready and utility pole permitting processes. With fewer homes
+
+8
+
+and businesses in these areas, broadband providers need to access multiple poles per home, as opposed to multiple homes per pole in higher-density settings. As a result, pole applications, pole replacement rules and their affiliated issue resolution processes are all factors that can have a significant impact on build-out timing and speed to completion. The RDOF auction rules establish construction milestones for the build-out utilizing RDOF funding. Failure to meet those milestones could subject the company to financial penalties.
+
+Management, Customer Operations and Marketing
+
+Our operations are centralized, with senior executives responsible for coordinating and overseeing operations, including establishing company-wide strategies, policies and procedures. Sales and marketing, network operations, field operations, customer operations, engineering, advertising sales, human resources, legal, government relations, information technology and finance are all directed at the corporate level. Regional and local field operations are responsible for customer premise service transactions and maintaining and constructing that portion of our network which is located outdoors. Our field operations strategy includes completing a significant portion of our activity with our employees which we find drives consistent and higher quality services. In 2020, our in-house field operations workforce handled approximately 80% of our customer premise service transactions.   
+
+We continue to focus on improving the customer experience through enhanced product offerings, reliability of services, and delivery of quality customer service. As part of our operating strategy, we insource most of our customer operations workload. Our in-house call centers handle over 90% of our total cable customer service calls. We manage our customer service call centers centrally to ensure a consistent, high quality customer experience. In addition, we route calls by call type to specific agents that only handle such call types, enabling agents to become experts in addressing specific customer needs, creating a better customer experience. Our call center agent desktop interface tool enables virtualization of all call centers thereby better serving our customers. Virtualization allows calls to be routed across our call centers regardless of the location origin of the call, reducing call wait times, and saving costs. We continue to migrate our call centers to full virtualization and expect all our call centers to be fully virtualized by 2022.
+
+We also provide customers with the opportunity to interact with us through a variety of forums in addition to telephonic communications, including through our customer website, mobile device applications, online chat and social media. Our customer websites and mobile applications enable customers to pay their bills, manage their accounts, order new services and utilize self-service help and support. In addition, our self-install program has enabled product installations to continue despite COVID-19 social distancing challenges.
+
+We sell our residential and commercial services using national brand platforms known as Spectrum, Spectrum Business, Spectrum Enterprise and Spectrum Reach. These brands reflect our comprehensive approach to industry-leading products, driven by speed, performance and innovation. Our marketing strategy emphasizes the sale of our bundled services through targeted direct response marketing programs to existing and potential customers, and increases awareness and the value of the Spectrum brand. Our marketing organization creates and executes marketing programs intended to grow customer relationships, increase the number of services we sell per relationship, retain existing customers and cross-sell additional products to current customers. We monitor the effectiveness of our marketing efforts, customer perception, competition, pricing, and service preferences, among other factors, in order to increase our responsiveness to our customers and to improve our sales and customer retention. The marketing organization manages all residential and SMB sales channels including inbound, direct sales, on-line, outbound telemarketing and stores.
+
+Programming
+
+We believe that offering a wide variety of video programming choices influences a customer’s decision to subscribe to and retain our cable video services. We obtain basic and premium programming, usually pursuant to written contracts from a number of suppliers. Media corporation and broadcast station group consolidation has, however, resulted in fewer suppliers and additional selling power on the part of programming suppliers. Although an insignificant amount of our programming budget, recently we have begun entering into agreements to co-produce or exclusively license original content which give us the right to provide our customers with certain exclusive content for a period of time.
+
+Programming is usually made available to us for a license fee, which is generally paid based on the number of customers to whom we make that programming available. Programming license fees may include “volume” discounts and financial incentives to support the launch of a channel and/or ongoing marketing support, as well as discounts for channel placement or service penetration. For home shopping channels, we typically receive a percentage of the revenue attributable to our
+
+9
+
+customers’ purchases. We also offer VOD and pay-per-view channels of movies and events that are subject to a revenue split with the content provider.
+
+Our programming costs have historically increased in excess of customary inflationary and cost-of-living type increases.  We expect programming costs per customer to increase due to a variety of factors including, annual increases pursuant to our programming contracts, contract renewals with programmers and the carriage of incremental programming, including new services and VOD programming. Increases in the cost of sports programming and the amounts paid for broadcast station retransmission consent have been the largest contributors to the growth in our programming costs over the last few years. Additionally, the demands of large media companies who link carriage of their most popular networks to carriage and cost increases of their less popular networks and who require us to carry their most popular networks to a large percentage of our video subscribers, have limited our flexibility in creating more tailored and cost-sensitive programming packages for consumers. 
+
+Federal law allows commercial television broadcast stations to make an election between “must-carry” rights and an alternative “retransmission-consent” regime. When a station opts for retransmission-consent, we are not allowed to carry the station’s signal without that station’s permission. Continuing demands by owners of broadcast stations for cash payments at substantial increases over amounts paid in prior years in exchange for retransmission consent will increase our programming costs or require us to cease carriage of popular programming, potentially leading to a loss of customers in affected service areas.
+
+Over the past several years, increases in our video service rates have not fully offset the increases in our programming costs, and with the impact of increasing competition and other marketplace factors, we do not expect the increases in our video service rates to fully offset the increase in our programming costs per customer for the foreseeable future. Although we pass along a portion of amounts paid for retransmission consent to the majority of our customers, our inability to fully pass programming cost increases on to our video customers has had, and is expected in the future to have, an adverse impact on our cash flow and operating margins associated with our video product. In order to mitigate reductions of our operating margins due to rapidly increasing programming costs, we continue to review our pricing and programming packaging strategies.
+
+Our programming contracts are generally for a fixed period of time, usually for multiple years, and are subject to negotiated renewal. The contracts set to expire in any particular year vary. We will seek to renew these agreements on terms that we believe are favorable. There can be no assurance, however, that these agreements will be renewed on favorable or comparable terms. To the extent that we are unable to reach agreements with certain programmers on terms that we believe are reasonable, we have been, and may in the future be, forced to remove such programming channels from our line-up, which may result in a loss of customers.
+
+Competition
+
+Residential Services
+
+We face intense competition for residential customers, both from existing competitors and, as a result of the rapid development of new technologies, services and products, from new entrants.
+
+Internet Competition
+
+Our residential Internet service faces competition across our footprint from fiber-to-the-home ("FTTH"), fiber-to-the-node ("FTTN"), fixed wireless broadband, Internet delivered via satellite and DSL services. AT&T, Frontier Communications Corporation (“Frontier”) fiber optic service (“FiOS" or "Fios") and Verizon’s Fios are our primary FTTH competitors. Given the FTTH deployments of our competitors, launches of broadband services offering 1 gigabit per second (“Gbps”) speed have recently grown. Several competitors, including AT&T, Frontier FiOS, Verizon's Fios, WideOpenWest, Inc. ("WOW") and Google Fiber, deliver 1 Gbps broadband speed in at least a portion of their footprints which overlap our footprint. In several markets, we also face competition from one or more fixed wireless providers which deliver point-to-point Internet connectivity, although generally in areas limited to residential MDUs. Additionally, several mobile network operators have introduced Long Term Evolution (“LTE”) or 5G delivered fixed wireless home Internet service in a limited number of our markets. DSL service is offered across our footprint often at prices lower than our Internet services, although typically at speeds much lower than the minimum speeds we offer as part of SPP. In addition, a growing number of commercial areas, such as retail malls, restaurants and airports, offer WiFi Internet service. Numerous local governments are also considering or actively pursuing publicly subsidized WiFi Internet access networks. These options offer alternatives to cable-based Internet access. We face broadband Internet (defined as at least 25 Mbps) competition from three primary competitors, AT&T, Frontier and Verizon in approximately 33%, 8% and 5% of our operating areas, respectively.
+
+10
+
+
+Video Competition
+
+Our residential video service faces competition from DBS service providers, which have a national footprint and compete in all of our operating areas. DBS providers offer satellite-delivered pre-packaged programming services that can be received by relatively small and inexpensive receiving dishes. DBS providers offer aggressive promotional pricing, exclusive programming (e.g., NFL Sunday Ticket) and video services that are comparable in many respects to our residential video service. Our residential video service also faces competition from large telecommunications companies, primarily Frontier FiOS and Verizon Fios, which offer wireline video services in significant portions of our operating areas.
+
+Our residential video service also faces growing competition across our footprint from a number of other sources, including companies that deliver linear network programming, movies and television shows on demand and other video content over broadband Internet connections to televisions, computers, tablets and mobile devices. These competitors include virtual multichannel video programming distributors (“V-MVPDs”) such as Hulu Live, YouTube TV, Sling TV, Philo and AT&T TV. Other online video business models and products have also developed, some offered by programmers that have not traditionally sold programming directly to consumers, including, (i) subscription video on demand (“SVOD”) services such as Netflix, Apple TV+, Amazon Prime, Hulu Plus, Disney+, HBO Max, Peacock, CBS All Access, Starz and Showtime Anytime, (ii) ad-supported free online video products, including YouTube and Pluto TV, some of which offer programming for free to consumers that we currently purchase for a fee, (iii) pay-per-view products, such as iTunes and Amazon Instant, and (iv) additional offerings from mobile providers which continue to integrate and bundle video services and mobile products. Historically, we have generally viewed SVOD online video services as complementary to our own video offering, and we have developed a cloud-based guide that is capable of incorporating video from online video services currently offered in the marketplace. As the proliferation of online video services grows, however, services from V-MVPDs and new direct to consumer offerings, as well as piracy and password sharing, negatively impact the number of customers purchasing our video product.
+
+Voice Competition
+
+Our residential voice service competes with wireless and wireline phone providers across our footprint, as well as other forms of communication, such as text messaging on cellular phones, instant messaging, social networking services, video conferencing and email. We also compete with “over-the-top” phone providers, such as Vonage, Skype, magicJack, Google Voice and Ooma, Inc., as well as companies that sell phone cards at a cost per minute for both national and international service. The increase in the number of different technologies capable of carrying voice services and the number of alternative communication options available to customers as well as the replacement of wireline services by wireless have intensified the competitive environment in which we operate our residential voice service.
+
+Mobile Competition
+
+Our mobile service faces competition from national mobile network operators including AT&T, Verizon and T-Mobile US, Inc. ("T-Mobile"), as well as a variety of regional operators and mobile virtual network operators. Most carriers offer unlimited data packages to customers. Various operators also offer wireless Internet services delivered over networks which they continue to enhance to deliver faster speeds. In April 2020, Sprint Corporation ("Sprint") and T-Mobile merged resulting in one of the nation’s largest mobile carriers, bringing increased competition with a stated intent of pursuing broad 5G network deployment and offering fixed wireless broadband service. AT&T, Verizon and T-Mobile continue to expand 5G mobile services. Additionally, in July 2020, in connection with Dish Network Corporation’s acquisition of Sprint’s prepaid mobile services businesses, the FCC and Department of Justice ("DOJ") have imposed a timeline on Dish Network Corporation (70% by June 2023) for 5G network development and expansion. We also compete for retail activations with other resellers that buy bulk wholesale service from wireless service providers for resale.
+
+Regional Competitors
+
+In some of our operating areas, other competitors have built networks that offer Internet, video and voice services that compete with our services. For example, in certain service areas, our residential Internet, video and voice services compete with Google Fiber, Cincinnati Bell Inc., Hawaiian Telcom (owned by Cincinnati Bell Inc.), RCN Telecom Services, LLC, Grande Communications Networks, LLC and WOW.
+
+
+11
+
+Additional Competition
+
+In addition to multi-channel video providers, cable systems compete with other sources of news, information and entertainment, including over-the-air television broadcast reception, live events, movie theaters and the Internet. Competition is also posed by fixed wireless and satellite master antenna television ("SMATV") systems serving MDUs, such as condominiums, apartment complexes, and private residential communities.
+
+Business Services
+
+We face intense competition across each of our business services product offerings. Our SMB Internet, video, networking and voice services face competition from a variety of providers as described above. Our enterprise solutions also face competition from the competitors described above as well as application-service providers and other telecommunications carriers, such as metro and regional fiber-based carriers.
+ 
+Advertising
+
+We face intense competition for advertising revenue across many different platforms and from a wide range of local and national competitors. Advertising competition has increased and will likely continue to increase as new advertising avenues seek to attract the same advertisers. We compete for advertising revenue against, among others, local broadcast stations, national cable and broadcast networks, radio stations, print media and online advertising companies and content providers.
+
+Seasonality and Cyclicality 
+
+Our business is subject to seasonal and cyclical variations. Our results are impacted by the seasonal nature of customers receiving our cable services in college and vacation service areas. Our revenue is subject to cyclical advertising patterns and changes in viewership levels. Our advertising revenue is generally higher in the second and fourth calendar quarters of each year, due in part to increases in consumer advertising in the spring and in the period leading up to and including the holiday season. U.S. advertising revenue is also cyclical, benefiting in even-numbered years from advertising related to candidates running for political office and issue-oriented advertising. Our capital expenditures and trade working capital are also subject to significant seasonality based on the timing of subscriber growth, network programs, specific projects and construction.
+
+Regulation and Legislation
+
+The following summary addresses the key regulatory and legislative developments affecting the cable industry and our services for both residential and commercial customers. Cable systems and related communications networks and services are extensively regulated by the federal government (primarily the FCC), certain state governments and many local governments. A failure to comply with these regulations could subject us to substantial penalties. Our business can be dramatically impacted by changes to the existing regulatory framework, whether triggered by legislative, administrative, or judicial rulings. Congress and the FCC have frequently revisited the subject of communications regulation and they are likely to do so again in the future. Changes in legislation, regulation and regulatory enforcement are expected to result from the recent political elections. We could be materially disadvantaged in the future if we are subject to new laws, regulations or regulatory actions that do not equally impact our key competitors. For example, Internet-delivered streaming video services compete with our traditional video service, but they are not subject to the same level of federal, state, and local regulation. We cannot provide assurance that the already extensive regulation of our business will not be expanded in the future. In addition, we are subject to Charter-specific conditions regarding certain business practices as a result of the FCC’s approval of the merger in 2016 with Time Warner Cable Inc. ("TWC") and acquisition of Bright House Networks, LLC ("Bright House").
+
+Video Service
+
+Must Carry/Retransmission Consent
+
+There are two alternative legal methods for carriage of local broadcast television stations on cable systems. Federal “must carry” regulations require cable systems to carry local broadcast television stations upon the request of the local broadcaster. Alternatively, federal law includes “retransmission consent” regulations, by which popular commercial television stations can prohibit cable carriage unless the cable operator first negotiates for “retransmission consent,” which may be conditioned on significant payments or other concessions. Popular stations invoking “retransmission consent” have been demanding
+
+12
+
+substantial compensation increases in their recent negotiations with cable operators, thereby significantly increasing our operating costs.
+
+Pole Attachments
+
+The Communications Act of 1934, as amended (the "Communications Act") requires most utilities owning utility poles to provide cable systems with access to poles and conduits and also subjects the rates charged for this access to either federal or state regulation.  The federally regulated rates now applicable to pole attachments used for cable, Internet, and telecommunications services are substantially similar. The FCC's approach does not directly affect the rate in states that self-regulate, but many of those states have substantially the same rate for all communications attachments.
+
+Cable Rate Regulation
+
+Pursuant to federal law, a cable system's video offerings are universally exempt from rate regulation, except for a cable system’s minimum level of video programming service, referred to as “basic service,” and associated equipment. FCC regulations require a local franchise authority interested in regulating rates for basic service and associated equipment to first make an affirmative showing that there is no “effective competition” (as defined under federal law) in the community. Given the competitive nature of our markets, the FCC recently rescinded certifications for the relatively few communities where we had been subject to rate regulation. It is possible that this rescission could be reversed, the competitive situation could change, and that some local franchising authorities may be certified to regulate rates in the future. In addition, the Television Viewer Consumer Protection Act of 2019 and other existing and potential laws and regulations may affect our marketing practices (including our disclosure and itemization of subscriber fees).
+
+Other FCC Regulatory Matters
+
+The Communications Act and FCC regulations cover a variety of additional areas applicable to our video services, including, among other things: (1) licensing of systems and facilities, including the grant of various spectrum licenses; (2) equal employment opportunity obligations; (3) customer service standards; (4) technical service standards; (5) mandatory blackouts of certain network and syndicated programming; (6) restrictions on political advertising; (7) restrictions on advertising in children’s programming; (8) ownership restrictions; (9) maintenance of public files; (10) emergency alert systems; (11) inside wiring and exclusive contracts for MDU complexes; (12) disability access, including requirements governing video-description and closed-captioning; (13) competitive availability of cable equipment; (14) the provision of up to 15% of video channel capacity for commercial leased access by unaffiliated third parties; and (15) public, education and government entity access requirements. Each of these regulations restricts our business practices to varying degrees and may impose additional costs on our operations.
+
+The FCC regulates spectrum usage in ways that could impact our operations. For example, the FCC has adopted a plan to reallocate certain spectrum for new wireless communications purposes, which could be disruptive to the satellite platform we rely upon to provide our video services. The FCC is also preparing to make additional spectrum available for commercial services, which we might acquire to deliver services in the future. Our ability to access and use such spectrum is uncertain and may be limited by further FCC auction or allocation decisions. New spectrum obtained by other parties could also lead to additional wireless competition to our existing and future services.
+
+It is possible that Congress or the FCC will expand or modify its regulation of cable systems and competing services in the future, and we cannot predict at this time how that might impact our business.
+
+Copyright
+
+Cable systems are subject to a federal compulsory copyright license covering carriage of television and radio broadcast signals. The copyright law provides copyright owners the right to audit our payments under the compulsory license, and the Copyright Office is currently considering modifications to the license’s royalty calculations and reporting obligations. The possible modification or elimination of this license is the subject of continuing legislative proposals and administrative review and could adversely affect our ability to obtain desired broadcast programming.
+
+Franchise Matters
+
+Our cable systems generally are operated pursuant to nonexclusive franchises, permits, and similar authorizations granted by a municipality or other state or local government entity in order to utilize and cross public rights-of-way.
+
+13
+
+
+Cable franchises generally are granted for fixed terms and in many cases include monetary penalties for noncompliance and may be terminable if the franchisee fails to comply with material provisions. The specific terms and conditions of cable franchises vary significantly between jurisdictions. They generally contain provisions governing cable operations, franchise fees, system construction, maintenance, technical performance, customer service standards, supporting and carrying public access channels, and changes in the ownership of the franchisee. Although local franchising authorities have considerable discretion in establishing franchise terms, certain federal protections benefit cable operators. For example, federal law imposes a 5% cap on franchise fees. In 2019, the FCC clarified that in-kind contribution requirements set forth in cable franchises are subject to the statutory cap on franchise fees, and it reaffirmed that state and local authorities are barred from imposing duplicative franchise and/or fee requirements on franchised cable systems providing non-cable services. An appeal of the FCC’s order is pending in federal court.
+
+A number of states have adopted franchising laws that provide for statewide franchising. Generally, state-wide cable franchises are issued for a fixed term, streamline many of the traditional local cable franchise requirements and eliminate local negotiation.
+
+The Communications Act provides for an orderly franchise renewal process in which granting authorities may not unreasonably deny renewals. If we fail to obtain renewals of franchises representing a significant number of our customers, it could have a material adverse effect on our consolidated financial condition, results of operations, or our liquidity. Similarly, if a franchising authority’s consent is required for the purchase or sale of a cable system, the franchising authority may attempt to impose more burdensome requirements as a condition for providing its consent.
+
+Internet Service
+
+The FCC originally classified broadband Internet access services, such as those we offer, as an “information service,” which exempted the service from traditional communications common carrier laws and regulations. In 2015, the FCC reclassified broadband Internet access services as “telecommunications service” and, on that basis, imposed a number of “net neutrality” rules governing the provision of broadband service. In 2017, the FCC reversed its 2015 decision and eliminated the 2015 rules, other than a transparency requirement, which obligates us to disclose performance statistics and other service information to consumers. It is possible that the FCC might again revise its approach to broadband Internet access, or that Congress might enact legislation affecting the rules applicable to the service. The application of new legal requirements to our Internet services could adversely affect our business.
+
+The 2017 FCC decision reclassifying Internet access services also ruled that state regulators may not impose obligations similar to federal network neutrality obligations that the FCC eliminated but this blanket prohibition was vacated by the U.S. Court of Appeals in 2019. The court left open the possibility that individual state laws could be deemed preempted on a case by case basis if it is shown that they conflict with federal law. Several states (including California) have adopted state obligations, and additional states may consider the imposition of new regulations on our Internet services, such as rules similar to the network neutrality requirements that were eliminated by the FCC. California’s legislation has been challenged in court, and we cannot predict how the challenge to California’s legislation or challenges to other state legislation will be resolved.
+
+In recent years, the FCC has demonstrated an interest in accelerating advancements in, and deployment of, wired and wireless broadband infrastructure, including advanced 5G wireless service. For example, the FCC and many states offer subsidies to companies deploying broadband to areas deemed to be “unserved” or “underserved,” including the recently concluded RDOF auction. We have sought subsidies for our own broadband construction in unserved areas, and we have opposed such subsidies when directed to areas that are already served. Government efforts to subsidize areas that we already serve create regulatory imbalances that could adversely affect our business.
+
+Aside from the FCC’s generally applicable regulations, we made certain commitments to comply with the FCC’s order in connection with the FCC’s approval of the merger with TWC and acquisition of Bright House.
+
+Wireline Voice Service
+
+The FCC has never classified the VoIP wireline telephone services we offer as “telecommunications services” that are subject to traditional federal common carrier regulation, but instead has imposed some of these requirements on a case-by-case basis, such as requirements relating to 911 emergency services (“E911”), Communications Assistance for Law Enforcement Act ("CALEA") (the statute governing law enforcement access to and surveillance of communications), Universal Service Fund contributions, customer privacy and Customer Proprietary Network Information protections, number portability, network outage reporting, rural call completion, disability access, regulatory fees, back-up power obligations, robocall mitigation and
+
+14
+
+discontinuance of service. It is possible that the FCC or Congress will impose additional requirements on our VoIP telephone services in the future.
+
+Our VoIP telephone services are also subject to certain state and local regulatory fees such as E911 fees and contributions to state universal service funds. Although we believe that VoIP telephone services should otherwise be governed only by federal regulation, some states have attempted to subject cable VoIP services to state level regulation, and at least one state has asserted jurisdiction over our VoIP services. We prevailed on a legal challenge to that state’s assertion of jurisdiction, which was affirmed by a federal appellate court, but that ruling is limited to the seven states in the 8th circuit. Although we have registered with, or obtained certificates or authorizations from the FCC and the state regulatory authorities in those states in which we offer competitive voice services in order to ensure the continuity of our services, it is unclear whether and how these and other ongoing regulatory matters ultimately will be resolved. State regulatory commissions and legislatures in other jurisdictions may continue to consider imposing regulatory requirements on our fixed telephone services.
+
+Mobile Service
+
+Our Spectrum Mobile service offers mobile Internet access and telephone service. We provide this service as an MVNO using Verizon’s network and our network through Spectrum WiFi. As an MVNO, we are subject to many of the same FCC regulations that apply to facilities-based wireless carriers, as well as certain state or local regulations, including (but not limited to): E911, local number portability, customer privacy, CALEA, universal service fund contribution, robocall mitigation and hearing aid compatibility and safety and emission requirements for mobile devices. Spectrum Mobile’s broadband Internet access service is also subject to the FCC’s transparency rule. The FCC or other regulatory authorities may adopt new or different regulations for MVNOs and/or mobile service providers in the future, or impose new taxes or fees applicable to Spectrum Mobile, which could adversely affect the service offering or our business generally.
+
+Privacy and Information Security Regulation
+
+The Communications Act limits our ability to collect, use, and disclose customers’ personally identifiable information for our Internet, video and voice services. We are subject to additional federal, state, and local laws and regulations that impose additional restrictions on the collection, use and disclosure of consumer information. All broadband providers are also obliged by CALEA to configure their networks in a manner that facilitates the ability of state and federal law enforcement, with proper legal process authorized under the Electronic Communications Privacy Act, to obtain records and information concerning our customers, including the content of their communications. Further, the FCC, Federal Trade Commission (“FTC”), and many states regulate and restrict the marketing practices of communications service providers, including telemarketing and sending unsolicited commercial emails. The FTC currently has the authority, pursuant to its general authority to enforce against unfair or deceptive acts and practices, to protect the privacy of Internet service customers, including our use and disclosure of certain customer information.
+
+Our operations are also subject to federal and state laws governing information security. In the event of an information security breach, such rules may require consumer and government agency notification and may result in regulatory enforcement actions with the potential of monetary forfeitures. The FCC, the FTC and state attorneys general regularly bring enforcement actions against companies related to information security breaches and privacy violations.
+
+Various security standards provide guidance to telecommunications companies in order to help identify and mitigate cybersecurity risks. One such standard is the voluntary framework released by the National Institute for Standards and Technology (“NIST”) in 2014 and updated in 2018, in cooperation with other federal agencies and owners and operators of U.S. critical infrastructure. The NIST cybersecurity framework provides a prioritized and flexible model for organizations to identify and manage cyber risks inherent to their business. It was designed to supplement, not supersede, existing cybersecurity regulations and requirements. Several government agencies have encouraged compliance with the NIST cybersecurity framework, including the FCC, which is also considering expansion of its cybersecurity guidelines or the adoption of cybersecurity requirements. We voluntarily follow NIST as part of our overall cybersecurity program.
+
+Many states and local authorities have considered legislative or other actions that would impose restrictions on our ability to collect, use and disclose, and safeguard certain consumer information, particularly with regard to our broadband Internet business. For example, the California Consumer Privacy Act ("CCPA") and Maine’s Act to Protect Privacy of Online Customer Information both became effective in 2020. The CCPA, under certain circumstances, regulates companies’ use and disclosure of the personal information of California residents and authorizes enforcement actions by the California Attorney General and private class actions for data breaches. In addition, effective January 1, 2023, the California Consumer Privacy Rights Act (“CPRA”), adopted by ballot initiative in 2020, will amend the CCPA to impose additional obligations on
+
+15
+
+companies that handle the personal information of California residents. The Maine law regulates how Internet service providers use and disclose customers’ personal information and requires Internet service providers to take reasonable measures to protect customers’ personal information. Several other state legislatures are considering the adoption of new data security and cybersecurity legislation that could result in additional network and information security requirements for our business. Congress may also adopt new privacy and data security obligations. We cannot predict whether any of these efforts will be successful or preempted, or how new legislation and regulations, if any, would affect our business.
+
+Commitments Related to the 2016 Merger with TWC and Acquisition of Bright House
+
+In connection with approval of the 2016 merger with TWC and acquisition of Bright House (the "Transactions"), federal and state regulators imposed a number of post-transaction conditions on us including but not limited to the following.
+
+FCC Conditions
+
+•Offer settlement-free Internet interconnection to any party that meets the requirements of our Interconnection Policy (available on Charter’s website) on terms generally consistent with the policy for seven years (with a possible reduction to five years from FCC approval in 2016). Pursuant to a judgment by the Federal Appeals Court for the D.C. Circuit, this condition became invalid in October 2020;
+•Deploy and offer high-speed broadband Internet access service to an additional two million locations over five years. We reported to the FCC in October 2020 that this condition had been satisfied;
+•Refrain from charging usage-based prices or imposing data caps on any fixed mass market broadband Internet access service plans for seven years;
+•Offer 30/4 Mbps discounted broadband where technically feasible to eligible customers throughout our service area for four years from the offer’s commencement. Pursuant to a judgment by the Federal Appeals Court for the D.C. Circuit, this condition became invalid in October 2020; and
+•Continue to provide CableCARDs to any new or existing customer upon request for use in third-party retail devices for four years and continue to support such CableCARDs for seven years (in each case, unless the FCC changes the relevant rules). The obligation to continue to provide CableCARDs expired in May 2020.
+
+The FCC conditions also contain a number of compliance reporting requirements.
+
+DOJ Conditions
+
+The DOJ Order prohibits us from entering into or enforcing any agreement with a video programmer that forbids, limits or creates incentives to limit the video programmer’s provision of content to online video distributors ("OVDs"). We will not be able to avail ourselves of other distributors’ most favored nation ("MFN") provisions if they are inconsistent with this prohibition. The DOJ’s conditions are effective for seven years after entry of the final judgment in 2016, although we may petition the DOJ to eliminate the conditions after five years. We do not currently expect to so petition.
+
+State Conditions
+
+Certain state regulators, including California, New York, Hawaii and New Jersey also imposed conditions in connection with the approval of the Transactions. These conditions include requirements related to:
+
+•Building out our network to certain households and business locations that are not currently served by cable within the designated states;
+•Offering LifeLine service discounts and low-income broadband to eligible households served within the applicable states;
+•Investing in service improvement programs and customer service enhancements and maintaining customer-facing jobs within the designated state; and
+•Complying with reporting requirements.
+
+We believe we have either completed or are on track to complete these state requirements.
+
+Human Capital Management
+
+Successful execution of our strategy is dependent on attracting, developing and retaining key employees and members of our management team. We believe the substantial skills, experience and industry knowledge of our employees and our training of our customer-facing employees benefit our operations and performance.
+
+16
+
+
+There are several ways in which we attract, develop, and retain highly qualified talent, including:
+
+•Training and investing in our employees to be masters of their craft. With competitive wages, robust healthcare benefits, a generous retirement program with company match, and opportunities for job training and advancement, our employees develop skills and expertise necessary to build careers. Our Broadband Technician Apprenticeship Program is one of our promising strategies for building our skilled workforce. This program, certified by the U.S. Department of Labor, is aligned with our broadband technician career progression and includes thousands of hours of on-the-job training along with classroom instruction. When enrolled employees complete the program, they are certified broadband technicians.
+
+The majority of our employees are customer-facing, interacting with thousands of people every day. In April 2020, we increased our minimum wage from $15 to $16.50 per hour and committed that in 2022 all hourly employees will have a minimum starting rate of $20 per hour. A $20 per hour minimum wage will enable us to build and retain our highly skilled workforce.
+
+•Driving a diverse and inclusive culture. We are committed to diversity and inclusion in every aspect of our business. As we strive to deliver high-quality products and services that exceed our customers’ expectations, we embrace the unique perspectives and experiences of our employees and partners and the communities we serve. Our diversity and inclusion efforts are guided by our Executive Steering Committee, External Diversity & Inclusion Council and Diversity & Inclusion team. Charter’s Board of Directors also reviews diversity and inclusion progress annually. We are striving to enhance diversity at every level of our organization, including among our senior leaders.
+
+In 2019, we launched five Business Resource Groups (“BRGs”) focused on disability, LGBTQ, multicultural, veterans and women. These voluntary groups connect employees with shared characteristics, life experiences, and interests, and enable them to engage in activities that advance our culture of inclusion and contribute to business success. BRGs empower our team members to grow and succeed by providing networking, mentorship and skill-building opportunities. We are also building momentum with our Charter Inclusion Talks (the "Talks"), which is an internal speaker series built around cultural heritage and identity. The Talks, which are held across our footprint, raise awareness of the many identities and heritages that contribute to our success.
+
+•Focusing on a safe and healthy workplace. We value our employees and are committed to providing a safe and healthy workplace. All employees are required to comply with company safety rules and expectations, and are expected to actively contribute to making our company a safer place to work. In response to COVID-19, as one of the Federal Emergency Management Agency's community lifeline sectors, we continue to maintain operations while employing the latest Center for Disease Control and Prevention ("CDC") guidelines to promote the health of our employees.
+
+Employees
+
+As of December 31, 2020, we had approximately 96,100 active full-time equivalent employees. 

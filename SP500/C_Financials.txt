@@ -1,0 +1,1869 @@
+OVERVIEW
+
+Citigroup’s history dates back to the founding of the City Bank of New York in 1812.
+Citigroup is a global diversified financial services holding company whose businesses provide consumers, corporations, governments and institutions with a broad, yet focused, range of financial products and services, including consumer banking and credit, corporate and investment banking, securities brokerage, trade and securities services and wealth management. Citi has approximately 200 million customer accounts and does business in more than 160 countries and jurisdictions.
+At December 31, 2020, Citi had approximately 210,000 full-time employees, compared to approximately 200,000 full-time employees at December 31, 2019. For additional information, see “Human Capital Resources and Management” below.
+Citigroup currently operates, for management reporting purposes, via two primary business segments: Global Consumer Banking (GCB) and Institutional Clients Group (ICG), with the remaining operations in Corporate/Other. For a further description of the business segments and the products and services they provide, see “Citigroup Segments” below, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and Note 3 to the Consolidated Financial Statements.
+Throughout this report, “Citigroup,” “Citi” and “the Company” refer to Citigroup Inc. and its consolidated subsidiaries.
+Additional information about Citigroup is available on Citi’s website at www.citigroup.com. Citigroup’s recent annual reports on Form 10-K, quarterly reports on Form 10-Q and proxy statements, as well as other filings with the U.S. Securities and Exchange Commission (SEC), are available free of charge through Citi’s website by clicking on the “Investors” tab and selecting “SEC Filings,” then “Citigroup Inc.” The SEC’s website also contains current reports on Form 8-K and other information regarding Citi at www.sec.gov.
+For a discussion of 2019 versus 2018 results of operations of GCB in North America, Latin America and Asia, ICG and Corporate/Other, see each respective business’s results of operations in Citi’s 2019 Annual Report on Form 10-K.
+Certain reclassifications have been made to the prior periods’ financial statements and disclosures to conform to the current period’s presentation.
+		
+
+Please see “COVID-19 Pandemic Overview” and
+“Risk Factors” below for a discussion of the trends, uncertainties and material risks that could impact Citigroup’s businesses, financial condition and results of operations.
+		
+
+4
+
+As described above, Citigroup is managed pursuant to two business segments: Global Consumer Banking and Institutional Clients Group, with the remaining operations in Corporate/Other.
+c-20201231_g1.jpg
+The following are the four regions in which Citigroup operates. The regional results are fully reflected in the segment results above.
+c-20201231_g2.jpg
+
+(1)    Latin America GCB consists of Citi’s consumer banking business in Mexico.
+(2)    Asia GCB includes the results of operations of GCB activities in certain EMEA countries for all periods presented.
+(3)    North America includes the U.S., Canada and Puerto Rico; Latin America includes Mexico and Asia includes Japan.
+
+5
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS
+
+EXECUTIVE SUMMARY
+As described further throughout this Executive Summary, during 2020, Citi demonstrated solid performance as well as financial strength and operational resilience, despite a significant deterioration in public health and economic conditions during the year due to the COVID-19 pandemic:
+
+•Citi’s earnings were substantially reduced by a higher allowance for credit loss (ACL) build (approximately $9.8 billion) during the year under the CECL standard (see “Cost of Credit” below).
+•Despite the challenging environment, Citi’s revenues were largely unchanged from the prior year, as strong performance in fixed income markets, equity markets, investment banking and the private bank in Institutional Clients Group (ICG) offset the impact of lower interest rates across the Company, as well as the impact of lower customer activity in Global Consumer Banking (GCB), reflecting declines across all regions, and lower revenues in Corporate/Other.
+•Citi’s expenses reflected continued investments in its transformation, including infrastructure supporting its risk and control environment, as well as a $400 million civil money penalty in the third quarter of 2020 in connection with a consent order Citibank entered into with the Office of the Comptroller of the Currency (OCC) (for additional information on this consent order and the Citigroup consent order with the Federal Reserve Board, see “Citi’s Consent Order Compliance” below).
+•Citi had broad-based deposit growth across ICG and GCB, reflecting strong client engagement, as well as an elevated level of liquidity in the financial system, while loans declined reflecting lower levels of consumer and corporate activity.
+•Citi returned $7.2 billion of capital to its common shareholders in the form of dividends and common share repurchases.
+•The Federal Reserve Board authorized Citi to take certain capital actions during the first quarter of 2021, which allows Citi to return capital to common shareholders of up to $2.8 billion, including the previously announced common dividends of $0.51 per share in the quarter. Citi commenced share repurchases in February 2021.
+•Citi continued to support its colleagues, customers, clients and communities as well as the broader economy during this challenging time (see “COVID-19 Pandemic Overview” below), while maintaining a strong balance sheet.
+
+The economic outlook for 2021 reflects continued challenges and uncertainties related to the pandemic, including, among others, the duration and severity of the public health crisis and associated economic impacts, which have created a more volatile operating environment that will continue to negatively impact Citi’s businesses and results.
+As a result of new information Citi received subsequent to December 31, 2020, Citi adjusted downward its fourth quarter
+of 2020 financial results from those previously reported on January 15, 2021 (and filed on a Form 8-K with the SEC on such date), due to a $390 million increase in operating expenses ($323 million after-tax) recorded within ICG, resulting from operational losses related to certain legal matters. For additional information on the impact to fourth quarter of 2020 financial results, see Note 30 to the Consolidated Financial Statements. Citi’s results of operations and financial condition for the full year 2020, as reported in this Annual Report on Form 10-K for the year ended December 31, 2020, reflect the impact of this adjustment.
+For a discussion of risks and uncertainties that will or could impact Citi’s businesses, results of operations and financial condition during 2021, see “COVID-19 Pandemic Overview,” “Risk Factors,” each respective business’s results of operations and “Managing Global Risk” below.
+
+2020 Results Summary
+
+Citigroup
+Citigroup reported net income of $11.0 billion, or $4.72 per share, compared to net income of $19.4 billion, or $8.04 per share, in the prior year. Net income declined 43%, driven by significantly higher credit costs and higher expenses, while revenues remained largely unchanged. Earnings per share decreased 41%, primarily driven by the decline in net income.
+Citigroup revenues of $74.3 billion were largely unchanged from the prior year, as higher revenues in ICG offset lower revenues in GCB and Corporate/Other.
+Citigroup’s end-of-period loans decreased 3% from the prior year to $676 billion. Excluding the impact of foreign currency translation into U.S. dollars for reporting purposes (FX translation), Citigroup’s end-of-period loans declined 4%, driven by a 4% aggregate decline in GCB and ICG, reflecting lower spend activity in GCB as well as a higher level of repayments in both GCB and ICG. Citigroup’s end-of-period deposits increased 20% to $1.3 trillion. Excluding the impact of FX translation, Citigroup’s end-of-period deposits increased 19%, primarily driven by 18% growth in GCB and 19% growth in ICG. (Citi’s results of operations excluding the impact of FX translation are non-GAAP financial measures. Citi believes the presentation of its results of operations and financial condition excluding the impact of FX translation provides a meaningful depiction of the underlying fundamentals of its businesses for investors, industry analysts and others.)
+
+Expenses
+Citigroup operating expenses of $43.2 billion increased 3% versus the prior year, primarily driven by investments in Citi’s transformation, including infrastructure supporting its risk and control environment, higher compensation, the civil money penalty, operational losses related to certain legal matters and pandemic-related expenses, partially offset by efficiency savings and reductions in marketing and other discretionary spending. Operating expenses in GCB declined 2%, while ICG
+6
+
+expenses increased 6% and Corporate/Other expenses increased 16%.
+
+Cost of Credit
+Citi’s total provisions for credit losses and for benefits and claims of $17.5 billion increased significantly from $8.4 billion in the prior year, reflecting ACL reserve increases across GCB, ICG and Corporate/Other. Citi’s ACL build of $9.8 billion was largely driven by builds during the first half of 2020. The reserve build in 2020 primarily reflected the impact of a deterioration in Citi’s macroeconomic outlook under the CECL standard and downgrades in the corporate loan portfolio, partially offset by lower loan volumes in GCB, all driven by the pandemic. The reserve build included an additional qualitative management adjustment to reflect the potential for a higher level of stress and a slower economic recovery. For further information on the drivers of Citi’s ACL build, see “Significant Accounting Policies and Significant Estimates—Allowance for Credit Losses” below. For information on the transition impact of the adoption of the CECL standard, see “COVID-19 Pandemic Overview” below.
+Net credit losses of $7.6 billion declined 2% from the prior year. Consumer net credit losses of $6.6 billion decreased 10%, primarily reflecting lower loan volumes given lower spending activity and higher payment rates, as well as the benefits of consumer relief programs (see “COVID-19 Pandemic Overview” below). Corporate net credit losses increased from $392 million to $1.0 billion, primarily driven by write-offs across various sectors, which were partially offset by the release of previously established ACL reserves.
+For additional information on Citi’s consumer and corporate credit costs and ACL, see each respective business’s results of operations and “Credit Risk” below.
+
+Capital
+Citigroup’s Common Equity Tier 1 Capital ratio was 11.7% as of December 31, 2020, based on the Basel III Advanced Approaches framework for determining risk-weighted assets, compared to 11.8% as of December 31, 2019, based on the Basel III Standardized Approach for determining risk-weighted assets. The decline in the ratio primarily reflected an increase in risk-weighted assets and the return of capital to common shareholders, partially offset by net income and beneficial net movements in Accumulated other comprehensive income (AOCI).
+Citigroup’s Supplementary Leverage ratio was 7.0% as of December 31, 2020, compared to 6.2% as of December 31, 2019. The increase was primarily driven by a decrease in Total Leverage Exposure, reflecting the benefit of temporary relief granted by the Federal Reserve Board. For additional information on Citi’s capital ratios and related components, see “Capital Resources” below.
+
+Global Consumer Banking
+GCB net income of $878 million declined 85% from the prior year. Excluding the impact of FX translation, net income declined 84%, reflecting lower revenues and higher cost of credit, partially offset by lower expenses. GCB operating expenses of $17.2 billion decreased 2%. Excluding the impact of FX translation, expenses decreased 1%, as lower volume-
+related expenses, reductions in marketing and other discretionary spending and efficiency savings were partially offset by increases in pandemic-related expenses and higher repositioning costs.
+GCB revenues of $30.0 billion decreased 9%. Excluding the impact of FX translation, revenues decreased 8%, as strong deposit growth and momentum in wealth management were more than offset by lower card volumes and lower interest rates across all regions, reflecting the impact of the pandemic.
+North America GCB revenues of $19.1 billion decreased 6%, with lower revenues across Citi-branded cards, Citi retail services and retail banking. Citi-branded cards revenues of $8.8 billion decreased 4%, reflecting lower purchase sales and higher payment rates driving lower average loans. Citi retail services revenues of $5.9 billion decreased 12%, reflecting lower average loans as well as higher partner payments. Retail banking revenues of $4.5 billion decreased 2%, as the benefit of stronger deposit volumes and an improvement in mortgage revenues were more than offset by lower deposit spreads.
+North America GCB average deposits of $176 billion increased 15% year-over-year, average retail banking loans of $52 billion increased 8% year-over-year and assets under management of $80 billion increased 11%. Average Citi-branded cards loans of $85 billion decreased 6% and Citi-branded cards purchase sales of $338 billion decreased 8%, while average Citi retail services loans of $47 billion decreased 7% and Citi retail services purchase sales of $78 billion decreased 11%. The decline in Citi-branded cards and
+retail services loans and purchase sales were all driven by
+reduced customer activity related to the pandemic. For additional information on the results of operations of North America GCB in 2020, see “Global Consumer Banking—North America GCB” below.
+International GCB revenues (consisting of Latin America GCB and Asia GCB (which includes the results of operations in certain EMEA countries)) of $10.8 billion declined 14% versus the prior year. Excluding the impact of FX translation, international GCB revenues declined 10%, largely reflecting the impact of the pandemic. On this basis, Latin America GCB revenues decreased 8%, driven by lower average loans and lower interest rates, partially offset by strong deposit growth. Asia GCB revenues decreased 11%, as lower card revenues and the impact of lower interest rates were partially offset by strong investment revenues and strong deposit growth. For additional information on the results of operations of Latin America GCB and Asia GCB in 2020, including the impact of FX translation, see “Global Consumer Banking—Latin America GCB” and “Global Consumer Banking—Asia GCB” below.
+Year-over-year, excluding the impact of FX translation, international GCB average deposits of $135 billion increased 11%, average retail banking loans of $72 billion increased 3% and assets under management of $141 billion increased 8%. On this basis, international GCB average card loans of $22 billion decreased 8% and card purchase sales of $88 billion decreased 16%, both driven by reduced customer activity related to the pandemic.
+
+
+7
+
+Institutional Clients Group
+ICG net income of $11.7 billion decreased 9%, as revenue growth was more than offset by higher cost of credit and higher expenses. ICG operating expenses increased 6% to $23.5 billion, largely driven by investments in infrastructure and risk management and controls, higher compensation costs, operational losses related to certain legal matters and volume-driven growth, partially offset by efficiency savings.
+ICG revenues of $44.3 billion increased 13%, reflecting a 29% increase in Markets and securities services revenues, partially offset by a 1% decline in Banking revenues. The decrease in Banking revenues included the impact of $51 million of losses on loan hedges related to corporate lending and the private bank, compared to losses of $432 million related to corporate lending in the prior year.
+Banking revenues of $21.2 billion (excluding the impact of losses on loan hedges) decreased 3%, as increases in investment banking and the private bank were more than offset by declines in treasury and trade solutions and corporate lending. Investment banking revenues of $5.8 billion increased 11%, reflecting solid growth in capital markets, particularly in equity underwriting. Advisory revenues decreased 20% to $1.0 billion, while equity underwriting revenues increased 64% to $1.6 billion and debt underwriting revenues increased 7% to $3.2 billion.
+Treasury and trade solutions revenues of $9.5 billion declined 7%, and 5% excluding the impact of FX translation, as strong client engagement and growth in deposits were more than offset by lower interest rates and reduced commercial card spend largely driven by the pandemic. Private bank revenues of $3.8 billion increased 9%. Excluding the impact of gains on loan hedges, private bank revenues of $3.7 billion, increased 8%, driven by increased capital markets activity and improved managed investments revenues, as well as higher lending and deposit volumes, partially offset by lower deposit spreads. Corporate lending revenues of $2.1 billion declined 15%. Excluding the impact of losses on loan hedges, corporate lending revenues of $2.2 billion declined 25%, as higher average loan volumes were more than offset by lower spreads, higher hedging costs and an adjustment to the residual value of a lease financing asset.
+Markets and securities services revenues of $23.1 billion increased 29%. Fixed income markets revenues of $17.3 billion increased 34%, reflecting strength in rates and currencies, spread products and commodities. Equity markets revenues of $3.6 billion increased 25%, as solid performance in cash equities and derivatives was partially offset by lower revenues in prime finance. Securities services revenues of $2.5 billion decreased 3%, and 1% excluding the impact of FX translation, as higher deposit volumes were more than offset by lower spreads. For additional information on the results of operations of ICG in 2020, see “Institutional Clients Group” below.
+
+Corporate/Other
+Corporate/Other net loss was $1.6 billion, compared to net income of $801 million in the prior year, reflecting lower revenues, increased expenses, higher cost of credit, driven by an ACL build on Citi’s residual legacy portfolio under the CECL standard, and lower tax benefits. Operating expenses of
+$2.5 billion increased significantly, as the wind-down of legacy assets was more than offset by investments in infrastructure, risk management and controls, the civil money penalty and incremental costs associated with the pandemic.
+Corporate/Other revenues of $54 million compared to $2.0 billion in the prior year, reflecting the impact of lower interest rates, episodic gains in the prior year, the wind-down of legacy assets and marks on securities. For additional information on the results of operations of Corporate/Other in 2020, see “Corporate/Other” below.
+
+CITI’S CONSENT ORDER COMPLIANCE
+As previously disclosed, Citi is embarking on a multiyear transformation, with the target outcome to change Citi’s business and operating models such that they simultaneously strengthen risk and controls and improve Citi’s value to customers, clients and shareholders.
+One part of the broader transformation effort involves Citi’s compliance with the Federal Reserve Board and OCC consent orders issued with Citigroup and Citibank, respectively, in October 2020. The consent orders require that Citigroup and Citibank submit acceptable plans to the Federal Reserve Board and the OCC, on various timelines, relating principally to various aspects of risk management, compliance, data quality management and governance, and internal controls. The consent order with the OCC also required Citibank to pay a $400 million civil money penalty. As a part of its compliance actions, Citi has centralized its program management under the leadership of a Chief Administrative Officer organization and is making the strengthening of its risk and control environment a further strategic priority for the Company. The Citigroup and Citibank Boards of Directors each formed a Transformation Oversight Committee, an ad hoc committee of each Board, to provide oversight of management’s remediation efforts under the consent orders.
+For additional information about the consent orders, see “Risk Factors—Compliance Risks” below and Citi’s Current Report on Form 8-K filed with the SEC on October 7, 2020.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8
+
+COVID-19 PANDEMIC OVERVIEW
+In addition to the widespread public health implications, the COVID-19 pandemic has had an extraordinary impact on macroeconomic conditions in the U.S. and around the world. As discussed below and elsewhere throughout this Form 10-K, Citi’s businesses, results of operations and financial condition have been impacted by economic dislocations and trends caused by the pandemic. Citi had builds to its allowance for credit losses (ACL) of approximately $9.8 billion during 2020, bringing its total ACL to approximately $27.8 billion at December 31, 2020, with an allowance for credit losses on loans (ACLL) reserve ratio of 3.73% on funded loans. For additional information, see “Impact of CECL on Citi’s Allowance for Credit Losses” below.
+Despite these impacts, Citi has maintained strong capital and liquidity positions with consistently strong business operations. At December 31, 2020, Citi had a Common Equity Tier 1 Capital ratio of 11.7%, a Supplementary Leverage ratio of 7.0% and a Liquidity Coverage ratio of 118%, each well above regulatory minimums, with approximately $972 billion of available liquidity resources (see “Capital Resources” and “Managing Global Risk—Liquidity Risk” below).
+Governments and central banks globally have taken a series of aggressive actions to support their economies and mitigate the systemic impacts of the pandemic, and Citi continues to proactively assess and utilize these measures where appropriate.
+
+Citi’s COVID-19 Pandemic Response—Supporting Colleagues, Customers and Communities
+The health and safety of Citi’s employees and their families, as well as Citi’s customers, clients and the communities it serves, are of the utmost importance. As the public health crisis has unfolded, Citi has continued to take proactive measures to support colleagues’ well-being while maintaining its ability to serve customers and clients.
+
+Citi Colleagues
+•The majority of Citi colleagues—roughly 80%—around the world are working remotely, however this varies by country.
+•Citi is pursuing a slow and measured return in locations where local guidelines permit, beginning with only a small number of colleagues.
+•Citi’s response teams continue to consult with health experts and follow local government guidelines in determining the safest return to office for each location.
+•Citi has reconfigured its sites and implemented new protocols to make work environments as safe as possible in offices, branches and ATMs.
+•Citi continues to provide additional health and well-being resources for colleagues, plus enhanced flexibility and paid time off for those impacted by COVID-19.
+•The company continues to monitor the situation as it evolves and will review and update operations as needed.
+
+Citi Communities
+In addition to its business activities, including the consumer relief programs discussed below, Citi is supporting those immediately impacted by the pandemic through philanthropic efforts around the world. Citi and the Citi Foundation have committed more than $100 million to date in support of COVID-19-related community relief and economic recovery efforts globally. These contributions include over $4 million raised through an employee donation matching program to further global relief efforts. Additionally, Citi has donated $50 million in proceeds from its participation in the U.S. Small Business Administration’s Paycheck Protection Program (PPP) to the Citi Foundation, which deployed those proceeds to support Community Development Financial Institutions (CDFIs) across the U.S.
+
+Citi Consumer Loan Relief Programs
+As previously disclosed, Citi was one of the first banks in the U.S. to announce temporary assistance measures for pandemic-impacted consumer customers. In addition, Citi has offered a wide array of short- and medium-term relief programs to customers across regions and products as a result of the pandemic. The relief has primarily been in the form of payment deferrals and fee waivers. These consumer relief programs have mainly been provided to GCB customers, with a small portion reported within Corporate/Other. To date, Citi has provided assistance to approximately three million U.S. consumers and small businesses impacted by the pandemic.
+In the fourth quarter of 2020, Citi experienced a decline in enrollment of approximately 21% quarter-over-quarter in its formal COVID-19 assistance programs. As a result of the significant and steady decline in enrollment, Citi ended the programs as of December 31, 2020 for the majority of countries and products. Continued COVID-19 assistance programs through Citi’s subservicer include extended mortgage payment deferrals through 2021 and suspended foreclosures into the first quarter of 2021 for U.S. mortgages. Citi remains committed to discussing assistance options with customers that continue to experience financial hardship on a case-by-case basis.
+The table below provides information on the number of loan modifications, the associated enrollment and outstanding balances as of December 31, 2020, for Citi’s pandemic-related relief programs, excluding troubled debt restructurings (for additional information, see “Troubled Debt Restructuring (TDR) Relief” below).
+9
+
+																										
+	
+For the Three Months Ended December 31, 2020
+	
+For the Twelve Months Ended December 31, 2020
+	
+As of December 31, 2020
+		Program details
+In millions of dollars,
+except number of loans modified	Number of loans modified	
+Enrollment balance(1)
+	Number of loans modified	
+Enrollment balance(2)
+	
+EOP balance(3)
+	
+% of total loan portfolio(4)
+	
+North America								
+Credit cards	270,655 		$	843 		2,626,225 		$	9,165 		$	708 		1 	%		Waivers on late fees and deferral of minimum payments for two to four payment cycles
+Residential first mortgages	1,022 		197 		9,279 		3,573 		1,256 		3 			Extending existing payment deferral options through 2021 and suspending foreclosures into the first quarter of 2021
+Home equity loans	264 		18 		5,230 		614 		254 		4 			Extending existing payment deferral options
+Personal, small business and other	1,178 		11 		22,247 		315 		7 		— 			Waivers on fees including non-Citi ATM fees and monthly service fees as well as minimum payment deferrals for up to six months
+Total North America
+	273,119 		$	1,069 		2,662,981 		$	13,667 		$	2,225 		1 	%		
+International								
+Asia								
+Credit cards	153,684 		$	366 		1,306,090 		$	2,520 		$	189 		1 	%		Payment deferrals for one to six months, interest and fee waivers, and reductions in minimum due payments; balance conversion programs
+Residential first mortgages	1,537 		119 		46,275 		3,812 		583 		2 			Payment deferrals for up to 12 months, interest and fee waivers, and reductions in minimum due payments
+Personal, small business and other	14,977 		85 		219,071 		1,740 		49 		— 			Payment deferrals for up to three months for revolving products and overdrafts or up to 12 months for installment loans, interest and fee waivers, and reductions in minimum due payments
+Latin America								
+Credit cards	— 		— 		641,038 		1,263 		— 		— 			Minimum payment deferrals for up to six months
+Residential first mortgages	— 		— 		26,251 		950 		— 		— 			Installment payment deferral for up to six months to be recovered as a balloon payment at the end of the loan
+Personal, small business and other	— 		— 		184,966 		1,711 		— 		— 			Installment payment deferral for up to six months, temporary interest rate reductions
+Total international	170,198 		$	570 		2,423,691 		$	11,996 		$	821 		1 	%		
+Total consumer	443,317 		$	1,639 		5,086,672 		$	25,663 		$	3,046 		1 	%		
+
+(1)    Enrollment balances represent the aggregate amounts enrolled during the fourth quarter of 2020.
+(2)    Enrollment balances represent the aggregate amounts enrolled during the 12 months ended December 31, 2020.
+(3)    Total outstanding balance on loans enrolled in consumer relief programs as of December 31, 2020. Reserves for these loans are calculated in accordance with the CECL standard.
+(4)    The percentage denominator is the total end-of-period loans balance for the respective product and region as of December 31, 2020.
+
+As set forth in the table above, during the fourth quarter of 2020, Citi modified approximately 0.4 million consumer loans, excluding TDRs, with associated enrollment balances of approximately $1.6 billion. For the year ended December 31, 2020, Citi modified 5.1 million consumer loans, excluding TDRs, with associated enrollment balances of approximately $25.7 billion. As of December 31, 2020, Citi had
+approximately $3.0 billion of loan balances outstanding under the consumer loan relief programs, representing approximately 1% of Citi’s total consumer loan balance.
+As of December 31, 2020, Citi had approximately $2.2 billion of loan balances outstanding under the consumer relief programs in North America.
+10
+
+Citi’s North America credit card programs had the largest number of loan modifications in 2020. As these credit card relief programs were introduced during the first half of 2020 and offered a deferral of minimum payments for two to four payment cycles, nearly all of the customers had rolled off the programs by year-end, of whom approximately 86% have continued to make payments.
+For customers enrolled in mortgage forbearance programs in North America, Citi’s subservicer offered payment deferrals and suspended foreclosures, and by the end of 2020, approximately 63% of mortgage customers had rolled off the program, of whom approximately 72% have continued to make payments. As of December 31, 2020, Citi had approximately $1.3 billion of mortgage loan balances outstanding under the programs.
+As of December 31, 2020, Citi had approximately $0.8 billion of loan balances outstanding under Asia consumer relief programs. In Asia, approximately 96% of customers had rolled off the consumer relief programs as of December 31, 2020, of whom approximately 83% have continued to make payments.
+As of December 31, 2020, Citi had no loan balances outstanding under the Latin America consumer relief programs, as all the customers had rolled off the programs, of whom approximately 78% have continued to make payments.
+
+Citi Corporate Loan Relief Programs
+Citi has modified the contractual terms of corporate loans to certain borrowers impacted by the pandemic, primarily commercial banking (small business) and private bank customers. These modifications consist primarily of deferrals in the payment of principal and/or interest that Citi has provided during 2020 in response to borrower requests, as well as those provided pursuant to government-mandated relief programs.
+The table below summarizes Citi’s outstanding active loan modifications, excluding TDRs as of December 31, 2020.
+
+											
+	December 31, 2020
+In millions of dollars	Total credit exposure	Funded	Unfunded
+Corporate loans	$	1,132 		$	1,074 		$	58 	
+Private bank loans	773 		762 		11 	
+Total corporate	$	1,905 		$	1,836 		$	69 	
+
+
+Citi’s Management of COVID-19 Pandemic Risks
+Citi has responded on multiple fronts to the challenges of the pandemic to support the ongoing needs of its customers and clients, while concurrently maintaining safety and soundness standards.
+Citi’s dedicated continuity of business and crisis management groups are managing Citi’s protocols in response to the pandemic. These protocols provide for the safety and well-being of Citi’s staff, while continuing to maintain high levels of client servicing across all of the markets in which Citi operates. These protocols address the prioritization of critical processing; ability of staff and third parties to support these processes from remote work locations; deployment of new hardware to support technology needs; and ongoing monitoring to assess controls and service levels. Planning for Citi’s return-to-office strategy is ongoing.
+Citi’s organizational response to the pandemic has been governed by Citi’s Executive Management Team, consisting of the Citigroup CEO and certain direct reports of the CEO, and driven through regional task forces that were deployed in Asia, EMEA, North America and Latin America. Led by regional CEOs and their management teams, these groups focused on, and continue to manage, the pandemic responses, implementation of continuity of business plans, locational and staffing strategies and responses to customer and client needs.
+Throughout the crisis, Citi has also worked closely with U.S. authorities and host governments on implementing immediate policy responses and financial assistance structures to mitigate the systemic impacts of the pandemic. Citi also continues to engage closely with customers and clients, regulators and other relevant stakeholders to assure alignment on all pandemic-related matters.
+
+
+
+11
+
+Citi’s Allowance for Credit Losses (ACL)
+The table below shows the impact of Citi’s adoption of the current expected credit loss (CECL) standard as of January 1, 2020 and the ACL builds (releases) during 2020. For information on the drivers of Citi’s ACL release in the fourth quarter, see “Significant Accounting Policies and Significant Estimates—Allowance for Credit Losses” below. For additional information on Citi’s accounting policy on accounting for credit losses under CECL, see Note 1 to the Consolidated Financial Statements.
+																																						
+ 	Allowance for credit losses (ACL)
+In millions of dollars	Balance Dec. 31, 2019	CECL transition impact	
+Collection costs change(1)
+	Balance Jan. 1, 2020	Build (release)	2020 FX/Other 	Balance Dec. 31, 2020	
+ACLL/EOP loans Dec. 31, 2020(2)
+1Q20	2Q20	3Q20	4Q20	2020
+Cards(1)
+	$	8,419 		$	4,456 		$	(407)		$	12,468 		$	2,412 		$	1,911 		$	55 		$	(79)		$	4,299 		$	38 		$	16,805 		10.98 	%
+All other GCB
+	1,200 		566 		(36)		1,730 		399 		388 		(21)		(114)		652 		37 		2,419 		
+Global Consumer Banking	$	9,619 		$	5,022 		$	(443)		$	14,198 		$	2,811 		$	2,299 		$	34 		$	(193)		$	4,951 		$	75 		$	19,224 		6.81 	%
+Institutional Clients Group	2,886 		(721)		— 		2,165 		1,316 		3,370 		106 		(1,620)		3,172 		65 		5,402 		1.42 	
+Corporate/Other	278 		(100)		— 		178 		191 		160 		(128)		(35)		188 		(36)		330 		
+Allowance for credit losses on loans (ACLL)	$	12,783 		$	4,201 		$	(443)		$	16,541 		$	4,318 		$	5,829 		$	12 		$	(1,848)		$	8,311 		$	104 		$	24,956 		3.73 	%
+Allowance for credit losses on unfunded lending commitments	1,456 		(194)		— 		1,262 		557 		113 		424 		352 		1,446 		(53)		2,655 		
+Other	— 		96 		— 		96 		2 		79 		(32)		(38)		11 		39 		146 		
+Total allowance for credit losses (ACL)	$	14,239 		$	4,103 		$	(443)		$	17,899 		$	4,877 		$	6,021 		$	404 		$	(1,534)		$	9,768 		$	90 		$	27,757 		
+
+(1)    See Note 1 to the Consolidated Financial Statements.
+(2)    As of December 31, 2020, in North America GCB, Citi-branded cards ACLL/EOP loans was 10.0% and Citi retail services ACLL/EOP loans was 13.6%.
+
+Certain Key Government Actions in Support of the Economy
+
+U.S. Government-Sponsored Liquidity Programs
+During the first quarter of 2020, the Federal Reserve Board (FRB) introduced several liquidity facilities in response to the funding market volatility caused by the pandemic. Citi has participated in several of the U.S. government-sponsored liquidity programs, including the Money Market Mutual Fund Liquidity Facility (MMLF), the Primary Dealer Credit Facility (PDCF) and Discount Window (DW) in order to facilitate client activity and support the FRB actions to provide additional liquidity into the market. Citi has also participated in the Paycheck Protection Program Lending Facility (PPPLF), which was established to facilitate lending under the Small Business Administration’s (SBA’s) Paycheck Protection Program (see “Small Business Administration’s Paycheck Protection Program” below). The amounts Citi sourced from these facilities were not significant to Citi’s overall liquidity profile during 2020, which remains strong and highly liquid.
+For additional information about Citi’s liquidity resources, see “Managing Global Risk—Liquidity Risk” below.
+
+U.S. Banking Agencies Regulatory Capital Relief
+In response to the pandemic, throughout 2020, the U.S. banking agencies issued several final rules and interim final rules revising the current regulatory capital standards, to provide banking organizations with additional flexibility to support consumers and businesses. Those rules applicable to Citi include:
+
+•Easing of capital distribution limits in the event of regulatory capital buffer breaches, which provides some flexibility to continue distributing capital under certain circumstances.
+•Modification of the CECL transition provision to defer the January 1, 2020 capital impact to January 1, 2022 and to provide additional capital relief for ongoing increases in credit reserves. Citi’s reported Common Equity Tier 1 Capital ratio at December 31, 2020, reflecting the modified CECL transition provision, was 39 basis points
+12
+
+higher than Citi’s Common Equity Tier 1 Capital ratio, reflecting the full impact of CECL on regulatory capital. Excluding the modified CECL transition provision, Citigroup’s Common Equity Tier 1 Capital ratio would have been 11.34%, compared with a 10.0% effective minimum requirement.
+•Temporary Supplementary Leverage ratio (SLR) relief for bank holding companies, commencing in the second quarter of 2020, allowing Citigroup to temporarily expand its balance sheet by excluding U.S. Treasury securities and deposits with the FRB from the SLR denominator. Citigroup’s reported Supplementary Leverage ratio of 7.00% benefited by 109 basis points during the fourth quarter of 2020 as a result of the temporary relief. Excluding the temporary relief, Citigroup’s Supplementary Leverage ratio would have been 5.91%, compared with a 5.0% effective minimum requirement.
+•Assigning a 0% risk weight to loans originated under the Paycheck Protection Program.
+
+For additional information about regulatory capital relief provided by the U.S. banking agencies, see “Capital Resources” below.
+
+Troubled Debt Restructuring (TDR) Relief
+Under U.S. GAAP, banks are required to assess modifications to a loan’s terms for potential classification as a TDR. A loan to a borrower experiencing financial difficulty is classified as a TDR when a lender grants a concession that it would otherwise not consider, such as a payment deferral or interest concession.
+In order to encourage banks to work with impacted borrowers, the Coronavirus Aid, Relief, and Economic Security Act (CARES Act) and U.S. banking agencies have provided relief from TDR accounting. The main benefits of TDR relief include a capital benefit in the form of reduced risk-weighted assets, as TDRs are more heavily risk-weighted for capital purposes; aging of the loans is frozen, i.e., they will continue to be reported in the same delinquency bucket they were in at the time of modification; and the loans are generally not reported as non-accrual during the modification period. The loans included in Citi’s pandemic-related consumer relief programs are included in Citi’s reserving process under the CECL standard.
+
+Small Business Administration’s Paycheck Protection Program
+The Paycheck Protection Program (PPP) authorizes the origination of forgivable loans for small businesses to pay their employees during the pandemic. Loan terms are the same for all businesses. During the first round of PPP, which was launched in April 2020, Citi funded over 30,000 loans totaling $3.8 billion as of December 31, 2020, with approximately $3.4 billion outstanding at December 31, 2020. The processing of loan forgiveness requests under PPP began during the third quarter of 2020 and Citi received approximately $314 million of funds from the SBA relating to forgiveness in the fourth quarter of 2020. Citi is currently participating in the relaunch of PPP and remains committed to supporting small businesses.
+Pandemic and Other Impacts
+In 2021, Citi expects overall revenues to decline from 2020, largely driven by normalization in the ICG markets businesses. In addition, GCB, ICG and Corporate/Other revenues will likely continue to be adversely impacted by the lower global interest rate environment, and GCB and ICG revenues will be affected by the challenges and uncertainties in the macroeconomic and market environment, including as a result of the continued severity and duration of the pandemic. Each GCB region is also expected to continue to experience the adverse impacts the pandemic has had on customer activity, while Latin America GCB is also likely to continue to experience an impact from macroeconomic weakness in Mexico.
+Citi also expects to incur higher expenses, as it continues to accelerate the transformation of its infrastructure, risk management and controls, including its efforts to improve the risk and control environment, as well as to comply with the consent orders (see “Citi’s Consent Order Compliance” above).
+Moreover, based on its existing portfolios as of December 31, 2020, Citi expects to experience higher net credit losses, which will vary by business and region and be dependent on future macroeconomic conditions. Citi believes that these losses are adequately reserved for under the CECL standard at December 31, 2020. Citi expects international consumer losses to peak during the first half of 2021, while in the U.S., losses could begin to rise in 2021 but peak afterward. If Citi’s fourth quarter of 2020 macroeconomic forecast assumptions are realized, Citi would not expect additional reserve builds on its existing portfolios (for additional information, see “Significant Accounting Policies and Significant Estimates” below); however, the overall level of reserves remains dependent on the evolving economic and public health environments relative to this forecast, as well as new lending volumes.
+For additional information about material risks to Citi from the pandemic and other macroeconomic challenges and uncertainties, see “Risk Factors” below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13
+
+RESULTS OF OPERATIONS
+SUMMARY OF SELECTED FINANCIAL DATA
+
+Citigroup Inc. and Consolidated Subsidiaries
+																	
+In millions of dollars, except per share amounts	2020	2019	2018	2017	2016
+Net interest revenue	$	43,548 		$	47,347 		$	46,562 		$	45,061 		$	45,476 	
+Non-interest revenue	30,750 		26,939 		26,292 		27,383 		25,321 	
+Revenues, net of interest expense	$	74,298 		$	74,286 		$	72,854 		$	72,444 		$	70,797 	
+Operating expenses	43,171 		42,002 		41,841 		42,232 		42,338 	
+Provisions for credit losses and for benefits and claims	17,495 		8,383 		7,568 		7,451 		6,982 	
+Income from continuing operations before income taxes	$	13,632 		$	23,901 		$	23,445 		$	22,761 		$	21,477 	
+Income taxes(1)
+	2,525 		4,430 		5,357 		29,388 		6,444 	
+Income (loss) from continuing operations	$	11,107 		$	19,471 		$	18,088 		$	(6,627)		$	15,033 	
+Income (loss) from discontinued operations, net of taxes	(20)		(4)		(8)		(111)		(58)	
+Net income (loss) before attribution of noncontrolling interests	$	11,087 		$	19,467 		$	18,080 		$	(6,738)		$	14,975 	
+Net income attributable to noncontrolling interests
+	40 		66 		35 		60 		63 	
+Citigroup’s net income (loss)(1)
+	$	11,047 		$	19,401 		$	18,045 		$	(6,798)		$	14,912 	
+Earnings per share					
+Basic					
+Income (loss) from continuing operations	$	4.75 		$	8.08 		$	6.69 		$	(2.94)		$	4.74 	
+Net income (loss)	4.74 		8.08 		6.69 		(2.98)		4.72 	
+Diluted 					
+Income (loss) from continuing operations	$	4.73 		$	8.04 		$	6.69 		$	(2.94)		$	4.74 	
+Net income (loss)
+	4.72 		8.04 		6.68 		(2.98)		4.72 	
+Dividends declared per common share 	2.04 		1.92 		1.54 		0.96 		0.42 	
+Common dividends	$	4,299 		$	4,403 		$	3,865 		$	2,595 		$	1,214 	
+Preferred dividends	1,095 		1,109 		1,174 		1,213 		1,077 	
+Common share repurchases	2,925 		17,875 		14,545 		14,538 		9,451 	
+
+Table continues on the next page, including footnotes.
+14
+
+SUMMARY OF SELECTED FINANCIAL DATA
+(Continued)
+Citigroup Inc. and Consolidated Subsidiaries
+																	
+In millions of dollars, except per share amounts, ratios and direct staff	2020	2019	2018	2017	2016
+At December 31:					
+Total assets	$	2,260,090 		$	1,951,158 		$	1,917,383 		$	1,842,465 		$	1,792,077 	
+Total deposits 	1,280,671 		1,070,590 		1,013,170 		959,822 		929,406 	
+Long-term debt	271,686 		248,760 		231,999 		236,709 		206,178 	
+Citigroup common stockholders’ equity(1)
+	179,962 		175,262 		177,760 		181,487 		205,867 	
+Total Citigroup stockholders’ equity(1)
+	199,442 		193,242 		196,220 		200,740 		225,120 	
+Average assets	2,226,256 		1,978,805 		1,920,242 		1,875,438 		1,808,728 	
+Direct staff (in thousands)
+	210 		200 		204 		209 		219 	
+Performance metrics					
+Return on average assets	0.50 	%	0.98 	%	0.94 	%	(0.36)	%	0.82 	%
+Return on average common stockholders’ equity(1)(2)
+	5.7 		10.3 		9.4 		(3.9)		6.6 	
+Return on average total stockholders’ equity(1)(2)
+	5.7 		9.9 		9.1 		(3.0)		6.5 	
+Return on tangible common equity (RoTCE)(1)(3)
+	6.6 		12.1 		11.0 		8.1 		7.6 	
+Efficiency ratio (total operating expenses/total revenues, net)	58.1 		56.5 		57.4 		58.3 		59.8 	
+Basel III ratios(1)(4)
+					
+Common Equity Tier 1 Capital(5)
+	11.73 	%	11.79 	%	11.86 	%	12.36 	%	12.57 	%
+Tier 1 Capital(5)
+	13.31 		13.33 		13.43 		14.06 		14.24 	
+Total Capital(5)
+	15.61 		15.87 		16.14 		16.30 		16.24 	
+Supplementary Leverage ratio	7.00 		6.20 		6.40 		6.68 		7.22 	
+Citigroup common stockholders’ equity to assets(1)
+	7.96 	%	8.98 	%	9.27 	%	9.85 	%	11.49 	%
+Total Citigroup stockholders’ equity to assets(1)
+	8.82 		9.90 		10.23 		10.90 		12.56 	
+Dividend payout ratio(6)
+	43 		24 		23 		NM	9 	
+Total payout ratio(7)
+	73 		122 		109 		NM	77 	
+Book value per common share(1)
+	$	86.43 		$	82.90 		$	75.05 		$	70.62 		$	74.26 	
+Tangible book value (TBV) per share(1)(3)
+	73.67 		70.39 		63.79 		60.16 		64.57 	
+(1)    2017 includes the one-time impact related to enactment of the Tax Cuts and Jobs Act (Tax Reform). 2020, 2019 and 2018 reflect the tax rate structure post Tax Reform. RoTCE for 2017 excludes the one-time impact from Tax Reform and is a non-GAAP financial measure. For additional information, see “Significant Accounting Policies and Significant Estimates—Income Taxes” below.
+(2)    The return on average common stockholders’ equity is calculated using net income less preferred stock dividends divided by average common stockholders’ equity. The return on average total Citigroup stockholders’ equity is calculated using net income divided by average Citigroup stockholders’ equity.
+(3)    RoTCE and TBV are non-GAAP financial measures. For information on RoTCE and TBV, see “Capital Resources—Tangible Common Equity, Book Value Per Share, Tangible Book Value Per Share and Returns on Equity” below.
+(4)    Citi’s risk-based capital and leverage ratios for 2017 and 2016 are non-GAAP financial measures, which reflect full implementation of regulatory capital adjustments and deductions prior to the effective date of January 1, 2018.
+(5)    Citi’s reportable Common Equity Tier 1 Capital, Tier 1 Capital and Total Capital as of December 31, 2020 were derived under the Basel III Advanced Approaches frameworks, whereas Citi’s reportable Common Equity Tier 1 Capital and Tier 1 Capital ratios were the lower derived under the Basel III Standardized Approach and the reportable Total Capital ratio was the lower derived under the Basel III Advanced Approaches framework as of December 31, 2019 and 2018.
+(6)    Dividends declared per common share as a percentage of net income per diluted share.
+(7)    Total common dividends declared plus common share repurchases as a percentage of net income available to common shareholders (Net income, less preferred dividends). See “Consolidated Statement of Changes in Stockholders’ Equity,” Note 10 to the Consolidated Financial Statements and “Equity Security Repurchases” below for the component details.
+NM    Not meaningful
+
+
+15
+
+SEGMENT AND BUSINESS—INCOME (LOSS) AND REVENUES
+CITIGROUP INCOME
+																	
+In millions of dollars	2020	2019	2018	% Change
+2020 vs. 2019	% Change
+2019 vs. 2018
+Income (loss) from continuing operations					
+Global Consumer Banking					
+  North America	$	59 		$	3,224 		$	3,087 		(98)	%	4 	%
+  Latin America	277 		901 		802 		(69)		12 	
+  Asia(1)
+	538 		1,577 		1,420 		(66)		11 	
+Total	$	874 		$	5,702 		$	5,309 		(85)	%	7 	%
+Institutional Clients Group					
+  North America	$	3,461 		$	3,511 		$	3,675 		(1)	%	(4)	%
+  EMEA	3,327 		3,867 		3,889 		(14)		(1)	
+  Latin America	1,406 		2,111 		2,013 		(33)		5 	
+  Asia	3,604 		3,455 		2,997 		4 		15 	
+Total	$	11,798 		$	12,944 		$	12,574 		(9)	%	3 	%
+Corporate/Other	(1,565)		825 		205 		NM	NM
+Income from continuing operations	$	11,107 		$	19,471 		$	18,088 		(43)	%	8 	%
+Discontinued operations	$	(20)		$	(4)		$	(8)		NM	50 	%
+Less: Net income attributable to noncontrolling interests	40 		66 		35 		(39)	%	89 	
+Citigroup’s net income	$	11,047 		$	19,401 		$	18,045 		(43)	%	8 	%
+
+(1)    Asia GCB includes the results of operations of GCB activities in certain EMEA countries.
+NM Not meaningful
+
+CITIGROUP REVENUES
+																	
+In millions of dollars	2020	2019	2018	% Change
+2020 vs. 2019	% Change
+2019 vs. 2018
+Global Consumer Banking					
+  North America	$	19,148 		$	20,398 		$	19,829 		(6)	%	3 	%
+  Latin America	4,372 		5,238 		5,309 		(17)		(1)	
+  Asia(1)
+	6,471 		7,335 		7,201 		(12)		2 	
+Total	$	29,991 		$	32,971 		$	32,339 		(9)	%	2 	%
+Institutional Clients Group					
+  North America	$	17,185 		$	13,459 		$	13,522 		28 	%	— 	%
+  EMEA	12,814 		12,006 		11,770 		7 		2 	
+  Latin America	4,838 		5,166 		4,954 		(6)		4 	
+  Asia	9,416 		8,670 		8,079 		9 		7 	
+Total	$	44,253 		$	39,301 		$	38,325 		13 	%	3 	%
+Corporate/Other	54 		2,014 		2,190 		(97)		(8)	
+Total Citigroup net revenues	$	74,298 		$	74,286 		$	72,854 		— 	%	2 	%
+(1)    Asia GCB includes the results of operations of GCB activities in certain EMEA countries.
+
+
+16
+
+SEGMENT BALANCE SHEET(1)—DECEMBER 31, 2020
+																	
+In millions of dollars	Global
+Consumer
+Banking	Institutional
+Clients
+Group	
+Corporate/Other
+and
+consolidating
+eliminations(2)
+	
+Citigroup
+parent
+company-
+issued
+long-term
+debt and
+stockholders’
+equity(3)
+	Total
+Citigroup
+consolidated
+Assets	 	 	 	 	 
+Cash and deposits with banks, net of allowance	$	7,445 		$	89,503 		$	212,667 		$	— 		$	309,615 	
+Securities borrowed and purchased under agreements to resell, net of allowance	201 		294,258 		253 		— 		294,712 	
+Trading account assets	1,948 		360,131 		13,000 		— 		375,079 	
+Investments, net of allowance	1,310 		136,105 		309,944 		— 		447,359 	
+Loans, net of unearned income and allowance for credit losses on loans 	262,876 		381,598 		6,453 		— 		650,927 	
+Other assets, net of allowance	39,716 		99,348 		43,334 		— 		182,398 	
+Net inter-segment liquid assets(4)
+	120,077 		368,902 		(488,979)		— 		— 	
+Total assets	$	433,573 		$	1,729,845 		$	96,672 		$	— 		$	2,260,090 	
+Liabilities and equity	 	 	 	 	
+Total deposits	$	344,500 		$	924,300 		$	11,871 		$	— 		$	1,280,671 	
+Securities loaned and sold under agreements to repurchase	685 		198,828 		12 		— 		199,525 	
+Trading account liabilities	1,322 		165,500 		1,205 		— 		168,027 	
+Short-term borrowings	— 		25,507 		4,007 		— 		29,514 	
+Long-term debt(3)
+	1,268 		74,799 		25,056 		170,563 		271,686 	
+Other liabilities, net of allowance	21,422 		74,573 		14,472 		— 		110,467 	
+Net inter-segment funding (lending)(3)
+	64,376 		266,338 		39,291 		(370,005)		— 	
+Total liabilities	$	433,573 		$	1,729,845 		$	95,914 		$	(199,442)		$	2,059,890 	
+Total stockholders’ equity(5)
+	— 		— 		758 		199,442 		200,200 	
+Total liabilities and equity	$	433,573 		$	1,729,845 		$	96,672 		$	— 		$	2,260,090 	
+
+(1)The supplemental information presented in the table above reflects Citigroup’s consolidated GAAP balance sheet by reporting segment. The respective segment information depicts the assets and liabilities managed by each segment.
+(2)Consolidating eliminations for total Citigroup and Citigroup parent company assets and liabilities are recorded within Corporate/Other.
+(3)Total stockholders’ equity and the majority of long-term debt of Citigroup are reflected on the Citigroup parent company balance sheet. Citigroup allocates stockholders’ equity and long-term debt to its businesses through inter-segment allocations as shown above.
+(4)Represents the attribution of Citigroup’s liquid assets (primarily consisting of cash, marketable equity securities and available-for-sale debt securities) to the various businesses based on Liquidity Coverage Ratio (LCR) assumptions.
+(5)Corporate/Other equity represents noncontrolling interests.
+
+17
+
+GLOBAL CONSUMER BANKING
+Global Consumer Banking (GCB) consists of consumer banking businesses in North America, Latin America (consisting of Citi’s consumer banking business in Mexico) and Asia. GCB provides traditional banking services to retail customers through retail banking, Citi-branded cards and, in the U.S., Citi retail services (for additional information on these businesses, see “Citigroup Segments” above). GCB is focused on its priority markets in the U.S., Mexico and Asia, with 2,303 branches in 19 countries and jurisdictions as of December 31, 2020. At December 31, 2020, GCB had $434 billion in assets and $344.5 billion in retail banking deposits.
+GCB’s strategy is to leverage its global footprint and digital capabilities to develop multi-product relationships with customers—both in and out of Citi’s branch footprint. To achieve this, GCB strives to optimize its clients’ experiences across lending, payments and wealth management through continued digitization, new partnerships and innovation.
+																	
+In millions of dollars, except as otherwise noted	2020	2019	2018	% Change
+2020 vs. 2019	% Change
+2019 vs. 2018
+Net interest revenue	$	26,200 		$	28,205 		$	27,374 		(7)	%	3 	%
+Non-interest revenue	3,791 		4,766 		4,965 		(20)		(4)	
+Total revenues, net of interest expense	$	29,991 		$	32,971 		$	32,339 		(9)	%	2 	%
+Total operating expenses	$	17,203 		$	17,628 		$	17,786 		(2)	%	(1)	%
+Net credit losses on loans	$	6,646 		$	7,382 		$	6,884 		(10)	%	7 	%
+Credit reserve build for loans	4,951 		439 		568 		NM	(23)	
+Provision for credit losses on unfunded lending commitments	— 		1 		— 		(100)		100 	
+Provisions for benefits and claims, HTM debt securities and other assets	105 		73 		103 		44 		(29)	
+Provisions for credit losses and for benefits and claims (PBC)	$	11,702 		$	7,895 		$	7,555 		48 	%	5 	%
+Income from continuing operations before taxes	$	1,086 		$	7,448 		$	6,998 		(85)	%	6 	%
+Income taxes	212 		1,746 		1,689 		(88)		3 	
+Income from continuing operations	$	874 		$	5,702 		$	5,309 		(85)	%	7 	%
+Noncontrolling interests	(4)		6 		7 		NM	(14)	
+Net income	$	878 		$	5,696 		$	5,302 		(85)	%	7 	%
+Balance Sheet data and ratios
+					
+EOP assets (in billions of dollars)
+	$	434 		$	407 		$	388 		7 	%	5 	%
+Average assets (in billions of dollars)
+	426 		389 		378 		10 		3 	
+Return on average assets	0.21 	%	1.46 	%	1.40 	%		
+Efficiency ratio	57 		53 		55 			
+Average retail banking deposits (in billions of dollars)
+	$	311 		$	277 		$	269 		12 		3 	
+Net credit losses as a percentage of average loans	2.39 	%	2.60 	%	2.48 	%		
+Revenue by business					
+Retail banking	$	11,734 		$	12,549 		$	12,627 		(6)	%	(1)	%
+Cards(1)
+	18,257 		20,422 		19,712 		(11)		4 	
+Total	$	29,991 		$	32,971 		$	32,339 		(9)	%	2 	%
+Income from continuing operations by business					
+Retail banking	$	744 		$	1,842 		$	1,851 		(60)	%	— 	%
+Cards(1)
+	130 		3,860 		3,458 		(97)		12 	
+Total	$	874 		$	5,702 		$	5,309 		(85)	%	7 	%
+Table continues on the next page, including footnotes.
+18
+
+																	
+Foreign currency (FX) translation impact					
+Total revenue—as reported	$	29,991 		$	32,971 		$	32,339 		(9)	%	2 	%
+Impact of FX translation(2)
+	— 		(509)		(664)			
+Total revenues—ex-FX(3)
+	$	29,991 		$	32,462 		$	31,675 		(8)	%	2 	%
+Total operating expenses—as reported	$	17,203 		$	17,628 		$	17,786 		(2)	%	(1)	%
+Impact of FX translation(2)
+	— 		(276)		(371)			
+Total operating expenses—ex-FX(3)
+	$	17,203 		$	17,352 		$	17,415 		(1)	%	— 	%
+Total provisions for credit losses and PBC—as reported	$	11,702 		$	7,895 		$	7,555 		48 	%	5 	%
+Impact of FX translation(2)
+	— 		(124)		(161)			
+Total provisions for credit losses and PBC—ex-FX(3)
+	$	11,702 		$	7,771 		$	7,394 		51 	%	5 	%
+Net income—as reported	$	878 		$	5,696 		$	5,302 		(85)	%	7 	%
+Impact of FX translation(2)
+	— 		(74)		(90)			
+Net income—ex-FX(3)
+	$	878 		$	5,622 		$	5,212 		(84)	%	8 	%
+(1)Includes both Citi-branded cards and Citi retail services.
+(2)Reflects the impact of FX translation into U.S. dollars at the 2020 average exchange rates for all periods presented.
+(3)Presentation of this metric excluding FX translation is a non-GAAP financial measure.
+NM Not meaningful
+
+
+
+
+19
+
+NORTH AMERICA GCB
+North America GCB provides traditional retail banking and Citi-branded and Citi retail services card products to retail and small business customers in the U.S. North America GCB’s U.S. cards product portfolio includes its proprietary portfolio (including the Citi Double Cash, Thank You and Value cards) and co-branded cards (including, among others, American Airlines and Costco) within Citi-branded cards, as well as its co-brand and private label relationships (including, among others, Sears, The Home Depot, Best Buy and Macy’s) within Citi retail services.
+At December 31, 2020, North America GCB had 687 retail bank branches concentrated in the six key metropolitan areas of New York, Chicago, Miami, Washington, D.C., Los Angeles and San Francisco. Also as of December 31, 2020, North America GCB had $52.7 billion in retail banking loans and $194.8 billion in retail banking deposits. In addition, North America GCB had $130.4 billion in outstanding card loan balances.
+																	
+In millions of dollars, except as otherwise noted	2020	2019	2018	% Change
+2020 vs. 2019	% Change
+2019 vs. 2018
+Net interest revenue	$	18,802 		$	19,869 		$	19,006 		(5)	%	5 	%
+Non-interest revenue(1)
+	346 		529 		823 		(35)		(36)	
+Total revenues, net of interest expense	$	19,148 		$	20,398 		$	19,829 		(6)	%	3 	%
+Total operating expenses	$	9,942 		$	10,154 		$	10,230 		(2)	%	(1)	%
+Net credit losses on loans	$	4,990 		$	5,583 		$	5,085 		(11)	%	10 	%
+Credit reserve build for loans	4,115 		469 		460 		NM	2 	
+Provision for credit losses on unfunded lending commitments	— 		1 		— 		(100)		100 	
+Provisions for benefits and claims, HTM debt securities and other assets	17 		19 		22 		(11)		(14)	
+Provisions for credit losses and for benefits and claims	$	9,122 		$	6,072 		$	5,567 		50 	%	9 	%
+Income from continuing operations before taxes	$	84 		$	4,172 		$	4,032 		(98)	%	3 	%
+Income taxes	25 		948 		945 		(97)		— 	
+Income from continuing operations	$	59 		$	3,224 		$	3,087 		(98)	%	4 	%
+Noncontrolling interests	— 		— 		— 		— 		— 	
+Net income	$	59 		$	3,224 		$	3,087 		(98)	%	4 	%
+Balance Sheet data and ratios
+		 	 		
+Average assets (in billions of dollars)
+	$	266 		$	232 		$	227 		15 	%	2 	%
+Return on average assets	0.02 	%	1.39 	%	1.36 	%		
+Efficiency ratio	52 		50 		52 			
+Average retail banking deposits (in billions of dollars)
+	$	176 		$	153 		$	148 		15 		3 	
+Net credit losses as a percentage of average loans	2.72 	%	2.97 	%	2.78 	%		
+Revenue by business		 	 		
+Retail banking	$	4,457 		$	4,529 		$	4,600 		(2)	%	(2)	%
+Citi-branded cards	8,758 		9,165 		8,628 		(4)		6 	
+Citi retail services	5,933 		6,704 		6,601 		(12)		2 	
+Total	$	19,148 		$	20,398 		$	19,829 		(6)	%	3 	%
+Income (loss) from continuing operations by business		 	 		
+Retail banking	$	(144)		$	196 		$	312 		NM	(37)	%
+Citi-branded cards	21 		1,742 		1,581 		(99)	%	10 	
+Citi retail services	182 		1,286 		1,194 		(86)		8 	
+Total	$	59 		$	3,224 		$	3,087 		(98)	%	4 	%
+
+(1)2018 includes an approximate $150 million gain on the Hilton portfolio sale.
+NM Not meaningful
+
+20
+
+2020 vs. 2019
+Net income decreased 98%, as significantly higher cost of credit and lower revenues were partially offset by lower expenses.
+Revenues decreased 6%, reflecting lower revenues in Citi retail services, Citi-branded cards and retail banking, primarily due to the pandemic, including lower interest rates.
+Retail banking revenues decreased 2%, as the benefit of stronger deposit volumes and an improvement in mortgage revenues were more than offset by lower deposit spreads, reflecting lower interest rates.
+Average deposits increased 15%, driven by a combination of factors, including government stimulus payments, a reduction in overall consumer spending related to the pandemic and strategic efforts to drive organic growth, including digital deposits which drove more than one-third of the year-over-year growth.
+Cards revenues decreased 7%. Citi-branded cards revenues decreased 4%, reflecting lower purchase sales and higher payment rates driving lower average loans. Average loans decreased 6% and purchase sales decreased 8%, both reflecting the impact of the pandemic on customer activity.
+Citi retail services revenues decreased 12%, primarily reflecting lower average loans and higher contractual partner payments. (For additional information on partner payments, see Note 5 to the Consolidated Financial Statements.) Average loans were down 7% and purchase sales declined 11%, both reflecting the impact of the pandemic on customer activity.
+Expenses decreased 2%, as lower volume-related expenses, reductions in marketing and other discretionary expenses, as well as efficiency savings, more than offset higher pandemic-related expenses.
+Provisions of $9.1 billion increased 50% from the prior year, driven by a higher allowance for credit losses (ACL) build, partially offset by lower net credit losses. Net credit losses decreased 11%, primarily driven by lower net credit losses in Citi retail services (down 16% to $2.2 billion) and Citi-branded cards (down 5% to $2.7 billion), primarily reflecting lower loan volumes as well as higher payment rates given high levels of liquidity, lower spending and the benefits of relief programs.
+The ACL build of $4.1 billion (compared to a build of
+$470 million in the prior year under prior accounting
+standards) was driven by builds during the first half of 2020. The builds reflected the impact of a deterioration in Citi’s macroeconomic outlook under the CECL standard, including an increase in the qualitative management adjustment to reflect the potential for a higher level of stress and a slower economic recovery, partially offset by lower loan volumes, both primarily driven by the pandemic. For additional information on Citi’s ACL, see “Significant Accounting Policies and Significant Estimates” below and Notes 1 and 15 to the Consolidated Financial Statements.
+
+For additional information on North America GCB’s retail banking, and its Citi-branded cards and Citi retail services portfolios, see “Credit Risk—Consumer Credit” below.
+For additional information about trends, uncertainties and risks related to North America GCB’s future results, see “COVID-19 Pandemic Overview” above and “Risk Factors” below.
+
+
+21
+
+LATIN AMERICA GCB
+Latin America GCB provides traditional retail banking and Citi-branded card products to retail and small business customers in Mexico through Citibanamex, one of Mexico’s largest banks.
+At December 31, 2020, Latin America GCB had 1,392 retail branches in Mexico, with $9.8 billion in retail banking loans and $25.8 billion in deposits. In addition, the business had $4.8 billion in outstanding card loan balances.
+																	
+In millions of dollars, except as otherwise noted	2020	2019	2018	% Change
+2020 vs. 2019	% Change
+2019 vs. 2018
+Net interest revenue	$	3,078 		$	3,639 		$	3,681 		(15)	%	(1)	%
+Non-interest revenue(1)
+	1,294 		1,599 		1,628 		(19)		(2)	
+Total revenues, net of interest expense	$	4,372 		$	5,238 		$	5,309 		(17)	%	(1)	%
+Total operating expenses	$	2,730 		$	2,883 		$	2,900 		(5)	%	(1)	%
+Net credit losses on loans	$	866 		$	1,109 		$	1,131 		(22)	%	(2)	%
+Credit reserve build (release) for loans	316 		(38)		84 		NM	NM
+Provision for credit losses on unfunded lending commitments	— 		— 		— 		— 		— 	
+Provisions for benefits and claims, HTM debt securities and other assets	87 		54 		81 		61 		(33)	
+Provisions for credit losses and for benefits and claims (PBC)	$	1,269 		$	1,125 		$	1,296 		13 	%	(13)	%
+Income from continuing operations before taxes	$	373 		$	1,230 		$	1,113 		(70)	%	11 	%
+Income taxes	96 		329 		311 		(71)		6 	
+Income from continuing operations	$	277 		$	901 		$	802 		(69)	%	12 	%
+Noncontrolling interests	— 		— 		— 		— 		— 	
+Net income	$	277 		$	901 		$	802 		(69)	%	12 	%
+Balance Sheet data and ratios
+		 	 		
+Average assets (in billions of dollars)
+	$	32 		$	35 		$	33 		(9)	%	6 	%
+Return on average assets	0.87 	%	2.57 	%	2.43 	%		
+Efficiency ratio	62 		55 		55 			
+Average deposits (in billions of dollars)
+	$	23 		$	23 		$	23 		— 		— 	
+Net credit losses as a percentage of average loans	5.97 	%	6.45 	%	6.50 	%		
+Revenue by business					
+Retail banking	$	3,009 		$	3,585 		$	3,744 		(16)	%	(4)	%
+Citi-branded cards	1,363 		1,653 		1,565 		(18)		6 	
+Total	$	4,372 		$	5,238 		$	5,309 		(17)	%	(1)	%
+Income from continuing operations by business		 	 		
+Retail banking	$	153 		$	600 		$	596 		(75)	%	1 	%
+Citi-branded cards	124 		301 		206 		(59)		46 	
+Total	$	277 		$	901 		$	802 		(69)	%	12 	%
+FX translation impact		 	 		
+Total revenues—as reported(1)
+	$	4,372 		$	5,238 		$	5,309 		(17)	%	(1)	%
+Impact of FX translation(2)
+	— 		(473)		(511)			
+Total revenues—ex-FX(3)
+	$	4,372 		$	4,765 		$	4,798 		(8)	%	(1)	%
+Total operating expenses—as reported	$	2,730 		$	2,883 		$	2,900 		(5)	%	(1)	%
+Impact of FX translation(2)
+	— 		(246)		(253)			
+Total operating expenses—ex-FX(3)
+	$	2,730 		$	2,637 		$	2,647 		4 	%	— 	%
+Provisions for credit losses and PBC—as reported	$	1,269 		$	1,125 		$	1,296 		13 	%	(13)	%
+Impact of FX translation(2)
+	— 		(115)		(136)			
+Provisions for credit losses and PBC—ex-FX(3)
+	$	1,269 		$	1,010 		$	1,160 		26 	%	(13)	%
+Net income—as reported	$	277 		$	901 		$	802 		(69)	%	12 	%
+Impact of FX translation(2)
+	— 		(78)		(87)			
+Net income—ex-FX(3)
+	$	277 		$	823 		$	715 		(66)	%	15 	%
+(1)2018 includes an approximate $250 million gain on the sale of an asset management business. See Note 2 to the Consolidated Financial Statements.
+(2)Reflects the impact of FX translation into U.S. dollars at the 2020 average exchange rates for all periods presented.
+(3)Presentation of this metric excluding FX translation is a non-GAAP financial measure.
+NM Not meaningful
+
+
+22
+
+The discussion of the results of operations for Latin America GCB below excludes the impact of FX translation for all periods presented. Presentations of the results of operations, excluding the impact of FX translation, are non-GAAP financial measures. For a reconciliation of certain of these metrics to the reported results, see the table above.
+
+2020 vs. 2019
+Net income decreased 66%, reflecting lower revenues, higher cost of credit and higher expenses.
+Revenues decreased 8%, reflecting lower retail banking and cards revenues, largely due to the pandemic, including lower interest rates. Revenues also decreased due to the ongoing slowdown in overall economic growth and industry volumes in Mexico.
+Retail banking revenues decreased 8%, driven by a decline in loan volumes and lower deposit spreads, partially offset by deposit growth and an increase in assets under management. Average deposits were up 10%, while average loans decreased 5%, reflecting the impact of the pandemic on customer activity, as well as the ongoing economic slowdown. Assets under management increased 12%, including the benefit of market movements.
+Cards revenues decreased 10%, primarily driven by lower purchase sales (down 17%) and lower average loans (down 8%), reflecting the impact of the pandemic on customer activity and the ongoing economic slowdown.
+Expenses increased 4%, as efficiency savings were more than offset by repositioning costs, pandemic-related expenses, and ongoing investment spending.
+Provisions of $1.3 billion increased 26% from the prior year, driven by a higher allowance for credit losses (ACL) build, partially offset by lower net credit losses. Net credit losses decreased 14%, primarily driven by lower average loans and the impact of consumer relief programs.
+The ACL build of $316 million (compared to a net reserve release of $35 million in the prior year under prior accounting standards) was driven by builds during the first half of 2020. The builds reflected the impact of a deterioration in Citi’s macroeconomic outlook under the CECL standard, including an increase in the qualitative management adjustment to reflect the potential for a higher level of stress and a slower economic recovery, partially offset by lower loan volumes, both primarily driven by the pandemic. For additional information on Citi’s ACL, see “Significant Accounting Policies and Significant Estimates” below and Notes 1 and 15 to the Consolidated Financial Statements.
+For additional information on Latin America GCB’s retail banking and its Citi-branded cards portfolios, see “Credit Risk—Consumer Credit” below.
+For additional information about trends, uncertainties and risks related to Latin America GCB’s future results, see “COVID-19 Pandemic Overview” above and “Risk Factors” below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+23
+
+ASIA GCB
+Asia GCB provides traditional retail banking and Citi-branded card products to retail and small business customers. During 2020, Asia GCB’s most significant revenues in Asia were from Hong Kong, Singapore, South Korea, Taiwan, India, Australia, Thailand, the Philippines, China and Indonesia. Included within Asia GCB, traditional retail banking and Citi-branded card products are also provided to retail customers in certain EMEA countries, primarily the United Arab Emirates, Poland and Russia.
+At December 31, 2020, on a combined basis, the businesses had 224 retail branches, $66.5 billion in retail banking loans and $123.9 billion in deposits. In addition, the businesses had $17.9 billion in outstanding card loan balances.
+																	
+In millions of dollars, except as otherwise noted(1)
+	2020	2019	2018	% Change
+2020 vs. 2019	% Change
+2019 vs. 2018
+Net interest revenue	$	4,320 		$	4,697 		$	4,687 		(8)	%	— 	%
+Non-interest revenue	2,151 		2,638 		2,514 		(18)		5 	
+Total revenues, net of interest expense	$	6,471 		$	7,335 		$	7,201 		(12)	%	2 	%
+Total operating expenses	$	4,531 		$	4,591 		$	4,656 		(1)	%	(1)	%
+Net credit losses on loans	$	790 		$	690 		$	668 		14 	%	3 	%
+Credit reserve build for loans	520 		8 		24 		NM	(67)	
+Provision for HTM debt securities and other assets	1 		— 		— 		100 		— 	
+Provisions for credit losses	$	1,311 		$	698 		$	692 		88 	%	1 	%
+Income from continuing operations before taxes	$	629 		$	2,046 		$	1,853 		(69)	%	10 	%
+Income taxes	91 		469 		433 		(81)		8 	
+Income from continuing operations	$	538 		$	1,577 		$	1,420 		(66)	%	11 	%
+Noncontrolling interests	(4)		6 		7 		NM	(14)	
+Net income	$	542 		$	1,571 		$	1,413 		(65)	%	11 	%
+Balance Sheet data and ratios
+		 	 		
+Average assets (in billions of dollars)
+	$	129 		$	122 		$	119 		6 	%	3 	%
+Return on average assets	0.42 	%	1.29 	%	1.19 	%		
+Efficiency ratio	70 		63 		65 			
+Average deposits (in billions of dollars)
+	$	113 		$	101 		$	98 		12 		3 	
+Net credit losses as a percentage of average loans	0.99 	%	0.88 	%	0.86 	%		
+Revenue by business					
+Retail banking	$	4,268 		$	4,435 		$	4,283 		(4)	%	4 	%
+Citi-branded cards	2,203 		2,900 		2,918 		(24)		(1)	
+Total	$	6,471 		$	7,335 		$	7,201 		(12)	%	2 	%
+Income (loss) from continuing operations by business					
+Retail banking	$	735 		$	1,046 		$	943 		(30)	%	11 	%
+Citi-branded cards	(197)		531 		477 		NM	11 	
+Total	$	538 		$	1,577 		$	1,420 		(66)	%	11 	%
+FX translation impact					
+Total revenues—as reported	$	6,471 		$	7,335 		$	7,201 		(12)	%	2 	%
+Impact of FX translation(2)
+	— 		(36)		(153)			
+Total revenues—ex-FX(3)
+	$	6,471 		$	7,299 		$	7,048 		(11)	%	4 	%
+Total operating expenses—as reported	$	4,531 		$	4,591 		$	4,656 		(1)	%	(1)	%
+Impact of FX translation(2)
+	— 		(30)		(118)			
+Total operating expenses—ex-FX(3)
+	$	4,531 		$	4,561 		$	4,538 		(1)	%	1 	%
+Provisions for credit losses—as reported	$	1,311 		$	698 		$	692 		88 	%	1 	%
+Impact of FX translation(2)
+	— 		(9)		(25)			
+Provisions for credit losses—ex-FX(3)
+	$	1,311 		$	689 		$	667 		90 	%	3 	%
+Net income—as reported	$	542 		$	1,571 		$	1,413 		(65)	%	11 	%
+Impact of FX translation(2)
+	— 		4 		(3)			
+Net income—ex-FX(3)
+	$	542 		$	1,575 		$	1,410 		(66)	%	12 	%
+
+(1)    Asia GCB includes the results of operations of GCB activities in certain EMEA countries for all periods presented.
+24
+
+(2)    Reflects the impact of FX translation into U.S. dollars at the 2020 average exchange rates for all periods presented.
+(3)    Presentation of this metric excluding FX translation is a non-GAAP financial measure.
+NM Not meaningful
+
+The discussion of the results of operations for Asia GCB below excludes the impact of FX translation for all periods presented. Presentations of the results of operations, excluding the impact of FX translation, are non-GAAP financial measures. For a reconciliation of certain of these metrics to the reported results, see the table above.
+
+2020 vs. 2019
+Net income decreased 66%, as lower revenues and significantly higher cost of credit were partially offset by lower expenses.
+Revenues decreased 11%, reflecting lower cards and retail banking revenues, largely due to the pandemic, including lower interest rates.
+Retail banking revenues decreased 3%, as growth in deposits and higher fees on investments and foreign currency transactions due to higher volumes and volatility were more than offset by lower deposit spreads and lower insurance revenues. Average deposits increased 11% and average loans increased 5%. Assets under management increased 5% and investment sales increased 43%. Retail lending revenues increased 4%, largely reflecting growth in mortgages and personal loans, partially offset by spread compression in personal loans.
+Cards revenues decreased 24%, primarily driven by lower purchase sales (down 16%) and lower average loans (down 8%), reflecting the impact of the pandemic on customer activity, including from lower travel spend in the region given Citi’s skew to an affluent client base and a greater proportion of fee revenues coming from travel-related interchange and foreign transaction fees.
+Expenses decreased 1%, as lower discretionary expenses and volume-related costs, as well as efficiency savings, were partially offset by ongoing investment spending.
+Provisions of $1.3 billion increased 90%, driven by a higher allowance for credit losses (ACL) build as well as higher net credit losses. Net credit losses increased 16%, as pandemic lockdowns and the deterioration in the macro-environment impacted credit performance.
+The ACL build of $520 million (compared to a build of $7 million in the prior year under prior accounting standards) was driven by builds during the first three quarters of 2020. The builds reflected the impact of a deterioration in Citi’s macroeconomic outlook under the CECL standard, including an increase in the qualitative management adjustment to reflect the potential for a higher level of stress and a slower economic recovery, partially offset by lower loan volumes, both primarily driven by the pandemic. For additional information on Citi’s ACL, see “Significant Accounting Policies and Significant Estimates” below and Notes 1 and 15 to the Consolidated Financial Statements.
+For additional information on Asia GCB’s retail banking portfolios and its Citi-branded cards portfolios, see “Credit Risk—Consumer Credit” below.
+For additional information about trends, uncertainties and risks related to Asia GCB’s future results, see “COVID-19 Pandemic Overview” above and “Risk Factors” below.
+
+
+
+
+
+
+25
+
+INSTITUTIONAL CLIENTS GROUP
+Institutional Clients Group (ICG) includes Banking and Markets and securities services (for additional information on these businesses, see “Citigroup Segments” above). ICG provides corporate, institutional, public sector and high-net-worth clients around the world with a full range of wholesale banking products and services, including fixed income and equity sales and trading, foreign exchange, prime brokerage, derivative services, equity and fixed income research, corporate lending, investment banking and advisory services, private banking, cash management, trade finance and securities services. ICG transacts with clients in both cash instruments and derivatives, including fixed income, foreign currency, equity and commodity products.
+ICG revenue is generated primarily from fees and spreads associated with these activities. ICG earns fee income for assisting clients with transactional services and clearing and providing brokerage and investment banking services and other such activities. Such fees are recognized at the point in time when Citigroup’s performance under the terms of a contractual arrangement is completed, which is typically at the trade/execution date or closing of a transaction. Revenue generated from these activities is recorded in Commissions and fees and Investment banking. Revenue is also generated from assets under custody and administration, which is recognized as/when the associated promised service is satisfied, which normally occurs at the point in time the service is requested by the customer and provided by Citi. Revenue generated from these activities is primarily recorded in Administration and other fiduciary fees. For additional information on these various types of revenues, see Note 5 to the Consolidated Financial Statements.
+In addition, as a market maker, ICG facilitates transactions, including holding product inventory to meet client demand, and earns the differential between the price at which it buys and sells the products. These price differentials and the unrealized gains and losses on the inventory are recorded in Principal transactions. Mark-to-market gains and losses on certain credit derivatives (used to hedge the corporate loan portfolio) are also recorded in Principal transactions, (for additional information on Principal transactions revenue, see Note 6 to the Consolidated Financial Statements). Other primarily includes realized gains and losses on available-for-sale (AFS) debt securities, gains and losses on equity securities not held in trading accounts and other non-recurring gains and losses. Interest income earned on assets held, less interest paid on long- and short-term debt and to customers on deposits, is recorded as Net interest revenue.
+The amount and types of Markets revenues are impacted by a variety of interrelated factors, including market liquidity; changes in market variables such as interest rates, foreign exchange rates, equity prices, commodity prices and credit spreads, as well as their implied volatilities; investor confidence and other macroeconomic conditions. Assuming all other market conditions do not change, increases in client activity levels or bid/offer spreads generally result in increases in revenues. However, changes in market conditions can significantly impact client activity levels, bid/offer spreads and the fair value of product inventory. For example, a decrease in
+market liquidity may increase bid/offer spreads, decrease client activity levels and widen credit spreads on product inventory positions.
+ICG’s management of the Markets businesses involves daily monitoring and evaluation of the above factors at the trading desk as well as the country level. ICG does not separately track the impact on total Markets revenues of the volume of transactions, bid/offer spreads, fair value changes of product inventory positions and economic hedges because, as noted above, these components are interrelated and are not deemed useful or necessary to manage the Markets businesses at an aggregate level.
+In the Markets businesses, client revenues are those revenues directly attributable to client transactions at the time of inception, including commissions, interest or fees earned. Client revenues do not include the results of client facilitation activities (e.g., holding product inventory in anticipation of client demand) or the results of certain economic hedging activities.
+ICG’s international presence is supported by trading floors in approximately 80 countries and a proprietary network in 96 countries and jurisdictions. At December 31, 2020, ICG had $1.7 trillion in assets and $924 billion in deposits, while two of its businesses—securities services and issuer services—managed $24.0 trillion and $20.3 trillion in assets under custody as of December 31, 2020 and 2019, respectively. For additional information on these operations, see “Administration and Other Fiduciary Fees” in Note 5 to the Consolidated Financial Statements.
+26
+
+																	
+In millions of dollars, except as otherwise noted	2020	2019	2018	% Change
+2020 vs. 2019	% Change
+2019 vs. 2018
+Commissions and fees 	$	4,412 		$	4,462 		$	4,651 		(1)	%	(4)	%
+Administration and other fiduciary fees	2,877 		2,756 		2,806 		4 		(2)	
+Investment banking	5,009 		4,440 		4,358 		13 		2 	
+Principal transactions	13,308 		8,562 		8,742 		55 		(2)	
+Other(1)
+	1,149 		1,829 		941 		(37)		94 	
+Total non-interest revenue	$	26,755 		$	22,049 		$	21,498 		21 	%	3 	%
+Net interest revenue (including dividends)	17,498 		17,252 		16,827 		1 		3 	
+Total revenues, net of interest expense	$	44,253 		$	39,301 		$	38,325 		13 	%	3 	%
+Total operating expenses	$	23,467 		$	22,224 		$	21,780 		6 	%	2 	%
+Net credit losses on loans	$	987 		$	394 		$	208 		NM	89 	%
+Credit reserve build (release) for loans	3,172 		71 		(109)		NM	NM
+Provision for credit losses on unfunded lending commitments	1,435 		98 		116 		NM	(16)	
+Provisions for credit losses on HTM debt securities and other assets	21 		— 		— 		100 	%	— 	
+Provisions for credit losses	$	5,615 		$	563 		$	215 		NM	NM
+Income from continuing operations before taxes	$	15,171 		$	16,514 		$	16,330 		(8)	%	1 	%
+Income taxes	3,373 		3,570 		3,756 		(6)		(5)	
+Income from continuing operations	$	11,798 		$	12,944 		$	12,574 		(9)	%	3 	%
+Noncontrolling interests	50 		40 		17 		25 		NM
+Net income	$	11,748 		$	12,904 		$	12,557 		(9)	%	3 	%
+Balance Sheet data and ratios					
+EOP assets (in billions of dollars)
+	$	1,730 		$	1,447 		$	1,438 		20 	%	1 	%
+Average assets (in billions of dollars)
+	1,706 		1,493 		1,449 		14 		3 	
+Return on average assets	0.69 	%	0.86 	%	0.87 	%		
+Efficiency ratio	53 		57 		57 			
+Revenues by region					
+North America	$	17,185 		$	13,459 		$	13,522 		28 	%	— 	%
+EMEA	12,814 		12,006 		11,770 		7 		2 	
+Latin America	4,838 		5,166 		4,954 		(6)		4 	
+Asia	9,416 		8,670 		8,079 		9 		7 	
+Total	$	44,253 		$	39,301 		$	38,325 		13 	%	3 	%
+Income from continuing operations by region		 			
+North America	$	3,461 		$	3,511 		$	3,675 		(1)	%	(4)	%
+EMEA	3,327 		3,867 		3,889 		(14)		(1)	
+Latin America	1,406 		2,111 		2,013 		(33)		5 	
+Asia	3,604 		3,455 		2,997 		4 		15 	
+Total	$	11,798 		$	12,944 		$	12,574 		(9)	%	3 	%
+Average loans by region (in billions of dollars)
+		 			
+North America	$	201 		$	188 		$	174 		7 	%	8 	%
+EMEA	88 		87 		81 		1 		7 	
+Latin America	39 		40 		42 		(3)		(5)	
+Asia	71 		73 		77 		(3)		(5)	
+Total	$	399 		$	388 		$	374 		3 	%	4 	%
+EOP deposits by business (in billions of dollars)
+					
+Treasury and trade solutions	$	651 		$	536 		$	509 		21 	%	5 	%
+All other ICG businesses
+	273 		232 		218 		18 		6 	
+Total	$	924 		$	768 		$	727 		20 	%	6 	%
+
+(1)    2019 includes an approximate $350 million gain on Citi’s investment in Tradeweb.
+NM Not meaningful
+27
+
+ICG Revenue Details
+																	
+In millions of dollars	2020	2019	2018	% Change
+2020 vs. 2019	% Change
+2019 vs. 2018
+Investment banking revenue details
+					
+Advisory	$	1,010 		$	1,259 		$	1,301 		(20)	%	(3)	%
+Equity underwriting	1,593 		973 		991 		64 		(2)	
+Debt underwriting	3,184 		2,984 		2,719 		7 		10 	
+Total investment banking	$	5,787 		$	5,216 		$	5,011 		11 	%	4 	%
+Treasury and trade solutions	9,524 		10,293 		9,914 		(7)		4 	
+Corporate lending—excluding gains (losses) on loan hedges(1)
+	2,184 		2,921 		2,913 		(25)		— 	
+Private bank—excluding gains (losses) on loan hedges(1)
+	3,737 		3,460 		3,398 		8 		2 	
+Total Banking revenues (ex-gains (losses) on loan hedges)(1)
+	$	21,232 		$	21,890 		$	21,236 		(3)	%	3 	%
+  Gains (losses) on loan hedges(1)
+	$	(51)		$	(432)		$	45 		88 	%	NM
+Total Banking revenues (including gains (losses) on loan hedges), net of interest expense
+	$	21,181 		$	21,458 		$	21,281 		(1)	%	1 	%
+Fixed income markets(2)
+	$	17,256 		$	12,884 		$	11,661 		34 	%	10 	%
+Equity markets	3,624 		2,908 		3,427 		25 		(15)	
+Securities services	2,545 		2,631 		2,631 		(3)		— 	
+Other	(353)		(580)		(675)		39 		14 	
+Total Markets and securities services revenues, net
+of interest expense
+	$	23,072 		$	17,843 		$	17,044 		29 	%	5 	%
+Total revenues, net of interest expense	$	44,253 		$	39,301 		$	38,325 		13 	%	3 	%
+Commissions and fees	$	677 		$	782 		$	705 		(13)	%	11 	%
+Principal transactions(3)
+	11,518 		7,661 		7,134 		50 		7 	
+Other(2)
+	579 		1,117 		380 		(48)		NM
+Total non-interest revenue 	$	12,774 		$	9,560 		$	8,219 		34 	%	16 	%
+Net interest revenue	4,482 		3,324 		3,442 		35 		(3)	
+Total fixed income markets(4)
+	$	17,256 		$	12,884 		$	11,661 		34 	%	10 	%
+Rates and currencies	$	12,145 		$	9,225 		$	8,486 		32 	%	9 	%
+Spread products/other fixed income	5,111 		3,659 		3,175 		40 		15 	
+Total fixed income markets	$	17,256 		$	12,884 		$	11,661 		34 	%	10 	%
+Commissions and fees	$	1,245 		$	1,121 		$	1,267 		11 	%	(12)	%
+Principal transactions(3)
+	1,281 		775 		1,240 		65 		(38)	
+Other	322 		172 		110 		87 		56 	
+Total non-interest revenue 	$	2,848 		$	2,068 		$	2,617 		38 	%	(21)	%
+Net interest revenue	776 		840 		810 		(8)		4 	
+Total equity markets(4)
+	$	3,624 		$	2,908 		$	3,427 		25 	%	(15)	%
+
+(1)    Credit derivatives are used to economically hedge a portion of the private bank and corporate loan portfolio that includes both accrual loans and loans at fair value. Gains (losses) on loan hedges include the mark-to-market on the credit derivatives and the mark-to-market on the loans in the portfolio that are at fair value. The fixed premium costs of these hedges are netted against the private bank and corporate lending revenues to reflect the cost of credit protection. Gains (losses) on loan hedges include $(74) million related to the corporate loan portfolio and $23 million related to the private bank for the year ended December 31, 2020. All of gains (losses) on loan hedges are related to the corporate loan portfolio for the years ended December 31, 2019 and 2018. Citigroup’s results of operations excluding the impact of gains (losses) on loan hedges are non-GAAP financial measures.
+(2)    2019 includes an approximate $350 million gain on Citi’s investment in Tradeweb.
+(3)    Excludes principal transactions revenues of ICG businesses other than Markets, primarily treasury and trade solutions and the private bank.
+(4)    Citi assesses its Markets business performance on a total revenue basis, as offsets may occur across revenue line items. For example, securities that generate Net interest revenue may be risk managed by derivatives that are recorded in Principal transactions revenue. For a description of the composition of these revenue line items, see Notes 4, 5 and 6 to the Consolidated Financial Statements.
+NM Not meaningful
+28
+
+The discussion of the results of operations for ICG below excludes (where noted) the impact of gains (losses) on hedges of accrual loans, which are non-GAAP financial measures. For a reconciliation of these metrics to the reported results, see the table above.
+
+2020 vs. 2019
+Net income decreased 9%, as higher revenues were more than offset by significantly higher credit costs and higher expenses.
+Revenues increased 13%, driven by a 29% increase in Markets and securities services revenues, partially offset by a 1% decrease in Banking revenues (including the impact of gains (losses) on loan hedges). Excluding the impact of gains (losses) on loan hedges, Banking revenues declined 3%, as growth in investment banking and the private bank was more than offset by a decrease in treasury and trade solutions and corporate lending. Excluding the pretax gain of approximately $350 million on Citi’s investment in Tradeweb in the prior year, Markets and securities services revenues increased 32%, primarily driven by growth in both fixed income markets and equity markets, partially offset by a decline in securities services.
+
+Within Banking:
+
+•Investment banking revenues were up 11%, reflecting growth in overall market wallet as well as gains in wallet share. Advisory revenues decreased 20%, primarily reflecting a decline in the market wallet largely due to the pandemic and a decline in wallet share. Equity underwriting revenues increased 64%, reflecting growth in North America, EMEA and Asia, driven by continued strength in the market wallet, reflecting improved market liquidity and investor sentiment as well as wallet share gains. Debt underwriting revenues increased 7%, reflecting particular strength in North America, partially offset by Latin America, primarily driven by an increase in the second quarter of 2020, as the business assisted clients with sourcing liquidity. The increase in revenues was largely driven by a higher market wallet in investment grade debt underwriting, as well as an increase in overall wallet share.
+•Treasury and trade solutions revenues decreased 7%. Excluding the impact of FX translation, revenues decreased 5%, primarily driven by declines in EMEA and Asia. The decline in revenues was driven by both the cash and trade businesses. In the cash business, the decline in revenues reflected lower interest rates and a slowdown in commercial cards spend driven by the pandemic, partially offset by strong deposit volumes. Average deposit balances increased 23% (22% excluding the impact of FX translation), reflecting strong client engagement and solid growth across all regions. In trade, revenues were impacted by a decline in trade fees and trade loans, reflecting a slowdown in underlying trade flows related to the pandemic, partially offset by improved trade spreads.
+•Corporate lending revenues decreased 15%, including lower losses on loan hedges. Excluding the impact of losses on loan hedges, revenues decreased 25%, driven by lower loan spreads, an adjustment to the residual value of a lease financing asset and higher hedging costs, partially offset by higher average loan volumes. Average loans were up 4%, reflecting higher volumes as the business
+assisted clients with sourcing liquidity in the evolving environment, primarily in the first half of 2020. End-of-period loans declined 9% in the current year, primarily reflecting repayments, as Citi’s clients accessed the capital markets, as well as lower loan demand in the second half of 2020, given more muted economic activity.
+•Private bank revenues increased 9%. Excluding the impact of gains on loan hedges, revenues increased 8%, reflecting strength across all regions, driven by continued solid client engagement, in particular in capital markets, higher managed investments revenues and higher loan and deposit volumes, partially offset by lower deposit spreads due to the low interest rate environment.
+
+Within Markets and securities services:
+
+•Fixed income markets revenues increased 34%. Excluding the Tradeweb gain in the prior year, revenues increased 38%, reflecting strength across all regions, driven by strong client activity in rates and currencies, spread products and commodities, due to the impact of market conditions, including elevated volatility related to the pandemic primarily in the first half of the year, and developments related to vaccines and the U.S. elections in the second half of the year. Non-interest revenues increased, reflecting higher corporate and investor activity, given elevated volumes, spreads and volatility, primarily in the first half the year. Net interest revenues also increased, largely reflecting a change in the mix of trading positions in support of client activity, as well as lower funding costs.
+Rates and currencies revenues increased 32%, primarily driven by higher G10 rates and currencies revenues in North America and EMEA, as Citi helped corporate and investor clients reposition their portfolios in a volatile market environment driven by the pandemic largely in the first half of 2020. Spread products and other fixed income revenues increased 40%, reflecting strong client activity following robust primary issuance, particularly in flow trading, as well as a more favorable market making environment, as evidenced by spread tightening. Commodities revenues increased, reflecting a more favorable market making environment, as volatility remained elevated, particularly in gold and oil.
+•Equity markets revenues increased 25%, driven by higher revenues in cash equities and derivatives, partially offset by a modest decline in prime finance revenues. Cash equities revenues increased driven by elevated levels of client activity. Equity derivatives revenues increased, reflecting strong client activity and continued market volatility, particularly in North America. The decline in prime finance revenues was largely due to lower financing spreads. Non-interest revenues increased, primarily driven by higher principal transactions and commissions and fee revenues, due to higher client activity and a more favorable trading environment due to volatility related to the pandemic and developments
+29
+
+related to vaccines and U.S. elections, as well as a change in the mix of trading positions in support of client activity.
+•Securities services revenues decreased 3%. Excluding the impact of FX translation, revenues decreased 1%, as higher deposit volumes were more than offset by lower deposit spreads due to the low interest rate environment.
+
+For additional information on trends in ICG’s deposits and trade loans, see “Managing Global Risk—Liquidity Risk—Loans” and “—Deposits” below.
+
+Expenses increased 6%, reflecting investments in infrastructure, risk management and controls, higher compensation costs, operational losses related to certain legal matters and volume-driven growth, partially offset by efficiency savings.
+Provisions increased to $5.6 billion, driven by net credit losses of $987 million (compared to $394 million in the prior year), and an ACL build of $4.6 billion (compared to a modest build in the prior year under prior accounting standards). The increase in net credit losses was largely driven by write-offs across various sectors in both North America and EMEA, primarily reflecting energy and energy-related exposures. The net credit losses were partially offset by the release of previously established ACL reserves.
+The increase in the ACL build was driven by builds during the first half of 2020. The builds reflected the impact of a deterioration in Citi’s macroeconomic outlook under the CECL standard, driven by the impact of the pandemic across multiple sectors, as well as downgrades in the corporate portfolios. Sectors significantly impacted by the pandemic (including transportation; commercial real estate; energy and energy-related; and consumer retail) drove approximately half of the ACL reserve build during 2020. The reserve build also included an increase in the qualitative management adjustment to reflect the potential for a higher level of stress and a slower economic recovery. For additional information on Citi’s ACL accounting, see “Significant Accounting Policies and Significant Estimates” below and Notes 1 and 15 to the Consolidated Financial Statements.
+As of December 31, 2020, reserves held on Citi’s balance sheet represented 1.4% of funded loans, compared to 0.7% as of December 31, 2019, including 4.4% of reserves held against the non-investment grade portion.
+For additional information on ICG’s corporate credit portfolio, see “Managing Global Risk—Credit Risk—Corporate Credit” below.
+For additional information about trends, uncertainties and risks related to ICG’s future results, see “COVID-19 Pandemic Overview” and “Risk Factors” above.
+
+
+
+
+30
+
+CORPORATE/OTHER
+Corporate/Other includes certain unallocated costs of global staff functions (including finance, risk, human resources, legal and compliance), other corporate expenses and unallocated global operations and technology expenses and income taxes, as well as Corporate Treasury, certain North America legacy consumer loan portfolios, other legacy assets and discontinued operations (for additional information on Corporate/Other, see “Citigroup Segments” above). At December 31, 2020, Corporate/Other had $96 billion in assets.
+																	
+In millions of dollars	2020	2019	2018	% Change
+2020 vs. 2019	% Change
+2019 vs. 2018
+Net interest revenue	$	(150)		$	1,890 		$	2,361 		NM	(20)	%
+Non-interest revenue	204 		124 		(171)		65 	%	NM
+Total revenues, net of interest expense	$	54 		$	2,014 		$	2,190 		(97)	%	(8)	%
+Total operating expenses	$	2,501 		$	2,150 		$	2,275 		16 	%	(5)	%
+Net credit losses (recoveries) on loans	$	(22)		$	(8)		$	21 		NM	NM
+Credit reserve build (release) for loans	188 		(60)		(218)		NM	72 	%
+Provision (release) for credit losses on unfunded lending commitments	11 		(7)		(3)		NM	NM
+Provisions (releases) for benefits and claims, HTM debt securities and other assets	1 		— 		(2)		100 	%	100 	
+Provisions (releases) for credit losses and for benefits and claims	$	178 		$	(75)		$	(202)		NM	63 	%
+Income (loss) from continuing operations before taxes	$	(2,625)		$	(61)		$	117 		NM	NM
+Income taxes (benefits)	(1,060)		(886)		(88)		(20)	%	NM
+Income (loss) from continuing operations	$	(1,565)		$	825 		$	205 		NM	NM
+(Loss) from discontinued operations, net of taxes	(20)		(4)		(8)		NM	50 	%
+Net income (loss) before attribution of noncontrolling interests	$	(1,585)		$	821 		$	197 		NM	NM
+Noncontrolling interests	(6)		20 		11 		NM	82 	%
+Net income (loss)	$	(1,579)		$	801 		$	186 		NM	NM
+NM Not meaningful
+
+2020 vs. 2019
+Net loss was $1.6 billion, compared to net income of $801 million in the prior year, largely driven by lower revenues, higher expenses, higher cost of credit and higher tax benefits in the prior year. The higher tax benefits in the prior year were primarily due to higher valuation allowance adjustments on Citi’s deferred tax assets.
+Revenues of $54 million decreased $2.0 billion, reflecting the impact of lower interest rates, episodic gains in the prior year, the wind-down of legacy assets and marks on securities.
+Expenses increased 16%, as the wind-down of legacy assets was more than offset by investments in infrastructure, risk management and controls, the $400 million civil money penalty (for additional information, see “Executive Summary” and “Citi’s Consent Order Compliance” above) and incremental costs associated with the pandemic.
+Provisions increased $253 million to $178 million, primarily driven by ACL builds of $199 million on legacy assets (versus a $67 million release in the prior year under prior accounting standards).
+The ACL build was driven by builds during the first half of 2020 and primarily reflected the impact of a deterioration in Citi’s macroeconomic outlook under the CECL standard, primarily due to the pandemic. For additional information on Citi’s ACL, see “Significant Accounting Policies and
+
+
+
+Significant Estimates” below and Notes 1 and 15 to the Consolidated Financial Statements.
+For additional information about trends, uncertainties and risks related to Corporate/Other’s future results, see “COVID-19 Pandemic Overview” above and “Risk Factors” below.
+
+
+
+
+
+
+
+31
+
+CAPITAL RESOURCES
+Overview
+Capital is used principally to support assets in Citi’s businesses and to absorb credit, market and operational losses. Citi primarily generates capital through earnings from its operating businesses. Citi may augment its capital through issuances of common stock and noncumulative perpetual preferred stock, among other issuances. Further, Citi’s capital levels may also be affected by changes in accounting and regulatory standards, as well as U.S. corporate tax laws and the impact of future events on Citi’s business results, such as changes in interest and foreign exchange rates, as well as business and asset dispositions.
+During 2020, Citi returned a total of $7.2 billion of capital to common shareholders in the form of share repurchases (approximately 41 million common shares) and dividends. On March 15, 2020, Citi announced it had joined other major U.S. banks in suspending share repurchases to support clients in light of the pandemic. Citi commenced share repurchases in February 2021. For additional information, see “Unregistered Sales of Equity Securities, Repurchases of Equity Securities and Dividends—Equity Security Repurchases” below.
+
+Capital Management
+Citi’s capital management framework is designed to ensure that Citigroup and its principal subsidiaries maintain sufficient capital consistent with each entity’s respective risk profile, management targets and all applicable regulatory standards and guidelines. Citi assesses its capital adequacy against a series of internal quantitative capital goals, designed to evaluate its capital levels in expected and stressed economic environments. Underlying these internal quantitative capital goals are strategic capital considerations, centered on preserving and building financial strength.
+The Citigroup Capital Committee, with oversight from the Risk Management Committee of Citigroup’s Board of Directors, has responsibility for Citi’s aggregate capital structure, including the capital assessment and planning process, which is integrated into Citi’s capital plan. Balance sheet management, including oversight of capital adequacy, for Citigroup’s subsidiaries is governed by each entity’s Asset and Liability Committee, where applicable.
+For additional information regarding Citi’s capital planning and stress testing exercises, see “Stress Testing Component of Capital Planning” below.
+
+
+Current Regulatory Capital Standards
+Citi is subject to regulatory capital standards issued by the Federal Reserve Board, which constitute the U.S. Basel III rules. These rules establish an integrated capital adequacy framework, encompassing both risk-based capital ratios and leverage ratios.
+
+Risk-Based Capital Ratios
+The U.S. Basel III rules set forth the composition of regulatory capital (including the application of regulatory capital adjustments and deductions), as well as two comprehensive methodologies (a Standardized Approach and Advanced Approaches) for measuring total risk-weighted assets. Total risk-weighted assets under the Advanced Approaches, which are primarily models based, include credit, market and operational risk-weighted assets. The Standardized Approach generally applies prescribed supervisory risk weights to broad categories of credit risk exposures. As a result, credit risk-weighted assets calculated under the Advanced Approaches are more risk sensitive than those calculated under the Standardized Approach. Market risk-weighted assets are currently calculated on a generally consistent basis under both approaches. The Standardized Approach excludes operational risk-weighted assets.
+Under the U.S. Basel III rules, both Citi and Citibank, N.A. (Citibank) are required to maintain stated minimum Common Equity Tier 1 Capital, Tier 1 Capital and Total Capital ratios of 4.5%, 6.0% and 8.0%, respectively. Further, the U.S. Basel III rules implement the “capital floor provision” of the so-called “Collins Amendment” of the Dodd-Frank Act, which requires Advanced Approaches banking organizations to calculate each of the three risk-based capital ratios (Common Equity Tier 1 Capital, Tier 1 Capital and Total Capital) under both the U.S. Basel III Standardized Approach and the Advanced Approaches and comply with the lower of each of the resulting risk-based capital ratios.
+
+Tier 1 Leverage Ratio
+Under the U.S. Basel III rules, Citi is also required to maintain a minimum Tier 1 Leverage ratio of 4.0%. The Tier 1 Leverage ratio, a non-risk-based measure of capital adequacy, is defined as Tier 1 Capital as a percentage of quarterly adjusted average total assets less amounts deducted from Tier 1 Capital.
+32
+
+Supplementary Leverage Ratio
+Citi is also required to calculate a Supplementary Leverage ratio, which differs from the Tier 1 Leverage ratio by also including certain off-balance sheet exposures within the denominator of the ratio (Total Leverage Exposure). The Supplementary Leverage ratio represents end of period Tier 1 Capital to Total Leverage Exposure, with the latter defined as the sum of the daily average of on-balance sheet assets for the quarter and the average of certain off-balance sheet exposures calculated as of the last day of each month in the quarter, less applicable Tier 1 Capital deductions. Advanced Approaches banking organizations are required to maintain a stated minimum Supplementary Leverage ratio of 3.0%.
+Further, U.S. GSIBs, including Citi, are subject to enhanced Supplementary Leverage ratio standards. The enhanced Supplementary Leverage ratio standards establish a 2.0% leverage buffer in addition to the stated 3.0% minimum Supplementary Leverage ratio requirement, for a total effective minimum Supplementary Leverage ratio requirement of 5.0%. If a U.S. GSIB fails to exceed the 5.0% effective minimum Supplementary Leverage ratio requirement, it will be subject to increasingly onerous restrictions (depending upon the extent of the shortfall) regarding capital distributions and discretionary executive bonus payments.
+
+Temporary Supplementary Leverage Ratio Relief
+In April 2020, the Federal Reserve Board issued an interim final rule that temporarily changes the calculation of the Supplementary Leverage ratio for bank holding companies, including Citigroup, by excluding U.S. Treasuries and deposits at Federal Reserve Banks from Total Leverage Exposure. Repo-style transactions on U.S. Treasuries are not in scope for this relief. The Supplementary Leverage ratio is a non-risk-sensitive measure, and the temporary exclusion allows banking organizations to expand their balance sheet, as appropriate, to continue to serve as financial intermediaries and to provide credit to households and businesses during the pandemic.
+The interim final rule became effective for Citigroup’s Supplementary Leverage ratio, as well as for Citigroup’s leverage-based Total Loss Absorbing Capacity (TLAC) and Long-Term Debt (LTD) requirements, beginning with the quarter ended June 30, 2020, and will continue through March 31, 2021. Citigroup’s reported Supplementary Leverage ratio of 7.0% benefited 109 basis points during the fourth quarter of 2020 as a result of the temporary relief. Excluding the temporary relief, Citigroup’s Supplementary Leverage ratio would have been 5.9%, compared with a 5.0% effective minimum requirement.
+In June 2020, the U.S. banking agencies issued an interim final rule permitting depository institutions, including Citibank, to elect to temporarily exclude U.S. Treasuries and deposits at Federal Reserve Banks from Total Leverage Exposure, subject to the condition that the depository institution receive approval from its primary federal banking regulator prior to paying dividends or making certain other capital distributions while the exclusion is in effect. Citibank did not elect to temporarily exclude U.S. Treasuries and deposits at Federal Reserve Banks from Total Leverage
+Exposure. Accordingly, the calculation methodology of Citibank’s Supplementary Leverage ratio was unchanged.
+
+Regulatory Capital Treatment—Modified Transition of the Current Expected Credit Losses Methodology
+In September 2020, the U.S. banking agencies issued a final rule (substantially unchanged from a March 2020 interim final rule) that modifies the regulatory capital transition provision related to the current expected credit losses (CECL) methodology.
+The final rule permits banks to delay for two years the “Day One” adverse regulatory capital effects resulting from adoption of the CECL methodology on January 1, 2020 until January 1, 2022, followed by a three-year transition to phase out the regulatory capital benefit provided by the delay.
+In addition, for the ongoing impact of CECL, the agencies utilize a 25% scaling factor as an approximation of the increased reserve build under CECL compared to the previous incurred loss model and, therefore, allows banks to add back to Common Equity Tier 1 Capital an amount equal to 25% of the change in CECL-based allowances recognized through earnings in each quarter between January 1, 2020 and December 31, 2021. Beginning January 1, 2022, the cumulative 25% change in CECL-based allowances recognized through earnings between January 1, 2020 and December 31, 2021 will be phased in to regulatory capital at 25% per year on January 1 of each year over the three-year transition period, along with the delayed “Day One” impact.
+Citigroup and Citibank have elected the modified CECL transition provision provided by the rule beginning with the quarter ended March 31, 2020. Accordingly, the Day One regulatory capital effects resulting from adoption of the CECL methodology, as well as the ongoing adjustments for 25% of the change in CECL-based allowances recognized through earnings in each quarter between January 1, 2020 and December 31, 2021, will now commence phase-in on January 1, 2022 and will be fully reflected in Citi’s regulatory capital as of January 1, 2025.
+For additional information on the U.S. banking agencies’ original regulatory capital transition provision related to the “Day One” adverse regulatory capital effects resulting from adoption of the CECL methodology, see “Capital Resources—Regulatory Capital Treatment—Implementation and Transition of the Current Expected Credit Losses (CECL) Methodology” in Citi’s 2019 Annual Report on Form 10-K. Neither the September 2020 final rule nor the agencies’ prior guidance has any impact on U.S. GAAP accounting.
+
+
+
+
+
+
+
+
+
+
+
+
+
+33
+
+Regulatory Capital Buffers
+Citi and Citibank are required to maintain several regulatory capital buffers above stated minimum capital requirements. These capital buffers would be available to absorb losses in advance of any potential impairment of regulatory capital below the stated minimum risk-based capital ratio requirements. Any breach of the buffers to absorb losses during periods of financial or economic stress would result in restrictions on earnings distributions (e.g., dividends, share repurchases and discretionary executive bonuses), with the degree of such restrictions based upon the extent to which the buffers are breached. For additional information regarding limitations on capital distributions, see “Use of Regulatory Capital Buffers” below.
+
+Stress Capital Buffer
+In March 2020, the Federal Reserve Board issued the final Stress Capital Buffer (SCB) rule, integrating the annual stress testing requirements with ongoing regulatory capital requirements.
+For Citigroup only, the SCB replaces the fixed 2.5% Capital Conservation Buffer under the Standardized Approach, and equals the peak-to-trough Common Equity Tier 1 Capital ratio decline under the Supervisory Severely Adverse scenario used in the Comprehensive Capital Analysis and Review (CCAR) and Dodd-Frank Act Stress Testing (DFAST), plus four quarters of planned common stock dividends, subject to a floor of 2.5%. The fixed 2.5% Capital Conservation Buffer will continue to apply under the Advanced Approaches. SCB-based minimum capital requirements will generally be updated once per year as part of the CCAR process. For additional information regarding CCAR and DFAST, see “Stress Testing Component of Capital Planning” below.
+In August 2020, the Federal Reserve Board finalized and announced Citi’s SCB requirement of 2.5%. Accordingly, effective October 1, 2020, Citigroup is required to maintain a 10.0% effective minimum Common Equity Tier 1 Capital ratio under the Standardized Approach, which is unchanged from Citi’s previous effective minimum requirement Common Equity Tier 1 Capital ratio under the Standardized Approach inclusive of the 2.5% Capital Conservation Buffer.
+The Federal Reserve Board may, but is not required to, recalculate Citi’s SCB as a result of the capital plan resubmission, and has deferred such a decision through March 31, 2021. For additional information on the capital plan resubmission, which the Federal Reserve Board required for each firm subject to its capital plan rule, see “Capital Plan Resubmission and Related Limitations on Capital Distributions” below.
+The SCB applies to Citigroup only. The regulatory capital framework applicable to Citibank, including the Capital Conservation Buffer, is unchanged by the SCB final rule.
+
+
+Capital Conservation Buffer and Countercyclical Capital Buffer
+Citigroup is subject to a fixed 2.5% Capital Conservation Buffer under the Advanced Approaches and, prior to the October 1, 2020 effective date of the SCB, under the Standardized Approach as well. Citibank is subject to the fixed 2.5% Capital Conservation Buffer under both the Advanced Approaches and the Standardized Approach.
+Additionally, Advanced Approaches banking organizations, such as Citi and Citibank, are subject to a discretionary Countercyclical Capital Buffer. The Federal Reserve Board last voted to affirm the Countercyclical Capital Buffer amount at the current level of 0% in December 2020.
+
+GSIB Surcharge
+The Federal Reserve Board imposes a risk-based capital surcharge upon U.S. bank holding companies that are identified as global systemically important bank holding companies (GSIBs), including Citi. The GSIB surcharge augments the SCB, Capital Conservation Buffer and, if invoked, any Countercyclical Capital Buffer.
+A U.S. bank holding company that is designated a GSIB is required, on an annual basis, to calculate a surcharge using two methods and is subject to the higher of the resulting two surcharges. The first method (“method 1”) is based on the Basel Committee’s GSIB methodology. Under the second method (“method 2”), the substitutability category under the Basel Committee’s GSIB methodology is replaced with a quantitative measure intended to assess a GSIB’s reliance on short-term wholesale funding. In addition, method 1 incorporates relative measures of systemic importance across certain global banking organizations and a year-end spot foreign exchange rate, whereas method 2 uses fixed measures of systemic importance and application of an average foreign exchange rate over a three-year period. The GSIB surcharges calculated under both method 1 and method 2 are based on measures of systemic importance from the year immediately preceding that in which the GSIB surcharge calculations are being performed (e.g., the method 1 and method 2 GSIB surcharges to be calculated by December 31, 2021 will be based on 2020 systemic indicator data). Generally, Citi’s surcharge determined under method 2 will result in a higher surcharge than its surcharge determined under method 1.
+Should a GSIB’s systemic importance change year-over-year such that it becomes subject to a higher surcharge, the higher surcharge would not become effective for a full year (e.g., a higher surcharge calculated by December 31, 2021 would not become effective until January 1, 2023). However, if a GSIB’s systemic importance changes such that the GSIB would be subject to a lower surcharge, the GSIB would be subject to the lower surcharge beginning with the next calendar year (e.g., a lower surcharge calculated by December 31, 2021 would become effective January 1, 2022).
+34
+
+The following table sets forth Citi’s effective GSIB surcharge as determined under method 1 and method 2 for 2020 and 2019:
+								
+	2020	2019
+Method 1	2.0 	%	2.0 	%
+Method 2	3.0 		3.0 	
+
+Citi’s GSIB surcharge effective for both 2020 and 2019 was 3.0%, as derived under the higher method 2 result. Citi’s GSIB surcharge effective for 2021 will remain unchanged at 3.0%, as derived under the higher method 2 result. Citi expects that its method 2 GSIB surcharge will continue to remain higher than its method 1 GSIB surcharge. Accordingly, Citi’s GSIB surcharge effective for 2022 will not exceed 3.0%. Citi’s GSIB surcharge effective for 2023 will likely be based on the lower of its method 2 scores for year-end 2020 and 2021, and could increase to 3.5%.
+Use of Regulatory Capital Buffers
+In March 2020, the U.S. banking agencies issued a statement encouraging banking organizations to use their regulatory capital buffers as they respond to the challenges presented by the effects of the COVID-19 pandemic.
+Consistent with the statement, in October 2020, the U.S. banking agencies issued a final rule (substantially unchanged from two previous interim final rules in March 2020) that eases capital distribution limitations in the original U.S. Basel III rules, in an effort to reduce the impact of using regulatory capital buffers. The changes in the rule have the potential to prevent a complete and sudden cessation of capital distributions due to a breach of regulatory capital buffers, which include the SCB, Capital Conservation Buffer, GSIB surcharge, and any Countercyclical Capital Buffer (currently 0%).
+The rule became effective in March 2020, and applies to risk-based capital ratios, the Supplementary Leverage ratio, and RWA-based or leverage-based external TLAC buffers. External Long-Term Debt requirements do not include any buffers and are, therefore, unaffected by the final rule. For additional information on Citi’s TLAC-related requirements, see “Total Loss-Absorbing Capacity (TLAC)” and “Risk Factors—Compliance, Conduct and Legal Risks” below.
+More specifically, under the U.S. Basel III rules, banking organizations that fall below their regulatory capital buffers are subject to limitations on capital distributions and discretionary bonus payments to executive officers based on a percentage of “Eligible Retained Income” (ERI), with increasing restrictions based upon the severity of the breach. The original definition of ERI in the U.S. Basel III rules was equal to the bank’s net income for the four calendar quarters preceding the current calendar quarter, net of any distributions and tax effects not already reflected in net income. The final rule revises the definition of ERI to equal the greater of: (i) the bank’s net income for the four calendar quarters preceding the current calendar quarter, net of any distributions and tax effects not already reflected in net income, and (ii) the average of the bank’s net income for the four calendar quarters preceding the current calendar quarter.
+As of December 31, 2020, Citi’s regulatory capital ratios exceeded effective regulatory minimum requirements. Citi is not subject to payout limitations as a result of Basel III requirements. For information related to capital distribution limitations that are currently in effect for large banks, see “Capital Plan Resubmission and Related Limitations on Capital Distributions” below.
+The impact of the final rule on Citibank is limited, because the minimum requirements to be considered “well-capitalized” under the Prompt Corrective Action (PCA) framework are unchanged.
+
+Prompt Corrective Action Framework
+In general, the Prompt Corrective Action (PCA) regulations direct the U.S. banking agencies to enforce increasingly strict limitations on the activities of insured depository institutions that fail to meet certain regulatory capital thresholds. The PCA framework contains five categories of capital adequacy as measured by risk-based capital and leverage ratios: (i) “well capitalized,” (ii) “adequately capitalized,” (iii) “undercapitalized,” (iv) “significantly undercapitalized” and (v) “critically undercapitalized.”
+Accordingly, an insured depository institution, such as Citibank, must maintain minimum Common Equity Tier 1 Capital, Tier 1 Capital, Total Capital and Tier 1 Leverage ratios of 6.5%, 8.0%, 10.0% and 5.0%, respectively, to be considered “well capitalized.” In addition, insured depository institution subsidiaries of U.S. GSIBs, including Citibank, must maintain a minimum Supplementary Leverage ratio of 6.0% to be considered “well capitalized.” Citibank was “well capitalized” as of December 31, 2020.
+
+Stress Testing Component of Capital Planning
+Citi is subject to an annual assessment by the Federal Reserve Board as to whether Citigroup has effective capital planning processes as well as sufficient regulatory capital to absorb losses during stressful economic and financial conditions, while also meeting obligations to creditors and counterparties and continuing to serve as a credit intermediary. This annual assessment includes two related programs: the Comprehensive Capital Analysis and Review (CCAR) and Dodd-Frank Act Stress Testing (DFAST).
+For the largest and most complex firms, such as Citi, CCAR includes a qualitative evaluation of a firm’s abilities to determine its capital needs on a forward-looking basis. In conducting the qualitative assessment, the Federal Reserve Board evaluates firms’ capital planning practices, focusing on six areas of capital planning—namely, governance, risk management, internal controls, capital policies, incorporating stressful conditions and events, and estimating impact on capital positions. As part of the CCAR process, the Federal Reserve Board evaluates Citi’s capital adequacy, capital adequacy process and its planned capital distributions, such as dividend payments and common share repurchases. The Federal Reserve Board assesses whether Citi has sufficient capital to continue operations throughout times of economic and financial market stress and whether Citi has robust, forward-looking capital planning processes that account for its unique risks.
+35
+
+Since firms are now required to maintain risk-based capital ratio minimum requirements that integrate stress test results, the Federal Reserve Board’s SCB final rule eliminated a number of previous CCAR requirements, including the once-a-year quantitative objection, the pre-approval requirement from the Federal Reserve Board for making distributions in excess of planned capital actions, and the 30% dividend payout ratio as a criterion for heightened supervisory scrutiny.
+All CCAR firms, including Citi, are subject to a rigorous evaluation of their capital planning process. Firms with weak practices may be subject to a deficient supervisory rating, and potentially an enforcement action, for failing to meet supervisory expectations. For additional information regarding CCAR, see “Risk Factors—Strategic Risks” below.
+DFAST is a forward-looking quantitative evaluation of the impact of stressful economic and financial market conditions on Citi’s regulatory capital. This program serves to inform the Federal Reserve Board and the general public as to how Citi’s regulatory capital ratios might change using a hypothetical set of adverse economic conditions as designed by the Federal Reserve Board. In addition to the annual supervisory stress test conducted by the Federal Reserve Board, Citi is required to conduct annual company-run stress tests under the same adverse economic conditions designed by the Federal Reserve Board.
+Both CCAR and DFAST include an estimate of projected revenues, losses, reserves, pro forma regulatory capital ratios, and any other additional capital measures deemed relevant by Citi. Projections are required over a nine-quarter planning horizon under two supervisory scenarios (baseline and severely adverse conditions). All risk-based capital ratios reflect application of the Standardized Approach framework under the U.S. Basel III rules. Moreover, the Federal Reserve Board has deferred the use of the Advanced Approaches framework indefinitely.
+In addition, Citibank is required to conduct the annual Dodd-Frank Act Stress Test. The annual stress test consists of a forward-looking quantitative evaluation of the impact of stressful economic and financial market conditions under several scenarios on Citibank’s regulatory capital. This program serves to inform the Office of the Comptroller of the Currency as to how Citibank’s regulatory capital ratios might change during a hypothetical set of adverse economic conditions and to ultimately evaluate the reliability of Citibank’s capital planning process.
+
+
+Capital Plan Resubmission and Related Limitations on Capital Distributions
+In June 2020, the Federal Reserve Board determined that changes in financial markets and macroeconomic outlooks related to the COVID-19 pandemic could have a material effect on the risk profile and financial condition of each firm subject to its capital plan rule and, therefore, required updated capital plans. Citigroup resubmitted its capital plan in November 2020.
+In December 2020, the Federal Reserve Board announced
+that it was modifying and extending for an additional quarter several measures that were previously announced for the third and fourth quarters of 2020 to ensure that large banks maintain a high level of capital resilience. Through the end of the first quarter of 2021, the Federal Reserve Board has authorized firms, including Citi, to pay common stock dividends and make share repurchases that, in the aggregate, do not exceed an amount equal to the average of the firm’s net income for the four preceding calendar quarters, unless otherwise specified by the Federal Reserve Board, provided that the firm does not exceed the amount of common stock dividends paid in the second quarter of 2020. Additionally, through the end of the first quarter of 2021, the Federal Reserve Board has authorized firms to make share repurchases relating to issuances of common stock related to employee stock ownership plans, and to redeem and make scheduled payments on Additional Tier 1 Capital and Tier 2 Capital instruments. These limitations on capital distributions may be extended or modified by the Federal Reserve Board.
+On June 29, 2020, Citi announced its planned capital actions including common dividends. Citi is permitted to return capital to common shareholders of up $2.8 billion during the first quarter of 2021, including the previously announced common dividends of $0.51 per share in the quarter, consistent with the Federal Reserve Board’s income-based formula for temporary limitations on common dividends and common share repurchases announced in December 2020. Citi commenced share repurchases in February 2021.
+The Federal Reserve Board may, but is not required to, recalculate Citi’s SCB as a result of the capital plan resubmission, and has deferred such a decision up to March 31, 2021.
+
+
+
+36
+
+Citigroup’s Capital Resources
+Citi is required to maintain stated minimum Common Equity Tier 1 Capital, Tier 1 Capital and Total Capital ratios of 4.5%, 6.0% and 8.0%, respectively. Citi’s effective minimum capital requirements are presented in the table below.
+Furthermore, to be “well capitalized” under current federal bank regulatory agency definitions, a bank holding company must have a Tier 1 Capital ratio of at least 6.0%, a Total Capital ratio of at least 10.0% and not be subject to a Federal Reserve Board directive to maintain higher capital levels.
+The following tables set forth Citi’s capital components and ratios as of December 31, 2020, September 30, 2020 and December 31, 2019:
+																							
+		Advanced Approaches	Standardized Approach
+In millions of dollars, except ratios
+	
+Effective Minimum Requirement(1)
+	Dec. 31, 2020	Sep. 30, 2020	Dec. 31, 2019	Dec. 31, 2020	Sep. 30, 2020	Dec. 31, 2019
+Common Equity Tier 1 Capital(2)
+		$	147,274 		$	142,158 		$	137,798 		$	147,274 		$	142,158 		$	137,798
+Tier 1 Capital
+		167,053 		160,311 		155,805 		167,053 		160,311 		155,805
+Total Capital (Tier 1 Capital + Tier 2 Capital)(2)
+		195,959 		189,477 		181,337 		204,849 		198,120 		193,711
+Total Risk-Weighted Assets
+		1,255,284 		1,218,977 		1,142,804 		1,221,576 		1,178,219 		1,168,848
+   Credit Risk(2)
+		$	844,374 		$	821,024 		$	778,759 		$	1,109,435 		$	1,077,719 		$	1,110,100
+   Market Risk
+		107,812 		96,873 		57,317 		112,141 		100,500 		58,748 	
+   Operational Risk
+		303,098 		301,080 		306,728 		— 		— 		— 	
+Common Equity Tier 1 Capital ratio(3)
+	10.0 	%	11.73 	%	11.66 	%	12.06 	%	12.06 	%	12.07 	%	11.79 	%
+Tier 1 Capital ratio(3)
+	11.5 		13.31 		13.15 		13.63 		13.68 		13.61 		13.33 	
+Total Capital ratio(3)
+	13.5 		15.61 		15.54 		15.87 		16.77 		16.82 		16.57 	
+																							
+In millions of dollars, except ratios
+	
+Effective Minimum Requirement
+	Dec. 31, 2020	Sept. 30, 2020	Dec. 31, 2019
+Quarterly Adjusted Average Total Assets(2)(4)
+		$	2,265,615 		$	2,224,446 		$	1,957,039 	
+Total Leverage Exposure(2)(5)
+		2,386,881 		2,349,620 		2,513,702 	
+Tier 1 Leverage ratio
+	
+4.0%
+	7.37 	%	7.21 	%	7.96 	%
+Supplementary Leverage ratio
+	5.0	7.00 		6.82 		6.20 	
+
+(1)Beginning October 1, 2020, Citi’s effective minimum risk-based capital requirements include the 2.5% SCB and 3.0% GSIB surcharge under the Standardized Approach, and the 2.5% Capital Conservation Buffer and 3.0% GSIB surcharge under the Advanced Approaches (all of which must be composed of Common Equity Tier 1 Capital). For prior periods presented, Citi’s effective minimum risk-based capital requirements include the 2.5% Capital Conservation Buffer and the 3.0% GSIB surcharge under both Approaches.
+(2)Citi has elected to apply the modified transition provision related to the impact of the CECL accounting standard on regulatory capital, as provided by the U.S. banking agencies’ September 2020 final rule. Under the modified CECL transition provision, the changes in retained earnings (after-tax), deferred tax assets (DTAs) arising from temporary differences, and the ACL upon the January 1, 2020 CECL adoption date have been deferred and will phase in to regulatory capital at 25% per year commencing January 1, 2022. For the ongoing impact of CECL, Citigroup is allowed to adjust retained earnings and the ACL in an amount equal to 25% of the change in the ACL recognized through earnings (pretax) for each period between January 1, 2020 and December 31, 2021. The cumulative adjustments to retained earnings and the ACL between January 1, 2020 and December 31, 2021 will also phase in to regulatory capital at 25% per year commencing January 1, 2022, along with the deferred impacts related to the January 1, 2020 CECL adoption date. Corresponding adjustments to average on-balance sheet assets are reflected in quarterly adjusted average total assets and Total Leverage Exposure. Additionally, the increase in DTAs arising from temporary differences upon the January 1, 2020 adoption date has been deducted from risk-weighted assets (RWA) and will phase in to RWA at 25% per year commencing January 1, 2022.
+(3)Citi’s reportable Common Equity Tier 1 Capital and Tier 1 Capital ratios were derived under the Basel III Advanced Approaches framework as of December 31, 2020 and September 30, 2020, and the Basel III Standardized Approach as of December 31, 2019, whereas Citi’s reportable Total Capital ratio was the lower derived under the Basel III Advanced Approaches framework for all periods presented.
+(4)Tier 1 Leverage ratio denominator. Represents quarterly average total assets less amounts deducted from Tier 1 Capital.
+(5)Supplementary Leverage ratio denominator. Commencing with the second quarter of 2020, Citigroup’s Total Leverage Exposure temporarily excludes U.S. Treasuries and deposits at Federal Reserve Banks. For additional information, see “Temporary Supplementary Leverage Ratio Relief” above.
+
+
+37
+
+Common Equity Tier 1 Capital Ratio
+Citi’s Common Equity Tier 1 Capital ratio was 11.7% at December 31, 2020 and September 30, 2020, both under the Basel III Advanced Approaches framework. Citi’s reportable Common Equity Tier 1 Capital ratio was 11.8% at December 31, 2019 under the Basel III Standardized Approach. Citi’s Common Equity Tier 1 Capital ratio remained unchanged from September 30, 2020, as a net increase in risk-weighted assets and the return of $1.1 billion capital to common
+shareholders in the form of dividends were offset by quarter-to-date net income of $4.3 billion. Citi’s Common Equity Tier 1 Capital ratio decreased from year-end 2019, largely driven by a net increase in risk-weighted assets and the return of $7.2 billion of capital to common shareholders in the form of share repurchases and dividends, partially offset by year-to-date net income of $11.0 billion, beneficial net movements in AOCI, and the relief of the modified CECL transition provision.
+Components of Citigroup Capital
+								
+In millions of dollars
+	December 31,
+2020	December 31,
+2019
+Common Equity Tier 1 Capital
+		
+Citigroup common stockholders’ equity(1)
+	$	180,118 		$	175,414 	
+Add: Qualifying noncontrolling interests
+	141 		154 	
+Regulatory capital adjustments and deductions:
+		
+Add: CECL transition and 25% provision deferral(2)
+	5,348 		— 	
+Less: Accumulated net unrealized gains (losses) on cash flow hedges, net of tax
+	1,593 		123 	
+Less: Cumulative unrealized net gain (loss) related to changes in fair value of financial liabilities attributable to own creditworthiness, net of tax
+	(1,109)		(679)	
+Less: Intangible assets:
+		
+  Goodwill, net of related DTLs(3)
+	21,124 		21,066 	
+   Identifiable intangible assets other than MSRs, net of related DTLs
+	4,166 		4,087 	
+Less: Defined benefit pension plan net assets
+	921 		803 	
+Less: DTAs arising from net operating loss, foreign tax credit and general business credit
+carry-forwards(4)
+	11,638 		12,370 	
+Total Common Equity Tier 1 Capital (Advanced Approaches and Standardized Approach)
+	$	147,274 		$	137,798 	
+Additional Tier 1 Capital
+		
+Qualifying noncumulative perpetual preferred stock(1)
+	$	19,324 		$	17,828 	
+Qualifying trust preferred securities(5)
+	1,393 		1,389 	
+Qualifying noncontrolling interests
+	35 		42 	
+Regulatory capital deductions:
+		
+Less: Permitted ownership interests in covered funds(6)
+	917 		1,216 	
+Less: Other
+	56 		36 	
+Total Additional Tier 1 Capital (Advanced Approaches and Standardized Approach)
+	$	19,779 		$	18,007 	
+Total Tier 1 Capital (Common Equity Tier 1 Capital + Additional Tier 1 Capital)
+(Advanced Approaches and Standardized Approach)
+	$	167,053 		$	155,805 	
+Tier 2 Capital
+		
+Qualifying subordinated debt
+	$	23,481 		$	23,673 	
+Qualifying trust preferred securities(7)
+	331 		326 	
+Qualifying noncontrolling interests
+	41 		46 	
+Excess of eligible credit reserves over expected credit losses(2)(8)
+	5,084 		1,523 	
+Regulatory capital deduction:
+		
+Less: Other
+	31 		36 	
+Total Tier 2 Capital (Advanced Approaches)
+	$	28,906 		$	25,532 	
+Total Capital (Tier 1 Capital + Tier 2 Capital) (Advanced Approaches)
+	$	195,959 		$	181,337 	
+Adjustment for eligible allowance for credit losses(2)(8)
+	$	8,890 		$	12,374 	
+Total Tier 2 Capital (Standardized Approach)
+	$	37,796 		$	37,906 	
+Total Capital (Tier 1 Capital + Tier 2 Capital) (Standardized Approach)
+	$	204,849 		$	193,711 	
+
+Footnotes continue on the following page.
+
+38
+
+(1)Issuance costs of $156 million and $152 million related to noncumulative perpetual preferred stock outstanding at December 31, 2020 and 2019, respectively, are excluded from common stockholders’ equity and netted against such preferred stock in accordance with Federal Reserve Board regulatory reporting requirements, which differ from those under U.S. GAAP.
+(2)Citi has elected to apply the modified transition provision related to the impact of the CECL accounting standard on regulatory capital, as provided by the U.S. banking agencies’ September 2020 final rule. Under the modified CECL transition provision, the changes in retained earnings (after-tax) and the ACL upon the January 1, 2020 CECL adoption date have been deferred and will phase in to regulatory capital at 25% per year commencing January 1, 2022. For the ongoing impact of CECL, Citigroup is allowed to adjust retained earnings and the ACL in an amount equal to 25% of the change in the ACL recognized through earnings (pretax) for each period between January 1, 2020 and December 31, 2021. The cumulative adjustments to retained earnings and the ACL between January 1, 2020 and December 31, 2021 will also phase in to regulatory capital at 25% per year commencing January 1, 2022, along with the deferred impacts related to the January 1, 2020 CECL adoption date.
+(3)Includes goodwill “embedded” in the valuation of significant common stock investments in unconsolidated financial institutions.
+(4)Of Citi's $24.8 billion of net DTAs at December 31, 2020, $15.3 billion was includable in Common Equity Tier 1 Capital pursuant to the U.S. Basel III rules, while $9.5 billion was excluded. Excluded from Citi's Common Equity Tier 1 Capital as of December 31, 2020 was $11.6 billion of net DTAs arising from net operating loss, foreign tax credit and general business credit tax carry-forwards. The amount excluded was reduced by $2.1 billion of net DTLs primarily associated with goodwill and certain other intangible assets that are separately deducted from capital. DTAs arising from tax carry-forwards are required to be entirely deducted from Common Equity Tier 1 Capital under the U.S. Basel III rules. DTAs arising from temporary differences are required to be deducted from capital only if these DTAs exceed a 10% limitation under the U.S. Basel III rules. Citi’s DTAs do not currently exceed this limitation and, therefore, are not subject to deduction from Common Equity Tier 1 Capital, but are subject to risk weighting at 250%.
+(5)Represents Citigroup Capital XIII trust preferred securities, which are permanently grandfathered as Tier 1 Capital under the U.S. Basel III rules.
+(6)Banking entities are required to be in compliance with the Volcker Rule of the Dodd-Frank Act, which prohibits conducting certain proprietary investment activities and limits their ownership of, and relationships with, covered funds. The U.S. agencies issued a revised Volcker Rule 2.0 in November 2019 that removes permitted investments in third-party covered funds from capital deduction requirements, among other changes. Upon the removal of the capital deduction, permitted investments in third-party covered funds will be included in risk-weighted assets. Mandatory compliance with the revised Volcker Rule 2.0 is required by January 1, 2021, with early adoption permitted, in whole or in part, beginning January 1, 2020. Additionally, the U.S. agencies issued a revised Volcker Rule 2.1 in July 2020 that improves and streamlines several “covered funds” requirements, with an effective date of October 1, 2020. Citi continues to deduct from Tier 1 Capital all permitted ownership interests in covered funds for all periods presented.
+(7)Represents the amount of non-grandfathered trust preferred securities eligible for inclusion in Tier 2 Capital under the U.S. Basel III rules, which will be fully phased out of Tier 2 Capital by January 1, 2022.
+(8)Under the Advanced Approaches framework, eligible credit reserves that exceed expected credit losses are eligible for inclusion in Tier 2 Capital to the extent that the excess reserves do not exceed 0.6% of credit risk-weighted assets, which differs from the Standardized Approach, in which the ACL is eligible for inclusion in Tier 2 Capital up to 1.25% of credit risk-weighted assets, with any excess ACL being deducted in arriving at credit risk-weighted assets. The total amount of ACL that was eligible for inclusion in Tier 2 Capital, subject to limitation, under the Standardized Approach framework was $14.0 billion and $13.9 billion at December 31, 2020 and December 31, 2019 respectively.
+
+
+
+
+
+
+
+
+
+
+
+
+39
+
+Citigroup Capital Rollforward
+								
+In millions of dollars
+	Three months ended December 31, 2020	Twelve months ended
+December 31, 2020
+Common Equity Tier 1 Capital, beginning of period
+	$	142,158 		$	137,798 	
+Net income
+	4,309 		11,047 	
+Common and preferred dividends declared
+	(1,340)		(5,394)	
+ Net change in treasury stock
+	8 		(2,469)	
+Net increase in common stock and additional paid-in capital
+	87 		10 	
+Net change in foreign currency translation adjustment net of hedges, net of tax
+	2,401 		(250)	
+Net change in unrealized gains (losses) on debt securities AFS, net of tax
+	(98)		3,585 	
+Net change in defined benefit plans liability adjustment, net of tax
+	62 		(55)	
+Net change in adjustment related to change in fair value of financial liabilities
+attributable to own creditworthiness, net of tax
+	62 		(45)	
+Net increase in excluded component of fair value hedges
+	(16)		(15)	
+Net increase in goodwill, net of related DTLs
+	(602)		(58)	
+Net change in identifiable intangible assets other than MSRs, net of related DTLs
+	82 		(79)	
+Net change in defined benefit pension plan net assets
+	28 		(118)	
+ Net decrease in DTAs arising from net operating loss, foreign tax credit and
+ general business credit carry-forwards
+	423 		732 	
+Net change in CECL 25% provision deferral	(290)		2,463 	
+Other
+	— 		122 	
+Net increase in Common Equity Tier 1 Capital
+	$	5,116 		$	9,476 	
+Common Equity Tier 1 Capital, end of period
+(Advanced Approaches and Standardized Approach)
+	$	147,274 		$	147,274 	
+Additional Tier 1 Capital, beginning of period
+	$	18,153 		$	18,007 	
+Net increase in qualifying perpetual preferred stock
+	1,495 		1,496 	
+Net change in qualifying trust preferred securities
+	— 		4 	
+Net decrease in permitted ownership interests in covered funds
+	158 		299 	
+Other
+	(27)		(27)	
+Net increase in Additional Tier 1 Capital
+	$	1,626 		$	1,772 	
+Tier 1 Capital, end of period
+(Advanced Approaches and Standardized Approach)
+	$	167,053 		$	167,053 	
+Tier 2 Capital, beginning of period (Advanced Approaches)
+	$	29,113 		$	25,532 	
+Net decrease in qualifying subordinated debt
+	(397)		(192)	
+Net increase in excess of eligible credit reserves over expected credit losses
+	185 		3,561 	
+Other
+	5 		5 	
+Net change in Tier 2 Capital (Advanced Approaches)
+	$	(207)		$	3,374 	
+Tier 2 Capital, end of period (Advanced Approaches)
+	$	28,906 		$	28,906 	
+Total Capital, end of period (Advanced Approaches)
+	$	195,959 		$	195,959 	
+Tier 2 Capital, beginning of period (Standardized Approach)
+	$	37,768 		$	37,877 	
+Net decrease in qualifying subordinated debt
+	(397)		(192)	
+Net increase in eligible allowance for credit losses
+	420 		106 	
+Other
+	5 		5 	
+Net change in Tier 2 Capital (Standardized Approach)
+	$	28 		$	(81)	
+Tier 2 Capital, end of period (Standardized Approach)
+	$	37,796 		$	37,796 	
+Total Capital, end of period (Standardized Approach)
+	$	204,849 		$	204,849 	
+
+
+
+40
+
+Citigroup Risk-Weighted Assets Rollforward (Basel III Advanced Approaches)
+								
+In millions of dollars
+	Three months ended December 31, 2020	Twelve months ended
+December 31, 2020
+ Total Risk-Weighted Assets, beginning of period	$	1,218,977 		$	1,142,804 	
+Changes in Credit Risk-Weighted Assets
+		
+Retail exposures(1)
+	(299)		(23,709)	
+Wholesale exposures(2)
+	(1,690)		24,631 	
+Repo-style transactions(3)
+	1,277 		15,618 	
+Securitization exposures
+	1,122 		(1,089)	
+Equity exposures
+	874 		924 	
+Over-the-counter (OTC) derivatives(4)
+	5,199 		21,837 	
+Derivatives CVA(5)
+	7,138 		17,713 	
+Other exposures(6)
+	8,884 		6,810 	
+Supervisory 6% multiplier
+	845 		2,880 	
+Net increase in Credit Risk-Weighted Assets
+	$	23,350 		$	65,615 	
+Changes in Market Risk-Weighted Assets
+		
+Risk levels(7)
+	$	6,726 		$	31,744 	
+Model and methodology updates(7)
+	4,213 		18,751 	
+Net increase in Market Risk-Weighted Assets
+	$	10,939 		$	50,495 	
+Net change in Operational Risk-Weighted Assets(8)
+	$	2,018 		$	(3,630)	
+Total Risk-Weighted Assets, end of period
+	$	1,255,284 		$	1,255,284 	
+
+(1)Retail exposures decreased during the 12 months ended December 31, 2020, primarily driven by lower consumer activity in 2020 due to the pandemic.
+(2)Wholesale exposures decreased during the three months ended December 31, 2020, primarily due to reductions in commercial loans partially offset by an increase in investment securities. Wholesale exposures increased during the 12 months ended December 31, 2020, primarily due to increases in investment securities and rating downgrades partially offset by annual model parameter updates reflecting Citi’s loss experiences.
+(3)Repo-style transactions include repurchase and reverse repurchase transactions as well as securities borrowing and securities lending transactions. Repo-style transactions increased during the 12 months ended December 31, 2020, mainly driven by market volatility and volume increases.
+(4)OTC derivatives increased during the three months ended December 31, 2020, primarily due to an increase in mark-to-market gains for bilateral derivatives. OTC derivatives increased during the 12 months ended December 31, 2020, primarily due to increases in mark-to-market gains and notional for bilateral derivatives.
+(5)Derivatives CVA increased during the three months ended December 31, 2020, primarily due to new trades with higher credit spreads and sensitivity. Derivatives CVA increased during the 12 months ended December 31, 2020, primarily due to widening credit spreads and market volatility.
+(6)Other exposures include cleared transactions, unsettled transactions, assets other than those reportable in specific exposure categories and non-material portfolios. Other exposures increased during the three months and 12 months ended December 31, 2020, primarily due to increases in centrally cleared transactions and various other assets.
+(7)Market risk-weighted assets increased during the three months ended December 31, 2020 primarily due to changes in exposures impacting Stressed Value at Risk and Securitization charges. Market risk-weighted assets increased during the 12 months ended December 31, 2020 primarily driven by increases in market volatility due to the pandemic.
+(8)Operational risk-weighted assets increased during the three months December 31, 2020, primarily due to changes in operational loss frequency. Operational risk-weighted assets decreased during the 12 months ended December 31, 2020, primarily due to changes in operational loss severity and frequency.
+
+
+
+41
+
+Citigroup Risk-Weighted Assets Rollforward (Basel III Standardized Approach)
+								
+In millions of dollars
+	Three months ended December 31, 2020	Twelve months ended
+December 31, 2020
+ Total Risk-Weighted Assets, beginning of period	$	1,178,219 		$	1,168,848 	
+Changes in Credit Risk-Weighted Assets
+		
+General credit risk exposures(1)
+	11,075 		(26,602)	
+Repo-style transactions(2)
+	6,274 		13,440 	
+Securitization exposures
+	1,184 		1,119 	
+Equity exposures
+	1,387 		1,269 	
+Over-the-counter (OTC) derivatives(3)
+	4,518 		16,331 	
+Other exposures(4)
+	5,275 		(1,582)	
+Off-balance sheet exposures(5)
+	2,003 		(4,640)	
+Net change in Credit Risk-Weighted Assets
+	$	31,716 		$	(665)	
+Changes in Market Risk-Weighted Assets
+		
+Risk levels(6)
+	$	7,428 		$	34,642 	
+Model and methodology updates(6)
+	4,213 		18,751 	
+Net increase in Market Risk-Weighted Assets
+	$	11,641 		$	53,393 	
+Total Risk-Weighted Assets, end of period
+	$	1,221,576 		$	1,221,576 	
+
+(1)General credit risk exposures include cash and balances due from depository institutions, securities, and loans and leases. General credit risk exposures increased during the three months ended December 31, 2020 primarily due to new accounts and holiday spending for qualifying revolving exposures (cards) partially offset by reductions in commercial loans. General credit risk exposures decreased during the 12 months ended December 31, 2020 primarily due to lesser spending for qualifying revolving (cards) exposures due to the pandemic.
+(2)Repo-style transactions include repurchase and reverse repurchase transactions as well as securities borrowing and securities lending transactions. Repo-style transactions increased during the three months and 12 months ended December 31, 2020, primarily due to increases in exposure and volume.
+(3)OTC derivatives increased during the three months ended December 31, 2020 primarily due to an increases in mark-to-market gains for bilateral derivatives. OTC derivatives increased during the 12 months ended December 31, 2020 primarily due to increases in mark-to-market gains and notional for bilateral derivatives.
+(4)Other exposures include cleared transactions, unsettled transactions, and other assets. Other exposures increased during three months ended December 31, 2020 primarily due to increases in other assets and centrally cleared transactions. Other exposures decreased during the 12 months ended December 31, 2020 primarily due to decreases in notional for centrally cleared derivatives and excess of credit reserves not included in Tier 2 capital eligible for RWA reduction.
+(5)Off-balance sheet exposures increased during the three months ended December 31, 2020 primarily due to an increase in loan commitments. Off-balance sheet exposures decreased during the 12 months ended December 31, 2020 primarily due to a decrease in loan commitments.
+(6)Market risk-weighted assets increased during the three months ended December 31, 2020 primarily due to changes in exposures impacting Stressed Value at Risk and Securitization charges. Market risk-weighted assets increased during the 12 months ended December 31, 2020 primarily driven by increases in market volatility due to the pandemic.
+
+42
+
+Supplementary Leverage Ratio
+The following table sets forth Citi’s Supplementary Leverage ratio and related components as of December 31, 2020, September 30, 2020 and December 31, 2019:
+											
+In millions of dollars, except ratios	December 31, 2020	September 30, 2020	December 31, 2019
+Tier 1 Capital	$	167,053 		$	160,311 		$	155,805 	
+Total Leverage Exposure			
+On-balance sheet assets(1)(2)(3)
+	$	1,864,374 		$	1,844,609 		$	1,996,617 	
+Certain off-balance sheet exposures:(4)
+			
+   Potential future exposure on derivative contracts	183,604 		176,424 		175,289 	
+   Effective notional of sold credit derivatives, net(5)
+	32,640 		33,103 		38,481 	
+   Counterparty credit risk for repo-style transactions(6)
+	20,168 		18,095 		23,715 	
+   Unconditionally cancelable commitments	71,163 		71,338 		70,870 	
+   Other off-balance sheet exposures	253,754 		244,934 		248,308 	
+Total of certain off-balance sheet exposures	$	561,329 		$	543,894 		$	556,663 	
+Less: Tier 1 Capital deductions	38,822 		38,883 		39,578 	
+Total Leverage Exposure(3)
+	$	2,386,881 		$	2,349,620 		$	2,513,702 	
+Supplementary Leverage ratio	7.00 	%	6.82 	%	6.20 	%
+
+(1)Represents the daily average of on-balance sheet assets for the quarter.
+(2)Citi has elected to apply the modified transition provision related to the impact of the CECL accounting standard on regulatory capital, as provided by the U.S. banking agencies’ September 2020 final rule. Under the modified CECL transition provision, the changes in DTAs arising from temporary differences and the ACL upon the January 1, 2020 CECL adoption date have been deferred and will phase in to regulatory capital at 25% per year commencing January 1, 2022. For the ongoing impact of CECL, Citigroup is allowed to adjust the ACL in an amount equal to 25% of the change in the ACL recognized through earnings (pretax) for each period between January 1, 2020 and December 31, 2021. The cumulative adjustments to the ACL between January 1, 2020 and December 31, 2021 will also phase in to regulatory capital at 25% per year commencing January 1, 2022, along with the deferred impacts related to the January 1, 2020 CECL adoption date. Corresponding adjustments to average on-balance sheet assets are reflected in Total Leverage Exposure.
+(3)Commencing with the second quarter of 2020, Citigroup’s Total Leverage Exposure temporarily excludes U.S. Treasuries and deposits at Federal Reserve Banks. For additional information, see “Temporary Supplementary Leverage Ratio Relief” above.
+(4)Represents the average of certain off-balance sheet exposures calculated as of the last day of each month in the quarter.
+(5)Under the U.S. Basel III rules, banking organizations are required to include in Total Leverage Exposure the effective notional amount of sold credit derivatives, with netting of exposures permitted if certain conditions are met.
+(6)Repo-style transactions include repurchase or reverse repurchase transactions as well as securities borrowing or securities lending transactions.
+
+As set forth in the table above, Citigroup’s Supplementary Leverage ratio was 7.0% at December 31, 2020, compared to 6.8% at September 30, 2020 and 6.2% at December 31, 2019. The quarter-over-quarter increase was primarily driven by an increase in Tier 1 Capital resulting from net income and beneficial net movements in AOCI, partially offset by an increase in both average on-balance sheet assets and average off-balance sheet exposures. The year-over-year increase was primarily driven by a decrease in Total Leverage Exposure mainly attributable to the 109 basis point benefit resulting from the Federal Reserve Board’s temporary Supplementary Leverage ratio relief.
+
+
+
+
+43
+
+Capital Resources of Citigroup’s Subsidiary U.S.
+Depository Institutions
+Citigroup’s subsidiary U.S. depository institutions are also subject to regulatory capital standards issued by their respective primary bank regulatory agencies, which are similar to the standards of the Federal Reserve Board.
+The following tables set forth the capital components and ratios for Citibank, Citi’s primary subsidiary U.S. depository institution, as of December 31, 2020, September 30, 2020 and December 31, 2019:
+																							
+		Advanced Approaches	Standardized Approach
+In millions of dollars, except ratios
+	
+Effective Minimum Requirement(1)
+	Dec. 31, 2020	Sept. 30, 2020	Dec. 31, 2019	Dec. 31, 2020	Sept. 30, 2020	Dec. 31, 2019
+Common Equity Tier 1 Capital(2)
+		$	142,884 		$	138,310 		$	130,720 		$	142,884 		$	138,310 		$	130,720 	
+Tier 1 Capital
+		144,992 		140,397 		132,847 		144,992 		140,397 		132,847 	
+Total Capital (Tier 1 Capital + Tier 2 Capital)(2)(3)
+		161,294 		156,697 		145,918 		169,235 		164,459 		157,253 	
+Total Risk-Weighted Assets
+		1,012,129 		1,003,634 		938,735 		1,030,081 		1,010,583 		1,022,607 	
+   Credit Risk(2)
+		$	707,163 		$	706,187 		$	671,131 		$	969,416 		$	954,127 		$	993,010 	
+   Market Risk
+		59,815 		55,853 		29,167 		60,665 		56,456 		29,597 	
+   Operational Risk
+		245,151 		241,594 		238,437 		— 		— 		— 	
+Common Equity Tier 1 Capital ratio(4)(5)
+	7.00 	%	14.12 	%	13.78 	%	13.93 	%	13.87 	%	13.69 	%	12.78 	%
+Tier 1 Capital ratio(4)(5)
+	8.50 		14.33 		13.99 		14.15 		14.08 		13.89 		12.99 	
+Total Capital ratio(4)(5)
+	10.50 		15.94 		15.61 		15.54 		16.43 		16.27 		15.38 	
+																							
+In millions of dollars, except ratios
+	
+Effective Minimum Requirement
+	Dec. 31, 2020	Sept. 30, 2020	Dec. 31, 2019
+Quarterly Adjusted Average Total Assets(2)(6)
+		$	1,680,056 		$	1,646,280 		$	1,459,780 	
+Total Leverage Exposure(2)(7)
+		2,167,969 		2,128,033 		1,958,173 	
+Tier 1 Leverage ratio(5)
+	
+5.0%
+	8.63 	%	8.53 	%	9.10 	%
+Supplementary Leverage ratio(5)
+	6.0	6.69 		6.60 		6.78 	
+
+(1)Citibank’s effective minimum risk-based capital requirements are inclusive of the 2.5% Capital Conservation Buffer (all of which must be composed of Common Equity Tier 1 Capital).
+(2)Citibank has elected to apply the modified transition provision related to the impact of the CECL accounting standard on regulatory capital, as provided by the U.S. banking agencies’ September 2020 final rule. Under the modified CECL transition provision, the changes in retained earnings (after-tax), deferred tax assets (DTAs) arising from temporary differences, and the ACL upon the January 1, 2020 CECL adoption date have been deferred and will phase in to regulatory capital at 25% per year commencing January 1, 2022. For the ongoing impact of CECL, Citibank is allowed to adjust retained earnings and the ACL in an amount equal to 25% of the change in the ACL recognized through earnings (pretax) for each period between January 1, 2020 and December 31, 2021. The cumulative adjustments to retained earnings and the ACL between January 1, 2020 and December 31, 2021 will also phase in to regulatory capital at 25% per year commencing January 1, 2022, along with the deferred impacts related to the January 1, 2020 CECL adoption date. Corresponding adjustments to average on-balance sheet assets are reflected in quarterly adjusted average total assets and Total Leverage Exposure. Additionally, the increase in DTAs arising from temporary differences upon the January 1, 2020 adoption date has been deducted from risk-weighted assets (RWA) and will phase in to RWA at 25% per year commencing January 1, 2022.
+(3)Under the Advanced Approaches framework, eligible credit reserves that exceed expected credit losses are eligible for inclusion in Tier 2 Capital to the extent that the excess reserves do not exceed 0.6% of credit risk-weighted assets, which differs from the Standardized Approach in which the ACL is eligible for inclusion in Tier 2 Capital up to 1.25% of credit risk-weighted assets, with any excess ACL being deducted in arriving at credit risk-weighted assets.
+(4)Citibank’s reportable Total Capital ratio was derived under the Basel III Advanced Approaches framework as of December 31, 2020 and September 30, 2020, and the Basel III Standardized Approach as of December 31, 2019, whereas Citibank’s reportable Common Equity Tier 1 Capital and Tier 1 Capital ratios were the lower derived under the Basel III Standardized Approach framework for all periods presented.
+(5)Citibank must maintain minimum Common Equity Tier 1 Capital, Tier 1 Capital, Total Capital and Tier 1 Leverage ratios of 6.5%, 8.0%, 10.0% and 5.0%, respectively, to be considered “well capitalized” under the revised Prompt Corrective Action (PCA) regulations applicable to insured depository institutions as established by the U.S. Basel III rules. Citibank must also maintain a minimum Supplementary Leverage ratio of 6.0% to be considered “well capitalized.”
+(6)Tier 1 Leverage ratio denominator. Represents quarterly average total assets less amounts deducted from Tier 1 Capital.
+(7)Supplementary Leverage ratio denominator. Citibank did not elect to temporarily exclude U.S. Treasuries and deposits at Federal Reserve Banks from Total Leverage Exposure. For additional information, see “Temporary Supplementary Leverage Ratio Relief” above.
+
+As indicated in the table above, Citibank’s capital ratios at December 31, 2020 were in excess of the stated and effective minimum requirements under the U.S. Basel III rules. In addition, Citibank was also “well capitalized” as of December 31, 2020.
+
+
+44
+
+Impact of Changes on Citigroup and Citibank Capital Ratios
+The following tables present the estimated sensitivity of Citigroup’s and Citibank’s capital ratios to changes of $100 million in Common Equity Tier 1 Capital, Tier 1 Capital and Total Capital (numerator), and changes of $1 billion in Advanced Approaches and Standardized Approach risk-weighted assets and quarterly adjusted average total assets, as well as Total Leverage Exposure (denominator), as of December 31, 2020. This information is provided for the
+purpose of analyzing the impact that a change in Citigroup’s or Citibank’s financial position or results of operations could have on these ratios. These sensitivities only consider a single change to either a component of capital, risk-weighted assets, quarterly adjusted average total assets or Total Leverage Exposure. Accordingly, an event that affects more than one factor may have a larger basis point impact than is reflected in these tables.
+
+																				
+	
+Common Equity
+Tier 1 Capital ratio
+	
+Tier 1 Capital ratio
+	
+Total Capital ratio
+In basis points
+	
+Impact of
+$100 million
+change in
+Common Equity
+Tier 1 Capital
+	
+Impact of
+$1 billion
+change in risk-
+weighted assets
+	
+Impact of
+$100 million
+change in
+Tier 1 Capital
+	
+Impact of
+$1 billion
+change in risk-
+weighted assets
+	
+Impact of
+$100 million
+change in
+Total Capital
+	
+Impact of
+$1 billion
+change in risk-
+weighted assets
+Citigroup
+						
+Advanced Approaches
+	0.8	0.9	0.8	1.1	0.8	1.2
+Standardized Approach
+	0.8	1.0	0.8	1.1	0.8	1.4
+Citibank
+						
+Advanced Approaches
+	1.0	1.4	1.0	1.4	1.0	1.6
+Standardized Approach
+	1.0	1.3	1.0	1.4	1.0	1.6
+														
+	
+Tier 1 Leverage ratio
+	
+Supplementary Leverage ratio
+In basis points
+	
+Impact of
+$100 million
+change in
+Tier 1 Capital
+	
+Impact of
+$1 billion
+change in quarterly adjusted average total assets
+	
+Impact of
+$100 million
+change in
+Tier 1 Capital
+	
+Impact of
+$1 billion
+change in Total Leverage Exposure
+Citigroup
+	0.4	0.3	0.4	0.3
+Citibank
+	0.6	0.5	0.5	0.3
+
+Citigroup Broker-Dealer Subsidiaries
+At December 31, 2020, Citigroup Global Markets Inc., a U.S. broker-dealer registered with the SEC that is an indirect wholly owned subsidiary of Citigroup, had net capital, computed in accordance with the SEC’s net capital rule, of $12.7 billion, which exceeded the minimum requirement by $9.2 billion.
+Moreover, Citigroup Global Markets Limited, a broker-dealer registered with the United Kingdom’s Prudential Regulation Authority (PRA) that is also an indirect wholly owned subsidiary of Citigroup, had total capital of $23.5 billion at December 31, 2020, which exceeded the PRA’s minimum regulatory capital requirements.
+In addition, certain of Citi’s other broker-dealer
+subsidiaries are subject to regulation in the countries in which they do business, including requirements to maintain specified levels of net capital or its equivalent. Citigroup’s other principal broker-dealer subsidiaries were in compliance with their regulatory capital requirements at December 31, 2020.
+
+45
+
+Total Loss-Absorbing Capacity (TLAC)
+U.S. GSIBs, including Citi, are required to maintain minimum
+levels of TLAC and eligible long-term debt (LTD), each set by
+reference to the GSIB’s consolidated risk-weighted assets
+(RWA) and total leverage exposure.
+
+Minimum External TLAC Requirement
+The minimum external TLAC requirement is the greater of (i) 18% of the GSIB’s RWA plus the then-applicable RWA-based TLAC buffer (see below) and (ii) 7.5% of the GSIB’s total leverage exposure plus a leverage-based TLAC buffer of 2% (i.e., 9.5%).
+The RWA-based TLAC buffer equals the 2.5% capital
+conservation buffer, plus any applicable countercyclical
+capital buffer (currently 0%), plus the GSIB’s capital
+surcharge as determined under method 1 of the GSIB
+surcharge rule (2.0% for Citi for 2020). Accordingly, Citi’s
+total current minimum TLAC requirement was 22.5% of RWA for 2020.
+
+Minimum LTD Requirement
+The minimum LTD requirement is the greater of (i) 6% of the GSIB’s RWA plus its capital surcharge as determined under method 2 of the GSIB surcharge rule (3.0% for Citi for 2020), for a total current requirement of 9% of RWA for Citi, and (ii) 4.5% of the GSIB’s total leverage exposure.
+
+
+The table below details Citi’s eligible external TLAC and
+LTD amounts and ratios, and each effective minimum TLAC and LTD ratio requirement, as well as the surplus amount in dollars in excess of each requirement.
+								
+	December 31, 2020
+In billions of dollars, except ratios	External TLAC	LTD
+Total eligible amount	$	311 		$	140 	
+% of Advanced Approaches risk-
+weighted assets	24.8 	%	11.1 	%
+Effective minimum requirement(1)(2)
+	22.5 		9.0 	
+Surplus amount	$	29 		$	27 	
+% of Total Leverage Exposure(3)
+	13.0 	%	5.8 	%
+Effective minimum requirement	9.5 		4.5 	
+Surplus amount	$	85 		$	32 	
+
+(1)    External TLAC includes Method 1 GSIB surcharge of 2.0%.
+(2)    LTD includes Method 2 GSIB surcharge of 3.0%.
+(3)    Commencing with the second quarter of 2020, Citigroup’s Total Leverage Exposure temporarily excludes U.S. Treasuries and deposits at Federal Reserve Banks.
+
+As of December 31, 2020, Citi exceeded each of the
+minimum TLAC and LTD requirements, resulting in a $27
+billion surplus above its binding TLAC requirement of LTD as
+a percentage of Advanced Approaches risk-weighted assets.
+For additional discussion of the method 1 and method 2
+GSIB capital surcharge methodologies, see “Regulatory Capital Buffers—GSIB Surcharge” above.
+For additional information on Citi’s TLAC-related requirements, see “Risk Factors—Compliance Risks” and “Liquidity Risk—Total Loss-Absorbing Capacity (TLAC)” below.
+
+Capital Resources (Full Adoption of CECL, and Excluding Temporary Supplementary Leverage Ratio Relief for Citigroup)
+The following tables set forth Citigroup’s and Citibank’s capital components and ratios reflecting the full impact of CECL, and excluding temporary Supplementary Leverage ratio relief for Citigroup, as of December 31, 2020:
+																				
+	Citigroup	Citibank
+	Effective Minimum Requirement	Advanced Approaches	Standardized Approach	Effective Minimum Requirement	Advanced Approaches	Standardized Approach
+Common Equity Tier 1 Capital ratio
+	10.0 	%	11.34 	%	11.65 	%	7.0 	%	13.67 	%	13.43 	%
+Tier 1 Capital ratio
+	11.5 		12.92 		13.28 		8.5 		13.88 		13.64 	
+Total Capital ratio	13.5 		15.23 		16.38 		10.5 		15.50 		16.00 	
+																				
+	Effective Minimum Requirement	Citigroup	Effective Minimum Requirement	Citibank
+Tier 1 Leverage ratio
+	4.0 	%	7.15 %	5.0 	%	8.36 %
+Supplementary Leverage ratio(1)
+	5.0 		5.73	6.0 		6.47
+
+(1)Citigroup’s Supplementary Leverage ratio, as presented in the table above, reflects the full impact of CECL as well as the inclusion of U.S. Treasuries and deposits at Federal Reserve Banks in Total Leverage Exposure.
+
+
+46
+
+Regulatory Capital Standards Developments
+
+U.S. Banking Agencies
+
+TLAC Holdings
+In January 2021, the U.S. banking agencies issued a final rule that creates a new regulatory capital deduction applicable to Advanced Approaches banking organizations for certain investments in covered debt instruments issued by GSIBs. The final rule is substantially consistent with an April 2019 proposal, and is intended to reduce interconnectedness and systemic risk by creating an incentive for Advanced Approaches banking organizations to limit their exposure to GSIBs.
+Under the U.S. Basel III rules, non-significant investments in the capital of unconsolidated financial institutions are subject to deduction from regulatory capital using the corresponding deduction approach if, in the aggregate, they exceed 10% of the banking organization’s Common Equity Tier 1 Capital. Non-significant investments in the capital of unconsolidated financial institutions that are not deducted from regulatory capital are risk weighted in the usual manner.
+Under the final rule, an investment in a “covered debt instrument” will be treated as an investment in a Tier 2 Capital instrument and, therefore, will be subject to deduction from the Advanced Approaches banking organization’s own Tier 2 Capital in accordance with the existing rules for non-significant investments in unconsolidated financial institutions. Covered debt instruments include unsecured debt instruments that are “eligible debt securities” for purposes of the TLAC rule, or that are pari passu or subordinated to such securities, in addition to certain unsecured debt instruments issued by foreign GSIBs.
+To support a deep and liquid market for covered debt instruments, the rule provides an exception from the approach described above for covered debt instruments held for market-making activities for 30 days or less (or longer, for synthetic exposures only), if the aggregate amount of such debt instruments does not exceed 5% of the banking organization’s Common Equity Tier 1 Capital.
+Additionally, the final rule requires banking organizations to deduct from Tier 2 Capital investments in their own covered debt instruments.
+The final rule will become effective for Citigroup and Citibank on April 1, 2021. Citi estimates that the final rule will not significantly impact Citigroup or Citibank’s regulatory capital upon adoption.
+
+
+Standardized Approach for Counterparty Credit Risk
+In January 2020, the U.S. banking agencies issued a final
+rule to introduce the Standardized Approach for
+Counterparty Credit Risk (SA-CCR) in the U.S. The
+mandatory compliance date of the SA-CCR final rule is
+January 1, 2022, and early adoption was originally
+permitted beginning April 1, 2020. For additional
+information on the SA-CCR final rule, see “Capital
+Resources—Regulatory Capital Standards Developments”
+in Citi’s 2019 Annual Report on Form 10-K.
+In March 2020, the U.S. banking agencies issued an
+interim final rule permitting banks to early adopt the SA-CCR final rule beginning with the quarter ended March 31,
+2020.
+Citi has not early adopted the SA-CCR final rule. Citi intends to implement SA-CCR upon the mandatory compliance date of January 1, 2022.
+
+Basel Committee
+
+Deferral of Basel III Revisions
+In April 2020, in light of the COVID-19 pandemic, the
+Basel Committee on Banking Supervision (Basel
+Committee) announced that the implementation date of the
+Basel III post-crisis regulatory reforms finalized in
+December 2017 has been deferred by one year to January 1,
+2023. The reforms relate to the methodologies in deriving
+credit and operational risk-weighted assets, the imposition
+of a new aggregate output floor for risk-weighted assets,
+and revisions to the leverage ratio framework. The Basel Committee also announced that the implementation date of
+the revised market risk framework finalized in January
+2019 has been deferred by one year to January 1, 2023.
+The U.S. banking agencies may revise the U.S. Basel
+III rules in the future, in response to the Basel Committee’s
+Basel III post-crisis regulatory reforms and revised market
+risk framework.
+
+Targeted Revisions to the Credit Valuation Adjustment
+Framework
+In July 2020, the Basel Committee issued a standard with targeted revisions to the credit valuation adjustment (CVA) risk framework, which was previously finalized in December 2017 and will become effective on January 1, 2023. The revisions align the revised CVA risk framework, in part, with the revised market risk capital framework that was finalized in January 2019. The Basel Committee also adjusted the overall calibration of capital requirements calculated under their CVA risk framework.
+The U.S. agencies may consider revisions to the CVA risk
+framework under the U.S. Basel III rules in the future, based
+upon the revisions adopted by the Basel Committee.
+47
+
+Tangible Common Equity, Book Value Per Share, Tangible Book Value Per Share and Returns on Equity
+Tangible common equity (TCE), as defined by Citi, represents common stockholders’ equity less goodwill and identifiable intangible assets (other than MSRs). Other companies may calculate TCE in a different manner. TCE, tangible book value (TBV) per share and returns on average TCE are non-GAAP financial measures. Citi believes the presentation of TCE, TBV per share and returns on average TCE provides alternate measures of capital strength and performance for investors, industry analysts and others.
+																	
+	
+At December 31,
+In millions of dollars or shares, except per share amounts
+	2020	2019	2018	2017	2016
+Total Citigroup stockholders’ equity
+	$	199,442 		$	193,242 		$	196,220 		$	200,740 		$	225,120 	
+Less: Preferred stock
+	19,480 		17,980 		18,460 		19,253 		19,253 	
+Common stockholders’ equity
+	$	179,962 		$	175,262 		$	177,760 		$	181,487 		$	205,867 	
+Less:
+					
+  Goodwill
+	22,162 		22,126 		22,046 		22,256 		21,659 	
+  Identifiable intangible assets (other than MSRs)
+	4,411 		4,327 		4,636 		4,588 		5,114 	
+  Goodwill and identifiable intangible assets
+  (other than MSRs) related to assets held-for-sale (HFS)
+	— 		— 		— 		32 		72 	
+Tangible common equity (TCE)
+	$	153,389 		$	148,809 		$	151,078 		$	154,611 		$	179,022 	
+Common shares outstanding (CSO)
+	2,082.1 		2,114.1 		2,368.5 		2,569.9 		2,772.4 	
+Book value per share (common equity/CSO)
+	$	86.43 		$	82.90 		$	75.05 		$	70.62 		$	74.26 	
+Tangible book value per share (TCE/CSO)
+	73.67 		70.39 		63.79 		60.16 		64.57 	
+	For the year ended December 31,
+In millions of dollars
+	2020	2019	2018	
+2017(1)
+	2016
+Net income available to common shareholders
+	$	9,952 		$	18,292 		$	16,871 		$	14,583 		$	13,835 	
+Average common stockholders’ equity
+	175,508 		177,363 		179,497 		207,747 		209,629 	
+Average TCE
+	149,892 		150,994 		153,343 		180,458 		182,135 	
+Return on average common stockholders’ equity
+	5.7 	%	10.3 	%	9.4 	%	7.0 	%	6.6 	%
+Return on average TCE (RoTCE)(2)
+	6.6 		12.1 		11.0 		8.1 		7.6 	
+
+(1)Year ended December 31, 2017 excludes the one-time impact of Tax Reform. Citi believes the presentation of its 2017 RoTCE excluding the impact of Tax
+Reform provides a meaningful depiction of the underlying performance of its business for investors, industry analysts and others. For a reconciliation of these measures, see “Significant Accounting Policies and Significant Estimates—Income Taxes” below.
+(2)RoTCE represents net income available to common shareholders as a percentage of average TCE.
+
+

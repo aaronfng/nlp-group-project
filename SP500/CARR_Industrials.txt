@@ -1,0 +1,184 @@
+General
+
+Carrier Global Corporation is a leading global provider of healthy, safe and sustainable building and cold chain solutions. Our portfolio includes industry-leading brands such as Carrier, Kidde, Edwards, LenelS2 and Automated Logic that offer innovative heating, ventilating and air conditioning ("HVAC"), refrigeration, fire, security and building automation technologies to help make the world safer and more comfortable.
+
+Our worldwide operations are affected by global and regional industrial, economic and political factors and trends. These factors and trends include the mega-trends of urbanization, climate change and increasing requirements for food safety driven by the food needs of a growing global population and the rising standards of living in emerging markets. We believe that the Company's HVAC, Refrigeration and Fire & Security business segments are positioned to benefit from favorable secular trends, including these mega-trends, and from the strength of our industry-leading brands and track record of innovation.
+
+On November 26, 2018, United Technologies Corporation, since renamed Raytheon Technologies Corporation ("UTC"), announced its intention to spin-off Carrier into a separate, publicly traded company (the "Separation"). Carrier was incorporated in Delaware on March 1, 2019, as a wholly owned subsidiary of UTC. On April 3, 2020 (the "Distribution Date"), UTC completed the Separation through a pro rata distribution (the "Distribution") on a one-for-one basis of all of the outstanding common stock of the Company to UTC shareowners who held shares of UTC common stock as of the close of business on March 19, 2020, the record date for the Distribution. UTC distributed 866,158,910 shares of Carrier common stock in the Distribution, which was effective at 12:01 a.m., Eastern Time, on April 3, 2020 (the "Effective Time"). As a result of the Distribution, UTC shareowners of record received one share of the Company’s common stock for every one share of UTC common stock, and Carrier became an independent public company. Our common stock is listed under the symbol "CARR" on the New York Stock Exchange ("NYSE"). In connection with the Separation, Carrier issued an aggregate principal balance of $11.0 billion of debt and transferred an aggregate of approximately $10.9 billion of cash to UTC on February 27, 2020 and March 27, 2020. On April 1, 2020 and April 2, 2020, Carrier received cash contributions totaling $590 million from UTC related to the Separation. See Note 12 – Borrowings and Lines of Credit and Note 4 – Earnings Per Share in the accompanying Notes to the Consolidated Financial Statements for further information.
+
+Our operations for the periods presented herein are classified into three segments: HVAC, Refrigeration and Fire & Security, with each segment comprised of groups of similar operating companies. References to each segment include the various operating companies established worldwide through which the operations for each segment are conducted.
+
+For the year ended December 31, 2020, our net sales were $17.5 billion, and our operating profit was $3.1 billion. Our net sales for 2020 were derived from the Americas (55%), Europe, Middle East and Africa ("EMEA") (30%) and Asia-Pacific (15%). Our international operations, including U.S. export sales, represented approximately 51% of our net sales for 2020. During the same period, new equipment comprised 72% and service and aftermarket comprised 28% of our net sales excluding inter-segment eliminations.
+
+This Annual Report on Form 10-K and our Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports are available free of charge through the Investors section of our Internet website (http://www.corporate.carrier.com) under the heading "SEC Filings" as soon as reasonably practicable after these reports are electronically filed with, or furnished to, the United States Securities and Exchange Commission ("SEC"). In addition, the SEC maintains an Internet website (http://www.sec.gov) containing reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC.
+
+2
+Table of Contents             
+
+Business Strategy
+
+Carrier’s business strategy is to be the world leader in healthy, safe and sustainable building and cold chain solutions. We are focused on three pillars of growth: strengthen and grow our core, increase product extensions and geographic coverage, and grow services and digital to create recurring sales opportunities. The elements of our Company’s strategy encompass the following elements:
+
+Strengthen and grow our core. We are a leader in our three segments. And we are investing in our sales force and research and development to grow that presence.
+
+Our strategy involves driving our organic growth in part by maintaining our proven track record of innovation, which is focused on designing smarter, more connected and more sustainable systems and solutions across our business. Our strategy also relies on our iconic, industry-leading brands and on strengthening our long-term relationships with channel partners and customers by offering solutions that anticipate customer needs related to healthy, safe and sustainable building and cold chain solutions, with a focus on technologies related to refrigerants, efficiency, emissions, air quality, electrification, noise levels and safety.
+
+Increase product extensions and geographic coverage. Our strategy involves employing our global operations, the strength of our iconic, industry-leading brands and our success in creating valuable partnerships to focus on targeted expansion into new locations and channels where we believe that we can drive profitable growth.
+
+We are also focused on emerging trends in our segments; namely, health and safety in homes and commercial buildings, and cold chain solutions. We believe that we are well-positioned to meet the demand expected to result from these trends through products such as our Infinity whole home air purifier and the OptiClean Dual-Mode Air Scrubber & Negative Air Machine for commercial building and home applications, and through products such as Carrier Pods monitored by Sensitech that can help ensure the safe storage and transport of food and medicines.
+
+Grow services and digital. Our strategy is also focused on bringing differentiated parts and service solutions to our customers across the entire product lifecycle. Our new BluEdge platform builds on our history of innovation and our expertise as an original equipment manufacturer. The platform offers a tiered suite of services across our HVAC, Refrigeration and Fire & Security segments. Through our understanding of customer needs and investments in connected equipment and digital service solutions, BluEdge will help us achieve enhanced equipment efficiency and performance – key components of our healthy, safe and sustainable buildings and cold chain programs.
+
+Digital is also central to our growth strategy. We are implementing innovative digital capabilities across our business segments to help differentiate our products and services. Amazon Web Services (“AWS”) is our new preferred cloud provider. Our product teams are deriving insights from data by employing AWS’s services for connectivity, artificial intelligence and machine learning. Carrier and AWS are developing new offerings like Lynx, our proprietary intelligent ecosystem that will help optimize the safe and sustainable transport of perishable goods and medicine across the cold chain. Carrier IO, another new proprietary platform, will provide turnkey services to connect equipment and help accelerate product development across our portfolio. In 2020, we implemented new and enhanced e-commerce capabilities and online shop-and-buy offerings to help drive online sales and create an easier, more convenient and engaging customer experience.
+
+Description of Business by Segment
+
+Each segment’s business, including its principal products and services and other material developments and information, is described subsequently. Segment financial data for the years 2018 through 2020, including financial information about U.S. and international sales and operating profits, is included in Note 26 – Segment Financial Data in the accompanying Notes to the Consolidated Financial Statements. Segment sales discussed below include inter-company sales, which are ultimately eliminated within the "Eliminations and other" category and that are reflected in the segment financial data in Note 26 – Segment Financial Data in the accompanying Notes to the Consolidated Financial Statements.
+
+
+3
+Table of Contents             
+HVAC
+
+Our HVAC segment provides products, controls, services and solutions to meet the heating and cooling and ventilation needs of residential and commercial customers, while enhancing building performance, health, energy efficiency and sustainability. Our established brands include Automated Logic, Bryant, Payne, Carlyle, Carrier, CIAT, Day & Night, Heil, NORESCO, Riello and Tempstar. Products include heating and cooling systems for both residential and commercial applications, air handling systems, controls, building automation systems, aftermarket services and repair and energy solutions. Some of these products are part of Carrier’s Healthy Buildings Program, which offers a suite of targeted solutions that are focused on improving indoor air quality in buildings and homes. HVAC products and solutions are sold directly, including to key accounts, building contractors and owners, and indirectly through joint ventures, independent sales representatives, distributors, wholesalers, dealers and retail outlets, as well as through direct sales offices which sell, in part, to mechanical contractors.
+
+Our HVAC segment had net sales of $9.5 billion for the year ended December 31, 2020, and, as of December 31, 2020, remaining performance obligations ("RPO") of approximately $3.0 billion.
+
+Refrigeration
+
+Our Refrigeration segment includes transport refrigeration and monitoring products, services and digital solutions for trucks, trailers, shipping containers, intermodal and rail, as well as commercial refrigeration products. Transport refrigeration products and cold chain monitoring solutions, which form Carrier's Healthy, Safe, Sustainable Cold Chain Program offering, are used to enable the safe, reliable transport of food and beverages, medical supplies, including vaccines, and other perishable cargo. Commercial refrigeration solutions include refrigerated cabinets, freezers, systems and controls. Our commercial refrigeration equipment solutions incorporate next-generation technologies to preserve freshness, ensure safety and enhance the appearance of food and beverages sold by retailers. Our Refrigeration products and services are sold under established brand names, including Carrier Commercial Refrigeration, Carrier Transicold and Sensitech. Refrigeration products and services are sold directly, including to transportation companies and retail stores, and indirectly through joint ventures, independent sales representatives, distributors, wholesalers and dealers.
+
+Our Refrigeration segment had net sales of $3.3 billion for the year ended December 31, 2020 and, as of December 31, 2020, RPO of approximately $1.1 billion.
+
+Fire & Security
+
+Our Fire & Security segment provides a wide range of residential, commercial and industrial technologies and systems, and service solutions to protect people and property, including fire, flame, gas, smoke and carbon monoxide detection; portable fire extinguishers; fire suppression systems; intruder alarms; access control systems and video management systems; and electronic controls. Other fire and security service offerings include audit, design, installation and system integration, as well as aftermarket maintenance and repair and monitoring services. Our established brands include Kidde, Edwards, GST, LenelS2, Marioff, Autronica, Aritech, Chubb, Det-Tronics, Onity, Supra and Fireye. Our Fire & Security products and solutions, also part of Carrier's Healthy Homes and Healthy Buildings Program, are sold directly to end customers as well as through manufacturers’ representatives, distributors, dealers, value-added resellers and retail distribution. In addition, certain of our products are supported by installation, maintenance and monitoring through a network of channel partners and our own field service business, along with web-based and mobile applications, and cloud-based services.
+
+Our Fire & Security segment had net sales of approximately $5.0 billion for the year ended December 31, 2020 and, as of December 31, 2020, RPO of approximately $1.3 billion.
+
+4
+Table of Contents             
+
+Other Matters Relating to Our Business as a Whole
+
+Competition and Other Factors Affecting the Carrier Business
+
+As a global business, our operations can be affected by a variety of economic, industry and other factors, including those described in this section and in the sections entitled "Management's Discussion and Analysis of Financial Condition and Results of Operations," "Cautionary Note Concerning Factors That May Affect Future Results" and "Risk Factors" in this Annual Report on Form 10-K.
+
+Each business unit is subject to significant competition from a number of companies in the U.S. and other countries, and each competes on the basis of technology differentiation, product performance, service, delivery schedule, and price. The geographies in which we sell our products, solutions and services in the HVAC, Refrigeration and Fire & Security segments also have a number of local competitors.
+
+HVAC
+
+Competition in HVAC includes several multinational, regional and local companies, the largest of which include Daikin Industries, Gree Electric, Trane Technologies, Johnson Controls, Lennox International, Midea Group and Mitsubishi Electric. Sales depend on price, product availability, delivery schedule, product performance, product line breadth, brand reputation, design, technical expertise and service.
+
+Refrigeration
+
+Competition in Refrigeration includes multinational companies, including Trane Technologies, Daikin Industries and Panasonic, as well as regional and local companies. Sales depend on product performance, efficiency, reliability, price, service and support. The transport refrigeration business is affected by global shipping cycles and by truck production cycles in North America and Europe, which are affected by a variety of factors, including general economic conditions and replacement cycles.
+
+Fire & Security
+
+Competition in Fire & Security includes several multinational companies, including Honeywell, Johnson Controls, Siemens, Bosch, Assa Abloy, MSA Safety, Stanley Black & Decker and Newell Brands.
+
+Compliance with the Regulation of our Business and Operations
+
+We operate our business and sell our products all over the world. As a result, changes in legislation, regulations and government policies, including with respect to regulations intended to combat climate change, affect our operations and business in the countries, regions and localities in which we operate and sell our products. Such changes, which can also render our products and technologies non-compliant, involve refrigerants, noise levels, product and fire safety, hydro fluorocarbon emissions, fluorinated gases, hazardous substances, and electric and electronic equipment waste. Additionally, the increased fragmentation of regulatory requirements at various levels of government increases our costs because it necessitates the development of country or regional specific variants, monitoring of and compliance with those regulations, and additional testing and certifications. We do not anticipate that these changes will have a material adverse effect upon our competitive position, results of operations, cash flows, or financial condition.
+
+Our operations are also subject to and affected by environmental regulations promulgated by federal, state and local authorities in the U.S. and by authorities with jurisdiction over our foreign operations. Most U.S. laws governing environmental matters include criminal penalties. We have incurred and will likely continue to incur liabilities under various statutes for the cleanup of pollutants previously released into the environment. We do not anticipate that compliance with environmental protection laws or that any payments associated with our remediation liabilities will have a material adverse effect upon our competitive position, results of operations, cash flows or financial condition. Environmental matters are further addressed in "Management's Discussion and Analysis of Financial Condition and Results of Operations" section in this Annual Report on Form 10-K, Note 3 – Summary of Significant Accounting Policies and Note 25 – Commitments and Contingent Liabilities in the accompanying Notes to the Consolidated Financial Statements.
+
+5
+Table of Contents             
+For further discussion of liabilities and risks related to litigation, compliance and environmental matters and other government regulations, see sections entitled "Risk Factors" and "Legal Proceedings" in this Annual Report on Form 10-K and Note 25 – Commitments and Contingent Liabilities in the accompanying Notes to the Consolidated Financial Statements.
+
+Intellectual Property
+
+We maintain a broad portfolio of patents, trademarks, copyrights, trade secrets, licenses and franchises related to our business to protect our research and development investments and to maintain our competitive advantages. We hold approximately 8,000 active patents and pending patent applications worldwide. From time to time, we take actions to protect our business by asserting our intellectual property rights against third-party infringers. We believe that we have taken reasonable measures to build and protect this portfolio of intellectual property rights, but we cannot be assured that these rights will not be challenged, found invalid or unenforceable. See the "Risk Factors" section in this Annual Report on Form 10-K for further discussion of intellectual property matters.
+
+Operating System
+
+We plan to continue to foster operational, financial and commercial excellence to drive sales and earnings growth. With roots in our legacy manufacturing and business processes, the Carrier operating system — Carrier Excellence — is our continuous improvement framework that is expected to drive operational excellence across the company. Our Supplier Excellence program is intended to apply these same operating principles to our supply base. We also implemented a strategic cost reduction initiative in 2020 that initially targeted eliminating $600 million in costs over three years through operational efficiency, digitalization, automation and supply chain productivity. That target has since been increased to $700 million in cost reductions over the same time period.
+
+Raw Materials and Supplies
+
+While we believe that we currently have adequate sources for materials, components and services, we work continuously with our supply base to ensure that we have adequate resources and to reduce costs. Accordingly, we consolidate purchases and suppliers, engage in global sourcing, implement design changes and implement competitive bidding. In certain instances, we depend upon a single source of supply or use commodities, such as rare-earth metals, that can be subject to allocations. Nonetheless, we believe that our supply management practices appropriately balance the foreseeable risks and the costs of alternative practices. Although at times high prices for some raw materials important to our business (for example, steel, copper and aluminum) have caused margin and cost pressures, we do not foresee near term unavailability that would have a material adverse effect on our competitive position, results of operations, cash flows or financial condition. However, because we have a number of factories and suppliers outside the U.S., the imposition of tariffs or sanctions, or unusually restrictive border-crossing rules, could adversely affect our supply chain. For further discussion of the possible effects of the cost and availability of raw materials on our business, see the "Risk Factors" section of this Annual Report on Form 10-K.
+
+COVID-19 Pandemic
+
+A novel strain of Coronavirus ("COVID-19") surfaced in late 2019 and has spread throughout the world. In response, in the Spring of 2020, we temporarily closed or reduced production at manufacturing facilities in North America, Asia and Europe for safety reasons and in response to lower demand for our products. Our manufacturing operations have since resumed, measures have been enacted to scale capacity to demand, and we continue to actively take steps to mitigate supply chain risk. We continue to apply appropriate safety measures for our employees and other associates and have not experienced any significant disruptions to our manufacturing operations. We also initiated return-to-work protocols at our non-manufacturing facilities, the employees of which were previously working remotely.
+
+Human Capital Management
+
+As of December 31, 2020, Carrier had approximately 56,000 employees worldwide, of which 35% are located in the Americas, 37% located in EMEA and 28% in Asia.
+
+As of December 31, 2020, approximately 69% of Carrier's approximately 4,600 production and maintenance employees in the U.S. were covered under seven collective bargaining agreements that have expiration dates ranging from 2021 to 2023. In the European Union, approximately 19,000 employees are represented by two European Works Councils, and, at national and
+6
+Table of Contents             
+local levels, we inform and consult with 58 local works councils and with unions representing employees at about 40 sites. The Company believes that our relations with our labor unions and works councils are generally good.
+
+We believe that our employees are our most important asset and that, in turn, our success and growth depend in large part on our ability to attract, retain and develop a diverse population of talented and high-performing employees at all levels of our organization. We continuously evaluate, modify and enhance our recruitment and retention strategies, objectives and measures as part of the overall management of our business. These strategies, objectives and measures form the pillars of our human capital management framework and are advanced through the following programs, policies and initiatives:
+
+Health & Safety
+
+Our Environmental, Health, and Safety program is focused on eliminating the risk of serious injuries, illness and fatalities to employees, contractors and customers during manufacturing, installation, servicing and other business activities by applying rigorous standards, controls, inspections and audits to help ensure that our operations and premises comply with national and local regulations and Carrier incident reporting requirements.
+
+In response to COVID-19, we implemented various measures to protect the health and safety of our employees and customers including work-from-home requirements (where practical), social distancing and deep cleaning protocols at all of our facilities as well as travel restrictions, among other measures, which measures comply with applicable governmental regulations and guidance.
+
+Competitive Pay, Benefits and Total Rewards and Practices
+
+Carrier's total rewards philosophy is designed to align the compensation of our employees with individual and Company performance, and to provide the appropriate market-competitive incentives to attract, retain and motivate employees to achieve superior results. In addition, we offer a company-paid assistance program to help employees and their families with mental health and other life challenges. In coordination with each country’s social welfare system, and in addition to any required local health care participation, we may provide additional health and welfare benefits depending on, among other things, the market competitiveness in that country. We also offer a tuition assistance program that is discussed in more detail below (see Talent Development and Employee Engagement).
+
+Diversity & Inclusion
+
+As of December 31, 2020, approximately 27% of our employees and 31% of our executives globally were women. As of December 31, 2020, people of color represented approximately 25% of our U.S. executive and 23% of our professional employees in the U.S.
+
+Our greatest strength is the diversity of our people and their ideas and experiences; diversity and inclusion are the cornerstones of our values and we believe that it is a source of innovation. To this end, we recently launched _belong, our diversity and inclusion philosophy and brand as well as a diversity and inclusion strategy that consists of four tenets – Reduce the Gap, Develop & Sponsor, Drive Inclusion and Lean Forward – which include a focus on recruiting, development and mentoring activities. We also sponsor multiple Employee Resource Groups ("ERGs"), such as Pride, Carrier Black Alliance, WE (Women Empowerment at Carrier), CHEER (Carrier Hispanic & Latinos Employee Engagement Resource group), and Veterans & Military. These ERGs operate with a formal leadership structure, a steering committee, senior leadership sponsorship and a defined mission statement that is aligned with supporting Carrier’s business strategy. We also have established multi-year relationships with two historically Black colleges and universities that include career and recruiting initiatives.
+
+Talent Development and Employee Engagement
+
+The Company is committed to the continued development and engagement of our people. We promote continuous learning by offering a company-sponsored Employee Scholar Program, which covers the cost of an employee's tuition, academic fees and books at approved universities. We conduct annual leadership development reviews, a process through which senior leaders identify future leaders and discuss strengths and development opportunities, fostering succession planning for key leadership positions. We also have developed various talent development programs, such as internships, early career rotational programs and a suite of development programs for current and future leaders during the three critical stages of their careers – early career, mid-career and senior leadership.
+
+7
+Table of Contents             
+Three-times per year we conduct an anonymous online survey in local languages to solicit feedback from our employees. The results are reviewed by the Company’s senior leadership and shared with our managers and other employees – all of whom collaborate to identify areas for improvement.
+
+Joint Ventures and Strategic Relationships
+
+Our joint ventures and strategic relationships are an important part of our business. We hold interests in approximately 60 joint ventures, the financial results of which are consolidated in our consolidated financial statements or accounted for by the equity method of accounting or the cost basis of accounting. While all three of our segments participate in joint ventures and strategic relationships, most are in the HVAC segment. These relationships engage in distribution, manufacturing and product development activities and are integral to our business operations and growth strategy. See Note 6 – Equity Method Investments and Related Parties in the accompanying Notes to the Consolidated Financial Statements for further information.
+
+Seasonality
+
+Demand for certain of our products and services is seasonal and can be impacted by weather conditions. For instance, sales and services of our HVAC products to residential customers have historically been higher in the second and third quarters of the calendar year, which represent the peak seasons for air conditioning-related sales in North America. For further discussion of the possible effects of seasonality on our business, see the "Risk Factors" section of this Annual Report on Form 10-K.
+
+Corporate Information
+
+Carrier was incorporated in Delaware in connection with the Separation. Prior to the Distribution, Carrier had no operations other than those incidental to the Separation. Our principal executive offices are located at 13995 Pasteur Boulevard, Palm Beach Gardens, Florida 33418, and our telephone number is (561) 365-2000. We maintain an Internet website at www.corporate.carrier.com.
+CAUTIONARY NOTE CONCERNING FACTORS THAT MAY AFFECT FUTURE RESULTS
+
+This Annual Report on Form 10-K contains statements which, to the extent they are not statements of historical or present fact, constitute "forward-looking statements" under the securities laws. From time to time, oral or written forward-looking statements may also be included in other information released to the public. These forward-looking statements are intended to provide management’s current expectations or plans for our future operating and financial performance, based on assumptions currently believed to be valid. Forward-looking statements can be identified by the use of words such as "believe," "expect," "expectations," "plans," "strategy," "prospects," "estimate," "project," "target," "anticipate," "will," "should," "see," "guidance," "outlook," "confident," "scenario" and other words of similar meaning in connection with a discussion of future operating or financial performance or the Separation. Forward-looking statements may include, among other things, statements relating to future sales, earnings, cash flows, results of operations, uses of cash, share repurchases, tax rates and other measures of financial performance or potential future plans, strategies or transactions of Carrier, the estimated costs associated with the Separation, Carrier's plans with respect to our indebtedness and other statements that are not historical facts. All forward-looking statements involve risks, uncertainties and other factors that may cause actual results to differ materially from those expressed or implied in the forward-looking statements. For those statements, we claim the protection of the safe harbor for forward-looking statements contained in the U.S. Private Securities Litigation Reform Act of 1995. Such risks, uncertainties and other factors include, without limitation:
+
+•the effect of economic conditions in the industries and markets in which Carrier and our businesses operate in the U.S. and globally and any changes therein, including financial market conditions, fluctuations in commodity prices, interest rates and foreign currency exchange rates, levels of end market demand in construction, the impact of weather conditions, pandemic health issues (including COVID-19 and its effects, among other things, on production and on global supply, demand, and distribution as the outbreak continues and results in a prolonged period of travel, commercial and other restrictions and limitations), natural disasters and the financial condition of our customers and suppliers;
+•challenges in the development, production, delivery, support, performance and realization of the anticipated benefits of advanced technologies and new products and services;
+•future levels of indebtedness, capital spending and research and development spending;
+8
+Table of Contents             
+•future availability of credit and factors that may affect such availability, including credit market conditions and Carrier's capital structure and credit ratings;
+•the timing and scope of future repurchases of Carrier's common stock, including market conditions and the level of other investing activities and uses of cash;
+•delays and disruption in the delivery of materials and services from suppliers;
+•cost reduction efforts and restructuring costs and savings and other consequences thereof;
+•new business and investment opportunities;
+•risks resulting from being a smaller less diversified company than prior to the Separation;
+•the outcome of legal proceedings, investigations and other contingencies;
+•the impact of pension plan assumptions on future cash contributions and earnings;
+•the impact of the negotiation of collective bargaining agreements and labor disputes;
+•the effect of changes in political conditions in the U.S. (including in connection with the new administration in Washington, D.C.) and other countries in which Carrier and our businesses operate, including the effect of changes in U.S. trade policies or the United Kingdom’s withdrawal from the European Union, on general market conditions, global trade policies and currency exchange rates in the near term and beyond;
+•the effect of changes (including potentially as a result of the new administration in Washington, D.C.) in tax, environmental, regulatory (including among other things import/export) and other laws and regulations in the U.S. and other countries in which we and our businesses operate;
+•the ability of Carrier to retain and hire key personnel;
+•the scope, nature, impact or timing of acquisition and divestiture activity, including among other things integration of acquired businesses into existing businesses and realization of synergies and opportunities for growth and innovation and incurrence of related costs;
+•the expected benefits of the Separation;
+•a determination by the U.S. Internal Revenue Service ("IRS") and other tax authorities that the Distribution or certain related transactions should be treated as taxable transactions;
+•risks associated with indebtedness, including that incurred as a result of financing transactions undertaken in connection with the Separation, as well as our ability to reduce indebtedness and the timing thereof;
+•the risk that dis-synergy costs, costs of restructuring transactions and other costs incurred in connection with the Separation will exceed Carrier’s estimates; and
+•the impact of the Separation on Carrier’s business and Carrier’s resources, systems, procedures and controls, diversion of management’s attention and the impact on relationships with customers, suppliers, employees and other business counterparties.
+
+This Annual Report on Form 10-K includes important information as to risks, uncertainties and other factors that may cause actual results to differ materially from those expressed or implied in the forward-looking statements. See the Notes to the Consolidated Financial Statements in this Annual Report on Form 10-K under the heading "Note 25 – Commitments and Contingent Liabilities," the sections entitled "Management's Discussion and Analysis of Financial Condition and Results of Operations" under the headings "Business Overview," "Results of Operations," "Liquidity and Financial Condition," and "Critical Accounting Estimates," and the section entitled "Risk Factors." This Annual Report on Form 10-K also includes important information as to these factors in the "Business" section under the headings "General," "Other Matters Relating to Our Business as a Whole," and in the "Legal Proceedings" section. The forward-looking statements speak only as of the date of this report or, in the case of any document incorporated by reference, the date of that document. We undertake no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by applicable law. Additional information as to factors that may cause actual results to differ materially from those expressed or implied in the forward-looking statements is disclosed from time to time in our other filings with the SEC.
+
+

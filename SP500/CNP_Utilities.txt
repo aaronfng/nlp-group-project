@@ -1,0 +1,502 @@
+
+This combined Form 10-K is filed separately by three registrants: CenterPoint Energy, Inc., CenterPoint Energy Houston Electric, LLC and CenterPoint Energy Resources Corp. Information contained herein relating to any individual registrant is filed by such registrant solely on its own behalf. Each registrant makes no representation as to information relating exclusively to the other registrants. Except as discussed in Note 14 to the consolidated financial statements, no registrant has an obligation in respect of any other registrant’s debt securities, and holders of such debt securities should not consider the financial resources or results of operations of any registrant other than the obligor in making a decision with respect to such securities.
+
+The discussion of CenterPoint Energy’s consolidated financial information includes the financial results of Houston Electric and CERC, which, along with CenterPoint Energy, are collectively referred to as the Registrants. Where appropriate, information relating to a specific registrant has been segregated and labeled as such. Unless the context indicates otherwise, specific references to Houston Electric and CERC also pertain to CenterPoint Energy. In this Form 10-K, the terms “our,” “we” and “us” are used as abbreviated references to CenterPoint Energy, Inc. together with its consolidated subsidiaries.
+
+OUR BUSINESS
+
+Overview
+
+CenterPoint Energy is a public utility holding company and owns interests in Enable, a publicly traded MLP. CenterPoint Energy’s operating subsidiaries own and operate electric transmission, distribution and generation facilities and natural gas distribution facilities and provide energy performance contracting and sustainable infrastructure services.
+
+Houston Electric is an indirect, wholly-owned subsidiary of CenterPoint Energy that provides electric transmission service to transmission service customers in the ERCOT region and distribution service to REPs serving the Texas Gulf Coast area that includes the city of Houston. Bond Companies are wholly-owned, bankruptcy remote entities formed solely for the purpose of purchasing and owning transition or system restoration property through the issuance of Securitization Bonds.
+
+CERC Corp. is an indirect, wholly-owned subsidiary of CenterPoint Energy that owns and operates natural gas distribution facilities in six states, with operating subsidiaries that own and operate permanent pipeline connections through interconnects with various interstate and intrastate pipeline companies, and provide temporary delivery of LNG and CNG throughout the contiguous 48 states.
+    
+As of December 31, 2020, CNP Midstream owned approximately 53.7% of the common units representing limited partner interests in Enable, which owns, operates and develops natural gas and crude oil infrastructure assets; CNP Midstream also owned 50% of the management rights and 40% of the incentive distribution rights in Enable GP. On February 16, 2021, Enable entered into the Enable Merger Agreement. At the closing of the transactions contemplated by the Enable Merger Agreement, if and when it occurs, Energy Transfer will acquire all of Enable’s outstanding equity interests, including all Enable common units and Enable Series A Preferred Units held by CenterPoint Energy, and in return CenterPoint Energy will receive Energy Transfer common units and Energy Transfer Series G Preferred Units. For additional information regarding CenterPoint Energy’s interest in Enable, including the 14,520,000 Enable Series A Preferred Units directly owned by CenterPoint Energy and the Enable Merger, see Notes 11 and 22 to the consolidated financial statements.
+
+Vectren is an indirect, wholly-owned subsidiary of CenterPoint Energy that engages in regulated operations through three public utilities:
+
+•Indiana Gas provides energy delivery services to natural gas customers located in central and southern Indiana;
+
+•SIGECO provides energy delivery services to electric and natural gas customers located in and near Evansville in southwestern Indiana and owns and operates electric generation assets to serve its electric customers and optimizes those assets in the wholesale power market; and
+
+•VEDO provides energy delivery services to natural gas customers in and near Dayton in west-central Ohio.
+
+Vectren performs non-utility activities through ESG, which provides energy performance contracting and sustainable infrastructure services.
+
+1
+
+On February 3, 2020, CenterPoint Energy, through its subsidiary VUSI, entered into the Securities Purchase Agreement to sell the businesses within its Infrastructure Services reportable segment. The transaction closed on April 9, 2020 for $854 million in cash, inclusive of cash received after closing for the working capital adjustment. For further information, see Note 4 to the consolidated financial statements.
+
+Additionally, on February 24, 2020, CenterPoint Energy, through its subsidiary CERC Corp., entered into the Equity Purchase Agreement to sell CES, which represents substantially all of the businesses within the Energy Services reportable segment. This transaction does not include CEIP and its assets or MES. The transaction closed on June 1, 2020 for approximately $365 million in cash, inclusive of cash received after closing for the working capital adjustment. For further information, see Note 4 to the consolidated financial statements.
+
+As of December 31, 2020, CenterPoint Energy’s reportable segments were Electric, Natural Gas and Midstream Investments. Houston Electric and CERC each consist of one reportable segment.
+
+For a discussion of net income by segment, see “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Results of Operations by Reportable Segment” in Item 7 of Part II of this report. For additional information about the segments, see Note 18 to the consolidated financial statements. From time to time, we consider the acquisition or the disposition of assets or businesses.
+
+The Registrants’ principal executive offices are located at 1111 Louisiana, Houston, Texas 77002 (telephone number: 713-207-1111).
+
+We make available free of charge on our Internet website our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 as soon as reasonably practicable after we electronically file such reports with, or furnish them to, the SEC. The SEC maintains an Internet website that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC at http://www.sec.gov. Additionally, we make available free of charge on our Internet website:
+
+•our Code of Ethics for our Chief Executive Officer and Senior Financial Officers;
+
+•our Ethics and Compliance Code;
+
+•our Corporate Governance Guidelines; and
+
+•the charters of the audit, compensation, finance and governance committees of our Board of Directors.
+
+Any shareholder who so requests may obtain a printed copy of any of these documents from us. Changes in or waivers of our Code of Ethics for our Chief Executive Officer and Senior Financial Officers and waivers of our Ethics and Compliance Code for directors or executive officers will be posted on our Internet website within five business days of such change or waiver and maintained for at least 12 months or timely reported on Item 5.05 of Form 8-K.
+
+Our website address is www.centerpointenergy.com. Investors should also note that we announce material financial information in SEC filings, press releases and public conference calls. Based on guidance from the SEC, we may use the investor relations section of our website to communicate with our investors. It is possible that the financial and other information posted there could be deemed to be material information. Except to the extent explicitly stated herein, documents and information on our website are not incorporated by reference herein.
+
+Electric (CenterPoint Energy)
+
+During the fourth quarter of 2020, CenterPoint Energy’s CODM requested that the financial information for the electric businesses be presented on an aggregated basis for review, resulting in one Electric reportable segment, comprised of Houston Electric and Indiana Electric.
+
+For information regarding the properties of the Electric reportable segment, please read “Properties — Electric (CenterPoint Energy and Houston Electric)” in Item 2 of this report, which information is incorporated herein by reference.
+2
+
+
+Houston Electric (CenterPoint Energy and Houston Electric)
+ 
+Houston Electric is a transmission and distribution electric utility that operates wholly within the state of Texas and is a member of ERCOT. ERCOT serves as the independent system operator and regional reliability coordinator for member electric power systems in most of Texas. The ERCOT market represents approximately 90% of the demand for power in Texas and is one of the nation’s largest power markets. The ERCOT market operates under the reliability standards developed by the NERC, approved by the FERC and monitored and enforced by the Texas RE. The PUCT has primary jurisdiction over the ERCOT market to ensure the adequacy and reliability of electricity supply across the state’s main interconnected power transmission grid. Houston Electric does not make direct retail or wholesale sales of electric energy or own or operate any electric generating facilities.
+
+Electric Transmission
+ 
+On behalf of REPs, Houston Electric delivers electricity from power plants to substations, from one substation to another and to retail electric customers taking power at or above 69 kV in locations throughout Houston Electric’s certificated service territory. Houston Electric constructs and maintains transmission facilities and provides transmission services under tariffs approved by the PUCT.
+
+The ERCOT ISO is responsible for operating the bulk electric power supply system in the ERCOT market. Houston Electric’s transmission business, along with those of other owners of transmission facilities in Texas, supports the operation of the ERCOT ISO. Houston Electric participates with the ERCOT ISO and other ERCOT utilities to plan, design, obtain regulatory approval for and construct new transmission lines necessary to increase bulk power transfer capability and to remove existing constraints on the ERCOT transmission grid.
+Electric Distribution
+ 
+In ERCOT, end users purchase their electricity directly from certificated REPs. Houston Electric’s distribution network receives electricity from the transmission grid through power distribution substations and delivers electricity for REPs in its certificated service area by carrying lower-voltage power from the substation to the retail electric customer through distribution feeders. Houston Electric’s operations include construction and maintenance of distribution facilities, metering services, outage response services and call center operations. Houston Electric provides distribution services under tariffs approved by the PUCT. PUCT rules and market protocols govern the commercial operations of distribution companies and other market participants. Rates for these services are established pursuant to rate proceedings conducted before municipalities that have original jurisdiction and the PUCT.
+Bond Companies
+
+Houston Electric has special purpose subsidiaries consisting of the Bond Companies, which it consolidates. These consolidated special purpose subsidiaries are wholly-owned, bankruptcy remote entities that were formed solely for the purpose of purchasing and owning transition or system restoration property through the issuance of Securitization Bonds, and conducting activities incidental thereto. The Securitization Bonds are repaid through charges imposed on customers in Houston Electric’s service territory. For further discussion of the Securitization Bonds and the outstanding balances as of December 31, 2020 and 2019, see Note 14 to the consolidated financial statements.
+
+Customers
+ 
+Houston Electric serves nearly all of the Houston/Galveston metropolitan area near the Texas Gulf Coast. As of December 31, 2020, Houston Electric’s customers consisted of approximately 64 REPs, which sell electricity to approximately 2.6 million metered customers in Houston Electric’s certificated service area, and municipalities, electric cooperatives and other distribution companies located outside Houston Electric’s certificated service area. Each REP is licensed by, and must meet minimum creditworthiness criteria established by, the PUCT. Houston Electric does not have long-term contracts with any of its customers. It operates using a continuous billing cycle, with meter readings being conducted and invoices being distributed to REPs each business day. For information regarding Houston Electric’s major customers, see Note 18 to the consolidated financial statements.
+
+
+
+
+3
+
+The table below reflects the number of metered customers in Houston Electric’s service area as of December 31, 2020:
+																	
+ 	Residential		Commercial/
+Industrial		Total Customers
+Texas Gulf Coast 	2,303,315 			296,512 			2,599,827 	
+
+Competition
+ 
+There are no other electric transmission and distribution utilities in Houston Electric’s service area. For another provider of transmission and distribution services to provide such services in Houston Electric’s territory, it would be required to obtain a certificate of convenience and necessity from the PUCT and, depending on the location of the facilities, may also be required to obtain franchises from one or more municipalities. Houston Electric is not aware of any other party intending to enter this business in its service area at this time. Distributed generation (i.e., power generation located at or near the point of consumption) could result in a reduction of demand for Houston Electric’s distribution services but has not been a significant factor to date.
+Seasonality
+ 
+Houston Electric’s revenues are primarily derived from rates that it collects from each REP based on the amount of electricity it delivers on behalf of that REP. Houston Electric’s revenues and results of operations are subject to seasonality, weather conditions and other changes in electricity usage, with revenues generally being higher during the warmer months when more electricity is used for cooling purposes.
+
+Franchises
+ 
+Houston Electric holds non-exclusive franchises from certain incorporated municipalities in its service territory. In exchange for the payment of fees, these franchises give Houston Electric the right to use the streets and public rights-of-way of these municipalities to construct, operate and maintain its transmission and distribution system and to use that system to conduct its electric delivery business and for other purposes that the franchises permit. The terms of the franchises, with various expiration dates, typically range from 30 to 40 years.
+
+Indiana Electric (CenterPoint Energy)
+
+Indiana Electric consists of SIGECO’s electric transmission and distribution services, including its power generating and wholesale power operations. As of December 31, 2020, Indiana Electric supplied electric service to the following:
+																	
+ 	Residential		Commercial/Industrial		Total Customers
+Indiana	130,159 			19,130 			149,289 	
+
+System Load
+
+Total load and the related reserve margin at the time of the system summer peak on August 10, 2020, is presented below in MW, except for reserve margin at peak.
+					
+	2020
+Total load at peak	984 	
+	
+Generating capability	1,167 	
+Purchase supply (effective capacity)	37 	
+Interruptible contracts & direct load control	39 	
+Total power supply capacity	1,243 	
+Reserve margin at peak	26 	%
+
+The winter peak load for the 2019-2020 season of approximately 716 MW occurred on February 14, 2020. 
+
+4
+
+Solar
+
+Indiana Electric’s newest solar array, which was approved by the IURC in 2018, consists of approximately 150,000 solar panels distributed across 300 acres along Indiana State Road 545 between Troy and New Boston, Indiana. Construction of the 50 MW universal solar array was nearing completion at the end of 2020, and the project was placed in service for southwestern Indiana electric customers in early 2021.
+
+Coal Purchases
+
+Coal for coal-fired generating stations has been supplied from operators of nearby coal mines as there are substantial coal reserves in the southern Indiana area. Approximately 2.0 million tons were purchased for generating electricity during 2020. Indiana Electric’s coal inventory was approximately 707,000 tons as of December 31, 2020. The average cost of coal per ton purchased and delivered in 2020 was $50.73. Another 173,000 tons are stored off-site to be shipped when plant inventory is reduced. Since August 2014, Indiana Electric has purchased substantially all of its coal from Sunrise Coal, LLC.
+
+Firm Purchase Supply
+
+As part of its power portfolio, Indiana Electric is a 1.5% shareholder in the OVEC, and based on its participation in the ICPA between OVEC and its shareholder companies, many of whom are regulated electric utilities, Indiana Electric has the right to 1.5% of OVEC’s generating capacity output, which, as of December 31, 2020, was approximately 32 MWs. Per the ICPA, Indiana Electric is charged demand charges which are based on OVEC’s operating expenses, including its financing costs. Those demand charges are available to pass through to customers under Indiana Electric’s fuel adjustment clause. Under the ICPA, and while OVEC’s plants are operating, Indiana Electric is severally responsible for its share of OVEC’s debt obligations. Based on OVEC’s current financing, as of September 30, 2020, Indiana Electric’s 1.5% share of OVEC’s debt obligation equates to between $19 million and $24 million, depending on revolving capacity commitments. Moody’s rates OVEC one notch below investment grade with a positive outlook. Fitch continues to rate OVEC as investment grade with a stable outlook. S&P withdrew its ratings on January 9, 2020 at OVEC’s request. In 2020, Indiana Electric purchased approximately 116 GWh from OVEC. If a default were to occur by a member, any reallocation of the existing debt requires consent of the remaining ICPA participants. If any such reallocation were to occur, Indiana Electric would expect to recover any related costs through the fuel adjustment clause, as it does currently for its 1.5% share. In July 2019, House Bill 6 was enacted in Ohio, which provides financial support to the members of OVEC serving Ohio customers (although Indiana Electric does not serve customers in Ohio). In July 2020, an investigation led by the U.S. Attorney’s Office resulted in a federal grand jury indictment of the Speaker of the Ohio House of Representatives, among other individuals, in connection with a racketeering conspiracy involving the adoption of House Bill 6. In light of the allegations in the indictment, proposed legislation has been introduced that would repeal House Bill 6. The outcome of the U.S. Attorney’s Office investigation and its impact on House Bill 6 is unknown at this time. If the provisions of House Bill 6 are ultimately eliminated, it is unclear whether, and in what form, the Ohio General Assembly would pass new legislation addressing similar issues, which could repeal subsidies associated with House Bill 6.
+
+In April 2008, Indiana Electric executed a capacity contract with Benton County Wind Farm, LLC to purchase as much as 30 MW from a wind farm located in Benton County, Indiana, with IURC approval. The contract expires in 2029. Indiana Electric purchased approximately 76 GWh under this contract in 2020. In December 2009, Indiana Electric executed a 20-year power purchase agreement with Fowler Ridge II Wind Farm, LLC to purchase as much as 50 MW of energy from a wind farm located in Benton and Tippecanoe Counties in Indiana, with the approval of the IURC. Indiana Electric purchased approximately 126 GWh under this contract in 2020. In total, wind resources provided approximately 5% of total GWh sourced in 2020.
+
+MISO Related Activity
+
+Indiana Electric is a member of the MISO, a FERC approved regional transmission organization. The MISO serves the electric transmission needs of much of the Midcontinent region and maintains operational control over Indiana Electric’s electric transmission facilities as well as other utilities in the region. Indiana Electric is an active participant in the MISO energy markets, where it bids its generation into the Day Ahead and Real Time markets and procures power for its retail customers at Locational Marginal Price as determined by the MISO market. MISO-related purchase and sale transactions are recorded using settlement information provided by the MISO. These purchase and sale transactions are accounted for on at least a net hourly position. During 2020, in intervals when purchases from the MISO were in excess of generation sold to the MISO, the net purchases were 742 GWh. During the year ended December 31, 2020, in intervals when sales to the MISO were in excess of purchases from the MISO, the net sales were 385 GWh.
+
+5
+
+Interconnections
+
+As of December 31, 2020, Indiana Electric had interconnections with Louisville Gas and Electric Company, Duke Energy Shared Services, Inc., Indianapolis Power & Light Company, Hoosier Energy Rural Electric Cooperative, Inc. and Big Rivers Electric Corporation providing the ability to simultaneously interchange approximately 900 MW during peak load periods. Indiana Electric, as required as a member of the MISO, has turned over operational control of the interchange facilities and its own transmission assets to the MISO. Indiana Electric, in conjunction with the MISO, must operate the bulk electric transmission system in accordance with NERC Reliability Standards. As a result, interchange capability varies based on regional transmission system configuration, generation dispatch, seasonal facility ratings and other factors. Indiana Electric is in compliance with reliability standards promulgated by the NERC.
+
+Competition
+
+There are no other electric transmission and distribution utilities in Indiana Electric’s service area. Indiana Electric is a vertically integrated utility that owns the generation, transmission, and distribution components of a utility.
+
+For another provider of transmission and distribution services to provide such services in Indiana Electric’s territory, it would be required to obtain a certificate of convenience and necessity from the IURC and, depending on the location of the facilities, may also be required to obtain franchises from one or more municipalities. Indiana Electric is not aware of any other party intending to enter this business in its service area at this time. Distributed generation (i.e., power generation located at or near the point of consumption) could result in reduced demand for Indiana Electric’s distribution services but has not been a significant factor to date.
+
+Seasonality
+
+Indiana Electric’s revenues are primarily derived from rates that it collects from customers in its service territory based on the amount of electricity it delivers. Indiana Electric’s revenues and results of operations are subject to seasonality, weather conditions and other changes in electricity usage, with revenues generally being higher during the warmer months when more electricity is used for cooling purposes, and during the cooler months when more electricity is used for heating purposes.
+
+Natural Gas (CenterPoint Energy and CERC)
+
+CenterPoint Energy’s and CERC’s Natural Gas engages in regulated intrastate natural gas sales and natural gas transportation and storage for residential, commercial, industrial and transportation customers. See the detail of customers by state below. CenterPoint Energy’s and CERC’s Natural Gas provides permanent pipeline connections through interconnects with various interstate and intrastate pipeline companies through CEIP and temporary delivery of LNG and CNG throughout the lower 48 states through MES, utilizing a fleet of customized equipment to provide continuity of natural gas service when pipeline supply is not available. CenterPoint Energy’s and CERC’s Natural Gas also provides services in Minnesota consisting of residential appliance repair and maintenance services along with HVAC equipment sales and home repair protection plans to natural gas customers in Arkansas, Louisiana, Mississippi, Oklahoma and Texas through a third party.
+
+Upon consummation of the Merger, CenterPoint Energy added the legacy natural gas utility services of Vectren, which includes the natural gas utility operations of Indiana Gas, SIGECO and VEDO and provides natural gas distribution and transportation services to nearly two-thirds of Indiana and west central Ohio, primarily in the west-central area. The Indiana and Ohio service areas contain diversified manufacturing and agriculture-related enterprises.
+
+During the fourth quarter of 2020, CenterPoint Energy and CERC’s CODM requested that the CERC corporate functions be included within the financial results of CenterPoint Energy’s Natural Gas reportable segment for review purposes. See Note 18 to the consolidated financial statements for further information.
+
+For information regarding the properties of the Natural Gas reportable segment, please read “Properties — Natural Gas (CenterPoint Energy and CERC) in Item 2 of this report, which information is incorporated herein by reference.
+
+Customers
+
+In 2020, approximately 35% and 39% of CenterPoint Energy’s and CERC’s Natural Gas total throughput was to residential customers and approximately 65% and 61% was to commercial and industrial and transportation customers, respectively.
+
+6
+
+The table below reflects the number of CenterPoint Energy’s and CERC’s Natural Gas customers by state as of December 31, 2020:
+																	
+ 	Residential		Commercial/
+Industrial/Transportation		Total Customers
+Arkansas	381,961 			47,931 			429,892 	
+Louisiana	232,265 			16,429 			248,694 	
+Minnesota	819,249 			71,425 			890,674 	
+Mississippi	120,082 			13,018 			133,100 	
+Oklahoma	89,019 			10,720 			99,739 	
+Texas	1,707,252 			100,877 			1,808,129 	
+Total CERC Natural Gas	3,349,828 			260,400 			3,610,228 	
+Indiana	674,936 			64,851 			739,787 	
+Ohio	303,843 			24,474 			328,317 	
+Total CenterPoint Energy Natural Gas	4,328,607 			349,725 			4,678,332 	
+
+The largest metropolitan areas served in each state are Houston, Texas; Minneapolis, Minnesota; Little Rock, Arkansas; Shreveport, Louisiana; Biloxi, Mississippi; Lawton, Oklahoma; Evansville, Indiana and Dayton, Ohio.
+
+Seasonality
+
+The demand for natural gas sales to residential customers and natural gas sales and transportation for commercial and industrial customers is seasonal and affected by variations in weather conditions. In 2020, approximately 67% of CenterPoint Energy’s Natural Gas total throughput and 68% of CERC’s Natural Gas total throughput occurred in the first and fourth quarters. These patterns reflect the higher demand for natural gas for heating purposes during the colder months.
+
+Supply and Transportation.  In 2020, CenterPoint Energy’s Natural Gas purchased virtually all of its natural gas supply pursuant to contracts with remaining terms varying from a few months to four years. Certain contracts are firm commitments under five- and ten-year arrangements. Major suppliers are those that account for greater than 10% of CenterPoint Energy’s or CERC’s annual natural gas supply purchases. In 2020, CenterPoint Energy and CERC purchased 47% and 45%, respectively, of their natural gas supply from three major suppliers. For CenterPoint Energy, the suppliers were Macquerie Energy, LLC (20%), Exelon Generation Company, LLC (16%) and BP Energy Company/BP Canada Energy Marketing (11%). For CERC, the suppliers were Macquerie Energy, LLC (25%), Symmetry Energy Solutions, LLC, formerly CES (10%) and BP Energy Company/BP Canada Energy Marketing (10%). Numerous other suppliers provided the remainder of CenterPoint Energy’s and CERC’s natural gas supply requirements.
+
+CenterPoint Energy’s and CERC’s Natural Gas transports their natural gas supplies through various intrastate and interstate pipelines under contracts with remaining terms, including extensions, varying from one to sixteen years. CenterPoint Energy’s and CERC’s Natural Gas anticipates that these gas supply and transportation contracts will be renewed or replaced prior to their expiration.
+
+CenterPoint Energy’s and CERC’s Natural Gas actively engages in commodity price stabilization pursuant to annual gas supply plans presented to and/or filed with each of its state regulatory authorities. These price stabilization activities include use of storage gas and contractually establishing structured prices (e.g., fixed price, costless collars and caps) with CenterPoint Energy’s and CERC’s Natural Gas’ physical gas suppliers. Their gas supply plans generally call for 50–75% of normal winter supplies to be stabilized in some fashion.
+The regulations of the states in which CenterPoint Energy’s and CERC’s Natural Gas operates allow them to pass through changes in the cost of natural gas, including savings and costs of financial derivatives associated with the index-priced physical supply, to their customers under purchased gas adjustment provisions in their tariffs. Depending upon the jurisdiction, the purchased gas adjustment factors are updated periodically, ranging from monthly to semi-annually. The changes in the cost of gas billed to customers are subject to review by the applicable regulatory bodies.
+CenterPoint Energy’s and CERC’s Natural Gas uses various third-party storage services or owned natural gas storage facilities to meet peak-day requirements and to manage the daily changes in demand due to changes in weather. CenterPoint
+7
+
+Energy’s and CERC’s Natural Gas may also supplement contracted supplies and storage from time to time with stored LNG and propane-air plant production.
+
+As of December 31, 2020, CenterPoint Energy’s and CERC’s Natural Gas owned and operated the following natural gas facilities:																							
+	No. of Assets		Storage Capacity (Bcf)		Working Capacity (Bcf)		 Maximum Daily Withdrawal Rate (MMcf)
+CenterPoint Energy							
+Underground Natural Gas Storage Facility	9		43.6 			14.2 			337 	
+CERC							
+Underground Natural Gas Storage Facility	1		7.0 			2.0 			50 	
+																							
+					On-site Storage Capacity
+	No. of Assets		Daily Production Rate (Dth)		Millions of Gallons		Dth
+CenterPoint Energy							
+Propane Air-Gas Manufacturing Plant	13		231,000 			12.9 			1,187,000 	
+LNG Plant Facility	1		72,000 			12.0 			1,000,000 	
+CERC							
+Propane Air-Gas Manufacturing Plant	10		198,000 			11.4 			1,050,000 	
+LNG Plant Facility	1		72,000 			12.0 			1,000,000 	
+
+The table below reflects CenterPoint Energy’s and CERC’s Natural Gas contracted upstream storage services as of December 31, 2020:
+
+																							
+		Storage Capacity (Bcf)		 Maximum Peak Daily Delivery (MMcf)			
+CenterPoint Energy							
+Upstream Storage Service		115 			2,744 				
+CERC							
+Upstream Storage Service		92 			2,298 				
+On an ongoing basis, CenterPoint Energy’s and CERC’s Natural Gas enters into contracts to provide sufficient supplies and pipeline capacity to meet their customer requirements. However, it is possible for limited service disruptions to occur from time to time due to weather conditions, transportation constraints and other events. As a result of these factors, supplies of natural gas may become unavailable from time to time, or prices may increase rapidly in response to temporary supply constraints or other factors.
+CenterPoint Energy’s and CERC’s Natural Gas has AMAs associated with their utility distribution service in Arkansas, Louisiana and Oklahoma with the Energy Services Disposal Group and in Arkansas, Indiana, Louisiana, Mississippi and Texas with other third parties. The AMAs have varying terms, the longest of which expires in 2025. Pursuant to the provisions of the agreements, CenterPoint Energy’s and CERC’s Natural Gas either sells natural gas to the asset manager and agrees to repurchase an equivalent amount of natural gas throughout the year at the same cost, or simply purchases its full natural gas requirements at each delivery point from the asset manager. Generally, AMAs are contracts between CenterPoint Energy’s and CERC’s Natural Gas and an asset manager that are intended to transfer the working capital obligation and maximize the utilization of the assets. In these agreements, CenterPoint Energy’s and CERC’s Natural Gas agrees to release transportation and storage capacity to other parties to manage natural gas storage, supply and delivery arrangements for CenterPoint Energy’s and CERC’s Natural Gas and to use the released capacity for other purposes when it is not needed for CenterPoint Energy’s and CERC’s Natural Gas. CenterPoint Energy’s and CERC’s Natural Gas may receive compensation from the asset manager through payments made over the life of the AMAs. CenterPoint Energy’s and CERC’s Natural Gas has an obligation to
+8
+
+purchase their winter storage requirements that have been released to the asset manager under these AMAs. For further information regarding the AMAs with the Energy Services Disposal Group, see Note 4 to the consolidated financial statements.
+
+For information regarding the proposed sale of certain Natural Gas businesses located in Arkansas and Oklahoma, see “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Significant Events — Business Review and Evaluation Committee” in Item 7 of Part II of this report.
+
+Competition
+ 
+CenterPoint Energy’s and CERC’s Natural Gas competes primarily with alternate energy sources such as electricity and other fuel sources. In some areas, intrastate pipelines, other gas distributors and marketers also compete directly for gas sales to end users. In addition, as a result of federal regulations affecting interstate pipelines, natural gas marketers operating on these pipelines may be able to bypass CenterPoint Energy’s and CERC’s Natural Gas’ facilities and market, sell and/or transport natural gas directly to commercial and industrial customers.
+
+Midstream Investments (CenterPoint Energy)
+
+CenterPoint Energy’s Midstream Investments reportable segment consists of its equity method investment in Enable. Enable is a publicly traded MLP, jointly controlled by CenterPoint Energy (indirectly through CNP Midstream) and OGE as of December 31, 2020. 
+
+On September 4, 2018, CERC completed the Internal Spin of its equity investment in Enable, consisting of Enable common units and its interests in Enable GP, to CenterPoint Energy. For further discussion of the Internal Spin, see Note 11 to the consolidated financial statements.
+
+Enable. Enable owns, operates and develops midstream energy infrastructure assets strategically located to serve its customers. Enable’s assets and operations are organized into two reportable segments: (i) gathering and processing and (ii) transportation and storage. Enable’s gathering and processing segment primarily provides natural gas gathering and processing to its producer customers and crude oil, condensate and produced water gathering services to its producer and refiner customers. Enable’s transportation and storage segment provides interstate and intrastate natural gas pipeline transportation and storage services primarily to its producer, power plant, local distribution company and industrial end-user customers.
+
+Enable’s Gathering and Processing segment. Enable owns and operates substantial natural gas and crude oil gathering and natural gas processing assets primarily in five states. Enable’s gathering and processing operations consist primarily of natural gas gathering and processing assets serving the Anadarko, Arkoma and Ark-La-Tex Basins, crude oil and condensate gathering assets serving the Anadarko Basin and crude oil and produced water gathering assets serving the Williston Basin. Enable provides a variety of services to the active producers in its operating areas, including gathering, compressing, treating, and processing natural gas, fractionating NGLs, and gathering crude oil, condensate and produced water. Enable serves shale and other unconventional plays in the basins in which it operates.
+
+Enable’s gathering and processing systems compete with gatherers and processors of all types and sizes, including those affiliated with various producers, other major pipeline companies and various independent midstream entities. Competition for crude oil, condensate, produced water and extracted NGL services also includes trucking and railroad transportation companies. In the process of selling NGLs, Enable competes against other natural gas processors extracting and selling NGLs. Enable’s primary competitors are other midstream companies who are active in the regions where it operates. Enable’s management views competition for its gathering and processing systems as a function of rates, terms of service, flexibility and reliability.
+
+Enable’s Transportation and Storage segment. Enable owns and operates interstate and intrastate natural gas transportation and storage systems across nine states. Enable’s transportation and storage systems consist primarily of its interstate systems, EGT and MRT, its intrastate system and its investment in SESH. Enable’s transportation and storage assets transport natural gas from areas of production and interconnected pipelines to power plants, local distribution companies and industrial end users as well as interconnected pipelines for delivery to additional markets. Enable’s transportation and storage assets also provide facilities where natural gas can be stored by customers.
+
+Enable’s interstate and intrastate pipelines compete with a variety of other interstate and intrastate pipelines across its operating areas in providing transportation and storage services. Enable’s management views the principal elements of competition among pipelines as rates, terms of service, flexibility and reliability of service. For natural gas transportation and storage, rates include both fees for services and retained fuel.
+
+9
+
+For information related to CenterPoint Energy’s equity method investment in Enable, see Note 2(c) and Note 11 to the consolidated financial statements.
+
+For information relating to the recently announced Enable Merger, see “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Significant Events — Enable Merger Agreement” in Item 7 of Part II of this report and Note 22 to the consolidated financial statements.
+
+Corporate and Other (CenterPoint Energy)
+
+CenterPoint Energy’s Corporate and Other consists of energy performance contracting and sustainable infrastructure services, such as renewables, distributed generation and combined heat and power projects, through ESG, and other corporate support operations that support CenterPoint Energy’s business operations. CenterPoint Energy’s Corporate and Other also includes office buildings and other real estate used for business operations.
+
+
+REGULATION
+
+The Registrants are subject to regulation by various federal, state and local governmental agencies, including the regulations described below. The following discussion is based on regulation in the Registrants’ businesses and CenterPoint Energy’s investment in Enable as of December 31, 2020.
+
+Federal Energy Regulatory Commission
+
+The FERC has jurisdiction under the NGA and the NGPA, as amended, to regulate the transportation of natural gas in interstate commerce and natural gas sales for resale in interstate commerce that are not first sales. The FERC regulates, among other things, the construction of pipeline and related facilities used in the transportation and storage of natural gas in interstate commerce, including the extension, expansion or abandonment of these facilities. The FERC has authority to prohibit market manipulation in connection with FERC-regulated transactions, to conduct audits and investigations, and to impose significant civil penalties (up to approximately $1.3 million per day per violation, subject to periodic adjustment to account for inflation) for statutory violations and violations of the FERC’s rules or orders.
+
+Indiana Electric is a “public utility” under the FPA and is subject to regulation by the FERC. The FERC regulates, among other things, the transmission and wholesale sales of electricity in interstate commerce, mergers, acquisitions and corporate transactions by electricity companies, energy markets, reliability standards and the issuance of short-term debt. The FERC also has authority to impose significant civil penalties (up to approximately $1.3 million per day per violation, subject to periodic adjustment to account for inflation) for statutory violations and violations of the FERC’s rules or orders. Houston Electric is not a “public utility” under the FPA and, therefore, is not generally regulated by the FERC, although certain of its transactions are subject to limited FERC jurisdiction. The FERC has certain responsibilities with respect to ensuring the reliability of electric transmission service, including transmission facilities owned by Houston Electric and other utilities within ERCOT. The FERC has designated the NERC as the ERO to promulgate standards, under FERC oversight, for all owners, operators and users of the bulk power system (Electric Entities). The ERO and the FERC have authority to (a) impose fines and other sanctions on Electric Entities that fail to comply with approved standards and (b) audit compliance with approved standards. The FERC has approved the delegation by the NERC of authority for reliability in ERCOT to the Texas RE and in MISO to ReliabilityFirst Corporation. Neither Houston Electric nor Indiana Electric anticipate that the reliability standards proposed by the NERC and approved by the FERC will have a material adverse impact on their operations. To the extent that Houston Electric and Indiana Electric are required to make additional expenditures to comply with these standards, it is anticipated that Houston Electric and Indiana Electric will seek to recover those costs through the transmission charges that are imposed on all distribution service providers within ERCOT and the MISO, respectively, for electric transmission provided.
+
+As a public utility holding company, under the Public Utility Holding Company Act of 2005, CenterPoint Energy and its consolidated subsidiaries are subject to reporting and accounting requirements and are required to maintain certain books and records and make them available for review by the FERC and state regulatory authorities in certain circumstances.
+
+For a discussion of the Registrants’ ongoing regulatory proceedings, see “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Liquidity and Capital Resources — Regulatory Matters” in Item 7 of Part II of this report, which discussion is incorporated herein by reference.
+
+10
+
+State and Local Regulation – Electric Transmission & Distribution (CenterPoint Energy and Houston Electric)
+
+Houston Electric conducts its operations pursuant to a certificate of convenience and necessity issued by the PUCT that covers its present service area and facilities. The PUCT and certain municipalities have the authority to set the rates and terms of service provided by Houston Electric under cost-of-service rate regulation. Houston Electric holds non-exclusive franchises from certain incorporated municipalities in its service territory. In exchange for payment of fees, these franchises give Houston Electric the right to use the streets and public rights-of-way of these municipalities to construct, operate and maintain its transmission and distribution system and to use that system to conduct its electric delivery business and for other purposes that the franchises permit. The terms of the franchises, with various expiration dates, typically range from 30 to 40 years.
+
+Houston Electric’s distribution rates charged to REPs for residential and small commercial customers are primarily based on amounts of energy delivered, whereas distribution rates for a majority of large commercial and industrial customers are primarily based on peak demand. All REPs in Houston Electric’s service area pay the same rates and other charges for transmission and distribution services. This regulated delivery charge includes the transmission and distribution rate (which includes municipal franchise fees), a distribution recovery mechanism for recovery of incremental distribution-invested capital above that which is already reflected in the base distribution rate, a nuclear decommissioning charge associated with decommissioning the South Texas nuclear generating facility, an EECRF charge, and charges associated with securitization of regulatory assets, stranded costs and restoration costs relating to Hurricane Ike. Transmission rates charged to distribution companies are based on amounts of energy transmitted under “postage stamp” rates that do not vary with the distance the energy is being transmitted. All distribution companies in ERCOT pay Houston Electric the same rates and other charges for transmission services.
+
+With the IURC’s approval, Indiana Electric is a member of the MISO, a FERC-approved regional transmission organization. The MISO serves the electrical transmission needs of much of the midcontinent region and maintains operational control over Indiana Electric’s electric transmission and generation facilities as well as those of other utilities in the region. Indiana Electric is an active participant in the MISO energy markets, bidding its owned generation into the Day Ahead and Real Time markets and procuring power for its retail customers at Locational Marginal Pricing as determined by the MISO market. Indiana Electric also receives transmission revenue that results from other members’ use of Indiana Electric’s transmission system. Generally, these transmission revenues, along with costs charged by the MISO, are considered components of base rates and any variance from that included in base rates is recovered from or refunded to retail customers through tracking mechanisms.
+
+For a discussion of certain of Houston Electric’s and Indiana Electric’s ongoing regulatory proceedings, see “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Liquidity and Capital Resources — Regulatory Matters” in Item 7 of Part II of this report, which discussion is incorporated herein by reference.
+
+State and Local Regulation – Electric Generation (CenterPoint Energy)
+
+Indiana Electric owns and operates 1,000 MW of coal-fired generation, 163 MW of gas-fired generation and 4 MW of solar generation. Indiana Electric’s newest solar array, which was approved by the IURC in 2018, consists of approximately 150,000 solar panels distributed across 300 acres along Indiana State Road 545 between Troy and New Boston, Indiana. Construction of the 50 MW universal solar array was nearing completion at the end of 2020, and the project was placed in service for southwestern Indiana electric customers in early 2021. Indiana Electric also is party to two purchase power agreements, entitling it to the delivery of up to 80 MW of electricity produced by wind turbines. The energy and capacity secured from Indiana Electric’s available generation resources are utilized primarily to serve the needs of retail electric customers residing within Indiana Electric’s franchised service territory. Costs of operating Indiana Electric’s generation facilities are recovered through IURC-approved base rates as well as periodic rate recovery mechanisms including the CECA, DSMA, ECA, FAC, MCRA, RCRA Mechanism and TDSIC. Costs that are deemed unreasonable or imprudent by the IURC may not be recoverable through retail electric rates. Indiana Electric also receives revenues from the MISO to compensate it for benefits the generation facilities provide to the transmission system. Proceeds from the sales of energy from Indiana Electric’s generation facilities that exceed the requirements of retail customers are shared by Indiana Electric and retail electric customers.
+
+The generation facilities owned and operated by Indiana Electric are subject to various environmental regulations enforced by the EPA and the IDEM. Operation of Indiana Electric’s generation facilities are subject to regulation by the EPA and the IDEM as it pertains to the discharge of constituents from the generation facilities. For further discussion, see “Our Business — Environmental Matters” below.
+
+11
+
+State and Local Regulation – Natural Gas (CenterPoint Energy and CERC)
+
+In almost all communities in which CenterPoint Energy’s and CERC’s Natural Gas provides natural gas distribution services, they operate under franchises, certificates or licenses obtained from state and local authorities. The original terms of the franchises, with various expiration dates, typically range from 20 to 30 years, although franchises in Arkansas are perpetual. CenterPoint Energy’s and CERC’s Natural Gas expects to be able to renew expiring franchises. In most cases, franchises to provide natural gas utility services are not exclusive.
+
+Substantially all of CenterPoint Energy’s and CERC’s Natural Gas is subject to cost-of-service rate regulation by the relevant state public utility commissions and, in Texas, by those municipalities that have retained original jurisdiction. In certain of the jurisdictions in which they operate, CenterPoint Energy’s and CERC’s Natural Gas has annual rate adjustment mechanisms that provide for changes in rates dependent upon certain changes in invested capital, earned returns on equity or actual margins realized.
+For a discussion of certain of CenterPoint Energy’s and CERC’s Natural Gas’ ongoing regulatory proceedings, see “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Liquidity and Capital Resources — Regulatory Matters” in Item 7 of Part II of this report, which discussion is incorporated herein by reference.
+
+Department of Transportation (CenterPoint Energy and CERC)
+We are subject to regulation by PHMSA under the NGPSA and the HLPSA. The NGPSA delegated to PHMSA through DOT the authority to regulate gas pipelines. The HLPSA delegated to PHMSA through DOT the authority to develop, prescribe and enforce federal safety standards for the transportation of hazardous liquids by pipeline. Every four years PHMSA is up for reauthorization by Congress and with that reauthorization comes changes to the legislative requirements that Congress sets forth for the oversight of natural gas and hazardous liquid pipelines. In 2020, the Pipes Act was enacted. The Pipes Act reauthorized PHMSA through 2023 and imposed a few new mandates on the agency. The law establishes a PHMSA technology pilot, authorizes a new idled pipe operating status and contains process protections for operators during PHMSA enforcement proceedings. There are no self-enacting portions of this act that impact our assets.
+
+In January 2021, PHMSA published a final rule amending the federal Pipeline Safety Regulations to ease regulatory burdens on the construction, operation, and maintenance of gas transmission, distribution, and gathering systems. However, because the PSR Amendments have not yet gone into effect, the Biden administration may review the PSR Amendments and potentially take steps to revise or revoke them. It is uncertain whether the PSR Amendments will go into effect as finalized and what effects the PSR Amendments may have on our operations.
+
+CenterPoint Energy and CERC anticipate that compliance with PHMSA’s regulations, performance of the remediation activities by CenterPoint Energy’s and CERC’s Natural Gas and intrastate pipelines and verification of records on maximum allowable operating pressure will continue to require increases in both capital expenditures and operating costs. The level of expenditures will depend upon several factors, including age, location and operating pressures of the facilities. In particular, the cost of compliance with the DOT’s integrity management rules will depend on integrity testing and the repairs found to be necessary by such testing. Changes to the amount of pipe subject to integrity management, whether by expansion of the definition of the type of areas subject to integrity management procedures or of the applicability of such procedures outside of those defined areas, may also affect the costs incurred. Implementation by PHMSA of the PIPES Act, acts reauthorizing PHMSA or other future acts may result in other regulations or the reinterpretation of existing regulations that could impact compliance costs. In addition, CenterPoint Energy and CERC may be subject to the DOT’s enforcement actions and penalties if they fail to comply with pipeline regulations.
+
+Midstream Investments – Rate and Other Regulation (CenterPoint Energy)
+ 
+Federal, state, and local regulation of pipeline gathering and transportation services may affect certain aspects of Enable’s business and the market for its products and services, as discussed below.
+
+Interstate Natural Gas Pipeline Regulation
+
+Enable’s interstate pipeline systems—EGT, MRT and SESH—are subject to regulation by the FERC and are considered “natural gas companies” under the NGA. Under the NGA, the rates for service on Enable’s interstate facilities must be just and reasonable and not unduly discriminatory. Rate and tariff changes for these facilities can only be implemented upon approval by the FERC. Enable’s interstate pipelines business operations may be affected by changes in the demand for natural gas, the
+12
+
+available supply and relative price of natural gas in the Mid-continent and Gulf Coast natural gas supply regions and general economic conditions.
+
+Market Behavior Rules; Posting and Reporting Requirements
+
+The EPAct of 2005 amended the NGA to (i) prohibit market manipulation by any entity; (ii) direct the FERC to facilitate market transparency in the market for the sale or transportation of physical natural gas in interstate commerce; and (iii) significantly increase the penalties for violations of the NGA, the NGPA and FERC rules, regulations or orders thereunder. The anti-manipulation rules apply to interstate gas pipelines and storage companies and intrastate gas pipelines and storage companies that provide interstate services, such as Section 311 service, as well as otherwise non-jurisdictional entities to the extent the activities are conducted “in connection with” gas sales, purchases or transportation subject to FERC jurisdiction. The anti-manipulation rules do not apply to activities that relate only to intrastate or other non-jurisdictional transactions. As a result of the EPAct of 2005, the FERC has the authority to impose civil penalties for violations of these statutes and FERC rules, regulations and orders, up to approximately $1.3 million per day, per violation.
+
+Intrastate Natural Gas Pipeline and Storage Regulation
+
+Intrastate natural gas transportation is largely regulated by the state in which the transportation takes place. An intrastate natural gas pipeline system may transport natural gas in interstate commerce provided that the rates, terms, and conditions of such transportation service comply with Section 311 of the NGPA and Part 284 of the FERC’s regulations. Rates for service pursuant to Section 311 of the NGPA are generally subject to review and approval by the FERC at least once every five years. Failure to observe the service limitations applicable to transportation services provided under Section 311, failure to comply with the rates approved by the FERC for Section 311 service, or failure to comply with the terms and conditions of service established in the pipeline’s FERC-approved Statement of Operating Conditions could result in the assertion of federal NGA jurisdiction by the FERC and/or the imposition of administrative, civil and criminal penalties, as described under “—Market Behavior Rules; Posting and Reporting Requirements” above.
+
+Natural Gas Gathering and Processing Regulation
+
+Section 1(b) of the NGA exempts natural gas gathering facilities from the jurisdiction of the FERC. Although the FERC has not made formal determinations with respect to all of the facilities Enable considers to be natural gas gathering facilities, Enable believes that its natural gas pipelines meet the traditional tests that the FERC has used to determine that a pipeline is a natural gas gathering pipeline and is therefore not subject to FERC jurisdiction. The distinction, however, has been the subject of substantial litigation, and the FERC determines whether facilities are natural gas gathering facilities on a case-by-case basis, so the classification and regulation of Enable’s gathering facilities is subject to change based on future determinations by the FERC, the courts or Congress. If FERC were to consider the status of an individual facility and determine that the facility and/or services provided by it are not exempt from FERC regulation under the NGA and that the facility provides interstate service, then the rates for, and terms and conditions of, services provided by such facility would be subject to regulation by FERC under the NGA or the NGPA.
+
+States may regulate gathering pipelines. State regulation of natural gas gathering facilities generally includes various safety, environmental and, in some circumstances, anti-discrimination requirements, and in some instances complaint-based rate regulation. Enable’s natural gas gathering operations may be subject to ratable take and common purchaser statutes in the states in which they operate.
+
+Enable’s gathering operations could be adversely affected should they be subject in the future to the application of state or federal regulation of rates and services. Enable’s natural gas gathering operations could also be subject to additional safety and operational regulations relating to the design, construction, testing, operation, replacement and maintenance of gathering facilities. CenterPoint Energy cannot predict what effect, if any, such changes might have on Enable’s operations, but the industry could be required to incur additional capital expenditures and increased costs depending on future legislative and regulatory changes.
+
+Interstate Crude Oil Gathering Regulation
+
+Enable’s crude oil gathering systems in the Williston Basin transport crude oil in interstate commerce. Crude oil gathering pipelines that transport crude oil in interstate commerce may be regulated as common carriers by the FERC under the ICA, the Energy Policy Act of 1992, and the rules and regulations promulgated under those laws. The ICA and FERC regulations require that rates for interstate service pipelines that transport crude oil and refined petroleum products (collectively referred to as “petroleum pipelines”) and certain other liquids, be just and reasonable and non-discriminatory or not confer any undue
+13
+
+preference upon any shipper. FERC regulations also require interstate common carrier petroleum pipelines to file with the FERC and publicly post tariffs stating their interstate transportation rates and terms and conditions of service.
+
+Intrastate Crude Oil and Condensate Gathering Regulation
+
+Enable’s crude oil and condensate gathering system in the Anadarko Basin is located in Oklahoma and is subject to limited regulation by the OCC. Crude oil and condensate gathering systems are common carriers under Oklahoma law and are prohibited from unjust or unlawful discrimination in favor of one customer over another. Additional rules and legislation pertaining to these matters are considered or adopted from time to time. Enable’s crude oil and condensate gathering results of operations and cash flows could be adversely affected should they be subject in the future to the application of state or federal regulation of rates and services.
+
+Safety and Health Regulation
+
+Enable’s pipeline facilities are subject to regulation under federal pipeline safety statutes and comparable state statutes. Federal pipeline safety statutes include the NGPSA, which provides for safety requirements in the design, construction, operation and maintenance of natural gas pipeline facilities, and the HLPSA, which provides for safety requirements for the design, construction, operation and maintenance of hazardous liquids pipelines facilities, including NGL and crude oil pipelines. Enable is also regulated under federal pipeline safety statutes by DOT through PHMSA. PHMSA sets and enforces pipeline safety regulations and standards. PHMSA’s enforcement authority includes the ability to assess civil penalties for violations of pipeline safety regulations. Enable incurs significant costs in complying with federal and state pipeline safety laws and regulations and otherwise administering its pipeline safety program.
+
+ENVIRONMENTAL MATTERS
+
+The following discussion is based on environmental matters in the Registrants’ businesses as of December 31, 2020. The Registrants’ operations and the operations of Enable are subject to stringent and complex laws and regulations pertaining to the environment. As an owner or operator of natural gas pipelines, distribution systems and storage, electric transmission and distribution systems, steam electric generation systems and the facilities that support these systems, the Registrants must comply with these laws and regulations at the federal, state and local levels. These laws and regulations can restrict or impact the Registrants’ business activities in many ways, including, but not limited to:
+
+•restricting the way the Registrants can handle or dispose of wastes, including wastewater discharges and air emissions;
+•limiting or prohibiting construction activities in sensitive areas such as wetlands, coastal regions or areas inhabited by endangered species;
+•requiring remedial action and monitoring to mitigate environmental conditions caused by the Registrants’ operations or attributable to former operations;
+•enjoining the operations of facilities with permits issued pursuant to such environmental laws and regulations; and
+•impacting the demand for the Registrants’ services by directly or indirectly affecting the use or price of fossil fuels, including, but not limited to, natural gas.
+
+To comply with these requirements, the Registrants may need to spend substantial amounts and devote other resources from time to time to, among other activities:
+
+•construct or acquire new facilities and equipment;
+•acquire permits for facility operations or purchase emissions allowances;
+•modify, upgrade or replace existing and proposed equipment; and
+•decommission or remediate waste management areas, fuel storage facilities and other locations.
+
+Failure to comply with these laws and regulations may trigger a variety of administrative, civil and criminal enforcement measures, including the assessment of monetary penalties, revocation of permits, the imposition of remedial actions and monitoring and the issuance of orders enjoining future operations. Certain environmental statutes impose strict, joint and several liability for costs required to assess, clean up and restore sites where hazardous substances have been stored, disposed or released. Moreover, it is not uncommon for neighboring landowners and other third parties to file claims for personal injury and/or property damage allegedly caused by the release of hazardous substances or other waste products into the environment.
+
+Increasingly, environmental regulation has resulted in more restrictions and limitations on activities that may impact the environment. There can be no assurance as to the amount or timing of future expenditures for environmental compliance or remediation and monitoring, and actual future expenditures may be different from the amounts currently anticipated. The
+14
+
+Registrants try to anticipate future regulatory requirements that might be imposed and plan accordingly to maintain compliance with changing environmental laws and regulations.
+
+Based on current regulatory requirements and interpretations, the Registrants do not believe that compliance with federal, state or local environmental laws and regulations will have a material adverse effect on their business, financial position, results of operations or cash flows. In addition, the Registrants believe that their current environmental remediation activities will not materially interrupt or diminish their operational ability. The Registrants cannot assure you that future events, such as changes in existing laws, the promulgation of new laws, or the development or discovery of new facts or conditions will not cause them to incur significant costs. The following is a discussion of material current environmental and safety issues, laws and regulations that relate to the Registrants’ operations. The Registrants believe that they are in substantial compliance with these environmental laws and regulations.
+
+Global Climate Change
+
+There is increasing attention being paid in the United States and worldwide to the issue of climate change. As a result, from time to time, regulatory agencies have considered the modification of existing laws or regulations or the adoption of new laws or regulations addressing the emissions of GHG on the state, federal, or international level. Some of the proposals would require industrial sources to meet stringent new standards that would require substantial reductions in GHG emissions. CenterPoint Energy’s and CERC’s revenues, operating costs and capital requirements could be adversely affected as a result of any regulatory action that would require installation of new control technologies or a modification of their operations or would have the effect of reducing the consumption of natural gas. One such rule, the ACE Rule, which was finalized by the EPA in 2019, would have required states to establish heat rate performance standards for steam electric generating facilities. However, on January 19, 2021, the U.S. District Court of Appeals for the District of Columbia struck down the ACE Rule. The Biden administration recommitted the United States to the Paris Agreement, which can be expected to drive a renewed regulatory push to require further GHG emission reductions from the energy sector. Shortly after taking office in January 2021, President Biden issued a series of executive orders designed to address climate change. President Biden has also signed an executive order requiring agencies to review environmental actions taken by the Trump administration, which would have included the ACE Rule, and the Biden administration has issued a memorandum to departments and agencies to refrain from proposing or issuing rules until a departmental or agency head appointed or designated by the Biden administration has reviewed and approved the rule. Reentry into the Paris Agreement and President Biden’s executive orders may result in the development of additional regulations or changes to existing regulations.
+
+Houston Electric, in contrast to some electric utilities, does not generate electricity and thus is not directly exposed to the risk of high capital costs and regulatory uncertainties that face electric utilities that burn fossil fuels to generate electricity. Nevertheless, CenterPoint Energy’s and Houston Electric’s revenues could be adversely affected to the extent any resulting regulatory action has the effect of reducing consumption of electricity by ultimate consumers within Houston Electric’s service territory. Likewise, incentives to conserve energy or to use energy sources other than natural gas could result in a decrease in demand for the Registrants’ services. Conversely, regulatory actions that effectively promote the consumption of natural gas because of its lower emissions characteristics would be expected to beneficially affect CenterPoint Energy and CERC and their natural gas-related businesses. At this point in time, however, it would be speculative to try to quantify the magnitude of the impacts from possible new regulatory actions related to GHG emissions, either positive or negative, on the Registrants’ businesses. On March 1, 2020, CenterPoint Energy announced corporate carbon emission goals, which are expected to be used to guide Indiana Electric’s transition to a low carbon fleet and position Indiana Electric to comply with anticipated regulatory requirements to further reduce GHG emissions from its electric fleet.
+
+To the extent climate changes may occur and such climate changes result in warmer temperatures in the Registrants’ or Enable’s service territories, financial results from the Registrants’ and Enable’s businesses could be adversely impacted. For example, CenterPoint Energy’s and CERC’s Natural Gas could be adversely affected through lower natural gas sales and Enable’s natural gas gathering, processing and transportation and crude oil gathering businesses could experience lower revenues. On the other hand, warmer temperatures in CenterPoint Energy’s and Houston Electric’s electric service territory may increase revenues from transmission and distribution and generation through increased demand for electricity for cooling. Another possible result of climate change is more frequent and more severe weather events, such as hurricanes, tornadoes and flooding. Since many of the Registrants’ facilities are located along or near the Gulf Coast, increased or more severe hurricanes or tornadoes could increase costs to repair damaged facilities and restore service to customers. When the Registrants cannot deliver electricity or natural gas to customers, or customers cannot receive services, the Registrants’ financial results can be impacted by lost revenues, and they generally must seek approval from regulators to recover restoration costs. To the extent the Registrants are unable to recover those costs, or if higher rates resulting from recovery of such costs result in reduced demand for services, the Registrants’ future financial results may be adversely impacted.
+
+15
+
+Air Emissions
+
+The Registrants’ operations are subject to the federal Clean Air Act and comparable state laws and regulations. These laws and regulations regulate emissions of air pollutants from various industrial sources, including electric generating facilities and natural gas processing plants and compressor stations, and also impose various monitoring and reporting requirements. Such laws and regulations may require pre-approval for the construction or modification of certain projects or facilities expected to produce air emissions or result in the increase of existing air emissions. The Registrants may be required to obtain and strictly comply with air permits containing various emissions and operational limitations, or utilize specific emission control technologies to limit emissions. Failure to comply with these requirements could result in monetary penalties, injunctions, conditions or restrictions on operations, and potentially criminal enforcement actions. The Registrants may be required to incur certain capital expenditures in the future for air pollution control equipment in connection with obtaining and maintaining operating permits and approvals for air emissions.
+
+Water Discharges
+
+The Registrants’ operations are subject to the Federal Water Pollution Control Act of 1972, as amended, also known as the Clean Water Act, and analogous state laws and regulations. These laws and regulations impose detailed requirements and strict controls regarding the discharge of pollutants into waters of the United States. The unpermitted discharge of pollutants, including discharges resulting from a spill or leak incident, is prohibited. The Clean Water Act and regulations implemented thereunder also prohibit discharges of dredged and fill material into wetlands and other waters of the United States unless authorized by an appropriately issued permit. Any unpermitted release of petroleum or other pollutants from the Registrants’ pipelines or facilities could result in fines or penalties as well as significant remedial obligations.
+
+Waters of the United States
+
+Under the Obama administration, the EPA promulgated a set of rules that included a comprehensive regulatory overhaul of defining “waters of the United States” for the purposes of determining federal jurisdiction. The Trump administration signaled its intent to repeal and replace the Obama-era rules. In accordance with this intent, the EPA promulgated a rule in early 2018 that postponed the effectiveness of the Obama-era rules until 2020. Thereafter, the EPA proposed a new set of rules that would narrow the Clean Water Act’s jurisdiction, which were finalized on April 21, 2020. Environmental stakeholders and certain states have filed challenges to the new rule. Shortly after taking office in January 2021, President Biden signed an executive order requiring agencies to review environmental actions taken by the Trump administration, including the April 2020 rule, but the nature and extent of any revisions to these rules that may be sought is uncertain at this time. The potential impact of the litigation or further revisions to the “waters of the United States” regulations on the Registrants’ business, liabilities, compliance obligations or profits and revenues is uncertain at this time.
+
+ELG
+
+In 2015, the EPA finalized revisions to the existing steam electric wastewater discharge standards which set more stringent wastewater discharge limits and effectively prohibited further wet disposal of coal ash in ash ponds. These new standards are applied at the time of permit renewal and an affected facility must comply with the wastewater discharge limitations no later than December 31, 2023, and the prohibition of wet sluicing of bottom ash no later than December 31, 2025. In February 2019, the IURC approved Indiana Electric’s ELG compliance plan for its F.B. Culley Generating Station, and Indiana Electric is currently finalizing its ELG compliance plan for the remainder of its affected units as part of its ongoing IRP process.
+
+Cooling Water Intake Structures
+
+Section 316 of the federal Clean Water Act requires steam electric generating facilities use “best technology available” to minimize adverse environmental impacts on a body of water. In May 2014, the EPA finalized a regulation requiring installation of “best technology available” to mitigate impingement and entrainment of aquatic species in cooling water intake structures. Indiana Electric is currently completing the required ecological studies and anticipates timely compliance in 2021-2022.
+
+Hazardous Waste
+
+The Registrants’ operations generate wastes, including some hazardous wastes, that are subject to the federal RCRA, and comparable state laws, which impose detailed requirements for the handling, storage, treatment, transport and disposal of hazardous and solid waste. RCRA currently exempts many natural gas gathering and field processing wastes from classification as hazardous waste. Specifically, RCRA excludes from the definition of hazardous waste waters produced and other wastes associated with the exploration, development or production of crude oil and natural gas. However, these oil and gas exploration
+16
+
+and production wastes are still regulated under state law and the less stringent non-hazardous waste requirements of RCRA. Moreover, ordinary industrial wastes such as paint wastes, waste solvents, laboratory wastes and waste compressor oils may be regulated as hazardous waste. The transportation of natural gas in pipelines may also generate some hazardous wastes that would be subject to RCRA or comparable state law requirements.
+
+Coal Ash
+
+Indiana Electric has three ash ponds, two at the F.B. Culley facility (Culley East and Culley West) and one at the A.B. Brown facility. In 2015, the EPA finalized its CCR Rule, which regulates coal ash as non-hazardous material under the RCRA. The final rule allows beneficial reuse of ash, and the majority of the ash generated by Indiana Electric’s generating plants will continue to be beneficially reused. The EPA continues to propose amendments to the CCR Rule; however, under the CCR Rule as it is currently in effect, Indiana Electric is required to perform integrity assessments, including ground water monitoring, at its F.B. Culley and A.B. Brown generating stations. The ground water studies are necessary to determine the remaining service life of the ponds and whether a pond must be retrofitted with liners or closed in place. Preliminary groundwater monitoring indicates potential groundwater impacts very close to Indiana Electric’s ash impoundments, and further analysis is ongoing.The CCR Rule required companies to complete location restriction determinations by October 18, 2018. Indiana Electric completed its evaluation and determined that one F.B. Culley pond (Culley East) and the A.B. Brown pond fail the aquifer placement location restriction. As a result of this failure, Indiana Electric is required to cease disposal of new ash in the ponds and commence closure of the ponds by April 11, 2021. Indiana Electric plans to seek extensions available under the CCR Rule that would allow Indiana Electric to continue to use the ponds through October 15, 2023. The inability to take these extensions may result in increased and potentially significant operational costs in connection with the accelerated implementation of an alternative ash disposal system or adversely impact Indiana Electric’s future operations. Failure to comply with these requirements could also result in an enforcement proceeding, including the imposition of fines and penalties. The Culley West pond was closed under CCR provisions applicable to inactive ponds, and closure activities were completed in December 2020. For further discussion about Indiana Electric’s ash ponds, please see Note 16(e) to the consolidated financial statements.
+
+Liability for Remediation
+
+CERCLA, also known as “Superfund,” and comparable state laws impose liability, without regard to fault or the legality of the original conduct, on certain classes of persons responsible for the release of “hazardous substances” into the environment. Classes of PRPs include the current and past owners or operators of sites where a hazardous substance was released and companies that disposed or arranged for the disposal of hazardous substances at offsite locations such as landfills. Although petroleum, as well as natural gas, is expressly excluded from CERCLA’s definition of a “hazardous substance,” in the course of the Registrants’ ordinary operations they do, from time to time, generate wastes that may fall within the definition of a “hazardous substance.” CERCLA authorizes the EPA and, in some cases, third parties to take action in response to threats to the public health or the environment and to recover the costs they incur from the responsible classes of persons. Under CERCLA, the Registrants could potentially be subject to joint and several liability for the costs of cleaning up and restoring sites where hazardous substances have been released, for damages to natural resources, and for associated response and assessment costs, including for the costs of certain health studies.
+
+Liability for Preexisting Conditions
+
+For information about preexisting environmental matters, please see Note 16(e) to the consolidated financial statements.
+
+HUMAN CAPITAL
+
+CenterPoint Energy believes its employees are critical components to safely delivering electricity and natural gas across its service territories and seeks to create a diverse, inclusive and safe work environment. CenterPoint Energy’s core values—safety, integrity, accountability, initiative and respect—guide how it makes decisions and provide the foundation for a strong culture of ethics where employees are responsible for upholding these values and following CenterPoint Energy’s Ethics and Compliance Code.
+17
+
+The following table sets forth the number of employees by Registrant and reportable segment as of December 31, 2020:
+																																						
+		Number of Employees		Number of Employees Represented by Collective Bargaining Groups
+Reportable Segment		CenterPoint Energy		Houston Electric		CERC		CenterPoint Energy		Houston Electric		CERC
+Electric		3,124 			2,697 			— 			1,665 			1,442 			— 	
+Natural Gas		4,048 			— 			3,327 			1,656 			—		1,184 	
+Corporate and Other 		2,369 			— 			— 			122 			—		— 	
+Total		9,541 			2,697 			3,327 			3,443 			1,442 			1,184 	
+
+For information about the status of collective bargaining agreements, see Note 8(j) to the consolidated financial statements.
+
+Recruiting, Training and Development. CenterPoint Energy’s human capital priorities include attracting, retaining and developing high performing talent through its talent management activities. CenterPoint Energy endeavors to maintain a workforce reflective of the available workforce in the United States by attracting quality candidates through its recruitment and selection processes, with the goal of creating a work environment in which every employee is engaged, aligned with CenterPoint Energy’s vision and values and understands how they contribute to its long-term performance. CenterPoint Energy recruits qualified employees regardless of race, gender, color, sexual orientation, age, religion, or physical or mental disability. To support a motivated and skilled workforce, CenterPoint Energy invests in employee and career development by providing resources and opportunities for its employees to develop skills and competencies to operate the business safely, meet customer expectations and identify opportunities for innovation.
+
+Diversity and Inclusion. CenterPoint Energy is dedicated to advancing an inclusive culture and work environment, free from discrimination of any kind, where business results are achieved through the skills, abilities and talents of a diverse workforce. In 2020, CenterPoint Energy established a company-wide diversity and inclusion council to provide governance and oversight of its diversity and inclusion efforts and continues to enhance its diversity and inclusion policies. As of December 31, 2020, CenterPoint Energy’s workforce was 36% racially and/or ethnically diverse.
+
+Compensation and Benefits. CenterPoint Energy is committed to providing market-competitive pay and benefits. Its compensation philosophy is to maintain employee total compensation that is competitive with the relevant markets, internally equitable and based on CenterPoint Energy’s and the employee’s individual performance. CenterPoint Energy believes such pay practices attract, motivate and retain employees with the skills and competencies necessary to achieve business strategy. To supplement its competitive base compensation, additional programs include short-term and long-term incentive plans, retirement and savings plans, including company matching, healthcare and insurance benefits, disability coverage, paid time off, family leave, employee assistance programs, among other benefits.
+
+Workforce Health and Safety. CenterPoint Energy is committed to the health and safety of its employees, customers and business counterparties. Under its Safety Forward approach, safety is the responsibility of all employees. CenterPoint Energy has established a structured employee safety onboarding and development plan through its learning and development platform, offering safety and technical training courses focused on driving, worker safety and safety culture as well as other safety programs designed to encourage employee participation. Key safety metrics include Days Away, Restricted or Transferred (DART) and preventable vehicle incident rate, among other metrics. In response to the COVID-19 pandemic as a critical service provider, CenterPoint Energy implemented precautionary measures to keep its employees who operate its business safe and informed. For additional discussion regarding CenterPoint Energy’s COVID-19 response, please see “Management’s Discussion and Analysis of Financial Condition and Results of Operations—Recent Events—COVID-19 Impacts” in Item 7 of this combined report on Form 10-K.
+
+18
+
+INFORMATION ABOUT OUR EXECUTIVE OFFICERS
+(as of February 19, 2021)
+														
+Name		Age		Title
+Milton Carroll		70		Executive Chairman
+David J. Lesar		67		President and Chief Executive Officer
+Jason P. Wells		43		Executive Vice President and Chief Financial Officer
+Scott E. Doyle		49		Executive Vice President, Natural Gas
+Gregory E. Knight		53		Executive Vice President, Customer Transformation and Business Services
+Kenneth M. Mercado		58		Executive Vice President, Electric Operations
+Kristie L. Colvin		56		Senior Vice President and Chief Accounting Officer
+Lynne Harkel-Rumford		64		Senior Vice President and Chief Human Resources Officer
+Monica Karuturi		42		Senior Vice President and General Counsel
+Jason M. Ryan		45		Senior Vice President, Regulatory Services and Government Affairs
+
+Milton Carroll has served on the Board of Directors of CenterPoint Energy or its predecessors since 1992. He has served as Executive Chairman of CenterPoint Energy since June 2013 and as Chairman from September 2002 until May 2013. Mr. Carroll has served as a director of Halliburton Company since 2006. He has served as a director of Health Care Service Corporation since 1998 and as its chairman since 2002. He previously served as a director of Western Midstream Holdings, LLC, the general partner of Western Midstream Partners, LP, from February 2019 to August 2019, Western Gas Holdings, LLC, the general partner of Western Gas Partners, LP, from 2008 to February 2019, LyondellBasell Industries N.V. from July 2010 to July 2016 as well as LRE GP, LLC, the general partner of LRR Energy, L.P., from November 2011 to January 2014.
+
+David J. Lesar has served as a director since May 2020 and President and Chief Executive Officer of CenterPoint Energy since July 2020. He served as interim Chief Executive Officer of Health Care Service Corporation, the largest privately held health insurer in the United States, from July 2019 through June 1, 2020 and a director from 2018 to July 2020. Prior to joining Health Care Services Corporation, Mr. Lesar served as the Chairman of the Board and Chief Executive Officer of Halliburton Company from 2000 to 2017 and as its Executive Chairman of the Board from June 2017 until December 2018. Mr. Lesar joined Halliburton in 1993 and served in a variety of other roles, including executive vice president of Finance and Administration for Halliburton Energy Services, a Halliburton business unit, Chief Financial Officer of Halliburton from 1995 through May 1997 and President and Chief Operating Officer from May 1997 through August 2000. He has also served on the board of directors of several companies, most recently Agrium, Inc. as well as Lyondell Chemical Co., Southern Co., Cordant Technologies and Mirant.
+
+Jason P. Wells has served as Executive Vice President and Chief Financial Officer of CenterPoint Energy since September 2020. Prior to joining CenterPoint Energy, Mr. Wells served as Executive Vice President and Chief Financial Officer of PG&E Corporation, a publicly traded electric utility holding company serving approximately 16 million customers through its subsidiary Pacific Gas and Electric Company, from June 2019 to September 2020. He previously served as Senior Vice President and Chief Financial Officer of PG&E Corporation from January 2016 to June 2019 and as Vice President, Business Finance of Pacific Gas and Electric Company from August 2013 to January 2016. PG&E Corporation filed Chapter 11 bankruptcy on January 29, 2019 and successfully emerged from bankruptcy on July 1, 2020. He also served in various finance and accounting roles of increasing responsibility at Pacific Gas and Electric Company. Mr. Wells served on the board of directors of the San Francisco-Marin Food Bank and Habitat for Humanity Greater San Francisco.
+
+Scott E. Doyle has served as Executive Vice President, Natural Gas of CenterPoint Energy since April 2019. With more than 25 years of utility industry experience, he previously served as Senior Vice President, Natural Gas Distribution from March 2017 to April 2019; Senior Vice President, Regulatory and Public Affairs from February 2014 to March 2017; as Division Vice President, Rates and Regulatory from April 2012 to February 2014; and as Division Vice President, Regional Operations from March 2010 to April 2012. Mr. Doyle currently serves on the boards of Goodwill Industries of Houston, American Gas Association, Southern Gas Association, Central Indiana Corporate Partnership, Evansville Regional Business Council and the American Gas Foundation. He also serves on the Engineering Advisory Council of Texas A&M University. He previously served on the boards of the Texas Gas Association and the Association of Electric Companies of Texas.
+
+Gregory E. Knight has served as Executive Vice President, Customer Transformation and Business Services of CenterPoint Energy since August 2020. Mr. Knight most recently served as Chief Customer Officer of National Grid from September 2019 to August 2020. He previously served as Senior Vice President and Chief Customer Officer of CenterPoint
+19
+
+Energy from September 2014 to September 2019. Mr. Knight has over 25 years of experience in customer-focused operations, including in various leadership roles. He has served as a director of Pentair, plc, a publicly traded residential and commercial water treatment company, since January 2021. He currently serves on board of directors of Communities in Schools of Houston and Blueprint Houston. Mr. Knight is also active in several industry associations, including the American Gas Association, Edison Electric Institute and Southern Gas Association, where he serves on marketing, communications and customer solutions committees.
+
+Kenneth M. Mercado has served as Executive Vice President, Electric Operations of CenterPoint Energy since December 2020. He previously served as Senior Vice President, Electric Operations from August 2020 to December 2020; as Senior Vice President, Electric Operations and Technology from February 2020 to August 2020; as Chief Integration Officer from May 2018 to February 2020; as Senior Vice President, Electric Operations from February 2014 to May 2018; and as Division Senior Vice President, Grid and Market Operations from January 2012 to February 2014 in addition to other key positions at CenterPoint Energy focusing on Electric Operations technology and logistics. Mr. Mercado serves on the board of the Research Advisory Counsel at the Electric Power Research Institute, the Advisory Board at Texas A&M Smart Grid Coalition, the Engineering Leadership Board at the University of Houston as well as the board of directors of the United Way of Greater Houston and the Center for Houston’s Future. He is also the past chair of the board of directors of the Southeastern Electric Exchange and March of Dimes in Houston as well as a former board member of the Electric Reliability Council of Texas (ERCOT) and the Greater Houston Chapter of the American Red Cross.
+
+Kristie L. Colvin has served as Senior Vice President and Chief Accounting Officer of CenterPoint Energy since September 2014. In addition to this role, she recently served as Interim Executive Vice President and Chief Financial Officer from April 2020 to September 2020. Prior to these positions, Ms. Colvin served in a number of roles with CenterPoint Energy and its predecessor companies over the last 30 years, including as Division Vice President, Finance Regulated Operations, from July 2010 to September 2014, in addition to other various positions of increasing responsibility in accounting, strategic and financial planning and regulatory relations.
+
+Lynne Harkel-Rumford has served as Senior Vice President and Chief Human Resources Officer of CenterPoint Energy since July 2020. With over 30 years of experience in compensation and benefits matters, Ms. Harkel-Rumford previously served as Vice President, Total Rewards and Technology from September 2014 to July 2020 and as Associate General Counsel from April 2007 to September 2014. Ms. Harkel-Rumford currently serves on the board of directors of Target Hunger in Houston.
+
+Monica Karuturi has served as Senior Vice President and General Counsel of CenterPoint Energy since July 2020. She previously served as Senior Vice President and Deputy General Counsel from April 2019 to July 2020; as Vice President and Associate General Counsel - Corporate and Securities from October 2015 to April 2019; and as Associate General Counsel - Corporate from September 2014 to October 2015. Prior to joining CenterPoint Energy, Ms. Karuturi served as counsel for LyondellBassell Industries for corporate and finance matters and strategic transactions. Ms. Karuturi was appointed as a Commissioner of the Texas Access to Justice Commission by the Texas Supreme Court in June 2015, and she is currently a member of the Legal Services to the Poor in Civil Matters Committee of the Texas Bar Association. Ms. Karuturi also serves on the Advisory Council of the Tahirih Justice Center.
+
+Jason M. Ryan has served as Senior Vice President, Regulatory Services and Government Affairs of CenterPoint Energy since July 2020. He previously served as Senior Vice President and General Counsel from April 2019 to July 2020; as Senior Vice President, Regulatory and Government Affairs from February 2019 to April 2019; as Vice President of Regulatory and Government Affairs and Associate General Counsel from March 2017 to February 2019; and as Vice President and Associate General Counsel from September 2014 to March 2017. He was appointed to the Texas Diabetes Council by Texas Governor Perry in 2013 for a term ending in 2019; he was reappointed by Texas Governor Abbott in 2019 for a term ending in 2025. Mr. Ryan currently serves on the boards of the Houston Bar Foundation, the Texas Gulf Coast Chapter of the Leukemia and Lymphoma Society and the Association of Electric Companies of Texas. He also serves on the executive committee of the legal committee of the American Gas Association.
+
+

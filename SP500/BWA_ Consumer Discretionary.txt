@@ -1,0 +1,326 @@
+
+BorgWarner Inc. (together with its Consolidated Subsidiaries, the “Company” or “BorgWarner”) is a Delaware corporation incorporated in 1987. We are a global product leader in clean and efficient technology solutions for combustion, hybrid and electric vehicles. Our products help improve vehicle performance, propulsion efficiency, stability and air quality. We manufacture and sell these products worldwide, primarily to original equipment manufacturers (“OEMs”) of light vehicles (passenger cars, sport-utility vehicles (“SUVs”), vans and light trucks). The Company's products are also sold to OEMs of commercial vehicles (medium-duty trucks, heavy-duty trucks and buses) and off-highway vehicles (agricultural and construction machinery and marine applications). We also manufacture and sell our products to certain Tier One vehicle systems suppliers and into the aftermarket for light, commercial and off-highway vehicles. The Company operates manufacturing facilities serving customers in Europe, the Americas and Asia and is an original equipment supplier to nearly every major automotive OEM in the world.
+
+Acquisition of Delphi Technologies PLC
+
+Acquisitions are an integral component of the Company’s growth and value creation strategy. On October 1, 2020, the Company completed its acquisition of 100% of the outstanding ordinary shares of Delphi Technologies PLC (“Delphi Technologies”) from the shareholders of Delphi Technologies pursuant to the terms of the Transaction Agreement, dated January 28, 2020, as amended on May 6, 2020, by and between the Company and Delphi Technologies (the “Transaction Agreement”). Pursuant to the terms of the Transaction Agreement, the Company issued, in exchange for each Delphi Technologies share, 0.4307 of a share of common stock of the Company and cash in lieu of any fractional share. In the aggregate, the Company delivered consideration of approximately $2.4 billion, including approximately 37 million shares of common stock of the Company, valued at $1.5 billion, repayment of approximately $900 million of Delphi Technologies’ debt and stock-based compensation of approximately $15 million. Upon closing, the Company also assumed approximately $800 million in senior notes as discussed in Item 7 of this report under the caption “Acquisition of Delphi Technologies PLC.” The acquisition is expected to strengthen the Company’s electronics and power electronics products, capabilities and scale, position the Company for greater growth as electrified propulsion systems gain momentum and enhance key combustion, commercial vehicle and aftermarket product offerings. Refer to Note 2, “Acquisitions,” to the Consolidated Financial Statements in Item 8 of this report for more information.
+
+Financial Information About Reporting Segments
+
+Refer to Note 24, “Reporting Segments And Related Information,” to the Consolidated Financial Statements in Item 8 of this report for financial information about the Company's reporting segments. 
+
+5
+
+                        
+Narrative Description of Reporting Segments
+
+Following the Delphi Technologies acquisition, to align with the manner in which the business is viewed and managed subsequent to the acquisition, the Company reorganized its management reporting structure. Previously, the Company reported its results under two reporting segments, Engine and Drivetrain, which are now combined for reporting purposes with portions of the acquired business and referred to as Air Management and e-Propulsion & Drivetrain, respectively. The former Delphi Technologies Powertrain Products segment was integrated into the Air Management segment, and the former Delphi Technologies Electronics & Electrification segment was integrated into the e-Propulsion & Drivetrain segment. The remaining Delphi Technologies segments comprise two additional reporting segments, which are referred to as Fuel Injection and Aftermarket. In summary, the Company's business is comprised of four reporting segments which are further described below. Segment information for periods prior to the Delphi Technologies acquisition do not include amounts related to the acquired Delphi Technologies operations. Net sales by reporting segment were as follows:
+																	
+	Year Ended December 31,
+(in millions)	2020		2019		2018
+Air Management	$	5,678 			$	6,214 			$	6,447 	
+e-Propulsion & Drivetrain	3,989 			4,015 			4,140 	
+Fuel Injection	479 			— 			— 	
+Aftermarket	194 			— 			— 	
+Inter-segment eliminations	(175)			(61)			(57)	
+Net sales	$	10,165 			$	10,168 			$	10,530 	
+
+The sales information presented above does not include the sales by the Company’s unconsolidated joint ventures (see sub-heading “Joint Ventures” below). Such unconsolidated sales totaled approximately $721 million, $827 million, and $947 million for the years ended December 31, 2020, 2019 and 2018, respectively.
+
+Air Management
+
+The Company’s former Engine segment now incorporates the former Powertrain Products segment of Delphi Technologies and is referred to as the Air Management segment. The Air Management segment develops and manufactures products to improve fuel economy, reduce emissions and enhance performance. The Air Management segment’s technologies include: turbochargers, eBoosters, eTurbos, timing systems, emissions systems, thermal systems, gasoline ignition technology, smart remote actuators, powertrain sensors, canisters, cabin heaters, battery heaters and battery charging.
+
+The Air Management segment’s emissions, thermal and turbocharger systems provide several benefits including increased power for a given engine size, improved fuel economy, reduced emissions and optimized temperatures in propulsion systems and vehicle cabins. Sales of turbochargers for light vehicles represented approximately 24%, 28% and 27% of the Company’s net sales for the years ended December 31, 2020, 2019 and 2018, respectively.
+
+The Air Management segment's timing systems enable precise control of air and exhaust flow through the engine, improving fuel economy and emissions. The Air Management segment is a leading manufacturer of timing systems for OEMs around the world.
+
+The Air Management segment’s powertrain products include an array of highly engineered products that complement and enhance the efficiency improvements delivered by many other air management and fuel injection technologies.
+
+6
+
+                        
+e-Propulsion & Drivetrain
+
+The Company’s former Drivetrain segment now incorporates the former Electronics & Electrification segment of Delphi Technologies and is referred to as the e-Propulsion & Drivetrain segment. The e-Propulsion & Drivetrain segment’s technologies include: rotating electrical components, power electronics, control modules, software, friction and mechanical products for automatic transmissions and torque management products.
+
+The e-Propulsion & Drivetrain segment’s rotating electrical components portfolio meet the demands of increasing vehicle electrification, improved efficiency, reduced weight, and lowered electrical and mechanical noise. Rotating electrical components include starter motors, alternators and electric motors for hybrid and electric vehicles.
+
+The e-Propulsion & Drivetrain segment’s electronics portfolio consists of power electronics and engine and transmission control modules. As electrification of vehicles increases, our power electronics solutions, including inverters, on-board charger, DC/DC converters, battery management systems, and software inverters, provide better efficiency, reduced weight and lower cost for our OEM customers. The control modules, containing as much as one million lines of software code, are key components that enable the integration and operation of powertrain products throughout the vehicle.
+
+The e-Propulsion & Drivetrain segment’s friction and mechanical products for automatic transmissions include dual clutch modules, friction clutch modules, friction and separator plates, transmission bands, torque converter clutches, one-way clutches and torsional vibration dampers. Controls products for automatic transmissions feature electro-hydraulic solenoids for standard and high pressure hydraulic systems, transmission solenoid modules and dual clutch control modules.
+
+The e-Propulsion & Drivetrain segment's torque management products include rear-wheel drive (“RWD”)-all-wheel drive (“AWD”) transfer case systems, FWD-AWD coupling systems and cross-axle coupling systems. The segment is developing electronically-controlled torque management devices and systems that will benefit vehicle energy efficiency and vehicle dynamics.
+
+Fuel Injection
+
+The Fuel Injection segment develops and manufactures gasoline and diesel fuel injection components and systems. Our gasoline fuel injection portfolio includes a full suite of fuel injection technologies – including pumps, injectors, fuel rail assemblies and complete systems – that deliver greater efficiency for traditional and hybrid vehicles with gasoline combustion engines. The Company’s Gasoline Direct Injection, or GDi, technology provides high-precision fuel delivery for optimized combustion, which lowers emissions and improves fuel economy. Our diesel fuel injection systems portfolio provides enhanced engine performance at an attractive value. The Company’s common rail fuel injection system is the core technology for both on and off-highway commercial and light vehicle applications.
+
+Aftermarket
+
+The Aftermarket segment sells products and services to independent aftermarket customers and original equipment service customers. Our aftermarket product portfolio includes a wide range of solutions covering the fuel injection, electronics and engine management, maintenance, and test equipment and vehicle diagnostics categories. Our aftermarket business provides a recurring and stable revenue base, as replacement of many of these products is non-discretionary in nature.
+
+7
+
+                        
+Joint Ventures
+
+As of December 31, 2020, the Company had 12 joint ventures in which it had a less-than-100% ownership interest. Results from the nine joint ventures in which the Company is the majority owner and has a controlling financial interest are consolidated as part of the Company's results. Results from the three joint ventures in which the Company exercises significant influence but does not have a controlling financial interest, were reported by the Company using the equity method of accounting pursuant to which the Company records its proportionate share of each joint venture’s income or loss each period.
+
+Management of the unconsolidated joint ventures is shared with the Company's respective joint venture partners. Certain information concerning the Company's joint ventures is set forth below:
+																																
+Joint venture		Products		Year organized		Percentage
+owned by the
+Company		Location of
+operation		Joint venture partner
+Unconsolidated:		 		 		 		 		 
+NSK-Warner K.K.		Transmission components		1964		50 	%		Japan/China		NSK Ltd.
+Turbo Energy Private Limited		Turbochargers		1987		32.6 	%		India		Sundaram Finance Limited; Brakes India Limited
+Delphi-TVS Diesel Systems Ltd		Fuel injection equipment		2001		52.5 	%		India		T.V. Sundram Iyengar & Sons PVT Ltd
+Consolidated:		 		 		 		 		 
+Delphi Powertrain Systems Korea Ltd.		Valvetrain and fuel injection equipment		1977		70 	%		Korea		BU RA DA Company Limited
+BorgWarner Transmission Systems Korea Ltd. (a)		Transmission components		1987		60 	%		Korea		NSK-Warner
+Beijing Delphi Wan Yuan Engine Management Systems Co. Ltd.		Engine management systems		1999		51 	%		China		Beijing Wan Yuan Industry Corporation
+Borg-Warner Shenglong (Ningbo) Co. Ltd. 		Fans and fan drives		1999		70 	%		China		Ningbo Shenglong Automotive Powertrain Systems Co., Ltd.
+BorgWarner TorqTransfer Systems Beijing Co. Ltd. 		Transfer cases		2000		80 	%		China		Beijing Hainachuan Automotive Parts Holding Co., Ltd.
+SeohanWarner Turbo Systems Ltd. 		Turbochargers		2003		71 	%		Korea		Korea Flange Company
+Closed Joint Stock Company “Delphi Samara”		Aftermarket products		2006		80 	%		Russia		CJSC “Samara Cable Company”
+BorgWarner United Transmission Systems Co. Ltd. 		Transmission components		2009		66 	%		China		China Automobile Development United Investment Co., Ltd.
+BorgWarner Romeo Power LLC		Battery module and pack technology		2019		60 	%		U.S.		Romeo Power, Inc.
+________________
+(a)BorgWarner Inc. owns 50% of NSK-Warner, which has a 40% interest in BorgWarner Transmission Systems Korea Ltd. This ownership gives the Company an additional indirect effective ownership percentage of 20% in BorgWarner Transmission Systems Korea Ltd., resulting in a total effective ownership interest of 80%.
+
+Financial Information About Geographic Areas
+
+The Company has a global presence. During the year ended December 31, 2020, approximately 20% of the Company’s net sales were generated in the United States and 80% were generated outside the United States. Refer to Note 24, “Reporting Segments And Related Information,” to the Consolidated Financial Statements in Item 8 of this report for additional financial information about geographic areas. 
+
+Product Lines and Customers
+
+During the year ended December 31, 2020, approximately 82% of the Company’s net sales were for light-vehicle applications; approximately 9% were for commercial-vehicle applications; approximately 3% were for off-highway vehicle applications; and approximately 6% were to distributors of aftermarket replacement parts.
+
+8
+
+                        
+The Company’s worldwide net sales to the following customers (including their subsidiaries) were approximately as follows:
+																	
+	Year Ended December 31,
+Customer	2020		2019		2018
+Ford	13 	%		15 	%		14 	%
+Volkswagen	11 	%		11 	%		12 	%
+No other single customer accounted for more than 10% of our consolidated net sales in any of the years presented. Sales to our top ten customers represented 64% of sales for the year ended December 31, 2020.
+
+The Company's automotive products are generally sold directly to OEMs, substantially pursuant to negotiated annual contracts, long-term supply agreements or terms and conditions as may be modified by the parties. Deliveries are subject to periodic authorizations based upon OEM production schedules. The Company typically ships its products directly from its plants to the OEMs.
+
+Sales and Marketing
+
+Each of the Company’s businesses within its reporting segments has its own sales function. Account executives for each of our businesses are assigned to serve specific customers for one or more businesses’ products. Our account executives spend the majority of their time in direct contact with customers’ purchasing and engineering employees and are responsible for servicing existing business and for identifying and obtaining new business. Because of their close relationship with customers, account executives are able to identify and meet customers’ needs based upon their knowledge of our products’ design and manufacturing capabilities. Upon securing a new order, account executives participate in product launch team activities and serve as a key interface with customers. In addition, sales and marketing employees of our reporting segments often work together to explore cross-development opportunities where appropriate.
+
+Seasonality
+
+Our operations are directly related to the automotive and commercial-vehicle industry. Consequently, our segments may experience seasonal fluctuations to the extent vehicle production slows, such as in the summer months when many customer plants typically close for model year changeovers or vacations. Historically, model changeovers or vacations have generally resulted in lower sales volume in the Company’s third quarter.
+
+Research and Development
+
+The Company conducts advanced propulsion research. This advanced engineering function seeks to leverage know-how and expertise across product lines to create new propulsion systems and modules that can be commercialized. This function oversees the Company's investments in certain venture capital funds that provide seed money for start-up businesses developing new technologies pertinent to the automotive industry and the Company's propulsion strategies.
+
+In addition, each of the Company's businesses within its Air Management, e-Propulsion & Drivetrain and Fuel Injection reporting segments has its own research and development (“R&D”) organization, including engineers and technicians, engaged in R&D activities at facilities worldwide. The Company also operates testing facilities such as prototype, measurement and calibration, life cycle testing and dynamometer laboratories.
+
+By working closely with OEMs and anticipating their future product needs, the Company's R&D personnel conceive, design, develop and manufacture new proprietary components and systems. R&D
+9
+
+                        
+personnel also work to improve current products and production processes. The Company believes its commitment to R&D will allow it to continue to obtain new orders from its OEM customers.
+
+The Company's net R&D expenditures are primarily included in selling, general and administrative expenses of the Consolidated Statements of Operations. Customer reimbursements are netted against gross R&D expenditures as they are considered a recovery of cost. Customer reimbursements for prototypes are recorded net of prototype costs based on customer contracts, typically either when the prototype is shipped or when it is accepted by the customer. Customer reimbursements for engineering services are recorded when performance obligations are satisfied in accordance with the contract. Financial risks and rewards transfer upon shipment, acceptance of a prototype component by the customer or upon completion of the performance obligation as stated in the respective customer agreement.
+																	
+	Year Ended December 31,
+(in millions)	2020		2019		2018
+Gross R&D expenditures	$	533 			$	498 			$	512 	
+Customer reimbursements	(57)			(85)			(72)	
+Net R&D expenditures	$	476 			$	413 			$	440 	
+
+Net R&D expenditures as a percentage of net sales were 4.7%, 4.1% and 4.2% for the years ended December 31, 2020, 2019 and 2018, respectively.
+
+Intellectual Property
+
+The Company has approximately 9,830 active domestic and foreign patents and patent applications pending or under preparation and receives royalties from licensing patent rights to others. The Company acquired approximately 3,800 of these patents and patent applications as a result of the Delphi Technologies acquisition. While it considers its patents on the whole to be important, the Company does not consider any single patent, any group of related patents or any single license essential to its operations in the aggregate or to the operations of any of the Company's business groups individually. The expiration of the patents individually and in the aggregate is not expected to have a material effect on the Company's financial position or future operating results. The Company owns numerous trademarks, some of which are valuable, but none of which are essential to its business in the aggregate.
+
+The Company owns the “BorgWarner” trade name and numerous BORGWARNER trademarks, including without limitation “BORGWARNER” and “BORGWARNER and Bug Design”, which are material to the Company's business. 
+
+Competition
+
+The Company's reporting segments compete worldwide with a number of other manufacturers and distributors that produce and sell similar products. Many of these competitors are larger and have greater resources than the Company. Technological innovation, application engineering development, quality, price, delivery and program launch support are the primary methods of competition.
+
+The Company’s major non-OEM competitors are Robert Bosch GmbH, Denso Corporation, Hitachi, Ltd., Magna Powertrain (an operating unit of Magna International Inc.), Mitsubishi Electric Corporation, Schaeffler Group and Vitesco Technologies. The Company also competes with certain start-ups in electrification.
+
+In addition, a number of the Company's major OEM customers manufacture, for their own use and for others, products that compete with the Company's products. Other current OEM customers could elect to manufacture products to meet their own requirements or to compete with the Company. There is no
+10
+
+                        
+assurance that the Company's business will not be adversely affected by increased competition in the markets in which it operates.
+
+For many of its products, the Company's competitors include suppliers in parts of the world that enjoy economic advantages such as lower labor costs, lower health care costs, lower tax rates and, in some cases, export subsidies and/or raw materials subsidies. Also, see Item 1A, “Risk Factors.”
+
+Human Capital Management
+
+Our ability to sustain and grow our business requires us to hire, retain and develop a highly skilled and diverse management team and workforce worldwide. We believe the skills, experience, and industry knowledge of our employees significantly benefit our operations and performance. The Company is committed to treating our employees with dignity and respect and to creating an inclusive environment for open communication where employees can share their ideas, concerns and suggestions.
+
+As of December 31, 2020, the Company had a salaried and hourly workforce of approximately 50,000 worldwide:
+					
+Americas	16,100
+Asia	13,500
+Europe	20,100
+Total Employees	49,700
+	
+Salaried	15,900
+Hourly	33,800
+Total Employees	49,700
+
+The approximately 50,000 employees described above include approximately 19,000 employees added as a result of our acquisition of Delphi Technologies.
+
+We use an array of practices to attract, develop and retain highly qualified talent, including:
+
+•Diversity, Equity & Inclusion (“DE&I”). We aspire to provide our employees with a workplace experience focused on physical and psychological safety, where there is a strong spirit of inclusion and a deep sense of belonging, because we live our beliefs. We cultivate a culture where employees are treated with respect and their differences are valued. We provide opportunities that inspire them to thrive in every area they pursue. We are continually reviewing our policies, programs and processes to ensure alignment with our DE&I strategy. The Company undertakes targeted recruitment that serves as a strategic opportunity to build a diverse leadership pipeline. The Company also provides employees the opportunity to participate in resource groups aimed at celebrating diversity, ensuring equity and promoting inclusion. As of December 31, 2020:
+◦Four of 11 board members are female and/or minorities;
+◦Four of 13 executive management team members are female and/or minorities; and
+◦Women make up 15% of the Company’s leadership (those who participate in the management incentive plan), 22% of the Company’s salaried workforce, 33% of the Company’s new hires and 26% of the Company’s total workforce.
+◦Minorities make up 14% of the Company’s U.S. leadership (those who participate in the management incentive plan), 17% of the Company’s U.S. salaried workforce, 25% of the Company’s U.S. new hires and 21% of the Company’s total U.S. workforce.
+
+•Engagement & Sentiment. The Company actively deploys strategies to attract the brightest and best talent and to engage and retain our talent. We recognize and reward employee contributions with competitive pay and benefits. The Company closely monitors employee turnover as part of our efforts to improve retention and to spot any potential opportunities for improvement. In the
+11
+
+                        
+year ended December 31, 2020, annual voluntary employee turnover was 9%. The Company provided more than 56,700 hours of training to salaried employees in the year ended December 31, 2020. The Company provides formal development opportunities at all levels and stages of the career journey of our employees. These opportunities are delivered in a variety of formats to make our portfolio of solutions agile, sustainable and scalable.
+
+•Health & Safety. Our employees’ safety is vitally important. The Company is dedicated to continuously improving safety performance. Evidence of our dedication is in our results: our global workforce accident total recordable incident rate through December 31, 2020 was 0.44 (excluding locations acquired from Delphi Technologies), while in comparison the top quartile for motor vehicle parts manufacturing was lower than or equal to 1.1, and the mean was 2.4 according to the U.S. Bureau of Labor Statistics (the “BLS”). The Company’s global workforce accident lost time incident rate through December 31, 2020 was 0.28, while in comparison the top quartile for motor vehicle parts manufacturing was lower than or equal to 0.1 and the mean was 0.6 according to the BLS. Additionally, the Company has a formal audited health and safety management system in place at all of our manufacturing and technical centers.
+
+In response to the global COVID-19 pandemic, the Company activated its Critical Event Management Team to closely monitor and provide global guidance on industry and regulatory health and safety recommendations. Additionally, the Company developed a Safe Restart Task Force focused on the implementation of global facility restart best practices and the procurement of personal protective equipment in collaboration with industry partners. Safe work procedures implemented globally during 2020 consisted of, but were not limited to, temporary travel bans, temperature screenings, enhanced sanitation and facility access procedures, suspected and/or positive case response, social distancing guidelines and remote work arrangements.
+
+Approximately 12% of the Company’s U.S. workforce is unionized. These employees, located at one facility, in the state of New York, are covered by a collective bargaining agreement that expires in September 2024. Employees at certain international facilities are also unionized. The Company believes the present relations with its workforce to be satisfactory. The Company recognizes that, in many of the locations where it operates, employees have freedom of association rights with third party organizations such as labor unions. The Company respects and supports those rights, including the right to collective bargaining, in accordance with local laws.
+
+Raw Materials
+
+The Company uses a variety of raw materials in the production of its products including aluminum, copper, nickel, plastic resins, steel and certain alloy elements. Manufacturing operations for each of the Company's operating segments are dependent upon natural gas, fuel oil and electricity.
+
+The Company uses a variety of tactics in an attempt to limit the impact of supply shortages and inflationary pressures. The Company's global procurement organization works to accelerate cost reductions, purchase from lower cost regions, optimize the supply base, mitigate risk and collaborate on its buying activities. In addition, the Company uses long-term contracts, cost sharing arrangements, design changes, customer buy programs and limited financial instruments to help control costs. The Company intends to use similar measures in 2021 and beyond.  Refer to Note 17, “Financial Instruments,” to the Consolidated Financial Statements in Item 8 of this report for information related to the Company's hedging activities. 
+
+For 2021, the Company believes that its supplies of raw materials are adequate and available from multiple sources to support its manufacturing requirements.
+
+12
+
+                        
+Regulations
+
+The Company operates in a constantly evolving global regulatory environment and is subject to numerous and varying regulatory requirements for its product performance and material content. The Company's practice is to identify potential regulatory and quality risks early in the design and development process and proactively manage them throughout the product lifecycle through the use of routine assessments, protocols, standards, performance measures and audits. New regulations and changes to existing regulations are managed in collaboration with our OEM customers and implemented through the Company’s global systems and procedures designed to ensure compliance with existing laws and regulations. The Company demonstrates material content compliance through the International Material Data System (“IMDS”), which is the automotive industry material data system. In the IMDS, all materials used for automobile manufacturing are archived and maintained to meet the obligations placed on the automobile manufacturers, and thus on their suppliers, by national and international standards, laws and regulations.
+
+The Company works collaboratively with a number of stakeholder groups including government agencies, such as the National Highway Traffic Safety Administration, its customers and its suppliers to proactively engage in federal, state and international public policy processes.
+
+Refer to Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” for a discussion of the impact of environmental regulations on our business. Also, see Item 1A, “Risk Factors.”
+
+Available Information
+
+Through its Internet website (www.borgwarner.com), the Company makes available, free of charge, its Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, all amendments to those reports, and other filings with the Securities and Exchange Commission as soon as reasonably practicable after they are filed or furnished. The Company also makes the following documents available on its Internet website: the Audit Committee Charter; the Compensation Committee Charter; the Corporate Governance Committee Charter; the Company’s Corporate Governance Guidelines; the Company’s Code of Ethical Conduct; and the Company’s Code of Ethics for CEO and Senior Financial Officers. You may also obtain a copy of any of the foregoing documents, free of charge, if you submit a written request to Investor Relations, 3850 Hamlin Road, Auburn Hills, Michigan 48326. The public may read and copy materials filed by the Company with the SEC at the SEC’s Public Reference Room at 100 F Street, NE, Washington, DC, 20549.  The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330.  The SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC at http://www.sec.gov.
+
+13
+
+                        
+Information About Executive Officers of the Company
+
+Set forth below are the names, ages, positions and certain other information concerning the executive officers of the Company as of February 22, 2021.
+														
+Name (Age)		Present Position
+(Effective Date)		Positions Held During the Past Five Years
+(Effective Date)
+Frederic B. Lissalde (53)		President and Chief Executive Officer (2018)		
+•Executive Vice President and Chief Operating Officer of BorgWarner Inc. (2018)
+•Vice President of the Company and President and General Manager of BorgWarner Turbo Systems LLC (2013 – 2017)
+•Autoliv, Inc., Member of Board of Directors (2020 - Present)
+Kevin A. Nowlan (49)
+		
+Executive Vice President, Chief Financial Officer (2019)
+		
+•Meritor Inc., Senior Vice President, President, Trailer, Components and Chief Financial Officer (2018 – 2019)
+•Meritor Inc., Senior Vice President and Chief Financial Officer (2013 – 2018)
+Tonit M. Calaway (53)
+		
+Executive Vice President, Chief Administrative Officer, General Counsel and Secretary (2020)
+		
+•Executive Vice President, Chief Legal Officer and Secretary of BorgWarner Inc. (2018 - 2020)
+•Chief Human Resources Officer of BorgWarner Inc. (2016 – 2018)
+•Harley-Davidson Inc., Vice President of Human Resources (2010 – 2016)
+•Astronics Corporation, Member of Board of Directors (2019 – Present)
+•W.P. Carey Inc., Member of Board of Directors (2020 – Present)
+Felecia Pryor (46)
+		
+Executive Vice President, Chief Human Resources Officer (2019)
+		
+•Vice President of Human Resources of BorgWarner Morse Systems (2018 – 2019)
+•Ford Motor Company, Global Human Resources Director - Global Personnel, Organization & Planning (2018)
+•Ford Motor Company, Vice President of Human Resources - ASEAN Markets (2016 – 2018)
+•Ford Motor Company, HR Director for Research & Engineer Center located in Nanjing, China (2014 – 2016)
+Craig D. Aaron (43)
+		
+Vice President and Treasurer (2019)
+		
+•Vice President of Finance of BorgWarner Morse Systems (2016 – 2019)
+•Director, Financial Reporting (2012 – 2016)
+Alex Ashmore (51)
+		
+Vice President and President and General Manager, Aftermarket (2020)
+		
+•Delphi Technologies PLC, Senior Vice President and President Aftermarket (2017 – 2020)
+•ABB, Group Senior Vice President, Electrification, Asia Pacific (2015 – 2017)
+•TRW Automotive Holdings Corp., Vice President Global Aftermarket (2012 – 2015)
+Stefan Demmerle (56)
+		
+Vice President and President and General Manager, PowerDrive Systems (2015)
+		
+•Vice President and President and General Manager of BorgWarner PowerDrive Systems (2015 – Present)
+Brady D. Ericson (49)
+		
+Vice President and President and General Manager, Morse Systems (2019)
+		
+•Executive Vice President and Chief Strategy Officer of BorgWarner Inc. (2017 – 2019)
+•Vice President of the Company and President and General Manager of BorgWarner Emissions Systems LLC (2014 – 2017)
+•Romeo Power, Inc., Member of Board of Directors (2020)1
+Daniel R. Etue (47)
+		
+Vice President and Controller (2020)
+		
+•Meritor, Inc., Vice President, Finance (2013 – 2020)
+14
+
+                        
+														
+Joseph F. Fadool (54)
+		
+Vice President and President and General Manager, Emissions, Thermal and Turbo Systems (2019)
+		
+•Vice President of the Company and President and General Manager of Turbo Systems LLC (2019)
+•Vice President of the Company and President and General Manager of BorgWarner Emissions Systems LLC and BorgWarner Thermal Systems Inc. (2017 – 2019)
+•Vice President of the Company and President and General Manager of BorgWarner Morse Systems (2015 – 2017)
+Paul Farrell (54)		
+Vice President and Chief Strategy Officer (2020)
+		
+•Delphi Technologies PLC, Senior Vice President Strategy, Sales and Corporate Development (2020)
+•Delphi Technologies PLC, Senior Vice President Strategy and Corporate Development (2019 – 2020)
+•Delphi Technologies PLC, Senior Vice President Strategic Planning and Product Marketing (2017 – 2019)
+•Delphi Powertrain Systems, LLC, Vice President Strategy and Product Line Marketing (2016 – 2017)
+•Delphi Powertrain Systems, LLC, Director Strategy and Business Planning (2014 – 2016)
+Davide Girelli (49)
+		
+Vice President and President and General Manager, Fuel Injection Systems (2020)
+		
+•Vice President and General Manager Europe and South America BorgWarner Emissions, Thermal and Turbo Systems (2019 – 2020)
+•Vice President and General Manager Europe and South America of BorgWarner Turbo Systems (2018 – 2019)
+•Vice President and General Manager Europe and Asia of BorgWarner Morse Systems (2015 – 2018)
+•General Manager Europe and India of Morse TEC LLC (2014 – 2015)
+Volker Weng (50)
+		
+Vice President and President and General Manager, Drivetrain Systems (2019)
+		
+•President and General Manager for BorgWarner Emissions Systems LLC and BorgWarner Thermal Systems Inc. (2019)
+•Vice President and General Manager, Europe for BorgWarner Emissions Systems LLC and BorgWarner Thermal Systems Inc. (2017 – 2019)
+•Vice President and General Manager, Asia for Turbo Systems LLC (2015 – 2017)
+________________
+1 Romeo Power, Inc. became a public company in December 2020.

@@ -1,0 +1,830 @@
+The following description of the business should be read in conjunction with the information included elsewhere in this Annual Report on Form 10-K for the year ended December 31, 2020. This description contains forward-looking statements that involve risks and uncertainties. Actual results could differ significantly from the results discussed in the forward-looking statements due to the factors set forth in “Risk Factors” and elsewhere in this Annual Report on Form 10-K.
+
+Overview
+
+Cboe Global Markets, Inc. provides cutting-edge trading and investment solutions to investors around the world. The Company is committed to defining markets through product innovation, leading edge technology, and seamless trading solutions.
+
+Cboe offers trading across a diverse range of products in multiple asset classes and geographies, including options, futures, U.S., Canadian and European equities, exchange-traded products (“ETPs”), global foreign exchange (“FX”) and volatility products based on the VIX Index, recognized as the world’s premier gauge of U.S. equity market volatility.
+
+Cboe’s subsidiaries include the largest options exchange and the third largest stock exchange operator in the U.S. In addition, the Company operates one of the largest stock exchanges by value traded in Europe, and owns EuroCCP, a leading pan-European equities clearinghouse, BIDS Trading, a leading block-trading ATS by volume in the U.S., and MATCHNow, a leading equities ATS in Canada. Cboe also is a leading market globally for ETP listings and trading.
+
+The graphic below provides a brief overview of Cboe’s history:
+
+Graphic
+
+7
+
+Table of Contents
+
+Our Business
+
+Cboe Global Markets reports on the following five business segments:
+	●	Options. The Options segment includes listed options on market indices (“index options”), as well as on the stocks of individual corporations (“equity options”) and options on ETPs, such as exchange-traded funds (“ETFs”) and exchange-traded notes (“ETNs”), which are “multi-listed” options and listed on a non-exclusive basis. These options trade on Cboe Options, C2 Options, BZX Options, and EDGX Options, all U.S. national security exchanges. Cboe Options is the Company’s primary options market and offers trading in listed options through a single system that integrates electronic trading and traditional open outcry trading on the Cboe Options trading floor in Chicago. There was a temporary suspension of open outcry trading between March 13, 2020 and June 14, 2020 in response to the novel coronavirus (“COVID-19”) pandemic. C2 Options, BZX Options, and EDGX Options are all-electronic options exchanges, and typically operate with different market models and fee structures than Cboe Options. The Options segment also includes applicable market data revenue generated from the consolidated tape plans, the licensing of proprietary options market data, index licensing, and access and capacity services.       
+	●	North American Equities (formerly U.S. Equities). The North American Equities segment includes listed U.S. equities and ETP transaction services that occur on fully electronic exchanges owned and operated by BZX Equities, BYX Equities, EDGX Equities, and EDGA Equities and Canadian equities and other transaction services that occur on or through the MATCHNow ATS. This segment was previously referred to as the U.S. Equities segment, but has been updated as a result of the acquisition of MATCHNow, which provides Canadian equities and other transaction services. In addition, in connection with the closing of the acquisition of BIDS Trading, starting January 1, 2021, this segment also includes equities transactions that occur on the BIDS Trading platforms. The North American Equities segment also includes ETP listings on BZX, the Cboe Global Markets, Inc. common stock listing, applicable market data revenue generated from the consolidated tape plans, the licensing of proprietary equities market data, routing services, access and capacity services and advertising activity from ETF.com.   
+	●	Futures. The Futures segment includes transaction services provided by the Company’s fully electronic futures exchange, CFE, which includes offerings for trading of VIX futures and other futures products, the licensing of proprietary market data, as well as access and capacity services.
+	●	European Equities. The European Equities segment includes the pan-European listed equities transaction services, ETPs, exchange traded commodities, and international depository receipts that are hosted on MTFs operated by Cboe Europe Equities. It also includes the ETP listings business on RMs and clearing activities of EuroCCP. Cboe Europe Equities operates lit and dark pools, a periodic auctions book, and a Large-in-Scale (“LIS”) trading negotiation facility. Cboe NL, launched in October 2019, operates similar business functionality to that offered by Cboe Europe, and provides for trading only in European Economic Area (“EEA”) symbols. Cboe Europe Equities also includes revenue generated from the licensing of proprietary market data and from access and capacity services.
+	●	Global FX. The Global FX segment includes institutional FX trading services that occur on the Cboe FX fully electronic trading platform, non-deliverable forward FX transactions (“NDFs”) offered for execution on Cboe SEF and Cboe Swiss, as well as revenue generated from the licensing of proprietary market data and from access and capacity services.  
+
+See “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and Note 17 (“Segment Reporting”) in the notes to our Consolidated Financial Statements for discussion of revenues, and operating income (or loss) by business segment. Certain activities within our segments operate globally. For information regarding risks related to our international operations see “Risk Factors.”  
+
+8
+
+Table of Contents
+
+The following chart lists average daily transaction volume in number of shares/contracts, notional value transacted or trades cleared for Options (Cboe Options, C2 Options, BZX Options, and EDGX Options); Futures (CFE); U.S. Equities (BZX Equities, BYX Equities, EDGA Equities, and EDGX Equities); Canadian Equities (MATCHNow); European Equities (Cboe Europe Equities); European Clearing (EuroCCP); and Global FX (Cboe FX and Cboe SEF) for the periods indicated:
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+Annual Volumes
+
+	
+
+	
+
+2020
+	
+
+    
+	
+
+2019
+	
+
+    
+	
+
+2018
+
+Options total contracts ADV (in millions)
+	
+
+	
+
+	
+
+ 10.1
+	
+
+	
+
+	
+
+ 7.3
+	
+
+	
+
+	
+
+ 7.9
+
+U.S. Equities total touched shares ADV (in billions)
+	
+
+	
+
+	
+
+ 1.8
+	
+
+	
+
+	
+
+ 1.2
+	
+
+	
+
+	
+
+ 1.4
+
+Canadian Equities total touched shares ADV (in millions) (1)
+	
+
+	
+
+	
+
+ 43.1
+	
+
+	
+
+	
+
+ —
+	
+
+	
+
+	
+
+ —
+
+Futures ADV (in thousands)
+	
+
+	
+
+	
+
+ 200.6
+	
+
+	
+
+	
+
+ 249.0
+	
+
+	
+
+	
+
+ 300.0
+
+European Equities matched and touched ADNV (€ in billions)
+	
+
+	
+
+	
+
+ 6.9
+	
+
+	
+
+	
+
+ 7.7
+	
+
+	
+
+	
+
+ 10.4
+
+European trades cleared (in millions) (2)
+	
+
+	
+
+	
+
+ 545.5
+	
+
+	
+
+	
+
+ —
+	
+
+	
+
+	
+
+ —
+
+Global FX ADNV ($ in billions)
+	
+
+	
+
+	
+
+ 34.7
+	
+
+	
+
+	
+
+ 32.3
+	
+
+	
+
+	
+
+ 37.4
+
+(1)	Canadian Equities data reflects ADV for the period of 2020 following Cboe’s acquisition of MATCHNow, which was effective August 4, 2020.
+(2)	European trades cleared data reflects trades cleared for the period of 2020 following Cboe’s acquisition of EuroCCP, which was effective July 1, 2020. Trades cleared refers to the total number of non-interoperable trades cleared.
+
+ADV= average daily volume
+
+ADNV= average daily notional value
+
+Competitive Strengths
+
+At Cboe, we are defining markets to benefit participants and drive the global marketplace forward through product innovation, leading edge technology and seamless trading solutions.  
+	●	Product Innovation. Markets are fundamentally defined by the products they offer, and no institution has created more noteworthy tradable products than Cboe. From equity options, index options, VIX options, to VIX futures and our corporate bond index futures, our track record for market-defining product innovation speaks for itself. Our partnerships with leading index and service providers further strengthen our ability to create the next great product innovation. Cboe offers trading across a diverse range of products, including options, futures, North American and European equities, ETPs, global FX, and multi-asset volatility products.
+
+Our legacy of innovation not only includes products, but also the creation or acquisition of entirely new markets or market models, including the first listed-options marketplace, the first alternative venue to traditional equity markets, the first pan-European MTF and the first electronic communication network (“ECN”) for the institutional FX market. These markets have grown to become some of the largest, most relied upon in the world.
+	●	Leading Edge Technology. Our industry-leading proprietary technology was built, and is continually refined, to anticipate the evolving needs of our customers. Our trading platform is developed, owned, and operated in-house and is designed to optimize reliability, speed, scalability, and versatility. All of our U.S. equity, options, and futures markets have been successfully migrated to this cutting-edge technology. We regularly raise the bar in trading technology through an ambitious schedule of software releases and enhancements to our platforms across the globe.
+	●	Seamless Trading Solutions. Cboe strives to provide trading solutions that enhance the customer experience through our advocacy efforts, insights, education, data analytics and other services.
+
+9
+
+Table of Contents
+
+Value Proposition
+
+We also believe that we provide stakeholders with a strong value proposition due to the following key drivers:
+	●	We have a diverse and unique product set, with high-margin proprietary products that allow customers to express a market view and manage risk in various market environments.
+	●	We provide exposure to large, underpenetrated market segments, targeted to fuel the growth of Cboe’s proprietary products globally.
+	●	We have developed a highly scalable business model, coupled with disciplined expense management.
+	●	We have had a strong track record of financial results and efficient capital allocation, helping to create long-term shareholder value.
+
+Key Growth Strategy Initiatives
+
+We expect to further grow our business and increase our revenues and profitability by pursuing the following growth strategies:  
+	●	Build Upon Core Proprietary Products. We plan to grow our existing proprietary products, including SPX options and VIX options and futures, by further penetrating key market segments, including pension funds, insurance companies, endowments and asset managers. We also plan to enhance existing proprietary products, develop new proprietary products and expand our user base and use cases. In 2020, we delivered on this initiative by launching mini VIX futures, launching options on the S&P 500 Environmental, Social and Governance (“ESG”) Index, and launched target outcome indices on Russell 2000 Index. Expected new initiatives for 2021 include the expansion of our Global Trading Hours, subject to regulatory review, to extend the availability of our proprietary products, the enhancement of our online learning tools for investor education, and the launch of a new core derivatives education curriculum.  
+	●	Leverage Leading Proprietary Trading Technology. We have developed a superior technology platform that positions Cboe to integrate additional products, features and volumes, while providing efficiencies across venues. We are also able to leverage the efficiencies of our common technology to further expand revenues, while maintaining disciplined expense management. In 2020, we delivered on this initiative by integrating our information solutions acquisitions, Hanweck Associates, LLC (“Hanweck”), FT Providers, LLC (“FT Options”) and Trade Alert, LLC (“Trade Alert”), commencing the integration of EuroCCP and its technology to potentially launch pan-European derivatives in 2021, subject to regulatory review, and transitioning execution management from the PULSe Trader Workstation to Cboe Silexx.   
+	●	Diversify Business Mix With Growth of Non-Transactional Revenues. We are diversifying our business mix through the growth of our non-transactional revenues, which primarily consists of increasing the distribution of proprietary market data and enhanced market data, offering insightful information to support our customers’ needs, and providing tools that draw users to our markets and drive volume. In 2020, we delivered on this initiative by growing our proprietary market data and access and capacity fees and also increased recurring revenues with our information solutions acquisitions.
+	●	Broaden Geographic Reach. We plan to widen our global access and product distribution though customer engagement, new product offerings and strategic acquisitions. We also plan to strengthen combined offerings while reaching new markets. In 2020, we delivered on this initiative by acquiring MATCHNow, a leading Canadian ATS, expanding our geographic presence and product capabilities.
+	●	Expand Product Lines Across Asset Classes. We expect to strengthen our product set with new asset classes, create markets that utilize Cboe capabilities, and provide tools that support access to multiple channels and markets. In 2020, we delivered on this initiative with the strong growth in Cboe Retail Priority, the planned launch of U.S. Periodic auctions order book, subject to regulatory approval, and the acquisition of BIDS Trading, a U.S. ATS, which diversifies our equities offerings. Cboe also expanded its FX offering in 2020, with the launch of Cboe FX Central, a new central limit order book and the launch of Cboe Swiss, as new NDF market.
+
+10
+
+Table of Contents
+
+Proprietary Products
+
+In addition to our exchanges providing a marketplace and listing venue for the trading of securities and derivatives we also calculate proprietary indices that are used as the basis for proprietary products, such as our SPX options and VIX options and futures, or licensed for use by third parties. These include:
+	●	volatility index products based on various broad-based market indices, such as the S&P 500, the S&P 100, and the Russell 2000,
+	●	correlation or volatility indices based on ETFs and individual stocks, such as the Cboe Crude Oil ETF Volatility Index, the Cboe Gold ETF Volatility Index, the Cboe Equity VIX on Apple, and the Cboe Equity VIX on Amazon,
+	●	interest rate volatility indices, such as the Cboe Interest Rate Swap Volatility Index and
+	●	options strategy benchmarks, such as the Cboe BuyWrite, PutWrite and Collar indices based on the S&P 500 and Russell 2000, BuyWrite and PutWrite indices on MSCI EAFE, MSCI Emerging Markets and BuyWrite indices based on other broad-based market indices.
+
+Our most frequently traded proprietary products are SPX options and VIX options and futures. In addition to any transaction fee revenue generated on products created based on these indices, we have granted licenses for third parties to use and sublicense some of these proprietary indices to create third-party indices and products. Accordingly, we generate revenue from proprietary indices by distributing them for reference purposes, using them as the basis for proprietary products and licensing them for use for third-party indices and products.      
+
+These proprietary indices and products are built both through our in-house research and development staff and our strategic relationships and license agreements with index providers. The following is a discussion of our strategic relationships and additional detail on our most frequently traded products, including SPX options and VIX options and futures.  
+
+Strategic Relationships
+
+The Company has long-term business relationships with several providers of market indices. We license their indices, including on an exclusive basis, as the foundation for indices, index options and other products. The Company also acquires interests in and agrees to work jointly with key providers to develop new products and services that are expected to capitalize on our core competencies and diversify our sources of revenue. Of particular note are the following:
+	●	S&P. We have the exclusive right to offer exchange-listed options contracts in the United States on the S&P 500 Index, the S&P 100 Index, the S&P 500 ESG Index, and the S&P Select Sector Indices as a result of a licensing arrangement with S&P Dow Jones Indices, LLC (“S&P”). Our license from S&P is through December 31, 2033, with an exclusive license to trade options on the S&P 500 Index through December 31, 2032. We use the market data from the trading of options on the S&P 500 Index and S&P 100 Index for the creation of Cboe volatility indices, such as the VIX Index, and for the creation of tradable products on those volatility indices.
+	●	FTSE Russell. Under our license agreement with the London Stock Exchange Group’s (“LSEG”) leading global index franchises, Frank Russell Company and FTSE International Limited (together “FTSE Russell”), we have the exclusive right in the United States to offer listed options on more than two dozen FTSE Russell indices, which represent a diverse group of domestic and global equities with international appeal. Our exclusive license from FTSE Russell is through 2030. We offer options on the Russell 2000, Russell 1000, Russell 1000 Value and Russell 1000 Growth Indices.
+	●	MSCI. We have the exclusive right in the United States to offer listed options on six of MSCI’s indices and to calculate and commercialize volatility and strategy indices on the market data from the trading of options on the MSCI EAFA and MSCI Emerging Markets indices, as a result of licensing arrangements with MSCI Inc. (“MSCI”). We currently offer options on the MSCI EAFE and MSCI Emerging Markets Indices, and use trading information to calculate several versions of BuyWrite and PutWrite strategy indices on each MSCI index.
+
+11
+
+Table of Contents
+	●	Dow Jones. We have the exclusive right during standard U.S. trading hours to offer listed options contracts in the United States on the Dow Jones Industrial Average (“DJIA”) and certain other Dow Jones indices through December 31, 2033 as a result of a licensing arrangement with DJI Opco, LLC. We use market data from the trading of options on these indices to create Cboe volatility indices, variance indicators and BuyWrite indices, and to trade options and other products on these indices.   
+
+SPX Options
+
+The S&P 500 Index is an index comprised of 500 large-cap U.S. listed companies. It is one of the most commonly followed indices and is considered a bellwether for the U.S. economy. The SPX options we offer on the S&P 500 Index are exclusive to Cboe and contribute substantially to our volumes and transaction fees. Because of the S&P 500 Index’s status as a bellwether, SPX options are used in many different trading strategies by customers with different goals, including pension funds hedging their equity exposure by buying put options, asset managers seeking enhanced returns by selling covered call options and hedge funds using risk-managed strategies to capture so-called “risk premia” embedded in option prices. We also offer SPX Weeklys options, which have settlements on Mondays, Wednesdays, Fridays and on the last trading day of each month. We believe these additional expirations provide customers with more precision when hedging overall portfolio risk.  
+
+Volatility Trading
+
+Cboe pioneered the trading of exchange-traded volatility products with its introduction of VIX futures in 2004 and VIX options in 2006. The VIX Index, although not directly tradable, is based on the mid-point of real-time quotes of SPX options and is designed to reflect investors’ consensus view of future 30-day expected stock market volatility. The VIX methodology provides the basis for the creation of VIX options and futures. The final settlement value of VIX derivatives is determined on their expiration date through a Special Opening Quotation (“SOQ”) of the VIX Index. The SOQ calculation uses opening trade prices of selected options; unless there is no opening price, in which case the opening price used in the SOQ calculation is the midpoint of the highest bid and lowest offer at the time of the opening. Since we started offering these products, we have seen trading from a number of different customer segments utilizing a number of different trading strategies, including hedging extreme stock market declines, also known as “tail risk” hedging, and risk-managed strategies that seek to capture the relative price changes of expected volatility at different times in the future. We also offer VIX Weeklys options and futures to provide investors with opportunities and tools to trade volatility over a shorter term.  
+
+Listing
+
+Cboe serves as a listing destination for ETPs in the U.S. and Europe, and its markets are structured and designed for ETP issuers and their investors. In 2020, Cboe added 114 ETP listings in the U.S. and won 36 percent of all new U.S. ETP listings. There are now 511 ETPs globally listed on Cboe from 63 different issuers. We offer fully-automated opening, closing and halt reopening auctions for our listed securities, which are designed to maximize the efficiency of the price discovery process.     
+
+Cboe also offers issuers the choice of an innovative market maker program referred to as the Cboe Lead Market Maker (“LMM”) incentive program on Cboe BZX and the Cboe Europe Equities Liquidity Provider Program (“LPP”) on Cboe Europe Equities. Under the LMM program, an LMM has certain quoting obligations and for meeting those enhanced obligations, Cboe pays the LMM a daily stipend that varies depending on the average aggregate daily auction volume in the ETPs assigned to such LMM. Also, LMMs transact for free in the closing auction in their assigned ETPs. Under the LPP, Cboe Europe Equities offers three programs designed for participants that wish to provide liquidity by posting and maintaining executable quotes within certain set parameters with the result of providing liquidity on a regular and ongoing basis. Cboe BZX also offers the Cboe Liquidity Management Provider (“LMP”) Program (“LMP Program”). The LMP Program is a rewards-based program that incentivizes liquidity providers to make a better market in ETPs. Incentives are based on an LMP’s quote quality in the Cboe LMP Program securities, which include all Cboe-listed ETPs and certain non-Cboe-listed ETPs.
+
+Market Data and Information Solutions
+
+We derive a portion of our revenue from market data fees from U.S. tape plans, including Unlisted Trading Privileges (“UTPs”), the Consolidated Tape Association (“CTA”) and OPRA. Fees, net of plan costs, from UTP, CTA, and OPRA are allocated and distributed to plan participants like us according to their share of tape fees based on a formula, required by Regulation NMS, which may take into account both trading and quoting activity.     
+
+12
+
+Table of Contents
+
+We also provide a robust offering of market data and information solutions products across multiple asset classes and geographic regions that are designed to suit our customers’ diverse needs. Products include real-time depth of book quotation information, auction and complex option information, top of book quotes and trades, last sale information, consolidated equity feeds, real-time index values, and trade reporting facility information. With our recent information solutions acquisitions, we have expanded our services to include analytics services, theoretical values, alpha generating tools, probability data, and historical information for our markets through multiple data services, which include Silexx, LiveVol, Hanweck, FT Options, and Trade Alert.       
+
+Our Models
+
+Our markets use a combination of pricing and market models to differentiate them from each other and from our competitors. For our options markets, Cboe Options is a hybrid market combining open outcry floor trading with electronic trading. For multi-listed products, we utilize public customer priority, market turner in certain products, participation rights and pro-rata allocation market models, combined with the “classic” pricing model. Under the classic pricing model, professional participants pay transaction fees, public customers generally do not pay transaction fees and market makers compensate brokers for sending order flow to the exchange (known as payment for order flow). For proprietary products, we use price-time or pro-rata allocation, sometimes with public customer priority, and market turner market models, combined with a pricing model where all market participants generally pay fees. Our other three options markets are fully electronic. BZX options utilizes a price-time market model, combined with a “maker-taker” pricing model. Under the maker-taker pricing model, market participants who make the market (a “maker”) generally receive a rebate, while market participants who trade against those markets (a “taker”) pay a transaction fee. EDGX options utilizes customer priority, participation rights and pro-rata allocation market models, combined with the classic pricing model. C2 options utilizes a pro-rata allocation market model, combined with the maker-taker pricing model.
+
+For our U.S. equities exchanges, which are fully electronic, BZX equities utilizes a price-time market model, combined with the maker-taker pricing model. EDGX equities utilizes a price-time with retail priority market model, combined with the maker-taker pricing model. BYX equities utilizes a price-time with price improvement for retail customers market model, combined with the “taker-maker” pricing model. Under the taker-maker pricing model, market participants who make the market pay a transaction fee, while market participants who trade against those markets receive a rebate. EDGA equities utilizes a price-time market model, combined with a taker-maker pricing model. In addition to these market models, each of the U.S. equity exchanges provide numerous specific order types that are designed to enhance their respective market models.
+
+For our Canadian equities ATS, which is fully electronic, MATCHNow utilizes a model that combines frequent call matches and continuous execution opportunities in a confidential trading book. The system uses real-time quotes for protected transparent Canadian markets. Orders matched within MATCHNow are executed at three levels of price improvement: (1) the mid-point between the Canadian best bid and offer (the “CBBO”); (2) one price increment better than the CBBO or; (3) at the bid or offer for orders that meet a specified large threshold. Trading fees are typically calculated as a function of trade volume and share price.
+
+For our U.S. equities ATS market, which is fully electronic, BIDS Trading utilizes a sponsored access model to provide anonymous executions in NMS stocks. BIDS Trading provides numerous order types, including both firm and conditional orders. All orders matched within BIDS Trading are executed at or better than the NBBO. BIDS Trading charges fees based on disclosed, objective criteria: (i) means of access; (ii) the type of order; and (iii) the total volume of executions during the calendar month.
+
+For our futures market, which is fully electronic, CFE utilizes a price-time market model, combined with a pricing model where all market participants generally pay fees, subject to specified exceptions.
+
+Our Cboe FX platform utilizes a price-firmness-time priority market model, combined with a pricing model where users are charged either a flat or tiered commission rate based upon the notional amount traded on the platform. Our Cboe SEF platform charges a flat commission based upon the notional amount traded on the platform and the capacity in which a participant is trading.  
+
+In Europe, following the implementation of the Directive on Markets in Financial Instruments (Directive 2014/65/EU) (“MiFID II”), rebates are generally available if they are tied to a market making scheme or specific service.
+
+13
+
+Table of Contents
+
+Our exchanges also charge fees for the opportunity to trade or access our exchanges, including fees for trading-related functionality. To facilitate trading, we also charge fees for certain technology services, terminal and other equipment rights, maintenance services, trading floor space and telecommunications services.
+
+Clearing
+
+On July 1, 2020, we completed our acquisition of EuroCCP, a European central counterparty (“CCP”), that provides post-trade services, including clearing, to stock exchanges, multilateral trading facilities and for over-the-counter equities trades. EuroCCP acts as a central counterparty that, for its clearing participants, becomes the buyer to every seller and the seller to every buyer. As a result, it guarantees the timely performance of the obligations of buyers and sellers and takes on the risk of the performance of the transactions that it clears. Additionally, as a critical Financial Market Infrastructure, EuroCCP is subject to strict business continuity requirements and regulatory oversight. In 2020, EuroCCP provided CCP protection for an average of €41 billion of cleared value on a daily basis. Through the process of netting, in 2020, EuroCCP eliminated 80% or €30 billion of the average daily cleared value, leaving an average daily settlement value of €11 billion.
+
+Customers
+
+Our customers generally include financial institutions, trading platforms, institutional and individual investors and professional traders. Our equities and options customers in the United States include trading permit holders and members of Cboe Options, C2, BZX, BYX, EDGX, and EDGA, which are SEC-registered broker-dealers, and the customers of those broker-dealers. Our Canadian equities customers include participants of MATCHNow, which are Canadian registered investment dealers, and certain clients of those dealers. Our ATS equities participants in the United States include users of BIDS Trading, which are SEC-registered broker-dealers and certain customers of those broker-dealers. Our futures customers include banks, futures commission merchants and their customers, hedge funds, asset managers, proprietary trading firms and Commodity Trading Advisors. Similarly, our equities’ customers in Europe are European Union (“EU”) regulated brokerage and proprietary trading firms, as well as sponsored access clients of these brokerage firms, and certain non-EU. regulated and unregulated direct access participants. EuroCCP clears equities from 18 European markets and from the United States, as well as Depositary Receipts, ETFs, and exchange traded currencies (“ETCs”). Our institutional global FX customers include banks, broker-dealers, hedge funds, asset managers, proprietary trading firms, Commodity Trading Advisors and corporates. Access to our markets, trading rights and privileges depend upon the nature of the customer, such as whether the individual is a trading permit holder, trading privilege holder, member or participant of one of our markets.
+
+Competition
+
+The industry in which we operate is intensely competitive. We believe we face competition on a number of factors, including:
+	●	the price, quality and speed of our trade and clearing execution;
+	●	functionality and ease of use of our trading and clearing platforms;
+	●	range of our products and services;
+	●	integrity of our marketplaces;   
+	●	technological innovation and adaption; and  
+	●	our reputation.  
+
+We believe that we compete favorably with respect to these factors through a variety of methods, including:
+	●	offering access to a broad array of products and services, including proprietary products and market data;
+	●	offering fee schedules, pricing models that both attract order flow and provide incentives to liquidity providers;
+	●	providing advanced technology that offers broad functionality, low latency, fast execution, ease of use, scalability, reliability and security;
+	●	offering efficient, transparent and liquid marketplaces;
+	●	offering deep and liquid markets with opportunities for price improvement;
+	●	offering broad trading platform access in the EU;
+	●	maintaining close relationships with customers; and
+	●	providing customers with a comprehensive source of information on options and ETPs as well as extensive options education.  
+
+14
+
+Table of Contents
+
+In our proprietary products, we compete against other futures exchanges and swap execution facilities that offer similar products, as well as against financial market participants that offer similar over-the-counter derivatives. We also compete against certain multi-listed options products, such as options on SPY, which may offer similar market exposure of our proprietary products such as SPX options.
+
+The multi-listed options industry is extremely competitive. We expect this trend to continue. As of December 31, 2020, we compete with 12 U.S. options exchanges, in large part due to existing exchange holding companies opening new exchanges that offer different markets and pricing models on existing technology. Most of the equity and ETP options listed and traded on our exchanges are also listed and traded on the other exchanges. In addition, the options exchanges that we compete with set fees and rebates to attract multi-listed options business to their exchanges, which has historically reduced the net revenue per contract that we generate from multi-listed options, and the options exchanges that we compete with structure their options businesses in partnership with established market participants, such as consolidators, and other order flow providers, to increase their volume traded.
+
+Our U.S. listed equity securities and listing services and the BIDS Trading ATS compete against 12 other exchanges as of December 31, 2020, and several other ATSs and single dealer platforms. Market participants have multiple venues for the execution of orders, including national securities exchanges and numerous off-exchange venues, including other ATSs and broker-dealers who internalize orders off-exchange. Additionally, issuers have multiple venues for the listing of their products. In Canada, our equities ATS, MATCHNow, competes with several Canadian exchanges and other ATSs.
+
+The market for execution and clearing services in Europe became more competitive following the introduction of MiFID II and the Regulation on Markets in Financial Instruments (Regulation (EU) No 600/2014) (“MiFIR”). Furthermore, MiFID II and MiFIR placed more onerous conditions on trading venues and investment firms and restricted certain types of trading activity. Our major competitors in Europe include national stock exchanges, other pan-European MTFs, European clearinghouses, dark pools, and systematic internalizers.  
+
+The global FX market remains severely fragmented, with transparent automated marketplaces such as Cboe FX challenging a small number of similarly situated competitors. While the global FX market has experienced a shift from competing interbank platforms to ECNs, the electronification of the spot and NDF FX market may encounter resistance from customers that still prefer to utilize the phone, instant chats, terminals and key banking relationships for price discovery and trading. Furthermore, electronification of the FX market appears to be experiencing more resistance outside the United States. The electronic spot FX market is also intensely competitive, with over 10 other venues competing for market share as of December 31, 2020. Cboe measures and reports on market share against a narrower set of competitors, included in those venues.
+
+In addition, demand for our market data faces competition from other securities exchanges, technology companies, third-party market data providers and information and software vendors, who have their own substantial market data distribution capabilities that serve as alternative means for receiving open market data feeds instead of connecting directly to our exchanges or trading venues. The sale of our proprietary data products is also under competitive threat from ATSs and trading venues that offer similar products. Distributors and consumers of our market data may also use our market data as an input into a product that competes against one of our traded or cleared products.
+
+Technology
+
+Cboe Trading Technology
+
+The trading platform for our equities, options and futures markets is developed, owned and operated in-house and is designed to optimize reliability, speed, scalability and versatility. Each of our exchanges provide different market models, appealing to different user bases and the trading technologies support all of them. Further, the technologies are designed to support many specialized features for each of the markets, such as: dark pools, trade reporting facility, systematic internalizer, Large-in-Scale, smart order routing, FLEX options, 24x5 trading and hybrid trading (combining electronic and open outcry). In addition, Cboe operates separate trading and clearing platforms, as applicable, for BIDS Trading, MATCHNow, EuroCCP, and Global FX.  
+
+Our trading platforms have experienced very low operational downtime and low latency. The trading platforms use readily available hardware, thereby minimizing capital outlays required for each new market entry. Also, in order to continue to implement new enhancements to our trading platforms, new releases of software are generally deployed routinely in all of the applicable markets.
+
+15
+
+Table of Contents
+
+Disaster Recovery
+
+We operate and maintain geographically diverse disaster recovery facilities for all of our markets. We expect that the disaster recovery facilities can be up and running in a short period of time and work with our market participants to ensure that the marketplace can be quickly reopened. We regularly test our data center recovery plans and periodically carry out weekend tests using our back-up data centers, as well as an annual test with our U.S. trading participants. In Canada, as required by local regulations, MATCHNow conducts internal testing of its disaster recovery data processing capabilities at least annually, and it participates in the bi-annual testing coordinated by the IIROC. In Europe, we also regularly test our data center recovery plans and periodically carry out weekend tests which use our back-up data center, as well as an annual test with our European trading participants. We continue to work to improve both the availability of our technology and our disaster recovery facilities.
+
+Routing and Clearing
+
+OCC is the sole provider of clearing on all of our options and futures exchanges. National Securities Clearing Corporation (“NSCC”), a subsidiary of the Depository Trust and Clearing Corporation (“DTC”), is the sole provider of clearing on our U.S. listed equity exchanges. The Canadian Depository for Securities (“CDS”) is the sole provider of clearing on all equities transactions occurring on MATCHNow. BofA Securities, Inc. (“BOA”) is the sole provider of clearing on all equities transactions occurring on BIDS Trading. Cboe Europe Equities relies on LCH Limited and LCH SA (“LCH”), EuroCCP, which is described above, and SIX x-clear Ltd (“SIX x-clear”) to clear trades in European listed equity securities as part of an interoperable clearing model.       
+
+Cboe Trading is a routing broker-dealer used by our four U.S. equities exchanges and our four U.S. options exchanges, including the electronic platform portion of Cboe Options. Cboe Trading’s clearings firms are Wedbush Securities, Inc. (“Wedbush”) and Morgan Stanley & Co. LLC (“Morgan Stanley”).
+
+Regulatory Environment and Compliance
+
+Various aspects of our business are subject to regulation by the SEC, CFTC, FINRA, IIROC, the Ontario Securities Commission (the “OSC”), ESMA, FCA, the Central Bank of the Netherlands (“DNB”), and the AFM and market participants may be subject to regulation by the SEC, CFTC, FINRA, National Futures Association (“NFA”), FCA, Board of Governors of the Federal Reserve, U.S. Department of the Treasury and/or foreign regulators. The following is a discussion of the more significant areas of regulation of us by the SEC, the CFTC, and certain European regulators.        
+
+Recent Developments
+
+Laws and regulations regarding our business are frequently modified or changed to address perceived problems, new products, competition or at the request of market participants. The following is a summary of the general regulatory structure and brief discussion of recent regulatory developments that may significantly impact our business.   
+
+United States
+
+Transaction Fee Pilot
+
+In December 2018, the SEC approved a transaction fee pilot in national market system (“NMS”) stocks (the “transaction fee pilot”). The pilot will subject stock exchange transaction fee pricing, including maker-taker fee-and-rebate pricing models, to new temporary pricing restrictions across two test groups, and will require the exchanges to prepare data to be submitted to the SEC. The transaction fee pilot includes a test group that will prohibit rebates and linked pricing, as well as a test group that will impose a cap of $0.0010 for removing or providing displayed liquidity. Once commenced, the transaction fee pilot will last for up to two years with an automatic sunset at one year unless extended by the SEC. On June 16, 2020, the Court of Appeals for the D.C. Circuit vacated the transaction fee pilot and remanded it back to the SEC for reconsideration.       
+
+The transaction fee pilot, or a successor pilot, if any, may cause Cboe’s equities exchanges, BZX, BYX, EDGX, and EDGA, to require additional resources to comply with or continue to challenge the transaction fee pilot or a successor pilot and it may have a material impact on our business, financial condition and operating results if, for example, order flow shifts away from exchanges were to occur.
+
+16
+
+Table of Contents
+
+Consolidated Data Plan Order
+
+On May 6, 2020, the SEC issued a final order (the “Consolidated Data Plan Order”) that would require U.S. equities exchanges and FINRA to develop and file a new consolidated data plan (the “Plan”) that would replace the three current U.S. equities tape data plans and require certain governance provisions, such as changes to the voting structure. Pursuant to the Consolidated Data Plan Order, we and the other U.S. equities exchanges and FINRA were required to file the proposed Plan for public comment before the SEC takes any definitive action on such new plan. The proposed Plan was filed on August 11, 2020. Until and if the SEC approves a new plan, the current data plans will continue to govern. The Consolidated Data Plan Order may cause our equities exchanges, BZX, BYX, EDGX, and EDGA, to require additional resources to comply with or challenge the Consolidated Data Plan Order and it may have a material impact on our business, financial condition and operating results if, for example, there is a negative impact on the market data fees our equities exchanges are able to charge. See “Risk Factors” and “Legal Proceedings” for more information.
+
+Financial Transaction Taxes
+
+A number of federal, state and local jurisdictions in the U.S. and EU Member States have considered a financial transaction tax, but many details remain to be discussed and agreed, including how to assess the tax. Implementation of a financial transaction tax could result in a reduction in volumes and liquidity, which would have a negative impact on our operations. See “Risk Factors” for more information.
+
+Market Data Infrastructure Rule
+
+On December 9, 2020, the SEC issued a Market Data Infrastructure Final Rule, which makes significant additions to the content available on the Securities Information Processors (“SIPs”) and replaces the exclusive processors with a competing consolidator model. The implementation of the new rules could cause Cboe’s equities exchanges, BZX, BYX, EDGX, and EDGA, to require additional resources to comply with or to challenge the new rules and they may have a material impact on our business, financial condition and operating results if, for example, there are lower SIP plan revenues or we must reduce the fees we charge for market data. See “Risk Factors” and “Legal Proceedings” for more information.
+
+Europe
+
+Brexit
+
+On June 23, 2016, the United Kingdom (the “UK”) voted to leave the EU in a referendum (the “Brexit Vote”). On January 31, 2020, the UK exited from the EU (“Brexit”) and began a transition period (the “Transition Period”) lasting until December 31, 2020. On December 31, 2020, the Transition Period ended. The EU and UK agreed to a trade deal but it did not cover the entire financial sector. New restrictions on share trading came into force when trading began on January 4, 2021, preventing EU firms from accessing UK venues in European Economic Area (“EEA”)-listed securities. However, this restriction was not imposed in the other direction. As a result, UK firms are permitted to trade EEA listed securities on EU venues. While the EU and UK have committed to agreeing to a framework for co-operation on financial service regulation, there is no assurance that this will lead to improved access to UK venues by EU firms. There is likely to be ongoing uncertainty about the capital markets regulation that will apply to Cboe Europe Equities and its customers for the foreseeable future. For information regarding risks related to Brexit, see “Risk Factors.”   
+
+Withdrawal of Swiss Equivalence and Swiss Counter Measure
+
+As a result of an ongoing disagreement between the EU and Switzerland, the European Commission allowed its MiFID equivalence decision for Switzerland to expire at the end of June 2019. As a result, Switzerland made it illegal for venues in the EU, including Cboe Europe, to trade Swiss equities. Consequently, Cboe Europe had to remove these instruments from trading and suffered a loss of trading revenues. However, following Brexit and the end of the Transition Period, UK and Swiss governments were able to reach an agreement to allow the trading of Swiss equities on UK trading venues, including Cboe Europe’s UK exchange. Cboe Europe resumed trading in Swiss equities on February 4, 2021.  
+
+17
+
+Table of Contents
+
+Capital Markets Union
+
+The European Council (“E.C.”) has highlighted one of its top priorities as being the establishment of a fully functioning, well-regulated Capital Markets Union (“CMU”). An Action Plan of concrete steps was set out in September 2015, and an update of the list of initiatives was published in September 2016. More recently, the E.C. has set up a High Level Forum on CMU, with the E.C. and European Parliament also seeking to reboot this project. This therefore remains an ongoing project for the E.C., which may result in additional regulation or legislation.
+
+OTC Derivatives, Central Counterparties and Trade Repositories
+
+Regulation (EU) No 648/2012 of the European Parliament and of the Council of July 4, 2012 on OTC derivatives, central counterparties and trade repositories (the “European Market Infrastructure Regulation” or “EMIR”) sets out rules relating to over-the-counter (“OTC”) derivatives markets, central counterparties and trade repositories. The rules introduce a reporting obligation for OTC derivatives markets, a clearing obligation for eligible OTC derivatives markets, measures to reduce counterparty credit and operational risk for bilateral OTC derivatives markets, CCPs, and trade repositories, and rules on the establishment of interoperability between CCPs. EMIR was enhanced and amended in June 2019. In addition, regulation governing the authorization and supervision of Central Securities Depositories (“CSDR”) was approved in September 2014, with the publication of most “Level 2” Regulatory Technical Standards in March 2017, with implementation in March 2019. CSDR may result in the introduction of mandatory buy-ins for OTC business in 2021. In June 2020, European authorities reached a political agreement on a proposed Central Counterparty Recovery and Resolution Regulation (“R&R Regulation”), which may, among other things, increase the amount of prefunded capital EuroCCP is required to maintain. This additional prefunded capital may be required to be drawn before any resolution measures can be taken by the CCP. The final text of the R&R Regulation was published in the Official Journal of the EU on January 22, 2021. As European authorities finalize and potentially adopt level 2 guidance, the final R&R Regulation may have a material adverse effect on our business, financial condition and operating results.       
+
+Compliance
+
+U.S. Securities Industry
+
+Federal securities laws have established a two-tiered system for the regulation of securities exchanges and market participants. The first tier consists of the SEC, which has primary responsibility for enforcing federal securities laws. The second tier consists of self-regulatory organizations (“SROs”), which are non-governmental entities that must register with and are regulated by the SEC. The Exchanges are SROs, each registered under Section 6 of the Exchange Act of 1934, as amended (“Exchange Act”) as a “national securities exchange,” and are subject to oversight by the SEC.
+
+SROs are an essential component of the regulatory scheme of the Exchange Act for providing fair and orderly markets and protecting investors. To be registered as a national securities exchange, an exchange must successfully undergo an application and review process with the SEC prior to beginning operations. Among other things, the SEC must determine that the SRO has the ability to comply with the Exchange Act and to enforce compliance by its members and persons associated with its members with the provisions of the Exchange Act, the rules and regulations thereunder and the rules of the exchange.
+
+In general, an exchange SRO is responsible for operating its trading platforms consistent with its rules, and regulating its members through the adoption and enforcement of rules governing the business conduct of its members. The rules of the exchange must also assure fair representation of its members in the selection of its directors and administration of its affairs and, among other things, provide that one or more directors be representative of issuers or investors and not be associated with a member of the exchange or with a broker or dealer. Additionally, the rules of the exchange must be adequate to ensure fair dealing and to protect investors and may not impose any burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act.
+
+As registered national securities exchanges, virtually all facets of our Exchange operations are subject to the SEC’s oversight, as prescribed by the Exchange Act. The Exchange Act and the rules thereunder impose on us many regulatory and operational responsibilities, including record keeping and the day-to-day responsibilities for market operations and broker-dealer oversight. Furthermore, as SROs, the Exchanges are potentially subject to regulatory or legal action by the SEC or other interested parties. The SEC also has broad enforcement powers to censure, fine, issue cease-and-desist orders, prohibit us from engaging in some of our businesses, suspend or revoke our designation as a registered securities exchange or remove or censure any of our officers or directors who violate applicable laws or regulations. For example, in 2013, Cboe Options and C2 and, in 2015, EDGX and EDGA, entered into consent orders with the SEC, under which they
+
+18
+
+Table of Contents
+
+were censured, ordered to cease and desist from violating certain sections of the Exchange Act, paid fines and agreed to complete certain undertakings. We have certified to the completion of these undertakings and are no longer required to certify.  
+
+As part of its regulatory oversight, the SEC conducts periodic reviews and inspections of exchanges, and the Exchanges have been subject to such routine reviews and inspections. To the extent such reviews and inspections result in regulatory or other changes, we may be required to modify the manner in which we conduct our business, which may adversely affect our business. We collect certain fees to cover Section 31 fees charged to the Exchanges by the SEC and certain fees derived from our regulatory function and fines in connection with our disciplinary proceedings. The Exchanges are responsible for the ultimate payment of Section 31 fess to the SEC. Additionally, under the rules of each of our exchanges, as required by the SEC, any revenue derived from the regulatory fees and fines cannot be used for non-regulatory purposes.    
+
+Section 19 of the Exchange Act also provides that we must submit to the SEC proposed changes to any of the Exchanges’ rules, including revisions of their certificates of incorporation, bylaws, or other governing documents of the SROs or their parent companies. The SEC will typically publish the proposal for public comment, following which the SEC may approve or disapprove the proposal, as it deems appropriate. Certain categories of rule changes, like fee changes, can be effective on filing, but the SEC retains the ability to suspend or reject such filings within a prescribed period of time.  
+
+Canadian Securities Industry
+
+MATCHNow is subject to comprehensive regulation and oversight by the IIROC, and its primary provincial securities regulatory authority, the OSC. The regulations applicable to MATCHNow cover a wide array of areas, including, but not limited to, marketplace operations (which include corporate governance, fair access, systems compliance and integrity, and conflict management requirements), trading rules, electronic trading risk management, and financial viability.
+
+Futures and Swaps Industry-CFE and Cboe SEF
+
+The operations of each of CFE and Cboe SEF are subject to regulation by the CFTC under the Commodity Exchange Act. The Commodity Exchange Act generally requires that futures trading in the United States be conducted on a designated contract market and, in some cases, requires swaps trading to be conducted on swap execution facility (“SEF”) or designated contract market (“DCM”). The Commodity Exchange Act and CFTC regulations establish criteria for an exchange to be designated as a contract market on which futures and futures options contracts may be traded, and for a trading platform to be designated as a swap execution facility on which certain swaps may be traded. Designation as a contract market or swap execution facility for the trading of specified futures or swaps contracts is non-exclusive. This means that the CFTC may permit additional exchanges or trading platforms to be contract markets or swap execution facilities for trading the same or similar contracts.
+
+CFE is a designated contract market, and Cboe SEF is a swap execution facility, each of which is subject to the oversight of the CFTC and to a variety of ongoing regulatory and reporting responsibilities under the Commodity Exchange Act. As a designated contract market, CFE is required to comply with the applicable core principles and regulations under the Commodity Exchange Act, as is Cboe SEF as a swap execution facility. Each of CFE and Cboe SEF has surveillance and regulatory operations and procedures to monitor and enforce compliance by trading privilege holders with CFE rules, and by participants with Cboe SEF rules, as applicable. If CFE or Cboe SEF fails to comply with applicable laws, rules or regulations, it may be subject to censure, fines, cease-and-desist orders, suspension of its business, removal of personnel or other sanctions, including revocation of CFE’s designation as a contract market or Cboe SEF’s designation as a swap execution facility.
+
+Europe
+
+Cboe Europe is located in London and is subject to regulation in the UK and to certain European regulations. The current UK regulatory system was established by the Financial Services Act 2012 (“FSA12”), which amended the Financial Services and Markets Act 2000. The legislation replaced the previous financial services regulator, the Financial Services Authority, with three new bodies: The Financial Policy Committee (“FPC”), The Prudential Regulation Authority, and the FCA. Financial conduct of markets, including activity on, and the operation of, markets is regulated by the FCA, which is an independent non-governmental body, given statutory powers by the FSA12. The FCA has three statutory objectives: to secure an appropriate degree of protection for consumers; to protect and enhance the integrity of the UK
+
+19
+
+Table of Contents
+
+financial system; and to promote effective competition in the interests of consumers in the markets for financial services. The FCA is accountable to Her Majesty’s Treasury Ministers and, through them, to Parliament.
+
+EuroCCP and Cboe NL are located in Amsterdam and subject to Dutch law and regulation. The current Dutch regulatory system was established by the Act on Financial Supervision. Financial conduct of markets, including activity on, and the operation of, markets is regulated by the AFM. Financial conduct of CCPs, including clearing activity is regulated by the AFM and DNB. The AFM is an independent non-governmental body, given statutory powers by the Act on Financial Supervision. The AFM has three strategic objectives: to promote the fair and conscientious provision of financial services, to promote the fair and efficient operation of the capital markets and to contribute to the stability of the financial system. The AFM is accountable to the Minister of Finance. The DNB is the Dutch central bank, financial sector supervisor and resolution authority. The DNB is committed to a stable financial system: stable prices, solid financial institutions and properly functioning payment transfers.
+
+Much of the UK and Dutch financial services regulation originates from the EU. Such regulation includes organizational requirements, capital resources requirements and the specific requirements for RMs and MTFs and are applicable to both Cboe Europe and Cboe NL. MiFID II and MiFIR set out requirements for RMs and MTFs with respect to the establishment of transparent and non-discretionary rules and procedures governing access and for fair and orderly trading and the efficient execution of orders, as well as to facilitate the efficient settlement of transactions conducted on RMs and MTFs and monitoring compliance with the rules. EMIR governs the CCPs operating in the EU and requires them to meet common risk management, governance and capital adequacy standards. The regulatory functions required of Cboe Europe Equities, including EuroCCP, by MiFID II, MiFIR, EMIR and other relevant legislation and regulations are performed by in-house staff. Cboe Europe Equities utilizes the same state-of-the-art, real-time surveillance system is used on the U.S. to monitor trading and market activities on BZX, BYX, EDGA, and EDGX. EuroCCP utilizes proprietary risk management software to monitor settlement and funding flows.
+
+Global FX
+
+While the global institutional spot FX market remains largely unregulated, the enactment of the Dodd Frank Act and its related regulations in the United States and the ongoing implementation of MiFID II and MiFIR in Europe have impacted the regulatory landscape for currency derivative products. For example, certain standardized currency derivative products are required to trade on an organized trading venue such as a SEF or DCM in the United States or on an MTF or organized trading facility in Europe. Moreover, even in the largely unregulated spot FX market, this movement towards additional trading standards and norms is highlighted by the publication of the FX Global Code in 2017 by the Global Foreign Exchange Committee, reflecting principles of good conduct for the wholesale FX market, and whose publication may lead to additional oversight in the global FX market. Cboe FX issued a Statement of Commitment declaring its commitment to conduct its FX market activities in a manner consistent with the principles of the FX Global Code. Following the publication of the FX Global Code regulators are taking a new look at the spot FX market, and any decision to impose new regulations may affect our spot FX business line.
+
+Broker-Dealer
+
+Cboe Trading and BIDS Trading are registered broker-dealers regulated by the SEC, FINRA, other SROs of which they are members and various state securities regulators. Cboe Trading currently operates as a routing broker-dealer for sending orders from the Exchanges to other venues for execution, including routing orders among the Exchanges. Cboe Trading is considered a facility of each of the Exchanges and is subject to the rules of the Exchanges. The Exchanges are responsible for enforcing Cboe Trading’s compliance with their rules, including to ensure Cboe Trading is not given preferential treatment. BIDS Trading currently operates an ATS, which is designed to bring counterparties together to anonymously trade large blocks of U.S. equities. BIDS Trading is not a member of any of the U.S. national securities exchanges and is not subject to exchange rules.             
+
+Cboe Trading and BIDS Trading are subject to SEC and SRO rules, as applicable, and, as registered broker-dealers, regulations concerning all aspects of their businesses, including trading practices, order handling, best execution, anti-money laundering, handling of material non-public information, safeguarding data, reporting, capital adequacy, record retention, market access and the conduct of their officers, employees and other associated persons. The SEC, SROs and state securities commissions may conduct proceedings which can result in injunctions or other sanctions, censures, fines, the issuance of cease and desist orders or the suspension or expulsion of a broker-dealer, its officers or employees. The SEC and FINRA impose certain minimum capital requirement rules that require notification when a broker-dealer’s net capital falls below certain predefined criteria, dictate the ratio of debt to equity in the regulatory capital composition of a
+
+20
+
+Table of Contents
+
+broker-dealer, constrain the ability of a broker-dealer to expand its business under certain circumstances and impose certain requirements that may have the effect of prohibiting a broker-dealer from distributing or withdrawing capital.
+
+In addition, the ATS operated by BIDS Trading is not a registered national securities exchange or a facility thereof, as such, Cboe intends to maintain the BIDS ATS as an independently managed and operated trading venue, separate from and not integrated with the Exchanges. BIDS Trading Chief Executive Officer, Tim Mahoney, is expected to remain in his current role and lead BIDS Trading as an independent business within Cboe, reporting into an independent committee of the board of Cboe Global Markets. Further, Cboe Trading will not route orders to BIDS Trading on behalf of the Exchanges.
+
+Cboe Global Markets
+
+Certain aspects of Cboe Global Markets are also subject to SEC, FCA and AFM oversight, including certain ownership and voting restrictions on its stockholders. The focus of the SEC’s regulation of Cboe Global Markets is to assure fair representation of members in the selection of the directors of the Exchanges, public participation in the governance of the Exchanges and that the Exchanges can satisfy their regulatory responsibilities under the Exchange Act. Furthermore, the SEC requires that Cboe Global Markets give due regard to the preservation of the independence of the self-regulatory function of the Exchanges and to Cboe Global Markets’ obligations to investors and the general public. The SEC also requires that Cboe Global Markets not take any actions that would interfere with the effectuation of any decisions by the board of directors of any of the Exchanges relating to its regulatory functions or the structure of the market that it regulates or that would interfere with the ability of such Exchange to carry out its responsibilities under the Exchange Act. To the extent that Cboe Global Markets’ business activities involve or relate to the Exchanges, the officers and directors of Cboe Global Markets may be deemed to be officers and directors of the exchanges for purposes of and subject to oversight under the federal securities laws. Accordingly, the SEC may exercise direct supervision and disciplinary authority over certain Cboe Global Markets’ activities and those activities may be subject to SEC approval and, in some cases, public notice and comment.      
+
+In addition, Cboe Global Markets indirectly holds all of the issued share capital and voting rights in Cboe Europe and its wholly owned subsidiaries, Cboe Chi-X Europe and Cboe NL. As a result, we and any person who holds, or has voting power with respect to, 10% or more of the outstanding shares of Cboe Global Markets common stock may be subject to certain regulatory requirements under UK and Dutch law.         
+
+U.S. Regulatory Responsibilities
+
+Our U.S.-based exchanges are responsible for assessing the compliance of their TPHs or members, including Cboe Trading, with the respective exchange’s rules and the applicable rules of the SEC and/or CFTC. The main activities that the exchanges, as applicable, are required to monitor for the purpose of compliance with these rules include:
+	●	surveillance designed to detect violations of exchange trading rules;
+	●	surveillance designed to detect violations of SEC and/or CFTC rules;
+	●	investigation of matters deemed to be problematic;
+	●	the investigation of complaints about possible rule violations brought by customers, TPHs, members or other SROs; and
+	●	the examination of TPHs or members, including Cboe Trading, for compliance with rules such as those related to net capital, books and records, market access and other matters related to the TPHs’ exchange business functions.
+
+In order to ensure market integrity, we regulate and monitor our TPHs’ and members’ trading activities by using both our employees and third parties under regulatory services agreements (“RSAs”). See “Regulatory Agreements” below. Providing effective regulation is important for attracting and retaining the confidence and participation of market-makers, broker-dealers and institutional and retail investors.
+
+We expend considerable time, financial resources and effort to ensure that the exchanges’ rules and regulations conform to regulatory best practices within the securities and futures exchange industries and within the regulatory regime overseen by the SEC and CFTC, our primary regulators. In order to support our efforts and those of our market participants to comply with applicable law and our exchange rules, we developed a regulatory program to monitor market activity on our exchanges.
+
+21
+
+Table of Contents
+
+All of our Exchanges and CFE are participants in the Intermarket Surveillance Group (“ISG”). ISG is an international information-sharing cooperative governed by a written agreement that provides for a comprehensive surveillance sharing arrangement. In addition to the agreement for confidential information sharing, the ISG provides a framework for the coordination of regulatory efforts among exchanges trading securities, commodity futures and related products to address potential intermarket manipulations and trading abuses.          
+
+As part of the regulatory program, each of our Exchanges and CFE have rules pertaining to their respective disciplinary processes.
+
+U.S. Regulatory Agreements
+
+The Exchanges and CFE have entered into agreements under which third parties have agreed to perform regulatory functions on behalf of our markets, (e.g., RSAs). As discussed below, in addition, in certain other instances for our Exchanges, a third party has been allocated the regulatory responsibility under Rule 17d-1 or Rule 17d-2 under the Exchange Act, while in others, we retain the regulatory responsibility for the activities.
+
+Regulatory Services Agreement with FINRA
+
+The Exchanges have entered into agreements with FINRA under which FINRA has agreed to provide regulatory services to the Exchanges. Under these agreements, FINRA performs certain regulatory functions on behalf of the Exchanges and, to avoid any potential conflicts of interest concerning the regulation and oversight of Cboe Trading, certain regulatory services specific to Cboe Trading. The Exchanges remain responsible for the regulation of their TPHs, members and marketplaces, and retain the authority for bringing disciplinary actions against their TPHs and members, although FINRA performs various disciplinary-related functions on behalf of the Exchanges. Over the course of 2019 through 2021 certain regulatory and disciplinary-related functions that FINRA had performed on behalf of the Exchanges have been, or are in the process of being, moved back in-house from FINRA.
+
+Regulatory Services Agreements with NFA and OCC
+
+Through December 31, 2020, the NFA performed regulatory functions on behalf of CFE pursuant to an RSA with CFE. Starting January 1, 2021, these regulatory functions were moved in-house from the NFA. In addition, OCC has also performed and continues to perform certain regulatory functions on behalf of CFE pursuant to an RSA with CFE. CFE also performs other regulatory and disciplinary-related functions in-house. Whether performed under an RSA or in-house, CFE retains overall responsibility for the regulation of its marketplace and for bringing disciplinary actions. CFE is also a party to cooperative and regulatory information sharing agreements with other SROs and is a member of the ISG, described above.
+
+Rule 17d-1 Designations and Rule 17d-2 Agreements
+
+Section 17(d) of the Exchange Act and the related Exchange Act rules permit SROs to allocate certain regulatory responsibilities to avoid duplicative oversight and regulation. Under Exchange Act Rule 17d-1, the SEC designates one SRO to be the designated examining authority (“DEA”) for each broker-dealer that is a member of more than one SRO. The DEA is responsible for the regulatory oversight of the Exchange Act’s financial responsibility rules pertaining to that broker-dealer. Cboe Options is the DEA for several of its TPHs. Cboe Trading’s assigned DEA is FINRA.    
+
+Exchange Act Rule 17d-2 permits SROs to enter into agreements, commonly called Rule 17d-2 agreements, which are approved by the SEC and concern the enforcement of rules applicable to all of those SROs and relating to TPHs and members those SROs have in common. The Exchanges have entered into certain bi-lateral Rule 17d-2 agreements under which FINRA is allocated responsibility for enforcing certain federal securities laws and certain Exchange rules that are common with FINRA rules. The Exchanges have entered into certain other multi-party Rule 17d-2 agreements that allocate responsibility among the participating SROs, which may include the Exchanges, for ensuring that their allocated common members comply with certain rules governing, among other items, options related sales practices, options related market surveillance, insider trading, NMS and consolidated audit trail NMS plan (“CAT”) compliance.
+
+National Market System Plans
+
+We are member participants of several NMS plans including, but not limited to, the following: Cboe Options, C2, BZX, and EDGX are member exchanges in OPRA, which is the designated securities information processor for market information that is generated through the trading of exchange-listed securities options in the United States, and it
+
+22
+
+Table of Contents
+
+disseminates certain core trading information, such as last sale reports and quotations. Cboe Options, BZX, BYX, EDGA, and EDGX also participate in the CTA and the UTP, which perform analogous services for the U.S. equities market. Securities Information Automation Corporation (“SIAC”) acts as the “processor” for OPRA and the CTA/QC Plans. Nasdaq Stock Market, LLC acts as the processor for the Nasdaq Unlisted Trading Privileges Plan.
+
+Cboe Options, C2, BZX, and EDGX are also parties to the Options Order Protection and Locked/Crossed Market Plan, which is designed to prohibit trade-throughs and avoid locked/crossed markets. Cboe Options, C2, BZX, and EDGX are also parties to the Options Listing Procedures Plan, which sets forth the procedures that the options exchanges must follow to list new options. Cboe Options, C2, BZX, BYX, EDGA, and EDGX are also parties to the NMS plan for the selection and reservation of securities symbols.   
+
+Under the Options Regulatory Surveillance Authority Plan (“ORSA Plan”), U.S. securities options exchanges are permitted to act jointly in the administration, operation and maintenance of a regulatory system for the surveillance, investigation and detection of the unlawful use of undisclosed, material information in trading in one or more of their markets. The ORSA Plan is intended to enhance the effectiveness and efficiency with which the exchanges regulate their respective markets and to avoid duplication of certain regulatory efforts. FINRA operates the ORSA Plan facility.
+
+The CAT involves the creation of a comprehensive audit trail that strives to enhance regulators’ ability to monitor trading activity in the U.S. securities markets through a phased implementation. Upon final implementation of the provisions of the CAT, data will be required to be reported to a central repository the following day by each SRO (a “Plan Participant”) and broker-dealer (an “Industry Member”). On November 15, 2016, the SEC approved the CAT. The first of various phases of CAT were originally required to begin in November 2017; however, there have been some delays. In 2017, Thesys CAT LLC (“Thesys”), a subsidiary of Thesys Technologies, LLC, was selected as the plan processor with the responsibility to build and operate the CAT. The first phase of CAT ultimately went live in November 2018, at which time we and other SROs/Plan Participants began initial reporting to the CAT. In 2019, Thesys was replaced by a new plan processor, FINRA CAT, LLC, a subsidiary of FINRA. The second phase for Industry Member order and trade file submissions is now live and began in June 2020 (for equities) and July 2020 (for options), with additional sub-phases related to order and trade file submissions carrying through December 2021 (or by subsequent dates in the event the current deadlines are extended). The final implementation sub-phase, related to broker-dealer customer and account information submissions by Industry Members, is now scheduled to go live in July 2022 (or by a subsequent date in the event the current deadline is extended). While the funding of the CAT is ultimately expected to be provided by both the SROs/Plan Participants (which includes our securities exchanges) and Industry Members, until fee filings associated with the funding model are effective with or approved by the SEC, the funding to date has solely been provided by the SROs/Plan Participants. The funding by the SROs/Plan Participants has been done in exchange for promissory notes expected to be repaid once such Industry Member fees are collected. Until those fees are collected, the SROs/Plan Participants may continue to incur additional significant costs, including as a result of replacing the plan processor, or result in the uncollectibility of promissory notes related to the funding of the implementation and operation of the CAT. See Note 9 (“Credit Losses”) and Note 10 (“Other Assets, Net”) for further information. In addition, on February 14, 2021, Consolidated Audit Trail, LLC, formed by SRO Plan Participants to implement the CAT requirements, filed motions to stay all or portions of two exemptive orders the SEC issued on December 16, 2020 related to the implementation of the CAT. On February 16, 2021, Consolidated Audit Trail, LLC also petitioned the U.S. Court of Appeals for the District of Columbia Circuit for judicial review of the two exemptive orders, asserting that the orders are unlawful.
+
+Intellectual Property
+
+We own or have rights to a number of intellectual property assets, including trademarks, service marks, domain names, trade names, copyrights, trade secrets and patents. While the majority of our intellectual property is protected under U.S. law, we have many intellectual property assets protected by laws in Europe, Asia and other parts of the world. We license some intellectual property assets to other entities. We attempt to protect our intellectual property rights, while respecting the legitimate intellectual property rights of others.
+
+Human Capital Management
+
+Cboe has a robust human capital management program in place focused on equal opportunities, performance and career development, health and well-being, comprehensive benefits, training and succession planning. Additional information on our approach to human capital and ESG issues can be found in the Cboe Global Markets, Inc. Environmental, Social and Governance Report located in the Corporate Social Responsibility section of our website at https://markets.cboe.com/about/corporate-social-responsibility, which does not form a part of this Form 10-K.
+
+23
+
+Table of Contents
+
+Equal Opportunity, Diversity, and Pay Equity
+
+Cboe believes in a culture of diversity and inclusion that promotes creativity, collaboration and innovation, which is critical to the success of our business and defining the markets of tomorrow. Cboe is an equal opportunity employer and provides equal employment opportunities to all qualified persons without regard to sex, race, color, ethnicity, creed, religion, national origin, ancestry, citizenship status, age, veteran or military status, disability, marital status, domestic partnership or civil union status, pregnancy, sexual orientation, genetic status, gender identity or expression, and any other characteristic protected by law (a “Protected Characteristic”). Cboe is committed to applying our Equal Employment Opportunity Policy to all employment practices that impact the terms and conditions of employment including, but not limited to, hiring, evaluation, discipline, promotion, training, compensation, transfer, and termination. Actively nurturing and maintaining a diverse and inclusive culture at Cboe is a core imperative. We believe that our collective and unique perspectives fuel our capabilities, enhance our team spirit and enable us to attract and retain top talent as we define the markets of the future. Our commitment and responsibility in this regard starts at the top, with full Cboe Board of Directors and executive team support.
+
+One of the most compelling examples of our pledge to equality, diversity and inclusion throughout our company is the completion of our first pay equity study in 2019. In 2020, we finalized the implementation of the findings of our inaugural study. To maintain and strengthen our efforts in this area, we also review the critical touchpoints across the employee journey with Cboe to keep a level playing field, from the talent selection, promotion, leadership development and succession planning processes and make adjustments, as necessary, to ensure opportunity parity across the company. Our goal is to ensure that equal pay and equal opportunity for all that results in a collaborative, high performing organization bringing new innovations to market and providing superior service to our customers.
+
+The Cboe Women’s Initiative was launched in November 2019 and includes more than 70 women working toward its mission: to increase representation, strengthen voices, and build a culture of opportunity and advancement for the women of Cboe. The Women’s Initiative is led by a group of senior-level Cboe women, has broad representation across Cboe’s global footprint and enjoys the support of Cboe’s management and Human Resources. More specifically, the Women’s Initiative is comprised of four committees that target areas where its membership strives to promote change, such as networking, enhancing recruitment and retention, highlighting benefits and resources for women at Cboe, and building a formal mentorship program at Cboe. In addition, there were several networking opportunities throughout the year for the women of Cboe. These events included the inaugural “Women Trailblazers” events where senior women share their success stories through personal accounts of career growth and impact. In March of 2020, we also celebrated International Women’s Day globally with several fireside chat events with Cboe Board of Directors members.
+
+We are also proud to share that Cboe recently formed an employee Diversity Leadership Council in 2020 focused on unlocking the potential of a variety of perspectives, capabilities and cultural experiences. We believe in a culture of diversity and inclusion that promotes creativity, collaboration and innovation, which is critical to the success of our business and defining the markets of tomorrow. To reinforce this belief, this council is a collective voice on how Cboe strives to create a diverse workforce that reflects the world in which we operate. Further, they are charged with oversight on how we build an inclusive culture where every employee feels welcome, safe and empowered.
+
+To reinforce our commitment to organizational wide education and commitment to diversity and inclusion we provided a full-day Unconscious Bias training through third-party experts for all managers around the globe in 2020 with the commitment to continue the rollout of this program for all employees.
+
+Performance and Career Development
+
+Cboe expects employees to perform their duties to the best of their ability and to develop their competencies for career growth. We recognize the need to provide ongoing, timely, and constructive performance feedback. Cboe has designed a Performance Management Program that drives the professional development of our employees while also providing fair and equitable rewards and recognition. The principles of performance management include:
+	●	align performance expectations with strategy and goals of the business,
+	●	ongoing open dialogue regarding performance and development,
+	●	foster accountability for behaviors and actions which contribute to a positive culture, and
+
+24
+
+Table of Contents
+	●	commitment to deliver results which drive our business.
+
+We continued to strengthen our talent management processes in 2020 by instituting career conversations that were enabled through specially designed toolkits for both employees and managers to support regular, valuable conversations focused on improvement, development and retention.
+
+Employee Health and Well-Being and Comprehensive Benefits Program
+
+Cboe’s vision is to support the overall wellness of employees and their families through education and activities that encourage a healthy lifestyle, resulting in improved health and productivity. Our programs and benefit plans provide a corporate atmosphere of collective well-being that incorporate strategies for physical, emotional, mental and financial wellness. Our programs focused on enhanced employee assistance programs, wellness programs and challenges, that include both mental and physical wellbeing, and webinars and classes through our retirement vendor to support the financial health of our employees.
+
+To further these efforts, we launched the CboeFit program that creates an opportunity to elevate these programs and strengthen employee engagement as we execute against our wellness vision and strategies. With the global pandemic in 2020, there was further focus on our Employee Assistance program that was strengthened across the globe with a diverse set of mental health resources aimed at supporting our employees during a unique and challenging time.
+
+Employee Engagement and Pulse Surveys, Town Halls and an Open-Door Policy
+
+In 2020, Cboe conducted our third annual employee engagement survey and has implemented career, leadership, and culture focused programs in response to the survey findings. Our participation rate exceeds standard benchmarks and a significant majority of our employees would recommend Cboe as a great place to work. To further cement our commitment to Diversity and Inclusion, we added new, enhanced questions in this area. Our Diversity Leadership Council hosted a special focus group to review these specific results to listen to the voices of our diverse population, prioritize their feedback and ideas, and create commitments for actionable improvements.
+
+ Our senior management team continues to hold the commitment to an open-door policy and encourages the free flow of information and communication in furtherance of active transparency. With the 2020 pandemic, our ability to tap into the voice of our employees was critically important. We conducted regular pulse surveys to gauge sentiment in making critical decisions. Our CEO also issues weekly letters to help connect with our employees. Human Resources also provided ongoing regular resources and tips to help support the variety of challenges from the new reality of fully remote work to childcare and elder care that our employees faced throughout 2020.  
+
+Cboe also continues to create an open and frank atmosphere in which any grievance, complaint, suggestion or question receives a timely response. Cboe offers a whistleblower hotline for complaints, which can be made anonymously. Additionally, employees can raise questions and suggestions to the Cboe Human Resources team either in-person or via a group email address and are either responded to individually or addressed at our Global Town Hall meetings. The objective of these town halls is to provide employees an update on company news, share updates from major business lines, as well as provide a forum to ask questions and offer feedback. Town halls can include updates on anything from legislation that may impact our business to ESG topics. Employees are encouraged to participate in free flow of information and communication and to offer positive and constructive feedback in furtherance of active transparency.
+
+Training and Succession Planning
+
+The development of all employees at Cboe is vitally important to our collective success. Through skill and competency development we signal our investment in all while also enabling enhanced productivity. Through our tuition reimbursement program, our employees receive financial support in their pursuit of specialized university courses and degrees. In addition to our ongoing offering of online courses on diverse topics through our corporate university, CboeU, we also provided new learning programs in 2020. We also have employees participate in the newly launched CboeLearns hybrid program focused on virtual classroom instruction combined with work application. Additionally, we had employees participate in another new program, CboeLive, focused on business topics to foster organizational-wide knowledge sharing and education.  
+
+Leadership is another critical element to our success at Cboe. People managers globally participated in a two-day training focused on the “4 Essential Roles of Leadership” (1. Inspire Trust; 2. Create Vision; 3. Execute Strategy; 4. Coach
+
+25
+
+Table of Contents
+
+Potential). We expanded on our leadership training through the design and launch of a bespoke 8-week program, CboeLeads, expanding on the development of our high potential leaders further strengthening the leadership bench and accelerating readiness of this key talent pool. The senior management team participated in an additional one-day workshop focused on their roles that was also accompanied by Leadership toolkits to guide an enhanced approach to coaching and career conversations.
+
+Cboe has held several succession planning discussions with the Compensation Committee and Board of Directors to plan for the fulfillment of essential roles, such as the CEO and other senior officers. This process includes investments in advanced development planning for targeted successors to accelerate their readiness through key internal projects and assignments as well as tailored training. Diversity and inclusion are a formal part of Cboe's succession planning process as we work to identify and advance internal diverse talent and, in parallel, continually scan external talent pools for successors.
+
+Employees
+
+As of December 31, 2020, we employed 1,010 individuals, 786 of whom are based in the United States, 113 of whom are located in London, 7 of whom are located in Belfast, Northern Ireland, 12 of whom are located in Ecuador, 6 of whom are located in Ontario, Canada, 15 of whom are located in Calgary, Alberta, 65 of whom are located in the Amsterdam, 1 of whom is located in Hong Kong, 3 of whom are located in Singapore, and 2 of whom are located in Switzerland. Of these employees, 355 were involved in technology or operations and 106 were involved in direct support of trading operations. The remaining 549 employees provide business development, financial, regulation, human resources, compliance, legal, planning and research, administrative and managerial support.    
+
+We have 8 building engineers that are covered by a collective bargaining agreement, which expires on May 31, 2021, with the International Union of Operating Engineers Local 399, AFL-CIO. Management believes that we have strong relationships with our employees, and we have never experienced a work stoppage.       
+
+Information about our Executive Officers
+
+Set forth below is information regarding our executive officers:
+	
+	
+	
+	
+
+Name
+	
+
+    
+	
+
+Age
+	
+
+    
+	
+
+Position
+
+Edward T. Tilly
+	
+
+	
+
+57
+	
+
+	
+
+Chairman of the Board, President and Chief Executive Officer
+
+Christopher A. Isaacson
+	
+
+	
+
+42
+	
+
+	
+
+Executive Vice President and Chief Operating Officer
+
+Brian N. Schell
+	
+
+	
+
+55
+	
+
+	
+
+Executive Vice President, Chief Financial Officer and Treasurer
+
+John F. Deters
+	
+
+	
+
+50
+	
+
+	
+
+Executive Vice President, Chief Strategy Officer
+
+Bryan Harkins
+	
+
+	
+
+44
+	
+
+	
+
+Executive Vice President, Head of Markets Division
+
+David Howson
+	
+
+	
+
+44
+	
+
+	
+
+Executive Vice President, President Europe
+
+Patrick Sexton
+	
+
+	
+
+56
+	
+
+	
+
+Executive Vice President, General Counsel and Corporate Secretary
+
+Jill M. Griebenow
+	
+
+	
+
+41
+	
+
+	
+
+Senior Vice President, Chief Accounting Officer
+
+Edward T. Tilly. Mr. Tilly is our Chairman, President and Chief Executive Officer. Mr. Tilly has served as our President since January 2019, Chairman since February 2017 and as CEO and director since May 2013. Prior to becoming CEO, Mr. Tilly served as President and Chief Operating Officer from November 2011, and Executive Vice Chairman from August 2006 until November 2011. He was a member of CBOE from 1989 until 2006, and served as Member Vice Chairman from 2004 through July 2006. He holds a B.A. degree in Economics from Northwestern University.  
+
+Christopher A. Isaacson. Mr. Isaacson is our Executive Vice President and Chief Operating Officer, a position he has held since January 2019. Previously he was our Executive Vice President and Chief Information Officer, a position he was appointed to upon the Company’s acquisition of Bats. Prior to that, he served as Bats' Executive Vice President and Global Chief Information Officer since February 2014, he served as Bats' Senior Vice President and Chief Operation Officer from 2007 to 2014 and he has held other various senior leadership positions since 2005. Prior to being one of the founders of Bats, Mr. Isaacson was a software developer at Tradebot Systems, Inc. from 2003 to 2005. Mr. Isaacson serves on the board of directors of CFE, SEF, and OCC. Mr. Isaacson holds a B.S. degree in information systems with a minor in math from Nebraska Wesleyan University and an M.B.A. degree from the University of Nebraska-Lincoln.    
+
+Brian N. Schell. Mr. Schell is our Executive Vice President, Chief Financial Officer and Treasurer, a position he has held since January 2018. Previously, he was Deputy Chief Financial Officer of the Company’s subsidiary Cboe Exchange,
+
+26
+
+Table of Contents
+
+Inc., a position he was appointed to upon the Company’s acquisition of Bats. Prior to that, he served as Chief Financial Officer of Bats since March 2011. Prior to joining Bats, he held various senior leadership positions at H&R Block Inc., as well as various positions at the FDIC, KPMG and JP Morgan. Mr. Schell holds a B.B.A. degree with an emphasis in finance from the University of Notre Dame and an M.B.A. degree from The George Washington University.      
+
+John F. Deters. Mr. Deters is our Executive Vice President, Chief Strategy Officer, a position he has held since 2018. He has previously served as our Head of Multi-Asset Solutions from 2018 to 2019 and as Chief Strategy Officer from 2013 to 2018. Prior to joining Cboe in 2013, Mr. Deters was most recently a Vice President and Investment Banker of Financial Institutions Group, Investment Banking at Barclays from 2008 to 2013. Mr. Deters holds a B.A. degree from Wheaton College, an M.B.A. degree from the University of Chicago, and a J.D./M.S. dual degree from Georgetown University Law Center.
+
+Bryan Harkins. Mr. Harkins is our Executive Vice President, Head of Markets Division, a position he has held since June 2019. He has also previously served as our Co-Head of Markets Division from March 2018 to June 2019. Previously, he was Head of Equities and Global FX of the Company’s subsidiaries, a position he was appointed to upon the Company’s acquisition of Bats. Prior to that, he served as Executive Vice President, Head of U.S. Markets of Bats since January 2014. Prior to the Direct Edge acquisition by Bats in January 2014 when Mr. Harkins first joined Bats, Mr. Harkins served as Chief Operating Officer of Direct Edge, where he worked since 2007. Mr. Harkins holds a B.A. degree from the University of Notre Dame and an M.B.A. degree from New York University's Stern School of Business.  
+
+David Howson. Mr. Howson is our Executive Vice President, President Europe, a position he has held since January 2020. Previously, he was Chief Operating Officer of Cboe Europe from 2013 to 2019. Prior to that, he served as Founder, Chief Technology Officer of Equiduct from April 2006 through June 2013. Mr. Howson holds a First Class Honours bachelor's degree from the University of Newcastle-upon-Tyne.
+
+Patrick Sexton. Mr. Sexton is our Executive Vice President, General Counsel and Corporate Secretary, a position he has held since March 2018. Previously, he was Deputy General Counsel of the Company’s subsidiary Cboe Exchange, Inc. He served in that capacity from July 2013 to March 2018 and has acted as legal, regulatory and compliance counsel with increasing responsibility and oversight since joining the Company in 1997. Mr. Sexton holds a B.A. degree from the University of Notre Dame and a J.D. degree with honors from Notre Dame Law School.
+
+Jill M. Griebenow. Ms. Griebenow is our Senior Vice President, Chief Accounting Officer, a position she has held since August 2018. Previously, she served as Chief Financial Officer, Europe of the Company's subsidiary Cboe Europe, a position she was appointed to upon the Company’s acquisition of Bats. She also previously served as Chief Financial Officer, Europe of Bats’ subsidiary Bats Europe Limited since February 2014 and was employed by Bats in the financial area since 2011. Prior to that, she held various positions at Ernst & Young LLP. Ms. Griebenow is a certified public accountant and holds a bachelor's degree in accounting from the University of Northern Iowa.  
+
+Corporate Social Responsibility
+
+The Company recognizes that operating in a socially responsible manner helps promote the long-term interests of our stockholders, organization, associates, industry and community. Our guiding principles help us deliver on our corporate mission and strategy, including good citizenship.     
+	●	Active Transparency – A commitment to proactively sharing information and knowledge.
+	●	Creative Collaboration – An enthusiasm for working with our customers and partners to advance innovation.
+	●	Competitive Spirit – A will to succeed and be the best.
+	●	Superior Service – A drive to understand needs and exceed expectations.
+	●	Good Citizenship – A dedication to the betterment of our markets, workplace and community.
+
+We believe that being a good citizen means that we hold ourselves accountable for the integrity of the markets and to the communities we serve, seek to help resolve conflicts and build consensus, inform those impacted before taking action, lead by example and serve as part of the solution. We also seek to be good citizens to the communities we serve by being committed to being environmentally conscious. Additionally, being good citizens also means that we strive to
+
+27
+
+Table of Contents
+
+support our associates and better serve our industry and community through our human capital development, volunteerism and policies. See “Human Capital Management” subsection above for more information.
+
+Additional information on our approach to ESG can be found in the 2020 Cboe Global Markets, Inc. Environmental, Social and Governance Report located in the Corporate Social Responsibility section of our website at http://www.Cboe.com/aboutCboe, which does not form a part of this Form 10-K.
+
+Available Information
+
+Our website is www.cboe.com. The Company files annual, quarterly and current reports, proxy statements and other information with the SEC under the Exchange Act. The Company makes available, free of charge, on its website its annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act, as soon as reasonably practicable after such reports are electronically filed with, or furnished to, the SEC. The Company's reports filed with, or furnished to, the SEC are also available on the SEC's website at www.sec.gov.
+
+In addition, we have posted on our website the charters for our (i) Audit Committee, (ii) Compensation Committee, and (iii) Nominating and Governance Committee, as well as our Code of Business Conduct and Ethics and Corporate Governance Guidelines. We will provide a copy of these documents without charge to stockholders upon written request to Investor Relations, Cboe Global Markets, Inc., 400 South LaSalle Street, Chicago, Illinois 60605. Our website and information included in or linked to our website are not part of this Form 10-K.

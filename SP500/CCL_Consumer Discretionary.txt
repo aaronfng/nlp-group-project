@@ -1,0 +1,681 @@
+
+I.Summary
+
+Carnival Corporation was incorporated in Panama in 1974 and Carnival plc was incorporated in England and Wales in 2000. Carnival Corporation and Carnival plc operate a dual listed company (“DLC”), whereby the businesses of Carnival Corporation and Carnival plc are combined through a number of contracts and through provisions in Carnival Corporation’s Articles of Incorporation and By-Laws and Carnival plc’s Articles of Association. The two companies operate as if they are a single economic enterprise with a single senior executive management team and identical Boards of Directors, but each has retained its separate legal identity. Carnival Corporation and Carnival plc are both public companies with separate stock exchange listings and their own shareholders. Together with their consolidated subsidiaries, Carnival Corporation and Carnival plc are referred to collectively in this Form 10-K as “Carnival Corporation & plc,” “our,” “us” and “we.” We are one of the world’s largest leisure travel companies with operations in North America, Australia, Europe and Asia.
+
+II.    Recent Developments
+
+In the face of the global impact of COVID-19, we paused our guest cruise operations in mid-March. In response to this unprecedented situation, we acted to protect the health and safety of guests and shipboard team members, optimize the pause in guest operations and increase our liquidity position. In September, we began the resumption of limited guest operations as part of our phased-in return to service. As of January 14, 2021, none of our ships were operating with guests onboard. We anticipate a gradual return to service over time. As we have never previously experienced a complete cessation of our guest cruise operations, we cannot predict the timing of our complete return to service and when various ports will reopen to our ships.
+
+Protecting the Health and Safety of Guests and Team Members
+
+Early in the pause period, we returned over 260,000 guests to their homes, coordinating with a large number of countries around the globe. We chartered aircraft, utilized commercial flights and even used our ships to sail home guests who could not fly. We also worked around the clock with various local governmental authorities to repatriate our shipboard team members as quickly as possible, using our ships and chartering hundreds of planes. We focused on the physical and mental health of our shipboard team members who experienced extended stays onboard during our repatriation efforts. Wherever possible, we provided shipboard team members with single occupancy cabin accommodations, many with a window or balcony. Shipboard team members also had access to fresh air and other areas of the ship, movies and internet, and available counseling. We were able to successfully repatriate our shipboard team members to more than 130 countries around the globe, other than the safe manning team members who remained on the ships.
+
+We also implemented significant changes in the way we work, pivoting our shoreside operations to allow for remote working, where possible, in order to facilitate physical distancing protocols. We believe these measures are critical to helping keep our employees, their families and the communities in which we work safe and healthy.
+
+Optimizing the Pause in Guest Operations
+
+While our highest responsibility and top priorities remain focused on maintaining compliance everywhere we operate, protecting the environment and the health, safety and well-being of our guests, the people in the communities we touch and serve, and our shipboard and shoreside employees, we significantly reduced operating expenses by transitioning ships into pause status, reducing marketing and selling expenses, implementing a combination of layoffs, furloughs, reduced work weeks and salary and benefit reductions across the company, including senior management, instituting a hiring freeze across the organization and significantly reducing consultant and contractor roles. In addition, we reduced non-newbuild capital expenditures.
+
+Optimizing the Future Fleet
+
+We expect future capacity to be moderated by the phased re-entry of our ships, the removal of capacity from our fleet and delays in new ship deliveries. Since the pause in guest operations, we have accelerated the removal of ships in 2020 which were previously expected to be sold over the ensuing years. We now expect to dispose of 19 ships, 15 of which have already left the
+4
+
+fleet as of January 14, 2021. In total, the 19 ships represent approximately 13 percent of pre-pause capacity and only three percent of operating income in 2019. The sale of less efficient ships is expected to result in future operating expense efficiencies of approximately two percent per available lower berth day ("ALBD") and a reduction in fuel consumption of approximately one percent per ALBD.
+
+Since the pause in guest cruise operations began and through November 30, 2020, we have taken delivery of only two (Enchanted Princess and Iona) of the four ships originally scheduled for delivery in fiscal 2020. Subsequent to November 30, 2020 and through January 14, 2021, we took delivery of two additional ships (Mardi Gras and Costa Firenze). We expect only one more ship to be delivered in fiscal 2021 compared to five ships that were originally scheduled for delivery in fiscal 2021.
+
+Based on the actions taken to date and the scheduled newbuild deliveries through 2022, our fleet is expected to only experience a 1.9 percent compounded annual average capacity growth rate through 2022, be more cost efficient with a roughly 14 percent larger average berth size per ship and an average age of 12 years in 2022 versus 13 years, in each of these cases as compared to 2019.
+
+Liquidity
+
+We have taken, and continue to take, significant actions to preserve cash and obtain additional capital to increase our liquidity. Since March 2020 we have raised $19 billion through a series of transactions.
+
+Refer to "Liquidity, Financial Condition and Capital Resources", Note 1 - “Liquidity and Management’s Plans” and “Critical Accounting Estimates, Liquidity and COVID-19” for additional discussion regarding our liquidity.
+
+Resumption of Guest Operations
+
+We resumed limited guest operations in September 2020, with Costa Cruises ("Costa") and then with AIDA Cruises ("AIDA") in October 2020. The initial cruises will continue to take place with adjusted passenger capacity and enhanced health protocols developed with government and health authorities, and guidance from our roster of medical and scientific experts. As of January 14, 2021, none of our ships were operating with guests onboard. These and other brands and ships are expected to return to service over time, as part of our goal to provide guests with unmatched joyful vacations in a manner consistent with our vision regarding our highest priorities, which are compliance, environmental protection and the health, safety and well-being of our guests, crew, shoreside employees and the people in the communities our ships visit.
+
+Health and Safety Protocols
+
+As the understanding of COVID-19 continues to evolve, we have been working with a number of world-leading public health, epidemiological and policy experts to support our ongoing efforts with enhanced protocols and procedures for the return of cruise vacations. These advisors will continue to provide guidance based on the latest scientific evidence and best practices for protection and mitigation, as well as regulatory requirements.
+
+Working with governments, national health authorities and medical experts, Costa and AIDA have a comprehensive set of health and hygiene protocols that has helped facilitate a safe and healthy return to cruise vacations. These enhanced protocols are modeled after shoreside health and mitigation guidelines as provided by each brand's respective country, and approved by all relevant regulatory authorities of the flag state, Italy. Protocols will be updated based on evolving scientific and medical knowledge related to mitigation strategies. Costa is the first cruise company to earn the Biosafety Trust Certification from Registro Italiano Navale ("RINA"). The certification process examined all aspects of life onboard and ashore and assessed the compliance of the system with procedures aimed at the prevention and control of infections.
+
+We are also working directly with the Centers for Disease Control and Prevention (“CDC”) on the development of protocols necessary to resume cruising from the United States. We, in conjunction with our advisors, are currently evaluating the requirements set forth in the CDC’s Framework for Conditional Sailing Order effective as of October 30, 2020. The current framework consists of several initial requirements that cruise ship operators will need to follow prior to resuming guest operations. Further, the current framework is subject to additional technical instructions and orders from the CDC and may change based on public health considerations. While the current framework represents an important step in our return to service, many uncertainties remain.
+
+The requirements outlined in the CDC’s current framework include:
+
+5
+
+•Establishment of laboratory testing of crew and guests onboard cruise ships in U.S. waters and upon embarkation and disembarkation
+•Simulated voyages designed to test a cruise ship operators’ ability to mitigate COVID-19 on cruise ships
+•Meeting and maintaining requirements for a Conditional Sailing Certificate, which include, among other things:
+◦implementing the required testing protocols,
+◦a prohibition on offering itineraries longer than seven days and
+◦the demonstration, at each port where a ship intends to dock, of approval with U.S. port and local health authorities, which requires:
+▪medical care agreements addressing evacuation to onshore hospitals,
+▪housing agreements with onshore facilities for isolation and quarantine of COVID-19 cases and
+▪port agreements to limit the number of cruise ships at any single port
+•A return to passenger voyages in a manner that mitigates the risk of COVID-19 introduction, transmission, or spread among passengers and crew onboard ships and ashore to communities
+
+Our plans to resume U.S. operations will be designed to comply with the numerous requirements in the CDC’s framework. We continue to work closely with governments and health authorities in other parts of the world to ensure that our health and safety protocols will also comply with the requirements of each location. Implementing these initial and subsequent requirements may result in an increase in cost and take time before the continued resumption of our guest operations.
+
+
+III. Vision, Goals and Related Strategies
+
+At Carnival Corporation & plc, our highest responsibility and top priorities are to be in compliance everywhere we operate in the world, to protect the environment and the health, safety and well-being of our guests, the people in the communities we touch and serve and our shipboard and shoreside employees. On this foundation, we aspire to deliver unmatched joyful vacations for our guests, always exceeding their expectations and in doing so driving outstanding shareholder value. We are committed to a positive and just corporate culture, based on inclusion and the power of diversity. We operate with integrity, trust and respect for each other -- communicating, coordinating and collaborating while seeking candor, openness and transparency at all times. And we aspire to be an exemplary corporate citizen leaving the people and the places we touch even better.
+
+We believe our portfolio of brands is instrumental to achieving our vision. Paramount to the success of our business is our commitment to health, environment, safety, security (“HESS”) and sustainability. We are committed to enhancing a culture of compliance and integrity that adheres to applicable legal and statutory requirements and the highest ethical principles. Our vision is based on four key pillars:
+
+•Health, environment, safety, security and sustainability
+•Guests
+•Employees
+•Shareholders and other stakeholders
+
+Health, Environment, Safety, Security and Sustainability
+
+We are committed to operating a safe and reliable fleet and to protect the environment and the health, safety and well-being of our guests, the people in the communities we touch and our shipboard and shoreside employees. We are dedicated to fully complying with, or exceeding, all legal and statutory requirements applicable to us related to health, environment, safety, security and sustainability throughout our business.
+
+Guests
+
+Our goal is to consistently exceed our guests’ expectations while providing them with a wide variety of safe and exceptional vacation experiences. We believe that we can achieve this goal by continually focusing our efforts on helping our guests choose the cruise brand that will best meet their unique needs and desires, improving their overall vacation experiences and building state-of-the-art ships with innovative onboard offerings and providing unequaled service to our guests.
+
+Employees
+
+Our goal is to foster a positive and just corporate culture, based on inclusion and the power of diversity that supports the recruitment, development and retention of the finest employees. A team of highly motivated and engaged employees is key to delivering vacation experiences that exceed our guests’ expectations. Understanding the critical skills that are needed for
+6
+
+outstanding performance is crucial in order to hire and train our officers, crew and shoreside personnel. We believe in building trust based relationships and listening to and acting upon our employees’ perspectives and ideas and use employee feedback tools to monitor and improve our progress in this area. We are a diverse organization and value and support our talented and diverse employee base. We are committed to employing people from around the world and hiring them based on the quality of their experience, skills, education and character, without regard for their identification with any group or classification of people.
+
+Shareholders and Other Stakeholders
+
+We value the relationships we have with our shareholders and other stakeholders, including travel agents, trade associations, communities, regulatory bodies, media, creditors, insurers, shipbuilders, governments and suppliers. Strong relationships with our travel agent partners are especially vital to our success. We believe that engaging stakeholders in a mutually beneficial manner is critical to our long-term success. As part of this effort, we believe we must continue to be an outstanding corporate citizen in the communities in which we operate. Our brands work to meet or exceed their economic, environmental, ethical and legal responsibilities.
+
+B. Global Cruise Industry
+
+I. Overview
+
+In the face of the global impact of COVID-19, the global cruise industry paused guest cruise operations. While certain cruise lines have begun the resumption of limited guest operations, initially focusing on shorter cruise durations within select geographic areas and with a focus on local and regional itineraries, we anticipate a gradual return to service over time.
+
+We believe cruising offers a broad range of products and services to suit vacationing guests of many ages, backgrounds and interests. Each brand in our portfolio meets the needs of a unique set of consumer psychographics and vacation needs which allows us to penetrate large addressable customer segments. The mobility of cruise ships enables us to move our vessels between regions in order to meet changing demand across different geographic areas.
+
+Cruise brands can be broadly classified as offering contemporary, premium and luxury cruise experiences. The contemporary experience has a more casual ambiance and historically includes cruises that last seven days or less. The premium experience emphasizes quality, comfort, style and more destination-focused itineraries and appeals to those who are more affluent. Historically, the premium experience includes cruises that last from seven to 14 days. The luxury experience is usually characterized by very high standards of accommodation and service, smaller vessel size and exotic itineraries to ports that are inaccessible by larger ships. We have product and service offerings in each of these three broad classifications.
+    
+II. Passenger Capacity and Cruise Guests Carried by Ocean Going Vessels
+
+																							
+(in thousands)	Average Passenger Capacity (a)		Cruise Guests Carried
+
+Year
+	 Global
+Cruise Industry (b)		 Carnival
+Corporation & plc		 Global
+Cruise Industry (c)		 Carnival
+Corporation & plc
+2018	520		230		28,500		12,400
+2019	550		240		30,100		12,900
+
+Due to the impact of COVID-19 on the global cruise industry in 2020, current year data is not meaningful and is not included in the table.
+
+(a)In accordance with cruise industry practice, passenger capacity is calculated based on the assumption of two passengers per cabin even though some cabins can accommodate three or more passengers.
+(b)Amounts were based on internal estimates using public industry data.
+(c)The global cruise guests carried for 2018 and 2019 were obtained from G.P. Wild, an independent cruise research company.
+
+7
+
+C. Our Global Cruise Business
+
+I. Segment Information
+																	
+	Ships expected to return to service as of November 30, 2020 (a)
+	Passenger Capacity		Percentage of Total Capacity		Number of Cruise Ships
+North America and Australia ("NAA") Segment					
+   Carnival Cruise Line	66,440		29 	%		23
+   Princess Cruises	42,610		18 			14
+   Holland America Line	18,820		9 			9
+   P&O Cruises (Australia)	7,230		3 			3
+   Seabourn	2,570		1 			5
+	137,670		60 			54 	
+					
+Europe and Asia (“EA”) Segment					
+   Costa Cruises ("Costa")	34,980		15 			11
+   AIDA Cruises ("AIDA")	31,930		14 			14
+   P&O Cruises (UK)	19,020		8 			6
+   Cunard	6,830		3 			3
+	92,760		40 			34 	
+	230,430		100 	%		88 	
+					
+(a)Excludes one ship that left the fleet after November 30, 2020 and four additional ships that are expected to leave the fleet through May 2021.
+
+We also have a Cruise Support segment that includes our portfolio of leading port destinations and other services, all of which are operated for the benefit of our cruise brands.
+
+In addition to our cruise operations, we own Holland America Princess Alaska Tours, the leading tour company in Alaska and the Canadian Yukon, which complements our Alaska cruise operations. Our tour company owns and operates hotels, lodges, glass-domed railcars and motorcoaches which comprise our Tour and Other segment.
+8
+
+II. Ships Under Contract for Construction
+
+As of November 30, 2020, we have a total of 14 cruise ships expected to be delivered through 2025. Our ship construction contracts are with Fincantieri and MARIOTTI in Italy, Meyer Werft in Germany and Meyer Turku in Finland.
+											
+	  Expected Delivery Date		 Passenger Capacity
+Lower Berth
+   Carnival Cruise Line 			
+Mardi Gras	December 2020		5,250 	
+Carnival Celebration	November 2022		5,250 	
+   Princess Cruises			
+Discovery Princess	January 2022		3,660 	
+Newbuild (a)	November 2023		4,280 	
+Newbuild (a)	May 2025		4,280 	
+   Holland America Line 			
+Rotterdam	July 2021		2,660 	
+   Seabourn			
+Seabourn Venture	December 2021		260 	
+Newbuild	October 2022		260 	
+   Costa			
+Costa Firenze	December 2020		4,240 	
+Costa Toscana	December 2021		5,330 	
+   AIDA			
+AIDAcosma	December 2021		5,440 	
+Newbuild	October 2023		5,440 	
+   P&O Cruises (UK)			
+Newbuild	December 2022		5,190 	
+   Cunard			
+Newbuild	December 2023		3,000 	
+    
+(a)Ship under Memorandum of Agreement and subject to financing.
+9
+
+III. Cruise Brands
+
+ccl-20201130_g2.jpg
+Carnival Cruise Line is “The World’s Most Popular Cruise Line®” and provides multi-generational family entertainment at exceptional value to its guests. It is a place where guests can be their most playful selves and choose their fun. Carnival Cruise Line ships are designed to inspire the experience of bringing people together, with limitless opportunities for guests to create their own fun.
+
+ccl-20201130_g3.jpg
+
+For over 50 years, Princess has sailed the world bringing people closer together – by connecting guests to their loved ones, exciting cultures and new friends. The endless choices are enhanced by Princess MedallionClass experiences, which are enabled by a revolutionary wearable that supports a seamless, effortless, and personalized vacation, and are combined with our global destination expertise delivered through programs such as “North to Alaska”.
+
+ccl-20201130_g4.jpg
+
+For more than 145 years, Holland America Line has delivered a distinctively classic, European style of cruising throughout its fleet of mid-sized premium ships. Guests of all ages enjoy immersive travel through engaging experiences onboard and in-depth cultural experiences as part of their exploration of fascinating destinations around the world. Holland America Line believes travel has the power to change the world and has defined their higher purpose to help make the world a better place through opening minds, building connections and inspiring shared humanity.
+
+ccl-20201130_g5.jpg
+
+For almost 90 years, P&O Cruises (Australia) has taken Australians & New Zealanders on dream holidays to the South Pacific filled with amazing entertainment, world-class dining, idyllic destinations and unforgettable onboard experiences. With P&O Cruises (Australia) you can choose to do everything, or nothing at all.
+
+ccl-20201130_g6.jpg
+
+
+10
+
+
+Seabourn’s ultra-luxury resorts at sea represent the most advanced evolution of intimate, small-ship cruising with all ocean-front suites, beautifully designed spaces and exceptionally refined amenities. The official cruise line partner of UNESCO World Heritage, Seabourn offers discerning travelers immersive destination experiences on all seven continents. A variety of prestigious partnerships enhance the ships’ award-winning cuisine, world-class spa & wellness and other onboard enrichments, and our staffs’ unique style of sincere, heartfelt hospitality adds unforgettable Seabourn Moments to every voyage.
+ccl-20201130_g7.gif
+
+Costa delivers Italy’s finest at sea primarily serving guests from Continental Europe and Asia. Costa brings a modern Italian lifestyle to its ships and provides guests with a true European experience that embodies a uniquely Italian passion for life through warm hospitality, entertainment and gastronomy that makes Costa different from any other cruise experience.
+
+ccl-20201130_g8.jpg
+
+AIDA is the leading and most recognized brand in the German cruise market. Its guests enjoy the German inspired active, premium modern lifestyle cruise experience. AIDA provides a cruising wellness holiday in modern comfort where guests feel at home and enjoy consistently excellent service accompanied by the AIDA smile.
+
+ccl-20201130_g9.jpg
+
+P&O Cruises (UK) is Britain’s favorite cruise line, welcoming guests to extraordinary travel experiences designed in a distinctively British way - through a blend of discovery, relaxation and exceptional service catered towards British tastes. P&O Cruises (UK)’s fleet of premium ships deliver authentic travel experiences around the globe, combining style, quality and innovation with a sense of occasion and attention to detail, to create a truly memorable holiday.
+
+ccl-20201130_g10.jpg
+
+
+Over its 180 year history, the iconic Cunard fleet has perfected the timeless art of luxury ocean travel. While onboard, Cunard guests experience unique signature moments, from Cunard’s white gloved afternoon tea service to spectacular gala evening balls to its renowned Insights Speaker program. Guest expectations are exceeded through Cunard’s exemplary White Star Service®, a legacy from the White Star Line. From the moment a guest steps onboard, every detail of their cruise is curated to ensure an enjoyable, memorable and luxurious experience.
+
+11
+
+
+IV. Principal Source Geographic Areas
+
+																				
+	
+ Carnival Corporation & plc
+Cruise Guests Carried
+		
+(in thousands)		2019		2018		
+Brands Mainly Serving
+United States and Canada		7,170		6,790		Carnival Cruise Line, Princess Cruises, Holland America Line, Seabourn and Cunard
+Continental Europe		2,590		2,340		Costa and AIDA
+Asia 		1,110		1,140		Princess Cruises and Costa
+Australia and New Zealand		920		1,020		Carnival Cruise Line, Princess Cruises and
+P&O Cruises (Australia)
+United Kingdom 		780		810		P&O Cruises (UK) and Cunard
+Other		300		310		
+Total		12,870		12,410		
+
+Due to the impact of COVID-19 on the global cruise industry in 2020, current year data is not meaningful and is not included in the table.
+
+12
+
+
+V. Cruise Programs
+
+																	
+		Carnival Corporation & plc
+Percentage of Passenger Capacity by Itinerary
+		2019		2018	
+Caribbean		32 	%		33 	%	
+Europe without Mediterranean		14 			14 		
+Mediterranean		13 			13 		
+Australia and New Zealand		7 			8 		
+Alaska		6 			6 		
+China		4 			5 		
+Other		25 			23 		
+		100 	%		100 	%	
+
+Due to the impact of COVID-19 on the global cruise industry in 2020, current year passenger capacity data by itinerary is not meaningful and is not included in the table.
+13
+
+VI. Cruise Pricing and Payment Terms
+
+Each of our cruise brands publishes prices for the upcoming seasons primarily through the internet, although published materials such as direct mailings are also used. Our brands have multiple pricing levels that vary by source market, category of guest accommodation, ship, season, duration and itinerary. Cruise prices frequently change in a dynamic pricing environment and are impacted by a number of factors, including the number of available cabins for sale in the marketplace and the level of guest demand. Some cruise prices are increased due to higher demand. We offer a variety of special promotions, including early booking, past guest recognition and travel agent programs.
+
+Our bookings are generally taken several months in advance of the cruise departure date. Historically, the longer the cruise itinerary the further in advance the bookings are made. This lead time allows us to manage our prices in relation to demand for available cabins through the use of advanced revenue management capabilities and other initiatives.
+
+The cruise ticket price typically includes the following:
+
+• Accommodations
+• Most meals, including snacks at numerous venues
+• Access to amenities such as swimming pools, water slides, water parks, whirlpools, a health club, and sun decks
+• Child care and supervised youth programs
+• Entertainment, such as theatrical and comedy shows, live music and nightclubs
+• Visits to multiple destinations
+
+We offer value added packages to induce ticket sales to guests and groups and to encourage advance purchase of certain onboard items. These packages are bundled with cruise tickets and sold to guests for a single price rather than as a separate package and may include one or more of the following:
+
+					
+ • Beverage packages	 • Internet packages
+ • Shore excursions	 • Photo packages
+ • Air packages 	 • Onboard spending credits
+ • Specialty restaurants	 • Gratuities
+
+Our brands’ payment terms generally require that a guest pay a deposit to confirm their reservation and then pay the balance due before the departure date. We are providing flexibility to guests with bookings on sailings cancelled due to the pause in cruise operations by allowing guests to receive enhanced future cruise credits ("FCC") or to elect to receive refunds in cash.
+
+14
+
+VII. Seasonality
+
+Our passenger ticket revenues are seasonal. Historically, demand for cruises has been greatest during our third quarter, which includes the Northern Hemisphere summer months, although 2020 has been adversely impacted by COVID-19. This higher demand during the third quarter results in higher ticket prices and occupancy levels and, accordingly, the largest share of our operating income is typically earned during this period. This historical trend has been disrupted by the pause in global cruise operations. In addition, substantially all of Holland America Princess Alaska Tours’ revenue and net income (loss) is generated from May through September in conjunction with Alaska’s cruise season. During 2020, the Alaska cruise season was adversely impacted by the effects of COVID-19.
+
+VIII. Onboard and Other Revenues
+
+Onboard and other activities are provided either directly by us or by independent concessionaires, from which we receive either a percentage of their revenues or a fee. Concession revenues do not have direct expenses because the costs and services incurred for concession revenues are borne by our concessionaires. In 2019, we earned 30% of our revenues from onboard and other revenue goods and services not included in the cruise ticket price including the following:
+					
+•    Beverage sales
+	
+•    Internet and communication services
+•    Casino gaming
+	
+•    Full service spas
+•    Shore excursions
+	
+•    Specialty restaurants
+•    Retail sales
+	
+•    Art sales
+•    Photo sales
+	
+•    Laundry and dry cleaning services
+
+IX. Marketing Activities
+
+We significantly reduced our marketing activities in 2020 due to the pause in global cruise operations as a result of COVID-19. Historically, guest feedback and research have supported the development of our overall marketing and business strategies to drive demand for cruises and increase the number of first-time cruisers. Our goal has always been to increase consumer awareness for cruise vacations and further grow our share of their vacation spend. We measure and evaluate key drivers of guest loyalty and their satisfaction with our products and services that provide valuable insights about guests’ cruise experiences. We closely monitor our net promoter scores, which reflect the likelihood that our guests will recommend our brands’ cruise products and services to friends and family.
+
+Our brands historically have had comprehensive marketing and advertising programs across diverse mediums to promote their products and services to vacationers and our travel agent partners. Each brand’s marketing activities have generally been designed to reach a local region in the local language. Our marketing efforts historically have allowed us to attract new guests online by leveraging the reach and impact of digital marketing and social media. Over time, we have invested in new marketing technologies to deliver more engaging and personalized communications. This has helped us cultivate guests as advocates of our brands, ships, itineraries and onboard products and services.
+
+Substantially all of our cruise brands offer past guest recognition programs that reward repeat guests with special incentives such as reduced fares, gifts, onboard activity discounts, complimentary laundry and internet services, expedited ship embarkation and disembarkation and special onboard activities.
+
+X. Sales Relationships
+
+We primarily sell our cruises through travel agents and tour operators that serve our guests in their local regions. Our individual cruise brands’ relationships with their travel agent partners are generally independent of each of our other brands. Our travel agents relationships are generally not exclusive and travel agents generally receive a base commission, plus the potential of additional commissions, including discounts or complimentary tour conductor cabins, based on the achievement of pre-defined sales volumes. In 2020, we continued to support our travel agent partners by generally protecting commissions on sailings cancelled as a result of COVID-19.
+
+Travel agent partners are an integral part of our long-term cruise distribution network and are critical to our success. We utilize local sales teams to motivate travel agents to support our products and services with competitive sales and pricing policies and joint marketing and advertising programs. We also employ a wide variety of educational programs, including websites, seminars and videos, to train agents on our cruise brands and their products and services. In 2020, due to physical distancing
+15
+
+requirements, we held a variety of virtual training and educational programs to continue to support and develop our travel agent partners.
+
+All of our brands have internet booking engines to allow travel agents to book our cruises. We also support travel agent booking capabilities through global distribution systems. All of our cruise brands have their own consumer websites that provide access to information about their products and services to users and enable their guests to quickly and easily book cruises and other products and services online. These sites interface with our brands’ social networks, blogs and other social media sites, which allow them to develop greater contact and interaction with their guests before, during and after their cruise. We also employ vacation planners who support our sales initiatives by offering our guests one-on-one cruise planning expertise and other services.
+
+    XI. Ethics and Compliance
+
+We believe a clear and strong ethics and compliance culture is imperative for the future success of any corporation. In August 2019, we enhanced our compliance framework and significantly increased the resources we devote to our compliance function by creating an Ethics and Compliance (“E&C”) governance function, as well as an ethics and compliance strategic plan. Our Chief Ethics and Compliance Officer, an executive officer and member of the executive leadership team, leads the effort to promote a strong ethics and compliance culture and further develop our E&C governance function throughout the company. This function involves compliance risk management, improved compliance training programs for our employees, thorough investigations relating to health, environmental and safety incidents and efforts to strengthen our corporate culture. More specifically, the E&C governance function’s strategic plan sets out the following four goals:
+
+•Align and build upon fundamental principles - strengthen culture to support ethics and compliance
+•Be proactive and embrace a risk-based approach - develop a more strategic mindset
+•Assemble the people, platform and processes - organize ethics and compliance leadership, governance and procedures
+•Listen and learn - promote open communications: speaking-up, listening, learning and responding
+
+By taking these measures, we heightened our commitment to operate with integrity, which includes not only complying with applicable laws, but also treating our guests, employees and stakeholders with honesty, transparency and respect. To further heighten the focus on ethics and compliance, the Boards of Directors established the Compliance Committees, which oversee the E&C governance function, maintain regular communications with the Chief Ethics and Compliance Officer and ensure implementation of the E&C governance function’s strategic plan.
+
+In 2020, despite the challenges related to COVID-19, we developed an interim strategic plan, called the Pause Priorities Plan, which included various improvements to be made during the pause in guest cruise operations. These improvements included the following:
+
+•In the environmental arena, we made progress on improving food waste management; developing criteria for bringing back the most qualified environmental and technical talent before we resume guest operations; launching our Fleet Environmental Officer Program to further support, train and coach our environmental officers; developing a new and improved virtual environmental training program for Environmental Officers; and improving our efforts to conduct due diligence on the waste vendors that we engage across the company.
+•For health, safety and security, we have made substantial progress in developing new protocols, installation of filters and testing equipment, and new awareness training to respond to the COVID-19 health crisis and to comply with the CDC’s current framework and the guidelines of other governmental authorities.
+•To strengthen our capabilities to conduct internal investigations of HESS incidents, we revised and improved our investigation procedures and developed new training on root cause analysis.
+•To continue strengthening the corporate culture, we developed a Culture Action Plan, which consists of various activities undertaken throughout 2020 and expected to continue into 2021, including efforts to highlight and incentivize key actions and behaviors, new trainings for managers and leaders, more frequent communications, revised performance evaluations, and culture surveys to measure progress. More specifically, we developed and announced our Culture Essentials, which are the key actions and behaviors we will seek to encourage and reinforce to further strengthen our culture.
+
+XII. Sustainability
+
+We strive to be a company that people want to work for and to be an exemplary global corporate citizen. Our commitment and actions to keep our guests and crew members safe and comfortable, protect the environment, develop and provide opportunities
+16
+
+for our workforce, strengthen stakeholder relations and enhance both the communities where we work as well as the port communities that our ships visit, are reflective of our brands’ core values and vital to our success as a business enterprise.
+
+We voluntarily publish Sustainability Reports that address governance, stakeholder engagement, environmental, labor, human rights, society, product responsibility, economic and other sustainability-related issues and performance indicators. These reports, which are not incorporated in this document but can be viewed at www.carnivalcorp.com, www.carnivalplc.com and www.carnivalsustainability.com, were developed in accordance with the Global Reporting Initiative (GRI) Standards, the global standard for sustainability reporting. We have been publishing Sustainability Reports since 2011.
+
+
+    XIII. Human Capital Management and Employees
+
+Our shipboard and shoreside employees are sourced from over 100 countries. Excluding employees on leave, we reduced the employees onboard our ships throughout 2020 during the pause in guest cruise operations in order to maintain safe manning levels. In 2020 and 2019, we had an average of 58,000 and 92,000 employees onboard the ships we operated. Throughout 2020 we reduced our shoreside operations, resulting in an annual average of 11,000 full-time and 1,000 part-time/seasonal employees. In 2019, we had an average of 12,000 full-time and 2,000 part-time/seasonal employees. Historically, Holland America Princess Alaska Tours significantly increases its work force during the late spring and summer months in connection with the Alaskan cruise season. We have entered into agreements with unions covering certain employees on our ships and in our shoreside hotel and transportation operations. The percentages of our shipboard and shoreside employees that are represented by collective bargaining agreements are 63% and 26%, respectively. We consider our employee and union relationships to be strong.
+
+A team of highly motivated and engaged employees is key to delivering vacation experiences that exceed our guests’ expectations. To facilitate the recruitment, development and retention of our valuable team members, we strive to make Carnival Corporation & plc a diverse, inclusive and safe workplace, with opportunities for our employees to grow and develop in their careers.
+
+Refer to "Recent Developments" for additional discussion regarding health and safety of our team members in light of COVID-19.
+
+a.Talent Development
+
+We believe in the investment in our team members through the training and development of both shoreside and shipboard employees. During the operational pause, our training teams have made significant progress in delivering virtual training to augment the normal training historically completed in-person. We anticipate as we move from the pause into full operations that we will continue to leverage a combination of virtual and in-person training to ensure that our teams are well-prepared to carry out their individual and collective responsibilities.
+
+For our shipboard employees our goal is to be a leader in delivering high quality professional maritime training, as evidenced by the Arison Maritime Center. The Center is home to the Center for Simulator Maritime Training (“CSMART”). The leading edge CSMART Academy features the most advanced bridge and engine room simulator technology and equipment available with the capacity to provide annual professional training for all our bridge and engineering officers. CSMART participants receive a maritime training experience that fosters critical thinking, problem solving, ethical decision making and skill development. CSMART offers an environmental officer training program and additional environmental courses for bridge and engineering officers to further enhance our training on social responsibility and environmental awareness and protection.
+
+b.Succession Planning
+
+Our Boards of Directors believe that planning for succession is an important function. Our multi-brand structure enhances our succession planning process. At the corporate level, a highly-skilled management team oversees a collection of cruise brands. At both the corporate and brand levels, we continually strive to foster the professional development of senior management and other critical roles. As a result, Carnival Corporation & plc has developed a very experienced and strong group of leaders, with their performance subject to ongoing monitoring and evaluation, as potential successors to all of our senior executive positions, including our Chief Executive Officer.
+
+
+17
+
+XIV. Supply Chain
+
+We incur expenses for goods and services to deliver exceptional cruise experiences to our guests. In addition, we incur significant capital expenditures for materials to support the refurbishment and enhancements of our vessels as well as to build new ships. We approach our spend strategically and look for suppliers who demonstrate the ability to help us leverage our scale in terms of cost, quality, service, innovation and sustainability. We are focused on the creation of strategic partnerships and will streamline our supplier base where it is prudent. Our largest capital investments are for the construction of new ships.
+
+XV.     Insurance
+
+a.General
+We maintain insurance to cover a number of risks associated with owning and operating our vessels and other non-ship related risks. All such insurance policies are subject to coverage limits, exclusions and deductible levels. Insurance premiums are dependent on our own loss experience and the general premium requirements of our insurers. We maintain certain levels of deductibles for substantially all the below-mentioned coverages. We may increase our deductibles to mitigate future premium increases. We do not carry coverage related to loss of earnings or revenues from our ships or other operations.
+
+b.Protection and Indemnity (“P&I”) Coverages
+
+Liabilities, costs and expenses for illness and injury to crew, guest injury, pollution and other third party claims in connection with our cruise activities are covered by our P&I clubs, which are mutual indemnity associations owned by ship owners.
+
+We are members of three P&I clubs, Gard, Steamship Mutual and UK Club, which are part of a worldwide group of 13 P&I clubs, known as the International Group of P&I Clubs (the “IG”). The IG insures directly, and through broad and established reinsurance markets, a large portion of the world’s shipping fleets. Coverage is subject to the P&I clubs’ rules and the limits of coverage are determined by the IG.
+
+c.Hull and Machinery Insurance
+
+We maintain insurance on the hull and machinery of each of our ships for reasonable amounts as determined by management. The coverage for hull and machinery is provided by large and well-established international marine insurers. Insurers make it a condition for insurance coverage that a ship be certified as “in class” by a classification society that is a member of the International Association of Classification Societies (“IACS”). All of our ships are routinely inspected and certified to be in class by an IACS member.
+
+d.War Risk Insurance
+
+We use a combination of insurance and self-insurance to cover war risk for legal liability to crew, guests and other third parties as well as loss or damage to our vessels arising from war or war-like actions. Our primary war risk insurance coverage is provided by international marine insurers and our excess war risk insurance is provided by our three P&I clubs. Under the terms of our war risk insurance coverage, which are typical for war risk policies in the marine industry, insurers can give us seven days’ notice that the insurance policies will be canceled. However, the policies can be reinstated at different premium rates.
+
+e.Other Insurance
+
+We maintain property insurance covering our shoreside assets and casualty insurance covering liabilities to third parties arising from our hotel and transportation business, shore excursion operations and shoreside operations, including our port and related commercial facilities. We also maintain worker’s compensation, director’s and officer’s liability and other insurance coverages.
+
+18
+
+
+XVI. Governmental Regulations
+
+a. Maritime Regulations
+
+1. General
+
+Our ships are regulated by numerous international, national, state and local laws, regulations, treaties and other legal requirements, as well as voluntary agreements, which govern health, environmental, safety and security matters in relation to our guests, crew and ships. These requirements change regularly, sometimes on a daily basis, depending on the itineraries of our ships and the ports and countries visited. If we violate or fail to comply with any of these laws, regulations, treaties and other requirements we could be fined or otherwise sanctioned by regulators. We are committed to complying with, or exceeding, all relevant maritime requirements.
+
+The primary regulatory bodies that establish maritime laws and requirements applicable to our ships include:
+
+The International Maritime Organization (“IMO”): All of our ships, and the maritime industry as a whole, are subject to the maritime safety, security and environmental regulations established by the IMO, a specialized agency of the United Nations. The IMO’s principal sets of requirements are mandated through its International Convention for the Safety of Life at Sea (“SOLAS”) and its International Convention for the Prevention of Pollution from Ships (“MARPOL”).
+
+Flag States: Our ships are registered, or flagged, in The Bahamas, Bermuda, Italy, Malta, the Netherlands, Panama and the UK, which are also referred to as Flag States. Our ships are regulated by these Flag States through international conventions that govern, among other things, health, environmental, safety and security matters in relation to our guests, crew and ships. Representatives of each Flag State conduct periodic inspections, surveys and audits to verify compliance with these requirements.
+
+Ship classification societies: Class certification is one of the necessary documents required for our cruise ships to be flagged in a specific country, obtain liability insurance and legally operate as passenger cruise ships. Our ships are subject to periodic class surveys, including dry-dock inspections, by ship classification societies to verify that our ships have been maintained in accordance with the rules of the classification societies and that recommended repairs have been satisfactorily completed. Dry-dock frequency is a statutory requirement mandated by SOLAS. Our ships dry-dock once or twice every five years, depending on the age of the ship.
+
+National, regional and other authorities: We are subject to the decrees, directives, regulations and requirements of the European Union (“EU”), the UK, the U.S., other countries and hundreds of other authorities including international ports that our ships visit every year.
+
+Port regulatory authorities (Port State Control): Our ships are also subject to inspection by the port regulatory authorities, which are also referred to as Port State Control, in the various countries that they visit. Such inspections include verification of compliance with the maritime safety, security, environmental, customs, immigration, health and labor requirements applicable to each port, as well as with regional, national and international requirements. Many countries have joined together to form regional Port State Control authorities.
+
+As members of the Cruise Lines International Association (“CLIA”), we helped to develop and have implemented policies that are intended to enhance shipboard safety and environmental protection throughout the cruise industry. In some cases this calls for implementing best practices, which are in excess of existing legal requirements. Further details on these and other policies can be found on www.cruising.org.
+
+Our Boards of Directors have HESS Committees, which were comprised of six independent directors as of December 1, 2020. The principal function of the HESS Committees is to assist the boards in fulfilling their responsibility to supervise and monitor our health, environment, safety, security and sustainability related policies, programs and initiatives at sea and ashore and compliance with related legal and regulatory requirements. The HESS Committees and our management team review all significant relevant risks or exposures and associated mitigating actions.
+
+We are committed to implementing appropriate measures to manage identified risks effectively. We have a Chief Maritime Officer to oversee our global maritime operations, including maritime policy, maritime affairs, training, shipbuilding, asset
+19
+
+management, ship refits and research and development. In addition, we have a Chief Ethics and Compliance Officer who is responsible for overseeing our ethics and compliance governance function, including all areas of HESS.
+
+To help ensure that we are compliant with legal and regulatory requirements and that these areas of our business operate in an efficient and effective manner we:
+
+•Provide regular health, environmental, safety and security support, training, guidance and information to guests, employees and others working on our behalf
+•Develop and implement effective and verifiable management systems to fulfill our health, environmental, safety, security and sustainability commitments
+•Perform regular shoreside and shipboard audits and take appropriate action when deficiencies are identified
+•Report and investigate health, environmental, safety and security incidents and strive to take appropriate action to prevent recurrence
+•Identify those employees responsible for managing health, environment, safety, security and sustainability programs and aim to establish clear lines of accountability
+•Identify the aspects of our business with potential to impact the environment and continue to take appropriate action to minimize that impact
+•Monitor an anonymous hotline for any reported allegations or concerns and the related responses
+•Review and work to improve policies and procedures designed to prevent, detect, respond and correct various regulatory violations and other misconduct
+
+2. Maritime Safety Regulations
+
+The IMO has adopted safety standards as part of SOLAS. To help ensure guest and crew safety, SOLAS establishes requirements for the following:
+					
+• Vessel design and structural features
+	
+• Life-saving and other equipment
+• Construction and materials
+	
+• Fire protection and detection
+• Refurbishment standards
+	
+• Safe management and operation
+• Radio communications
+	
+• Musters
+
+All of our crew undergo regular safety training that meets or exceeds all international maritime regulations, including SOLAS requirements, which are periodically revised.
+
+SOLAS requires implementation of the International Safety Management Code (“ISM Code”), which provides an international standard for the safe management and operation of ships and for pollution prevention. The ISM Code is mandatory for passenger vessel operators. Under the ISM Code, vessel operators are required to:
+
+•Develop and implement a Safety Management System (“SMS”) that includes, among other things, the adoption of safety and environmental protection policies setting forth instructions and procedures for operating vessels safely and describing procedures for responding to emergencies and protecting the environment. In addition, our SMS includes health and security procedures.
+•Obtain a Document of Compliance (“DOC”) for the vessel operator, as well as a Safety Management Certificate (“SMC”) for each vessel they operate. These documents are issued by the vessel’s Flag State and evidence compliance with the ISM Code and the SMS
+•Verify or renew DOCs and SMCs periodically in accordance with the ISM Code
+
+We have implemented and continue to develop policies and procedures that we believe enhance our commitment to the safety of our guests and crew. These initiatives include the following:
+
+•Training of our bridge, engineering and environmental officers in maritime related best practices facilitated by our CSMART Academy, the Center for Simulator Maritime Training located within our Arison Maritime Center in Almere, Netherlands
+•Further standardization of our detailed bridge and engine resource management procedures on our ships
+•Expansion of our existing oversight function to monitor bridge and engine room operations through state of the art fleet operations centers in Miami, Seattle and Hamburg
+•Identifying and promoting the use of international standards and best-practice policies and procedures in health, environmental, safety and security disciplines across the organization including on all our ships
+20
+
+•Further enhancement of our processes for auditing our HESS performance throughout our operations
+
+3. Maritime Security Regulations
+
+Our ships are subject to numerous security requirements. These requirements include the International Ship and Port Facility Security Code, which is part of SOLAS, the U.S. Maritime Transportation Security Act of 2002, which addresses U.S. port and waterway security and the U.S. Cruise Vessel Security and Safety Act of 2010, which applies to all of our ships that embark or disembark passengers in the U.S. These regulations include requirements as to the following:
+
+•Implementation of specific security measures, including onboard installation of a ship security alert system
+•Assessment of vessel security
+•Efforts to identify and deter security threats
+•Training, drills and exercises
+•Security plans that may include guest, vehicle and baggage screening procedures, security patrols, establishment of restricted areas, personnel identification procedures, access control measures and installation of surveillance equipment
+•Establishment of procedures and policies for reporting and managing allegations of crimes
+
+4. Maritime Environmental Regulations
+
+We are subject to numerous international, national, state and local environmental laws, regulations and treaties that govern air emissions, waste management, and the storage, handling, use and disposal of hazardous substances such as chemicals, solvents and paints.
+
+As a means of managing and improving our environmental performance and compliance, we adhere to standards set by ISO (International Organization for Standardization), an international standard-setting body, which produces worldwide industrial and commercial standards. The environmental management system of our company and ships is certified in accordance with ISO 14001, the environmental management standard that was developed to help organizations manage the environmental impacts of their processes, products and services. ISO 14001 defines an approach to setting and achieving environmental objectives and targets, within a structured management framework.
+
+i. International Regulations
+
+The principal international convention governing marine pollution prevention and response is MARPOL.
+
+a. Preventing and Minimizing Pollution
+
+MARPOL includes six annexes, four of which are applicable to our cruise ships, containing requirements designed to prevent and minimize both accidental and operational pollution by oil, sewage, garbage and air emissions and sets forth specific requirements related to vessel operations, equipment, recordkeeping and reporting that are designed to prevent and minimize pollution. All of our ships must carry an International Oil Pollution Prevention Certificate, an International Sewage Pollution Prevention Certificate, an International Air Pollution Prevention Certificate and a Garbage Management Plan. The ship’s Flag State issues these certificates, which evidence their compliance with the MARPOL regulations regarding prevention of pollution by oil, sewage, garbage and air emissions. Certain jurisdictions have not adopted all of these MARPOL annexes but have established various national, regional or local laws and regulations that apply to these areas.
+
+As noted above, MARPOL governs the prevention of pollution by oil from operational measures, as well as from accidental discharges. MARPOL requires that discharges of machinery space bilge water pass through pollution prevention equipment that separates oil from the water and monitors the discharged water to ensure that the effluent does not exceed 15 parts per million oil content. During 2019, we voluntarily completed the upgrade of oily water separation equipment to the latest MARPOL standards as set forth by the IMO onboard all of our ships. Our ships have oily water separators with oil content monitors installed and maintain a record of certain engine room operations in an Oil Record Book. In addition, we have voluntarily installed redundant systems on all of our ships that monitor processed bilge water a second time prior to discharge to help ensure that it contains no more than 15 parts per million oil content. This system also provides additional controls to prevent improper bilge water discharges. MARPOL also requires that our ships have Shipboard Oil Pollution Emergency Plans.
+
+21
+
+MARPOL also governs the discharge of sewage from ships and contains regulations regarding the ships’ equipment and systems for the control of sewage discharge, the provision of facilities at ports and terminals for the reception of sewage and requirements for survey and certification.
+
+MARPOL also governs the discharge of garbage from ships and requires the implementation of Garbage Management Plan and the maintenance of a Garbage Record Book.
+
+Furthermore, MARPOL addresses air emissions from vessels, establishes requirements for the prevention of air pollution from ships to reduce emissions of sulfur oxides (“SOx”), nitrogen oxides (“NOx”) and particulate matter. It also contains restrictions on the use of ozone depleting substances (“ODS”) and requires the recording of ODS use, equipment containing ODS and the emission of ODS.
+b. Sulfur Emissions
+
+The International Maritime Organization has adopted a global 0.5% sulfur cap for marine fuel which began in January 2020. The EU Parliament and Council has also adopted 0.5% sulfur content fuel requirement (the “EU Sulfur Directive”). The options to comply with both the global 0.5% sulfur cap and the EU Sulfur Directive include the installation of Advanced Air Quality Systems, or the use of low sulfur or alternative fuels.
+
+MARPOL addresses air emissions from both auxiliary and main propulsion diesel engines on ships and further specifies requirements for Emission Control Areas (“ECAs”) with stricter limitations on sulfur emissions content in these areas, requiring ships to use fuel with a sulfur content of no more than 0.1%, or to use alternative emission reduction methods, such as Advanced Air Quality Systems.
+
+We have Advanced Air Quality Systems on most of our ships, which are aiding in partially mitigating the financial impact from the ECAs and global 0.5% sulfur requirements.
+
+c. Other Ship Emission Abatement Methods
+
+In the long-term, the cost impacts of meeting progressively lower sulfur fuel requirements may be further mitigated by the impact of future changes in the supply and demand balance for marine and other types of fuel, future developments of and investments in improved sulfur emission abatement technologies, the use of alternative lower cost and lower emission fuels and our continued efforts to improve the overall fuel efficiency across our fleet. From 2008 through 2019, we have achieved approximately 32% cumulative reduction in unit fuel consumption by focusing on more efficient itineraries, a wide variety of ships’ system hardware and software, energy-efficiency upgrades (including hull coatings, air conditioning and engine performance improvements, fresh water savers and LED lighting), creating collaborative energy-savings groups across operating lines and ships’ staff energy use awareness and training.
+
+As part of our emission abatement program, we have continued our work with several local port authorities to utilize cruise ship shore power connections and have equipped 39 of our ships with the ability to utilize shore power technology. This technology enables our ships to use power from the local electricity provider rather than running their engines while in port to power their onboard services, thus reducing our ship air emissions. 
+
+Similarly, in an effort to extend our commitment to sustainability and to play a leading role in matters of environmental protection in the cruise industry, we are expanding our investment in the use of low carbon fuels, in particular, LNG. AIDAnova, the first cruise ship in the world with the ability to use LNG to generate 100 percent of its power both in port and on the open sea, entered the fleet in December 2018, followed by two additional LNG ships, Costa Smeralda and Iona. We also have eight more next generation LNG cruise ships on order. These innovative ships generate significantly less exhaust than traditionally powered ships and we believe, on balance, may greatly reduce our impact on the environment.
+
+d. Greenhouse Gas Emissions (“GHG”)
+
+In 2013, the IMO approved measures to improve energy efficiency and reduce emissions of GHGs from international shipping by adopting technical and operational measures for all ships. The technical measures apply to the design of new vessels, and the operational reduction measures apply to all vessels. Operational reduction measures have been implemented through a variety of means, including a Ship Energy Efficiency Management Plan, improved voyage planning and more frequent propeller and hull cleanings. We have established objectives within the ISO 14001 environmental management system for each of our brands to further reduce fuel consumption rates and the resulting GHG emissions.
+22
+
+
+In 2016, the IMO approved the implementation of a mandatory data collection system (“DCS”) for fuel oil consumption. The DCS requires ships of 5,000 gross tons and above to provide fuel oil consumption data to their respective flag State at the end of each calendar year, beginning in 2019. Flag States validate the data and transfer it to an IMO database. The IMO will produce a summary annual report with anonymous data. In 2018, the IMO also set aspirations to achieve several shipping industry GHG emission reduction goals with 2030 and 2050 target dates. In November 2020, the IMO’s Marine Environment Protection Committee approved further MARPOL changes in support of its GHG emission reduction goals, which are expected to enter into force on January 1, 2023.
+
+e. Ballast Water
+
+In 2017, the IMO’s Ballast Water Management Convention entered into force, which governs the discharge of ballast water from ships. Subsequent amendments effectively extended the implementation date for installation of ballast water management systems for existing ships by about two years, though other requirements went into effect immediately, including requirements for ballast water exchange, record keeping, and maintaining an approved Ballast Water Management Plan. Ballast water is water used to stabilize ships at sea and maintain safe operating conditions throughout a voyage. Ballast water can carry a multitude of marine species. The Convention is designed to regulate the treatment of ballast water prior to discharging overboard in order to avoid the transfer of marine species to new environments, as well as establishing other ballast water management practices for monitoring and environmental protection.
+
+ii.    U.S. Federal and State Regulations
+
+The Act to Prevent Pollution from Ships implements several MARPOL Annexes in the U.S. and imposes numerous requirements on our ships, as discussed above. Administrative, civil and criminal penalties may be assessed for violations.
+
+The Oil Pollution Act of 1990 (“OPA 90”) established a comprehensive federal liability regime, as well as prevention and response requirements, relating to discharges of oil in U.S. waters. The major requirements include demonstrating financial responsibility up to the liability limits set by OPA 90 and having oil spill response plans in place. We have Certificates of Financial Responsibility (“COFR”) that demonstrate our ability to meet the liability limits of OPA 90 based on the gross tonnage of our ships for removal costs and damages, such as from an oil spill. The COFR also covers releases of hazardous substances. It is possible, however, for our liability limits to be broken, which could expose us to unlimited liability. Under OPA 90, owners or operators of vessels operating in U.S. waters must file Vessel Response Plans with the U.S. Coast Guard (“USCG”) and must operate and conduct any response action in compliance with these plans. As OPA 90 expressly allows coastal states to impose liabilities and requirements beyond those imposed under federal law, many U.S. states have enacted laws more stringent than OPA 90. Some of these state laws impose unlimited liability for oil spills and contain more stringent financial responsibility and contingency planning requirements. Most coastal states have also enacted environmental regulations that impose strict liability for removal costs and damages resulting from a discharge of oil or a release of a hazardous substance, similar to OPA 90.
+
+The Clean Water Act (“CWA”) provides the U.S. Environmental Protection Agency (“EPA”) with the authority to regulate incidental discharges from commercial vessels, including discharges of ballast water, bilge water, gray water, anti-fouling paints and other substances during normal operations within the U.S. three mile territorial sea and inland waters. Pursuant to the CWA authority, the U.S. National Pollutant Discharge Elimination System was designed to minimize pollution within U.S. territorial waters. For our affected ships, the incidental discharge requirements are set forth in EPA’s Vessel General Permit (“VGP”) for discharges incidental to the normal operations of vessels. The VGP establishes effluent limits for 27 specific discharges incidental to the normal operation of a vessel, many of which apply to our cruise ships. In addition to the requirements associated with these discharges and more stringent vessel-specific requirements, the VGP includes requirements for inspections, monitoring, reporting and record-keeping. In 2018, the Vessel Incidental Discharge Act (“VIDA”) was signed into law and was intended to clarify and streamline discharge requirements for the incidental discharges covered by the VGP and certain USCG regulations for ballast water. More specifically, a new section was added to the CWA called “Uniform National Standards for Discharges Incidental to Normal Operation of Vessels.” Once fully implemented, VIDA will replace the VGP; however, while the standards and regulations are being developed, which is expected to take at least until the end of 2022, the 2013 VGP has been administratively extended and will remain in effect. VIDA requires the standards and regulations to be at least as stringent as the existing requirements in the 2013 VGP and USCG regulations, unless information becomes available that was not reasonably available when the initial standard of performance was issued, and that information would have justified a less stringent standard. In October 2020, the EPA posted its notice of proposed rulemaking to set standards for 20 types of vessel discharges incidental to normal operations. The discharge standards are organized into three categories: (1) general operation and maintenance; (2) biofouling management; and (3) oil management. These standards mandate overall minimization of discharges and prescribe associated best management practices. No training or education requirements are
+23
+
+included, as these will be set by the USCG in its rulemaking once EPA’s standards are finalized. Notably, EPA incorporated discharge standards applicable to exhaust gas cleaning system discharges based substantially on applicable IMO guidelines, which better harmonizes the VGP and IMO requirements. While the proposed rule provides clarity into the likely structure of VIDA, there is uncertainty over the mechanism through which state-specific standards may be implemented.
+
+We are subject to the requirements of the U.S. Resource Conservation and Recovery Act for the disposal of both hazardous and non-hazardous solid wastes that are generated by our ships. In general, vessel owners are required to determine if their wastes are hazardous and, when landing waste ashore, comply with certain standards for the proper management of hazardous wastes, including the use of hazardous waste manifests for shipments to approved disposal facilities.
+
+The U.S. National Invasive Species Act (“NISA”) was enacted in 1996 in response to growing reports of harmful organisms being released into U.S. waters through ballast water taken on by vessels in foreign waters. The USCG adopted regulations under NISA that impose mandatory ballast water management practices for all vessels equipped with ballast water tanks entering U.S. waters. Depending on a vessel’s compliance date for installation of a USCG type-approved ballast water management system, these requirements may now be met by performing mid-ocean ballast exchange, by retaining ballast water onboard the vessel or by using a ballast water management system authorized or approved by the USCG. In the near future, ballast exchange will no longer be permissible. These USCG regulations, however, will ultimately be replaced with the new regulatory regime being developed under VIDA, which is expected to contain similar requirements.
+
+The state of Alaska has enacted legislation that prohibits certain discharges in designated Alaskan waters and sets effluent limits on others, which are applicable to cruise ships. Further, the state of Alaska requires that certain discharges be reported and monitored to verify compliance with the standards established by the legislation. Environmental regimes in Alaska are more stringent than the U.S. federal requirements with regard to discharges from vessels. The legislation also provides that repeat violators of the regulations could be prohibited from operating in Alaskan waters. The state of California also has environmental requirements significantly more stringent than federal requirements for water discharges and air emissions.
+
+iii.    EU Regulations
+
+The EU has adopted a broad range of substantial environmental measures aimed at improving the quality of the environment for European citizens. To support the implementation and enforcement of European environmental legislation, the EU has adopted directives on environmental liability and enforcement and a recommendation providing for minimum criteria for environmental inspections.
+
+The European Commission’s (“EC”) strategy is to reduce emissions from ships. The EC strategy seeks to implement SOx Emission Control Areas set out in MARPOL, as discussed above.
+
+The EC has also implemented regulations aimed at reducing GHG emissions from maritime shipping through a Monitoring, Reporting and Verification regulation, which involves collecting emissions data from ships over 5,000 gross tons to monitor and report carbon emissions on all voyages to, from and between European Union ports.
+
+5. Maritime Health Regulations
+
+We are committed to providing a healthy environment for all of our guests and crew. We collaborate with public health inspection programs throughout the world, such as the CDC in the U.S. and the SHIPSAN Project in the EU as well as CLIA’s Public Health and Medical Policy to ensure that development of these programs leads to enhanced health and hygiene onboard our ships. Through our collaborative efforts, we work with the authorities to develop and revise guidelines, review plans and conduct on-site inspections for all newbuilds and significant ship renovations. In addition, we continue to maintain our ships by meeting, and often exceeding, applicable public health guidelines and requirements, complying with inspections, reporting communicable illnesses and conducting regular crew training and guest education programs.
+
+Refer to "Recent Developments" for additional discussion regarding health and safety protocols in light of COVID-19.
+
+24
+
+6. Maritime Labor Regulations
+
+The International Labor Organization develops and oversees international labor standards and includes a broad range of requirements, such as the definition of a seafarer, minimum age of seafarers, medical certificates, recruitment practices, training, repatriation, food, recreational facilities, health and welfare, hours of work and rest, accommodations, wages and entitlements.
+
+The International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, as amended, establishes additional minimum standards relating to training, including security training, certification and watchkeeping for our seafarers.
+
+b. Other Governmental Regulations
+
+In most major countries where we source our guests, we are required to establish financial responsibility, such as obtaining a guarantee from stable financial institutions and insurance companies, to satisfy liability in cases of our non-performance of obligations to our guests. The amount of financial responsibility varies by jurisdiction based on the amount mandated by the applicable local regulatory agencies or association.
+
+In Australia and most of Europe, we may be obligated to honor our guests’ cruise payments made by them to their travel agents and tour operators regardless of whether we receive these payments.
+
+We are also subject to many other laws and regulations which require our compliance, including those addressing antitrust, anti-money laundering, data privacy, securities, sanctions, bribery and corruption, as well as human resources related matters.
+
+XVII.     Taxation
+
+A summary of our principal taxes and exemptions in the jurisdictions where our significant operations are located is as follows:
+
+a.U.S. Income Tax
+
+We are primarily foreign corporations engaged in the business of operating cruise ships in international transportation. We also own and operate, among other businesses, the U.S. hotel and transportation business of Holland America Princess Alaska Tours through U.S. corporations.
+
+Our North American cruise ship businesses and certain ship-owning subsidiaries are engaged in a trade or business within the U.S. Depending on its itinerary, any particular ship may generate income from sources within the U.S. We believe that our U.S. source income and the income of our ship-owning subsidiaries, to the extent derived from, or incidental to, the international operation of a ship or ships, is currently exempt from U.S. federal income and branch profit taxes.
+
+Our domestic U.S. operations, principally the hotel and transportation business of Holland America Princess Alaska Tours, are subject to federal and state income taxation in the U.S.
+
+1.Application of Section 883 of the Internal Revenue Code
+
+In general, under Section 883 of the Internal Revenue Code, certain non-U.S. corporations (such as our North American cruise ship businesses) are not subject to U.S. federal income tax or branch profits tax on U.S. source income derived from, or incidental to, the international operation of a ship or ships. Applicable U.S. Treasury regulations provide in general that a foreign corporation will qualify for the benefits of Section 883 if, in relevant part, (i) the foreign country in which the foreign corporation is organized grants an equivalent exemption to corporations organized in the U.S. in respect of each category of shipping income for which an exemption is being claimed under Section 883 (an “equivalent exemption jurisdiction”) and (ii) the foreign corporation meets a defined publicly-traded corporation stock ownership test (the “publicly-traded test”). Subsidiaries of foreign corporations that are organized in an equivalent exemption jurisdiction and meet the publicly-traded test also benefit from Section 883. We believe that Panama is an equivalent exemption jurisdiction and that Carnival Corporation currently satisfies the publicly-traded test under the regulations. Accordingly, substantially all of Carnival Corporation’s income is exempt from U.S. federal income and branch profit taxes.
+
+Regulations under Section 883 list certain activities that the Internal Revenue Service (“IRS”) does not consider to be incidental to the international operation of ships and, therefore, the income attributable to such activities, to the extent such income is U.S. source, does not qualify for the Section 883 exemption. Among the activities identified as not incidental are income from the
+25
+
+sale of air transportation, transfers, shore excursions and pre- and post-cruise land packages to the extent earned from sources within the U.S.
+
+2.Exemption Under Applicable Income Tax Treaties
+
+We believe that the U.S. source transportation income earned by Carnival plc and its subsidiaries currently qualifies for exemption from U.S. federal income tax under applicable bilateral U.S. income tax treaties.
+
+3.U.S. State Income Tax
+
+Carnival Corporation and Carnival plc and certain of their subsidiaries are subject to various U.S. state income taxes generally imposed on each state’s portion of the U.S. source income subject to U.S. federal income taxes. However, the state of Alaska imposes an income tax on its allocated portion of the total income of our companies doing business in Alaska and certain of their subsidiaries.
+
+b.UK and Australian Income Tax
+
+Cunard, P&O Cruises (UK) and P&O Cruises (Australia) are divisions of Carnival plc and have elected to enter the UK tonnage tax under a rolling ten-year term and, accordingly, reapply every year. Companies to which the tonnage tax regime applies pay corporation taxes on profits calculated by reference to the net tonnage of qualifying ships. UK corporation tax is not chargeable under the normal UK tax rules on these brands’ relevant shipping income. Relevant shipping income includes income from the operation of qualifying ships and from shipping related activities.
+
+For a company to be eligible for the regime, it must be subject to UK corporation tax and, among other matters, operate qualifying ships that are strategically and commercially managed in the UK. Companies within UK tonnage tax are also subject to a seafarer training requirement.
+
+Our UK non-shipping activities that do not qualify under the UK tonnage tax regime remain subject to normal UK corporation tax.
+
+P&O Cruises (Australia) and all of the other cruise ships operated internationally by Carnival plc for the cruise segment of the Australian vacation region are exempt from Australian corporation tax by virtue of the UK/Australian income tax treaty.
+
+c.Italian and German Income Tax
+
+In 2015, Costa and AIDA re-elected to enter the Italian tonnage tax regime through 2024 and can reapply for an additional ten-year period beginning in early 2025. Companies to which the tonnage tax regime applies pay corporation taxes on shipping profits calculated by reference to the net tonnage of qualifying ships.
+
+Most of Costa’s and AIDA’s earnings that are not eligible for taxation under the Italian tonnage tax regime will be taxed at an effective tax rate of 4.8% in 2020 and 2019.
+
+Substantially all of AIDA’s earnings are exempt from German income taxes by virtue of the Germany/Italy income tax treaty.
+
+d.Asian Countries Income and Other Taxes
+
+Substantially all of our brands’ income from their international operations in Asian countries is exempt from income tax by virtue of relevant income tax treaties. In addition, the income is exempt from indirect taxes in China under relevant income tax treaties and other circulars.
+
+e.Other
+
+In addition to or in place of income taxes, virtually all jurisdictions where our ships call impose taxes, fees and other charges based on guest counts, ship tonnage, passenger capacity or some other measure.
+
+26
+
+XVIII. Trademarks and Other Intellectual Property
+
+We own, use and/or have registered or licensed numerous trademarks, patents and patent pending designs and technology, copyrights and domain names, which have considerable value and some of which are widely recognized throughout the world. These intangible assets enable us to distinguish our cruise products and services, ships and programs from those of our competitors. We own or license the trademarks for the trade names of our cruise brands, each of which we believe is a widely-recognized brand in the cruise industry, as well as our ship names and a wide variety of cruise products and services. 
+
+XIX. Competition
+
+We compete with land-based vacation alternatives throughout the world, such as hotels, resorts (including all-inclusive resorts), theme parks, organized tours, casinos, vacation ownership properties, and other internet-based alternative lodging sites. Based on the 2019 G.P. Wild Cruise Industry Statistical Review, we, along with our principal cruise competitors Royal Caribbean Group, Norwegian Cruise Line Holdings, Ltd. and MSC Cruises, carried approximately 83% of all global cruise guests.
+
+D. Website Access to Carnival Corporation & plc SEC Reports
+
+We use our websites as channels of distribution of company information. Our Form 10-K, joint Quarterly Reports on Form 10-Q, joint Current Reports on Form 8-K, joint Proxy Statement related to our annual shareholders meeting, Section 16 filings and all amendments to those reports are available free of charge at www.carnivalcorp.com and www.carnivalplc.com and on the SEC’s website at www.sec.gov as soon as reasonably practicable after we have electronically filed or furnished these reports with the SEC. In addition, you may automatically receive email alerts and other information when you enroll your email address by visiting the Investor Services section of our websites. The content of any website referred to in this document is not incorporated by reference into this document.
+
+E. Industry and Market Data
+
+This document includes market share and industry data and forecasts that we obtained from industry publications, third-party surveys and internal company surveys. Industry publications, including those from CLIA, G.P. Wild, and surveys and forecasts, generally state that the information contained therein has been obtained from sources believed to be reliable. CLIA is a non-profit marketing and training organization formed in 1975 to promote cruising and offer support and training for the travel agent community in North America. CLIA participates in the regulatory and policy development process while supporting measures that foster a safe, secure and healthy cruise ship environment. In addition, CLIA facilitates strategic relationships between cruise industry suppliers and organizations, cruise lines, ports and shipyards and provides a forum for interaction with governmental agencies. All CLIA information, obtained from the CLIA website www.cruising.org, relates to the CLIA member cruise lines. In 2019, CLIA represented over 50 cruise brands that operated more than 95% of cruise industry capacity. In 2020, CLIA continues to represent the cruise industry. G.P Wild is an authoritative source of cruise industry statistics and publishes a number of reports and industry reviews. All G.P. Wild information is obtained from their annual Cruise Industry Statistical Review. All other references to third party information are publicly available at nominal or no cost. We use the most currently available industry and market data to support statements as to our market positions. Although we believe that the industry publications and third-party sources are reliable, we have not independently verified any of the data. Similarly, while we believe our internal estimates with respect to our industry are reliable, they have not been verified by any independent sources. While we are not aware of any misstatements regarding any industry data presented herein, our estimates, in particular as they relate to market share and our general expectations, involve risks and uncertainties and are subject to change based on various factors, including those discussed under Part I, Item 1A. Risk Factors and Exhibit 13, Management’s Discussion and Analysis of Financial Condition and Results of Operations, in this Form 10-K.
+
+27

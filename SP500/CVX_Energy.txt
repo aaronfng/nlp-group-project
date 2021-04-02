@@ -1,0 +1,503 @@
+General Development of Business
+Summary Description of Chevron
+Chevron Corporation,* a Delaware corporation, manages its investments in subsidiaries and affiliates and provides administrative, financial, management and technology support to U.S. and international subsidiaries that engage in integrated energy and chemicals operations. Upstream operations consist primarily of exploring for, developing, producing and transporting crude oil and natural gas; processing, liquefaction, transportation and regasification associated with liquefied natural gas; transporting crude oil by major international oil export pipelines; transporting, storage and marketing of natural gas; and a gas-to-liquids plant. Downstream operations consist primarily of refining crude oil into petroleum products; marketing of crude oil, refined products and lubricants; transporting crude oil and refined products by pipeline, marine vessel, motor equipment and rail car; and manufacturing and marketing of commodity petrochemicals, plastics for industrial uses and fuel and lubricant additives.
+A list of the company’s major subsidiaries is presented in Exhibit 21.1 on page E-1.
+Overview of Petroleum Industry
+Petroleum industry operations and profitability are influenced by many factors. Prices for crude oil, natural gas, petroleum products and petrochemicals are generally determined by supply and demand. Production levels from the members of Organization of Petroleum Exporting Countries (OPEC), Russia and the United States are the major factors in determining worldwide supply. Demand for crude oil and its products and for natural gas is largely driven by the conditions of local, national and global economies, although weather patterns and taxation relative to other energy sources also play a significant part. Laws and governmental policies, particularly in the areas of taxation, energy and the environment, affect where and how companies invest, conduct their operations and formulate their products and, in some cases, limit their profits directly.
+Strong competition exists in all sectors of the petroleum and petrochemical industries in supplying the energy, fuel and chemical needs of industry and individual consumers. In the upstream business, Chevron competes with fully integrated, major global petroleum companies, as well as independent and national petroleum companies, for the acquisition of crude oil and natural gas leases and other properties and for the equipment and labor required to develop and operate those properties. In its downstream business, Chevron competes with fully integrated, major petroleum companies, as well as independent refining and marketing, transportation and chemicals entities and national petroleum companies in the refining, manufacturing, sale and marketing of fuels, lubricants, additives and petrochemicals.
+Operating Environment
+Refer to pages 31 through 38 of this Form 10-K in Management’s Discussion and Analysis of Financial Condition and Results of Operations for a discussion of the company’s current business environment and outlook.
+Chevron’s Strategic Direction
+Chevron’s primary objective is to deliver higher returns, lower carbon and superior shareholder value in any business environment. In the upstream, the company’s strategy is to deliver industry-leading returns while developing high-value resource opportunities. In the downstream, the company’s strategy is to be the leading downstream and chemicals company that delivers on customer needs. In seeking to help advance a lower carbon future, Chevron is focused on lowering its carbon intensity cost efficiently, increasing renewables and offsets in support of its business, and investing in low-carbon technologies to enable commercial solutions.
+Information about the company is available on the company’s website at www.chevron.com. Information contained on the company’s website is not part of this Annual Report on Form 10-K. The company’s Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and any amendments to these reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 are available free of charge on the company’s website soon after such reports are filed with or furnished to the U.S. Securities and Exchange Commission (SEC). The reports are also available on the SEC’s website at www.sec.gov.
+________________________________________________________
+* Incorporated in Delaware in 1926 as Standard Oil Company of California, the company adopted the name Chevron Corporation in 1984 and ChevronTexaco Corporation in 2001. In 2005, ChevronTexaco Corporation changed its name to Chevron Corporation. As used in this report, the term “Chevron” and such terms as “the company,” “the corporation,” “our,” “we,” “us” and "its" may refer to Chevron Corporation, one or more of its consolidated subsidiaries, or all of them taken as a whole, but unless stated otherwise they do not include “affiliates” of Chevron — i.e., those companies accounted for by the equity method (generally owned 50 percent or less) or non-equity method investments. All of these terms are used for convenience only and are not intended as a precise description of any of the separate companies, each of which manages its own affairs.
+3
+
+
+
+Human Capital Management
+Chevron is focused on investing in its employees and its culture. Chevron hires, develops, and strives to retain critical talent, and fosters a culture that values diversity and inclusion and employee engagement, all of which support the company’s overall objective to deliver industry leading performance. Chevron’s leadership reinforces and monitors the company’s investment in people and the company’s culture. This includes reviews of metrics addressing critical function hiring, leadership development, attrition, diversity and inclusion, and employee engagement.
+The following table summarizes Chevron’s number of employees by gender, where data is available, and by region as of December 31, 2020.
+																										
+	At December 31, 2020
+	Female 	Male	
+Gender data not available 1
+	Total Employees
+	Number of Employees	Percentage	Number of Employees	Percentage	Number of Employees	Percentage	Number of Employees	Percentage
+U.S.	6,632	28 	%	16,606	70 	%	491	2 	%	23,729	50 	%
+Other Americas	894	26 	%	2,484	73 	%	33	1 	%	3,411	7 	%
+Africa	715	17 	%	3,507	83 	%	6	— 	%	4,228	9 	%
+Asia	2,982	29 	%	7,334	71 	%	80	1 	%	10,396	22 	%
+Australia	1,746	40 	%	2,584	60 	%	6	— 	%	4,336	9 	%
+Europe	410	25 	%	1,226	75 	%	0	— 	%	1,636	3 	%
+Total Employees 2
+	13,379	28 	%	33,741	71 	%	616	1 	%	47,736	100 	%
+1 Includes employees where gender data was not collected or employee chose not to disclose gender.
+2 Includes 5,108 service station employees; 2,312 and 1,672 new employees came from the 2020 Puma Energy (Australia) Holdings Pty. Ltd and Noble Energy, Inc. acquisitions, respectively.
+Hiring, Development and Retention
+The company’s approach to attracting, developing and retaining its employees is anchored in a career-oriented employment model. Chevron recruits new employees through partnerships with universities and diversity associations. In 2020, over 500 students participated in the company’s first ever virtual internship program. In addition, the company recruits experienced hires to target critical skills.
+Development programs are designed to build leadership capabilities at all levels and ensure the company’s workforce has the technical and operating capabilities to produce energy safely and reliably. Chevron’s leadership regularly reviews metrics on employee training and development programs, which are continually evolving to better meet the needs of the business. For instance, Chevron recently launched learning initiatives focused on digital innovation, including new Digital Academy and Digital Scholars programs. In addition, to ensure business continuity, leadership regularly reviews the talent pipeline, identifies and develops succession candidates, and builds succession plans for leadership positions. The Board provides oversight of CEO and executive succession planning.
+Chevron’s 2020 annual voluntary attrition was 4.1 percent, in line with its historical rates. The voluntary attrition rate generally excludes employee departures under enterprise-wide restructuring programs. Chevron believes its low voluntary attrition rate is in part a result of the company’s commitment to employee development and career advancement.
+Diversity and Inclusion
+Chevron is committed to advancing diversity and inclusion in the workplace so that employees are enabled to contribute to their full potential. The company believes innovative solutions to its most complex challenges emerge when diverse people, ideas, and experiences come together in an inclusive environment. Chevron reinforces the value of diversity and inclusion through accountability, communication, training and personnel selection processes. Examples of initiatives to further advance diversity and inclusion include the company’s Neurodiversity program through which the company employs neurodiverse individuals and leverages their talents, its Elevate program which focuses on learning opportunities to promote a deeper understanding of employees in underrepresented groups, and its Returnship initiative which provides support for women re-entering the workforce. In addition, Chevron has twelve employee networks (voluntary groups of employees that come together based on shared identity or interests) and more than fifteen diversity councils across its business units that help align diversity and inclusion efforts with business strategies.
+4
+
+
+
+Employee Engagement
+Employee engagement is an indicator of employee well-being and commitment to the company’s values, purpose and strategies. Chevron regularly conducts employee surveys to assess the health of the company’s culture. Recent surveys have indicated a high degree of employee engagement. In 2020, the company’s employee survey focused on the COVID-19 impact on employee well-being and the company’s response to the pandemic. The survey results positively reinforced actions taken by Chevron, and helped inform further actions to address the impact on employees and their families through enhanced mental health and wellness support, financial assistance for unplanned childcare needs and remote learning resources, among other efforts. The company also has long-standing programs such as Ombuds, an independent resource designed to equip employees with options to address and resolve workplace issues; a company hotline, where employees can report concerns to the Corporate Compliance department; and its Employee Assistance Program, a confidential consulting service that can help employees resolve a broad range of personal, family and work-related concerns or problems.
+Description of Business and Properties
+The upstream and downstream activities of the company and its equity affiliates are widely dispersed geographically, with operations and projects* in North America, South America, Europe, Africa, Middle East, Asia and Australia. Tabulations of segment sales and other operating revenues, earnings and income taxes for the three years ending December 31, 2020, and assets as of the end of 2020 and 2019 — for the United States and the company’s international geographic areas — are in Note 12 to the Consolidated Financial Statements beginning on page 74. Similar comparative data for the company’s investments in and income from equity affiliates and property, plant and equipment are in Note 13 beginning on page 77 and Note 16 on page 82. Refer to page 44 of this Form 10-K in Management’s Discussion and Analysis of Financial Condition and Results of Operations for a discussion of the company’s capital and exploratory expenditures.
+
+Upstream
+Reserves
+Refer to Table V beginning on page 103 for a tabulation of the company’s proved crude oil, condensate, natural gas liquids (NGLs), synthetic oil and natural gas reserves by geographic area, at the beginning of 2018 and at each year-end from 2018 through 2020. Reserves governance, technologies used in establishing proved reserves additions, and major changes to proved reserves by geographic area for the three-year period ended December 31, 2020, are summarized in the discussion for Table V. Discussion is also provided regarding the nature of, status of, and planned future activities associated with the development of proved undeveloped reserves. The company recognizes reserves for projects with various development periods, sometimes exceeding five years. The external factors that impact the duration of a project include scope and complexity, remoteness or adverse operating conditions, infrastructure constraints, and contractual limitations.
+At December 31, 2020, 27 percent of the company’s net proved oil-equivalent reserves were located in the United States, 18 percent were located in Australia and 20 percent were located in Kazakhstan.
+The net proved reserve balances at the end of each of the three years 2018 through 2020 are shown in the following table:
+																				
+	At December 31	
+	2020		2019		2018	
+Liquids — Millions of barrels						
+Consolidated Companies	4,475 			4,771 			4,975 		
+Affiliated Companies	1,672 			1,750 			1,815 		
+Total Liquids	6,147 			6,521 			6,790 		
+Natural Gas — Billions of cubic feet						
+Consolidated Companies	27,006 			26,587 			28,733 		
+Affiliated Companies	2,916 			2,870 			2,843 		
+Total Natural Gas	29,922 			29,457 			31,576 		
+Oil-Equivalent — Millions of barrels1
+						
+Consolidated Companies	8,976 			9,202 			9,764 		
+Affiliated Companies	2,158 			2,229 			2,289 		
+Total Oil-Equivalent	11,134 			11,431 			12,053 		
+1 Oil-equivalent conversion ratio is 6,000 cubic feet of natural gas = 1 barrel of crude oil.
+________________________________________________________
+*    As used in this report, the term “project” may describe new upstream development activity, individual phases in a multiphase development, maintenance activities, certain existing assets, new investments in downstream and chemicals capacity, investments in emerging and sustainable energy activities, and certain other activities. All of these terms are used for convenience only and are not intended as a precise description of the term “project” as it relates to any specific governmental law or regulation.
+
+5
+
+
+
+Net Production of Liquids and Natural Gas
+The following table summarizes the net production of liquids and natural gas for 2020 and 2019 by the company and its affiliates. Worldwide oil-equivalent production of 3.083 million barrels per day in 2020 was up approximately 1 percent from 2019. Production increases from shale and tight properties and the Noble Energy, Inc. (Noble) acquisition were partially offset by production curtailments associated with OPEC and coordinating countries’ (OPEC+) restrictions and market conditions, and asset sale related decreases of 100,000 barrels per day. Refer to the “Results of Operations” section beginning on page 37 for a detailed discussion of the factors explaining the changes in production for crude oil, condensate, natural gas liquids, synthetic oil and natural gas, and refer to Table V on pages 107 through 109 for information on annual production by geographical region.
+																													
+				Components of Oil-Equivalent	
+	Oil-Equivalent		Liquids		Natural Gas	
+Thousands of barrels per day (MBPD)	
+(MBPD)1
+		(MBPD)		(MMCFPD)	
+Millions of cubic feet per day (MMCFPD)	2020	2019		2020	2019		2020	2019	
+United States2
+	1,058 		929 			790 		724 			1,607 		1,225 		
+Other Americas 									
+Argentina
+	25 		27 			21 		23 			24 		25 		
+Brazil
+	6 		8 			6 		8 			1 		2 		
+Canada3
+	159 		135 			138 		119 			126 		95 		
+Colombia4
+	2 		11 			— 		— 			14 		64 		
+Total Other Americas	192 		181 			165 		150 			165 		186 		
+Africa 									
+Angola
+	87 		95 			78 		86 			53 		52 		
+Equatorial Guinea2
+	11 		— 			5 		— 			42 		— 		
+Nigeria
+	183 		209 			140 		173 			260 		215 		
+Republic of Congo
+	46 		52 			44 		49 			13 		13 		
+Total Africa	327 		356 			267 		308 			368 		280 		
+Asia 									
+Azerbaijan4
+	7 		20 			7 		18 			3 		10 		
+Bangladesh
+	107 		110 			3 		4 			622 		638 		
+China
+	32 		31 			15 		16 			100 		93 		
+Indonesia
+	138 		109 			131 		101 			43 		52 		
+Israel2
+	20 		— 			— 		— 			116 		— 		
+Kazakhstan
+	55 		49 			32 		28 			136 		129 		
+Myanmar
+	15 		15 			— 		— 			92 		93 		
+Partitioned Zone5
+	18 		— 			17 		— 			3 		— 		
+Philippines4
+	5 		26 			1 		3 			25 		136 		
+Thailand
+	207 		238 			54 		65 			918 		1,038 		
+Total Asia	604 		598 			260 		235 			2,058 		2,189 		
+Australia									
+ Australia	441 		455 			42 		45 			2,392 		2,460 		
+Total Australia	441 		455 			42 		45 			2,392 		2,460 		
+Europe 									
+Denmark4
+	— 		5 			— 		3 			— 		11 		
+United Kingdom4
+	14 		62 			13 		44 			5 		108 		
+Total Europe	14 		67 			13 		47 			5 		119 		
+Total Consolidated Companies	2,636 		2,586 			1,537 		1,509 			6,595 		6,459 		
+Affiliates3,6
+	447 		472 			331 		356 			695 		698 		
+Total Including Affiliates7
+	3,083 		3,058 			1,868 		1,865 			7,290 		7,157 		
+									
+1 Oil-equivalent conversion ratio is 6,000 cubic feet of natural gas = 1 barrel of crude oil.
+	
+2 Includes production associated with the acquisition of Noble commencing October 2020.
+	
+3 Includes synthetic oil: Canada, net
+	54 		53		54 		53		— 		— 		
+  Venezuela, net	— 		3		— 		3		— 		— 		
+4 Chevron sold its interest in various upstream producing assets in 2019 and 2020.
+	
+5 Located between Saudi Arabia and Kuwait. Production was shut-in in May 2015; resumed in July 2020.
+	
+6 Volumes represent Chevron’s share of production by affiliates, including Tengizchevroil in Kazakhstan; Petroboscan and Petropiar in Venezuela through June 30, 2020; and Angola LNG in Angola.
+	
+7 Volumes include natural gas consumed in operations of 603 million and 638 million cubic feet per day in 2020 and 2019, respectively. Total “as sold” natural gas volumes were 6,687 million and 6,519 million cubic feet per day for 2020 and 2019, respectively.
+	
+6
+
+
+
+Production Outlook
+The company estimates its average worldwide oil-equivalent production in 2021 will grow up to 3 percent compared to 2020, assuming a Brent crude oil price of $50 per barrel and excluding the impact of anticipated 2021 asset sales. This estimate is subject to many factors and uncertainties, as described beginning on page 33. Refer to the “Review of Ongoing Exploration and Production Activities in Key Areas,” beginning on page 9, for a discussion of the company’s major crude oil and natural gas development projects.
+Average Sales Prices and Production Costs per Unit of Production
+Refer to Table IV on page 102 for the company’s average sales price per barrel of liquids (including crude oil, condensate and natural gas liquids) and per thousand cubic feet of natural gas produced, and the average production cost per oil-equivalent barrel for 2020, 2019 and 2018.
+Gross and Net Productive Wells
+The following table summarizes gross and net productive wells at year-end 2020 for the company and its affiliates:
+																							
+	At December 31, 2020	
+	
+Productive Oil Wells1
+	
+Productive Gas Wells1
+	
+	Gross 		Net 	Gross 		Net 	
+United States	42,933 			31,380 		2,859 			2,322 		
+Other Americas	1,077 			687 		216 			135 		
+Africa	1,732 			679 		50 			19 		
+Asia	14,210 			12,492 		3,179 			1,732 		
+Australia	533 			299 		101 			25 		
+Europe	29 			6 		— 			— 		
+Total Consolidated Companies	60,514 			45,543 		6,405 			4,233 		
+Affiliates2
+	1,675 			601 		— 			— 		
+Total Including Affiliates	62,189 			46,144 		6,405 			4,233 		
+Multiple completion wells included above	619 			340 		148 			117 		
+1 Gross wells represent the total number of wells in which Chevron has an ownership interest. Net wells represent the sum of Chevron’s ownership interest in gross wells.
+	
+2 Includes gross 1,452 and net 490 productive oil wells for interests accounted for by the non-equity method.
+	
+Acreage
+At December 31, 2020, the company owned or had under lease or similar agreements undeveloped and developed crude oil and natural gas properties throughout the world. The geographical distribution of the company’s acreage is shown in the following table:
+																																						
+	
+Undeveloped2
+		Developed 		Developed and Undeveloped 	
+Thousands of acres1
+	Gross 		Net 		Gross 		Net 		Gross 		Net 	
+United States	4,120 			3,561 			4,670 			3,317 			8,790 			6,878 		
+Other Americas	19,418 			10,592 			1,169 			252 			20,587 			10,844 		
+Africa	7,393 			4,829 			2,522 			1,051 			9,915 			5,880 		
+Asia	18,742 			7,692 			1,914 			1,041 			20,656 			8,733 		
+Australia	10,370 			6,471 			2,061 			812 			12,431 			7,283 		
+Total Consolidated Companies	60,043 			33,145 			12,336 			6,473 			72,379 			39,618 		
+Affiliates3
+	702 			290 			102 			46 			804 			336 		
+Total Including Affiliates	60,745 			33,435 			12,438 			6,519 			73,183 			39,954 		
+1 Gross acres represent the total number of acres in which Chevron has an ownership interest. Net acres represent the sum of Chevron’s ownership interest in gross acres.
+	
+2 The gross undeveloped acres that will expire in 2021, 2022 and 2023 if production is not established by certain required dates are 2,415, 5,404 and 3,199, respectively.
+	
+3 Includes gross 405 and net 141 undeveloped and gross 19 and net 5 developed acreage for interests accounted for by the non-equity method.
+	
+Delivery Commitments
+The company sells crude oil and natural gas from its producing operations under a variety of contractual obligations. Most contracts generally commit the company to sell quantities based on production from specified properties, but some natural gas sales contracts specify delivery of fixed and determinable quantities, as discussed below.
+In the United States, the company is contractually committed to deliver 1,136 billion cubic feet of natural gas to third parties from 2021 through 2023. The company believes it can satisfy these contracts through a combination of equity
+7
+
+
+
+production from the company’s proved developed U.S. reserves and third-party purchases. These commitments are primarily based on contracts with indexed pricing terms.
+Outside the United States, the company is contractually committed to deliver a total of 2,800 billion cubic feet of natural gas to third parties from 2021 through 2023 from operations in Australia and Israel. The Australia sales contracts contain variable pricing formulas that generally reference the prevailing market price for crude oil, natural gas or other petroleum products at the time of delivery. The Israel sales contracts contain formulas that generally reflect an initial base price subject to price indexation, Brent-linked or other, over the life of the contract and have a contractual floor. The company believes it can satisfy these contracts from quantities available from production of the company’s proved developed reserves in these countries.
+Development Activities
+Refer to Table I on page 99 for details associated with the company’s development expenditures and costs of proved property acquisitions for 2020, 2019 and 2018.
+The following table summarizes the company’s net interest in productive and dry development wells completed in each of the past three years, and the status of the company’s development wells drilling at December 31, 2020. A “development well” is a well drilled within the known area of a crude oil or natural gas reservoir to the depth of a stratigraphic horizon known to be productive.
+ 
+ 
+																																						
+	
+Wells Drilling1
+		Net Wells Completed 	
+	at 12/31/20		2020		2019		2018	
+	Gross 	Net 		Prod. 	Dry 		Prod. 	Dry		Prod. 	Dry 	
+United States	190 		149 			539 		2 			682 		1 			509 		1 		
+Other Americas	12 		9 			27 		— 			36 		— 			43 		— 		
+Africa	1 		— 			5 		— 			26 		— 			8 		— 		
+Asia	23 		8 			94 		2 			181 		2 			289 		5 		
+Australia	— 		— 			— 		— 			— 		— 			1 		— 		
+Europe	— 		— 			1 		— 			1 		— 			2 		— 		
+Total Consolidated Companies	226 		166 			666 		4 			926 		3 			852 		6 		
+Affiliates2
+	22 		8 			13 		— 			43 		— 			39 		— 		
+Total Including Affiliates	248 		174 			679 		4 			969 		3 			891 		6 		
+1 Gross wells represent the total number of wells in which Chevron has an ownership interest. Net wells represent the sum of Chevron’s ownership interest in gross wells.
+	
+2 Includes gross 19 and net 6 wells drilling for interests accounted for by the non-equity method.
+	
+ 
+Exploration Activities
+Refer to Table I on page 99 for detail on the company’s exploration expenditures and costs of unproved property acquisitions for 2020, 2019 and 2018.
+The following table summarizes the company’s net interests in productive and dry exploratory wells completed in each of the last three years, and the number of exploratory wells drilling at December 31, 2020. “Exploratory wells” are wells drilled to find and produce crude oil or natural gas in unknown areas and include delineation and appraisal wells, which are wells drilled to find a new reservoir in a field previously found to be productive of crude oil or natural gas in another reservoir or to extend a known reservoir.
+																																						
+	Wells Drilling*		Net Wells Completed 	
+	at 12/31/20		2020		2019		2018	
+	Gross 	Net 		Prod. 	Dry 		Prod. 	Dry 		Prod. 	Dry 	
+United States	1 		— 			4 		1 			10 		2 			13 		2 		
+Other Americas	— 		— 			2 		2 			— 		— 			1 		1 		
+Africa	— 		— 			— 		— 			— 		— 			— 		— 		
+Asia	— 		— 			— 		— 			— 		— 			1 		— 		
+Australia	— 		— 			— 		— 			— 		— 			— 		— 		
+Europe	— 		— 			— 		— 			— 		— 			— 		1 		
+Total Consolidated Companies	1 		— 			6 		3 			10 		2 			15 		4 		
+Affiliates	— 		— 			— 		— 			— 		— 			— 		— 		
+Total Including Affiliates	1 		— 			6 		3 			10 		2 			15 		4 		
+* Gross wells represent the total number of wells in which Chevron has an ownership interest. Net wells represent the sum of Chevron’s ownership interest in gross wells.	
+8
+
+
+
+Review of Ongoing Exploration and Production Activities in Key Areas
+Chevron has exploration and production activities in many of the world’s major hydrocarbon basins. Chevron’s 2020 key upstream activities, some of which are also discussed in Management’s Discussion and Analysis of Financial Condition and Results of Operations, beginning on page 37, are presented below. The comments include references to “total production” and “net production,” which are defined under “Production” in Exhibit 99.1 on page E-7.
+The discussion that follows references the status of proved reserves recognition for significant long-lead-time projects not on production as well as for projects recently placed on production. Reserves are not discussed for exploration activities or recent discoveries that have not advanced to a project stage, or for mature areas of production that do not have individual projects requiring significant levels of capital or exploratory investment.
+United States
+Upstream activities in the United States are primarily located in Texas, New Mexico, California, Colorado and the Gulf of Mexico. Acreage for the United States can be found in the table on page 7. Net daily oil-equivalent production in the United States can be found in the table on page 6.
+With the acquisition of Noble in October 2020, Chevron increased its position in the Permian Basin and acquired acreage in Colorado and Wyoming.
+The company’s acreage in the Permian Basin of West Texas and southeast New Mexico includes multiple stacked formations that enable production from several layers of rock in different geologic zones. Chevron has implemented a factory development strategy in the basin, which utilizes multiwell pads to drill a series of horizontal wells that are completed concurrently using hydraulic fracture stimulation. The company is also applying data analytics and technology to drive improvements in identifying well targets, in drilling and completions and in production performance. In 2020, Chevron’s net daily unconventional and conventional production in the Permian Basin averaged 294,000 barrels of crude oil, 980 million cubic feet of natural gas and 150,000 barrels of NGLs.
+In 2020, Chevron was one of the largest crude oil producers in California. Construction was completed in April 2020 on a new 29-megawatt solar farm to supply power to the Lost Hills Field. In October 2020, Chevron announced participation in a carbon capture trial in California with start-up expected in 2022.
+In Colorado, development in the Denver-Julesburg (DJ) Basin includes Wells Ranch and Mustang areas. Chevron’s integrated development plan provides an opportunity to efficiently produce these resources.
+In Wyoming, the company has acreage in the Powder River and Green River Basins.
+During 2020, net daily production in the Gulf of Mexico averaged 175,000 barrels of crude oil, 96 million cubic feet of natural gas and 11,000 barrels of NGLs. Chevron is engaged in various operated and nonoperated exploration, development and production activities in the deepwater Gulf of Mexico. Chevron also holds nonoperated interests in several shelf fields.
+The deepwater Jack and St. Malo fields are being jointly developed with a host floating production unit located between the two fields. Chevron has a 50 percent interest in the Jack Field and a 51 percent interest in the St. Malo Field. Both fields are company operated. The company has a 40.6 percent interest in the production host facility, which is designed to accommodate production from the Jack/St. Malo development and third-party tiebacks. Additional development opportunities for the Jack and St. Malo fields progressed in 2020. Stage 3 development drilling continued with the final well completed in May 2020. The St. Malo Stage 4 waterflood project includes two new production wells, three injector wells, and topsides water injection equipment at the St. Malo field. First injection is expected in 2023. The Stage 4 multiphase subsea pump project replaces the single-phase subsea pumps in both the Jack and St. Malo fields. Progress during 2020 included beginning pump module installation. Proved reserves have been recognized for the multiphase subsea pump project. The Jack and St. Malo fields have an estimated production life of 30 years.
+The company has a 15.6 percent nonoperated working interest in the deepwater Mad Dog Field. Project execution continued in 2020 on the Mad Dog 2 Project. This phase is the development of the southwestern extension of the Mad Dog Field, including a new floating production platform with a design capacity of 140,000 barrels of crude oil per day. Drilling and construction of the floating production unit are progressing as planned, and first oil is expected in 2022. Proved reserves have been recognized for the Mad Dog 2 Project.
+9
+
+
+
+Chevron has a 60 percent-owned and operated interest in the Big Foot Project, located in the deepwater Walker Ridge area. Development drilling activities are ongoing, with the third production well coming online in September 2020. An additional well is expected to come online in third quarter 2021. The project has an estimated production life of 35 years.
+The company has a 58 percent-owned and operated interest in the deepwater Tahiti Field. Progress continued on the Tahiti Upper Sands Project, which includes topsides facility enhancements to process high gas rates with start-up anticipated in third quarter 2021. Proved reserves have been recognized for this project. The Tahiti Field has an estimated remaining production life of more than 20 years.
+Chevron holds a 25 percent nonoperated working interest in the Stampede Field, which is located in the Green Canyon area. Production ramp-up continued in 2020, with the final producing well completed in March 2020. The field has an estimated production life of 30 years.
+Chevron has owned and operated interests of 62.9 to 75.4 percent in the unit areas containing the Anchor Field. Stage 1 of the Anchor development consists of a seven-well subsea development and a semi-submersible floating production unit. The planned facility has a design capacity of 75,000 barrels of crude oil and 28 million cubic feet of natural gas per day. Development work continued in 2020 with construction of the drillship, acquisition of seismic data, detailed engineering, equipment procurement and commencement of fabrication for the production facilities. At the end of 2020, no proved reserves were recognized for this project.
+Chevron has a 60 percent-owned and operated interest in the Ballymore Field located in the Mississippi Canyon area and a 40 percent nonoperated working interest in the Whale discovery located in the Perdido area. After successful appraisal programs on the Ballymore project, Chevron is planning to enter front-end engineering design (FEED) in second quarter 2021. FEED activities on the Whale project continued in 2020, with final investment decision expected in second-half 2021. At the end of 2020, proved reserves had not been recognized for these projects.
+During 2020, the company participated in two exploration wells and one appraisal well in the deepwater Gulf of Mexico. In February 2020, the first well in the Esox prospect, where Chevron holds a 21.4 percent nonoperated working interest, was tied into the Tubular Bells production facility.
+In March 2020, Chevron added 15 blocks in a U.S. Gulf of Mexico lease sale. Chevron subsequently added eight blocks resulting from a November 2020 U.S. Gulf of Mexico lease sale.
+The company sold its assets in the Marcellus and Utica Shale areas in November 2020.
+Other Americas
+“Other Americas” includes Argentina, Brazil, Canada, Colombia, Mexico, Suriname and Venezuela. Acreage for "Other Americas" can be found in the table on page 7. Net daily oil-equivalent production from these countries can be found in the table on page 6.
+Canada Upstream interests in Canada are concentrated in Alberta and the offshore Atlantic region of Newfoundland and Labrador. The company also has interests in the Beaufort Sea region of the Northwest Territories and British Columbia.
+The company holds a 20 percent nonoperated working interest in the Athabasca Oil Sands Project (AOSP) in Alberta. Oil sands are mined from both the Muskeg River and the Jackpine mines, and bitumen is extracted from the oil sands and upgraded into synthetic oil. Carbon dioxide emissions from the upgrader are reduced by carbon capture and storage facilities.
+Chevron has a 70 percent-owned and operated interest in most of the Duvernay shale acreage. By early 2021, a total of 203 wells had been tied into production facilities.
+Chevron holds a 26.9 percent nonoperated working interest in the Hibernia Field and a 23.7 percent nonoperated working interest in the unitized Hibernia Southern Extension areas offshore Atlantic Canada. The company holds a 29.6 percent nonoperated working interest in the heavy oil Hebron Field, also offshore Atlantic Canada, which has an expected economic life of 30 years.
+Chevron holds a 50 percent-owned and operated interest in Flemish Pass Basin Block EL 1138. The company also holds a 25 percent nonoperated working interest in blocks EL 1145, EL 1146 and EL 1148 and a 40 percent nonoperated working interest in EL 1149.
+Chevron holds a 50 percent-owned and operated interest in the Kitimat LNG and Pacific Trail Pipeline projects and a 50 percent-owned and operated interest in the Liard and Horn River shale gas basins in British Columbia. Efforts are underway to evaluate strategic alternatives for these projects.
+10
+
+
+
+Mexico The company owns and operates a 33.3 percent interest in Block 3 in the Perdido area of the Gulf of Mexico. Seismic interpretation progressed in 2020. Chevron holds a 37.5 percent-owned and operated interest in Block 22 where reprocessing of 3-D seismic data continued in 2020. The company also holds a 40 percent nonoperated interest in Blocks 20, 21 and 23 in the Cuenca Salina area in the deepwater Gulf of Mexico. Two exploration wells were drilled in the first half of 2020.
+Argentina Chevron holds a 50 percent nonoperated interest in the Loma Campana and Narambuena concessions in the Vaca Muerta Shale. Evaluation of the nonoperated Narambuena Block continued in 2020, including a four-well appraisal program which achieved first oil in November 2020. Chevron has a 90 percent-owned and operated interest with a four-year exploratory concession in Loma del Molle Norte Block.
+In April 2020, drilling and completion activity was halted due to the COVID-19 pandemic at the nonoperated Loma Campana concession in the Vaca Muerta Shale. Completion activity resumed in fourth quarter 2020 with drilling activity planned to re-start in first quarter 2021. During 2020, 17 horizontal wells were drilled. This concession expires in 2048.
+Chevron also owns and operates a 100 percent interest in the El Trapial Field with both conventional production and Vaca Muerta Shale potential. The company utilizes waterflood operations to mitigate declines at the operated El Trapial Field and continues to evaluate the potential of the Vaca Muerta Shale. The eight-well drilling program completed in third quarter 2020, and first oil was achieved in October 2020. Chevron expects to complete the appraisal program in second quarter 2021. The El Trapial concession expires in 2032.
+Brazil In February 2020, the company initiated the process to sell its 37.5 percent nonoperated interest in the Papa-Terra oil field.
+Chevron holds between 30 to 45 percent of both operated and nonoperated interests in 11 blocks within the Campos and Santos basins. One exploration well was drilled in 2020.
+Colombia In April 2020, the company completed the sale of its interests in the offshore Chuchupa and onshore Ballena natural gas fields. Chevron holds a 40 percent-owned and operated working interest in the offshore Colombia-3 and Guajira Offshore-3 Blocks. Exploration activities continued in 2020.
+Suriname Chevron holds a 33.3 percent nonoperated working interest in deepwater Block 42. Exploration activities continued in 2020. Chevron, along with the operator, relinquished its 50 percent nonoperated working interest in deepwater Block 45 in September 2020.
+Venezuela Chevron’s interests in Venezuela are located in western Venezuela and the Orinoco Belt. At the end of 2020, no proved reserves were recognized for these interests.
+Chevron has a 30 percent interest in Petropiar, which operates the heavy oil Huyapari Field under an agreement expiring in 2033. Chevron also holds a 39.2 percent interest in Petroboscan, which operates the Boscan Field in western Venezuela and a 25.2 percent interest in Petroindependiente, which operates the LL-652 Field in Lake Maracaibo, both of which are under agreements expiring in 2026. For additional information on the company’s activities in Venezuela, refer to Management’s Discussion and Analysis of Financial Condition and Results of Operations on pages 31 through 38 under upstream.
+Africa
+In Africa, the company is engaged in upstream activities in Angola, the Republic of Congo, Cameroon, Equatorial Guinea, and Nigeria. Acreage for Africa can be found in the table on page 7. Net daily oil-equivalent production from these countries can be found in the table on page 6.
+Angola The company operates and holds a 39.2 percent interest in Block 0, a concession adjacent to the Cabinda coastline, and a 31 percent operated interest in a production-sharing contract (PSC) for deepwater Block 14. The Block 0 concession extends through 2030. The Sanha Lean Gas Connection Project (SLGC) reached final investment decision in January 2021. SLGC is a new platform that ties the existing complex to new connecting pipelines for gathering and exporting gas from Blocks 0 and 14 to Angola LNG. In October 2020, the Angolan government approved combining all development areas in Block 14, providing enhanced fiscal terms and extending the PSC expiration to 2028.
+Chevron has a 36.4 percent interest in Angola LNG Limited, which operates an onshore natural gas liquefaction plant in Soyo, Angola. The plant has the capacity to process 1.1 billion cubic feet of natural gas per day. This is the world’s first LNG plant supplied with associated gas, where the natural gas is a byproduct of crude oil production. Feedstock for the
+11
+
+
+
+plant originates from multiple fields and operators. During 2020, work continued toward developing non-associated gas in offshore Angola, which is expected to supply the Angola LNG plant.
+Angola-Republic of Congo Joint Development Area Chevron operates and holds a 31.3 percent interest in the Lianzi Unitization Zone, located in an area shared equally by Angola and the Republic of Congo. The expiration for Lianzi is 2031.
+Republic of Congo Chevron has a 31.5 percent nonoperated working interest in the offshore Haute Mer permit areas (Nkossa, Nsoko and Moho-Bilondo). The permits for Nkossa, Nsoko and Moho-Bilondo expire in 2027, 2034 and 2030, respectively.
+Cameroon Chevron owns and operates the YoYo Block in the Douala Basin. Preliminary development plans include a possible joint development between YoYo and Yolanda Field in Equatorial Guinea.
+Equatorial Guinea Chevron has a 38 percent-owned and operated interest in the Aseng oil field and the Yolanda natural gas field in Block I and a 45 percent-owned and operated interest in Alen natural gas and condensate field in Block O. Work continued in 2020 on the development of the Alen Gas Project, which was completed in February 2021. The company also holds a 32 percent nonoperated interest in the natural gas and condensate Alba Field.
+Nigeria Chevron operates and holds a 40 percent interest in eight concessions in the onshore and near-offshore regions of the Niger Delta. The company also holds acreage positions in three operated and six nonoperated deepwater blocks, with working interests ranging from 20 to 100 percent.
+Chevron is the operator of the Escravos Gas Plant (EGP) with a total processing capacity of 680 million cubic feet per day of natural gas and LPG and condensate export capacity of 58,000 barrels per day. The company is also the operator of the 33,000-barrel-per-day Escravos Gas to Liquids facility. In addition, the company holds a 36.7 percent interest in the West African Gas Pipeline Company Limited affiliate, which supplies Nigerian natural gas to customers in Benin, Togo and Ghana.
+Chevron operates and holds a 67.3 percent interest in the Agbami Field, located in deepwater Oil Mining Lease (OML) 127 and OML 128. Additionally, Chevron holds a 30 percent nonoperated working interest in the Usan Field in OML 138. The leases that contain the Usan and Agbami Fields expire in 2023 and 2024, respectively.
+Also, in the deepwater area, the Aparo Field in OML 132 and OML 140 and the third-party-owned Bonga SW Field in OML 118 share a common geologic structure and are planned to be developed jointly. Chevron holds a 16.6 percent nonoperated working interest in the unitized area. The development plan involves subsea wells tied back to a floating production, storage and offloading vessel. Work continues to progress toward a final investment decision. At the end of 2020, no proved reserves were recognized for this project.
+In deepwater exploration, Chevron operates and holds a 55 percent interest in the deepwater Nsiko discoveries in OML 140. Chevron also holds a 27 percent interest in adjacent licenses OML 139 and OML 154. The company continues to work with the operator to evaluate development options for the multiple discoveries in the Usan area, including the Owowo Field, which straddles OML 139 and OML 154.
+In December 2020, the company signed an agreement to divest its 40 percent operated interest in OML 86 and OML 88.
+Middle East
+In the Middle East, the company is engaged in upstream activities in Cyprus, Egypt, Israel, the Kurdistan Region of Iraq and the Partitioned Zone located between Saudi Arabia and Kuwait. Quantitative data for Egypt can be found within the Africa geography throughout this document. Quantitative data for Cyprus, Israel, the Kurdistan Region of Iraq and the Partitioned Zone can be found within the Asia geography throughout this document.
+Cyprus The company holds a 35 percent-owned and operated interest in Aphrodite gas field in Block 12. Chevron operates the field with the Government of Cyprus and has a license that expires in 2044.
+Egypt During 2020, Chevron acquired four oil and gas exploration blocks with a 90 percent-owned and operated interest. The acquired blocks are Block 1 in the Red Sea, North Sidi Barrani in Block 2, and North El Dabaa and the Nargis blocks in the Mediterranean Sea. The company also acquired a 27 percent nonoperated working interest in the North Cleopatra and North Marina blocks also in the Mediterranean Sea.
+12
+
+
+
+Israel Chevron holds a 39.7 percent-owned and operated interest in the Leviathan Field, which operates under a concession that expires in 2044. During 2020, Chevron continued to ramp up production and progress its efforts to monetize discovered resources at Leviathan Field. The company also holds a 25 percent-owned and operated interest in the Tamar gas field. Progress continues on the Tamar SW development, which consists of one well tied back to Tamar. The current term of the lease for this field expires in 2038.
+Kurdistan Region of Iraq The company operates and holds a 50 percent interest in the Sarta PSC, which expires in 2047, and a 40 percent interest in the Qara Dagh PSC, which expires in October 2021. First oil was achieved from the Sarta Stage 1A project in November 2020. At the end of 2020, proved reserves have been recognized for this project. Chevron will operate the Sarta block through 2021 and plans to transfer operatorship thereafter provided certain milestones are achieved.
+Partitioned Zone Chevron holds a concession to oper    ate the Kingdom of Saudi Arabia’s 50 percent interest in the hydrocarbon resources in the onshore area of the Partitioned Zone between Saudi Arabia and Kuwait. The concession expires in 2046. Production restart was achieved in July 2020, and the company expects production to ramp up to full capacity levels in 2021.
+Asia
+In Asia, the company is engaged in upstream activities in Kazakhstan, Russia, Bangladesh, Myanmar, Thailand, China and Indonesia. Acreage for Asia can be found in the table on page 7. Net daily oil-equivalent production for these countries can be found in the table on page 6.
+Kazakhstan Chevron has a 50 percent interest in the Tengizchevroil (TCO) affiliate and an 18 percent nonoperated working interest in the Karachaganak Field.
+TCO is developing the Tengiz and Korolev crude oil fields in western Kazakhstan under a concession agreement that expires in 2033. All of TCO’s 2020 crude oil production was exported through the Caspian Pipeline Consortium (CPC) pipeline.
+The Future Growth Project and Wellhead Pressure Management Project (FGP/WPMP) at Tengiz is managed as a single integrated project. The FGP is designed to increase total daily production by about 260,000 barrels of crude oil and to expand the utilization of sour gas injection technology proven in existing operations to increase ultimate recovery from the reservoir. The WPMP is designed to maintain production levels in existing plants as reservoir pressure declines. The project advanced in 2020 with overall progress at approximately 81 percent at year-end 2020. TCO continued construction on the FGP/WPMP including completion of all fabrication and sealift activities and installing key modules and foundations at the 3rd Generation Plant. The WPMP portion is expected to start up in late 2022, with the remaining facilities expected to come online in mid-2023. COVID-19 impacts on project schedules and cost estimates are unknown at this time due to the uncertain timeline for remobilizing all personnel and safely sustaining activity levels. Proved reserves have been recognized for the FGP/WPMP.
+The Karachaganak Field is located in northwest Kazakhstan, and operations are conducted under a PSC that expires in 2038. Most of the exported liquids were transported through the CPC pipeline during 2020. Karachaganak Expansion Project Stage 1A reached final investment decision in December 2020. At the end of 2020, proved reserves had not been recognized for future expansion.
+Kazakhstan/Russia Chevron has a 15 percent interest in the CPC. Progress continued on the debottlenecking project, which is expected to further increase capacity. During 2020, CPC transported an average of 1.3 million barrels of crude oil per day, composed of 1.1 million barrels per day from Kazakhstan and 0.2 million barrels per day from Russia.
+ Bangladesh Chevron operates and holds a 100 percent interest in Block 12 (Bibiyana Field) and Blocks 13 and 14 (Jalalabad and Moulavi Bazar fields). The rights to produce from Jalalabad expire in 2030, from Moulavi Bazar in 2033 and from Bibiyana in 2034.
+Myanmar Chevron has a 28.3 percent nonoperated working interest in a PSC for the production of natural gas from the Yadana, Badamyar and Sein fields, within Blocks M5 and M6, in the Andaman Sea. The PSC expires in 2028. The company also has a 28.3 percent nonoperated working interest in a pipeline company that transports natural gas to the Myanmar-Thailand border for delivery to power plants in Thailand.
+Thailand Chevron holds operated interests in the Pattani Basin, located in the Gulf of Thailand, with ownership ranging from 35 percent to 80 percent. Concessions for producing areas within this basin expire between 2022 and 2035. Chevron
+13
+
+
+
+also has a 16 percent nonoperated working interest in the Arthit Field located in the Malay Basin. Concessions for the producing areas within this basin expire between 2036 and 2040.
+Within the Pattani Basin the company holds ownership ranging from 70 to 80 percent of the Erawan concession, which expires in April 2022. Chevron also has a 35 percent-owned and operated interest in the Ubon Project in Block 12/27. In late 2020, project studies were suspended pending an improved investment climate. At the end of 2020, proved reserves had not been recognized for this project.
+Chevron holds between 30 and 80 percent operated and nonoperated working interests in the Thailand-Cambodia overlapping claims area that are inactive, pending resolution of border issues between Thailand and Cambodia.
+China Chevron has nonoperated working interests in several areas in China. The company has a 49 percent nonoperated working interest in the Chuandongbei Project including the Loujiazhai and Gunziping natural gas fields located onshore in the Sichuan Basin.
+The company also has nonoperated working interests of 32.7 percent in Block 16/19 in the Pearl River Mouth Basin, 24.5 percent in the Qinhuangdao (QHD) 32-6 Block, and 16.2 percent in Block 11/19 in the Bohai Bay. The PSCs for these producing assets expire between 2022 and 2028.
+Philippines The company closed the sale of its 45 percent nonoperated working interest in the offshore Malampaya natural gas field in March 2020.
+Indonesia Chevron has working interests through various PSCs in Indonesia. In Sumatra, the company holds a 100 percent-owned and operated interest in the Rokan PSC, which expires in August 2021. The company operates and holds a 62 percent interest in two PSCs in the Kutei Basin (Rapak and Ganal), located offshore eastern Kalimantan. Additionally, in offshore eastern Kalimantan, the company operates a 72 percent interest in the Makassar Strait PSC. The PSCs for offshore eastern Kalimantan expire in 2027 and 2028.
+Chevron has concluded that the Indonesia Deepwater Development held by the Kutei Basin PSCs does not compete in its portfolio and is evaluating strategic alternatives for the company’s 62 percent-owned and operated interest.
+Azerbaijan In April 2020, Chevron sold its 9.6 percent nonoperated interest in Azerbaijan International Operating Company and its 8.9 percent interest in the Baku-Tbilisi-Ceyhan (BTC) pipeline affiliate.
+United Kingdom
+Net oil equivalent production for the United Kingdom can be found in the table on page 6.
+Chevron holds a 19.4 percent nonoperated working interest in the Clair Field, located west of the Shetland Islands. The Clair Ridge Project is the second development phase of the Clair Field, with a design capacity of 120,000 barrels of crude oil and 100 million cubic feet of natural gas per day. Three additional wells were completed in 2020. The Clair Field has an estimated production life extending beyond 2050.
+Australia
+Chevron is Australia's largest producer of LNG. Acreage can be found in the table on page 7. Net daily oil-equivalent production can be found in the table on page 6.
+Upstream activities in Australia are concentrated offshore Western Australia, where the company is the operator of two major LNG projects, Gorgon and Wheatstone, and has a nonoperated working interest in the North West Shelf (NWS) Venture and exploration acreage in the Carnarvon Basin.
+Chevron holds a 47.3 percent-owned and operated interest in the Gorgon Project, which includes the development of the Gorgon and Jansz-Io fields. The carbon dioxide system reached a full injection rate by first quarter 2020. Progress on the Gorgon Stage 2 project continued in 2020 with the completion of drilling of 11 subsea wells and is expected to be completed in 2022. The project's estimated economic life exceeds 40 years.
+FEED work continued in 2020 on the Jansz-Io Compression Project. The project supports maintaining gas supply to the Gorgon LNG plant and maximizing the recovery of fields accessing the Jansz trunkline.
+Chevron holds an 80.2 percent interest in the offshore licenses and a 64.1 percent-owned and operated interest in the LNG facilities associated with the Wheatstone Project. The project includes the development of the Wheatstone and Iago fields, a two-train, 8.9 million-metric-ton-per-year LNG facility, and a domestic gas plant. The onshore facilities are located at
+14
+
+
+
+Ashburton North on the coast of Western Australia. The total production capacity for the Wheatstone and Iago fields and nearby third-party fields is expected to be approximately 1.6 billion cubic feet of natural gas and 30,000 barrels of condensate per day. The project’s estimated economic life exceeds 30 years.
+Chevron has a 16.7 percent nonoperated working interest in the NWS Venture in Western Australia. In June 2020, Chevron announced the decision to market its share in the NWS Venture with the data room opening in September 2020.
+The company continues to evaluate exploration and appraisal activity across the Carnarvon Basin in which it holds more than 6.6 million net acres. During 2020, the company relinquished nonoperated working interests it held in the Browse Basin.
+Chevron owns and operates the Clio, Acme and Acme West fields. The company is collaborating with other Carnarvon Basin participants to assess the possibility of developing Clio and Acme through shared utilization of existing infrastructure.
+Sales of Natural Gas and Natural Gas Liquids
+ The company sells natural gas and NGLs from its producing operations under a variety of contractual arrangements. In addition, the company also makes third-party purchases and sales of natural gas and NGLs in connection with its supply and trading activities.
+During 2020, U.S. and international sales of natural gas averaged 3.9 billion and 5.6 billion cubic feet per day, respectively, which includes the company’s share of equity affiliates’ sales. Outside the United States, substantially all of the natural gas sales from the company’s producing interests are from operations in Angola, Argentina, Australia, Bangladesh, Canada, Kazakhstan, Indonesia, Israel, Myanmar, Nigeria and Thailand.
+U.S. and international sales of NGLs averaged 233,000 and 120,000 barrels per day, respectively, in 2020.
+Refer to “Selected Operating Data,” on page 41 in Management’s Discussion and Analysis of Financial Condition and Results of Operations, for further information on the company’s sales volumes of natural gas and natural gas liquids. Refer also to “Delivery Commitments” beginning on page 7 for information related to the company’s delivery commitments for the sale of crude oil and natural gas.
+Downstream
+Refining Operations
+At the end of 2020, the company had a refining network capable of processing 1.8 million barrels of crude oil per day. Operable capacity at December 31, 2020, and daily refinery inputs for 2018 through 2020 for the company and affiliate refineries are summarized in the table on the next page.
+Average crude oil distillation capacity utilization was 76 percent in 2020 and 90 percent in 2019. At the U.S. refineries, crude oil distillation capacity utilization averaged 73 percent in 2020, compared with 91 percent in 2019. Chevron processes both imported and domestic crude oil in its U.S. refining operations. Imported crude oil accounted for about 59 percent and 65 percent of Chevron’s U.S. refinery inputs in 2020 and 2019, respectively.
+In the United States, the company continued work on projects to improve refinery flexibility and reliability. At the El Segundo Refinery in California, enhancements are underway to enable production of renewable fuels including diesel, jet and gasoline from bio-feedstocks. At the refinery in Salt Lake City, Utah, construction continued on the alkylation retrofit project with more than 100 modules installed. Project start-up is expected in second quarter 2021. The Pasadena Refinery enables processing of greater amounts of Permian light crude oil and provides integration with Chevron’s Gulf Coast Pascagoula, Mississippi refinery and Houston Blend Center.
+Outside the United States, the company has three large refineries in South Korea, Singapore and Thailand. The Singapore Refining Company (SRC), a 50 percent-owned joint venture, has a total capacity of 290,000 barrels of crude per day and manufactures a wide range of petroleum products. Refinery upgrades have enabled SRC to produce higher-quality gasoline that meets stricter emission standards. The 50 percent-owned, GS Caltex (GSC) operated, Yeosu Refinery in South Korea remains one of the world’s largest refineries with a total crude capacity of 800,000 barrels per day. In 2020, progress continued on the olefins mixed-feed cracker and associated polyethylene unit with first production expected second-half 2021. The company’s 60.6 percent-owned refinery in Map Ta Phut, Thailand, continues to supply high-quality petroleum products through the Caltex brand into regional markets.
+15
+
+
+
+																							
+Petroleum Refineries: Locations, Capacities and Inputs
+	
+Capacities and inputs in thousands of barrels per day	December 31, 2020	Refinery Inputs	
+Locations 	Number 	Operable Capacity 	2020	2019	2018	
+Pascagoula	Mississippi	1 		369 		305 		358 		332 		
+El Segundo	California	1 		290 		176 		241 		273 		
+Richmond	California	1 		257 		198 		236 		249 		
+Pasadena1
+	Texas	1 		110 		69 		58 		— 		
+Salt Lake City	Utah	1 		58 		45 		54 		51	
+Total Consolidated Companies — United States 	5 		1,084 		793 		947 		905 		
+Map Ta Phut	Thailand	1 		175 		143 		134 		160 		
+Cape Town2
+	South Africa	— 		— 		— 		— 		49 		
+Total Consolidated Companies — International 	1 		175 		143 		134 		209 		
+Affiliates	
+Various Locations3
+	2 		545 		441 		483 		494 		
+Total Including Affiliates — International 	3 		720 		584 		617 		703 		
+Total Including Affiliates — Worldwide 	8 		1,804 		1,377 		1,564 		1,608 		
+1    In May 2019, the company acquired the Pasadena, TX refinery.
+2    In September 2018, the company sold its interest in the Cape Town refinery.
+3    In March 2020, the company sold its interest in the Pakistan refinery.
+Marketing Operations
+The company markets petroleum products under the principal brands of “Chevron,” “Texaco” and “Caltex” throughout many parts of the world. The following table identifies the company’s and its affiliates’ refined products sales volumes, excluding intercompany sales, for the three years ended December 31, 2020.
+														
+Refined Products Sales Volumes
+	
+Thousands of barrels per day	2020	2019	2018	
+United States				
+Gasoline
+	581 		667	627	
+Jet Fuel
+	139 		256	255	
+Diesel/Gas Oil
+	167 		191	188	
+Residual Fuel Oil
+	33 		42	48	
+Other Petroleum Products1
+	83 		94	100	
+Total United States	1,003 		1,250 		1,218 		
+International2
+				
+Gasoline
+	264 		289	336	
+Jet Fuel
+	143 		238	276	
+Diesel/Gas Oil
+	438 		427	446	
+Residual Fuel Oil
+	184 		167	177	
+Other Petroleum Products1
+	192 		206	202	
+Total International 	1,221 		1,327 		1,437 		
+Total Worldwide2
+	2,224 		2,577 		2,655 		
+1 Principally naphtha, lubricants, asphalt and coke.
+		
+2 Includes share of affiliates’ sales:
+	348 		379	373	
+ In the United States, the company markets under the Chevron and Texaco brands. At year-end 2020, the company supplied directly or through retailers and marketers approximately 8,000 Chevron- and Texaco- branded service stations, primarily in the southern and western states. Approximately 310 of these outlets are company-owned or -leased stations.
+Outside the United States, Chevron supplied directly or through retailers and marketers approximately 5,600 branded service stations, including affiliates. The company markets in Latin America using the Texaco brand. In 2020, Chevron continued to grow in northwestern Mexico, expanding to nearly 230 branded stations at the end of the year. The company also operates through affiliates under various brand names. In the Asia-Pacific region and the Middle East, the company uses the Caltex brand. In South Korea, the company operates through its 50 percent-owned affiliate, GSC.
+In June 2020, the company acquired a network of terminals and service stations in Australia aligning with Chevron's value chain optimization in the Asia-Pacific region.
+Chevron markets commercial aviation fuel to 69 airports worldwide. The company also markets an extensive line of lubricant and coolant products under the product names Havoline, Delo, Ursa, Meropa, Rando, Clarity and Taro in the United States and worldwide under the three brands: Chevron, Texaco and Caltex.
+16
+
+
+
+Chemicals Operations
+Chevron Oronite Company develops, manufactures and markets performance additives for lubricating oils and fuels and conducts research and development for additive component and blended packages. At the end of 2020, the company manufactured, blended or conducted research at 10 locations around the world. Construction was completed in 2020 on a lubricant additive blending and shipping plant in Ningbo, China. Commercial production is anticipated to begin in the second quarter 2021.
+Chevron owns a 50 percent interest in Chevron Phillips Chemical Company LLC (CPChem). CPChem produces olefins, polyolefins and alpha olefins and is a supplier of aromatics and polyethylene pipe, in addition to participating in the specialty chemical and specialty plastics markets. At the end of 2020, CPChem owned or had joint-venture interests in 28 manufacturing facilities and two research and development centers around the world.
+CPChem holds a 51 percent interest in the US Gulf Coast II Petrochemical Project (USGC II) and a 30 percent interest in the Ras Laffan Petrochemical Project (RLPP) in Qatar. Engineering and design were completed for USGC II in November 2020 and are ongoing for the RLPP facility.
+Chevron also maintains a role in the petrochemical business through the operations of GSC, the company’s 50 percent-owned affiliate. GSC manufactures aromatics, including benzene, toluene and xylene. These base chemicals are used to produce a range of products, including adhesives, plastics and textile fibers. GSC also produces polypropylene, which is used to make automotive and home appliance parts, food packaging, laboratory equipment and textiles.
+In 2020, progress continued on the construction of an olefins mixed-feed cracker and associated polyethylene unit within the existing refining and petrochemical facilities in Yeosu, South Korea. First production is expected at the new plant in second-half 2021.
+Transportation
+Pipelines Chevron owns and operates a network of crude oil, natural gas and product pipelines and other infrastructure assets in the United States. In addition, Chevron operates pipelines for its 50 percent-owned CPChem affiliate. The company also has direct and indirect interests in other U.S. and international pipelines.
+As a result of the Noble acquisition, Chevron acquired a majority interest in Noble Midstream Partners LP (Noble Midstream). Noble Midstream is primarily focused in the DJ Basin in Colorado and Delaware Basin in Texas providing services to Chevron and third-party customers. In February 2021, Chevron announced a non-binding offer to acquire all of the outstanding common units of Noble Midstream Partners LP not already owned by Chevron or any of its affiliates.
+Refer to pages 12 through 13 in the Upstream section for information on the West African Gas Pipeline and the Caspian Pipeline Consortium.
+Shipping The company’s marine fleet includes both U.S. and foreign flagged vessels. The operated fleet consists of conventional crude tankers, product carriers and LNG carriers. These vessels transport crude oil, LNG, refined products and feedstock in support of the company’s global upstream and downstream businesses.
+Other Businesses
+Chevron Technical Center The company’s technical center provides expertise to drive the application of technology, initiatives to transform Chevron’s digital future, and innovative breakthrough technologies to support the future of energy. The organization conducts research, develops and qualifies technology, and provides technical services and competency development. The disciplines cover earth sciences, reservoir and production engineering, drilling and completions, facilities engineering, manufacturing, process technology, catalysis, technical computing and health, environment and safety.
+Chevron’s information technology organization integrates computing, telecommunications, data management, cybersecurity and network technology to provide a digital infrastructure to enable Chevron’s global operations and business processes.
+Chevron’s Technology Ventures (CTV) unit identifies and integrates externally developed technologies and new business solutions with the potential to enhance the way Chevron produces and delivers affordable, reliable, and ever-cleaner energy. CTV has more than two decades of venture investing, with eight funds that have supported more than 100 startups and worked with more than 200 co-investors. In addition to the company’s own managed funds, Chevron also makes
+17
+
+
+
+investments indirectly through the following funds: the Oil and Gas Climate Initiative (OGCI) Climate Investments fund targets the decarbonization of oil and gas, industry and commercial transportation; Emerald Ventures targets energy, water, industrial IT and advanced materials; and the HX Venture fund targets Houston, Texas high-growth start-ups.
+Chevron continued its participation as a member of OGCI, a global collaboration focused on the industry’s efforts to take actions to accelerate and participate in a lower carbon future. In 2020, OGCI committed to a Global Gas Flaring Explorer web platform and set a target for OGCI members to reduce oil and gas carbon intensity.
+Some of the investments the company makes in the areas described above are in new or unproven technologies and business processes, and ultimate technical or commercial successes are not certain. Refer to Note 25 on page 95 for a summary of the company’s research and development expenses.
+Environmental Protection The company designs, operates and maintains its facilities to avoid potential spills or leaks and to minimize the impact of those that may occur. Chevron requires its facilities and operations to have operating standards and processes and emergency response plans that address significant risks identified through site-specific risk and impact assessments. Chevron also requires that sufficient resources be available to execute these plans. In the unlikely event that a major spill or leak occurs, Chevron also maintains a Worldwide Emergency Response Team comprised of employees who are trained in various aspects of emergency response, including post-incident remediation.
+To complement the company’s capabilities, Chevron maintains active membership in international oil spill response cooperatives, including the Marine Spill Response Corporation, which operates in U.S. territorial waters, and Oil Spill Response, Ltd., which operates globally. The company is a founding member of the Marine Well Containment Company, whose primary mission is to expediently deploy containment equipment and systems to capture and contain crude oil in the unlikely event of a future loss of control of a deepwater well in the Gulf of Mexico. In addition, the company is a member of the Subsea Well Response Project, which has the objective to further develop the industry’s capability to contain and shut in subsea well control incidents in different regions of the world.
+The company is committed to improving energy efficiency in its day-to-day operations and is required to comply with the greenhouse gas-related laws and regulations to which it is subject. Refer to Item 1A. Risk Factors on pages 18 through 23 for further discussion of greenhouse gas regulation and climate change and the associated risks to Chevron’s business.
+Refer to Management’s Discussion and Analysis of Financial Condition and Results of Operations on page 49 for additional information on environmental matters and their impact on Chevron, and on the company’s 2020 environmental expenditures. Refer to page 49 and Note 22 beginning on page 92 for a discussion of environmental remediation provisions and year-end reserves. 

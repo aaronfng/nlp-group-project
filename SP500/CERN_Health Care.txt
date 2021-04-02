@@ -1,0 +1,247 @@
+Overview
+
+Cerner Corporation started doing business as a Missouri corporation in 1980 and was merged into a Delaware corporation in 1986. Unless the context otherwise requires, references in this report to "Cerner," the "Company," "we," "us" or "our" mean Cerner Corporation and its subsidiaries.
+
+Our corporate world headquarters is located in a Company-owned office park in North Kansas City, Missouri, with our principal place of business located at 2800 Rockcreek Parkway, North Kansas City, Missouri 64117. Our Web site, which we use to communicate important business information, can be accessed at: www.cerner.com. We make our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and all amendments to those reports available free of charge on or through this Web site as soon as reasonably practicable after such material is electronically filed with or furnished to the Securities and Exchange Commission ("SEC"). We do not intend for information contained in our website to be part of this annual report on Form 10-K.
+Cerner is a leading supplier of health care information technology ("HCIT") solutions and tech-enabled services. Our mission is to relentlessly seek breakthrough innovation that will shape health care of tomorrow. We offer a wide range of intelligent solutions and tech-enabled services that support the clinical, financial and operational needs of organizations of all sizes. Cerner® solutions and services help clinicians make care decisions and assist organizations in managing the health of their populations. We also offer integrated clinical and financial systems to help manage day-to-day revenue functions, as well as a wide range of services to support clinical, financial and operational needs. We are also expanding our presence in the life sciences industry by working with health care stakeholders to harness data to improve the safety, efficiency, and efficacy of clinical research.
+
+Cerner solutions are offered on the unified Cerner Millennium® architecture and on the HealtheIntent® cloud-based platform. Cerner Millennium is a person-centric computing framework, which includes integrated clinical, financial and management information systems. This architecture allows providers to securely access an individual's electronic health record ("EHR") at the point of care, and it organizes and proactively delivers information to meet the specific needs of physicians, nurses, laboratory technicians, pharmacists, front- and back-office professionals and consumers. Our HealtheIntent platform is a cloud-based platform designed to scale at a population level while facilitating health and care at a person and provider level. On the HealtheIntent platform, we offer solutions that aggregate, transform and reconcile data across the continuum of care, enabling key stakeholders to manage the health of populations, improve outcomes, enhance clinical research and lower costs. Cerner also has an EHR agnostic platform, CareAware®, that facilitates connectivity of health care devices to EHRs and helps improve hospital operations, allowing for more efficient and effective care.
+
+On February 2, 2015, Cerner acquired the Health Services business from Siemens AG, which offered a portfolio of enterprise-level clinical and financial health care information technology solutions, as well as departmental and care coordination solutions globally. Refer to Notes (8) and (9) of the notes to consolidated financial statements ("Notes") for information on our acquisitions and dispositions.
+
+We offer a broad range of tech-enabled services, including implementation and training, remote hosting, operational management services, revenue cycle services, support and maintenance, health care data analysis, real-world evidence, clinical process optimization, transaction processing, employer health centers, employee wellness programs and third-party administrator services for employer-based health plans.
+
+In addition to software and services, we offer a wide range of complementary hardware and devices, primarily as a reseller for third parties.
+1
+Table of Contents
+The following table presents consolidated revenues by our business models and by segment, as a percentage of total revenues:
+											
+	For the Years Ended
+	2020	2019	2018
+			
+Revenues by Business Models			
+Licensed software	12 	%	12 	%	11 	%
+Technology resale	3 	%	4 	%	5 	%
+Subscriptions	7 	%	6 	%	6 	%
+Professional services	35 	%	35 	%	34 	%
+Managed services	23 	%	21 	%	21 	%
+Support and maintenance	19 	%	20 	%	21 	%
+Reimbursed travel	1 	%	2 	%	2 	%
+	100 	%	100 	%	100 	%
+			
+Revenues by Segment			
+Domestic	89 	%	89 	%	88 	%
+International	11 	%	11 	%	12 	%
+	100 	%	100 	%	100 	%
+
+A description of our business models is as follows:
+
+•Licensed software - We develop and license intellectual property ("IP") (our architectures, application software, executable and referential knowledge, data and algorithms) to our clients. Our licensed software business model includes revenues from IP delivered via perpetual license and software as a service, where functionality is delivered via "the cloud".
+•Technology resale - We bundle licensed software with other companies' IP in the form of sublicenses to create complete technology solutions for our clients. We also resell bundled computer equipment (hardware) from technology companies to create a completely functional system. Additionally, we resell medical devices for a growing list of medical device companies.
+
+•Subscriptions - Another method by which we provide IP is on a time-based subscription model that has a periodic usage charge. This is the primary way we package and provide medical knowledge, which changes frequently based on research and can be updated independently from the software in which it is embedded. Also included in this category of revenue is our Electronic Data Interchange ("EDI") transaction revenue. EDI is the electronic transfer of data between health care providers and payers.
+
+•Professional services - We provide a wide range of professional services to assist our clients in the implementation of our information systems in their organizations. These services are in the form of project management, technical and application expertise, clinical process optimization, regulatory consulting and education and training of our clients' workforce to assist in the design and implementation of our systems. This business model also includes certain outsourcing services utilized by health care organizations.
+
+•Managed services - Our managed services business model includes revenues from remote hosting, application management services, operational management services, and disaster recovery. Remote hosting is the largest of these offerings, and it involves Cerner buying the necessary equipment, installing it in one of our data centers, and operating the entire system on the client's behalf.
+
+•Support and maintenance - This business model is comprised of the ongoing support and maintenance services we provide our clients. Almost all of our clients contract for these services. Clients with support contracts get 24x7 access to our immediate response center, which serves as our "emergency room," as well as access to our SolutionWorks organization for less urgent issues. In addition, our clients' support payments give them ongoing access to the latest releases of our IP. We also provide support for sublicensed software and maintenance for third party hardware.
+2
+Table of Contents
+
+•Reimbursed travel - Includes reimbursable out-of-pocket expenses (primarily travel) incurred in connection with our client service activities.
+
+Health Care and Health Care IT Industry
+
+There are several major forces shaping health care worldwide.
+
+•Rising Health Care Costs - Health care costs continue to rise above the rate of inflation, with total health care expenditures increasing 4.5% to $3.8 trillion in 2019, representing 18% of the U.S. Gross Domestic Product ("GDP"). Health expenditures are expected to grow over 5% annually over the next decade, which would bring them to approximately 20% of GDP. Similar growth trends exist in most major non-U.S. markets as well. We believe this trajectory is unsustainable and that health care IT can play an important role in facilitating a shift from a high-cost health care system that incents volume to a proactive system that incents health, quality and efficiency.
+
+•Industry Consolidation - The number of health care providers turning to mergers, acquisitions and partnerships has surged. On a 15-year basis the percentage of hospitals functioning under a health system rather than operating independently increased from approximately 50% to approximately 65%. Today, over 70% of hospitals are operating as part of a health system rather than independently. This consolidation trend has also included the outpatient setting as health systems are seeking to build out health networks within defined Metropolitan Statistical Areas ("MSAs").
+
+•Evolving Reimbursement - With the full enactment of The Patient Protection and Affordable Care Act ("ACA"), Medicaid expansion in more than three-quarters of all states, and the aging population driving Medicare growth, the government is playing an increasingly material role in U.S. health care economics. The implications for providers include increased regulatory requirements for payment at less favorable terms than commercial payers. This reality has exacerbated an already tough margin profile and is expected to be the new normal for the years to come. Provider organizations are also dealing with an ongoing shift to value-based reimbursement models through programs like the Medicare Access and CHIP Reauthorization Act ("MACRA") and Bundled Payment Care Initiative, which change the way that Medicare rewards clinicians for value over volume. These reforms, over time, could materially change provider economics.
+
+•Consumer Expectations - Increased out-of-pocket expense and technology utilization outside health care have contributed to rising consumer expectations on cost, convenience and service. This growing consumerism has increased the political focus on rising drug prices, surprise medical bills, and escalating premiums, highlighting the importance of having comprehensive strategies for engaging consumers.
+
+•Cognitive Computing - Today, health care is principally digitized across the core clinical, operational and financial settings. However, while workflows have been digitized, business processes remain largely unautomated and the industry has yet to realize the benefits of digitization achieved in other industries. Cognitive computing represents a meaningful opportunity to leverage the digitization that now exists in health care to improve efficiency and quality, and we believe Cerner is well positioned to play a key role in helping the health care industry achieve this potential.
+
+•Coronavirus ("COVID-19") Pandemic – The health care and life sciences industries are at the forefront of the pandemic with heroic efforts by health care providers on the frontlines and advances in technology and science enabling vaccines to get to market in an unprecedented timeframe. Looking beyond 2020, we believe the pandemic could lead to an acceleration of macro trends already playing out. Examples of this include the likelihood the pandemic accelerates the role of the Federal government as the top regulator and payor for health care; ongoing health system consolidation; and increased consumer expectations, particularly around the convenience of telehealth.
+
+For the core provider market, many of these forces are contributing to an overall challenging macro environment. Providers are simultaneously seeking to grow key service lines, drive operational efficiencies to make money at Medicare rates, and build out the competencies required to take and effectively manage risk and participate in value-based reimbursement models. Information technology is seen as an enabler of these efforts, which represents an opportunity for
+3
+Table of Contents
+Cerner. At the same time, the low-margin nature of provider businesses can make it difficult to fund required investment, making it important for solutions and services to have a clear return on investment.
+
+Cerner Vision and Growth Strategy
+
+Throughout our history, Cerner has focused on creating innovation at the intersection of health care and information technology. Our vision has long been to create a Health Network Architecture ("HNA") for providers of care in every community. HNA has four core pillars: automate the care process; connect the person; structure, store and study the data; and then 'close the loop' by pushing analytic insights back into the care process. The base digitization that now exists in health care is foundational to achieving this vision, and we believe it can be achieved in the decade to come.
+
+Our framework for growth as we work towards achieving our long-term vision includes three core areas.
+
+First, we are focused on delivering in our core market, including executing effectively on our large U.S. federal contracts, continuing to enhance key solution areas, such as revenue cycle, that are important to existing clients and represent revenue growth opportunities, and aligning with our provider clients to help them increase revenue in key service lines, tackle margin compression and optimize their reimbursement dollars. In addition, we are investing in platform modernization, with a focus on delivering a software as a service platform that we expect to lower total cost of ownership, improve clinician experience and patient outcomes, enable clients to accelerate adoption of new functionality, and better leverage third-party innovations. These efforts, in collaboration with Amazon Web Services, can differentiate Cerner and position our installed client base to better manage the forces of change playing out in health care.
+
+Second, we are continuing work towards advancing the HNA vision that has driven Cerner almost since its inception. We believe that through the creation of a cohesive architecture for health care, the walls between care centers will become transparent as information travels seamlessly among care settings. Data collected at one setting will be available to others across the country, ensuring every individual in every part of the care process is connected to the right knowledge, resources and persons at the appropriate time and place. We believe the coming decade is the window when the confluence of technology, data liquidity and business model shifts can make this vision a reality. Health systems are increasingly building network strategies within specific regions to enhance contracting power, increase patient stickiness and move closer to the premium dollar. Cerner has an opportunity to become a strategic partner and assist with network design, provide services in areas such as cybersecurity and operational reporting, and improve performance under value-based contracting. Cerner's HealtheIntent platform was purpose-built as a cloud-based, EHR-agnostic platform that enables these efforts. HealtheIntent is also foundational to our offerings in other areas that represent growth opportunities for Cerner. These include provider market offerings, such as long-term care, home care and hospice, rehabilitation, behavioral health, community care, care team communications, and health systems operations, as well as consumer and employer offerings.
+
+Third, Cerner has an opportunity to harness data to drive growth in new areas, including using real-world evidence to improve clinical research and providing release of information services to drive efficiencies for the legal, life insurance and other industries. Cerner has natural points of differentiation, including our proximity to the data given that our technology assets are in place in approximately a quarter of U.S. health care facilities, and our proven ability to aggregate and normalize multiple sources of data through our HealtheIntent platform, which contains data from over 250 million longitudinal records.
+
+The early returns have been positive. We have made progress in the pharma and life sciences space with our HealtheDataLabSM offering and the Cerner Learning Health NetworkTM, a strategy originating from our collaboration with the Duke Clinical Research Institute.
+
+We have made good progress at building the Cerner Learning Health Network. With a mission of revolutionizing clinical research, the Cerner Learning Health Network offers health systems complimentary access to a network of bi-directional, de-identified data resources. This access helps advance research efforts and provides opportunities to generate revenue with funded research studies from life science companies.
+
+In late 2020, Cerner took two actions to enhance the Learning Heath NetworkSM and further position Cerner to play a meaningful role in advancing clinical research. First, Cerner invested in Elligo Health Research, a leading integrated research organization that enables clinical trials with nationwide community-based health care practices. Cerner plans to work with Elligo to expand the data and tools available in the Cerner Learning Health Network to offer additional clinical trial resources to community and rural hospitals and physician practices. This collaboration is expected to shorten clinical
+4
+Table of Contents
+research timeframes, make clinical trials more broadly and easily accessible and reduce the costs associated with bringing therapies to market.
+
+Second, Cerner announced an agreement to acquire Kantar Health, a division of Kantar Group. Kantar Health is a leading data, analytics and real-world evidence and commercial research consultancy serving the life science industry. With this acquisition, which we expect to close in the second quarter of 2021, subject to certain conditions, Cerner plans to harness data to improve the safety, efficiency and efficacy of clinical research across life sciences, pharmaceuticals and health care at large. This acquisition is expected to allow the Cerner Learning Health Network client consortium to more directly engage with life sciences for funded research studies. This acquisition is expected to be a strong complement to our existing Data-as-a-Service efforts as it would bring a meaningful entry into the pharmaceutical market through Kantar Health's existing clients and their strong leadership team with important industry experience and relationships.
+
+Cerner expects to build on this early success and continue creating information-based solutions that reinvent traditional health care businesses, allow our customers to better serve their markets and ultimately change lives. We believe the data space not only represents a material addressable market beyond Cerner's traditional provider base, but that it is also consistent with, and a compelling advancement of, the vision of personalized medicine that animated the original thinking around HNA.
+
+Importantly, Cerner's health data strategy is based on curating data from a willing and engaged network of providers with an emphasis on clear boundaries around the usage of patient data and based on clearly defined use cases with clarity and transparency around data rights.
+
+In summary, we believe Cerner's core value proposition remains strong and there is ample opportunity to grow both organically and inorganically through the areas discussed above. As Cerner drives these areas of growth, we expect a strong and dynamic competitive landscape, ranging from startups to mega-cap companies that are attracted to the substantial addressable markets across health care. Success will require entrepreneurial scale. We will have to move faster and be nimbler than the mega-caps, while also leveraging our advantages of size and experience that venture-backed startups lack.
+
+Contracting with the Government
+
+As we grow our federal business, revenue attributable to prime contracts or to subcontracts with other contractors engaged in work for the U.S. government is becoming a bigger contributor to our overall revenue. Within the U.S. government, our revenues are diversified across various agencies, including the Department of Defense and the U.S. Department of Veterans Affairs. During 2020 and 2019, approximately 18% and 13%, respectively, of our total revenues were attributable to our relationships (as the prime contractor or a subcontractor) with U.S. government agencies. Contracting with the U.S. government subjects us to substantial regulation and unique risks, including the U.S. government's ability to cancel any contract at any time through a termination for the convenience of the U.S. government. Government cancellation terms typically permit the recovery of all or a portion of our incurred costs and fees for work performed prior to termination when the U.S. government issues a termination for convenience. These regulations and risks are described in more detail below under "Risk Factors" in this annual report on Form 10-K.
+
+Software Development
+
+We commit significant resources to developing new health information system solutions and services. As of the end of 2020, approximately 7,200 associates were engaged in research and development activities. Total expenditures for the development and enhancement of our software solutions were $797 million, $784 million and $747 million during 2020, 2019 and 2018, respectively. These figures include both capitalized and non-capitalized portions and exclude amounts amortized for financial reporting purposes.
+
+As discussed above, continued investment in research and development ("R&D") remains a core element of our strategy. This will include ongoing enhancement of our core solutions and development of new solutions and services.
+
+Intellectual Property
+
+We have a broad portfolio of intellectual property rights to protect the proprietary interests in our solutions, services, devices and brands. Our solutions constitute works of authorship protected by copyrights in the United States and globally. We own valuable trade secrets embodied in, or related to, our solutions, services and devices and protect these
+5
+Table of Contents
+rights through a number of technical and legal measures. We have registered or applied to register certain trademarks and service marks in a number of countries with particular emphasis on the Cerner branding elements. We continue to develop our patent portfolio and own more than 600 issued patents with hundreds of patent applications pending. We do not consider any of our businesses to be dependent upon any one patent, copyright, trademark, or trade secret, or any family or families of the same.
+
+Our solutions, devices and services incorporate or rely on intellectual property rights licensed from third parties, including software subject to open source software licenses. Certain technologies licensed to Cerner are also important for internal use in running our business and supporting our clients. Although replacing any existing licenses could be inconvenient, based on our experiences, existing contractual relationships, and the incentives of our technology suppliers, we believe that Cerner will continue to obtain these technologies or suitable alternatives for commercially reasonable prices on commercially reasonable terms or under open source software licenses acceptable to Cerner.
+
+Managing Cybersecurity Risks
+
+Our business operations, including the provision of the solutions and services described above, involve the compilation, hosting and transmission of confidential information, including patient health information. We have included security features in our solutions and services that are intended to protect the privacy and integrity of this information, but our solutions and services may be vulnerable to security breaches, viruses, programming errors and other similar disruptive problems. Cerner maintains documented information privacy, security and risk management programs with clearly defined roles, responsibilities, policies, and procedures which are designed to secure the information maintained on Cerner's platforms.
+
+In addition, all of our associates are required to complete annual cybersecurity education and training, which includes identifying suspicious emails, Internet threats, telecommunication threats and ransomware. Cerner regularly reviews and modifies its security program to reflect changing technology, regulatory environment, laws, risk, industry and security practices and other business needs. We believe our policies and procedures are adequate to ensure that relevant information about cybersecurity risks and incidents is appropriately reported and disclosed.
+
+Sales and Marketing
+
+The markets for Cerner HCIT solutions, health care devices and services include integrated delivery networks, physician groups and networks, managed care organizations, hospitals, medical centers, free-standing reference laboratories, home health agencies, blood banks, imaging centers, pharmacies, pharmaceutical manufacturers, employers, governments and public health organizations. The majority of our sales are clinical and revenue cycle solutions and services to hospitals and health systems, but our solutions and services are highly scalable and sold to organizations ranging from physician practices, to community hospitals, to complex integrated delivery networks, to local, regional and national government agencies. Sales to large health systems typically take approximately nine to 18 months, while the sales cycle is often shorter when selling to smaller hospitals and physician practices.
+
+Our executive marketing management is located at our world headquarters in North Kansas City, Missouri, while our client representatives are deployed across the United States and globally. In addition to the United States, through our subsidiaries, we have sales associates and/or offices giving us a presence in more than 35 countries.
+
+We support our sales force with technical personnel who perform demonstrations of Cerner solutions and services and assist clients in determining the proper hardware and software configurations. Our primary direct marketing strategy is to generate sales contacts from our existing client base and, in years when COVID-19 was not a concern, through presentations at industry seminars and tradeshows. We market our ambulatory solutions, offered on a subscription basis, directly to the physician practice market using lead generation activities and through existing acute care clients that are looking to extend Cerner solutions to affiliated physicians. Normally, we attend a number of major tradeshows each year and sponsor executive user conferences, which feature industry experts who address the HCIT needs of large health care organizations.
+
+Backlog
+
+Backlog, which reflects contracted revenue that has not yet been recognized as revenue, was $13.04 billion as of December 31, 2020, of which we expect to recognize approximately 30% as revenue over the next 12 months.
+
+6
+Table of Contents
+We believe that backlog may not necessarily be a comprehensive indicator of future revenue as certain of our arrangements may be canceled (or conversely renewed) at our clients' option; thus contract consideration related to such cancellable periods has been excluded from our calculation of backlog. However, historically our experience has been that such cancellation provisions are rarely exercised. We expect to recognize $1.08 billion of revenue over the next 12 months under currently executed contracts related to such cancellable periods, which is not included in our calculation of backlog.
+
+Competition
+
+The market for HCIT solutions, devices and services is intensely competitive, rapidly evolving and subject to rapid technological change. The principle markets in which we compete include, without limitation, health care software solutions, HCIT services, ambulatory, health care device and technology resale, health care revenue cycle and transaction services, value-based care technologies, analytics systems, care management solutions, population health management, and post-acute care. Our principal existing competitors, including their affiliates, in these markets include, but are not limited to:
+
+					
+Allscripts Healthcare Solutions, Inc.
+	
+Epic Systems Corporation
+Arcadia Solutions, LLC
+	
+Health Catalyst, Inc.
+athenahealth, Inc.
+	
+InterSystems Corporation
+Capsule Technologies, Inc.
+	
+Innovaccer, Inc.
+Computer Programs and Systems, Inc.
+	
+Medical Information Technology, Inc. (MEDITECH)
+eClinicalWorks, LLC
+	
+Optum, Inc.
+
+In addition, we expect that major software information systems companies, large information technology consulting service providers and system integrators, start-up companies, managed care companies, health care insurance companies, accountable care organizations and others specializing in the health care industry may offer competitive software solutions, devices or services. The pace of change in the HCIT market is rapid and there are frequent new software solutions, devices or services introductions, enhancements and evolving industry standards and requirements. We believe that the principal competitive factors in our markets include the breadth and quality of solution and service offerings, the stability of the solution provider, the features and capabilities of the information systems and devices, the ongoing support for the systems and devices and the potential for enhancements and future compatible software solutions and devices. We believe that we compete favorably with our competitors on the basis of these factors and that we are the leader- or among the leaders- in each of our main offerings. Our brand recognition and reputation for innovative technology and service delivery, combined with our breadth of solution and services offerings, global distribution channels and client relationships position us as a strong competitor going forward.
+
+Human Capital Management
+
+Cerner believes that attracting, engaging and retaining employees is vital to the Company's continued success. Our Chief Human Resources Officer, reporting directly to our Chief Executive Officer, oversees our human capital management strategies. In addition, our Board of Directors is actively involved in our human capital management in its oversight of our long-term strategy and through its committees and engagement with management.
+
+At Cerner, we're collectively working to create a culture and a community where our employees, who we refer to as our associates, feel their voice is heard in our ongoing efforts to make a difference in the future of health care. Our efforts have earned Cerner recognition over the years as one of Forbes' Best Employers, Best Employers for Diversity, Best Employers for LGBTQ Equality and a perfect score on the Human Right Campaign Equality Index.
+
+The Company employed approximately 26,400 associates worldwide as of December 31, 2020. Of that total population, approximately 74% of our associates were employed in the United States and the remaining associates were employed outside the United States. Approximately 35% of our associates work in professional services (implementation, training, consulting and other services), 27% of our associates work in development (coding and engineering), 10% of our associates work in managed services (hosting), and the remaining associates work in other areas with no such area making up 10% or more of our associate base.
+
+
+7
+Table of Contents
+Our human capital management operating model focuses on the following strategic areas:
+
+Talent Acquisition: We continue to actively hire talent and are primarily focused on recruiting talent in support of our strategic growth initiatives. We strive for the attraction, retention and development of skilled, engaged teams of diverse associates.
+
+Learning and Leadership Development: Associate training is also an important component of our human capital management. We have programs designed specifically to support early career talent, as well as management development. The Company continues to explore solutions that provide training material and support to all levels in the organization.
+
+Compensation: Cerner offers competitive compensation to attract, reward and motivate associates. We have a pay for performance compensation philosophy and reward associates through a combination of base pay, cash incentives and equity awards for the results they achieve, as well as how they achieve those results. Our Cerner Foundations Retirement Plan (401k) and Associate Stock Purchase Plan provide associates an opportunity for an ownership stake in Cerner.
+
+Health, Wellbeing and Benefits: Consistent with our strong commitment to associate wellbeing, we offer a full suite of programs, many of which are also offered virtually, including: fitness classes, wellness coaching, a data-driven wellness management program, comprehensive bariatric care, musculoskeletal health coaching, as well as on-site child care, fitness centers, health clinics and pharmacies. We also offer associates a comprehensive and competitive set of benefit plans.
+
+Associate Experience and Engagement: We strive to create an environment in which associates are fully engaged, feel safe, have a sense of belonging and are empowered to make a difference. We focus on an inclusive culture to retain talent. These ongoing efforts are shaped by the action planning from our annual employee engagement census survey.
+
+Talent Management: Cerner has a yearly performance management process to encourage development and feedback conversations. Manager and employee conversations are an important part of the growth and career development of our associates.
+
+Organization Design and Effectiveness: This area focuses on organizational design consulting, the integration of new associates from our business acquisitions, and coaching.
+
+Associate Relations and Employment Practices: This area focuses on compliance with applicable employment laws, associate relations and resolving associate employment-related disputes, as well as on managing the process for departing associates, including the provision of outplacement services. In addition, this area provides proactive performance coaching for our associates. Associates are encouraged to report ethics, safety, or grievances through multiple channels including a company provided confidential hotline.
+
+Diversity and Inclusion ("D&I"): This area focuses on education, diversity management, associate community building, market outreach, fostering a culture of inclusion and diversity strategies. We have an enterprise-wide D&I strategy to achieve holistic transformation in collaboration with executives, leaders and associates. We focus on inclusive solutions and supporting diversity for clients.
+
+Global Community and Philanthropy, Events and Services: This area focuses on community building, philanthropy, social responsibility and sustainability. Our associates give back to the communities where they work and live, contributing millions of dollars last year to First Hand Foundation, a project of Cerner Charitable Foundation.
+
+
+8
+Table of Contents
+Information about our Executive Officers
+
+The following table sets forth the names, ages, positions and certain other information regarding the Company's executive officers as of February 1, 2021. Officers are elected annually and serve at the discretion of the Board of Directors.
+
+														
+Name		Age		Positions
+				
+Brent Shafer		63		Chairman of the Board of Directors and Chief Executive Officer
+				
+Marc G. Naughton		65		Executive Vice President and Chief Financial Officer
+				
+Travis S. Dalton		50		Executive Vice President, Chief Client & Services Officer and President, Cerner Government Services
+				
+Daniel P. Devers		48		Executive Vice President and Chief Legal Officer
+				
+Jerome Labat		55		Executive Vice President and Chief Technology Officer
+				
+Tracy L. Platt		47		Executive Vice President and Chief Human Resources Officer
+				
+Donald D. Trigg		49		President
+
+Brent Shafer was appointed Chief Executive Officer and Chairman of the Board of Directors effective February 1, 2018. Prior to joining the Company, Mr. Shafer served as Chief Executive Officer of Philips North America, a health technology company and the North American division of Koninklijke Philips N.V. ("Philips") since February 2014. In that position, Mr. Shafer led an organization of 17,000 employees and oversaw a health technology portfolio that included a broad range of solutions and services covering patient monitoring, imaging, clinical informatics, sleep and respiratory care as well as a group of market-leading consumer-oriented brands. For 12 years, Mr. Shafer played a key role in helping Philips develop and strengthen its health care focus, increase its profitability and grow its market share. Prior to that, Mr. Shafer served as Chief Executive Officer of the global Philips' Home Healthcare Solutions business, a home health care services provider with 6,000 employees, from May 2010 until May 2014, as Chief Executive Officer of the North America region for Royal Philips Electronics from January 2009 until May 2010, and as president and Chief Executive Officer of the Healthcare Sales and Service business for Philips North America from May 2005 until May 2010. Prior to joining Philips, Mr. Shafer served in various senior leadership positions with other companies, including Hill-Rom Company Inc., GE Medical Systems, and Hewlett-Packard.
+
+Marc G. Naughton joined the Company in November 1992 as Manager of Taxes. In November 1995, he was named Chief Financial Officer and in February 1996 he was promoted to Vice President. He was promoted to Senior Vice President in March 2002 and promoted to Executive Vice President in March 2010.
+
+Travis S. Dalton joined the Company in August 2001 as Practice Operations Manager and has held a variety of business and client senior leadership roles since that time, including Client Results Executive from February 2009 until he was promoted to Vice President and Client Results Executive, a title which he held from March 2011 to December 2012. Mr. Dalton's role was expanded in December 2012, and he served as the Vice President, Investor Owned and General Manager Federal from December 2012 until he was promoted to Senior Vice President, Investor Owned and General Manager Federal in March 2016 (which title was changed to Senior Vice President and General Manager, Federal Government in October 2017). His role was changed to Senior Vice President and President, Cerner Government Services in August 2018. He was promoted to Executive Vice President, Chief Client and Services Officer and President, Cerner Government Services in January 2021. In this role, Mr. Dalton oversees worldwide client relationship management, sales, services, consulting, support, hosting and client success. He also leads Cerner's work in implementing a new, interoperable electronic health record for the U.S. Departments of Defense (DOD) and Veterans Affairs (VA).
+
+Daniel P. Devers was appointed as Executive Vice President and Chief Legal Officer in January 2021 and has served as Senior Vice President and Chief Intellectual Property Officer since May 2013. As Cerner's Chief Legal Officer, Mr. Devers is responsible for overseeing Cerner's worldwide legal affairs including litigation, intellectual property and corporate matters. Prior to serving as Chief Legal Officer, Mr. Devers served as Senior Vice President – Cloud Strategy from February 2020 to January 2021, Senior Vice President and General Counsel from April 2018 to February 2020, Senior Corporate Counsel – Intellectual Property from 2003 to 2007 and Corporate Counsel – Intellectual Property from February 2002 to December 2003. He has been a member of the Cerner Executive Committee since March 2020. Mr. Devers was
+9
+Table of Contents
+an equity partner at Shook, Hardy & Bacon LLP prior to joining Cerner. He taught patent law at the University of Missouri and served a three-year gubernatorial appointment to the Missouri Technology Corporation's Board of Directors.
+
+Jerome Labat joined the Company in June 2020 as Executive Vice President and Chief Technology Officer (CTO). As CTO, Mr. Labat has executive responsibility for client-facing software products and technology development, including platform and product development, modernization and security. Prior to joining the company, Mr. Labat served as Senior Vice President and Chief Technology Officer at Micro Focus International plc, a British multinational, pure-play enterprise software and information technology company, from September 2017 until June 2020. In this role, Mr. Labat led an organization of about 500 people globally and, among other things was responsible for the company's product portfolio technology and strategy vision as to how Micro Focus' solutions would support its clients through their digital transformation, and developed and implemented technology and solution strategies to support Micro Focus' digital transformation. Prior to joining Micro Focus, Mr. Labat spent five years with Hewlett Packard Enterprise Corporation (HPE), his most recent title being CTO HPE- Software Division, which he held from December 2013 to August 2017. In this role, Mr. Labat led HPE's cloud automation business. Prior to serving as CTO HPW-Software Division, Mr. Labat served as Vice President and General Manager, Cloud Automation and Management for HPE and in various senior leadership positions with other companies, including Intuit Corporation and Oracle Corporation.
+
+Tracy L. Platt joined the Company in July 2019 as Executive Vice President and Chief Human Resources Officer. Prior to joining the Company, Ms. Platt spent nearly 10 years in executive HR roles at Medtronic Plc, a global health care company that develops and distributes medical devices. More specifically, Ms. Platt was Vice President, Human Resources, Medtronic from September 2009 to July 2019. Ms. Platt brings health care experience from Medtronic and other key organizations, including Cardinal Health and GE Healthcare. Her most recent role at Medtronic included HR leadership for its global operations organization and driving an operating model transformation throughout the enterprise.
+
+Donald D. Trigg originally joined the Company in 2002 as Vice President, Corporate Positioning. He has held multiple roles during his time at the Company, including Chief Marketing Officer from 2003 to 2007, General Manager for the Kansas City region from 2006-2007, Managing Director for the United Kingdom and Ireland from 2008-2010, Senior Vice President and President, Cerner Health Ventures from 2012-2018, and Executive Vice President, Strategic Growth from 2019 to February 2020. From 2010-2012, Mr. Trigg served as Chief Revenue Officer at CodeRyte, Inc. prior to its acquisition by 3M's health care division. Mr. Trigg also spent more than a decade serving in the public policy space as a senior advisor for the 2000 Bush for President campaign in Austin, TX, the Director of Policy at the U.S. Department of Commerce and in a series of senior policy roles in the U.S. House and U.S. Senate.
+
+Market and Industry Data
+
+This annual report on Form 10-K may contain market, industry and government data and forecasts that have been obtained from publicly available information, various industry publications and other published industry sources. We have not independently verified the information and cannot make any representation as to the accuracy or completeness of such information. None of the reports and other materials of third party sources referred to in this annual report on Form 10-K were prepared for use in, or in connection with, this annual report.

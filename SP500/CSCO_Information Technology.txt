@@ -1,0 +1,316 @@
+General
+Cisco designs and sells a broad range of technologies that have been powering the Internet since 1984. We are integrating intent-based technologies across networking, security, collaboration, applications and the cloud. These technologies are designed to help our customers manage more users, devices and things connecting to their networks. This will enable us to provide customers with a highly secure, intelligent platform for their digital business.
+We conduct our business globally and manage our business by geography. Our business is organized into the following three geographic segments: Americas; Europe, Middle East, and Africa (EMEA); and Asia Pacific, Japan, and China (APJC).
+Our products and technologies are grouped into the following categories: Infrastructure Platforms; Applications; Security and Other Products. In addition to our product offerings, we provide a broad range of service offerings, including technical support services and advanced services. Increasingly, we are delivering our technologies through software and services. Our customers include businesses of all sizes, public institutions, governments, and service providers. These customers often look to us as a strategic partner to help them use information technology (IT) to differentiate themselves and drive positive business outcomes.
+We were incorporated in California in December 1984, and our headquarters are in San Jose, California. The mailing address of our headquarters is 170 West Tasman Drive, San Jose, California 95134-1706, and our telephone number at that location is (408) 526-4000. Our website is www.cisco.com. Through a link on the Investor Relations section of our website, we make available the following filings as soon as reasonably practicable after they are electronically filed with or furnished to the Securities and Exchange Commission (SEC): our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and any amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act. All such filings are available free of charge. The information posted on our website is not incorporated into this report.
+Strategy and Priorities
+As our customers add billions of new connections to their enterprises, and as more applications move to a multicloud environment, the network becomes even more critical. Our customers are navigating change at an unprecedented pace and our mission is to inspire new possibilities for them by helping transform their infrastructure, expand applications and analytics, address their security needs, and empower their teams. We believe that our customers are looking for intent-based networks that provide meaningful business value through automation, security, and analytics across private, hybrid, and multicloud environments. Our vision is to deliver highly secure, software-defined, automated and intelligent platforms for our customers.
+We are expanding our research and development (R&D) investments in certain product areas including cloud security, cloud collaboration, and application insights and analytics. We are investing to optimize our product offerings for application to education, healthcare and other specific industries. We are also making investments to enable us to increase automation and support the customer as the workplace changes. In addition, we continue to remain focused on investments around Software-Defined Wide Area Network (SD-WAN), multicloud environments, 5G and WiFi-6, 400G speeds, optical networking, next generation silicon and artificial intelligence (AI). We are also accelerating our efforts to enable the delivery of network functionality as a service.
+
+
+1
+Table of Contents
+
+Transforming Infrastructure
+Our intent-based networking strategy began with Software-Defined Access (SD-Access) technology, one of our leading enterprise architectures. We announced the initial development of new network product offerings featuring our intent-based networking technology with the launch of the Catalyst 9000 series of switches. Our intent-based networking platform is designed to be intelligent, highly secure, powered by “intent” and informed by “context”— features aiming to constantly learn, adapt, automate and protect in order to optimize network operations and defend against an evolving cyber threat landscape. Our intent-based networking offerings are designed to provide a single, highly secure network fabric that helps ensure policy consistency and network assurance; enables faster launches of new business services; and significantly improves issue resolution times while being open and extendable. SD-Access, built on the principles of Cisco Digital Networking Architecture (DNA), provides what we see as a transformational shift in the building and managing of networks. Our Catalyst 9000 series of switches represented the initial build in our campus portfolio of our intent-based networking capabilities and provide highly differentiated advancements in security, programmability, and performance while lowering operating costs through innovations in hardware and software.
+Since the initial launch, we have continued to transform our enterprise access portfolio by bringing together several technologies to form the only integrated, intent-based architecture, with security at the foundation. This architecture is designed to help our customers connect their users and devices over any network, to applications and data, no matter where they are.
+We have introduced several innovations that extend our intent-based networking capabilities to wireless and enterprise routing products, including SD-WAN and Internet of Things (IoT) edge platforms. Our SD-WAN solutions are designed to provide direct branch to cloud connectivity, enabling the workforce to access their software-as-a-service (SaaS) applications and workloads in an optimized and highly secure manner.
+To further our innovation in this area, we are applying the latest technologies such as machine learning and advanced analytics to operate and enhance network capabilities. These new network product offerings are designed to enable customers to detect cybersecurity threats, for instance in encrypted traffic. We have created what is in our view the only network that is designed for security while maintaining privacy.
+Our customers are operating in multicloud environments with private, public and hybrid clouds. For the data center, our strategy is to deliver multicloud architectures that bring policy and operational consistency regardless of where applications or data reside by extending our Application Centric Infrastructure (ACI) and our hyperconverged offerings.
+In fiscal 2020, we announced details of our technology strategy for the Internet for the Future aimed at addressing the broad adoption of multicloud and application environments. We have made significant investments in the development of software, silicon and optics — what we believe are the building blocks for the Internet for the future.
+We introduced Cisco Silicon One, a single unified silicon architecture, as well as the Cisco 8000 carrier-class router family built on Silicon One and our new operating system.
+Applications and Analytics
+In our view, over the next several years, customers will be increasingly writing modern software applications that can run on any hybrid cloud, and will be adding billions of connections to their environment. They will need to be able to build applications quickly, deploy them nearly anywhere, monitor experiences, and act in real time.
+We believe we are uniquely positioned to enable successful business outcomes for customers in hybrid and multicloud environments. In our view, the network is increasingly critical to business success and we believe our customers will benefit from the insights and intelligence that we are making accessible through our highly differentiated platforms.
+As our customers navigate the multicloud world, the need to connect new devices, protect their assets and monitor cloud consumption, they will require advisory cloud services that are provided in a consistent manner. We are focused on enabling simple, intelligent, automated and highly secure clouds by delivering the infrastructure to navigate complex IT environments through our software and subscription-based offerings including Webex, Meraki cloud networking, and certain other Security and Application offerings. We believe that customers and partners view our approach to the cloud as differentiated and unique, recognizing that we offer a solution for all cloud environments, including private, hybrid and public clouds.
+Security is Foundational
+We believe data is one of our customers' most strategic assets, and this data is increasingly distributed across every organization and ecosystem, on customer premises, at the edge of the network, and in the cloud. As such, we believe that security is the top IT priority for many of our customers. Our security strategy is focused on delivering an effective cybersecurity architecture combining network, cloud and endpoint-based solutions. Our portfolio is designed to prevent, detect, and remediate a cyber-attack and to integrate security across networking domains. Our intent is to enable our customers to secure their networks for a multicloud world by delivering a platform that continuously detects threats and verifies trust. By combining a number of security technologies, we
+
+2
+Table of Contents
+
+are delivering an end-to-end, zero-trust architecture. Additionally, through our offerings we help our customers shorten the time between threat detection and response.
+Empowering Teams
+Our customers’ communications continue to evolve as we move to a digital, cloud-based world. As people are an important competitive advantage for our customers, teams need effective and simple ways to work better together and interact with their customers to build better relationships and increase collaboration. As an example, we believe our collaboration portfolio which includes our subscription-based Webex conferencing platform, is at the center of our customers’ strategy for enabling teams to increase productivity.
+Transforming our Business Model
+We are transforming our offerings to meet the evolving needs of our customers. Historically, our various networking technology products have aligned with their respective product categories. However, increasingly our offerings are crossing multiple product categories. As our core networking evolves, we expect we will add more common software features across our core networking platforms. We are increasing the amount of software offerings that we provide and the proportion of subscription software offerings. We have various types of software arrangements including system software, on premise software, hybrid software and SaaS offerings. In terms of monetization, our software offerings fall into the broad categories of subscription arrangements, including SaaS and term licenses, and perpetual licenses.
+As part of the transformation of our business, we continued to make strides during fiscal 2020 to develop and sell more software and subscription-based offerings. We are also focused on the entire customer lifecycle to drive expansion and renewals.
+For a discussion of the risks associated with our strategy, see “Item 1A. Risk Factors,” including the risk factor entitled “We depend upon the development of new products and services, and enhancements to existing products and services, and if we fail to predict and respond to emerging technological trends and customers’ changing needs, our operating results and market share may suffer.” For information regarding sales of our major products and services, see Note 19 to the Consolidated Financial Statements.
+Products and Services
+Our products and services are grouped into the following categories:
+Infrastructure Platforms
+Infrastructure Platforms consist of our core networking technologies of switching, routing, wireless, and data center products that are designed to work together to deliver networking capabilities and transport and/or store data. These technologies consist of both hardware and software offerings that help our customers build networks, automate, orchestrate, integrate, and digitize data. We believe it is critical for us to continue to deliver continuous value to our customers. We continued to make progress in shifting more of our business to software and subscriptions across our core networking portfolio, and in expanding our software offerings. Our objective is to continue moving to cloud-managed solutions across our enterprise networking portfolio. We continue to expand on our intent-based infrastructure, which focuses on simplicity, automation, and security, allowing enterprises to manage and govern the interactions of users, devices and applications across their IT environments. We started with our Nexus 9000 series of switches for the data center, which along with ACI provide enhancements in security, programmability and performance while lowering operating costs. Our Cisco Catalyst 9000 series of switches were developed for security, mobility, IoT, and the cloud. These switches formed the foundation for our leading enterprise architectures, built on the principles of Cisco DNA. We continued to expand on this technology by extending SD-Access and Cisco DNA Center across our enterprise networking portfolio and by extending ACI to the public and private cloud. In addition, we now have a unified operating system and policy management platform for our enterprise networking portfolio to drive simplicity and consistency across our customers’ networks.
+Our switching portfolio encompasses campus switching as well as data center switching offerings. Our campus switching offerings provide the foundation for converged data, voice, video, and IoT services. These switches offer enhanced security and reliability and are designed to scale efficiently as our customers grow. Within campus switching are our Catalyst 9000 series of switches that include hardware with embedded software, along with a software subscription referred to as Cisco DNA. Cisco DNA provides automation, analytics and security features and can be centrally monitored, managed, and configured. Our data center switching offerings provide the foundation for mission critical data centers with high availability, scalability, and security across traditional data centers and private and public cloud data centers. We continue to add deeper and broader visibility and analytics across our networks and applications, enabling us to deliver better experiences for our customers.
+Our routing portfolio interconnects public and private wireline and mobile networks, delivering highly secure and reliable connectivity to campus, data center and branch networks. Our routing solutions are designed to meet the scale, reliability, and security needs of our customers. We introduced the principles of Cisco DNA into our routing portfolio by integrating SD-WAN into our offerings. In fiscal 2020, we launched the Cisco 8000 portfolio, a family of high density, low power next generation routing platforms focused on our customers' evolution to support 100G and 400G connectivity speeds.
+
+3
+Table of Contents
+
+Our Wireless portfolio provides indoor and outdoor wireless coverage designed for seamless roaming use of voice, video, and data applications. These products include wireless access points that are standalone, controller appliance-based, switch-converged, and Meraki cloud-managed offerings. We expanded our capabilities to include network assurance and automation through Cisco DNA and Cisco DNA Spaces location-based services. Our Catalyst and Meraki Wi-Fi 6-based access points are designed for high-density public or private environments to improve speed, performance, and capacity for wireless networking in both homes and enterprises.
+Our Data Center portfolio incorporates various technologies and solutions including the Cisco Unified Computing System, our hyperconverged offering, HyperFlex, and software management capabilities which combine computing, networking, and storage infrastructure management and virtualization to deliver agility, simplicity and scale. These products are designed to extend the power and simplicity of unified computing for data-intensive workloads, applications at the edge of the network, and the next generation of distributed application architectures.
+Applications
+The Applications product category consists primarily of software-related offerings that utilize the core networking and data center platforms to provide their functions. Our Applications offerings consist of both hardware and software-based solutions, including both software licenses and software-as-a-service. Applications include our collaboration offerings (unified communications, Cisco TelePresence and conferencing) as well as AppDynamics and IoT software offerings.
+Our Collaboration strategy is to make communications more effective, comprehensive, and less complex by creating innovative solutions through combining the power of software, hardware, and the network. We offer end-to-end solutions which can be delivered from the cloud, premise or mixed environments, and which integrate voice, video, and messaging on fixed and mobile networks across a wide range of devices/endpoints such as mobile phones, tablets, desktop and laptop computers, video units, and collaboration appliances. Our Cognitive Collaboration integrates AI and machine learning across the Webex portfolio, bringing intelligence and context to help our customers work smarter and increase productivity. Our Webex Cloud Contact Center solution is designed to provide the agility, flexibility, scalability, security, efficiency and innovation in order to enable better customer experiences for businesses and their customers. For on-premise collaboration markets, we launched multi-party Internet Protocol (IP) Phones to extend our reach into third-party call control platforms as well as a new series of telephony headsets which offer innovative integration with our market leading IP phone business.
+Our analytics solutions seek to help businesses deliver consistently high-quality digital experiences by connecting end-user experience and application performance to business outcomes. Our applications monitor, correlate, analyze, and act on application performance and business performance data in real time. This automated, cross-stack intelligence enables developers, IT operations, and business owners to make mission critical and strategic improvements.
+We continue to invest in IoT as the number of connected IoT devices continues to grow. Our Control Center Platform enables enterprises to automate the lifecycle of connected devices, including tools designed to automatically and remotely onboard, manage, and monetize their IoT devices.
+Security
+The Security product category primarily includes our network security, cloud and email security, identity and access management, advanced threat protection, and unified threat management products. Our offerings are powered by cloud-delivered threat intelligence based on our Cisco Talos technology. All of these products are part of our integrated cybersecurity architecture that is designed to allow our customers to confront risks by continuously defending against threats and verifying trust, across their environments. Regardless of size or industry, security continues to be a leading priority for our customers as they defend against ongoing ransomware and account breaches that represent risk of compromise and economic loss to their businesses.
+We continue to integrate security across our portfolio as we believe our security solutions can help build a foundation of trust between users, devices, and applications; across clouds, networks, and mobile workers. When targeted, our solutions help prevent attacks by continuously detecting and remediating the most advanced threats.
+In fiscal 2020, we continued to invest in cloud-delivered security and extended our security platform with the launch of SecureX. These investments included extending our zero-trust architecture with the on-going integration of Duo Security (“Duo”) and integrating Umbrella with our SD-WAN solutions to help secure our customer's network transformation toward a secure access service edge (SASE). Building on our integrated architecture, we launched SecureX, a security platform that brings together the breadth of the Cisco Security portfolio helping our customers accelerate responsiveness across the security lifecycle.
+Other Products
+Our Other Products category primarily consists of our cloud and system management and emerging technologies products.
+
+4
+Table of Contents
+
+Services
+In addition to our product offerings, we provide a broad range of service and support options for our customers. Our overall service and support offerings are combined into one organization, Customer Experience, that is responsible for the end-to-end customer experience.
+Our support and maintenance services help our customers ensure their products operate efficiently, remain available, and benefit from the most up-to-date system, and application software. These services help customers protect their network investments, manage risk, and minimize downtime for systems running mission-critical applications. A key example is Cisco Smart Services, which leverages the intelligence from the installed base of our products and customer connections to protect and optimize network investment for our customers and partners. We have expanded these offerings from traditional hardware support to software, solutions, and premium support.
+We also provide comprehensive advisory services that are focused on responsive, preventive, and consultative support of our technologies for specific networking needs. We are investing in and expanding advisory services in the areas of software, cloud, security, and analytics, which reflects our strategy of selling customer outcomes. We are focused on three priorities including, utilizing technology advisory services to drive higher product and services; assessment and migration services providing the tools, expertise and methodologies to enable our customers to migrate to new technology platforms; and providing optimization services aligned with customers’ business expectations.
+Customers and Markets
+Many factors influence the IT, collaboration, and networking requirements of our customers. These include the size of the organization, number and types of technology systems, geographic location, and business applications deployed throughout the customer’s network. Our customer base is not limited to any specific industry, geography, or market segment. In each of the past three fiscal years, no single customer accounted for 10% or more of revenue. Our customers primarily operate in the following markets: enterprise, commercial, service provider, and public sector.
+Enterprise
+Enterprise businesses are large regional, national, or global organizations with multiple locations or branch offices and typically employ 1,000 or more employees. Many enterprise businesses have unique IT, collaboration, and networking needs within a multivendor environment. We offer service and support packages, financing, and managed network services, primarily through our service provider partners. We sell these products through a network of third-party application and technology vendors and channel partners, as well as selling directly to these customers. 
+Commercial
+We define commercial businesses as organizations which typically have fewer than 1,000 employees. We sell to the larger, or midmarket, customers within the commercial market through a combination of our direct sales force and channel partners. These customers typically require the latest advanced technologies that our enterprise customers demand, but with less complexity. Small businesses, or organizations with fewer than 100 employees, require information technologies and communication products that are easy to configure, install, and maintain. We sell to these smaller organizations within the commercial market primarily through channel partners.
+Service Providers
+Service providers offer data, voice, video, and mobile/wireless services to businesses, governments, utilities, and consumers worldwide. This customer market category includes regional, national, and international wireline carriers, web-scale operators as well as Internet, cable, and wireless providers. We also include media, broadcast, and content providers within our service provider market, as the lines in the telecommunications industry continue to blur between traditional network-based, content-based and application-based services. Service providers use a variety of our products and services for their own networks. In addition, many service providers use Cisco data center, virtualization, and collaboration technologies to offer managed or Internet-based services to their business customers. Compared with other customers, service providers are more likely to require network design, deployment, and support services because of the greater scale and higher complexity of their networks, whose requirements are addressed, we believe, by our architectural approach.
+Public Sector
+Public sector entities include federal governments, state and local governments, as well as educational institution customers. Many public sector entities have unique IT, collaboration, and networking needs within a multi-vendor environment. We sell to public sector entities through a network of third-party application and technology vendors, and channel partners, as well as through direct sales.
+
+5
+Table of Contents
+
+Sales Overview
+As of the end of fiscal 2020, our worldwide sales and marketing functions consisted of approximately 25,800 employees, including managers, sales representatives, and technical support personnel. We have field sales offices in 95 countries, and we sell our products and services both directly and through a variety of channels with support from our salesforce. A substantial portion of our products and services is sold through channel partners, and the remainder is sold through direct sales. Channel partners include systems integrators, service providers, other resellers, and distributors.
+Systems integrators and service providers typically sell directly to end users and often provide system installation, technical support, professional services, and other support services in addition to network equipment sales. Systems integrators also typically integrate our products into an overall solution. Some service providers are also systems integrators.
+Distributors typically hold inventory and sell to systems integrators, service providers, and other resellers. We refer to sales through distributors as our two-tier system of sales to the end customer. Starting in fiscal 2019, in connection with the adoption of Accounting Standards Codification (ASC) 606, Revenue from Contracts with Customers, a new accounting standard related to revenue recognition, we started recognizing revenue from two-tier distributors on a sell-in method. Prior to this, we recognized revenue based on a sell-through method using point of sales information provided by these distributors. These distributors are generally given business terms that allow them to return a portion of inventory, receive credits for changes in selling prices, receive certain rebates, and participate in various cooperative marketing programs.
+For information regarding risks related to our channels, see “Item 1A. Risk Factors,” including the risk factors entitled “Disruption of or changes in our distribution model could harm our sales and margins” and “Inventory management relating to our sales to our two-tier distribution channel is complex, and excess inventory may harm our gross margins.”
+For information regarding risks relating to our international operations, see “Item 1A. Risk Factors,” including the risk factors entitled “Our operating results may be adversely affected by unfavorable economic and market conditions and the uncertain geopolitical environment;” “Entrance into new or developing markets exposes us to additional competition and will likely increase demands on our service and support operations;” “Due to the global nature of our operations, political or economic changes or other factors in a specific country or region could harm our operating results and financial condition;” “We are exposed to fluctuations in currency exchange rates that could negatively impact our financial results and cash flows;” and “Cyber-attacks, data breaches or malware may disrupt our operations, harm our operating results and financial condition, and damage our reputation, and cyber-attacks or data breaches on our customers' networks, or in cloud-based services provided by or enabled by us, could result in claims of liability against us, damage our reputation or otherwise harm our business,” among others.
+Our service offerings complement our products through a range of consulting, technical, project, quality, and software maintenance services, including 24-hour online and telephone support through technical assistance centers.
+Financing Arrangements
+We provide financing arrangements for certain qualified customers to build, maintain, and upgrade their networks. We believe customer financing is a competitive advantage in obtaining business, particularly for those customers involved in significant infrastructure projects. Our financing arrangements include the following:
+Leases:
+• Sales-type
+• Direct financing
+• Operating
+Loans
+Financed service contracts
+Channels financing arrangements
+End-user financing arrangements
+
+6
+Table of Contents
+
+Acquisitions, Investments, and Alliances
+The markets in which we compete require a wide variety of technologies, products, and capabilities. Our growth strategy is based on the components of innovation, which we sometimes refer to as “build, buy, partner, invest, and co-develop”. This five-prong approach to how we innovate can be summarized as follows:
+	
+Build
+	
+Working within Cisco, with the developer community, or with customers
+Buy
+	
+Acquiring or divesting, depending on goals
+Partner
+	
+Strategically partnering to further build out the business
+Invest
+	
+Making investments in areas where technology is in its infancy or where there is no dominant technology
+Co-develop
+	
+Developing new solutions with multi-party teams that may include customers, channel partners, startups, independent software vendors, and academics
+Acquisitions
+We have acquired many companies, and we expect to make future acquisitions. Mergers and acquisitions of high-technology companies are inherently risky, especially if the acquired company has yet to generate revenue. No assurance can be given that our previous or future acquisitions will be successful or will not materially adversely affect our financial condition or operating results. Prior acquisitions have resulted in a wide range of outcomes, from successful introduction of new products and technologies to an inability to do so. The risks associated with acquisitions are more fully discussed in “Item 1A. Risk Factors,” including the risk factor entitled “We have made and expect to continue to make acquisitions that could disrupt our operations and harm our operating results.”
+Investments in Privately Held Companies
+We make investments in privately held companies that develop technology or provide services that are complementary to our products or that provide strategic value. The risks associated with these investments are more fully discussed in “Item 1A. Risk Factors,” including the risk factor entitled “We are exposed to fluctuations in the market values of our portfolio investments and in interest rates; impairment of our investments could harm our earnings.”
+Strategic Alliances
+We pursue strategic alliances with other companies in areas where collaboration can produce industry advancement and acceleration of new markets. The objectives and goals of a strategic alliance can include one or more of the following: technology exchange, product development, joint sales and marketing, or new market creation. Companies with which we have added or expanded strategic alliances during fiscal 2020 and in recent years include Apple, Google, Microsoft, and Amazon Web Services, among others.
+Companies with which we have strategic alliances in some areas may be competitors in other areas, and in our view this trend may increase. The risks associated with our strategic alliances are more fully discussed in “Item 1A. Risk Factors,” including the risk factor entitled “If we do not successfully manage our strategic alliances, we may not realize the expected benefits from such alliances and we may experience increased competition or delays in product development.”
+Competition
+We compete in the networking and communications equipment markets, providing products and services designed to transport, and help secure data, voice, and video traffic across cloud, private and public networks and the Internet. These markets are characterized by rapid change, converging technologies, and a migration to networking and communications solutions that offer relative advantages. These market factors represent both an opportunity and a competitive threat to us. We compete with numerous vendors in each product category. The overall number of our competitors providing niche product solutions may increase. Also, the identity and composition of competitors may change as we increase our activity in our new product markets. As we continue to expand globally, we may see new competition in different geographic regions. In particular, we have experienced price-focused competition from competitors in Asia, especially from China, and we anticipate this will continue.
+Our competitors (in each case relative to only some of our products or services) include: Amazon Web Services LLC; Arista Networks, Inc.; Broadcom Inc.; CommScope Holding Company, Inc.; Check Point Software Technologies Ltd.; Dell Technologies Inc.; Dynatrace; F5 Networks, Inc.; FireEye, Inc.; Fortinet, Inc.; Hewlett-Packard Enterprise Company; Huawei Technologies Co., Ltd.; Juniper Networks, Inc.; Lenovo Group Limited; LogMeIn, Inc.; Microsoft Corporation; New Relic, Inc.; Nokia Corporation; Nutanix, Inc.; Palo Alto Networks, Inc.; RingCentral, Inc.; Slack Technologies, Inc.; Ubiquiti Networks; VMware, Inc.; Zoom Video Communications, Inc.; and Zscaler, Inc.; among others.
+
+7
+Table of Contents
+
+Some of these companies compete across many of our product lines, while others are primarily focused in a specific product area. Barriers to entry are relatively low, and new ventures to create products that do or could compete with our products are regularly formed. In addition, some of our competitors may have greater resources, including technical and engineering resources, than we do. As we expand into new markets, we will face competition not only from our existing competitors but also from other competitors, including existing companies with strong technological, marketing, and sales positions in those markets. We also sometimes face competition from resellers and distributors of our products. Companies with which we have strategic alliances in some areas may be competitors in other areas, and in our view this trend may increase. For example, the enterprise data center is undergoing a fundamental transformation arising from the convergence of technologies, including computing, networking, storage, and software, that previously were segregated within the data center. Due to several factors, including the availability of highly scalable and general purpose microprocessors, application-specific integrated circuits (ASICs) offering advanced services, standards-based protocols, cloud computing, and virtualization, the convergence of technologies within the enterprise data center is spanning multiple, previously independent, technology segments. Also, some of our current and potential competitors for enterprise data center business have made acquisitions, or announced new strategic alliances, designed to position them to provide end-to-end technology solutions for the enterprise data center. As a result of all of these developments, we face greater competition in the development and sale of enterprise data center technologies, including competition from entities that are among our long-term strategic alliance partners. Companies that are strategic alliance partners in some areas of our business may acquire or form alliances with our competitors, thereby reducing their business with us.
+The principal competitive factors in the markets in which we presently compete and may compete in the future include:
+	
+•
+	
+The ability to sell successful business outcomes
+	
+•
+	
+The ability to provide a broad range of networking and communications products and services
+	
+•
+	
+Product performance
+	
+•
+	
+Price
+	
+•
+	
+The ability to introduce new products, including providing continuous new customer value and products with price-performance advantages
+	
+•
+	
+The ability to reduce production costs
+	
+•
+	
+The ability to provide value-added features such as security, reliability, and investment protection
+	
+•
+	
+Conformance to standards
+	
+•
+	
+Market presence
+	
+•
+	
+The ability to provide financing
+	
+•
+	
+Disruptive technology shifts and new business models
+We also face competition from customers to which we license or supply technology, and suppliers from which we transfer technology. The inherent nature of networking requires interoperability. Therefore, we must cooperate and at the same time compete with many companies. Any inability to effectively manage these complicated relationships with customers, suppliers, and strategic alliance partners could have a material adverse effect on our business, operating results, and financial condition and, accordingly affect our chances of success.
+Research and Development
+We regularly introduce new products and features to address the requirements of our markets. We allocate our research and development budget among our product categories, which consist of Infrastructure Platforms, Applications, Security, and Other Product technologies. Our research and development expenditures are applied generally to all product areas, with specific areas of focus being identified from time to time. Recent areas of increased focus include our intent-based networking technologies (which encompasses switching, routing, and wireless technologies within Infrastructure Platforms), conferencing, security, and analytics products. Our expenditures for research and development costs were expensed as incurred.
+The industry in which we compete is subject to rapid technological developments, evolving standards, changes in customer requirements, and new product introductions and enhancements. As a result, our success depends in part upon our ability, on a cost-effective and timely basis, to continue to enhance our existing products and to develop and introduce new products that improve performance and reduce total cost of ownership. To achieve these objectives, our management and engineering personnel work with customers to identify and respond to customer needs, as well as with other innovators of Internet working products, including universities, laboratories, and corporations. We also expect to continue to make acquisitions and investments, where appropriate, to provide us with access to new technologies. Nonetheless, there can be no assurance that we will be able to successfully
+
+8
+Table of Contents
+
+develop products to address new customer requirements and technological changes or that those products will achieve market acceptance.
+Manufacturing
+We rely on contract manufacturers for our manufacturing needs. We presently use a variety of independent third-party companies to provide services related to printed-circuit board assembly, in-circuit test, product repair, and product assembly. Proprietary software on electronically programmable memory chips is used to configure products that meet customer requirements and to maintain quality control and security. The manufacturing process enables us to configure the hardware and software in unique combinations to meet a wide variety of individual customer requirements. The manufacturing process uses automated testing equipment and burn-in procedures, as well as comprehensive inspection, testing, and statistical process controls, which are designed to help ensure the quality and reliability of our products. The manufacturing processes and procedures are generally certified to International Organization for Standardization (ISO) 9001 standards.
+Our arrangements with contract manufacturers generally provide for quality, cost, and delivery requirements, as well as manufacturing process terms, such as continuity of supply; inventory management; flexibility regarding capacity, quality, and cost management; oversight of manufacturing; and conditions for use of our intellectual property. We have not entered into any significant long-term contracts with any manufacturing service provider. We generally have the option to renew arrangements on an as-needed basis. These arrangements generally do not commit us to purchase any particular amount or any quantities beyond amounts covered by orders or forecasts that we submit covering discrete periods of time.
+Patents, Intellectual Property, and Licensing
+We seek to establish and maintain our proprietary rights in our technology and products through the use of patents, copyrights, trademarks, and trade secret laws. We have a program to file applications for and obtain patents, copyrights, and trademarks in the United States and in selected foreign countries where we believe filing for such protection is appropriate. We also seek to maintain our trade secrets and confidential information by nondisclosure policies and through the use of appropriate confidentiality agreements. We have obtained a substantial number of patents and trademarks in the United States and in other countries. There can be no assurance, however, that the rights obtained can be successfully enforced against infringing products in every jurisdiction. Although we believe the protection afforded by our patents, copyrights, trademarks, and trade secrets has value, the rapidly changing technology in the networking industry and uncertainties in the legal process make our future success dependent primarily on the innovative skills, technological expertise, and management abilities of our employees rather than on the protection afforded by patent, copyright, trademark, and trade secret laws.
+Many of our products are designed to include software or other intellectual property licensed from third parties. While it may be necessary in the future to seek or renew licenses relating to various aspects of our products, we believe, based upon past experience and standard industry practice that such licenses generally could be obtained on commercially reasonable terms. Nonetheless, there can be no assurance that the necessary licenses would be available on acceptable terms, if at all. Our inability to obtain certain licenses or other rights or to obtain such licenses or rights on favorable terms, or the need to engage in litigation regarding these matters, could have a material adverse effect on our business, operating results, and financial condition. Moreover, inclusion in our products of software or other intellectual property licensed from third parties on a nonexclusive basis can limit our ability to protect our proprietary rights in our products.
+The industry in which we compete is characterized by rapidly changing technology, a large number of patents, and frequent claims and related litigation regarding patent and other intellectual property rights. There can be no assurance that our patents and other proprietary rights will not be challenged, invalidated, or circumvented; that others will not assert intellectual property rights to technologies that are relevant to us; or that our rights will give us a competitive advantage. In addition, the laws of some foreign countries may not protect our proprietary rights to the same extent as the laws of the United States. The risks associated with patents and intellectual property are more fully discussed in “Item 1A. Risk Factors,” including the risk factors entitled “Our proprietary rights may prove difficult to enforce,” “We may be found to infringe on intellectual property rights of others,” and “We rely on the availability of third-party licenses.”
+
+9
+Table of Contents
+
+Employees
+Employees are summarized as follows (approximate numbers):
+	
+   
+	
+July 25, 2020
+Employees by geography:
+	
+ 
+United States
+	
+38,900
+Rest of world
+	
+38,600
+Total
+	
+77,500
+Employees by line item on the Consolidated Statements of Operations:
+	
+ 
+Cost of sales (1)
+	
+22,100
+Research and development
+	
+22,200
+Sales and marketing
+	
+25,800
+General and administrative
+	
+7,400
+Total
+	
+77,500
+(1) Cost of sales includes manufacturing support, services, and training.
+Information about our Executive Officers
+The following table shows the name, age, and position as of August 31, 2020 of each of our executive officers:
+				
+Name
+	
+ 
+	
+Age
+	
+ 
+	
+ Position with the Company
+Charles H. Robbins
+	
+ 
+	
+54
+	
+ 
+	
+Chairman and Chief Executive Officer
+Mark Chandler
+	
+ 
+	
+64
+	
+ 
+	
+Executive Vice President, Chief Legal Officer and Chief Compliance Officer
+Gerri Elliott
+	
+ 
+	
+64
+	
+ 
+	
+Executive Vice President and Chief Sales and Marketing Officer
+Kelly A. Kramer
+	
+ 
+	
+53
+	
+ 
+	
+Executive Vice President and Chief Financial Officer
+Maria Martinez
+	
+ 
+	
+62
+	
+ 
+	
+Executive Vice President and Chief Customer Experience Officer
+Irving Tan
+	
+ 
+	
+50
+	
+ 
+	
+Executive Vice President, Chief of Operations
+Mr. Robbins has served as Chief Executive Officer since July 2015, as a member of the Board of Directors since May 2015 and as Chairman of the Board since December 2017. He joined Cisco in December 1997, from which time until March 2002 he held a number of managerial positions within Cisco’s sales organization. Mr. Robbins was promoted to Vice President in March 2002, assuming leadership of Cisco’s U.S. channel sales organization. Additionally, in July 2005 he assumed leadership of Cisco’s Canada channel sales organization. In December 2007, Mr. Robbins was promoted to Senior Vice President, U.S. Commercial, and in August 2009 he was appointed Senior Vice President, U.S. Enterprise, Commercial and Canada. In July 2011, Mr. Robbins was named Senior Vice President, Americas. In October 2012, Mr. Robbins was promoted to Senior Vice President, Worldwide Field Operations, in which position he served until assuming the role of Chief Executive Officer. He is a member of the board of directors of BlackRock, Inc.
+Mr. Chandler joined Cisco in July 1996, upon Cisco’s acquisition of StrataCom, Inc., where he served as General Counsel. He served as Cisco’s Managing Attorney for Europe, the Middle East, and Africa from December 1996 until June 1999; as Director, Worldwide Legal Operations from June 1999 until February 2001; and was promoted to Vice President, Worldwide Legal Services in February 2001. In October 2001, Mr. Chandler was promoted to Vice President, Legal Services and General Counsel, and in May 2003 he additionally was appointed Secretary, a position he held through November 2015. In February 2006, Mr. Chandler was promoted to Senior Vice President, and in May 2012 he was appointed Chief Compliance Officer. In June 2018, Mr. Chandler was promoted to Executive Vice President and Chief Legal Officer. Before joining StrataCom, Mr. Chandler had served as Vice President, Corporate Development and General Counsel of Maxtor Corporation.
+Ms. Elliott joined Cisco in April 2018. Ms. Elliott is a former Executive Vice President of Juniper Networks, Inc., where she served as EVP and Chief Customer Officer from March 2013 to February 2014, EVP and Chief Sales Officer from July 2011 to March 2013 and EVP, Strategic Alliances from June 2009 to July 2011. Before joining Juniper, Ms. Elliott held a series of senior executive positions with Microsoft Corporation from 2001-2008 including Corporate Vice President of Microsoft’s Industry Solutions Group, Worldwide Public Sector and North American Enterprise Sales organizations. Prior to joining Microsoft Corporation, Ms. Elliott spent 22 years at IBM Corporation, where she held several senior executive positions both in the U.S. and internationally. Since 2014 Ms. Elliott has served as a director on several public company boards including Whirlpool Corporation (since 2014), Bed Bath & Beyond, Inc. (2014-17), Imperva, Inc. (2015-18), Marvell Technology Group Ltd. (2017-18) and Mimecast Ltd. (2017-18),
+
+10
+Table of Contents
+
+and during this period she also founded and led the development of Broadrooms.com, an informational resource for executive women who serve or want to serve on corporate boards in the U.S.
+Ms. Kramer joined Cisco in January 2012 as Senior Vice President, Corporate Finance. She served in that position until October 2014 and served as Cisco’s Senior Vice President, Business Technology and Operations Finance from October 2013 until December 2014. She was appointed to her current position effective January 2015. From January 2009 until she joined Cisco, Ms. Kramer served as Vice President and Chief Financial Officer of GE Healthcare Systems. Ms. Kramer served as Vice President and Chief Financial Officer of GE Healthcare Diagnostic Imaging from August 2007 to January 2009 and as Chief Financial Officer of GE Healthcare Biosciences from January 2006 to July 2007. Prior to that, Ms. Kramer held various leadership positions with GE corporate and other GE businesses. She is a member of the board of directors of Gilead Sciences, Inc. On August 12, 2020, Ms. Kramer notified Cisco of her decision to resign from Cisco. She will continue to serve in her role until such time as a replacement is appointed.
+Ms. Martinez joined Cisco in April 2018. Prior to joining Cisco, she served in a variety of senior executive roles at Salesforce.com, inc. including President, Global Customer Success and Latin America from March 2016 to April 2018; President, Sales and Customer Success from February 2013 to March 2016; Executive Vice President and Chief Growth Officer from February 2012 to February 2013; and Executive Vice President, Customers for Life from February 2010 to February 2012. Ms. Martinez’s experience prior to Salesforce includes Corporate Vice President of Worldwide Services at Microsoft Corporation, President and Chief Executive Officer of Embrace Networks, Inc. and various senior leadership roles at Motorola, Inc. and AT&T Inc./Bell Laboratories. Ms. Martinez is a member of the board of directors of McKesson Corporation and was a member of the board of directors of Plantronics, Inc. from September 2015 to April 2018.
+Mr. Tan joined Cisco in December 2005, serving in manager-level and director-level positions within Cisco’s Sales and Managed Services functions until March 2008, at which time he joined Hewlett Packard Corporation as General Manager of its Communications and Media Solutions Group in Asia Pacific and Japan. In April 2009, Mr. Tan rejoined Cisco, serving as Sales Director in charge of Malaysia and Singapore, and in February 2013 he was promoted to Vice President, Sales with responsibility for the Southeast Asia region. In April 2014, Mr. Tan was promoted to Senior Vice President, Sales with responsibility for Cisco’s APJ geography. In January 2018, Mr. Tan was promoted to Senior Vice President, Chief of Operations, and was promoted to Executive Vice President, Chief of Operations effective as of July 28, 2019. Mr. Tan is a member of the board of directors of Stanley Black & Decker, Inc.
