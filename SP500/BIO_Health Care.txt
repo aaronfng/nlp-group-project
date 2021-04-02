@@ -1,0 +1,111 @@
+General
+
+Bio-Rad Laboratories, Inc. (referred to in this report as “Bio-Rad,” “we,” “us,” and “our”) is a multinational manufacturer and worldwide distributor of our own life science research and clinical diagnostics products. Bio-Rad manufactures and supplies the life science research, healthcare, analytical chemistry and other markets with a broad range of products and systems used to separate complex chemical and biological materials and to identify, analyze and purify their components.
+
+We have direct distribution channels in over 36 countries outside the United States through subsidiaries whose focus is sales, customer service and product distribution. In some locations outside and inside these 36 countries, sales efforts are supplemented by distributors and agents.
+
+Description of Business
+
+Business Segments
+
+Bio-Rad operates in two industry segments designated as Life Science and Clinical Diagnostics.  Both segments operate worldwide.  Our Life Science segment and our Clinical Diagnostics segment generated 49% and 51%, respectively, of our net sales for the year ended December 31, 2020. We generated approximately 39% of our consolidated net sales for the year ended December 31, 2020 from U.S. sales and approximately 61% from sales in our remaining worldwide markets.
+
+
+3
+
+
+
+Life Science Segment
+Our Life Science segment is at the forefront of discovery, creating advanced tools to answer complex biological questions.  We are a leader in the life sciences market and develop, manufacture and market approximately 6,000 reagents, apparatus and laboratory instruments that serve a global customer base. Many of our products are used in established research techniques, biopharmaceutical production processes and food testing regimes. These techniques are typically used to separate, purify and identify biological materials such as proteins, nucleic acids and bacteria within a laboratory or production setting. We focus on selected segments of the life sciences market in proteomics (the study of proteins), genomics (the study of genes), biopharmaceutical production, cellular biology and food safety.  We estimate that the worldwide market that our portfolios can address for products in these selected segments of our addressable markets is approximately $14 billion. Our principal life science customers include universities and medical schools, industrial research organizations, government agencies, pharmaceutical manufacturers, biotechnology researchers, food producers and food testing laboratories. These tools are typically used to separate, purify, characterize, or quantitate biological materials such as cells, proteins, and nucleic acids in the research laboratory or the biopharmaceutical manufacturing and quality control process, for food safety and science education and literacy. We are focused on the translational research market segment where our products help accelerate the timelines from discovery in the lab to the clinic and the patient.
+
+Clinical Diagnostics Segment
+Our Clinical Diagnostics segment designs, manufactures, sells and supports test systems, informatics systems, test kits and specialized quality controls that serve clinical laboratories in the global diagnostics market.  Our products currently address specific niches within the in vitro diagnostics (IVD) test market, and we seek to focus on the higher margin, higher growth segments of this market.
+
+We supply more than 3,000 different products that cover more than 300 clinical diagnostic tests to the IVD test market. We estimate that the worldwide sales for products in the markets we serve is approximately $16 billion. IVD tests are conducted outside the human body and are used to identify and measure substances in a patient’s tissue, blood or urine. Our products consist of reagents, instruments and software, typically provided to our customers as an integrated package to allow them to generate reproducible test results. Revenue in this business is highly recurring, as laboratories typically standardize test methodologies, which are dependent on a particular supplier’s equipment, reagents and consumable products. An installed base of diagnostic test systems therefore typically creates an ongoing source of revenue through the sale of test kits for each sample analyzed on an installed system.  Our principal clinical diagnostic customers include hospital laboratories, diagnostic reference laboratories, transfusion laboratories and physician office laboratories.
+
+Raw Materials and Components
+
+We utilize a wide variety of chemicals, biological materials, electronic components, machined metal parts, optical parts, computing and peripheral devices.  Most of these materials and components are available from numerous sources, and while we have historically not experienced difficulty in securing adequate supplies, the impact of COVID-19 on our suppliers' operations has created some challenges in procuring materials. For more discussion relating to the impacts of the COVID-19 pandemic, please see “Item 1A, Risk Factors” to this Annual Report. In certain instances we acquire components and materials from a sole supplier. Due to the regulatory environment in which we operate, we may be unable to quickly establish additional or replacement sources for some components or materials.
+
+4
+
+
+Patents, Trademarks and Licenses
+
+We own over 2,200 U.S. and international patents and numerous trademarks.  We also hold licenses under U.S. and foreign patents owned by third parties and pay royalties on the sales of certain products under these licenses.  We view these patents, trademarks and license agreements as valuable assets; however, we believe that our ability to develop and manufacture our products depends primarily on our knowledge, technology and special skills rather than our patent, trademark and licensing positions.
+
+Seasonal Operations and Backlog
+
+Our business is not inherently seasonal.  However, the European custom of concentrating vacation during the summer months usually tempers third quarter sales volume and operating income.
+
+For the most part, we operate in markets characterized by short lead times and the absence of significant backlogs. Management has concluded that backlog information is not material to our business as a whole.
+
+Sales and Marketing
+
+We conduct our worldwide operations through an extensive direct sales force, employing approximately 880 direct sales and sales management personnel around the world. Our sales force typically consists of experienced industry professionals with scientific training, and we maintain a separate specialist sales force for each of our segments. We believe that this direct sales approach allows us to sell a broader range of our products that creates more brand awareness and long-term relationships with our customers.
+
+We also use a range of sales and marketing intermediaries (SMIs) in our international markets. The types of SMIs we utilize are distributors, agents, brokers and resellers. We have programs and policies in place with our SMIs to ensure their compliance with all applicable laws, including adhering to our anti-corruption standards to ensure a transparent sale to our customers.
+
+Our customer base is broad and diversified. Our worldwide customer base includes (1) prominent university and research institutions; (2) hospital, public health and commercial laboratories; (3) other leading diagnostic manufacturers; and (4) leading companies in the biotechnology, pharmaceutical, chemical and food industries.
+
+Our sales are affected by a number of external factors.  For example, a number of our customers, particularly in the Life Science segment, are substantially dependent on government grants and research contracts for their funding.  
+
+Most of our international sales are generated by our wholly-owned international subsidiaries and their branch offices.  Certain of these subsidiaries also have manufacturing operations.  Bio-Rad’s international operations are subject to certain risks common to foreign operations in general, such as changes in governmental regulations, import restrictions and foreign exchange fluctuations.  
+
+Competition
+
+The markets served by our product groups are highly competitive.  Our competitors range in size from start-ups to large multinational corporations with significant resources and reach.  We seek to compete primarily in market segments where our products and technology offer customers specific advantages over the competition.
+
+Our Life Science segment does not face the same competitors for all of its products due to the breadth of its product lines.  Major competitors in this market include Becton Dickinson, GE Biosciences, Merck Millipore and Thermo Fisher Scientific. We compete primarily based on meeting performance specifications and offering comprehensive solutions.
+5
+
+Major competitors of our Clinical Diagnostics segment include Roche, Abbott Laboratories, Siemens, Danaher, Thermo Fisher, Becton Dickinson, bioMérieux, Ortho Clinical Diagnostics, Tosoh, Immucor and DiaSorin. We compete across a variety of attributes including service, quality and portfolio.
+Research and Development
+We conduct extensive research and development activities in all areas of our business, employing approximately 880 employees worldwide in these activities, including degreed scientists and technical support staff. Research and development has played a major role in Bio-Rad’s growth and is expected to continue to do so in the future. Our research teams are continuously developing new products and new applications for existing products. In our development of new products and applications, we interact with scientific and medical professionals at universities, hospitals and medical schools, and within our industry.
+
+Regulatory Matters
+
+The development, testing, manufacturing, marketing, post-market surveillance, distribution, advertising and labeling of certain of our products (primarily diagnostic and donor screening products) are subject to regulation in the United States by the Center for Devices and Radiological Health (CDRH) and/or the Center for Biologics Evaluation and Research (CBER) of the U.S. Food and Drug Administration (FDA) and in other jurisdictions by state and foreign government authorities.  FDA regulations require that some new products have pre-marketing clearance or approval by the FDA and require certain products to be manufactured in accordance with FDA’s “good manufacturing practice” regulations, to be extensively tested and to be properly labeled to disclose test results and performance claims and limitations. After a product that is subject to FDA regulation is placed on the market, numerous regulatory requirements apply, including, for example, the requirement that we comply with recordkeeping and reporting requirements, such as the FDA’s medical device reporting regulations and reporting of corrections and removals. The FDA enforces these requirements by inspection and market surveillance. The FDA has authority to take various administrative and legal actions against us for our, or our products’, failure to comply with relevant legal or regulatory requirements, including issuing warning letters, initiating product seizures, requesting or requiring product recalls or withdrawals, and other civil or criminal sanctions, among other things.
+
+We are also subject to additional healthcare regulation and enforcement by the federal government and by authorities in the states and foreign jurisdictions in which we conduct our business. Such laws include, without limitation, state and federal anti-kickback, fraud and abuse, false claims, privacy and security and physician sunshine laws and regulations. If our operations are found to be in violation of any of such laws or any other governmental regulations that apply to us, we may be subject to penalties, including, without limitation, civil and criminal penalties, damages, fines, the curtailment or restructuring of our operations, exclusion from participation in federal and state healthcare programs and imprisonment.
+
+Sales of our products will depend, in part, on the extent to which our products or diagnostic tests using our products will be covered by third-party payors, such as government health care programs, commercial insurance and managed healthcare organizations. These third-party payors are increasingly reducing reimbursements for certain medical products and services. In addition, the U.S. government, state legislatures and foreign governments have continued implementing cost containment programs, including price controls and restrictions on reimbursement. Adoption of price controls and cost-containment measures, and adoption of more restrictive policies in jurisdictions with existing controls and measures, could further limit our net revenue and results. Decreases in third-party reimbursement for our products or diagnostic tests using our products, or a decision by a third-party payor to not cover our products could reduce or eliminate utilization of our products and have a material adverse effect on our sales, results of operations and financial condition. In addition, healthcare reform measures have been and will be adopted in the future, any of which could limit the amounts that governments will pay for healthcare products and services, which could result in reduced demand for our products or additional pricing pressures.
+
+As a multinational manufacturer and distributor of sophisticated instrumentation, we must meet a wide array of electromagnetic compatibility and safety compliance requirements to satisfy regulations in the United States, the European Union and other jurisdictions.  
+6
+
+
+Our operations are subject to federal, state, local and foreign environmental laws and regulations that govern such activities as transportation of goods, emissions to air and discharges to water, as well as handling and disposal practices for solid, hazardous and medical wastes.  In addition to environmental laws that regulate our operations, we are also subject to environmental laws and regulations that create liabilities and clean-up responsibility for spills, disposals or other releases of hazardous substances into the environment as a result of our operations or otherwise impacting real property that we own or operate.  The environmental laws and regulations could also subject us to claims by third parties for damages resulting from any spills, disposals or releases resulting from our operations or at any of our properties.
+
+These regulatory requirements vary widely among countries.
+
+Human Capital Resources
+
+At Bio-Rad, we consider our employees to be our most valuable asset, and critical to the effective development, manufacture, sale, distribution and servicing of our vast array of products and services. Our employees are essential to satisfying our customers’ needs for products to advance science and healthcare. At December 31, 2020, we had approximately 8,000 employees, the overwhelming majority of which are full-time employees. Our employees are located throughout the world with roughly 45% in the Americas, 40% in Europe, the Middle-East and Africa, and 15% in Asia Pacific. Our employees are represented by more than 90 self-identified nationalities working in over 140 locations in 36 different countries around the world.
+
+Diversity, Equity and Inclusion
+
+At Bio-Rad, we recognize that diversity is a strength. Our differences offer new and unique ideas and perspectives to our organization. We foster a work culture that embraces the diverse experience and knowledge of every employee, creating an inclusive culture regardless of race, gender, age, sexual orientation, disability, or nationality. We have been purposeful in our efforts to hire, develop and retain diverse talent as well as in our efforts to create an inclusive culture. We actively encourage employee engagement and regularly solicit feedback regarding job satisfaction, career growth and development, collaboration, empowerment, ethics, and manager effectiveness. We use employee input to help our managers make focused and strategic commitments to improve and sustain engagement in their teams. Bio-Rad requires that all management and employees participate in ongoing training intended to increase awareness of the importance of a diverse and inclusive culture.
+
+Compensation and Benefits
+
+We provide a competitive total rewards program consisting of broad-based salary and bonus plans as well as annual management stock grants. These programs combine to recognize and reward performance based on individual, group, and overall company contributions. We provide competitive health and welfare programs which include medical, dental, vision and life insurance, a 401(k) plan, an employee stock purchase program, local pension plans, profit sharing, employee assistance, child and elder care programs, employee recognition and a host of other localized programs tied to the unique needs of our employees. Pay equity is an integral part of our compensation strategy at Bio-Rad. We have ongoing processes and protocols to help us pay each individual employee appropriately based on her or his skills, performance, experience, location, market practices, etc., regardless of race, gender and other non-performance related attributes.
+
+Health, Wellness and Safety
+
+The health and welfare of our employees is of the highest importance to Bio-Rad. We prioritize, manage, and carefully track safety performance at all locations globally and integrate sound safety practices in every aspect of our operations. We offer work site hazard evaluations, workplace safety surveys, safety equipment selection, safety program reviews, chemical and radiation exposure monitoring, safety training, and disposal of hazardous chemical, radioactive and infectious waste. In response to the COVID-19 pandemic and related mitigation measures, we implemented changes in our business in March 2020 in an effort to protect our employees and customers from
+7
+
+COVID-related exposures. For example, we installed physical barriers between and distanced our employees in production facilities, implemented extensive cleaning and sanitation processes for both production and office spaces and broad work-from-home initiatives for employees in our administrative functions. While Bio-Rad’s essential workers have continued to work at our facilities and provide vital service to our customers, most employees in our administrative functions have effectively worked remotely since mid-March 2020. We require employees to isolate and quarantine when appropriate to protect their fellow workers and deploy rapid COVID-19 testing when appropriate.
+
+Training and Talent Development
+
+We provide training programs for managers and employees to support their growth and development. Our management series of courses cover essential management and leadership learning to provide our managers with the necessary skills and experience needed to more effectively lead and develop their teams. In addition, available courses for employees help them to be more effective at work, enhance interpersonal effectiveness, and help them achieve their full potential. We also support employees’ professional development by providing an educational reimbursement program for qualified educational expenses. We have moved our learning and development efforts to a virtual platform in response to the global pandemic.  
+
+Available Information
+
+Bio-Rad files annual, quarterly, and current reports, proxy statements, and other documents with the Securities and Exchange Commission (SEC) under the Securities Exchange Act of 1934, as amended.  The SEC maintains an Internet website that contains reports, proxy and information statements, and other information regarding issuers, including Bio-Rad, that file electronically with the SEC.  The public can obtain any documents that we file with the SEC at http://www.sec.gov.
+
+Bio-Rad’s website address is www.bio-rad.com.  We make available, free of charge through our website, our Form 10-Ks, 10-Qs and 8-Ks, and any amendments to these forms, as soon as reasonably practicable after filing with the SEC. The information on our website is not part of this Annual Report on Form 10-K.
+
+

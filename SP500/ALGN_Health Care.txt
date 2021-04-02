@@ -1,0 +1,380 @@
+Our Company
+
+
+Align Technology, Inc. (“We”, “Our”, “Align”) is a global medical device company engaged in the design, manufacture and marketing of Invisalign® clear aligners and iTero® intraoral scanners and services for dentistry, and exocad® computer-aided design and computer-aided manufacturing (“CAD/CAM”) software for dental laboratories and dental practitioners. Our products are intended primarily for the treatment of malocclusion or the misalignment of teeth and are designed to help dental professionals achieve the clinical outcomes that they expect and the results patients desire. Our goal is to establish clear aligners as the principal solution for the treatment of malocclusions and our Invisalign System as the treatment solution of choice by orthodontists, general dental practitioners and patients globally. To date, over 9.6 million people worldwide have been treated with our Invisalign System.
+
+
+3
+--------------------------------------------------------------------------------
+
+
+Effective January 1, 2021, Align’s corporate headquarters is located at 410 North Scottsdale Road, Suite 1300, Tempe, Arizona 85281, and our telephone number is 408-470-1000. Our internet address is www.aligntech.com. Our Americas regional headquarters is located in Raleigh, North Carolina, U.S.A.; our European, Middle East and Africa (“EMEA”) regional headquarters is located in Rotkreuz, Switzerland; and our Asia Pacific (“APAC”) regional headquarters is located in Singapore.
+
+
+We have two operating segments: (1) Clear Aligner and (2) Imaging Systems and CAD/CAM Services (“Systems and Services”). For the year ended December 31, 2020, Clear Aligner net revenues represented approximately 85% of worldwide net revenues, while Systems and Services net revenues represented the remaining 15% of worldwide net revenues. We sell the majority of our products directly through a dedicated and specialized sales force to our customers: orthodontists, general practitioner dentists (“GPs”), restorative and aesthetic dentists, including prosthodontists, periodontists, and oral surgeons, and dental laboratories. We also sell through non-inventory carrying sales agents and distributors in certain countries. In addition, we sell directly to Dental Support Organizations (“DSOs”) who contract with dental practices to provide critical business management and support including non-clinical operations, and we sell products used by dental laboratories who manufacture or customize a variety of products used by licensed dentists to provide oral health care. 
+
+
+We received 510(k) clearance from the United States Food and Drug Administration (“FDA”) to market the Invisalign System in 1998. The Invisalign System is regulated by the FDA as a Class II medical device. In order to provide Invisalign treatment to their patients, orthodontists and GPs must initially complete an Invisalign training course.
+
+
+Our iTero intraoral scanner is used by dental professionals and/or labs and service providers for restorative and orthodontic digital procedures as well as Invisalign case submissions. We received 510(k) clearance from the FDA to market iTero software for expanded indications in 2013. Our Systems and Services products are primarily sold through our direct sales force and through non-inventory carrying sales agents and distributors in certain countries and directly to DSOs.
+
+
+In April 2020, we completed the acquisition of privately-held exocad Global Holdings GmbH (“exocad”), a German dental CAD/CAM software company that offers fully integrated workflows to dental labs and dental practices. We acquired exocad for its expertise in restorative dentistry, implantology, guided surgery, and smile design to extend the Invisalign System and iTero digital solutions and pave the way for new, cross-disciplinary dentistry in labs and at chairside. exocad now has over 200 partners and more than 40,000 software licenses installed worldwide.
+
+
+Clear Aligner Segment
+
+
+Malocclusion and Traditional Orthodontic Treatment
+
+
+Malocclusion, or the misalignment of teeth, is one of the most prevalent clinical dental conditions, affecting billions of people, or approximately 60% to 75% of the global population. Annually, approximately 15 million people in major developed countries elect treatment by orthodontists worldwide. Most orthodontic patients are treated with the use of traditional methods such as metal arch wires and brackets, referred to as braces, and may be augmented with elastics, metal expanders, headgear or functional appliances, and other ancillary devices as needed. Upon completion of the treatment, the dental professional may, at his or her discretion, have the patient use a retainer appliance. Of the 15 million annual global orthodontic cases started, we estimate that approximately 90% or 13.5 million could be treated using our Invisalign clear aligners. In addition, globally approximately 500 million people with malocclusion could benefit from straightening their teeth. This represents a significant opportunity for us as we expand the market for orthodontics by training more doctors, including GP dentists as well as orthodontists, and educating more consumers about the benefits of straighter teeth using the Invisalign System and connecting them with an Invisalign doctor of their choice.
+
+
+The Invisalign System
+
+
+The Invisalign System is a proprietary method for treating malocclusion based on a proprietary computer-simulated virtual treatment plan and a series of doctor-prescribed, custom manufactured, clear polymer removable aligners. The Invisalign System offers a range of treatment options, specialized services, and access to proprietary software for treatment visualization and is comprised of the following phases:
+
+
+Diagnosis and transmission of treatment data. An Invisalign System trained dental professional prepares an online prescription form on our Invisalign Doctor Site and submits the patient's records, which include a digital intraoral scan or a polyvinyl-siloxane (“PVS”) impression of the relevant dental arches, photographs of the patient and, at the dental professional’s election, x-rays of the patient’s dentition. Intraoral digital scans may be submitted through Align’s iTero scanner or certain third-party scanners capable of accurately interfacing with our systems and processes. See “Third Party Scanners and Digital scans.” More than 79% of Invisalign System case submissions are now submitted via digital scan, increasing the accuracy of 
+4
+--------------------------------------------------------------------------------
+
+
+treatments, reducing the time from prescription submission to patient receipt, and decreasing the carbon footprint resulting from the shipment of the materials used to form PVS impressions to the doctors and shipping those PVS impressions back to us.
+
+
+Computer-simulated treatment plan. Using the information, certain doctor preferences and digital data provided, we generate a proposed custom, three-dimensional treatment plan, called a ClinCheck® treatment plan using proprietary software we have developed through significant, ongoing investments over more than 20 years. A patient’s ClinCheck treatment plan simulates desired tooth movement in stages and details the timing and placement of any features or attachments to be used during treatment. Attachments are tooth-colored “buttons” that are sometimes used to increase the biomechanical force on a specific tooth or teeth in order to affect the desired movement(s).
+
+
+Review and approval of the treatment plan by an Invisalign trained doctor. The patient’s ClinCheck treatment plan is then made available to the prescribing dental professional via Align’s Invisalign Doctor Site which enables the dental professional to evaluate projected tooth movement from initial position to final position and compare multiple treatment plan options. By reviewing, modifying as needed and approving the treatment plan, the dental professional retains control of the patient’s treatment.
+
+
+Manufacture of custom aligners. Following the dental professional’s approval of the ClinCheck treatment plan, we use the data underlying the simulation as input for the next stage in which we use stereolithography technology (a form of 3D printing technology) to construct a series of molds depicting the future position of the patient’s teeth. Each mold is a replica of the patient’s teeth at each stage of the simulated course of treatment. From these molds, aligners are fabricated by pressure-forming polymeric sheets over each mold. Aligners are thin, clear polymer, removable dental appliances that are custom manufactured in a series to correspond to each stage of the patient's ClinCheck treatment plan.
+
+
+Shipment to the dental professional and patient aligner wear. Once manufactured, in most countries all the aligners for a patient's treatment plan are shipped directly to the dental professional, who then dispenses them to the patient at regular check-up intervals. Aligners are generally worn for a short period of time corresponding to the stages of the patient’s approved ClinCheck treatment plan. The patient replaces the aligners with the next pair in the series when prescribed, advancing tooth movement through each stage. At various points in each patient’s treatment, their doctor may place attachments or use other auxiliaries to achieve desired tooth movements, per the doctor’s original prescription and the approved ClinCheck treatment plan. At the treating doctor’s discretion, weekly aligner changes are recommended for all Invisalign treatments except for Express packages and may provide shorter treatment time compared with two-week aligner wear.
+
+
+Feature Enhancements
+
+
+We continually introduce enhanced features across our digital platform that includes our Invisalign System, iTero intraoral scanners, exocad CAD/CAM solutions and digital workflows to improve treatment outcomes, address broader clinical indications or respond to customer demand. 2020 saw a number of new innovations intended to enhance the ease by which doctors can diagnose, plan and treat patients more efficiently and effectively, many of which became critically important to patient care in the wake of limited in-person visits as a result of the COVID-19 pandemic. In addition to other examples referenced throughout this Annual Report on Form 10-K, in 2020 Align launched the following products:
+
+
+•Invisalign Virtual Appointment and Invisalign Virtual Care - Two continuity of care virtual solutions generally released in May 2020 that offer practice and care transformation to doctors by enabling a range of remote practice services for their patients such as video appointments and care and treatment progress reviews and communications.
+
+
+•ClinCheck 6.0 Pro Software - Released in the third quarter of 2020, ClinCheck Pro 6.0 software is the latest release of Align’s proprietary 3D treatment planning software showing the planned tooth movements throughout a patient’s Invisalign treatment, now more broadly available to doctors on multiple devices at any time via the cloud. ClinCheck Pro 6.0 software also included the ClinCheck “In-Face” Visualization tool, enhancing the digital treatment planning experience for doctors and their patients by incorporating a front-facing image of a patient’s face into their 3D ClinCheck treatment plan to create a personalized view of how their new smile could look with Invisalign System treatment.
+
+
+•Invisalign Stickables - Released in the third quarter of 2020, Invisalign Stickables are sticker accessories designed exclusively for use with our patented SmartTrack® material in Invisalign clear aligners to personalize Invisalign clear aligners. Invisalign Stickables are available in an array of designs, colors, shapes, and themes and allow patients to show their personal flair during Invisalign System treatment in fun and engaging ways. 
+5
+--------------------------------------------------------------------------------
+
+
+Clear Aligner Products
+
+
+We offer our Invisalign clear aligner products in a variety of treatment packages designed to correspond with the case-by-case treatment needs of our doctors and their patients. The table below provides a general description of the types of treatment products we offer in various regions as they typically correspond to the severity of malocclusion and length of anticipated treatment.
+
+
+                  
+Malocclusion Very Mild  algn-20201231_g1.jpg Moderate algn-20201231_g2.jpg Severe 
+Product Invisalign Express Package Invisalign Lite Package Invisalign Go Limited Movement (GP) Invisalign Moderate Packages Invisalign Comprehensive Packages 
+Stages 7 14 20 20-26 As many as required 
+Clinical Scope Relapse and minor movement, anterior esthetic alignment Class I, mild crowding/spacing, non-extraction, pre-restorative Class I, no anterior / posterior correction, mild to moderate crowding, spacing, non-extraction, pre-restorative Tooth movement from 2nd premolar to 2nd premolar (5x5) Class I, mild Class II, mild to moderate crowding/spacing, mild anterior / posterior and vertical discrepancies, pre-restorative Class I, II, III, moderate to severe crowding/spacing, anterior / posterior and vertical discrepancies, extractions, complex pre-restorative 
+
+
+
+Most of our Invisalign System treatment plans described above provide dental professionals with the option to order additional aligners if the patient's treatment deviates from the original treatment plan. The number and timing of additional aligner orders are subject to certain requirements noted in our terms and conditions. 
+
+
+Comprehensive Products - Invisalign Treatment Options:
+
+
+Invisalign Comprehensive Packages. The Invisalign Comprehensive Package is used to treat adults and teens for a full spectrum of mild to severe malocclusion and contains a wide variety of Invisalign features to address the doctor's treatment goals. It also addresses the frequently complex orthodontic needs of teenage or younger patients with advanced features such as mandibular advancement, compliance indicators and compensation for tooth eruption. These packages include Invisalign Comprehensive, Invisalign First Phase 1 and Invisalign First Comprehensive Phase 2.  
+
+
+Invisalign First Phase 1 and Invisalign First Comprehensive Phase 2 Packages. Invisalign First Phase 1 Package is designed specifically for younger patients generally between the ages of seven and ten years, who frequently have a mixture of primary/baby and permanent teeth. Invisalign First Phase 1 treatment provides early interceptive orthodontic treatment, traditionally done through arch expanders, or partial metal braces, before all permanent teeth have erupted. Invisalign First Phase 1 clear aligners are designed specifically to address a broad range of younger patients' malocclusions, including shorter clinical crowns, management of erupting dentition and predictable dental arch expansion. Our Invisalign First Comprehensive Phase 2 Package is a continuation of Invisalign First Phase 1 and is generally consistent with our Invisalign Comprehensive Package. After a patient completes Invisalign First Phase 1, doctors have the option to purchase a discounted Comprehensive Phase 2 Package for that same patient. 
+
+
+Non-Comprehensive Products - Invisalign Treatment Options:
+
+
+Invisalign Non-comprehensive Packages. We offer a variety of lower priced treatment packages for less complex orthodontic cases, non-comprehensive relapse cases, or straightening prior to restorative or cosmetic treatments, such as veneers. These treatment packages include Invisalign Express, Lite, Go, Go Plus and Moderate. These packages may be offered in select countries and/or may differ from region to region. 
+
+
+Invisalign Go Packages. We also offer in various markets Invisalign Go and Invisalign Go Plus, streamlined Non-Comprehensive packages designed for GPs to more easily identify and treat patients with mild malocclusion. The Invisalign Go and Invisalign Go Plus packages include case assessment support, simplified ClinCheck treatment plans and a progress assessment feature for case monitoring. 
+
+
+Non-Case Products:
+
+
+Clear Aligner non-case products include retention products, Invisalign training fees and sales of ancillary products, such as cleaning material and adjusting tools used by dental professionals during the course of treatment.
+6
+--------------------------------------------------------------------------------
+
+
+
+
+Retention. We offer up to four sets of custom clear aligners called Vivera Retainers made with proprietary material strong enough to maintain tooth position and correct minor relapse, if necessary. Retainers are generally available for doctors to offer to any of their patients, whether they use the Invisalign System or other products, including wires and brackets. In select markets, we also offer single set retainers. 
+
+
+SmartTrack Aligner Material
+
+
+SmartTrack clear aligner material is a patented, custom-engineered Invisalign clear aligner material that delivers gentle, more constant force considered ideal for orthodontic tooth movements. Conventional aligner materials relax and lose a substantial percent of their energy in the initial days of wear, but SmartTrack material maintains more constant force over time. The flexible SmartTrack material also more precisely conforms to tooth morphology, attachments and interproximal spaces to improve control of tooth movement throughout treatment.
+
+
+In October 2020, we introduced Invisalign G8 with SmartForce Aligner Activation; a clear aligner biomechanical innovation that allows doctors to more predictably treat crowding, crossbite and deep bite cases through the targeted application of force to teeth through surface contours on the aligners that help control the location, direction and intensity of tooth movement. 
+
+
+Systems and Services Segment 
+
+
+Intraoral scanning is a rapidly evolving technology that is having a substantial impact on the practice of dentistry. By enabling the dental practitioner to create a 3D image of a patient's teeth (digital scan) using a handheld intraoral scanner, digital scanning is faster, more efficient, precise and comfortable for patients. Beginning patient care with the early usage of our iTero intraoral scanners and combining the results with digital workflows designed to assist doctors and patients visualize and evaluate various treatment options with detailed imagery and CAD/CAM solutions is helping improve treatments, outcomes and satisfaction. The accuracy of digitally scanned models substantially reduces the rate of restoration "remakes;" meaning patients are recalled less often and the appointment time for the restoration is shorter because of fewer adjustments, increasing overall patient satisfaction. Digital models also reduce the carbon footprint associated with the shipping of the materials used to create PVS impressions, the shipping of those impressions, and their disposal. Moreover, the digital model file can be used for various procedures and services including fabrication of physical dental models for use by labs to create restorative units such as veneers, inlays, onlays, crowns, bridges and implant abutments; digital records storage; aid to caries detection; orthodontic diagnosis; orthodontic retainers and appliances; and Invisalign digital impression submission. 
+
+
+iTero Scanner. The iTero Element scanner is available as a single hardware platform with software options for restorative or orthodontic procedures. The expanded portfolio includes the iTero Element 2, the iTero Element Flex, iTero Element 5D Imaging System and iTero Element Plus Series of intraoral scanners which are each available in select regions and countries. These products build on the existing high precision, full-color imaging and fast scan times of the iTero Element portfolio while streamlining orthodontic and restorative workflows. The iTero scanner is interoperable with our Invisalign treatment such that a full arch or full mouth digital scan can be submitted as part of the Invisalign System case submission process.
+
+
+In February 2019, we launched the iTero Element 5D Imaging system which provides a new comprehensive approach to clinical applications, workflows and user experience that expands the suite of existing high-precision, full-color imagining and fast scan times of the iTero Element scanner portfolio and in March 2020, we received U.S. FDA 501(K) clearance for the system. In addition to offering all of the features and functionality of the iTero Element 2 scanner, the iTero Element 5D scanner is the first integrated dental imaging system that simultaneously records 3D, intra-oral color and near-infrared (“NIRI”) imaging and enables comparison over time using the iTero TimeLapse technology. NIRI technology included in our intraoral scanners like the iTero Element 5D Imaging System, aids in detection and monitoring of interproximal caries lesions above the gingiva without using harmful radiation. The iTero Element 5D Imaging System is available in the majority of North America, EMEA and select APAC and LATAM countries and is pending regulatory approval in others. 
+
+
+We also recently announced the launch of the iTero Element Plus Series next generation of scanners and imaging systems featuring advanced technology and capabilities designed to improve the scanning experience and increase practice productivity. The iTero Element Plus Series offers faster processing times and advanced visualization capabilities in an ergonomically designed package available in both cart and mobile configurations for greater practice flexibility.
+
+
+Restorative software for iTero. Our Restorative software is designed for GPs, prosthodontists, periodontists, and oral surgeons which includes restorative workflows providing them with the ability to send digital impressions to the lab of choice and communicate seamlessly with external treatment planning, custom implant abutment, chairside milling, and laboratory CAD/CAM systems. 
+7
+--------------------------------------------------------------------------------
+
+
+
+
+Orthodontic software for iTero. Our iTero software is designed for orthodontists for digital records storage, orthodontic diagnosis, and for the fabrication of printed models and retainers. 
+
+
+CAD/CAM Services and Ancillary Products
+
+
+CAD/CAM Services. The acquisition of exocad’s CAD/CAM software in April 2020 broadens Align’s digital platform reach by adding technology that addresses restorative needs in an end-to-end digital platform workflow to facilitate ortho-restorative and comprehensive dentistry. exocad software is licensed and sold separately.
+
+
+Ancillary Products. We sell disposable sleeves for the wand and other ancillary products for the iTero scanner.
+
+
+iTero Models and Dies. An accurate physical model and dies are manufactured based on the digital scan and sent to the laboratory of the dentist’s choice for completion of the needed restoration. The laboratory also has the option to export the digital file for immediate production of coping and full-contour restorations on their laboratory CAD/CAM systems. The laboratory then completes the ceramic buildup or staining and glazing and delivers the end result - a precisely fitting restoration.
+
+
+Third Party Scanners and Digital scans. We accept case submissions for our clear aligner products in two ways: (1) physical impressions of the patient’s teeth or (2) intraoral scans of their teeth. With respect to intraoral scans, we accept scans from iTero scanners and certain third-party scanners that have interoperability relationship with our systems and processes. 
+
+
+iTero Applications and Tools
+
+
+Invisalign Outcome Simulator. The Invisalign Outcome Simulator is an exclusive chair-side and cloud-based application for the iTero scanner that allows doctors to help patients visualize how their teeth may look at the end of Invisalign treatment. This is achieved through a dual view layout that shows a prospective patient an image of his/her own current dentition next to his/her simulated final position after Invisalign treatment. 
+
+
+Invisalign Progress Assessment tool. The Invisalign Progress Assessment tool provides the ability to compare a patient’s new scan with a specific stage of their ClinCheck treatment plan; allowing doctors to visually assess and communicate Invisalign treatment progress with an easy to read, color-coded tooth movement report.
+
+
+TimeLapse Technology. The TimeLapse technology allows doctors or practitioners to compare a patient’s historic 3D scans to the present-day scan, enabling clinicians to identify and measure orthodontic movement, tooth wear, and gingival recession. This highlights areas of diagnostic interest to dental professionals and helps foster a proactive conversation with the patient regarding potential restorative or orthodontic solutions.
+
+
+Our iTero Element scanners are offered in a number of software configurations such as Ortho Comprehensive, Restorative Comprehensive and Restorative Foundation. These software packages are included in the price of the system. They enable various orthodontic and restorative workflows as well as provide other applications, including Invisalign Outcome Simulator, Invisalign Case Assessment tool, Invisalign Progress Assessment tool, and iTero TimeLapse technology. 
+
+
+Other proprietary software mentioned in this Annual Report on Form 10-K, such as ClinCheck and ClinCheck Pro software, the Invisalign Doctor Site, and feature enhancements are included as part of the Invisalign System and are not sold separately nor do they contribute as individual items to revenues. 
+
+
+Business Strategy
+
+
+Our goal remains to establish the Invisalign System as the standard method for treating malocclusion and our intraoral scanning platform as the preferred scanning protocol for digital dental scans. Our technology and innovations are designed to meet the demands of today’s patients with treatment options that are convenient, comfortable, affordable, while helping to improve overall oral health. We strive to help our doctors move their practices forward by connecting them with new patients, providing digital solutions to help increase practice efficiency and helping them deliver the best possible treatment outcomes and experiences to millions of people around the world. We achieve this by focusing on and executing to our strategic growth drivers: 
+
+
+International Expansion. We continue increasing our presence globally by making our products available in more countries to more consumers. During 2020, we shipped our Invisalign System to our 2 millionth patient in EMEA and 1 millionth patient in APAC. We expect to continue expanding our business by investing in resources, infrastructure, and initiatives that will drive Invisalign treatment growth in our current and new international markets. As our core 
+8
+--------------------------------------------------------------------------------
+
+
+international countries continue to grow in both number of new Invisalign trained doctors and customer utilization, we strive to make sure we can support that growth through investments such as headcount, clinical support, product improvements, technological innovations, education and advertising. In addition, we are scaling and expanding our operations and facilities to better support our customers across the globe. For instance, primarily for the China and APAC markets we now fabricate our clear aligners in Ziyang, China and perform digital treatment planning and interpretation for restorative cases worldwide, including in Costa Rica, China, Germany, Spain, Poland, and Japan among others. By establishing and expanding our key operational activities in locations closer to our customers, we have created an infrastructure that allows us to be responsive and flexible to more than 195,000 customers in approximately 100 countries, while providing operational flexibility and scale needed for variations in demand.
+
+
+GP Adoption. We want to enable GPs, who have access to a large patient base, to more easily identify Invisalign cases they can treat, monitor patient progress or, if needed, help refer cases to an orthodontist while providing high-quality restorative, orthodontic, and dental hygiene care. We believe success with GPs can be achieved through doctor training and by offering tools such as the iTero scanner and product offerings like Invisalign Go treatment that address the distinctive needs of GP patients; all delivered by sales and marketing personnel specifically focused on this unique customer category. We encourage GPs to scan every patient as a means to diagnose and treat patients over time and as an opportunity to drive future demand for their services and the Invisalign system. 
+
+
+Patient Demand & Conversion. Our goal is to make the Invisalign brand a highly recognized name brand worldwide by creating awareness for Invisalign treatment among consumers and motivating the potential 500 million patients who can benefit from treatment of malocclusion to seek that treatment using the Invisalign System. We accomplish this through an integrated consumer marketing strategy that includes television, media, social networking and event marketing and strategic alliances with professional sports teams as well as educating patients on treatment options and directing them to high volume Invisalign doctors. We furthermore support our doctor customers as they adopt digital dentistry through programs such as ADAPT (Align Digital and Practice Transformation). ADAPT is an expert and independent fee-based business consulting service that we announced in 2020 designed to optimize dental operational workflow and processes to enhance patients' experiences and customer and staff satisfaction with the goal of increasing practice growth and efficiencies.
+
+
+Orthodontist Utilization. We continue to train doctors, innovate and increase product applicability and predictability to address a wide range of cases, from simple to complex, thereby enabling doctors to confidently diagnose and treat children and adults with the Invisalign System. We also continue to make improvements to our Invisalign treatment software, ClinCheck Pro software, designed to deliver an exceptional user experience and increase treatment control to help our doctors achieve their treatment goals. 
+
+
+Manufacturing and Suppliers
+
+
+We have manufacturing facilities located in Juarez, Mexico, where we conduct our aligner fabrication, distribution, repair of our iTero scanners and perform certain CAD/CAM services and in Ziyang, China, where we fabricate aligners primarily for the China and APAC markets. In addition, we produce our handheld intraoral scanner wand, perform final scanner assembly and repair our scanners at our facilities in Or Yehuda, Israel and Ziyang, China. We also perform digital treatment planning and interpretation for restorative cases based on digital scans generated by our iTero intraoral scanners. Our digital treatment planning facilities are located worldwide, including in Costa Rica, China and other international locations. Information regarding risks associated with our manufacturing process and foreign operations may be found in Item 1A of this Annual Report on Form 10-K under the heading “Risk Factors.”
+
+
+Our quality system is required to be in compliance with the Quality System regulations enforced by the FDA, and similar regulations enforced by other worldwide regulatory authorities. We are certified to EN ISO 13485:2003, an internationally recognized standard for medical device manufacturing. We have a formal, documented quality system by which quality objectives are defined, understood and achieved. Systems, processes and procedures are implemented to ensure high levels of product and service quality. We monitor the effectiveness of the quality system based on internal data and direct customer feedback and strive to continually improve our systems and processes, taking corrective action, as needed.
+
+
+Since the manufacturing process of our products requires substantial and varied technical expertise, we believe that our manufacturing capacity and capabilities are important to our success. In order to produce our highly customized, highly precise, medical quality products in volume, we have developed a number of proprietary processes and technologies. These technologies include complex software algorithms and solutions, CT scanning, stereolithography and automated aligner fabrication. To increase the efficiency of our manufacturing processes, we continue to focus our efforts on software development and the improvement of rate-limiting processes or bottlenecks. We continuously upgrade our proprietary, three-dimensional treatment planning software to enhance computer analysis of treatment data and to reduce time spent on manual 
+9
+--------------------------------------------------------------------------------
+
+
+and judgmental tasks for each case, thereby increasing the efficiency of our technicians. In addition, to improve efficiency and increase the scale of our operations, we continue to invest in the development of automated systems for the fabrication and packaging of aligners.
+
+
+We are highly dependent on manufacturers of specialized scanning equipment, rapid prototyping machines, resin and other advanced materials for our aligners, as well as the optics, electronic and other mechanical components of our intraoral scanners. We maintain single supply relationships for many of these machines and materials technologies. In particular, our CT scanning and stereolithography equipment used in our aligner manufacturing and many of the critical components for the optics of our intraoral scanners are provided by single or sole source suppliers. We also currently purchase our resin and polymer, the primary raw materials used in our manufacturing process for clear aligners, from a single source. A discussion of the risks of our supply and manufacturing operations may be found in Item 1A of this Annual Report on Form 10-K under the heading "Risk Factors."
+
+
+Sales and Marketing
+
+
+Our sales efforts are focused on increasing adoption and utilization of the Invisalign System by orthodontists and GPs worldwide and integrating the iTero scanner and exocad CAD/CAM products into dental labs and practices. The scanner is an important component to the customer experience and is central to a digital approach as well as overall customer utilization of Invisalign treatments. In each region, we have direct sales and support organizations, which include quota carrying sales representatives, sales management and sales administration. We also have distribution partners in certain markets. Our sales and marketing personnel are organized to support orthodontists and GP dentists separately, allowing highly trained and specialized personnel to serve each customer category, thereby increasing our focus and effectiveness on both. We continue to expand in existing markets through targeted investments in sales resources, professional marketing and education programs, along with consumer marketing in select countries.
+
+
+We provide training, marketing and clinical support to orthodontists and GPs. As of December 31, 2020, we had approximately 102,000 active Invisalign trained doctors, which we define as having submitted at least one case in the prior 12-month period.
+
+
+Research and Development
+
+
+We are committed to investing in world-class technology development, which we believe is critical to achieving our goal of establishing the Invisalign System as the standard method for treating malocclusion and our intraoral scanning platform as the preferred scanning protocol for digital dental scans.
+
+
+Our research and development activities are directed toward developing the technology innovations that we believe will deliver our next generation of products and platforms. These activities range from accelerating product and clinical innovation to developing manufacturing process improvements to researching future technologies and products.
+
+
+In an effort to demonstrate the broad treatment capabilities of the Invisalign System, various clinical case studies and articles have been published that highlight the clinical applicability of Invisalign treatment to malocclusion cases, including those of severe complexity. We undertake pre-commercialization trials and testing of our technological improvements to the product and manufacturing process. We furthermore fund research in the field of orthodontics and dentistry through initiatives such as our Annual Research Award Program, which was in its 11th year in 2020 and our partnership with MedTech Innovator Asia Pacific, a nonprofit startup accelerator for the medical technology industry that connects healthcare industry leaders with innovative medical technology startups for mentorship and support. 
+
+
+Intellectual Property 
+
+
+We believe our intellectual property portfolio represents a substantial business advantage. As of December 31, 2020, we had 553 active U.S. patents, 592 active foreign patents, and 648 pending global patent applications. Our active U.S. patents expire between 2021 and 2039. When patents expire, we lose the protection and competitive advantages they provided, which could negatively impact our operating results; however, we continue to pursue further intellectual property protection through U.S. and foreign patent applications and non-disclosure agreements. We also seek to protect our software, documentation and other written materials under trade secret and copyright laws. We furthermore have a broad and diverse trademark portfolio that we use to highlight and protect our universally recognized brands. Information regarding risks associated with our proprietary technology and our intellectual property rights may be found in Item 1A of this Annual Report on Form 10-K under the heading “Risk Factors.”
+
+
+10
+--------------------------------------------------------------------------------
+
+
+Seasonal Fluctuations
+
+
+General economic conditions impact our business and financial results, and we have historically experienced seasonal trends within our two operating segments, customer channels and the geographic locations that we serve. Sales of Invisalign treatments are often weaker in Europe during the summer months due to our customers and their patients being on holiday and seasonally higher in China during the third quarter, particularly related to increased teen cases. Similarly, other international holidays like Lunar New Year can also negatively impact our sales in APAC. In North America, summer is typically the busiest season for orthodontists with practices that have a high percentage of adolescent and teenage patients as many parents want to get their teenagers started in treatment before the start of the school year; however, many GPs are on vacation during this time and therefore tend to start fewer cases. For our Systems and Services segment, capital equipment sales are often stronger in the fourth calendar quarter. Consequently, these seasonal trends have caused and may continue to cause fluctuations in our quarterly results, including fluctuations in sequential revenue growth rates. Moreover, the COVID-19 pandemic has disrupted many seasonal patterns and it remains unclear when or if they will return to historical norms.
+
+
+Competition
+
+
+Our clear aligner products compete directly against traditional treatments using metal brackets and wires and increasingly against clear aligner products manufactured and distributed by various companies, both within and outside the U.S. We also face competition in the emerging and rapidly evolving markets for intraoral scanners and CAD/CAM software. Although the number of competitors varies by segment, product, geography and customer, they include new and well-established regional competitors in certain foreign markets, as well as larger companies or divisions of larger companies with substantial sales, marketing, research and financial capabilities. Due in part to the expiration of certain of our clear aligner key patents beginning in 2017, we are facing increased competition in the clear aligner market. In addition, corresponding foreign patents began expiring in 2018 which has increased competition in the clear aligner markets outside the U.S. These competitors include existing larger companies in certain markets who have the ability to leverage their existing channels in the dental market to compete directly with us, direct-to-consumer (“DTC”) companies that provide clear aligners using a remote teledentistry model requiring little or no in-office care from trained and licensed doctors, and doctors themselves who can manufacture custom aligners in their offices using modern 3D printing technology. Unlike our DTC competitors, we are committed to doctors being at the core of our business strategy, and Invisalign Treatment requires a doctor's prescription and an in-person physical examination of the patient’s dentition before treatment can begin. Information regarding risks associated with increased competition may be found in Item 1A of this Annual Report on Form 10-K under the heading “Risk Factors.” 
+
+
+We believe we are well positioned to compete in the markets we target. Our significant historical and ongoing investments in research and design in around the movement of teeth, SmartTrack aligner materials and design, intraoral scanning, 3D manufacturing, and an in depth understanding of the drivers and motivations within the orthodontic and GP dental markets are among a few of our key competitive factors that compare favorably with our competitors’ products and services.
+
+
+Government Regulation
+
+
+Many countries throughout the world have established regulatory frameworks for commercialization of medical devices. As a designer, manufacturer, and marketer of medical devices, we are obligated to comply with the respective framework of these countries to obtain and maintain access to these global markets. The framework often defines requirements for marketing authorizations which vary by country. Failure to obtain appropriate marketing authorization and to meet all local requirements including specific quality and safety standards in any country in which we currently market our products could cause commercial disruption and/or subject us to sanctions and fines. Delays in receipt of, or a failure to receive, such marketing authorizations, or the loss of any previously received authorizations, could have a material adverse effect on our business, financial condition, and results of operations.
+
+
+With regards to premarket authorization in the U.S., many of our products are classified as medical devices under the U.S. Food, Drug, and Cosmetic Act (“FD&C Act”). The FD&C Act requires these products, when sold in the U.S., to be safe and effective for their intended use and to comply with medical device regulations defined by the FDA. The regulatory framework depends on a set of written processes for ensuring consistent quality called a Quality Management System ("QMS") coupled with a product marketing authorization which depends on the risk classification of the product. This regulatory framework is comparable to the framework established in the European Union (“EU”). Within the EU, our products are subject to the requirements defined by the Medical Device Regulation EU 2017/745 which replaced the Medical Device Directive 93/42/EEC with a final transition date of May 26, 2021. Similar market access regulations exist in Brazil, China, Japan and other countries. Our QMS is routinely audited by certification bodies as well as country regulators for compliance with applicable regulations.
+
+
+11
+--------------------------------------------------------------------------------
+
+
+We believe we are in compliance with all state, federal, and international regulatory requirements applicable to our products.
+
+
+We are also subject to various laws inside and outside the U.S. concerning our relationships with healthcare professionals and government officials, price reporting and regulation, the promotion, sale and marketing of our products and services, the importation and exportation of our products, the operation of our facilities and distribution of our products. As a global company, we are subject to varying degrees of government regulation in the various countries in which we do business, and the general trend is toward increasingly stringent oversight and enforcement. Initiatives sponsored by government agencies, legislative bodies, and the private sector to limit the growth of healthcare expenses generally are ongoing in markets where we do business. It is not possible to predict at this time the long-term impact of such cost containment measures on our future business.
+
+
+Our customers are healthcare providers that may be reimbursed by state or federal funded programs such as Medicaid, a foreign national healthcare program or private pay insurance, each of which may offer some degree of oversight. Many government agencies, both domestic and foreign, have increased their enforcement activities with respect to healthcare providers and companies in recent years. Enforcement actions and associated defense can be expensive, and any resulting findings carry the risk of significant civil and criminal penalties.
+
+
+In addition, we must comply with numerous data protection requirements that span from individual state and national laws in the U.S. and China, to multinational requirements in the EU. In the U.S., final regulations implementing amendments to the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”) became effective in the latter part of 2013 with the HIPAA Omnibus Rule. We are also required to be in compliance with the California Consumer Privacy Act (“CCPA”). In the EU, we must comply with the General Data Protection Regulation (“GDPR”), which serves as a harmonization of European data-privacy laws. With relocation of our EMEA headquarters to Switzerland, the Swiss Federal Act on Data Protection (“FADP”), passed September 25, 2020, becomes increasingly important. Expansion into LATAM markets requires us to comply with Brazil's Lei Geral de Proteção de Dados (“LGPD”). Meanwhile, the APAC and EMEA regions have also seen rapid development of privacy laws including India, Russia, China, South Korea, Singapore, Hong Kong, and Australia.
+
+
+Information regarding risks associated with data security and privacy may be found in Item 1A of this Annual Report on Form 10-K under the heading “Risk Factors.”
+
+
+Human Capital
+
+
+We believe our culture and commitment to our employees provides unique value to our Company and its shareholders. Every employee, and every job, is important to our success and helps us achieve our purpose of transforming smiles and changing lives. Our core values of Agility, Customer and Accountability inform our culture. Our Global Code of Conduct (“Code”) and Quality Policy are designed to enable us to operate with integrity and deliver superior treatment outcomes and experiences to patients. We seek to create an environment that values the health, safety and wellness of our teams, and we work to equip them with the knowledge and skills to serve our business and develop in their careers. 
+
+
+As of December 31, 2020, we had approximately 18,070 employees, including 11,900 in manufacturing and operations, 3,505 in sales and marketing which includes customer care, 1,020 in research and development and 1,645 in general and administrative functions. We are a global organization with the majority of our employees in direct-labor roles in our manufacturing and clinical treatment planning facilities. Set forth in the following paragraphs are some of the most important elements of our culture and commitment to our employees.
+
+
+Diversity. Fostering diversity and encouraging inclusion in the workplace makes Align a more welcoming and enjoyable place to work. Our management team is comprised of a diverse group from around the globe who are committed to promoting and encouraging the health and well-being of our employees at work and in society overall. Our work culture is designed to create innumerable benefits for our employees, customers, consumers and organization. We believe we are at our best, and our success has been driven by, different backgrounds, orientations, beliefs, perspectives and capabilities in our workforce.
+
+
+Training and Professional Development. Training is an integral part of developing and retaining our employees and creating a culture of leadership within the Company. This begins with our Code, which was significantly revised in 2020 to emphasize our strong commitment to ethical business practices in all aspects of our operations. Every employee and contractor is required to review the Code and confirm they understand it and we routinely reference the Code in presentations and as part of everyday operations. As a further part of our standard onboarding program, we train employees on important environmental health and safety topics to protect them and our environment as we operate our business. As a general practice, employees are trained to perform their jobs in accordance with any and all applicable statutory/regulatory requirements and that training is routinely re-administered, updated and refreshed. Employees are encouraged to participate in a variety of Company provided 
+12
+--------------------------------------------------------------------------------
+
+
+learning resources through our corporate Align University platform, including: professional development events; external training programs based on individual needs; business-led enterprise leader learning events; diversity and inclusion; online business skills courses and onsite classroom events. This is in addition to opportunities offered for job development such as management skills training and trainings that improve their opportunities for advancement. 
+
+
+Compensation and Benefits. Our commitment to our employees starts with benefit and compensation programs that reflect the value and the contributions our employees make. In addition to competitive base pay, we offer an assortment of benefits that vary by country, including health and welfare benefit plans, retirement planning services and benefits, holiday and leave policies, equity participation programs such as our Incentive Plan and Employee Stock Purchase Plan, and charitable and community service opportunities. Besides these, we also offer discounts to our employees and their dependents when they undergo Invisalign treatment. Importantly, during the initial onset of the pandemic in early 2020, we committed to protect our employees financially by declaring that we did not intend to furlough, lay off or cut employee pay. We believe our strong operational performance in the second half of 2020 is directly attributable to that decision along with the exceptional efforts of our employees throughout the pandemic. 
+
+
+Health and Safety. Our employees are essential to us as a business and their health and well-being is critical to our success and their continuing achievements. We therefore offer a wide variety of robust programs and initiatives designed to promote the overall health and welfare of all our employees and their families. In addition to the compensation and benefits listed above, we offer family support services, healthcare initiatives, and career services support, among many others. In response to the COVID-19 pandemic and the impacts of remote working, we have encouraged employees to take time away from work to be with their families and implemented initiatives to promote better work-life balance. In addition, we have several health and safety programs in place to help protect our employees. For instance, we have training programs and courses that employees exposed to particular risks are required to take and update periodically. Examples include hazardous material training, emergency response and evacuation training, ergonomics training, biohazard and personal protective equipment training, and more recently COVID-19 related safety training. We also invest to ensure our facilities and equipment are safe by complying with OSHA or other statutory standards.
+
+
+Charitable and Community Services. We provide opportunities for and actively encourage employees to support local charities through volunteerism, team building, and donation and matching programs and are extremely proud of the generosity and dedication of our employees especially during our annual Month of Smiles initiative in October. In addition, through our Align Foundation, we support businesses with complementary missions including Operation Smile and America’s ToothFairy as well as provide product donations to the dental community to help patients in need of a healthy, beautiful smile. For example, in 2020 we pledged a $1 million donation to support COVID-19 global relief efforts. This was in addition to a 1 million renminbi donation to the Chinese Red Cross to support its COVID-19 prevention and control efforts and donations of personal protective equipment to hospitals and healthcare providers treating patients with COVID-19. For more information on our charitable and community efforts, please refer to the Corporate Social Responsibility portion of our website located at https://www.aligntech.com/about/corporate_social_responsibility.
+
+
+Information Systems. We understand the critical nature of measurable data and insights from a human capital perspective. We made the decision to leverage a cloud-based human capital management software solution that unifies our wide range of human relations functionality onto one single platform. This allows support for the entire enterprise with qualitative and quantitative analytics specific to employee transactions, processes and programs, thereby creating a culture where data and analytics are the norm and to drive key decisions.
+
+
+Available Information
+
+
+Our website is www.aligntech.com, and our investor relations website is http://investor.aligntech.com. The information on or accessible through our websites is not part of this Annual Report on Form 10-K. Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, our proxy statement on Schedule 14A for our annual stockholders’ meeting and amendments to such reports are available, free of charge, on our investor relations website as soon as reasonably practicable after we electronically file or furnish such material with the SEC. Further, the SEC maintains an internet site that contains reports, proxy and information statements and other information regarding our filings at http://www.sec.gov.
+13
+
+--------------------------------------------------------------------------------
+
+
+Information about our Executive Officers 
+
+
+The following table sets forth certain information regarding our executive officers as of February 26, 2021:
+ 
+         
+Name Age Position 
+Joseph M. Hogan 63 President and Chief Executive Officer 
+John F. Morici 54 Chief Financial Officer and Senior Vice President, Global Finance 
+Julie Coletti 53 Senior Vice President, Chief Legal and Regulatory Officer 
+Stuart Hockridge 49 Senior Vice President, Global Human Resources 
+Emory M. Wright 51 Senior Vice President, Global Operations 
+
+
+
+Joseph M. Hogan has served as our President and Chief Executive Officer and as a member of our Board of Directors since June 2015. Prior to joining us, Mr. Hogan was Chief Executive Officer of ABB Ltd., a global power and automation technologies company based in Zurich, Switzerland from 2008 to 2013. Prior to working at ABB, Mr. Hogan worked at General Electric Company (GE) in a variety of executive and management roles from 1985 to 2008, including eight years as Chief Executive Officer of GE Healthcare from 2000 to 2008.
+
+
+John F. Morici served as our Chief Financial Officer beginning in November 2016. His title was changed to Chief Financial Officer and Senior Vice President, Global Finance in February 2018. Prior to joining us, Mr. Morici was at NBC Universal from 2007 to 2016 where he held several senior management positions in their Universal Pictures Home Entertainment U.S. and Canadian business, including Chief Financial Officer, Chief Operating Officer, and most recently, Executive Vice President and Managing Director from 2014 to 2016. Prior to NBC Universal, Mr. Morici was in various senior financial management positions at GE Healthcare from 1999 to 2007, including Chief Financial Officer for its Diagnostic Imaging and Global Products units from 2002 to 2003.
+
+
+Julie Coletti has served as our Senior Vice President, Chief Legal and Regulatory Officer since May 2019. Ms. Coletti joined Align in May 2018, serving as Vice President and Associate General Counsel, Strategic Commercial Affairs until her promotion in 2019. Prior to Align, Ms. Coletti was Vice President, Global General Counsel and Chief Compliance Officer for Danaher Corporation, a healthcare, environmental and industrial equipment manufacturer, in its dental platform business. 
+
+
+Stuart Hockridge served as our Vice President, Global Human Resources beginning in May 2016. His title was changed to Senior Vice President, Global Human Resources in February 2018. Prior to joining us, Mr. Hockridge was Senior Vice President of Talent at Visa Inc. from 2013 to 2016. Prior to Visa, Mr. Hockridge held a number of human resource management positions at GE Healthcare from 2002 to 2012 leading HR processes both globally and for various divisions.
+
+
+Emory M. Wright served as our Vice President, Operations beginning in December 2007. His title changed to Senior Vice President, Global Operations in February 2018. He has been with us since March 2000 predominantly in manufacturing and operations roles including Vice President, Manufacturing and was General Manager of New Product Development. Prior to joining Align, from 1999 to 2000, Mr. Wright was Senior Manufacturing Manager at Metrika, Inc. a medical device manufacturer. Mr. Wright also previously served as Manager of Manufacturing and Process Development for Metra Biosystems Inc.
+
+

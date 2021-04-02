@@ -1,0 +1,366 @@
+Overview
+
+
+Allegion plc ("Allegion," "we," "us" or "the Company") is a leading global provider of security products and solutions that keep people and assets safe and secure in the places where they reside, work and thrive. We create peace of mind by pioneering safety and security with a vision of seamless access and a safer world. Seamless access allows authorized, automated and safe passage and movement through spaces and places in the most efficient and frictionless manner possible. Central to our vision is partnering and developing ecosystems to create a flawless experience and enable an uninterrupted and secure flow of people and assets. We offer an extensive and versatile portfolio of mechanical and electronic security products and solutions across a range of market-leading brands. Our experts across the globe deliver high-quality security products, services and systems, and we use our deep expertise to serve as trusted partners to end-users who seek customized solutions to their security needs. 
+      
+Allegion Principal Products 
+Door closers and controls Doors and door systems 
+Electronic security products Electronic, biometric and mobile access control systems 
+Exit devices Locks, locksets, portable locks, key systems and services 
+Time, attendance and workforce productivity systems Other accessories 
+
+
+
+Access control security products and solutions are critical elements in every building and home. Many door openings are configured to maximize a room’s particular form and function while also meeting local and national building and safety code requirements and end-user security needs. Most buildings have multiple door openings, each serving its own purpose and requiring different specific access-control solutions. Each door must fit exactly within its frame, be prepared precisely for its hinges, synchronize with its specific lockset and corresponding latch and align with a specific key to secure the door. Moreover, with the increasing adoption of the Internet of Things ("IoT"), security products – including keys – are increasingly linked electronically, integrated into software and popular consumer technology platforms and controlled with mobile applications, creating additional functionality and complexity. Seamless access capitalizes on the ability for multiple products and brands to work in tandem, allowing people and assets to move efficiently and safely by adapting access rights for various settings or use cases. These solutions can also provide insights on usage and traffic patterns to improve hygiene of high-traffic areas, boost efficiency and improve visitor, staff and tenant experiences.
+
+
+We believe our ability to deliver a wide range of solutions that can be custom configured to meet end-users’ security needs is a key driver of our success. We accomplish this with: 
+
+
+•Our extensive and versatile product portfolio, combined with our deep expertise, which enables us to deliver the right products and solutions to meet diverse security and functional specifications and to successfully and securely integrate into leading technology and systems; 
+•Our consultative approach and expertise, which enables us to develop the most efficient and appropriate building security and access-control specifications to fulfill the unique needs of our end-users and their partners, including architects, contractors, homebuilders and engineers;
+•Our access to and management of key channels in the market, which is critical to delivering our products in an efficient and consistent manner; and 
+•Our enterprise excellence capabilities, including our global manufacturing operations and agile supply chain, which facilitate our ability to deliver specific product and system configurations to end-users and consumers worldwide, quickly and efficiently. 
+
+
+We believe the security products industry will benefit from several global macroeconomic trends, including:
+
+
+•Expected growth in global electronic products as end-users adopt newer technologies in their facilities and homes;
+•Heightened awareness of security and privacy requirements;
+•Increased focus on touchless solutions that help promote a healthy environment; and
+•The shift to a digital, interconnected environment.
+
+
+We operate in three geographic regions: Americas; Europe, Middle East and Africa ("EMEA"); and Asia Pacific. We sell our products and solutions under the following brands: 
+4
+--------------------------------------------------------------------------------
+Table of Contents
+
+
+alle-20201231_g2.jpg
+
+
+
+
+
+
+
+
+5
+--------------------------------------------------------------------------------
+Table of Contents
+alle-20201231_g3.jpg
+
+
+We sell a wide range of security and access control solutions for end-users in commercial, institutional and residential facilities worldwide, including the education, healthcare, government, hospitality, commercial office and single and multi-family residential markets. Our leading brands include CISA®, Interflex®, LCN®, Schlage®, SimonsVoss® and Von Duprin®. We believe LCN, Schlage and Von Duprin hold the No. 1 position in their primary product categories in North America while CISA, Interflex and SimonsVoss hold the No. 1 or No. 2 position in their primary product categories in certain European markets. 
+    
+6
+--------------------------------------------------------------------------------
+Table of Contents
+During the year ended December 31, 2020, we generated Net revenues of $2,719.9 million and Operating income of $403.5 million. 
+
+
+alle-20201231_g4.jpg
+
+
+History and Developments
+
+
+We were incorporated in Ireland on May 9, 2013, to hold the commercial and residential security businesses of what was then Ingersoll Rand plc ("Ingersoll Rand"). On December 1, 2013, we became a stand-alone public company after Ingersoll Rand completed the separation of these businesses from the rest of Ingersoll Rand via the transfer of these businesses from Ingersoll Rand to us and the issuance by us of ordinary shares directly to Ingersoll Rand’s shareholders (the "Spin-off"). Our security businesses have long and distinguished operating histories. Several of our brands were established more than 100 years ago, and many originally created their categories: 
+
+
+•Von Duprin, established in 1908, was awarded the first exit device patent;
+•Schlage, established in 1920, was awarded the first patents granted for the cylindrical lock and the push button lock; 
+•LCN, established in 1926, created the first door closer; 
+•CISA, established in 1926, devised the first electronically controlled lock; and
+•SimonsVoss, established in 1995, created the first keyless digital transponder.
+
+
+We have built upon these founding legacies since our entry into the security products market through the acquisition of Schlage, Von Duprin and LCN in 1974. Today, we continue to develop and introduce innovative and market-leading products. For example, in 2018, we announced the formation of Allegion Ventures, a corporate venture fund that invests in and helps accelerate the growth of companies that have innovative technologies and products such as touchless access and workspace monitoring solutions that complement our core business solutions. Since its formation, Allegion Ventures has invested nearly $15 million in several early-stage companies that share our pioneering vision and seek to find smart and innovative solutions that help keep people and assets safe and secure in the places where they reside, work and thrive.
+
+
+Recent examples of successful product launches by Allegion are illustrated in the table below:
+
+
+
+
+7
+--------------------------------------------------------------------------------
+Table of Contents
+                     
+Product  Brands  Year  Innovation 
+Residential Locks, Cylinders and Levers  Schlage, Gainsborough,
+CISA  2018/2019/ 2020  Next-generation Schlage smart locks include the first WiFi enabled deadbolt to work with Key by Amazon and Ring devices with built-in connectivity (Schlage Encode); Z-wave smart deadbolt and Zigbee-certified model compatible with Amazon Key and Ring devices (Schlage Connect); fire-rated smart lock for Australia and New Zealand paired with a mobile app (Schlage Omnia Breeze) for convenient access and security that meets current fire and accessibility requirements. 
+
+
+Next generation Gainsborough Freestyle Trilock features three-in-one functionality: passage, privacy or dead lock mode; and can be operated using the built-in keypad, a key override or through the mobile app. In conjunction with the optional WiFi bridge, the lock can be programmed and operated from anywhere in the world.
+
+
+First CISA motorized lock solution for high security connected smart doors (Domo Connexa), manageable in proximity and remotely using a mobile app. 
+Commercial Locks, Cylinders, Levers and Electronic Access Platforms  Schlage, SimonsVoss, CISA  2018/2019/ 2020  Enhancements to our comprehensive portfolio of globally available mechanical, wired electrified and wireless electronic solutions provide a common aesthetic and consistent user experience throughout a building; firmware releases added functionality and USB communication mode for readers (Schlage). Mobile-enabled versions of locks, readers and controllers (Schlage NDE, LE, MTB and CTE), mobile credentials, Bluetooth Low Energy and RFID technology and integrations between electronic locks and exit devices (Schlage, CISA).
+
+
+SimonsVoss offers new option for wireless online connections to a virtual network (SmartHandle AX, SmartIntego) and a retrofit, no-drill locking option for lockers and furniture in schools, hospitals and industry facilities that integrates into the existing SimonsVoss digital eco-system for offline and online access (SmartLocker). Expanded radio network technology to include European frequency band 868MHz and 920MHz technology. 
+
+
+Mortice self-locking system with a mono-point motorized lock variant (CISA) and new platformed, modular replacement of cylindrical locks (Schlage ALX). 
+Exit Devices and Closers  Von Duprin, Falcon, LCN, CISA  2018/2019/2020  Award-winning and cost-effective retrofit exit device that allows for remote undogging and monitoring with partner software (Von Duprin); new fire-rated retrofit series (Falcon); and quiet exit solutions (Von Duprin). 
+
+
+Range of touchless solutions, including automatic operators, actuators and wireless transmitters (LCN) and a range of asymmetric rack-and-pinion door closers and an entry-level, high-efficiency option (CISA). 
+Doors and Door Systems  TGP, AD Systems  2019  First to the market surface mounted, top-hung single-leaf, sliding flush wood doors that achieve a 45-minute UL 10B fire rating (FireSlide). Fire-rated and impact safety-rated glass doors with a heat resistive perimeter frame, which features nearly colorless transitions between adjoining pieces of low-iron glass, eliminating the need for colored internal glass unit spacers or vertical frame mullions (Fireframes ClearView). 
+Bike Lighting and Portable Locking Solutions  AXA, Kryptonite, Trelock  2018/2019  Innovation in bike safety including rechargeable lights and expanded lines of folding locks from each of our Global Portable Security brands (AXA, Kryptonite, Trelock); and ergonomic cable and chain locks and expanded track-and-trace services (AXA). 
+Software, Mobile and Web Applications  Allegion (Overtur, ENGAGE), Schlage, Gainsborough, Interflex, ISONAS  2018/2019/2020  Cloud-based suite of tools for project teams to collaborate on specifications and the security design of doors and openings (Overtur). Multiple enhancements to the user experience include simplified account and site set-up and gateway site survey (ENGAGE) and mobile apps for iOS and Android phones (Schlage, CISA, Gainsborough) to lock, unlock, issue mobile keys and status check. Schlage Mobile Student ID allows university students, faculty and staff to add student ID cards to their Apple Wallet or Google Pay for door access, payments, attendance tracking and ticketing. 
+
+
+Visitor management modules and managed service featuring a cloud-based solution of time recording (Interflex); cloud-hosted access control platform with real time events, alerting and user-initiated door control (ISONAS). 
+       
+
+8
+--------------------------------------------------------------------------------
+Table of Contents
+Industry and Competition 
+
+
+The global markets we serve encompass institutional, commercial and residential construction and remodeling markets throughout North America, EMEA and Asia Pacific. As end-users continue to adopt newer technologies, including IoT, in their facilities and single and multi-family homes, growth in electronic security products and solutions is expected to outperform growth in mechanical security products and solutions. We also expect the security products industry will continue to benefit from favorable trends such as increased concerns about safety and security, new attention on touchless solutions that help promote a healthy environment and technology-driven innovation that enables seamless access and a better user experience as people and assets traverse multiple locations and facilities. 
+
+
+The security products markets are highly competitive and fragmented throughout the world, with a number of large multi-national companies and thousands of smaller regional and local companies. This high fragmentation primarily reflects local regulatory requirements and highly variable end-user needs. We believe our principal global competitors are Assa Abloy AB and dormakaba Group. We also face competition in various markets and product categories throughout the world, including from Spectrum Brands Holdings, Inc. in the North American residential market. As we move into more technologically advanced product categories, we may also compete against new, more specialized competitors. 
+
+
+Our success depends on a variety of factors, including brand and reputation, product breadth, innovation, integration with popular technology platforms, quality and delivery capabilities, price and service capabilities. As many of our businesses sell through wholesale distribution, our success also depends on building and partnering with a strong channel network. Although price often serves as an important customer decision point, we also compete based on the breadth, innovation and quality of our products and solutions, our ability to custom-configure solutions to meet individual end-user requirements and our global supply chain. 
+
+
+Products and Services
+
+
+We offer an extensive and versatile portfolio of mechanical and electronic security products and solutions across a range of market-leading brands:
+
+
+•Locks, locksets, portable locks and key systems and services: A broad array of cylindrical and mortise door locksets, security levers and master key systems that are used to protect and control access and a range of portable security products, including bicycle, small vehicle and travel locks. We also offer locksmith services in select locations;
+•Door closers, controls and exit devices: An extensive portfolio of life-safety products and solutions generally installed on fire doors and facility entrances and exits. Door controls include both mechanical door closers and automatic door operators. Exit devices, also known as panic hardware, provide rapid egress to allow building occupants to exit safely in an emergency; 
+•Electronic security products and access control systems: A broad range of electrified locks, access control systems, key card and reader systems and accessories, including IoT, Bluetooth Low Energy (BLE), Power over Ethernet and cloud-based solutions;
+•Time, attendance and workforce productivity systems: Products and services designed to help business customers manage and monitor workforce access control parameters, attendance and employee scheduling. We also offer ongoing aftermarket services in addition to design and installation offerings;
+•Doors and door systems: A portfolio of hollow metal, glass and specialty doors and door systems; and 
+•Other accessories: A variety of additional security and product components, including hinges, door pulls, door stops, bike lights, louvers, weather stripping, thresholds and other accessories, as well as certain bathroom fittings and accessibility aids.
+
+
+Customers 
+
+
+We sell most of our products and solutions through distribution and retail channels, including specialty distribution, e-commerce and wholesalers. We have built a network of channel partners that help our customers choose the right solution to meet their security needs and help commercial and institutional end-users fulfill and install orders. We also sell through a variety of retail channels, including large do-it-yourself home improvement centers, multiple online and e-commerce platforms, as well as small, specialty showroom outlets. We work with our retail partners on developing marketing and merchandising strategies to maximize their sales per square foot of shelf space. Through our Interflex and API Locksmiths businesses and Global Portable Security brands, we also provide products and services directly to end-users.
+
+
+Our 10 largest customers represented approximately 24% of our total Net revenues in 2020. No single customer represented 10% or more of our total Net revenues in 2020. 
+9
+--------------------------------------------------------------------------------
+Table of Contents
+Sales and Marketing
+
+
+In markets where we sell through commercial and institutional distribution channels, we employ sales professionals around the world who work with a combination of end-users, security professionals, architects, contractors, engineers and distribution partners to develop specific, custom-configured solutions for our end-users’ needs. Our field sales professionals are assisted by specification writers who work with architects, engineers and consultants to help design door openings and security systems to meet end-users’ functional, aesthetic and regulatory requirements. Both groups are supported by dedicated customer care and technical sales-support specialists worldwide. We also support our sales efforts with a variety of marketing efforts, including trade-specific advertising, cooperative distributor merchandising, digital marketing and marketing at a variety of industry trade shows.
+
+
+In markets in which we sell through retail and home-builder distribution channels, we have teams of sales, merchandising and marketing professionals who help drive brand and product awareness through our channel partners and to consumers. We utilize a variety of advertising and marketing strategies, including traditional consumer media, retail merchandising, digital marketing, retail promotions and builder and consumer trade shows, to support these teams. 
+
+
+We also work actively with several industry bodies around the world to help promote effective and consistent safety and security standards. For example, we are members of Builders Hardware Manufacturers Association (BHMA), Construction Specification Institute, Door and Hardware Institute (DHI), FiRa Consortium, Internet of Things Consortium (IoTC), Physical Security Interoperability Alliance (PSIA), Security Industry Association, Security Technology Alliance, ASSOFERMA (Italy), BHE (Germany) and UNIQ (France). 
+
+
+Production and Distribution
+
+
+We manufacture our products in our geographic markets around the world. We operate 30 principal production and assembly facilities – 15 in Americas, 9 in EMEA and 6 in Asia Pacific. We own 16 of these facilities and lease the others. Our strategy is to produce in the region of use, wherever appropriate, to allow us to be closer to the end-user and increase efficiency and timely product delivery. Much of our U.S. based residential portfolio is manufactured in the Baja region of Mexico under the Maquiladora, Manufacturing and Export Services Industry ("IMMEX") program (formerly known as the maquiladora program). In managing our network of production and assembly facilities, we focus on continuous improvement in customer experience, employee health and safety, productivity, resource utilization and operational excellence. 
+
+
+We distribute our products through a broad network of channel partners. In addition, third-party manufacturing and logistics providers perform certain manufacturing, storage and distribution services for us to support certain parts of our manufacturing and distribution network. 
+
+
+Raw Materials
+
+
+We support our region-of-use production strategy with corresponding region-of-use supplier partners, where available. Our global and regional commodity teams work with production leadership, product management and materials management teams to ensure adequate materials are available for production. 
+
+
+We purchase a wide range of raw materials, including steel, zinc, brass and other non-ferrous metals, to support our production facilities. Where appropriate, we may enter into fixed-cost contracts to lower overall costs. 
+
+
+Intellectual Property
+
+
+Intellectual property, inclusive of certain patents, trademarks, copyrights, know-how, trade secrets and other proprietary rights, is important to our business. We create, protect and enforce our intellectual property investments in a variety of ways. We work actively in the U.S. and internationally to try to ensure the protection and enforcement of our intellectual property rights. We use trademarks on nearly all of our products and believe such distinctive marks are an important factor in creating a market for our goods, in identifying us and in distinguishing our products from others. We consider our CISA, Interflex, LCN, Schlage, SimonsVoss, Von Duprin and other associated trademarks to be among our most valuable assets, and we have registered these trademarks in a number of countries. Although certain proprietary intellectual property rights are important to our success, we do not believe we are materially dependent on any particular patent or license, or any particular group of patents or licenses.
+
+
+
+
+10
+--------------------------------------------------------------------------------
+Table of Contents
+Facilities
+
+
+We operate through a broad network of sales offices, engineering centers, 30 principal production and assembly facilities and several distribution centers throughout the world. Our active properties represent approximately 6.3 million square feet, of which approximately 37% is leased. The following table shows the location of our principal worldwide production and assembly facilities:
+               
+Production and Assembly Facilities 
+Americas  EMEA  Asia Pacific 
+Blue Ash, Ohio  Clamecy, France  Auckland, New Zealand 
+Boulder, Colorado  Durchhausen, Germany  Brooklyn, Australia 
+Chino, California  Faenza, Italy  Bucheon, South Korea 
+Ensenada, Mexico  Feuquieres, France  Jinshan, China 
+Everett, Washington  Monsampolo, Italy  Melbourne, Australia 
+Indianapolis, Indiana  Osterfeld, Germany  Sydney, Australia 
+Irving, Texas  Renchen, Germany   
+McKenzie, Tennessee  Veenendaal, Netherlands   
+Mississauga, Ontario  Zawiercie, Poland   
+Perrysburg, Ohio     
+Princeton, Illinois     
+Security, Colorado     
+Snoqualmie, Washington     
+Tecate, Mexico     
+Tijuana, Mexico     
+
+
+
+Research and Development 
+
+
+We are committed to investing in our research and development capabilities with a focus on technology innovations that will deliver growth through the introduction of new products and solutions. In addition, we invest in initiatives that continuously drive improvements in product cost, quality, safety and sustainability. 
+
+
+Our research and development team is managed as a global, collaborative group to identify and develop new technologies and worldwide product platforms. We organize our resources regionally to leverage expertise in local standards and configurations for the benefit of our customers. Further, we operate a global technology center in Bangalore, India, which augments and supports the regional engineering teams. 
+
+
+Seasonality 
+
+
+Our business experiences seasonality that varies by product line. Because more construction and do-it-yourself projects occur during the second and third calendar quarters of each year in the Northern Hemisphere, our security product sales related to those projects are typically higher in those quarters than in the first and fourth calendar quarters. However, certain other businesses typically experience higher sales in the fourth calendar quarter due to project timing. In 2020, we experienced lower sales volumes during the second quarter, principally due to the economic challenges stemming from the COVID-19 pandemic, which were most pronounced during this quarter. This is not anticipated to be a long-term trend in the seasonality of our businesses. Net revenues by quarter for the years ended December 31, 2020, 2019 and 2018, were as follows: 
+                           
+  First Quarter  Second Quarter  Third Quarter  Fourth Quarter 
+2020  25%  21%  27%  27% 
+2019  23%  26%  26%  25% 
+2018  22%  26%  26%  26% 
+
+
+
+11
+--------------------------------------------------------------------------------
+Table of Contents
+Human Capital
+
+
+The Company’s human capital strategy is foundational to achieving our business strategy and the responsibility of our Senior Vice President – Human Resources and Communications. To ensure we attract and retain top talent, we strive for a diverse and inclusive culture that rewards performance, provides growth and development opportunities and supports employees and their families through competitive compensation, benefits and numerous volunteer and charitable giving opportunities.
+
+
+As of December 31, 2020, we had approximately 11,500 employees around the world, the vast majority working full time. Our employee base is supplemented by contingent labor where demand fluctuates or we experience short-term needs for specialized skills.
+
+
+Compensation and Benefits 
+
+
+Compensation and benefit programs are tailored to be competitive in the geographies where we work, including the total package (which varies by country/region) that includes hourly and salaried compensation, performance incentive and equity plans, retirement, insurance and government social welfare programs, disability and family leave, education benefits to pursue degrees and certifications and additional offerings to support financial stability and personal planning. Health and wellness programs are provided globally and contribute to a productive, sustainable workforce by empowering our employees to take personal responsibility for their health, safety and well-being. In addition, we maintain tobacco-free facilities and pursue strategies to incentivize healthy behaviors and outcome-driven rewards. Pay for performance strategies consider not only accomplishments, but how individuals achieve results. The Allegion Leadership Behaviors – be a pioneer, break boundaries, coach, champion change, be courageous and inspire – are used to identify key talent and to train and develop aspiring leaders. They also work in concert with our performance management system to reinforce our values and code of conduct in assessing how people lead and deliver top performance. 
+
+
+Talent Attraction 
+
+
+Talent attraction efforts begin well before people walk in our doors. Around the world, our sites partner with schools and support teachers, providing mentoring, grants, scholarships, internships, co-op programs, classroom technology and on-site activities. Our sites also sponsor science, technology, engineering and math ("STEM") programs and competitions such as robotics and engineering competitions. These programs expose students to careers in manufacturing and technology and provide educators with programming to encourage academic excellence and social development. 
+
+
+Key capabilities have been identified for our long-term corporate business strategy: talent, customer focus, innovation, partnering, pace and agility and collaboration. In recruiting for open positions, we participate in community job fairs and outreach to secondary schools, technical training programs, colleges and universities; promote open positions through internal and external recruiters, on websites and through social media; and encourage Company employees to refer talent. 
+
+
+Talent Development and Succession Planning
+
+
+Talent development and succession planning at all levels of the organization are instrumental in ensuring we have the key capabilities to deliver the value proposition expected by our customers and employees. Inclusive succession planning is supported through the Allegion Leadership Behaviors, individual career mapping, assessment of performance and talent pipeline planning up to and including the Chief Executive Officer ("CEO"). On a quarterly basis, the executive team reviews talent development, focusing on developing a diverse succession bench, as part of their quarterly business review and a key component of the Allegion Operating System, our system of annual operation to support governance, reporting processes and management of the business. These cross-functional reviews highlight individuals who are ready for new opportunities, individuals who are on a special assignment or project and individuals early in their career that demonstrate emerging leadership skills. 
+
+
+Learning and Development 
+
+
+Opportunities for on-going learning and development are delivered to employees through structured coursework, on-site and expert-led training and experiential, applied development. The Allegion Academy is offered globally, supporting multiple languages and providing more than 17,000 self-guided online courses, as well as community channels on targeted skills and inclusion and diversity. We offer programs to provide successive levels of development, including reskilling and upskilling existing employees, as well as strengths-based leadership curriculum. Enterprise excellence initiatives and sprint teams expand skills in lean manufacturing and quality principles and lead to redesigning workflow to boost productivity and reduce waste. 
+12
+--------------------------------------------------------------------------------
+Table of Contents
+Employee-led resource and affinity groups provide enrichment opportunities for women’s leadership, early-career professionals, creativity and innovation, health and fitness, community volunteering and philanthropy. 
+
+
+Engagement, Inclusion and Diversity 
+
+
+A commitment to engagement, inclusion and diversity is core to the Allegion Operating System. Engagement surveys provide team leaders with insights on potential areas of focus and help them prioritize and take action on their teams’ foundational, inclusion, growth and development needs. Strengths-based leadership is an element of our commitment to inclusion: the more employees understand their own strengths, the better equipped they are to add value and appreciate the contributions of diverse members of their teams.
+
+
+Inclusion and diversity are topics for learning communities, employee roundtables and ongoing, regular analysis and dialogue among our people leaders, executive leadership and our Board of Directors. We believe in fundamental standards that support our employees, including a commitment to building and maintaining diverse and inclusive workplaces, safe and healthy practices and competitive wages and benefits. We embrace all differences and similarities among colleagues and within the relationships we foster with customers, suppliers and the communities where we live and work. Whatever background, experience, race, color, national origin, religion, age, gender, gender identity, disability status, sexual orientation, protected veteran status or any other characteristic protected by law, we make sure that potential and current employees have every opportunity for application and the opportunity to give their best at work because it’s the right thing to do. 
+
+
+We are dedicated to fulfilling equal opportunity commitments in all decisions regarding all employment actions and at all levels of employment. In partnership with the Company’s Human Resources organization, the Company’s Equal Employment Opportunity Officer ensures that the applicable policy and procedures are appropriately established, implemented and disseminated, including those prohibiting discrimination, harassment, bullying and/or retaliation.
+
+
+Civic Involvement 
+
+
+Civic involvement is part of the value proposition we offer employees and supports inclusion, diversity, growth and development. The Company and its employees provide multi-faceted support for our communities, guided by three philanthropic pillars: safety and security; wellness; and addressing the unique needs of the communities where we work, live and thrive. Corporate sponsorships and voluntary employee payroll deductions support a wide range of non-profits, including those that address housing and school security and safety; children and youth programs; education and scholarships for people of color and those who are economically disadvantaged and support for Historically Black Colleges and Universities; community safety nets for basic needs (e.g., food, shelter, transportation) for underserved people and to break the cycle of poverty; wellness, mental health, health research, emergency relief and blood supply initiatives; and programs to advance equality, justice and address systemic bias. In addition to corporate sponsorships, site leaders and employees are encouraged to organize local volunteer and fundraising activities, provide grants to local organizations and serve on boards and committees. Recognizing the growing number of people facing food insecurity in the wake of the COVID-19 pandemic, we supplemented on-going food drives at local sites with a one-time $500,000 gift to support communities in need in the fourth quarter of 2020.
+
+
+Respect for Human Rights
+
+
+Our respect for human rights is expressed in standards for our employees, our business partners, our customers and our communities. We have adopted and continue to uphold our Global Human Rights Policy, with standards that align with basic working conditions and human rights concepts advanced by international organizations such as the International Labor Organization and the United Nations. This policy also represents our own minimum standards for working conditions and human rights in our business and supply chains. In addition, we conduct risk assessments and continue to have conversations with the suppliers and companies we work with about the importance of human rights.
+
+
+Employee Health and Safety 
+
+
+Employee health and safety are top priorities, and we consistently rank as the safest among leading competitors on core measures such as the total recordable incident rate. ‘Be safe, be healthy’ is a core organizational value in our proactive safety culture and has guided our response to the COVID-19 pandemic throughout 2020. We have adopted numerous health and safety measures in accordance with best-practice safe hygiene guidelines issued by recognized health experts like the U.S. Centers for Disease Control and Prevention (“CDC”), the European Centre for Disease Prevention and Control (“ECDC”) and the World Health Organization (“WHO”), as well as any applicable government mandates. These health and safety measures include, but are not limited to:
+
+
+13
+--------------------------------------------------------------------------------
+Table of Contents
+•Work-from-home arrangements for employees, where possible;
+•Continuous safe hygiene education in accordance with evolving guidelines;
+•Regular communication updates to leadership and team members;
+•Aggressive and regular deep cleaning and disinfecting schedules;
+•Social distancing measures, such as signage and physical barriers or reconfigurations of workspaces;
+•Reduced density measures, such as staggering work shifts and breaks;
+•Mask use requirements and expectations at our facilities;
+•Temperature and health screenings prior to entering facilities;
+•Increased available supplies for employees, like masks, cleaning solutions, hand sanitizers, thermometers and gloves; and
+•Temporary travel, visitor and in-person meeting restrictions.
+
+
+Senior executives and the CEO have responsibility for risk management, employee accountability and safety hazard recognition and take a personal responsibility toward executing on safety initiatives. The Company monitors leading and lagging indicators related to health and safety as part of its ongoing management of the Allegion Operating System and regularly updates the Corporate Governance and Nominating Committee of the Board of Directors on key accomplishments and employee health and safety topics.
+
+
+Regulatory Matters
+
+
+We are subject to a variety of federal, state and local laws and regulations, both within and outside the U.S., relating to environmental, health and safety concerns. We are committed to conducting our business in a safe, environmentally responsible and sustainable manner, in compliance with all applicable environmental, health and safety laws and regulations, and in a manner that helps promote and protect the health and safety of our environment, associates, customers, contractors and members of our local communities worldwide. We operate with principles that support our proactive commitments, including:
+
+
+•Integrating sound, environmental, health, safety (EHS) and sustainability strategies in all elements of our business functions, including objectives and measurements;
+•Conducting periodic, formal evaluation of our compliance status and annual review of objectives and targets;
+•Creating a workplace culture where all employees are responsible for safety;
+•Making continuous improvements in EHS and sustainability management systems and performance, including the reduction in the usage of natural resources, waste minimization, prevention of pollution and prevention of workplace accidents, injuries and risks;
+•Designing, operating and maintaining our facilities in a manner that minimizes negative EHS and sustainability impacts;
+•Using materials responsibly, including, where feasible, the recycling and reuse of materials; and
+•Acting in a way that shows sensitivity to community concerns about EHS and sustainability issues.
+
+
+We recognize that these principles are critical to our future success. We have a dedicated environmental program designed to reduce the utilization and generation of hazardous materials during the manufacturing process and to remediate any identified environmental concerns. As to the latter, we are currently engaged in site investigations and remediation activities to address environmental cleanup from past operations at current and former production facilities. We also regularly evaluate our remediation methods that are in addition to, or in replacement of, those we currently utilize based upon enhanced technology and regulatory changes. We are sometimes a party to environmental lawsuits and claims and have, from time to time, received notices of potential violations of environmental laws and regulations from the U.S. Environmental Protection Agency (the "EPA") and similar state authorities. We have also been identified as a potentially responsible party ("PRP") for cleanup costs associated with off-site waste disposal at federal Superfund and state remediation sites. For all such sites, there are other PRPs and, in most instances, our involvement is minimal.
+In estimating our liability, we have assumed that we will not bear the entire cost of remediation of any site to the exclusion of other PRPs who may be jointly and severally liable. The ability of other PRPs to participate has been taken into account, based on our understanding of the parties’ financial condition and probable contributions on a per site basis. Additional lawsuits and claims involving environmental matters are likely to arise from time to time in the future. For a further discussion of our potential environmental liabilities, see Note 21 to the Consolidated Financial Statements. 
+
+
+Available Information
+
+
+We are required to file annual, quarterly and current reports, proxy statements and other documents with the SEC under the Securities Exchange Act of 1934. The SEC maintains an Internet website that contains reports, proxy and information 
+14
+--------------------------------------------------------------------------------
+Table of Contents
+statements and other information regarding issuers that file electronically with the SEC. The public can obtain any documents that are filed by us at www.sec.gov.
+
+
+In addition, the Company's Annual Report on Form 10-K, as well as future quarterly reports on Form 10-Q, current reports on Form 8-K and any amendments to all of the foregoing reports, are made available free of charge on our Internet website (https://www.allegion.com) as soon as reasonably practicable after such reports are electronically filed with or furnished to the SEC. The contents of our website are not incorporated by reference in this report.

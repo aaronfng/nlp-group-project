@@ -1,0 +1,239 @@
+Overview
+
+
+Akamai provides solutions for securing and delivering content and business applications over the internet. At the core of our solutions is our globally-distributed Akamai Intelligent Edge Platform, which is designed to help our customers leverage the power and reach of the internet while protecting them from malicious threats to their business. We deploy servers and technology at the “edge” of the internet – establishing touch points on its perimeter in more than 130 countries and nearly 1,400 networks around the world. This approach affords us unique insight and visibility into traffic volumes, congestion, attack patterns, vulnerabilities and other activities across this complex cloud of networks and systems. Leveraging these insights and our position at the edge, we offer our customers solutions designed to protect them from threats and attacks, while empowering them to securely deliver their business as they engage, entertain and interact with their customers; extend their internal systems beyond their corporate perimeters to control access and better leverage the cloud; and help them compete and operate with the scale, resilience and security that businesses demand.
+
+
+Our Strategy
+
+
+The COVID-19 pandemic, which has caused global disruption over the last year, has reinforced our belief in the internet’s vital role in transforming the way we exchange ideas and information and conduct business. Across the world, there has been a shift to remote work that must be done securely and reliably. Media consumption over the internet – movies, TV shows and games – has dramatically increased. At the same time, security threats have continued to grow more sinister and advanced. These trends are not new; while they may have been accelerated by the global health crisis, it is our view that the internet will play an increasingly important role in our lives going forward.
+
+
+Our strategy is to meet the needs of this transformation by offering security, performance and delivery solutions that give our customers the competitive edge they need. The Akamai Intelligent Edge Platform is central to our approach; positioning us at the edge of the internet for more than 20 years. Our platform is deployed across approximately 4,100 locations around the world, tied together with sophisticated software and algorithms. Through this uniquely pervasive presence at the edge, we bring applications, experiences and business decisions closer to users — and help keep attacks and threats away. We believe the strategic proximity enabled by this distributed approach makes us well situated to empower our customers to cost effectively deliver superior user experiences that are interactive, rich and secure. 
+
+
+
+
+
+
+
+
+3
+--------------------------------------------------------------------------------
+Table of Contents
+More specifically, key features of the platform include capabilities to:
+
+
+•identify, absorb and block security threats;
+•efficiently route traffic away from internet trouble spots;
+•help our customers implement a zero trust security model as described below;
+•detect what devices individuals are using and optimize content delivery to them;
+•secure and manage customer identity;
+•provide our customers with business, technical and analytical insights into their online operations; and
+•understand different types of traffic visiting websites so that customers can respond to it.
+
+
+We believe that our scale, unique technology, highly-skilled workforce, industry-leading security capabilities, strong relationships with thousands of major brands and relentless and personalized attention to customer and partner needs create significant value for stockholders, provide a meaningful advantage over competitors and position us well for the future.
+
+
+Our Solutions
+
+
+Cloud and Enterprise Security
+
+
+Akamai’s cloud and enterprise security solutions are designed to keep infrastructure, websites, applications, application programming interfaces, or APIs, and users safe from a multitude of cyberattacks and online threats while improving performance. Our solutions provide customizable protections for organizations that are seeking more control over their web and application security as well as easy-to-implement solutions for organizations without robust expertise. We also offer frameworks and tools to enable new models for remote corporate access to replace the traditional virtual private network (VPN) approach and facilitate users and devices safely connecting to the internet; in particular, we enable a “zero trust” approach to network security that specifies, on an application by application basis, which users and devices can access applications and data. With zero trust, enterprises can proactively identify, block and mitigate threats including malware, ransomware and phishing attacks. Additional Akamai security capabilities include API security, credential abuse mitigation, protection against distributed denial of service, or DDoS, attacks, identity management, in-browser threat protection, web application firewall and secure web gateway. We intend to focus much of our investment in innovation on security solutions, which we believe present revenue growth opportunities. 
+
+
+Web and Mobile Performance 
+
+
+Our web and mobile performance solutions are architected to enable dynamic websites and applications to have rapid response times, no matter where the user is, what device or browser they are using or how they are connected to the internet. These services leverage intelligent performance optimization and real-time monitoring, origin offload and network reliability, and insights that enable enterprises to identify and address performance issues. Akamai web and mobile performance capabilities also include global traffic management, site acceleration, application load balancing, automated image and video optimization, large-scale load testing and real-user monitoring. 
+
+
+Media Delivery
+
+
+Akamai’s media delivery solutions are designed to enable enterprises to execute their digital media distribution strategies by addressing volume and global reach requirements, improving the end-user experience, boosting reliability and reducing the cost of internet-related infrastructure. Underlying these solutions is technology to address variable connection speeds and device types, facilitate access to disparate locations around the world, accelerate large file downloads, reliably deliver high-quality live content across various devices and platforms, enable comprehensive insights and real-time online video monitoring, and offer globally-distributed cloud storage designed for resiliency, high-availability and real-time performance optimization. Akamai media delivery solutions include video streaming and video player services, game and software delivery, broadcast operations, authoritative domain name system, or DNS, resolution, and data and analytics.
+
+
+Edge Compute
+
+
+Our edge compute capabilities are designed to enable developers to deploy and distribute code at the edge. This approach brings data and decision-making closer to the users and systems that act upon them so teams can rapidly iterate on existing capabilities to meet changing customer needs and build low latency solutions that provide fast, responsive and personalized experiences. With access to the Akamai Intelligent Edge Platform, enterprises and developers gain rapid deployment and global scale without managing any additional internal infrastructure.
+
+
+
+
+
+
+
+
+4
+--------------------------------------------------------------------------------
+Table of Contents
+Carrier 
+
+
+Akamai’s carrier offerings are designed to help customers operate a cost-efficient network that capitalizes on traffic growth and new subscriber services for security, traffic management and content delivery. Our solutions help carriers sell easy-to-deploy cyberthreat protection offerings to their subscriber base; offerings include protection from phishing, viruses, malware and ransomware. Additionally, our carrier security solutions include parental controls to tailor internet access. We also offer DNS infrastructure and content delivery solutions for carriers through our intelligent recursive DNS offering and managed content delivery network, which has dedicated servers for the carriers’ own services with Akamai providing content provisioning, delivery and reporting.
+
+
+Services and Support
+
+
+We provide an array of service and support offerings designed to assist customers with integrating, configuring, optimizing and managing our core offerings. Once customers are deployed on the Akamai Intelligent Edge Platform, they can rely on our professional services and security experts for customized solutions, problem resolution and 24/7 customer support. Additional features are available to enterprises that purchase our premium and managed security solutions including a dedicated technical account team, proactive service monitoring, custom technical support handling, security traffic monitoring, technical security reviews, threat advisories and emergency support for security events.
+
+
+Our Technology and Network
+
+
+The Akamai Intelligent Edge Platform provides the technological underpinnings for all of our solutions. We use data generated in connection with each of our solutions to improve and augment the functionality of our overlay network and, in turn, to improve the effectiveness of our other solutions. In this approach, insights and learnings are integrated across the broader platform in support of our entire solution portfolio.
+
+
+The Akamai Intelligent Edge Platform leverages more than 325,000 servers deployed in more than 1,400 networks ranging from large, backbone network providers to medium and small internet service providers, or ISPs, to cable modem and satellite providers to universities and other networks. By deploying servers within a wide variety of networks across more than 130 countries, we are better able to manage and control routing and delivery quality to geographically diverse users. We also have thousands of peering relationships that provide us with direct paths to end-user networks, which reduce data loss, while also potentially giving us more options for delivery at reduced cost.
+
+
+To make this wide-reaching deployment effective, we use specialized technologies, such as advanced routing, load balancing, data collection and monitoring. Our intelligent routing software is designed to ensure that website visitors experience fast page loading, access to applications and content assembly wherever they are on the internet and regardless of global or local traffic conditions. Dedicated professionals staff our network operations command center 24 hours a day, seven days a week to monitor and react to internet traffic patterns and trends. We frequently deploy enhancements to our software globally to strengthen and improve the effectiveness of our network.
+
+
+Our platform offers flexibility too. Customers can control the extent of their use of Akamai's technology to scale on demand, using as much or as little capacity of the global platform as they require, to support widely varying traffic and rapid growth without the need for expensive and complex internal infrastructure.
+
+
+Human Capital
+
+
+Our employees – our human capital – are our most valuable assets as they are fundamental to our innovation, the operation and ongoing enhancement of the Akamai Intelligent Edge Platform, the fostering and maintenance of relationships with our customers and the management of our operations. The importance of our workforce to our success is underscored by centering two of our 2020 corporate mission critical goals on our employees: (1) making Akamai a globally diverse, inclusive and great place to work and (2) delivering a superior end-to-end employee experience through the modernization and improvement of our technologies. Different aspects of our human capital management are overseen by our board of directors as well as its Talent, Leadership & Compensation and Environmental, Social & Governance Committees.
+
+
+As of December 31, 2020, we had 8,368 employees worldwide, located in more than 30 countries and representing over 85 nationalities, which we believe helps bring a global perspective to our operations. Our employees are grouped across the following roles, with the approximate percentage of the overall population noted: engineering and research and development (29%), services and support (28%), sales and marketing (23%) and administrative functions (20%).
+
+
+
+
+
+
+
+
+5
+--------------------------------------------------------------------------------
+Table of Contents
+Akamai’s focus on the development of our human capital is reflected in our approach to engagement, compensation and benefits, training and development and health and safety procedures. Across these areas, we emphasize maintaining a corporate culture rooted in meritocracy — recognizing and rewarding individuals who bring innovation, creativity, diligence, intelligence, diverse ideas and positive perspectives to their work. 
+
+
+It is our belief that an engaged employee base is key to having the productive, ethical and inclusive workplace needed to successfully compete in today’s marketplace. We regularly conduct surveys of our employees to assess engagement and job satisfaction. Results from these surveys have consistently shown a strong sense of engagement and confidence in Akamai's future; scoring us in the top 20% of top-performing companies in the comparative index used by our third-party survey provider, a nationally-recognized consulting firm specializing in corporate culture. We have been acknowledged in respected publications across the U.S., India and Poland as a great place to work. Our leadership believes that one of the keys to fostering employee inclusion and engagement is through communication. This approach was amplified in 2020 because of the COVID-19 pandemic. Our Chief Executive Officer conducted more than 70 employee town halls and all hands meetings (most of which were virtual), and our Chief Human Resources Officer provided weekly updates on pandemic-related developments and available resources to assist employees. In 2020, all employees were invited to participate in a company-wide program, developed by a behavioral research organization, that was intended to help us increase inclusivity, become more open to change and accelerate our innovation. We also work closely with the Akamai Foundation to provide community service and charitable matching fund opportunities for Akamai employees, endeavors that have been shown to increase employee engagement.
+
+
+Akamai is an equal opportunity employer that values the strength that diversity brings to the workplace. All qualified applicants for employment with us receive consideration for employment, and we do not tolerate discrimination on the basis of gender, gender identity, sexual orientation, race or ethnicity, protected veteran status, disability or other protected group status. Akamai supports varied programs and practices designed to promote a diverse and inclusive working environment. We have eleven employee resource groups, or ERGs, that offer opportunities for groups of employees to come together for mutual support, education and development. ERGs encompass different racial and ethnic groups, persons with different physical abilities, parents, military veterans, those supporting the LGBTQ community and women. We track the diversity of our workforce and report quarterly to the board of directors on our progress to improve our diverse representation. At December 31, 2020, global female representation was 26.2%, up from 25.8% at the end of 2019, and racial and ethnic minority representation in the U.S. was 40.6%, up from 39.6% at the end of 2019. To help us improve the diversity of our workforce, we participate in or sponsor professional development and recruiting forums such as the Massachusetts Conference for Women, National Society of Black Engineers, Society of Hispanic Engineers and Hack.Diversity. We also offer the Akamai Technical Academy, a technical training program for diverse individuals (gender, ethnicity, experiential, generational, veterans) who are interested in pursuing a technical career path, but may not be formally educated in science, mathematics or engineering. The program consists of Akamai-specific classroom training, after which participants are placed in a variety of contract roles across our organization with the potential to become full time employees. We also train hiring managers to draft inclusive job descriptions intended to broaden the pool of eligible applicants.
+
+
+We have a demonstrated history of investing in our workforce by offering competitive salaries, wages and benefits. Our compensation and benefits philosophy is to maximize the effectiveness of pay and benefits programs to attract and retain the high caliber individuals needed to drive the success of our business, while balancing cost-effectiveness and competitive factors. Our benefits programs (which vary by country and region) include healthcare and insurance benefits, health savings and flexible spending accounts, paid time off, family leave, family care resources, flexible work schedules, adoption and fertility assistance, employee assistance programs, tuition assistance and holistic wellness programs. Our wellness programs include educational offerings on healthy lifestyles, access to mental health experts and access to ergonomic advice and equipment. To foster a stronger sense of ownership and align the interests of employees with shareholders, restricted stock units are provided to eligible employees under our broad-based stock incentive programs, and most employees are eligible to participate in our employee stock purchase plan.
+
+
+As a signatory to the White House Equal Pay Pledge, Akamai believes in fair and equitable pay for all of our employees, and we are committed to monitoring our pay practices regularly and making adjustments, as necessary, to deliver on this pledge. Our most recent internal pay equity analyses (conducted with the assistance of a nationally-recognized outside consultant), covering gender globally and race and gender in the U.S., found no patterns of disparity. To address a small number of anomalous discrepancies impacting both male and female employees, we made adjustments to the compensation of the affected individuals in 2020.
+
+
+We invest significant resources in professional development, career advancement and training for our global workforce. All employees participate in our Akamai Elevation performance review program. We offer leadership training workshops, 360 review initiatives and succession planning exercises to encourage and enable internal promotion and advancement. More than 1,100 employees received promotions last year, an promotion rate of 16%, and over 300 individuals transferred to new opportunities in the company. In 2020, approximately 8,600 of our employees and contractors at year end (more than 97%) completed at least one training in our Akamai University program; overall, we recorded completion of more than 350,000 
+
+
+
+
+
+
+6
+--------------------------------------------------------------------------------
+Table of Contents
+training courses by our employees and contractors. All employees are required to complete annual ethics and compliance and data security training.
+
+
+In response to the COVID-19 pandemic, we instituted protocols and policies focused on prioritizing the health and safety of our employees while maintaining business continuity and minimizing disruptions to customer support and service delivery. In mid-March 2020, we shifted to a remote working posture and closed all offices to staff other than employees in key functions, such as monitoring and managing our network. At year end, approximately 99% of our employees were working remotely. We have temporarily suspended all Akamai-led or -organized in-person events and eliminated nearly all business-related travel. To support our workforce, we introduced new collaboration tools and techniques and instituted a productivity reimbursement program to assist all employees with purchasing equipment to better enable remote work. We expanded our wellness programs to offer courses on, among other things, caregiving during the pandemic and vaccine information; provided employees with licenses to a digital health platform; and developed manager guidance on enabling flexible work arrangements. We also provided four paid wellness days in 2020 to allow additional paid time off for employees, specifically to encourage mental and physical health. Health and safety protocols have been adopted in all of our offices to protect the well-being of those employees who need to access an Akamai location in person. In addition to support for full- and part-time employees, we guaranteed sick pay for contractors we retain. We have a rigorous process for assessing whether any office can reopen (and remain open) based on local government regulations, local health trends and business needs. For most locations, our facilities are expected to be closed to employees whose job responsibilities do not require in-office work through December 31, 2021.
+
+
+Customers
+
+
+As of December 31, 2020, our customers included many of the world's leading corporations, including Adobe, Airbnb, Alibaba, Autodesk, Capital Group, Carnival Corporation, The Coca-Cola Company, Comcast, Concur, Crate & Barrel, eBay, Electronic Arts, Epic Games, FedEx, Fidelity Investments, General Electric, Honda, IKEA, Japan Airlines, Lufthansa, Maersk Transportation & Logistics, Marriott, NBCUniversal, Panasonic, Panera Bread, PayPal, Philips, Qualcomm, Rabobank, Riot Games, Sony Interactive Entertainment, Spotify, Telefonica, Toshiba, Ubisoft, Viacom, WarnerMedia and The Washington Post. We also actively sell to government agencies. As of December 31, 2020, our public-sector customers included the U.S. Census Bureau, the U.S. Department of Defense, the U.S. Department of Labor, the U.S. Department of State, the U.S. Department of Transportation and the U.S. Department of the Treasury.
+
+
+No customer accounted for 10% or more of total revenue for any of the years ended December 31, 2020, 2019 and 2018. Less than 10% of our total revenue in each of the years ended December 31, 2020, 2019 and 2018 was derived from contracts or subcontracts terminable at the election of the federal government, and we do not expect such contracts to account for more than 10% of our total revenue in 2021.
+
+
+Sales, Services and Marketing
+
+
+We market and sell our solutions globally through our direct sales and services organization and through many channel partners including AT&T, Deutsche Telecom, IBM, Microsoft, Orange Business Services and Telefonica Group. In addition to entering into agreements with resellers, we have several other types of sales and marketing focused alliances with entities such as system integrators, application service providers, referral partners and sales agents. By aligning with these partners, we believe we are better able to market our solutions and encourage increased adoption of our technology throughout the industry. Our sales, services and marketing professionals are based in locations across the Americas, Europe, the Middle East and Asia and focus on direct and channel sales, sales operations, professional services, account management and technical consulting. 
+
+
+To support our sales efforts and promote the Akamai brand, we conduct comprehensive marketing programs. Our marketing strategies include an active public relations campaign, print advertisements, online advertisements, participation at trade shows (virtually or in person), strategic alliances, ongoing customer communication programs, training and sales support.
+
+
+
+
+
+
+
+
+7
+--------------------------------------------------------------------------------
+Table of Contents
+Competition
+
+
+The market for our solutions is intensely competitive and characterized by rapidly changing technology, evolving industry standards and frequent new product and service innovations. We expect competition for our offerings to increase both from existing competitors and new market entrants. We compete primarily on the basis of:
+
+
+•the performance and reliability of our solutions;
+•return on investment in terms of cost savings and new revenue opportunities for our customers;
+•reduced infrastructure complexity;
+•sophistication and functionality of our offerings;
+•scalability;
+•security; 
+•ease of implementation and use of service;
+•customer support; and
+•price.
+
+
+We compete with companies offering products and services that address internet performance problems, including companies that provide internet content delivery and hosting services, security solutions, technologies used by carriers to improve the efficiency of their systems, streaming content delivery services and equipment-based solutions for internet performance problems, such as load balancers and server switches. Other companies offer online distribution of digital media assets through advertising-based billing or revenue-sharing models that may represent an alternative method for charging for the delivery of content and applications over the internet. In addition, existing and potential customers may decide to purchase or develop their own hardware, software or other technology solutions rather than rely on a third-party provider like us. Our security solutions compete with those offered by both hardware and software providers, many of which are more established security vendors than we are. 
+
+
+We believe that we compete favorably with other companies in our industry through the global scale of the Akamai Intelligent Edge Platform, which we believe provides the most effective means of meeting the needs of enterprise customers and is unique to us. In our view, we also benefit from the superior quality of our offerings, our customer service and the information we can provide to our customers about their online operations and value.
+
+
+Government Regulation
+
+
+As a global technology company, Akamai is subject to complex foreign and U.S. laws and regulations in areas such as data privacy and localization, liability for content delivered over our network, bribery, export controls, competition, tax and foreign exchange controls. 
+
+
+Privacy laws, such as the European Union General Data Protection Regulation and the California Consumer Privacy Act of 2018, impact how we use data generated from our network as well as our ability to reach current and prospective customers, understand how our solutions are being used, transfer data about our employees and respond to customer requests allowed under the laws. Other laws and regulations that apply to the internet related to, among other things, content liability, security requirements, critical infrastucture designations, internet resiliency, law enforcement access to information, net neutrality, data localization requirements and restrictions on social media or other content can have an impact on our business. For example, regulations have been enacted or proposed in a number of countries that limit the delivery of certain types of content into those countries; these include restrictions adopted in India in 2020 prohibiting access to identified Chinese applications and proposed regulations in the U.S. on delivery of certain Chinese mobile applications. Enactment and expansion of such laws and regulations would negatively impact our revenues or cause us to incur costs to redesign systems to ensure compliance. 
+We are subject to the U.S. Foreign Corrupt Practices Act and similar anti-bribery laws, which generally prohibit companies and their intermediaries from making improper payments to foreign government officials for the purpose of obtaining or retaining business. To the extent we export technical services, data and products outside of the U.S., we are subject to U.S. and international laws and regulations governing international trade and exports, including, but not limited to, the International Traffic in Arms Regulations, the Export Administration Regulations, and trade sanctions against embargoed countries.
+
+
+Many of these laws and regulations are still evolving and could be interpreted and applied in a manner that is inconsistent from country to country and inconsistent with our current policies and practices and in ways that could harm our business. For example, while we are generally not subject to regulations applicable to telecommunications companies, new or different interpretations of laws or regulations could subject us to regulatory supervision. In general, the nature and breadth of laws and regulations governing the internet may increase in the future; accordingly, we are unable to assess the possible effect of 
+
+
+
+
+
+
+8
+--------------------------------------------------------------------------------
+Table of Contents
+compliance with future requirements or whether our compliance with such regulations will materially impact our business, results of operations, or financial condition.
+
+
+For further discussion of how government regulations may affect our business, see the related discussion below in Item 1A. Risk Factors – We face risks associated with global operations that could harm our business; – Evolving privacy regulations could negatively impact our profitability and business operations; and – Other regulatory developments could negatively impact our business.
+
+
+Intellectual Property
+
+
+Our success and ability to compete are dependent on developing and maintaining the proprietary aspects of our technology and operating without infringing on the proprietary rights of others. We rely on a combination of patent, trademark, trade secret and copyright laws and contractual restrictions to protect the proprietary aspects of our technology. As of December 31, 2020, we owned, or had exclusive rights to, nearly 500 U.S. patents covering our technology as well as patents issued by other countries. Our U.S.-issued patents have terms extendable to various dates between 2021 and 2039. We do not believe that the expiration of any particular patent in the near future would be materially detrimental to our business. We seek to limit disclosure of our intellectual property by requiring employees and consultants with access to our proprietary information to execute confidentiality agreements with us and by restricting access to our source code.
+
+
+Additional Information
+
+
+Our internet website address is www.akamai.com. We make available, free of charge, on or through our internet website, our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments thereto that we have filed or furnished with the Securities and Exchange Commission, or the Commission, as soon as reasonably practicable after we electronically file them with the Commission. We are not, however, including the information contained on our website, or information that may be accessed through links on our website, as part of, or incorporating such information by reference into, this annual report on Form 10-K.
+
+

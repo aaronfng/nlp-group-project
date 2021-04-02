@@ -1,0 +1,292 @@
+Overview
+
+
+Activision Blizzard, Inc. is a leading global developer and publisher of interactive entertainment content and services. We develop and distribute content and services on video game consoles, personal computers (“PC”s), and mobile devices. We also operate esports leagues and offer digital advertising within some of our content. The terms “Activision Blizzard,” the “Company,” “we,” “us,” and “our” are used to refer collectively to Activision Blizzard, Inc. and its subsidiaries. For a discussion of the history of the formation of our Company, including our year and form of incorporation, refer to Part I, Item 1 “Business” of our Annual Report on Form 10-K for the year ended December 31, 2019.
+
+
+Our Strategy and Vision
+
+
+Our objective is to connect and engage the world through epic entertainment by continuing to be a worldwide leader in the development, publishing, and distribution of high-quality interactive entertainment content and services, as well as related media, that deliver engaging entertainment experiences on a year-round basis. In pursuit of this objective, we focus on three strategic pillars: expanding audience reach; deepening consumer engagement; and increasing player investment.
+
+
+Expanding audience reach. Building on our strong established franchises and creating new franchises through compelling new content is at the core of our business. We endeavor to reach as many consumers as possible by offering our content on multiple platforms and delivering compelling experiences across multiple business models (e.g. premium, free-to-play, subscription-based, etc.).
+
+
+Driving deep consumer engagement. Our high-quality entertainment content not only expands our audience reach, but it also drives deep engagement with our franchises. We design our games, as well as related media, to provide a depth of content that keeps consumers engaged for a long period of time following a game’s release. In addition, our games are designed to provide players the ability to connect with each other socially within our franchise communities, thus delivering more value to our players and providing additional growth opportunities for our franchises.
+
+
+Increasing player investment. Increasingly, our consumers are connected to our games online through consoles, PCs, and mobile devices. This allows us to offer additional digital player investment opportunities directly to our consumers on a year-round basis. In addition to purchasing full games or subscriptions, players can invest in our franchises by purchasing incremental in-game content (i.e. larger downloadable content or smaller content via microtransactions). These digital revenue streams tend to be more recurring and have relatively higher profit margins. Further, if executed properly, additional player investment can increase engagement, as it provides more frequent and incremental content for our players. In addition, we generate revenue through offering advertising within certain of our franchises, and we believe there are opportunities to grow new forms of player investment through esports and consumer products. We are still in the early stages of developing these new revenue streams.
+
+
+Our Segments
+
+
+Based upon our organizational structure, we conduct our business through three reportable segments, each of which is a leading global developer and publisher of interactive entertainment content and services based primarily on our internally developed intellectual properties.
+
+
+(i) Activision Publishing, Inc.
+
+
+Activision Publishing, Inc. (“Activision”) delivers content through both premium and free-to-play offerings and primarily generates revenue from full-game and in-game sales, as well as by licensing software to third-party or related-party companies that distribute Activision products. Activision’s key product franchise is Call of Duty®, a first-person action franchise. Activision also includes the activities of the Call of Duty LeagueTM, a global professional esports league with city-based teams.
+4
+--------------------------------------------------------------------------------
+Table of Contents
+
+
+(ii) Blizzard Entertainment, Inc.
+
+
+Blizzard Entertainment, Inc. (“Blizzard”) delivers content through both premium and free-to-play offerings and primarily generates revenue from full-game and in-game sales, subscriptions, and by licensing software to third-party or related-party companies that distribute Blizzard products. Blizzard also maintains a proprietary online gaming service, Blizzard Battle.net®, which facilitates digital distribution of Blizzard content and selected Activision content, online social connectivity, and the creation of user-generated content. Blizzard’s key product franchises include: World of Warcraft®, a subscription-based massive multi-player online role-playing franchise; Hearthstone®, an online collectible card franchise based in the Warcraft universe; Diablo®, an action role-playing franchise; and Overwatch®, a team-based first-person action franchise. Blizzard also includes the activities of the Overwatch LeagueTM, a global professional esports league with city-based teams.
+
+
+(iii) King Digital Entertainment
+
+
+King Digital Entertainment (“King”) delivers content primarily through free-to-play offerings and primarily generates revenue from in-game sales and in-game advertising on the mobile platform. King’s key product franchise is Candy Crush™, a “match three” franchise.
+
+
+Other
+
+
+We also engage in other businesses that do not represent reportable segments, including the Activision Blizzard Distribution (“Distribution”) business, which consists of operations in Europe that provide warehousing, logistics, and sales distribution services to third-party publishers of interactive entertainment software, our own publishing operations, and manufacturers of interactive entertainment hardware.
+
+
+Impacts of the Global COVID-19 Pandemic
+
+
+In December 2019, a novel strain of coronavirus (“COVID-19”) emerged and has since extensively impacted global health and the economic environment. On March 11, 2020, the World Health Organization (“WHO”) characterized COVID-19 as a pandemic. In an effort to contain the spread of COVID-19, domestic and international governments around the world enacted various measures, including orders to close all businesses not deemed “essential,” quarantine orders for individuals to stay in their homes or places of residence, and to practice social distancing when engaging in essential activities. We anticipate that these actions and the ongoing global health crisis caused by COVID-19 will continue to negatively impact many business activities and financial markets across the globe.
+
+
+During the COVID-19 pandemic, our business has experienced an increase in demand for certain of our products and services as a result of the stay-at-home orders enacted in various regions as players have more time to engage with our games. These trends contributed to strong full-game and in-game content sales for Call of Duty: Modern Warfare®, which also benefited from the launch of Call of Duty: WarzoneTM in March. In addition, we saw further demand for World of Warcraft, including its in-game content, which also continued to benefit from the release of World of Warcraft Classic in August 2019. Beginning in the month of March, our business also experienced an increase in monthly active users for certain franchises. We have, however, seen a moderation in these trends since the stay-at-home orders were originally enacted earlier in 2020.
+
+
+As a result of the COVID-19 pandemic and stay-at-home orders enacted in various regions, both the Overwatch League and the Call of Duty League pivoted all matches from their originally planned local homestand formats to online play and remote production for the remainder of the regular and postseason in order to keep players and fans safe while still delivering premium esports content to a global audience. Additionally, to support our Overwatch League and Call of Duty League team owners and ecosystems amid a challenging environment, which includes losing the ability to have live fan-attended home venue events, we have taken certain actions to support their short-term cash flow needs, adjusted our league operations to reduce operating costs and improve franchise terms, and made certain investments which have impacted our operating results in 2020. This impact was primarily in the Blizzard segment.
+
+
+The sustainability of these trends and long-term implications to our business is dependent on future developments, including the duration of the COVID-19 pandemic and the related length of its impact on the global economy, which are uncertain and cannot be predicted at this time. See Item 1A “Risk Factors” for additional details on risks and uncertainties regarding the impacts of the global COVID-19 pandemic on our business, reputation, financial condition, results of operations, income, revenue, profitability, cash flows, liquidity, and stock price.
+
+
+5
+--------------------------------------------------------------------------------
+Table of Contents
+
+
+In an effort to protect the health and safety of our employees, the majority of our workforce is currently working from home and we have placed restrictions on non-essential business travel. We have implemented business continuity plans and have increased support and resources to enable our employees to work remotely and, thus far, our business has been able to operate with minimal disruption to our game titles’ published release dates. The COVID-19 pandemic remains a rapidly evolving situation. We will continue to actively monitor the developments of the COVID-19 pandemic and may take further actions that could alter our business operations as may be required by federal, state, local, or foreign authorities, or that we determine are in the best interests of our employees, customers, partners, and shareholders. It is not clear what effects any such potential actions may have on our business, including the effects on our employees, players and consumers, customers, partners, game development and content pipelines, or on our reputation, financial condition, results of operations, income, revenue, profitability, cash flows, liquidity, or stock price.
+
+
+The full extent of the impact of the COVID-19 pandemic on our business, reputation, financial condition, results of operations, income, revenue, profitability, cash flows, liquidity, or stock price will depend on numerous evolving factors that we are not able to fully predict at this time. However, we believe that given our strong balance sheet, with cash and cash equivalents and short-term investments of $8.8 billion as of December 31, 2020, and the fact that our business has increasingly shifted to digital channels, we have substantial flexibility as we navigate through the uncertain environment and near-term implications of the COVID-19 pandemic.
+
+
+Products
+
+
+We develop interactive entertainment content and services, principally for console, PC, and mobile devices, and we market and sell our games primarily through digital distribution channels. Our products span various genres, including first- and third-person action/adventure, role-playing, strategy, and “match three,” among others. We primarily offer the following products and services:
+
+
+•premium full-games, which typically provide access to main game content after purchase;
+
+
+•free-to-play offerings, which allow players to download the game and engage with the associated content for free;
+
+
+•in-game content for purchase to enhance gameplay (i.e. microtransactions and downloadable content) available within both our full-games and free-to-play offerings; and
+
+
+•subscriptions for players in our World of Warcraft franchise that provide for ongoing access to the game content.
+
+
+Providing additional content and experiences within franchises has increased opportunities for player investment outside of premium full-game purchases. This has allowed us to shift from our historical seasonality to a more consistently recurring and year-round revenue model. In addition, if executed properly, it allows us to increase player engagement with our games and content.
+
+
+Product Development and Support
+
+
+We focus on developing enduring wholly-owned franchises backed by well-designed, high-quality games with regular content updates. We aim to build interactive entertainment content with the potential for broad reach, sustainable engagement, and year-round player investment. It is our experience that enduring franchises then serve as the basis for related new products and content that can be released over an extended period of time. We believe that the development and distribution of products and content based on established franchises enhances predictability of revenues and the probability of high unit volume sales and operating profits. We intend to continue development of content based on our owned franchises in the future.
+
+
+We develop and produce our titles using a model in which a group of creative, technical, and production professionals, including designers, producers, programmers, artists, and sound engineers, in coordination with our marketing, finance, analytics, sales, and other professionals, have responsibility for the entire development and production process, including the supervision and coordination of internal and, where appropriate, external resources. We believe this model allows us to deploy the best resources for a given task, including by supplementing our internal expertise with top-quality external resources on an as-needed basis.
+
+
+While most of our content is developed by our internal studios, we periodically engage independent third-party developers to create content on our behalf. From time to time, we also acquire the license rights to publish and/or distribute software products that are, or will be, independently created by third-party developers.
+
+
+6
+--------------------------------------------------------------------------------
+Table of Contents
+
+
+We provide various forms of product support. Central technology and development teams review, assess, and provide support to products throughout the development process. Quality assurance personnel are also involved throughout the development and production of published content. We subject all such content to extensive testing before public release to ensure compatibility with appropriate hardware systems and configurations and to minimize the number of bugs and other defects found in the products. To support our content, we generally provide 24-hour game support to players through various means, primarily online and by telephone.
+
+
+Marketing, Sales, and Distribution
+
+
+Many of our products contain software that enables us to connect with our gamers directly. This allows us to communicate and market directly to our customers, including through customized advertising and in-game messaging based on customer preferences and trends. Our marketing efforts also include activities on: online social networks; other online advertising; public relations activities; print and broadcast advertising; coordinated in-store and industry promotions (including merchandising and point of purchase displays); participation in cooperative advertising programs; direct response vehicles; and product sampling. From time to time, we also receive marketing support from hardware manufacturers, producers of consumer products related to a game, and retailers in connection with their own promotional efforts, as well as co-marketing from promotional partners.
+
+
+Most of our products and content are available in a digital format, which allows consumers to purchase and download the content at their convenience directly to their console, PC, or mobile device through our platform partners, including Apple Inc. (“Apple”), Facebook, Inc. (“Facebook”), Google Inc. (“Google”), Microsoft Corporation (“Microsoft”), Nintendo Co., Ltd. (“Nintendo”), and Sony Interactive Entertainment Inc. (“Sony”). Blizzard utilizes its proprietary online gaming service, Blizzard Battle.net, to distribute most of Blizzard’s content and selected Activision content directly to PC consumers.
+
+
+In addition to serving as a distribution platform, Blizzard Battle.net offers players communications features, social networking, player matching, and digital content delivery and is designed to allow people to connect regardless of which of our games on Blizzard Battle.net they are playing.
+
+
+Our physical products are available for sale in outlets around the world. These products are sold primarily on a direct basis to mass-market retailers (e.g., Target, Walmart), consumer electronics stores (e.g., Best Buy), discount warehouses, game specialty stores (e.g., GameStop), and other stores (e.g., Amazon), or through third-party distribution and licensing arrangements.
+
+
+Manufacturing
+
+
+We prepare master program copies for our products on each release platform. With respect to products for Microsoft, Sony, and Nintendo consoles, our disk duplication, packaging, printing, manufacturing, warehousing, assembly, and shipping are performed by third-party subcontractors or distribution facilities owned by us.
+
+
+Microsoft, Sony, and Nintendo generally specify or control the manufacturing and assembly of finished products and license their hardware technologies to us. In return, we pay an applicable royalty per unit once the manufacturer fills the product order, even if the units do not ultimately sell. We deliver the master materials to the licensor or its approved replicator, who then manufactures the finished goods and delivers them to us for distribution under our label.
+
+
+Significant Customers and Top Franchises
+
+
+Customers
+
+
+While the Company does sell directly to end consumers in certain instances, such as sales through Blizzard Battle.net, in other instances our customers are platform providers, such as Sony, Microsoft, Google, and Apple, or retailers, such as Walmart and GameStop, who act as distributors of our content to end consumers. For the year ended December 31, 2020, Sony, Apple, Google, and Microsoft were our most significant customers, with revenues of 17%, 15%, 14%, and 11%, respectively. For the years ended December 31, 2019 and 2018, Apple, Google, and Sony were our most significant customers, with revenues of 17%, 13%, and 11%, respectively, for 2019, and 15%, 11%, and 13%, respectively, for 2018. No other customer accounted for 10% or more of our net revenues in those periods.
+
+
+We had two customers—Microsoft and Sony—who accounted for 28% and 21%, respectively, of consolidated gross receivables at December 31, 2020, and 11% and 18%, respectively, at December 31, 2019. No other customer accounted for 10% or more of our consolidated gross receivables in those periods.
+7
+--------------------------------------------------------------------------------
+Table of Contents
+
+
+
+
+Top Franchises
+
+
+For the years ended December 31, 2020, 2019, and 2018, our top three franchises—Call of Duty, Candy Crush, and World of Warcraft—collectively accounted for 76%, 67%, and 58%, respectively, of our net revenues. No other franchise comprised 10% or more of our net revenues in those periods.
+
+
+Competition
+
+
+We compete for the leisure time and discretionary spending of consumers with other interactive entertainment companies and software competitors, as well as with providers of different forms of entertainment, such as film, television, social networking, music, and other consumer products.
+
+
+The interactive entertainment industry is intensely competitive, and new interactive entertainment software products and platforms are regularly introduced. We believe that the main competitive factors in the interactive entertainment industry include: product features, game quality, and playability; brand name recognition; compatibility of products with popular platforms; access to distribution channels; online capability and functionality; ease of use; price of content; marketing support; and quality of customer service.
+
+
+In addition to third-party software competitors, integrated video game console hardware and software companies, such as Microsoft, Sony, and Nintendo, compete directly with us in the development of software titles for their respective platforms, while at the same time act as key distribution channels and payment gateways for our products and services through their digital storefronts. Apple and Google are similarly positioned on mobile devices.
+
+
+Intellectual Property
+
+
+Like other interactive entertainment companies, our business is significantly dependent on the creation, acquisition, use and protection of intellectual property. Some of this intellectual property is in the form of copyrighted software code, patented technology, and other technology and trade secrets that we use to develop and run our games. Other intellectual property is in the form of copyrighted audio-visual elements that consumers can see, hear, and interact with when they are playing our games.
+
+
+We develop a majority of our products based on wholly-owned intellectual properties, such as Call of Duty, World of Warcraft, and Candy Crush. In other cases, we obtain intellectual property through licenses and service agreements. Further, our products that play on consoles and mobile platforms include technology that is owned by the platform provider and is licensed non-exclusively to us for use in the relevant product. We also license technology from providers other than console manufacturers in developing our content and services. While we may have renewal rights for some licenses, our business is dependent on our ability to continue to obtain the intellectual property rights from the owners of these rights on reasonable terms and at reasonable rates.
+
+
+We are actively engaged in enforcement of our copyright, trademark, patent, and trade secret rights against potential infringers of those rights along with other protective activities, including monitoring online channels for distribution of pirated copies and participating in various enforcement initiatives, education programs, and legislative activity around the world. For our PC products, we use technological protection measures to prevent piracy and the use of unauthorized copies of our products. For other platforms, the platform providers typically incorporate technological protections and other security measures in their platforms to prevent the use of unlicensed products on those platforms.
+
+
+Human Capital
+
+
+We believe that our continued success and growth is directly related to our ability to attract, retain, and develop top talent. As of December 31, 2020, Activision Blizzard had approximately 9,500 employees, with approximately 65% in North America, approximately 30% in the Europe, Middle East, and Africa (“EMEA”) region, and approximately 5% in the Asia Pacific region. Of these employees, approximately 61% are personnel whose primary focus is on game and technology development, which represents an approximate three percentage point increase from 2019. Activision Blizzard takes an active role in the entirety of the employee lifecycle, from candidates to alumni. Recognizing that ours is a rapidly changing industry with constant technological innovation, we remain focused on attracting, recruiting, enabling, developing, and retaining a diverse and innovative employee population.
+
+
+8
+--------------------------------------------------------------------------------
+Table of Contents
+
+
+Diversity, Equity, and Inclusion (“DE&I”): We believe that a culture of inclusion and diversity enables us to create, develop, and fully leverage the strengths of our workforce to exceed players' and fans' expectations and meet our growth objectives. We remain committed to building and sustaining a culture of belonging, built on equitable processes and systems, where everyone thrives. By embedding DE&I practices and programs in the full employee lifecycle, we work to recruit, attract, retain, and grow world-class talent. Our employee resource groups play an active role in our DE&I efforts by building community and awareness. We also offer leadership and management development opportunities on the topics of unconscious bias and inclusive leadership and train our recruiting workforce in diverse sourcing strategies.
+
+
+Our Corporate Governance Principles and Policies provide that the initial list from which any new independent director nominee is chosen includes qualified female and racially/ethnically diverse candidates and, similarly, if we conduct an external search for a new CEO, that the initial list of external candidates includes qualified female and racially/ethnically diverse candidates. As of December 31, 2020, two of our ten directors were women. 
+
+
+Additionally, we have been recognized for our efforts to create an inclusive workplace, including receiving the distinction for two consecutive years as a “Best Place to Work for LGBTQ Equality” by the Human Rights Campaign Foundation’s Corporate Equality Index. We are proud of these accolades because we believe that the most innovative work comes from a culture in which all employees can be, and bring, their authentic and best selves.
+
+
+Compensation and Benefits: The main objective of our compensation program is to provide a compensation package that attracts, retains, motivates, and rewards top-performing employees that operate in a highly competitive and technologically challenging environment. We seek to do this by linking compensation (including annual changes in compensation) to overall Company and business unit performance, as well as each individual’s contribution to the results achieved. The emphasis on overall Company performance is intended to align our employee’s financial interests with the interests of our shareholders. We also seek fairness in total compensation by reference to external comparisons, internal comparisons, and the relationship between development and non-development, as well as management and non-management, remuneration. We believe in equal pay for equal work, and we continue to make efforts across our global organization to promote equal pay practices. 
+
+
+We are committed to providing comprehensive benefit options, and it is our intention to offer benefits that allow our employees and their families to live healthier and more secure lives. Some examples of our wide-ranging benefits offered are: medical insurance, prescription drug benefits, dental insurance, vision insurance, hospital indemnity insurance, accident insurance, critical illness insurance, life insurance, disability insurance, health savings accounts, and flexible spending accounts. We frequently upgrade our benefit portfolio by seeking out pioneer partners that give our employees modern benefit experiences. As an example, at the onset of the COVID-19 pandemic when traditional medical services became under huge demand, in order to help ensure that our employees and their families had access to medical advice, we created an enterprise-wide global network of physicians. 
+
+
+Talent Assessment and Development: Recognizing that ours is a rapidly changing industry with constant innovation, developing our diverse and innovative talent base is paramount, imperative, and vital to our business. We intend for our employees to have a clear understanding of their strengths and development opportunities, while fostering a collaborative and productive relationship between employees and their managers. Talent assessment and development are therefore critical aspects of our human capital programs. We employ a broad range of talent processes—for example, talent assessment, succession planning, and performance management. Our performance management process includes the establishment of goals (at the beginning of the year), and throughout the year we encourage regular check-ins on progress and performance so that employees have a clear understanding of their strengths and areas for improvement. We regularly assess employee contributions to our Company results and culture so that we can appropriately recognize and reward performance. Additionally, on an annual basis, we conduct an organizational and performance review process with our CEO and all segment, business unit, and function leaders, focusing on our high-performing and high-potential talent, diverse talent, and the performance and succession for our most critical roles.
+
+
+Employee Experience: We capture and act on the voice of our employees through regular company-wide pulse surveys. We emphasize to employees that this is their chance to “provide honest, candid feedback about their experience working for the company.” Our survey participation rates (regularly 75% or higher) demonstrate our collective commitment that Activision Blizzard remains a great place to work. The survey—and other forms of employee feedback—result in actionable steps that lead to positive improvements to the employee experience at the company-wide, business unit, and team levels. Our employee feedback is dynamic and relevant to our employees’ immediate needs. For example, most recent surveys focused on whether our employees felt supported as they worked from home during the COVID-19 pandemic, and expectations of the employee population as we anticipate a return to the office.
+
+
+9
+--------------------------------------------------------------------------------
+Table of Contents
+
+
+Information about our Executive Officers
+
+
+Our executive officers and their biographical summaries are provided below:
+         
+Name Age Position 
+Robert A. Kotick 57 Chief Executive Officer of Activision Blizzard 
+Daniel Alegre 52 President and Chief Operating Officer of Activision Blizzard 
+Dennis Durkin 50 Chief Financial Officer of Activision Blizzard  
+Claudine Naughton 52 Chief People Officer of Activision Blizzard 
+Christopher Walther 54 Chief Legal Officer of Activision Blizzard 
+
+
+
+Robert A. Kotick, Chief Executive Officer of Activision Blizzard
+
+
+Robert A. Kotick, who serves as our Chief Executive Officer, has been a director of Activision Blizzard since February 1991, following his purchase of a significant interest in the Company, which was then on the verge of insolvency. Mr. Kotick was our Chairman and Chief Executive Officer from February 1991 until July 2008, when he became our President and Chief Executive Officer. He served as our President from July 2008 until June 2017. Mr. Kotick is also a member of the board of directors of The Coca-Cola Company, a multinational beverage corporation, and the boards of trustees for The Center for Early Education and Harvard-Westlake School. He is also the Vice Chairman of the Board and Chairman of the Committee of trustees of the Los Angeles County Museum of Art. In addition, Mr. Kotick is the co-founder and co-Chairman of the Call of Duty Endowment, a nonprofit, public benefit corporation that seeks to help organizations that provide job placement and training services for veterans.
+
+
+Daniel Alegre, President and Chief Operating Officer of Activision Blizzard
+
+
+Daniel Alegre has served as our Chief Operating Officer since April 2020. Prior to joining the company, Mr. Alegre held a number of leadership positions at Google from 2004 to 2020, including serving as President of Global Retail and Shopping, where he led the initiatives to embed e-commerce across all Google product areas and to help diversify beyond advertising into the retail transactions business. Prior to that, Mr. Alegre was President of the Google’s Global and Strategic Partnerships organization, working across all of Google’s core business lines to create and foster key strategic relationships with some of the world’s largest partners. Mr. Alegre was also instrumental in Google’s international expansion, serving as President of Google’s Asia-Pacific and Japan businesses living in China, Singapore, and Tokyo and as Vice President of the Latin America business, overseeing a massive expansion in both regions. Prior to joining Google, Mr. Alegre was Vice President at Bertelsmann Media, running a division of BMG Music in Latin America as well as Partnerships of the Bertelsmann eCommerce Group in New York City. Mr. Alegre holds a B.A. degree from the Woodrow Wilson School of Public and International Affairs at Princeton University, as well as dual M.B.A. and J.D. degrees from Harvard Business School and Harvard Law School.
+
+
+Dennis Durkin, Chief Financial Officer of Activision Blizzard 
+
+
+Dennis Durkin has served as our Chief Financial Officer since January 2019. Mr. Durkin joined the Company in March 2012 as our Chief Financial Officer and served in that role until May 2017. He served as our Chief Corporate Officer from May 2017 until January 2019. Prior to joining the Company in 2012, Mr. Durkin held a number of positions of increasing responsibility at Microsoft, a computing software and hardware manufacturer, most recently serving as the Corporate Vice President and Chief Operating and Financial Officer of Microsoft’s interactive entertainment business, which included the Xbox console business. Prior to joining Microsoft’s interactive entertainment business in 2006, Mr. Durkin spent seven years on Microsoft’s corporate development and strategy team, including two years where he was based in London, England, driving pan-European activity. Before joining Microsoft, Mr. Durkin was a financial analyst at Alex. Brown and Company. Mr. Durkin holds a B.A. degree in government from Dartmouth College and an M.B.A. degree from Harvard University.
+
+
+10
+--------------------------------------------------------------------------------
+Table of Contents
+
+
+Claudine Naughton, Chief People Officer of Activision Blizzard
+
+
+Claudine Naughton has served as our Chief People Officer since August 2019. Prior to joining the Company, Ms. Naughton held a number of positions of increasing responsibility within the human resources department of American International Group, Inc. from 1997 to 2018, including serving as the company's Executive Vice President and Chief Human Resources Officer. Prior to joining AIG, Ms. Naughton served as the Regional Manager and Director of Training for Fairways Golf Corporation. Ms. Naughton holds a B.A degree in political science from Stockton University.
+
+
+Christopher Walther, Chief Legal Officer of Activision Blizzard
+
+
+Christopher Walther has served as our Chief Legal Officer since November 2009 and served as our Secretary from February 2010 until February 2011. Prior to joining the Company, Mr. Walther held a number of positions of increasing responsibility within the legal department of The Procter & Gamble Company from 1992 to 2009, including serving as the General Counsel for Central and Eastern Europe, Middle East, and Africa, General Counsel for Northeast Asia and, most recently, as General Counsel for Western Europe. Mr. Walther also led Procter & Gamble’s corporate and securities and mergers and acquisitions practices. Before joining Procter & Gamble, Mr. Walther served as a law clerk for Senior Judge Harry W. Wellford of the United States Sixth Circuit Court of Appeals. Since 2012, Mr. Walther has served on the board of directors of the Alliance for Children’s Rights and currently serves as its co-chair. Mr. Walther has also served as our representative on the board of directors of the Entertainment Software Association since 2013 and on its executive committee. Mr. Walther holds a B.A. degree in history and Spanish from Centre College and a J.D. degree from the University of Kentucky College of Law.
+
+
+Additional Financial Information
+
+
+See the “Critical Accounting Policies and Estimates” section under Item 7 “Management’s Discussion and Analysis of Financial Condition and Results of Operations” for a discussion of our practices with regard to several working capital items. See the “Management’s Overview of Business Trends” under Item 7 “Management’s Discussion and Analysis of Financial Condition and Results of Operations” for a discussion of the impact of seasonality on our business. 
+
+
+Available Information
+
+
+Our website, located at https://www.activisionblizzard.com, allows free-of-charge access to our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy statements and amendments to those documents filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). The information found on our website is not a part of, and is not incorporated by reference into, this or any other report that we file with or furnish to the Securities and Exchange Commission (“SEC”).
+
+
+Our SEC filings are also available to the public over the Internet at the SEC’s website at https://www.sec.gov.
+11

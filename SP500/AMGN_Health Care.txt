@@ -1,0 +1,570 @@
+Amgen Inc. (including its subsidiaries, referred to as “Amgen,” “the Company,” “we,” “our” or “us”) is committed to unlocking the potential of biology for patients suffering from serious illnesses by discovering, developing, manufacturing and delivering innovative human therapeutics. This approach begins by using tools like advanced human genetics to unravel the complexities of disease and understand the fundamentals of human biology.
+Amgen focuses on areas of high unmet medical need and leverages its expertise to strive for solutions that improve health outcomes and dramatically improve people’s lives. A biotechnology pioneer, Amgen has grown to be one of the world’s leading independent biotechnology companies, has reached millions of patients around the world and is developing a pipeline of medicines with breakaway potential.
+Amgen was incorporated in California in 1980 and became a Delaware corporation in 1987. We have a presence in approximately 100 countries worldwide. Amgen operates in one business segment: human therapeutics.
+Significant Developments 
+Following is a summary of significant developments affecting our business that have occurred and that we have reported since the filing of our Annual Report on Form 10-K for the year ended December 31, 2019.
+COVID-19 pandemic
+A novel strain of coronavirus (SARS-CoV-2, or severe acute respiratory syndrome coronavirus 2, causing coronavirus disease 19, or COVID-19) was declared a global pandemic by the World Health Organization (WHO) on March 11, 2020. Since the first quarter of 2020 and continuing into 2021, we have seen some impact of the pandemic to our operations. We continue to monitor and respond as the pandemic evolves to ensure the continued development, manufacture and distribution of our medicines. For further discussion, see Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Overview, Selected Financial Information and Results of Operations. For a discussion of the risks presented by the COVID-19 pandemic to our results, see Risk Factors in Item 1A. Also see the remainder of Item 1. Business for discussion of pandemic-related impacts to our overall business.
+Products/Pipeline 
+Oncology/Hematology
+KYPROLIS® (carfilzomib)
+•In August 2020, we announced that the U.S. Food and Drug Administration (FDA) had approved the expansion of the KYPROLIS® U.S. prescribing information to include its use in combination with DARZALEX® (daratumumab) plus dexamethasone in two dosing regimens—once weekly and twice weekly—for the treatment of patients with relapsed or refractory multiple myeloma who have received one to three previous lines of therapy. 
+Sotorasib (formerly AMG 510)
+•In September 2020, we announced updated phase 1 data evaluating sotorasib in 129 patients across multiple advanced solid tumors with Kirsten rat sarcoma viral oncogene homolog (KRAS) G12C mutation, which were published in the New England Journal of Medicine. Data from 59 patients with advanced non-small cell lung cancer (NSCLC) were also featured in an oral presentation at a September 2020 medical conference. In the patients with advanced NSCLC who were treated with the 960 mg daily dose, the confirmed objective response rate (ORR) was 35.3%. Across all dose levels, the confirmed ORR was 32.2%, with median duration of response of 10.9 months and median progression-free survival (PFS) of 6.3 months; 10 of 19 responders were still in response as of the data cutoff.
+•In October 2020, we announced top-line phase 2 results in 126 patients with KRAS G12C-mutant advanced NSCLC. Sotorasib demonstrated an ORR (primary endpoint) consistent with previously reported phase 1 data in patients taking the 960 mg daily dose. Other measures of efficacy, including duration of response, were promising, and more than half of the responders were still on treatment and continuing to respond as of the data cutoff date. The results of this phase 2 study are potentially registrational, and a phase 3 confirmatory study comparing sotorasib to docetaxel is currently recruiting patients with KRAS G12C-mutant advanced NSCLC.
+1
+--------------------------------------------------------------------------------
+
+
+•In December 2020, we announced that the FDA had granted Breakthrough Therapy designation for our investigational KRASG12C inhibitor, sotorasib, for the treatment of patients with locally advanced or metastatic NSCLC with KRAS G12C mutation, as determined by an FDA-approved test, following at least one prior systemic therapy. Following this announcement, we submitted a New Drug Application (NDA) to the FDA. The sotorasib NDA is being reviewed by the FDA’s Real-Time Oncology Review (RTOR) pilot program, which aims to explore a more efficient review process that ensures safe and effective treatments are made available to patients as early as possible. Later in December, we also submitted a Marketing Authorization Application (MAA) to the European Medicines Agency (EMA).
+•In January 2021, we announced results from the phase 2 cohort of the clinical study evaluating sotorasib in 126 patients with KRAS G12C-mutant advanced NSCLC. Sotorasib demonstrated a confirmed ORR and disease control rate of 37.1% and 80.6%, respectively, a median duration of response of 10 months and median progression-free survival of 6.8 months. In addition, sotorasib was granted Breakthrough Therapy designation by the Center for Drug Evaluation of the National Medical Products Administration in China. 
+RIABNITM (rituximab-arrx) (formerly ABP 798)
+•In December 2020, we announced that the FDA had approved RIABNITM, a biosimilar to Rituxan® (rituximab), for the treatment of adult patients with non-Hodgkin’s lymphoma, chronic lymphocytic leukemia, granulomatosis with polyangiitis (Wegener’s granulomatosis) and microscopic polyangiitis. RIABNITM launched in the United States in January 2021.
+Inflammation
+Otezla® (apremilast)
+•In May 2020, we announced positive top-line results from a phase 3 study to assess the efficacy of Otezla® in adults with mild-to-moderate plaque psoriasis. The study showed that oral Otezla® 30 mg twice daily achieved a statistically significant improvement, compared with placebo, in the primary endpoint of the static Physician’s Global Assessment (sPGA) response (defined as an sPGA score of clear (0) or almost clear (1) with at least a 2-point reduction from baseline) at week 16.
+Enbrel® (etanercept)
+•In July 2020, the U.S. Court of Appeals for the Federal Circuit affirmed the judgment by the U.S. District Court for the District of New Jersey upholding the validity of the two patents that describe and claim ENBREL and methods for making it. See Note 19, Contingencies and commitments, to the Consolidated Financial Statements.
+Tezepelumab
+•In November 2020, we and AstraZeneca plc (AstraZeneca) announced positive top-line results from the registrational phase 3 NAVIGATOR trial in adults and adolescents with severe uncontrolled asthma. The trial met the primary endpoint with tezepelumab added to standard of care (SoC), demonstrating a statistically significant and clinically meaningful reduction compared with placebo plus SoC in the annualized asthma exacerbation rate (AAER) over 52 weeks in the overall patient population. SoC consisted of medium- or high-dose inhaled corticosteroids (ICS) plus at least one additional controller medication with or without oral corticosteroids (OCS). We expect to submit results of this study to regulators in 2021.
+•In December 2020, we and AstraZeneca announced that the SOURCE trial had not met the primary endpoint of a statistically significant reduction in the daily OCS dose, without loss of asthma control, with tezepelumab compared to placebo. The results of this trial have no impact on our submission plans.
+Cardiovascular
+Omecamtiv mecarbil
+•In November 2020, based on results of the omecamtiv mecarbil phase 3 trial, we provided notice to Cytokinetics, Incorporated (Cytokinetics) of termination of our collaboration and our intention to transition to them the development and commercialization rights for omecamtiv mecarbil and AMG 594.
+2
+--------------------------------------------------------------------------------
+
+
+
+
+Establishment of wholly owned affiliate in Japan 
+•In April 2020, we completed our purchase from Astellas of the remaining shares of Amgen Astellas BioPharma K.K. (AABP), a joint venture between Amgen and Astellas established in 2013. AABP, now a wholly owned Amgen affiliate in Japan and renamed Amgen K.K., has enabled us to build a strong presence in Japan as we continue to advance treatments for serious illnesses. The purchase did not have a material impact to our consolidated financial statements.
+
+
+Marketing, Distribution and Selected Marketed Products
+The largest concentration of our sales and marketing forces is based in the United States and Europe. In addition, we continue to expand the commercialization and marketing of our products into other geographic territories, including parts of Asia, the Middle East, Canada and Latin America. This expansion is occurring by establishing our own affiliates, by acquiring existing third-party businesses or product rights or by collaborating with third parties. See Business Relationships for our significant alliances. Whether we use our own sales and marketing forces or a third party’s varies across these markets. Such use typically depends on several factors, including the nature of entry into the new market, the size of an opportunity and operational capabilities. Together with our collaborators, we market our products to healthcare providers, including physicians or their clinics, dialysis centers, hospitals and pharmacies.
+In the United States, substantially all of our sales are to pharmaceutical wholesale distributors, which are the principal means of distributing our products to healthcare providers. We also market certain products through direct-to-consumer channels, including print, television and online media. For further discussion, see Government Regulation—Regulation in the United States—Regulation of Product Marketing and Promotion. Outside the United States, we sell principally to healthcare providers and/or pharmaceutical wholesale distributors depending on the distribution practice in each country.
+Our product sales to three large wholesalers, AmerisourceBergen Corporation, McKesson Corporation and Cardinal Health, Inc., each individually accounted for more than 10% of total revenues for each of the years 2020, 2019 and 2018. On a combined basis, these wholesalers accounted for 83%, 81% and 84% of worldwide gross revenues for 2020, 2019 and 2018, respectively. We monitor the financial condition of our larger customers and limit our credit exposure by setting credit limits and, in certain circumstances, by requiring letters of credit or obtaining credit insurance.
+3
+--------------------------------------------------------------------------------
+
+
+Our products are marketed around the world, with the United States being our largest market. The following chart shows our product sales by principal product, and the table below (dollar amounts in millions) shows product sales by geography for the years 2020, 2019 and 2018.
+amgn-20201231_g1.jpg
+                           
+ 2020  2019  2018 
+Product Sales by Geography:         
+U.S. $ 17,985   74  %  $ 16,531   74  %  $ 17,429   77  % 
+Ex-U.S.  6,255   26  %  5,673   26  %  5,104   23  % 
+Total $ 24,240   100  %  $ 22,204   100  %  $ 22,533   100  % 
+
+
+
+4
+--------------------------------------------------------------------------------
+
+
+ENBREL
+We market ENBREL, a tumor necrosis factor blocker, primarily in the United States. ENBREL was launched in 1998 and is used primarily in indications for the treatment of adult patients with moderately to severely active rheumatoid arthritis, patients with chronic moderate-to-severe plaque psoriasis who are candidates for systemic therapy or phototherapy and patients with active psoriatic arthritis.
+Prolia® (denosumab)
+We market Prolia® primarily in the United States, Europe and the Asia Pacific region. Prolia® contains the same active ingredient as XGEVA® (denosumab) but is approved for different indications, patient populations, doses and frequencies of administration. Prolia® was launched in the United States and Europe in 2010. In the United States, it is used primarily in the indication for the treatment of postmenopausal women with osteoporosis at high risk of fracture, defined as a history of osteoporotic fracture, or multiple risk factors for fracture; or in patients who have failed or are intolerant to other available osteoporosis therapy. In Europe, Prolia® is used primarily for the treatment of osteoporosis in postmenopausal women at increased risk of fracture.
+Neulasta® (pegfilgrastim)
+We market Neulasta®, a pegylated protein based on the filgrastim molecule, primarily in the United States and Europe. Neulasta® was launched in 2002 and is used primarily in the indication to help reduce the chance of infection due to a low white blood cell count in patients with certain types of cancer (nonmyeloid) who receive anticancer medicines (chemotherapy) that can cause fever and a low blood cell count. In 2015, the Neulasta® Onpro® kit became available in the United States. The Neulasta® Onpro® kit provides physicians the opportunity to initiate the administration of Neulasta® on the same day as chemotherapy, with drug delivery of the recommended dose of Neulasta® at home the day after chemotherapy, thereby saving patients a trip back to the doctor.
+Otezla®
+We market Otezla®, a small molecule that inhibits phosphodiesterase 4 (PDE4), primarily in the United States and Europe. Otezla® was acquired from Bristol-Myers Squibb Company (BMS) in November 2019, post their acquisition of Celgene Corporation (Celgene). Otezla® is an oral therapy approved for the treatment of adult patients with moderate-to-severe plaque psoriasis for whom phototherapy or systemic therapy is appropriate, patients with active psoriatic arthritis and patients with oral ulcers associated with Behçet’s disease. In Europe, Otezla® is approved for second-line use in the treatment of psoriatic arthritis and psoriasis.
+
+
+XGEVA®
+We market XGEVA® primarily in the United States and Europe. XGEVA® was launched in 2010 and is used primarily in the indication for prevention of skeletal-related events (SREs) (pathological fracture, radiation to bone, spinal cord compression or surgery to bone) in patients with bone metastases from solid tumors and multiple myeloma.
+Aranesp® (darbepoetin alfa)
+We market Aranesp® primarily in the United States and Europe. It was launched in 2001 and is indicated to treat a lower-than-normal number of red blood cells (anemia) caused by chronic kidney disease (CKD) in both patients on dialysis and patients not on dialysis. Aranesp® is also indicated for the treatment of anemia due to concomitant myelosuppressive chemotherapy in certain patients with nonmyeloid malignancies and when chemotherapy will be used for at least two months after starting Aranesp®.
+KYPROLIS®
+We market KYPROLIS® primarily in the United States and Europe. KYPROLIS® was launched in 2012 and is indicated in combination with dexamethasone or with lenalidomide plus dexamethasone for the treatment of patients with relapsed or refractory multiple myeloma who have received one to three prior lines of therapy. It is also approved as a single agent for patients with relapsed or refractory multiple myeloma who have received one or more previous therapies. In September 2019, the CANDOR phase 3 study of KYPROLIS® in combination with dexamethasone and DARZALEX® (daratumumab) met its primary endpoint of PFS in patients with relapsed or refractory multiple myeloma. In August 2020, the FDA approved the expansion of the KYPROLIS® U.S. prescribing information to include its use in combination with dexamethasone and DARZALEX®.
+5
+--------------------------------------------------------------------------------
+
+
+Repatha® (evolocumab)
+We market Repatha®, a proprotein convertase subtilisin/kexin type 9 (PCSK9), primarily in the United States and Europe. Repatha® was launched in 2015 and is indicated to reduce the risks of myocardial infarction, stroke and coronary revascularization in adults with established cardiovascular (CV) disease.
+Other Marketed Products
+We also market a number of other products in various markets worldwide, including Nplate® (romiplostim), Vectibix® (panitumumab), MVASI® (bevacizumab-awwb), Parsabiv® (etelcalcetide), EPOGEN® (epoetin alfa), KANJINTI® (trastuzumab-anns), BLINCYTO® (blinatumomab), Aimovig® (erenumab-aooe), EVENITY® (romosozumab-aqqg), AMGEVITATM (adalimumab), Sensipar®/Mimpara® (cinacalcet), NEUPOGEN® (filgrastim), IMLYGIC® (talimogene laherparepvec), Corlanor® (ivabradine) and AVSOLA® (infliximab-axxq).
+Patents
+The following table lists our outstanding material patents for the indicated product by territory, general subject matter and latest expiry date. Certain of the European patents are the subjects of supplemental protection certificates that provide additional protection for the products in certain European countries beyond the dates listed in the table. See footnotes to the patent table below.
+One or more patents with the same or earlier expiry dates may fall under the same general subject matter and are not listed separately.
+6
+--------------------------------------------------------------------------------
+
+
+                     
+Product  Territory  General subject matter  Expiration 
+Enbrel® (etanercept)  U.S.  Methods of treatment using aqueous formulations  6/8/2023 
+ U.S.  Formulations  10/19/2037 
+ U.S.  Fusion protein and pharmaceutical compositions  11/22/2028 
+ U.S.  DNA encoding fusion protein and methods of making fusion protein  4/24/2029 
+Prolia®/XGEVA® (denosumab)  U.S.  RANKL antibodies  9/17/2021 
+ U.S.  Methods of treatment  6/25/2022 
+ U.S.  Nucleic acids encoding RANKL antibodies and methods of producing RANKL antibodies  11/30/2023 
+ U.S.  RANKL antibodies, including sequences  2/19/2025 
+ Europe  RANKL antibodies, including epitope binding  2/23/2021 
+ Europe  RANKL antibodies, including sequences(1)  6/25/2022 
+Otezla® (apremilast)  U.S.  Compositions and compounds  2/16/2028 
+ U.S.  Crystalline form  12/9/2023 
+ U.S.  Methods of treatment  5/29/2034 
+ Europe  Compositions, compounds and methods of treatment(1)  3/20/2023 
+ Europe  Formulation  12/26/2032 
+Aranesp® (darbepoetin alfa)  U.S.  Glycosylation analogs of erythropoietin proteins  5/15/2024 
+KYPROLIS® (carfilzomib)  U.S.  Compositions and compounds  12/7/2027 
+ U.S.  Methods of treatment  4/14/2025 
+ U.S.  Methods of making  5/8/2033 
+ Europe  Compositions, compounds and methods of treatment(1)  12/7/2025 
+Repatha® (evolocumab)  U.S.  Antibodies(2)  10/25/2029 
+ U.S.  Methods of treatment  10/8/2030 
+ Europe  Compositions(1)  8/22/2028 
+ Europe  Methods of treatment  5/10/2032 
+ Europe  Formulation  5/3/2033 
+Nplate® (romiplostim)  U.S.  Thrombopoietic compounds  1/19/2022 
+ U.S.  Formulation  2/12/2028 
+ Europe  Thrombopoietic compounds(1)  10/22/2019 
+ Europe  Formulation  4/20/2027 
+Vectibix® (panitumumab)  Europe  Human monoclonal antibodies to epidermal growth factor receptor(1)  5/5/2018 
+Parsabiv® (etelcalcetide)
+
+  U.S.  Compound and pharmaceutical composition  2/7/2031 
+ U.S.  Formulation  6/27/2034 
+ U.S.  Methods of making  8/9/2035 
+ Europe  Compound and pharmaceutical composition(1)  7/29/2030 
+ Europe  Formulation  6/27/2034 
+BLINCYTO® (blinatumomab)  U.S.  Pharmaceutical compositions and bifunctional polypeptides  4/6/2030 
+ U.S.  Method of administration  9/28/2027 
+ Europe  Bifunctional polypeptides(1)  11/26/2024 
+ Europe  Method of administration  11/6/2029 
+Aimovig® (erenumab-aooe)  U.S.  CGRP receptor antibodies(2)  11/9/2031 
+ U.S.  Methods of treatment  4/22/2036 
+ Europe  CGRP receptor antibodies(1)  12/18/2029 
+ Europe  Methods of treatment  8/10/2035 
+EVENITY® (romosozumab-aqqg)  U.S.  Antibodies(2)   4/25/2026 
+ U.S.  Methods of treatment(2)   1/11/2029 
+ U.S.  Formulation and methods of using formulation  5/11/2031 
+ Europe  Antibodies(1)   4/28/2026 
+ Europe  Methods of treatment  4/18/2032 
+ Europe  Formulation and methods of using formulation  5/11/2031 
+IMLYGIC® (talimogene laherparepvec)  U.S.  Compositions  11/23/2025 
+ U.S.  Method of treatment  3/27/2022 
+ Europe  Composition and uses(1)   3/27/2022 
+
+CGRP = calcitonin gene-related peptide, RANKL = receptor activator of nuclear factor kappa-B ligand
+(1)A European patent with this subject matter may also be entitled to supplemental protection in one or more countries in Europe, and the length of any such extension will vary by country. For example, supplementary protection certificates have been issued related to the indicated products for patents in at least the following countries:
+7
+--------------------------------------------------------------------------------
+
+
+•denosumab — France, Germany, Italy, Spain and the United Kingdom, expiring in 2025
+•carfilzomib — France, Germany, Italy and Spain, expiring in 2030
+•romiplostim — France, Germany, Italy, Spain and the United Kingdom, expiring in 2024
+•panitumumab — France, Germany, Italy, Spain and the United Kingdom, expiring in 2022
+•evolocumab — France and Spain, expiring in 2030
+•etelcalcetide — France and Italy, expiring in 2031
+•blinatumomab — France, Italy and Spain, expiring in 2029
+•erenumab — France, Italy and Spain, expiring in 2033
+•talimogene laherparepvec — Spain, expiring in 2026; France, Germany, Italy and the United Kingdom, expiring in 2027
+•romosozumab — Italy, expiring in 2031
+•apremilast — Italy and Spain, expiring in 2028
+(2)A patent with this subject matter may be entitled to patent term extension in the United States.
+Competition
+We operate in a highly competitive environment. A number of our marketed products are indicated for disease areas in which other products or treatments are currently available or are being pursued by our competitors through research and development (R&D) activities. Additionally, some competitor-marketed products target the same genetic pathways as our recently launched marketed products or are currently in development. This competition could impact the pricing and market share of our products. We continue to pursue ways of increasing the value of our medicines through innovations during their life cycles, which can include expanding the disease areas for which our products are indicated and finding new methods to make the delivery of our medicines easier and less costly. Such activities can offer important opportunities for differentiation. For example, we market the Neulasta® Onpro® kit, which provides physicians the opportunity to initiate the administration of the recommended dose of Neulasta® on the same day as chemotherapy, with drug delivery at home the day after chemotherapy, thereby saving patients a trip back to the doctor. We plan to continue pursuing innovation efforts to strengthen our competitive position. Such position may be based on, among other things, safety, efficacy, reliability, availability, patient convenience, delivery devices, price, reimbursement, access to and timing of market entry and patent position and expiration.
+Certain of the existing patents on our principal products have expired, and we face new and increasing competition, including from biosimilars and generics. A biosimilar is another version of a biological product for which marketing approval is sought or has been obtained based on a demonstration that it is “highly similar” to the original reference product. We expect that the adverse impact on our originator-product sales from biosimilar competition will reflect current trends and actual results given similar conditions. We also believe that when multiple biosimilar versions of one of our originator products get approved and launched, competition could intensify more rapidly, leading to net price declines for both reference and biosimilar products, resulting in a greater impact on our products’ sales. In the United States, companies have now launched biosimilar versions of EPOGEN®, NEUPOGEN® and Neulasta® and have approved biosimilars for ENBREL. See also Government Regulation—Regulation in the United States—Approval of Biosimilars. Although we expect competitor biosimilars to compete on price, we believe many patients, providers and payers will continue to place high value on the reputation, reliability and safety of our products. As additional biosimilar competitors come to market, we will leverage our global experience versus both branded and biosimilar competition.
+We also have our own biosimilar products both in the United States and outside of U.S. markets that are competing against branded and biosimilar versions of our competitors’ products. In 2019, Amgen launched MVASI®, a biosimilar to Avastin® (bevacizumab), and KANJINTI®, a biosimilar to Herceptin® (trastuzumab), in the United States; and AMGEVITATM, a biosimilar to Humira® (adalimumab) in Europe. We have also received FDA approval for AMJEVITATM (adalimumab-atto), a biosimilar to Humira®. In 2020, we launched AVSOLA®, a biosimilar to Remicade® (infliximab), and in January 2021, we launched RIABNITM, a biosimilar for Rituxan® (rituximab). We expect additional biosimilar competition against both our branded and biosimilar products in the future across all markets.
+8
+--------------------------------------------------------------------------------
+
+
+In addition, although most of our products are biologics, some are small molecule products. Because the FDA approval process permits generic manufacturers to rely on the safety and efficacy data of the innovator product rather than having to conduct their own costly and time-consuming clinical trials, generic manufacturers can often develop and market their competing versions of our small molecule products at much lower prices. For example, following loss of exclusivity of patents directed to cinacalcet, the active ingredient in our small molecule calcimimetic Sensipar®, we lost a significant share of the market and corresponding revenues in a very short period of time. See Part IV—Note 19, Contingencies and commitments, to the Consolidated Financial Statements.
+The introduction of new products, the development of new processes or technologies by competitors or the emergence of new information about existing products may result (i) in increased competition for our marketed products, even for those protected by patents and/or (ii) in reductions in the prices we receive from selling our products. In addition, the development of new treatment options or standards of care may reduce the use of our products or may limit the utility and application of ongoing clinical trials for our product candidates. (As used in this document, the term clinical trials may include prospective clinical trials, observational studies, registries and other studies.) See Item 1A. Risk Factors—Our products face substantial competition and Item 1A. Risk Factors—We currently face competition from biosimilars and expect to face increasing competition from biosimilars and generics in the future.
+9
+--------------------------------------------------------------------------------
+
+
+The following table reflects our significant competitors and is not exhaustive.
+                     
+Product  Territory  Competitor-marketed product  Competitors 
+ENBREL  U.S. & Canada  REMICADE®*  Janssen Biotech, Inc. (Janssen)(1) 
+ U.S. & Canada  HUMIRA®  AbbVie Inc. (AbbVie) 
+ U.S. & Europe  Xeljanz®  Pfizer Inc. 
+ U.S. & Canada  RINVOQ®  AbbVie 
+Prolia®  U.S. & Europe  Alendronate, raloxifene and zoledronate generics  Various 
+Neulasta®(2)  U.S.  UDENYCA®  Coherus BioSciences, Inc. 
+ U.S.  Fulphila®  Mylan Institutional Inc. 
+ U.S. & Europe  Filgrastim biosimilars  Various 
+Otezla®  U.S. & Europe  HUMIRA®(3)†  AbbVie 
+ U.S. & Europe  Cosentyx®(3)  Novartis Pharma AG (Novartis) 
+ U.S. & Europe  Taltz®(3)  Eli Lilly and Company (Lilly) 
+ U.S. & Europe  Tremfya®(3)  Janssen 
+ U.S. & Europe  Skyrizi®(3)  AbbVie 
+ U.S. & Europe  Methotrexate generics(3)  Various 
+XGEVA®  U.S. & Europe  Zoledronate generics  Various 
+Aranesp®  U.S.  PROCRIT®(4)  Janssen(1) 
+ U.S. & Europe  Epoetin alfa biosimilars  Various 
+KYPROLIS®(5)  U.S.  VELCADE®  Millennium Pharmaceuticals, Inc.(6) 
+ U.S. & Europe  REVLIMID®  Celgene(7) 
+ U.S.  POMALYST®  Celgene(7) 
+ U.S.  DARZALEX®  Janssen(1) 
+Repatha®  U.S. & Europe  PRALUENT®  Regeneron Pharmaceuticals, Inc.
+Sanofi 
+
+
+
+* Approved biosimilars available.
+† Approved biosimilars available in Europe.
+(1)A subsidiary of Johnson & Johnson (J&J).
+(2)Other biosimilars under regulatory review in the United States and Europe.
+(3)Dermatology only.
+(4)PROCRIT® competes with Aranesp® in supportive cancer care and predialysis settings.
+(5)KYPROLIS® is facing increased competition from several recently approved products.
+(6)A subsidiary of Takeda Pharmaceutical Company Limited.
+(7)A subsidiary of BMS.
+
+
+Reimbursement 
+Sales of our principal products are dependent on the availability and extent of coverage and reimbursement from third-party payers. In many markets around the world, these payers, including government health systems, private health insurers and other organizations, remain focused on reducing the cost of healthcare; and their efforts have intensified as a result of rising healthcare costs, economic pressures and broader challenges generated by the COVID-19 pandemic. Drugs remain heavily scrutinized for cost containment. As a result, payers are becoming more restrictive regarding the use of biopharmaceutical products and are scrutinizing the prices of these products while requiring a higher level of clinical evidence to support the benefits such products bring to patients and the broader healthcare system. These pressures are intensified when our products are subject to competition, including from biosimilars.
+10
+--------------------------------------------------------------------------------
+
+
+In the United States, healthcare providers and other entities such as pharmacies and pharmacy benefit managers (PBMs) are reimbursed for covered services and products they deliver through both private-payer and government healthcare programs such as Medicare and Medicaid. We provide negotiated rebates to healthcare providers, private payers, government payers and PBMs. In addition, we are required to (i) provide rebates or discounts on our products that are reimbursed through certain government programs, including Medicare and Medicaid, and (ii) provide discounts to qualifying healthcare providers under the federal 340B Drug Pricing Program. 
+Both private and government payers use formularies to manage access and utilization of drugs. A drug’s inclusion and favorable positioning on a formulary are essential to ensure patients have access to a particular drug. Even when access is available, some patients abandon their prescriptions for economic reasons. Payers continue to institute cost reduction and containment measures that lower drug utilization and/or spending altogether and/or shift a greater portion of the costs to patients. Such measures include, but are not limited to, more-limited benefit plan designs, higher patient co-pays or coinsurance obligations, limitations on patients’ use of commercial manufacturer co-pay payment assistance programs (including through co-pay accumulator adjustment or maximization programs), stricter utilization management criteria before a patient may get access to a drug, higher-tier formulary placement that increases the level of patient out-of-pocket costs and formulary exclusion, which effectively encourages patients and providers to seek alternative treatments or pay 100% of the cost of a drug. The use of such measures by PBMs and insurers has continued to intensify and has thereby limited Amgen product usage and sales. Furthermore, during the past few years, many PBMs and insurers have consolidated, resulting in a smaller number of PBMs and insurers overseeing a large portion of total covered lives in the United States. As a result, PBMs and insurers have greater market power and negotiating leverage to mandate stricter utilization criteria and/or exclude drugs from their formularies in favor of competitor drugs or alternative treatments. In highly competitive treatment markets such as the markets for ENBREL, Otezla®, Repatha® and Aimovig®, PBMs are also able to exert negotiating leverage by requiring incremental rebates from manufacturers in order for them to gain and/or maintain their formulary position.
+In addition to market actions taken by private and government payers in the United States, policy makers from both of the major U.S. political parties are pursuing policies to lower drug costs. Potential policies cover a wide range of areas, including allowing the importation of drugs from other countries; instituting international reference pricing (IRP) schemes, which would set the prices of certain drugs based on those available in other countries; establishing caps on price increases based on inflation metrics; increasing transparency on drug pricing; and using third-party value assessments to determine drug prices. Examples of such policies include the previous Administration’s November 2020 interim final rule, which attempts to institute most favored nation (MFN) IRP in Medicare Part B and final rule instituting rebate reform in Medicare Part D. Both of these rules are being challenged in court and therefore have not yet been implemented. The direction of drug pricing policy reforms remains unclear at this time.
+In many countries outside the United States, government-sponsored healthcare systems are the primary payers for drugs and biologics. With increasing budgetary constraints and/or difficulty in understanding the value of medicines, governments and payers in many countries are applying a variety of measures to exert downward price pressure. These measures can include mandatory price controls, price referencing, therapeutic-reference pricing, increases in mandates, incentives for generic substitution and biosimilar usage and government-mandated price cuts. In this regard, many countries have health technology assessment organizations that use formal economic metrics such as cost-effectiveness to determine prices, coverage and reimbursement of new therapies; and these organizations are expanding in both established and emerging markets. Many countries also limit coverage to populations narrower than those specified on our product labels or impose volume caps to limit utilization. We expect that countries will continue taking aggressive actions to seek to reduce expenditures on drugs and biologics. Similarly, fiscal constraints may also affect the extent to which countries are willing to approve new and innovative therapies and/or allow access to new technologies.
+11
+--------------------------------------------------------------------------------
+
+
+The dynamics and developments discussed above serve to create pressure on the pricing and potential usage of our products and the industry. Given the diverse interests in play between payers, biopharmaceutical manufacturers, policy makers, healthcare providers and independent organizations, if and whether the parties involved can achieve alignment on the matters discussed above remain unclear, and the outcome of any such alignment is difficult to predict. We remain focused on pricing our products responsibly and delivering breakthrough treatments for unmet medical needs. Amgen is committed to working with the entire healthcare community to ensure continued innovation and to facilitate patient access to needed medicines. We do this by:
+•investing billions of dollars annually in R&D;
+•developing more affordable therapeutic choices in the form of high-quality and reliably supplied biosimilars;
+•pricing our medicines to reflect the value they provide;
+•partnering with payers to share risk and accountability for health outcomes;
+•providing patient support and education programs; 
+•helping patients in financial need access our medicines; and
+•working with policy makers, patients and other stakeholders to establish a sustainable healthcare system with access to affordable care and where patients and their healthcare professionals are the primary decision makers.
+See Item 1A. Risk Factors—Our sales depend on coverage and reimbursement from government and commercial third-party payers, and pricing and reimbursement pressures may affect our profitability and Item 1A. Risk Factors—Guidelines and recommendations published by various organizations can reduce the use of our products.
+
+
+Manufacturing, Distribution and Raw Materials
+Manufacturing
+We believe we are a leader in the manufacture of biologics and that our manufacturing capabilities represent a competitive advantage. The products we manufacture consist of both biologics and small molecule drugs. The majority of our products are biologics that are produced in living cells and that are inherently complex due to naturally occurring molecular variations. Highly specialized knowledge and extensive process and product characterization are required to transform laboratory-scale processes into reproducible commercial manufacturing processes. Further, our expertise in the manufacture of biologics positions us well for leadership in the global biosimilars market. For additional information regarding manufacturing facilities, see Item 2. Properties.
+Our internal manufacturing network has commercial production capabilities for bulk manufacturing, formulation, fill, finish, tableting and device assembly. These activities are performed within the United States and its territories in our Puerto Rico, Rhode Island and California facilities as well as internationally in our Ireland, Netherlands and Singapore facilities. In addition, we use third-party contract manufacturers to supplement the capacity or capability of our commercial manufacturing network.
+To support our clinical trials, we manufacture product candidates primarily at our California facilities. We also use third-party contract manufacturers to supplement the capacity or capability of our overall clinical manufacturing network.
+See Item 1A. Risk Factors for a discussion of the factors that could adversely impact our manufacturing operations and the global supply of our products.
+Distribution
+We operate distribution centers in Puerto Rico, Kentucky, California and the Netherlands for worldwide distribution of the majority of our commercial and clinical products. We also use third-party distributors to supplement distribution of our products worldwide.
+Other
+In addition to the manufacturing and distribution activities noted above, each of our manufacturing locations includes key manufacturing support functions such as quality control, process development, engineering, procurement, production scheduling and warehousing. Certain of those manufacturing and distribution activities are highly regulated by the FDA as well as international regulatory agencies. See Government Regulation—Regulation in the United States—Regulation of Manufacturing Standards.
+12
+--------------------------------------------------------------------------------
+
+
+Manufacturing Initiatives
+We have multiple ongoing initiatives that are designed to extend our manufacturing advantage by optimizing our manufacturing network and/or by mitigating risks while continuing to ensure adequate supply of our products. 
+For example, our licensed next-generation biomanufacturing plant operating in Singapore incorporates multiple innovative technologies into a single facility and was built in half the construction time and at approximately half the operating cost of a traditional plant. Next-generation biomanufacturing plants require smaller manufacturing footprints and offer greater environmental benefits, including reduced consumption of water and energy and lower levels of carbon emissions. Within such plants, the equipment is portable and smaller, and some components are disposable, which provides greater flexibility and speed when manufacturing different medicines simultaneously. This eliminates the otherwise costly and complex retrofitting inherent in standard plants and enables Amgen to respond to changing demands for its medicines with increased agility, ultimately increasing the speed at which a medicine can become available for patients. The Singapore site also has a plant that has been approved to produce small molecule drugs for commercial manufacturing.
+In July 2018, we broke ground for our newest next-generation biomanufacturing plant at our West Greenwich, Rhode Island, campus. Construction on this new plant, the first of its kind in the United States, is complete. Upon approval by the FDA and global regulatory authorities, this plant will expand our capacity to manufacture certain products for U.S. and global markets.
+In 2019, we initiated projects to expand our manufacturing capabilities in Thousand Oaks, California, as well as at contract manufacturers. These investments will initially support clinical manufacturing but in the future may also be leveraged for commercial manufacturing.
+In September 2020, we entered into an arrangement with Lilly to manufacture Lilly’s potential COVID-19 therapies. For 2021—and, potentially, through 2022—we expect to allocate a portion of our manufacturing capacity to support this production. Additionally, starting in 2021, we will initiate projects that will expand our manufacturing capacity to enable supply of products and product candidates. These projects will employ new technologies that are being developed by Amgen that are anticipated to allow further optimization of our manufacturing network and processes.
+See Item 1A. Risk Factors—Manufacturing difficulties, disruptions or delays could limit supply of our products and limit our product sales.
+Raw Materials and Medical Devices
+Certain raw materials, medical devices (including companion diagnostics) and components necessary for the commercial and/or clinical manufacturing of our products are provided by and are the proprietary products of unaffiliated third-party suppliers, certain of which may be our only sources for such materials. We currently attempt to manage the risk associated with such suppliers by means of inventory management, relationship management and evaluation of alternative sources when feasible. We also monitor the financial condition of certain suppliers and their ability to supply our needs. See Item 1A. Risk Factors—We rely on third-party suppliers for certain of our raw materials, medical devices and components.
+We perform various procedures to help authenticate the sources of raw materials, including intermediary materials used in the manufacture of our products, which include verification of the country of origin. The procedures are incorporated into the manufacturing processes we and our third-party contract manufacturers perform.
+To better ensure supply, Amgen has a risk mitigation strategy that uses a combination of methods, including multiple sources or backup inventory of critical raw materials. In response to COVID-19, we continue to closely monitor our inventory levels and have taken additional measures to mitigate against raw material supply interruption as part of our ongoing business continuity efforts. See Item 1A. Risk Factors for a discussion of the factors that could adversely impact our manufacturing operations and the global supply of our products.
+
+
+Government Regulation
+Regulation by government authorities in the United States and other countries is a significant factor in the production and marketing of our products and our ongoing R&D activities. To clinically test, manufacture and market products for therapeutic use, we must satisfy mandatory procedures and safety and effectiveness standards established by various regulatory bodies. Compliance with these standards is complex, and failure to comply with any of these standards can result in significant implications. See Item 1A. Risk Factors for a discussion of factors, including global regulatory implications, that can adversely impact our development and marketing of commercial products.
+13
+--------------------------------------------------------------------------------
+
+
+Regulation in the United States
+In the United States, the Public Health Service Act; the Federal Food, Drug, and Cosmetic Act (FDCA); and the regulations promulgated thereunder as well as other federal and state statutes and regulations govern, among other things, the production, research, development, testing, manufacture, quality control, labeling, storage, record keeping, approval, advertising, promotion and distribution of our products in addition to the reporting of certain payments and other transfers of value to healthcare professionals and teaching hospitals.
+Clinical Development and Product Approval. Drug development in our industry is complex, challenging and risky, and failure rates are high. Product development cycles are typically very long—approximately 10 to 15 years from discovery to market. A potential new medicine must undergo many years of preclinical and clinical testing to establish its safety and efficacy for use in humans at appropriate dosing levels and with an acceptable risk–benefit profile. We continue to work toward reducing cycle times by applying our expertise in human genetics and innovation in technology, clinical trials and real-world evidence.
+After laboratory analysis and preclinical testing in animals, we file an Investigational New Drug Application (IND) with the FDA to begin human testing. Typically, we undertake an FDA-designated three-phase human clinical testing program.
+•In phase 1, we conduct small clinical trials to investigate the safety and proper dose ranges of our product candidates in a small number of human subjects.
+•In phase 2, we conduct clinical trials to investigate side-effect profiles and the efficacy of our product candidates in a patient population larger than phase 1 but still relatively small, who have the disease or condition under study.
+•In phase 3, we conduct clinical trials to investigate the short- and long-term safety and efficacy of our product candidates, compared to commonly used treatments, in a large number of patients who have the disease or condition under study.
+The FDA monitors the progress of each trial conducted under an IND and may, at its discretion, reevaluate, alter, suspend or terminate the testing based on the data accumulated to that point and the FDA’s risk–benefit assessment with regard to the patients enrolled in the trial. The results of preclinical and clinical trials are submitted to the FDA in the form of either a Biologics License Application for biologic products or a NDA for small molecule products. We are not permitted to market or promote a new product until the FDA has approved our marketing application.
+Approval of Biosimilars. The Affordable Care Act (ACA) authorized the FDA to approve biosimilars via a separate, abbreviated pathway. The pathway allows sponsors of a biosimilar to seek and obtain regulatory approval based in part on the nonclinical-trial and clinical-trial data of an originator product to which the biosimilar has been demonstrated to be “highly similar” and to have no clinically meaningful differences in terms of safety, purity and potency. The relevance of demonstrating “similarity” is that in many cases, biosimilars can be brought to market without conducting the full suite of clinical trials typically required of originators, because risk–benefit has previously been established. To preserve incentives for future innovation, the law establishes a period of exclusivity for originators’ products, which in general prohibits biosimilars from gaining FDA approval based in part on reliance on or reference to the originator’s data in their application to the FDA for 12 years after initial FDA approval of the originator product. The law does not change the duration of patents granted on biologic products. As part of the implementation of the abbreviated approval pathway for biosimilars, the FDA released a number of guidance documents, some of which remain in draft form.
+Regulation of Product Marketing and Promotion. The FDA regulates the marketing and promotion of drug products. Our product promotions for approved product indications must comply with the statutory standards of the FDCA and the FDA’s implemented regulations and guidance. The FDA’s review of marketing and promotional activities encompasses but is not limited to direct-to-consumer advertising, healthcare-provider-directed advertising and promotion, sales representative communications to healthcare professionals, promotional programming and promotional activities involving electronic media. The FDA may also review industry-sponsored scientific and educational activities that make representations regarding product safety or efficacy in a promotional context. The FDA may take enforcement action against a company for promoting unapproved uses of a product or for other violations of the FDA’s advertising and labeling laws and regulations. Enforcement action may include product seizures, injunctions, civil or criminal penalties or regulatory letters, which may require corrective advertising or other corrective communications to healthcare professionals. Failure to comply with the FDA’s regulations also can result in adverse publicity or increased scrutiny of company activities by the U.S. Congress or other legislators. Additionally, as described below, such failure may lead to additional liability under U.S. healthcare fraud and abuse laws.
+14
+--------------------------------------------------------------------------------
+
+
+Regulation of Manufacturing Standards. The FDA regulates and inspects the equipment, facilities, laboratories and processes used in the manufacturing and testing of products prior to granting approval to market products. If after receiving approval from the FDA we make a material change in manufacturing equipment, location or process, additional regulatory review may be required. We also must adhere to current Good Manufacturing Practice regulations and product-specific regulations enforced by the FDA through its facilities inspection program. The FDA conducts regular, periodic visits to reinspect our equipment, facilities, laboratories and processes following an initial approval.
+Regulation of Combination Products. Combination products are defined by the FDA as products composed of two or more regulated components (e.g., a biologic and/or drug and a device). Biologics/drugs and devices each have their own regulatory requirements, and combination products may have additional requirements. A number of our marketed products meet this definition and are regulated under this framework, and we expect that a number of our pipeline product candidates will be evaluated for regulatory approval under this framework as well.
+Regulation outside the United States
+In European Union (EU) countries as well as in Switzerland, Canada, Australia and Japan, regulatory requirements and approval processes are similar in principle to those in the United States.
+In the EU, there are currently two potential tracks for seeking marketing approval for a product not authorized in any EU member state: a decentralized procedure and a centralized procedure. In the decentralized procedure, identical applications for marketing authorization are submitted simultaneously to the national regulatory agencies. Regulatory review is led by one member state (the reference-member state), and its assessment—based on safety, quality and efficacy—is reviewed and approved (assuming there are no concerns that the product poses a serious risk to public health) by the other member states from which the applicant is seeking approval (the concerned-member states). The decentralized procedure leads to a series of single national approvals in all relevant countries. In the centralized procedure, which is required of all products derived from biotechnology, a company submits a single MAA to the EMA, which conducts an evaluation of the dossier, drawing upon its scientific resources across Europe. If the drug product is proven to fulfill requirements for quality, safety and efficacy, the EMA’s Committee for Medicinal Products of Human Use (CHMP) adopts a positive opinion, which is transmitted to the European Commission (EC) for final decision on granting of the marketing authorization. Even though the EC generally follows the CHMP’s opinion, it is not bound to do so. Subsequent commercialization is enabled by country-by-country reimbursement approval.
+In the EU, biosimilars are approved under a specialized pathway of the centralized procedure. As with the U.S. pathway, an applicant seeks and obtains regulatory approval for a biosimilar once the data exclusivity period for the original reference product has expired, relying in part on the data submitted for the originator product together with data evidencing that the biosimilar is “highly similar” in terms of quality, safety and efficacy to the original reference product authorized in the European Economic Area.
+As a result of the United Kingdom’s decision to leave the EU, the EMA in March 2019 relocated to Amsterdam. The United Kingdom officially left the EU in January 2020, and in December 2020, a new trade deal was agreed that starts to clarify how U.K. medicines will be independently supervised and where continued collaborations and recognitions can be expected. Amgen continues to monitor future negotiations to ensure no interruption in the supervision, regulation or supply of medicines in the United Kingdom and Europe.
+Other countries such as Russia, Turkey and those in Latin America and the Middle East have review processes and data requirements similar to those of the EU and in some cases can rely on prior marketing approval from U.S. or EU regulatory authorities. The regulatory process in these countries may include manufacturing/testing facility inspections, testing of drug product upon importation and other domestic requirements.
+In Asia Pacific, a number of countries such as China, Japan, South Korea and Taiwan may require local clinical-trial data for bridging purposes as part of the drug registration process in addition to global clinical trials, which can add to overall drug development and registration timelines. In most of the Asian markets, registration timelines depend on marketing approval in the United States or the EU. In some markets in Asia, such as China, Indonesia and Thailand, the regulatory timelines can be less predictable. The regulatory process may also include manufacturing/testing facility inspections, testing of drug product upon importation and other domestic requirements. Countries such as Australia and Japan have more-mature systems that would allow for submissions under more-competitive time frames. Regarding biosimilars, several of these countries have pathways to register biosimilars (e.g., Australia, India, Singapore, South Korea and Taiwan), and biosimilar products are already present on the markets (e.g., Australia and South Korea).
+15
+--------------------------------------------------------------------------------
+
+
+In some countries, such as Japan and those in the EU, medical devices may be subject to regulatory regimes whereby manufacturers must establish that their medical devices conform to essential requirements set out in the law for the particular device category. For example, in the EU, with limited exceptions, medical devices placed on the market must bear the Conformité Européenne marking to indicate their conformity with legal requirements.
+Postapproval Phase
+After approval, we continue to monitor adverse events and product complaints reported following the use of our products through routine postmarketing surveillance and studies when applicable. We report such events to the appropriate regulatory agencies as required by local regulations for individual cases and aggregate reports. We proactively monitor (according to good pharmacovigilance practices) and ensure the implementation of signal detection, assessment and the communication of adverse events that may be associated with the use of our products. We also proactively monitor product complaints through our quality systems, which includes assessing our drug delivery devices for device complaints, adverse events and malfunctions. We may also be required by regulatory agencies to conduct further clinical trials on our marketed products as a condition of their approval or to provide additional information on safety and efficacy. Health regulators, including the FDA, have authority to mandate labeling changes to products at any point in a product’s life cycle based on new safety information or as part of an evolving label change to a particular class of products.
+Health regulators, including the FDA, also have authority, before or after approval, to require a company to implement a risk management program for a product to ensure that the benefits of the drug outweigh the risks. Each risk management program is unique and varies depending on the specific factors required. In the United States, a risk management program is known as a risk evaluation and mitigation strategy (REMS), and we currently have REMSs for Prolia®, Nplate® and BLINCYTO®.
+Other Regulation
+We are also subject to various laws pertaining to healthcare fraud and abuse, including antikickback laws and false-claims laws. Antikickback laws make it illegal to solicit, offer, receive or pay any remuneration in exchange for or to induce the referral of business, including the purchase or prescribing of a particular drug that is reimbursed by a state or federal program. False-claims laws prohibit knowingly and willingly presenting or causing to be presented for payment to third-party payers (including Medicare and Medicaid) any claims for reimbursed drugs or services that are false or fraudulent, claims for items or services not provided as claimed or claims for medically unnecessary items or services. Violations of fraud and abuse laws may be punishable by criminal and/or civil sanctions, including fines and civil monetary penalties, as well as by the possibility of exclusion from federal healthcare programs (including Medicare and Medicaid). Liability under the false-claims laws may also arise when a violation of certain laws or regulations related to the underlying product (e.g., violations regarding improper promotional activity or unlawful payments) contributes to the submission of a false claim.
+In 2012, Amgen entered into a corporate integrity agreement with the Office of Inspector General (OIG) of the U.S. Department of Health & Human Services (HHS), which was formally closed out in August 2018. On April 25, 2019, we entered into a settlement agreement with the U.S. Department of Justice (DOJ) and the OIG of the HHS to settle certain allegations related to our support of independent charitable organizations that provide patients with financial assistance to access their medicines. Additionally, we entered into a corporate integrity agreement that requires us to maintain a corporate compliance program and to undertake a set of defined corporate integrity obligations for a period of five years. Due to the breadth of the statutory provisions and the absence of guidance in the form of regulations or court decisions addressing some of our practices, it is possible that in the future, our practices might be further challenged under antikickback or similar laws. 
+The U.S. Foreign Corrupt Practices Act (FCPA) prohibits U.S. corporations and their representatives from offering, promising, authorizing or making payments to any foreign government official, government staff member, political party or political candidate in an attempt to obtain or retain business abroad. The scope of the FCPA arguably includes interactions with certain healthcare professionals in many countries. Other countries have enacted similar anticorruption laws and/or regulations. Failure by our employees, agents, contractors, vendors, licensees, partners or collaborators to comply with the FCPA and other anticorruption laws and/or regulations could result in significant civil or criminal penalties.
+We are subject to various laws and regulations globally regarding privacy and data protection. These laws and regulations involve the collection, storage, handling, use, disclosure, transfer and security of personal data. The legislative and regulatory environments regarding privacy and data protection are continually evolving and developing, as these issues are the subjects of increasing amounts of attention in countries globally. For example, we are subject to the EU’s General Data Protection Regulation (GDPR), which became effective on May 25, 2018, and the California Consumer Privacy Act of 2018, which became effective on January 1, 2020. Other jurisdictions where we operate have enacted or proposed similar legislation and/or regulations. Failure to comply with these laws could result in significant penalties.
+16
+--------------------------------------------------------------------------------
+
+
+Our business has been and will continue to be subject to various other U.S. and foreign laws, rules and regulations. See Reimbursement section above.
+
+
+Research and Development and Selected Product Candidates
+We focus our R&D on novel human therapeutics for the treatment of serious illness. We capitalize on our strengths in human genetics, novel biology and protein engineering. We leverage our biologic expertise and take a modality-independent approach to R&D. And we use cutting-edge science and technology to study subtle biological mechanisms in search of therapies that will improve the lives of those who suffer from diseases.
+Our discovery research programs may therefore yield targets that lead to the development of human therapeutics delivered as large molecules, small molecules, other combination modalities or new modalities. We have reshaped our portfolio and have increasingly focused our efforts on human genetics when possible to enhance the likelihood of success.
+In response to the COVID-19 pandemic, we managed our clinical development on a case-by-case basis. Patients who were already enrolled in studies continued to receive study drug, including through direct-to-patient shipments. For studies that had the potential for significant benefit in a serious or life-threatening condition and when site resources enabled new patients to be enrolled safely and monitored closely, we continued enrollment. For clinical trials experiencing uncertainty with regard to the trial sites’ ability to ensure subject safety or data integrity at that time, we temporarily paused enrollment. We remain focused on supporting our active clinical sites in providing care for these patients and providing investigational drug supply. To date, the majority of clinical trials that were paused at the onset of the pandemic to ensure subject safety or data integrity have resumed. Study enrollments were affected the most in the second quarter of 2020 and by the end of the year resumed to prepandemic levels, although COVID-19 infection rates and related vaccination activities may impact future patient enrollment. We continuously monitor and reevaluate the status of studies, pausing when uncertainty arises with regard to the trial sites’ ability to ensure safety or data integrity. We remain focused on supporting our active clinical sites in providing care for these patients and in providing investigational drug supply. In addition, our R&D organization is supporting efforts to combat the COVID-19 pandemic in a number of ways, including by (i) working to support production of therapeutic antibodies that could diminish the impact of COVID-19 on patients, (ii) joining a public–private partnership between leading companies in our industry and U.S. government health agencies to develop a strategy for a coordinated research response and (iii) participating in platform studies to investigate treatments in adult patients hospitalized with severe COVID-19 infections.
+For the years ended December 31, 2020, 2019 and 2018, our R&D expenses were $4.2 billion, $4.1 billion and $3.7 billion, respectively.
+We have major R&D centers in Thousand Oaks and San Francisco, California; Iceland; and the United Kingdom, as well as smaller research centers and development facilities globally. See Item 2. Properties.
+Our clinical trial activities are conducted by both our internal staff and third-party contract clinical trial service providers. To increase the number of patients available for enrollment in our clinical trials, we have opened clinical sites and will continue opening clinical sites and enrolling patients in a number of geographic locations. See Government Regulation—Regulation in the United States—Clinical Development and Product Approval for a discussion of government regulation over clinical development. Also see Item 1A. Risk Factors—We must conduct clinical trials in humans before we commercialize and sell any of our product candidates or existing products for new indications.
+Some of our competitors are actively engaged in R&D in areas in which we have products or in which we are developing product candidates or new indications for existing products. For example, we compete with other clinical trials for eligible patients, which may limit the number of available patients who meet the criteria for certain clinical trials. The competitive marketplace for our product candidates is greatly dependent on the timing of entry into the market. Early entry may have important advantages in gaining product acceptance, thereby contributing to a product’s eventual success and profitability. Accordingly, we expect that in some cases, the relative speed with which we can develop products, complete clinical testing, receive regulatory approval and supply commercial quantities of a product to the market will be important to our competitive position.
+In addition to product candidates and marketed products generated from our internal R&D efforts, we acquire companies, acquire and license certain product and R&D technology rights and establish R&D arrangements with third parties to enhance our strategic position within our industry by strengthening and diversifying our R&D capabilities, product pipeline and marketed product base. In pursuing these R&D arrangements and licensing or acquisition activities, we face competition from other pharmaceutical and biotechnology companies that also seek to license or acquire technologies, product candidates or marketed products from those entities performing the R&D.
+17
+--------------------------------------------------------------------------------
+
+
+The following table shows a selection of certain of our product candidates by phase of development in our therapeutic areas of focus as of February 2, 2021, unless otherwise indicated. Additional product candidate information can be found on our website at www.amgen.com. (The website address is not intended to function as a hyperlink, and the information contained on our website is not intended to be a part of this filing.) The information in this section does not include other, nonregistrational clinical trials that we may conduct for purposes other than for submission to regulatory agencies for their approval of a new product indication.
+We may conduct nonregistrational clinical trials for various reasons, including to evaluate real-world outcomes or to collect additional safety information with regard to the use of our products.
+18
+--------------------------------------------------------------------------------
+
+
+         
+Molecule  Disease/condition 
+Phase 3 programs   
+EVENITY®  Male osteoporosis 
+KYPROLIS®  Weekly dosing for relapsed multiple myeloma 
+Nplate®  Chemotherapy-induced thrombocytopenia 
+Otezla®  COVID-19 
+ Genital psoriasis 
+ Mild-to-moderate psoriasis 
+Repatha®  Cardiovascular disease 
+RIABNITM  Rheumatoid arthritis 
+Sotorasib  NSCLC with KRAS G12C mutations 
+Tezepelumab  Severe asthma 
+ABP 654  Psoriasis, psoriatic arthritis and Crohn’s disease 
+ABP 938  Neovascular (wet) age-related macular degeneration, macular edema following retinal vein occlusion, diabetic macular edema and diabetic retinopathy 
+ABP 959  Paroxysmal nocturnal hemoglobinuria (PNH) 
+   
+Phase 2 programs   
+Olpasiran (formerly AMG 890)  Cardiovascular disease 
+Rozibafusp alfa (formerly AMG 570)  Systemic lupus erythematosus 
+Sotorasib  Advanced colorectal cancer 
+ Other solid tumors with KRAS G12C mutations 
+Tezepelumab  Chronic obstructive pulmonary disease 
+AMG 714/PRV-015  Celiac disease 
+   
+Phase 1 programs   
+Efavaleukin alfa (formerly AMG 592)  Inflammatory diseases 
+AMG 119  Small-cell lung cancer 
+AMG 133  Obesity 
+AMG 160  Prostate cancer 
+AMG 171  Obesity 
+AMG 176  Hematologic malignancies 
+AMG 199  Metastatic gastric and gastroesophageal junction cancer 
+AMG 256  Solid tumors 
+AMG 330  Acute myeloid leukemia 
+AMG 397  Hematologic malignancies 
+AMG 404  Solid tumors 
+AMG 427  Acute myeloid leukemia 
+AMG 506  Solid tumors 
+AMG 509  Prostate cancer 
+AMG 594(1)  Cardiovascular disease 
+AMG 650  Solid tumors 
+AMG 673  Acute myeloid leukemia 
+AMG 701  Multiple myeloma 
+AMG 757  Small-cell lung cancer 
+AMG 910  Gastric and gastroesophageal junction cancer 
+   
+
+(1)In November 2020, we provided notice to Cytokinetics of termination of our collaboration effective May 20, 2021 and of our intention to transition to them the development and commercialization rights for omecamtiv mecarbil and AMG 594.
+      
+Phase 3 Clinical trials investigate the short- and long-term safety and efficacy of our product candidates, compared to commonly used treatments, in a large number of patients who have the disease or condition under study. 
+Phase 2 Clinical trials investigate side-effect profiles and efficacy of product candidates in a larger patient population than phase 1, but still relatively small, who have the disease or condition under study. 
+Phase 1 Clinical trials investigate the safety and proper dose ranges of product candidates in a small number of human subjects. 
+
+19
+--------------------------------------------------------------------------------
+
+
+Phase 3 Product Candidate Program Changes
+As of February 12, 2020, we had 14 phase 3 programs. As of February 2, 2021, we had 13 phase 3 programs, as regulatory approvals were received for three programs, two programs initiated phase 3 studies, two programs initiated biosimilarity studies, one concluded and one termination and transition of program to Cytokinetics. These changes are set forth in the following table.
+               
+Molecule  Disease/condition  Program change 
+KYPROLIS®  Multiple myeloma  Approved by the FDA 
+Otezla®  Behçet’s disease  Approved by the FDA 
+ COVID-19  Initiated phase 3 study 
+RIABNITM  Non-Hodgkin’s lymphoma  Approved by the FDA 
+Sotorasib  NSCLC  Initiated phase 3 study 
+ABP 654  Psoriasis, psoriatic arthritis and Crohn’s disease  Initiated biosimilarity study 
+ABP 938  Neovascular (wet) age-related macular degeneration, macular edema following retinal vein occlusion, diabetic macular edema and diabetic retinopathy  Initiated biosimilarity study 
+IMLYGIC®  Metastatic melanoma  Concluded 
+Omecamtiv mecarbil  Chronic heart failure  Concluded; no longer pursuing our marketing application with the FDA and EC(1) 
+
+
+
+(1)In November 2020, we provided notice to Cytokinetics of termination of our collaboration effective May 20, 2021 and of our intention to transition to them the development and commercialization rights for omecamtiv mecarbil and AMG 594.
+Based on our approval pathway that did not require phase 3 study, in January 2021, Nplate® was approved by the FDA for treatment of hematopoietic syndrome of acute radiation syndrome.
+Phase 3 Product Candidate Patent Information
+The following table describes our composition-of-matter patents that have been issued thus far for our product candidates in phase 3 development that have yet to be approved for any indication in the United States or the EU. Patents for products already approved for one or more indications in the United States or the EU but that are currently undergoing phase 3 clinical trials for additional indications have been previously described. See Marketing, Distribution and Selected Marketed Products—Patents.
+                     
+Molecule  Territory  General subject matter  Estimated expiration* 
+Sotorasib  U.S.  Compound  2038 
+Tezepelumab  U.S.  Polypeptides  2029 
+ Europe  Polypeptides  2028 
+
+* Patent expiration estimates are based on issued patents, which may be challenged, invalidated or circumvented by competitors. The patent expiration estimates do not include any term adjustments, extensions or supplemental protection certificates that may be obtained in the future and thereby extend these dates. Corresponding patent applications are pending in other jurisdictions. Additional patents may be filed or issued and may provide additional exclusivity for the product candidate or its use.
+Phases 3 and 2 Program Descriptions
+The following provides additional information about selected product candidates that have advanced into human clinical trials.
+EVENITY®
+EVENITY® is a humanized monoclonal antibody that inhibits the action of sclerostin. It is being evaluated as a treatment for male osteoporosis. EVENITY® is being developed in collaboration with UCB.
+
+
+20
+--------------------------------------------------------------------------------
+
+
+IMLYGIC®
+IMLYGIC® is an oncolytic immunotherapy derived from herpes simplex virus type 1 (HSV-1). A Phase 3 study evaluating IMLYGIC® in combination with pembrolizumab (KEYTRUDA®) versus pembrolizumab alone for treatment of unresectable stage IIIB to IVM1c melanoma was stopped for futility after an interim analysis by the Data Monitoring Committee. No new safety signals were observed.
+KYPROLIS®
+KYPROLIS® is a small molecule proteasome inhibitor. It is being investigated for weekly dosing in combinations with lenalidomide and dexamethasone for relapsed multiple myeloma.
+In August 2020, the FDA approved the expansion of the KYPROLIS® U.S. prescribing information to include its use in combination with DARZALEX® plus dexamethasone in two dosing regimens—once weekly and twice weekly—for the treatment of patients with relapsed or refractory multiple myeloma who have received one to three previous lines of therapy.
+Nplate®
+Nplate® is a thrombopoietin receptor agonist. It is being investigated in phase 3 studies for chemotherapy-induced thrombocytopenia.
+In December, the European Commission approved an expanded indication for use in adult patients who have had immune thrombocytopenia for 12 months or less and who have had an insufficient response to corticosteroids or immunoglobulins. 
+As noted above, the FDA has approved Nplate® for the treatment of hematopoietic syndrome of acute radiation syndrome.1
+OLPASIRAN
+Olpasiran is a small interfering RNA (siRNA) that lowers lipoprotein(a), also known as Lp(a). It is being investigated in phase 2 for the treatment of atherosclerotic CV disease.
+Otezla®
+Otezla® is a small molecule that inhibits PDE4. It is being investigated in phase 3 studies for the treatment of patients with mild-to-moderate plaque psoriasis, patients with moderate-to-severe genital psoriasis and, in collaboration with some of the members of the COVID R&D Alliance, adult patients hospitalized with COVID-19.
+In May 2020, we announced positive results from the ADVANCE trial, a phase 3, multicenter, randomized, placebo-controlled, double-blind study to assess the efficacy of Otezla® in adults with mild-to-moderate plaque psoriasis. The study showed that oral Otezla® 30 mg twice daily achieved a statistically significant improvement, compared with placebo, in the primary endpoint of the sPGA response at week 16. In addition, the week 16 secondary endpoints of achieving at least 75% improvement from baseline in the percent of affected body surface area (BSA), change in BSA total score from baseline and change in Psoriasis Area and Severity Index (PASI) total score from baseline were each also statistically significant for the treatment effect of Otezla® compared with placebo.
+Repatha®
+Repatha® is a human monoclonal antibody that inhibits PCSK9. It is being investigated as a treatment for atherosclerotic CV disease in high-risk patients with high low-density lipoprotein cholesterol (LDL-C) without prior heart attack or stroke.
+In March 2020, we announced positive results from the BEIJERINCK study evaluating the efficacy and safety of Repatha® in patients who are human immunodeficiency virus-positive (HIV+) and have high LDL-C despite stable background lipid-lowering therapy. The study demonstrated that treatment with Repatha® significantly reduced LDL-C.
+RIABNITM
+RIABNITM, a biosimilar candidate to Rituxan®/MabThera® (rituximab), is an anti-CD20 monoclonal antibody. It is being investigated in a phase 3 study for treatment of rheumatoid arthritis. The reference-product primary conditions are non-Hodgkin’s lymphoma, chronic lymphocytic leukemia and rheumatoid arthritis.
+
+1 Funding and execution of the pivotal study was provided by the National Institute of Allergy and Infectious Diseases (NIAID) and the Priority Review regulatory submission was conducted in partnership with the Biomedical Advanced Research and Development Authority (BARDA).
+21
+--------------------------------------------------------------------------------
+
+
+In December 2020, we announced that the FDA had approved RIABNITM for the treatment of adult patients with non-Hodgkin’s lymphoma, chronic lymphocytic leukemia, granulomatosis with polyangiitis (Wegener’s granulomatosis), and microscopic polyangiitis. RIABNITM launched in the United States in January 2021.
+Rozibafusp alfa 
+Rozibafusp alfa is a novel bispecific antibody-peptide conjugate that simultaneously blocks the B lymphocyte stimulator (BAFF) and inducible costimulatory ligand (ICOSL) activity. It is being investigated as a treatment for systemic lupus erythematosus.
+Sotorasib
+Sotorasib is a KRAS G12C small molecule inhibitor. It is being investigated as a treatment for a variety of solid tumors, including NSCLC, colorectal cancer and other solid tumor cancers.
+In December 2020, we announced that the FDA had granted Breakthrough Therapy designation for sotorasib for the treatment of patients with locally advanced or metastatic NSCLC with KRAS G12C mutation as determined by an FDA-approved test, following at least one prior systemic therapy. The sotorasib application is being reviewed under the FDA’s RTOR pilot program, which aims to explore a more efficient review process that ensures safe and effective treatments are made available to patients as early as possible.
+In January 2021, we announced phase 2 results from the CodeBreaK 100 clinical study, evaluating sotorasib in 126 patients with KRAS G12C-mutant advanced NSCLC, who had failed a median of two prior lines of anticancer therapies (immunotherapy and/or chemotherapy). Sotorasib demonstrated a confirmed ORR (primary end point) and disease control rate of 37.1% and 80.6%, respectively, a median duration of response of 10 months and median progression-free survival of 6.8 months. Patients were treated with sotorasib 960 mg once daily orally.
+Tezepelumab 
+Tezepelumab is a human monoclonal antibody that inhibits the action of thymic stromal lymphopoietin. It is being evaluated in phase 3 as a treatment for severe asthma. It is also being investigated in phase 2 for chronic obstructive pulmonary disease. Tezepelumab is being developed jointly in collaboration with AstraZeneca.
+In November 2020, we announced positive results from the registrational phase 3 NAVIGATOR trial, in which the investigational medicine tezepelumab demonstrated a statistically significant reduction in exacerbations compared to placebo in patients with severe asthma. The NAVIGATOR trial met the primary endpoint with tezepelumab added to SoC, demonstrating a statistically significant and clinically meaningful reduction compared to placebo plus SoC in the AAER over 52 weeks in the overall patient population. SoC consisted of medium- or high-dose ICS plus at least one additional controller medication with or without OCS.
+In December 2020, we announced that the SOURCE trial had not met the primary endpoint of a statistically significant reduction in the daily OCS dose, without loss of asthma control, with tezepelumab compared to placebo. The results of this trial have no impact on our submission plans.
+AMG 714/PRV-015
+AMG 714/PRV-015 is a human monoclonal antibody that binds to interleukin-15. It is being investigated for the treatment of celiac disease and is being developed in collaboration with Provention Bio.
+ABP 654
+ABP 654, a biosimilar candidate to STELARA® (ustekinumab), is a monoclonal antibody that inhibits interleukin-12 and interleukin-23. It is being investigated in a phase 3 study for biosimilarity to STELARA®. The reference-product primary conditions are psoriasis, psoriatic arthritis and Crohn’s disease.
+ABP 938
+ABP 938, a biosimilar candidate to EYLEA® (aflibercept), is a vascular endothelial growth factor receptor (VEGFR) Fc fusion protein. It is being investigated in a phase 3 study for neovascular (wet) age-related macular degeneration (AMD). The reference-product primary conditions are wet AMD, macular edema following retinal vein occlusion, diabetic macular edema and diabetic retinopathy.
+22
+--------------------------------------------------------------------------------
+
+
+ABP 959
+ABP 959, a biosimilar candidate to SOLIRIS® (eculizumab), is a monoclonal antibody that specifically binds to the complement protein C5. It is being investigated in a phase 3 study for PNH. The reference-product primary conditions are PNH and atypical hemolytic uremic syndrome (aHUS).
+Business Relationships
+From time to time, we enter into business relationships, including joint ventures and collaborative arrangements, for the R&D, manufacture and/or commercialization of products and/or product candidates. In addition, we acquire product and R&D technology rights and establish R&D collaborations with third parties to enhance our strategic position within our industry by strengthening and diversifying our R&D capabilities, product pipeline and marketed-product base. These arrangements generally provide for nonrefundable, upfront license fees, development and commercial-performance milestone payments, cost sharing, royalty payments and/or profit sharing. The activities under these collaboration agreements are performed with no guarantee of either technological or commercial success, and each is unique in nature.
+Trade secret protection for our unpatented confidential and proprietary information is important to us. To protect our trade secrets, we generally require counterparties to execute confidentiality agreements upon commencement of a business relationship with us. However, others could either develop independently the same or similar information or unlawfully obtain access to our information.
+BeiGene, Ltd.
+On January 2, 2020, we acquired a 20.5% stake in BeiGene, Ltd. (BeiGene) for approximately $2.8 billion in cash as part of a collaboration to expand our oncology presence in China. Under the collaboration, BeiGene commenced selling XGEVA® and will commercialize KYPROLIS® and BLINCYTO® in China, and Amgen will share profits and losses equally during the initial product-specific commercialization periods; thereafter, product rights may revert to Amgen, and Amgen will pay royalties to BeiGene on sales in China of such products for a specified period.
+In addition, we will jointly develop a portion of our oncology portfolio with BeiGene sharing in global R&D costs by providing cash and development services up to $1.25 billion. Upon regulatory approval, BeiGene will assume commercialization rights in China for a specified period, and Amgen and BeiGene will share profits equally until certain of these product rights revert to Amgen. Upon return of the product rights, Amgen will pay royalties to BeiGene on sales in China for a specified period. For product sales outside of China, Amgen will also pay BeiGene royalties.
+Novartis
+We are in a collaboration with Novartis to jointly develop and commercialize Aimovig®. In the United States, Amgen and Novartis jointly develop and collaborate on the commercialization of Aimovig®. Amgen, as the principal, recognizes product sales of Aimovig® in the United States, shares U.S. commercialization costs with Novartis and pays Novartis a significant royalty on net sales in the United States. Novartis holds global co-development rights and exclusive commercial rights outside the United States and Japan for Aimovig®. Novartis pays Amgen double-digit royalties on net sales of the product in the Novartis-exclusive territories and funds a portion of global R&D expenses. In addition, Novartis will make a payment to Amgen of up to $100 million if certain commercial and expenditure thresholds are achieved with respect to Aimovig® in the United States. Amgen manufactures and supplies Aimovig® worldwide.
+We are currently involved in litigation with Novartis over our collaboration agreements for the development and commercialization of Aimovig®. See Part IV—Note 19, Contingencies and commitments, to the Consolidated Financial Statements.
+Bayer HealthCare LLC
+We are in a licensing arrangement with Bayer HealthCare LLC (Bayer) for Nexavar®. In February 2020, we amended the terms of our agreement with Bayer, which transferred all of our operational responsibilities outside the United States to Bayer, including commercial and medical affairs activities. Prior to the amendment of the agreement, we shared equally in the profits outside the United States, excluding Japan. In lieu of this profit share, Bayer now pays us a royalty on sales of Nexavar® at a percentage rate in the low 30s. The rights to develop and market Nexavar® in Japan are reserved to Bayer. In the United States, Bayer pays us a royalty on sales of Nexavar® at a percentage rate in the high 30s.
+23
+--------------------------------------------------------------------------------
+
+
+DaVita Inc.
+In January 2017, we entered into a six-year supply agreement with DaVita Inc. (DaVita), which superseded the previously existing, seven-year supply agreement that commenced in 2012. Pursuant to the 2017 agreement, we supply EPOGEN® and Aranesp® in amounts necessary to meet specified annual percentages of DaVita’s and its affiliates’ requirements for erythropoiesis-stimulating agents (ESAs) used in providing dialysis services in the United States and Puerto Rico. Such percentages vary during the term of the agreement, but in each year are at least 90%. The agreement expires in 2022. The agreement may be terminated by either party before expiration of its term in the event of certain breaches of the agreement by the other party.
+For financial information concerning our significant collaborative arrangements, see Part IV—Note 8, Collaborations, to the Consolidated Financial Statements.
+
+
+Human Capital Resources
+Amgen’s approach to human capital resource management starts with our mission to serve patients. Our industry exists in a complex regulatory and reimbursement environment. The unique demands of our industry, together with the challenges of running an enterprise focused on the discovery, development, manufacture and commercialization of innovative medicines, require talent that is highly educated and/or has significant industry experience. Additionally, for certain key functions, we require specific scientific expertise to oversee and conduct R&D activities and the complex manufacturing requirements for biopharmaceutical products.
+As of December 31, 2020, Amgen had approximately 24,300 staff members, and we have had relatively low global turnover rates. We consider our staff relations to be good; supported by our regular staff engagement assessments, with surveys on a wide range of topics (including engagement in the COVID-19 environment, diversity, inclusion and belonging and ethics). We discuss the results of these surveys with our Board of Directors. 
+Compensation, Benefits and Development
+Our approach to employee compensation and benefits is designed to deliver cash, equity and benefit programs that are competitive with those offered by leading companies in the biotechnology and pharmaceutical industries to attract, motivate and retain talent with a focus on encouraging performance, promoting accountability and adherence to Company values and alignment with the interests of the Company’s shareholders.
+Our base pay program aims to compensate staff members relative to the value of the contributions of their role, which takes into account the skills, knowledge and abilities required to perform each position, as well as the experience brought to the job. We also provide annual incentive programs to reward our staff in alignment with achievement of Company-wide goals that are established annually and designed to drive aspects of our strategic priorities that support and advance our strategy across our Company. The majority of our staff members are also eligible for the grant of equity awards under our long-term incentive program that are designed to align the experience of these staff with that of our shareholders. All staff also participate in a regular performance measurement process that aligns pay to performance and through which staff receive performance and development feedback. To support the development of our staff, we provide a variety of programs, including leadership development programs, virtual instructor-led courses and self-paced learning options.
+Our benefit programs are also generally broad-based, promote health and overall well-being and emphasize saving for retirement. All regular U.S. staff members are eligible to participate in the same core health and welfare and retirement savings plans. Other U.S. employee benefits include medical plans, dental plans, access to childcare, employee assistance programs, employee stock purchase plan, flexible spending accounts, life, long-term care and business travel accident insurance, short and long-term disability benefits, wellness benefits and work-life resources and referrals. Comparable programs and benefits are available globally, with the same health and well-being intent, consistent with statutory requirements.
+Our Compensation and Management Development Committee provides oversight of our compensation plans, policies and programs.
+
+
+24
+--------------------------------------------------------------------------------
+
+
+Safety and Wellness and Our Response to COVID-19
+Creating a safe and healthy workplace for our staff is a priority at Amgen. Our goal is to have a world class safety record through safety leadership, risk management practices and integrating safety throughout our business processes. To foster our safety culture, we implement a comprehensive safety program, driving to understand and mitigate the root cause of safety incidents and manage and control variability. We use leading indicators to assess the effectiveness of our safety programs and make course corrections as needed. Additionally, we perform formal executive management review of functional safety performance for Operations, Global Commercial Operations and R&D on a quarterly basis with a focus on identifying early signals and taking action to drive continuous improvement. Based on our 2019 performance, compared to a benchmark of twelve companies in the pharmaceutical industry, Amgen was in the quartile with the lowest injury rate.
+In response to the COVID-19 pandemic and as part of our commitment to work to ensure the safety and well-being of our employees, we have activated our applicable business continuity plans, including having those of our employees who are able to work from home to do so since mid-March 2020. For employees returning to the workplace and the field, we have also taken additional safety measures, including implementing occupancy limits, restricting business travel, providing and requiring the use of personal protective equipment, temperature screening and COVID-19 testing to access our workplaces.
+Our Corporate Responsibility and Compliance Committee provides general oversight of our safety programs and initiatives, while our Board of Directors, as a whole, has overseen our specific responses to the COVID-19 pandemic.
+Diversity, Inclusion and Belonging
+We believe that a diverse and inclusive culture fosters innovation, which supports our ability to serve patients. Further, we also believe our global presence is strengthened by having a workforce that reflects the diversity of the patients we serve. It is with these beliefs in mind that we have continued to strengthen and grow our culture of diversity, inclusion and belonging. Our internal efforts include, in 2019, establishing a Diversity, Inclusion and Belonging Council chaired by our Chief Executive Officer. In 2020, we implemented a global unconscious bias training program, and launched a portal devoted to diversity, inclusion and belonging that includes learning and resources. Further, we are leveraging our Employee Resource Groups (listed below) to represent and support the diversity of Amgen staff: 
+      
+Employee Resource Groups 
+Amgen Asian Association (AAA) Amgen Black Employee Network (ABEN) 
+Ability Bettered through Leadership and Education (ABLE), a resource group for the physically or cognitively disabled 
+Amgen Early Career Professionals (AECP) Amgen Indian Subcontinent Network (AISN) 
+Amgen Latin Employee Network (ALEN) Amgen LGBTQ and Allies Network (PRIDE) 
+Amgen Veterans Employees Network (AVEN) Women Empowered to be Exceptional (WE2) 
+Women in Information Systems Enrichment (WISE) 
+
+In areas of underrepresentation, we develop plans with a goal of bringing our representation in line with availability, and we also engage in outreach efforts to attract, retain and advance more women and minorities in our workforce. For example, we have worked to enhance our diverse candidate recruiting pool by developing relationships with organizations that can serve as a source of diverse candidates, such as the National Black MBA Association and National Sales Network, as well as historically black colleges and universities. Additionally, at the end of 2020, we became a founding member of OneTen, a coalition of 35 of the world’s largest, best-known companies, that aims to hire one million Black Americans (with a specific focus on those without four-year college degrees) into good-paying, family-sustaining jobs over the next ten years. Other examples of actions that we are taking in this area include investment and participation in Healthcare Businesswomen’s Association (a global organization focused on development and business networking for women in healthcare) and the University of California, Los Angeles (UCLA) Anderson School of Management women’s leadership program.
+25
+--------------------------------------------------------------------------------
+
+
+In an effort to provide additional transparency into the makeup of our workforce, we intend to disclose our 2020 Consolidated EEO-1 Report after our submission of the report to the U.S. Equal Employment Opportunity Commission.
+Our Corporate Responsibility and Compliance Committee provides oversight of our policies, programs and initiatives focusing on workforce diversity and inclusion.
+
+
+Information about Our Executive Officers
+The executive officers of the Company as of February 8, 2021, are set forth below. 
+Mr. Robert A. Bradway, age 58, has served as a director of the Company since 2011 and Chairman of the Board of Directors since 2013. Mr. Bradway has been the Company’s President since 2010 and Chief Executive Officer since 2012. From 2010 to 2012, Mr. Bradway served as the Company’s President and Chief Operating Officer. Mr. Bradway joined the Company in 2006 as Vice President, Operations Strategy, and served as Executive Vice President and Chief Financial Officer from 2007 to 2010. Prior to joining the Company, Mr. Bradway was a Managing Director at Morgan Stanley in London, where, beginning in 2001, he had responsibility for the firm’s banking department and corporate finance activities in Europe. Mr. Bradway has been a director of The Boeing Company, an aerospace company and manufacturer of commercial airplanes, defense, space and securities systems, since 2016. He has served on the board of trustees of the University of Southern California since 2014. From 2011 to 2017, Mr. Bradway was a director of Norfolk Southern Corporation, a transportation company.
+Mr. Murdo Gordon, age 54, became Executive Vice President, Global Commercial Operations, in 2018. Prior to joining the Company, Mr. Gordon was Chief Commercial Officer at BMS from 2016 to 2018. Mr. Gordon served as Head of Worldwide Markets at BMS from 2015 to 2016. Prior to this, Mr. Gordon served in a variety of leadership roles at BMS for more than 25 years.
+Mr. Jonathan P. Graham, age 60, became Executive Vice President, General Counsel and Secretary in 2019. Mr. Graham joined the Company in 2015. From 2015 to 2019, Mr. Graham was Senior Vice President, General Counsel and Secretary. Prior to joining Amgen, from 2006 to 2015, Mr. Graham was Senior Vice President and General Counsel at Danaher Corporation. From 2004 to 2006, Mr. Graham was Vice President, Litigation and Legal Policy, at General Electric Company (GE). Prior to GE, Mr. Graham was a partner at Williams & Connolly LLP.
+Mr. Peter H. Griffith, age 62, became Executive Vice President and Chief Financial Officer in 2020. Mr. Griffith joined the Company in 2019 as Executive Vice President, Finance. Prior to joining Amgen, Mr. Griffith was President of Sherwood Canyon Group, LLC. From 1997 to 2019, Mr. Griffith was a partner at EY and served in a variety of senior leadership roles, with his last position being Global Vice Chair, Corporate Development. Prior to EY, Mr. Griffith was a Managing Director and head of the investment banking division of Wedbush Securities Inc.
+Ms. Nancy A. Grygiel, age 53, became Senior Vice President and Chief Compliance Officer in 2020. Ms. Grygiel joined the Company in 2015. From 2016 to 2020, Ms. Grygiel was Vice President, Compliance. Prior to joining Amgen, from 2011 to 2015, Ms. Grygiel served as Vice President, Compliance, Corporate & International, at Allergan, Inc. (Allergan). Prior to Allergan, Ms. Grygiel held several management positions at Mylan Pharmaceuticals, Inc.
+Ms. Lori A. Johnston, age 56, became Executive Vice President, Human Resources, in 2019. From 2016 to 2019, Ms. Johnston served as the Company’s Senior Vice President, Human Resources. From 2012 to 2016, Ms. Johnston was Executive Vice President and Chief Administrative Officer of Celanese Corporation (Celanese). Prior to Celanese, Ms. Johnston served in a series of progressive leadership roles at Amgen from 2001 to 2012, with her last position being Vice President, Human Resources. Prior to joining the Company, Ms. Johnston held human resources and other positions at Dell Inc.
+Mr. David A. Piacquad, age 64, became Senior Vice President, Business Development, in 2014. Mr. Piacquad joined the Company in 2010 and served as Vice President, Strategy and Corporate Development, until his appointment to the role of Vice President, Business Development, in 2014. Prior to joining the Company, from 2009 to 2010, Mr. Piacquad was Principal of David A. Piacquad Consulting LLC. From 2006 to 2009, Mr. Piacquad served as Senior Vice President, Business Development and Licensing, at Schering-Plough Corporation (Schering-Plough). Prior to Schering-Plough, Mr. Piacquad served in a series of leadership roles in finance and business development at J&J, with his last position being Vice President, Ventures and Business Development.
+26
+--------------------------------------------------------------------------------
+
+
+Dr. David M. Reese, age 58, became Executive Vice President, R&D, in 2018. Dr. Reese joined the Company in 2005 and has held leadership roles in development, medical sciences and discovery research. Dr. Reese was Senior Vice President, Translational Sciences and Oncology, from 2017 to 2018 and Senior Vice President, Translational Sciences, from 2015 to 2017. Prior to joining Amgen, Dr. Reese was director of Clinical Research at the Breast Cancer International Research Group from 2001 to 2003 and a cofounder, president and chief medical officer of Translational Oncology Research International, a not-for-profit academic clinical research organization, from 2003 to 2005. Dr. Reese previously served on the faculty at UCLA and the University of California, San Francisco.
+Mr. Esteban Santos, age 53, became Executive Vice President, Operations, in 2016. Mr. Santos joined the Company in 2007 as Executive Director, Manufacturing Technologies. From 2008 to 2013, Mr. Santos held a number of Vice President roles at the Company in engineering, manufacturing, site operations and drug product. From 2013 to 2016, Mr. Santos was Senior Vice President, Manufacturing. Prior to joining the Company, Mr. Santos served as Site General Manager of J&J’s Cordis operation in Puerto Rico. Prior to J&J, Mr. Santos held several management positions in GE’s industrial and transportation businesses.
+
+
+Geographic Area Financial Information
+For financial information concerning the geographic areas in which we operate, see Part IV—Note 3, Revenues and Note 11, Property, plant and equipment, to the Consolidated Financial Statements.
+
+
+Investor Information
+Financial and other information about us is available on our website at www.amgen.com. We make available on our website, free of charge, copies of our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after we electronically file such material with or furnish it to the U.S. Securities and Exchange Commission (SEC). In addition, we have previously filed registration statements and other documents with the SEC. Any document we file may be inspected without charge at the SEC’s website at www.sec.gov. (These website addresses are not intended to function as hyperlinks, and the information contained in our website and in the SEC’s website is not intended to be a part of this filing.)
