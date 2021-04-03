@@ -1,0 +1,608 @@
+CORPORATE STRUCTURE
+
+Phillips 66, headquartered in Houston, Texas, was incorporated in Delaware in 2011 in connection with, and in anticipation of, a restructuring of ConocoPhillips that separated its downstream businesses into an independent, publicly traded company named Phillips 66. The two companies were separated by ConocoPhillips distributing to its stockholders all the shares of common stock of Phillips 66 after the market closed on April 30, 2012 (the separation). Phillips 66 stock trades on the New York Stock Exchange under the “PSX” stock symbol.
+
+Our business is organized into four operating segments:
+
+1)Midstream—Provides crude oil and refined petroleum product transportation, terminaling and processing services, as well as natural gas and natural gas liquids (NGL) transportation, storage, fractionation, processing and marketing services, mainly in the United States. This segment includes our master limited partnership (MLP), Phillips 66 Partners LP (Phillips 66 Partners), as well as our 50% equity investment in DCP Midstream, LLC (DCP Midstream).
+
+2)Chemicals—Consists of our 50% equity investment in Chevron Phillips Chemical Company LLC (CPChem), which manufactures and markets petrochemicals and plastics on a worldwide basis.
+
+3)Refining—Refines crude oil and other feedstocks into petroleum products, such as gasoline, distillates and aviation fuels, at 13 refineries in the United States and Europe.
+
+4)Marketing and Specialties (M&S)—Purchases for resale and markets refined petroleum products, mainly in the United States and Europe. In addition, this segment includes the manufacturing and marketing of specialty products, such as base oils and lubricants.
+
+Corporate and Other includes general corporate overhead, interest expense, our investment in new technologies and various other corporate activities. Corporate assets include all cash, cash equivalents and income tax-related assets.
+
+
+1
+Table of Contents
+Index to Financial Statements
+SEGMENT AND GEOGRAPHIC INFORMATION
+
+
+MIDSTREAM
+
+The Midstream segment consists of three business lines:
+
+•Transportation—Transports crude oil and other feedstocks to our refineries and other locations, delivers refined petroleum products to market, and provides terminaling and storage services for crude oil and refined petroleum products.
+
+•NGL and Other—Transports, stores, fractionates, exports and markets NGL and provides other fee-based processing services.
+
+•DCP Midstream—Gathers, processes, transports and markets natural gas and transports, fractionates and markets NGL.
+
+Phillips 66 Partners
+Phillips 66 Partners, headquartered in Houston, Texas, is a publicly traded MLP formed in 2013 to own, operate, develop and acquire primarily fee-based midstream assets. At December 31, 2020, we owned 170 million Phillips 66 Partners common units, representing a 74% limited partner interest in Phillips 66 Partners, while the public owned a 26% limited partner interest and 13.8 million perpetual convertible preferred units. We also own a noneconomic general partner interest.
+
+Phillips 66 Partners’ operations consist of crude oil, refined petroleum product and NGL transportation, terminaling, fractionation, processing and storage assets that are geographically dispersed throughout the United States. The majority of Phillips 66 Partners’ assets are associated with, and integral to, Phillips 66 operated refineries.
+
+The results of operations of Phillips 66 Partners are included in Midstream’s Transportation and NGL and Other business lines, based on the nature of the activity within the partnership.
+
+Transportation
+
+We own or lease various assets to provide transportation, terminaling and storage services. These assets include crude oil, refined petroleum product, NGL, and natural gas pipeline systems; crude oil, refined petroleum product and NGL terminals; a petroleum coke handling facility; marine vessels; railcars and trucks.
+
+Pipelines and Terminals
+At December 31, 2020, our Transportation business was comprised of over 22,000 miles of crude oil, refined petroleum product, NGL and natural gas pipeline systems in the United States, including those partially owned or operated by our affiliates. We owned or operated 39 refined petroleum product terminals, 20 crude oil terminals, 5 NGL terminals, a petroleum coke exporting facility and various other storage and loading facilities.
+
+The Beaumont Terminal in Nederland, Texas, is the largest terminal in the Phillips 66 portfolio. In the fourth quarter of 2020, we completed construction of a new 200,000 barrels per day (BPD) dock at the Beaumont Terminal, bringing the terminal’s total dock capacity to 800,000 BPD. At December 31, 2020, the terminal had total crude oil and refined petroleum product storage capacity of 16.8 million barrels.
+
+The Gray Oak Pipeline transports up to 900,000 BPD of crude oil from the Permian and Eagle Ford to Texas Gulf Coast destinations that include Corpus Christi, Texas, and the Sweeny area, including our Sweeny Refinery. The pipeline made its first commercial delivery in November 2019 and commenced full operations in the second quarter of 2020. Phillips 66 Partners has a 42.25% effective ownership interest in the pipeline.
+
+2
+Table of Contents
+Index to Financial Statements
+Phillips 66 Partners owns a 25% interest in the South Texas Gateway Terminal, which connects to the Gray Oak Pipeline in Corpus Christi, Texas. The first dock of the marine export terminal began crude oil export operations in July 2020. The second dock commenced crude oil export operations in the fourth quarter of 2020. Upon completion in the first quarter of 2021, the marine export terminal will have storage capacity of 8.6 million barrels and up to 800,000 BPD of dock throughput capacity.
+
+Phillips 66 Partners continued construction of a 16 inch ethane pipeline (C2G Pipeline) that will connect its Clemens Caverns storage facility to petrochemical facilities in Gregory, Texas. The project is backed by long-term commitments and is expected to be completed in mid-2021.
+
+The Liberty Pipeline joint venture was formed to transport crude oil from the Rockies and Bakken production areas to Cushing, Oklahoma. Phillips 66 Partners holds a 50% interest in the joint venture. In March 2020, Phillips 66 Partners deferred the Liberty Pipeline system project due to the challenging business environment.
+
+In the third quarter of 2020, the project to develop and construct the Red Oak Pipeline system was canceled. We hold a 50% interest in the joint venture that was pursuing this project.
+
+The Dakota Access Pipeline is currently subject to litigation that could affect operations. See the “Dakota Access, LLC (Dakota Access) and Energy Transfer Crude Oil Company, LLC (ETCO)” section of Note 6—Investments, Loans and Long-Term Receivables, in the Notes to Consolidated Financial Statements, for additional information on this litigation.
+3
+Table of Contents
+Index to Financial Statements
+The following table depicts our ownership interest in major pipeline systems at December 31, 2020:
+																										
+Name		State of
+Origination/Terminus		Interest		Length
+(Miles)		Gross Capacity
+(MBD)
+Crude Oil								
+Bakken Pipeline †		North Dakota/Texas		25 	%		1,918 			570 	
+Bayou Bridge †		Texas/Louisiana		40 			213 			480 	
+Clifton Ridge †		Louisiana		100 			10 			260 	
+CushPo †		Oklahoma		100 			62 			130 	
+Eagle Ford Gathering †		Texas		100 			28 			54 	
+Glacier †		Montana		79 			825 			124 	
+Gray Oak Pipeline* †		Texas		42 			845 			900 	
+Line 100		California		100 			79 			61 	
+Line 200		California		100 			228 			100 	
+Line 300		California		100 			61 			34 	
+Line 400		California		100 			153 			46 	
+Line O †		Oklahoma/Texas		100 			276 			38 	
+New Mexico Crude †		New Mexico/Texas		100 			227 			106 	
+North Texas Crude †		Texas		100 			224 			34 	
+Oklahoma Crude †		Texas/Oklahoma		100 			217 			100 	
+Sacagawea †		North Dakota		50 			95 			183 	
+STACK PL †		Oklahoma		50 			149 			250 	
+Sweeny Crude		Texas		100 			56 			617 	
+West Texas Crude †		Texas		100 			1,079 			140 	
+Refined Petroleum Products								
+ATA Line †		Texas/New Mexico		50 			293 			34 	
+Borger to Amarillo †		Texas		100 			93 			74 	
+Borger-Denver		Texas		100 			38 			39 	
+Borger-Denver		Texas/Colorado		65 			207 			39 	
+Borger-Denver		Colorado		70 			152 			39 	
+Cherokee East †		Oklahoma/Missouri		100 			287 			59 	
+Cherokee North †		Oklahoma/Kansas		100 			29 			55 	
+Cherokee South †		Oklahoma		100 			98 			47 	
+Cross Channel Connector †		Texas		100 			5 			184 	
+Explorer †		Texas/Indiana		22 			1,830 			660 	
+Gold Line †		Texas/Illinois		100 			686 			120 	
+Heartland**		Kansas/Iowa		50 			49 			30 	
+LAX Jet Line		California		50 			19 			25 	
+Los Angeles Products		California		100 			22 			132 	
+Paola Products †		Kansas		100 			106 			120 	
+Pioneer		Wyoming/Utah		50 			562 			63 	
+Richmond		California		100 			14 			31 	
+SAAL †		Texas		33 			102 			32 	
+SAAL †		Texas		54 			19 			30 	
+Seminoe †		Montana/Wyoming		100 			342 			44 	
+Standish †		Oklahoma/Kansas		100 			92 			77 	
+Sweeny to Pasadena †		Texas		100 			120 			335 	
+Torrance Products		California		100 			8 			279 	
+Watson Products		California		100 			9 			238 	
+Yellowstone		Montana/Washington		46 			710 			68 	
+
+
+
+4
+Table of Contents
+Index to Financial Statements
+																										
+Name		State of
+Origination/Terminus		Interest		Length
+(Miles)		Gross Capacity
+(MBD)
+NGL								
+Blue Line		Texas/Illinois		100 	%		688 			26 	
+Brown Line †		Oklahoma/Kansas		100 			76 			26 	
+Chisholm		Oklahoma/Kansas		50 			202 			42 	
+Conway to Wichita		Kansas		100 			55 			26 	
+Medford †		Oklahoma		100 			42 			25 	
+Powder River		Wyoming/Texas		100 			716 			16 	
+River Parish NGL †		Louisiana		100 			499 			104 	
+Sand Hills †		New Mexico/Texas		33 			1,400 			500 	
+Skelly-Belvieu		Texas		50 			571 			47 	
+Southern Hills †		Kansas/Texas		33 			981 			192 	
+Sweeny LPG		Texas		100 			260 			942 	
+Sweeny NGL		Texas		100 			18 			204 	
+TX Panhandle Y1/Y2		Texas		100 			289 			78 	
+Natural Gas								
+Rockies Express***								
+East to West		Ohio/Illinois		25 			661 			2.6 Bcf/d
+West to East		Colorado/Ohio		25 			1,712 			1.8 Bcf/d
+Sacagawea Gas †		North Dakota		50 			24 			0.18 Bcf/d
+† Owned by Phillips 66 Partners; Phillips 66 held 74% of the limited partner interest in Phillips 66 Partners at December 31, 2020.
+* Interest reflects Phillips 66 Partners’ proportionate share of the Gray Oak Pipeline, net of a noncontrolling interest.
+** Total pipeline system is 419 miles. Phillips 66 has an ownership interest in multiple segments totaling 49 miles.
+*** Total pipeline system consists of three zones for a total of 1,712 miles. The third zone of the pipeline is bidirectional and can transport 2.6 Bcf/d of natural gas from east to west.
+
+
+5
+Table of Contents
+Index to Financial Statements
+The following table depicts our ownership interest in terminal and storage facilities at December 31, 2020:
+																																
+Facility Name		Location		Commodity Handled		Interest		Gross Storage Capacity (MBbl)		Gross Rack Capacity (MBD)
+Albuquerque †		New Mexico		Refined Petroleum Products		100 	%		274 			20 	
+Amarillo †		Texas		Refined Petroleum Products		100 			296 			23 	
+Beaumont		Texas		Crude Oil, Refined Petroleum Products		100 			16,800 			8 	
+Billings		Montana		Refined Petroleum Products		100 			88 			12 	
+Billings Crude †		Montana		Crude Oil		100 			236 			 N/A
+Borger		Texas		Crude Oil		50 			772 			 N/A
+Bozeman		Montana		Refined Petroleum Products		100 			90 			5 	
+Buffalo Crude †		Montana		Crude Oil		100 			303 			 N/A
+Casper †		Wyoming		Refined Petroleum Products		100 			365 			7 	
+Clemens †		Texas		NGL		100 			16,500 			 N/A
+Clifton Ridge †		Louisiana		Crude Oil		100 			3,800 			 N/A
+Coalinga		California		Crude Oil		100 			817 			 N/A
+Colton		California		Refined Petroleum Products		100 			207 			20 	
+Cushing †		Oklahoma		Crude Oil		100 			675 			 N/A
+Cut Bank †		Montana		Crude Oil		100 			315 			 N/A
+Denver		Colorado		Refined Petroleum Products		100 			441 			43 	
+Des Moines		Iowa		Refined Petroleum Products		50 			217 			12 	
+East St. Louis †		Illinois		Refined Petroleum Products		100 			1,529 			55 	
+Freeport		Texas		Crude Oil, Refined Petroleum Products, NGL		100 			3,485 			 N/A
+Glenpool †		Oklahoma		Refined Petroleum Products		100 			571 			18 	
+Great Falls		Montana		Refined Petroleum Products		100 			198 			6 	
+Hartford †		Illinois		Refined Petroleum Products		100 			1,468 			21 	
+Helena		Montana		Refined Petroleum Products		100 			195 			5 	
+Jefferson City †		Missouri		Refined Petroleum Products		100 			103 			15 	
+Jones Creek		Texas		Crude Oil		100 			2,580 			 N/A
+Junction		California		Crude Oil, Refined Petroleum Products		100 			524 			 N/A
+Kansas City †		Kansas		Refined Petroleum Products		100 			1,410 			50 	
+Keene †		North Dakota		Crude Oil		50 			503 			 N/A
+La Junta		Colorado		Refined Petroleum Products		100 			109 			5 	
+Lake Charles Pipeline Storage		Louisiana		Refined Petroleum Products		50 			3,143 			 N/A
+Lincoln		Nebraska		Refined Petroleum Products		100 			217 			12 	
+Linden †		New Jersey		Refined Petroleum Products		100 			360 			95 	
+Los Angeles		California		Refined Petroleum Products		100 			156 			80 	
+Lubbock †		Texas		Refined Petroleum Products		100 			182 			18 	
+Medford Spheres †		Oklahoma		NGL		100 			70 			 N/A
+Missoula		Montana		Refined Petroleum Products		50 			365 			14 	
+Moses Lake		Washington		Refined Petroleum Products		50 			216 			10 	
+Mount Vernon †		Missouri		Refined Petroleum Products		100 			365 			40 	
+North Salt Lake		Utah		Refined Petroleum Products		50 			755 			34 	
+North Spokane		Washington		Refined Petroleum Products		100 			492 			 N/A
+Odessa †		Texas		Crude Oil		100 			521 			 N/A
+Oklahoma City †		Oklahoma		Crude Oil, Refined Petroleum Products		100 			355 			42 	
+6
+Table of Contents
+Index to Financial Statements
+																																
+Facility Name		Location		Commodity Handled		Interest		Gross Storage Capacity (MBbl)		Gross Rack Capacity (MBD)
+Palermo †		North Dakota		Crude Oil		70 	%		235 			 N/A
+Paola †		Kansas		Refined Petroleum Products		100 			978 			 N/A
+Pasadena †		Texas		Refined Petroleum Products, NGL		100 			3,558 			65 	
+Pecan Grove †		Louisiana		Lubricant Base Stocks, Refined Petroleum Products		100 			177 			 N/A
+Ponca City †		Oklahoma		Refined Petroleum Products		100 			71 			22 	
+Ponca City Crude †		Oklahoma		Crude Oil		100 			1,229 			 N/A
+Portland		Oregon		Refined Petroleum Products		100 			650 			38 	
+Renton		Washington		Refined Petroleum Products		100 			243 			19 	
+Richmond		California		Refined Petroleum Products		100 			343 			28 	
+River Parish †		Louisiana		NGL		100 			1,500 			 N/A
+Rock Springs		Wyoming		Refined Petroleum Products		100 			132 			8 	
+Sacramento		California		Refined Petroleum Products		100 			146 			12 	
+San Bernard		Texas		Refined Petroleum Products		100 			222 			 N/A
+Santa Margarita		California		Crude Oil		100 			398 			 N/A
+Sheridan †		Wyoming		Refined Petroleum Products		100 			94 			6 	
+South Texas Gateway †		Texas		Crude Oil		25 			7,700 			N/A
+Spokane		Washington		Refined Petroleum Products		100 			351 			20 	
+Tacoma		Washington		Refined Petroleum Products		100 			316 			19 	
+Torrance		California		Crude Oil, Refined Petroleum Products		100 			2,128 			 N/A
+Tremley Point †		New Jersey		Refined Petroleum Products		100 			1,701 			25 	
+Westlake		Louisiana		Refined Petroleum Products		100 			128 			10 	
+Wichita Falls †		Texas		Crude Oil		100 			225 			 N/A
+Wichita North †		Kansas		Refined Petroleum Products		100 			769 			20 	
+Wichita South †		Kansas		Refined Petroleum Products		100 			272 			 N/A
+† Owned by Phillips 66 Partners; Phillips 66 held 74% of the limited partner interest in Phillips 66 Partners at December 31, 2020.
+7
+Table of Contents
+Index to Financial Statements
+The following table depicts our ownership interest in marine, rail and petroleum coke loading and offloading facilities at December 31, 2020:
+																										
+Facility Name		Location		Commodity Handled		Interest		 Gross Loading Capacity*
+Marine								
+Beaumont		Texas		Crude Oil, Refined Petroleum Products		100 	%		75 	
+Clifton Ridge †		Louisiana		Crude Oil, Refined Petroleum Products		100 			50 	
+Freeport		Texas		Crude Oil, Refined Petroleum Products, NGL		100 			46 	
+Hartford †		Illinois		Refined Petroleum Products		100 			3 	
+Pecan Grove †		Louisiana		Lubricant Base Stocks, Refined Petroleum Products		100 			6 	
+Portland		Oregon		Crude Oil		100 			10 	
+Richmond		California		Crude Oil		100 			3 	
+San Bernard		Texas		Refined Petroleum Products		100 			2 	
+South Texas Gateway †		Texas		Crude Oil		25 			33 	
+Tacoma		Washington		Crude Oil		100 			12 	
+Tremley Point †		New Jersey		Refined Petroleum Products		100 			7 	
+Rail 								
+Bayway †		New Jersey 		Crude Oil		100 			75 	
+Beaumont		Texas 		Crude Oil		100 			20 	
+Ferndale †		Washington 		Crude Oil		100 			30 	
+Missoula		Montana		Refined Petroleum Products		50 			41 	
+Palermo †		North Dakota		Crude Oil		70 			100 	
+Thompson Falls		Montana 		Refined Petroleum Products		50 			41 	
+Petroleum Coke								
+Lake Charles		Louisiana		Petroleum Coke		50 			N/A
+† Owned by Phillips 66 Partners; Phillips 66 held 74% of the limited partner interest in Phillips 66 Partners at December 31, 2020.
+* Marine facilities in thousands of barrels per hour; Rail in thousands of barrels daily (MBD).
+8
+Table of Contents
+Index to Financial Statements
+Marine Vessels
+At December 31, 2020, we had 12 international-flagged crude oil, refined petroleum product and NGL tankers under time charter contracts, with capacities ranging in size from 300,000 to 2,200,000 barrels.  Additionally, we had a variety of inland and offshore tug/barge units.  These vessels are used primarily to transport crude oil and other feedstocks, as well as refined petroleum products for our refineries.  In addition, the NGL tankers are used to export propane and butane from our fractionation, transportation and storage infrastructure.
+
+Truck and Rail
+Our truck and rail fleets support our feedstock and distribution operations. Rail movements are provided via a fleet of approximately 9,700 owned and leased railcars. Truck movements are provided through our wholly owned subsidiary, Sentinel Transportation LLC, and through numerous third-party trucking companies.
+
+NGL and Other
+
+Our NGL and Other business includes the following:
+
+•The Sweeny Hub, a U.S. Gulf Coast NGL market hub with 400,000 BPD of total fractionation capacity, a liquefied petroleum gas (LPG) export terminal and NGL storage caverns.
+
+•A 22.5% interest in Gulf Coast Fractionators, which owns an NGL fractionation plant in Mont Belvieu, Texas. Our net share of its capacity is 32,625 BPD. In December 2020, we began the process to idle this facility and transfer operatorship to a co-venturer.
+
+•A 12.5% undivided interest in a fractionation plant in Mont Belvieu, Texas. Our net share of its capacity is 30,250 BPD.
+
+•A 40% undivided interest in a fractionation plant in Conway, Kansas. Our net share of its capacity is 43,200 BPD.
+
+•Phillips 66 Partners owns the River Parish NGL logistics system in southeast Louisiana, comprising approximately 500 miles of pipeline and a storage cavern connecting multiple fractionation facilities, refineries and a petrochemical facility.
+
+•Phillips 66 Partners owns a direct one-third interest in both the DCP Sand Hills Pipeline, LLC (Sand Hills) and DCP Southern Hills Pipeline, LLC (Southern Hills), which own NGL pipeline systems that connect the Eagle Ford, Permian Basin and Midcontinent production areas to the Mont Belvieu, Texas, market hub.
+
+•Phillips 66 Partners owns a vacuum distillation unit with a capacity of 125,000 BPD and a delayed coker unit with a capacity of 70,000 BPD located at our Sweeny Refinery in Old Ocean, Texas.
+
+•Phillips 66 Partners owns a 25,000 BPD isomerization unit at our Lake Charles Refinery. The isomerization unit increases Phillips 66’s production of higher-octane gasoline blend components.
+
+The Sweeny Hub fractionators are located adjacent to our Sweeny Refinery in Old Ocean, Texas, and supply purity ethane to the petrochemical industry and purity NGL to domestic and global markets. Raw NGL supply to the fractionators is delivered from nearby major pipelines, including the Sand Hills Pipeline. The fractionators are supported by significant infrastructure including connectivity to two NGL supply pipelines, a pipeline connecting to the Mont Belvieu market hub and the Clemens Caverns storage facility with access to our LPG export terminal in Freeport, Texas.
+
+9
+Table of Contents
+Index to Financial Statements
+During 2020, Phillips 66 completed two new 150,000 BPD fractionators at the Sweeny Hub, bringing the site’s total fractionation capacity to 400,000 BPD. Frac 2 and Frac 3 commenced commercial operations in September 2020 and October 2020, respectively. The fractionators are supported by long-term customer commitments. The construction and development of Frac 4, a new 150,000 BPD fractionator at the Sweeny Hub, is expected to resume in the second half of 2021, after a temporary deferral announced in March 2020.
+
+During the second quarter of 2020, Phillips 66 Partners completed the expansion of storage capacity at Clemens Caverns from 9 million barrels to 16.5 million barrels.
+
+The Freeport LPG Export Terminal leverages our fractionation, transportation and storage infrastructure to supply petrochemical, heating and transportation markets globally. The terminal can simultaneously load two ships with refrigerated propane and butane at a combined rate of approximately 36,000 barrels per hour. In addition, the terminal has the capability to export natural gasoline (C5+) produced by the Sweeny Hub fractionators.
+
+DCP Midstream
+
+Our Midstream segment includes our 50% equity investment in DCP Midstream, which is headquartered in Denver, Colorado. At December 31, 2020, DCP Midstream, through its subsidiary DCP Midstream, LP (DCP Partners), owned or operated 39 active natural gas processing facilities, with a net processing capacity of approximately 6.0 billion cubic feet per day (Bcf/d), and approximately 57,000 miles of natural gas and NGL pipelines. DCP Midstream’s owned or operated natural gas pipeline systems included gathering services for these facilities and natural gas transmission. DCP Midstream also owned or operated 9 NGL fractionation plants, along with natural gas and NGL storage facilities and NGL pipelines.
+
+The residual natural gas, primarily methane, which results from processing raw natural gas, is sold by DCP Midstream at market-based prices to marketers and end users, including large industrial companies, natural gas distribution companies and electric utilities. DCP Midstream purchases or takes custody of substantially all of its raw natural gas from producers, principally under contractual arrangements that expose DCP Midstream to the prices of NGL, natural gas and condensate. DCP Midstream also has fee-based arrangements with producers to provide midstream services such as gathering and processing. In addition, DCP Midstream markets a portion of its NGL to us and our equity affiliates under existing contracts.
+
+During 2020, DCP Midstream completed the following growth projects:
+
+•The Cheyenne Connector was placed into service in the second quarter of 2020, adding 600 million cubic feet per day (MMcf/d) of residue gas takeaway and easing logistics constraints in the DJ Basin.
+
+•The Front Range pipeline was expanded to a capacity of 260,000 BPD and the Texas Express pipeline was expanded to a capacity of 370,000 BPD in the second quarter of 2020.
+
+•The Latham 2 offload was placed into service in the fourth quarter of 2020, adding up to 225 MMcf/d of incremental DJ Basin processing capacity.
+
+
+
+10
+Table of Contents
+Index to Financial Statements
+CHEMICALS
+
+The Chemicals segment consists of our 50% equity investment in CPChem, which is headquartered in The Woodlands, Texas. At December 31, 2020, CPChem owned or had joint venture interests in 28 manufacturing facilities located in Belgium, Colombia, Qatar, Saudi Arabia, Singapore and the United States. Additionally, CPChem has two research and development centers in the United States.
+
+We structure our reporting of CPChem’s operations around two primary business lines: Olefins and Polyolefins (O&P) and Specialties, Aromatics and Styrenics (SA&S). The O&P business line produces and markets ethylene and other olefin products. The ethylene produced is primarily used by CPChem to produce polyethylene, normal alpha olefins (NAO) and polyethylene pipe. The SA&S business line manufactures and markets aromatics and styrenics products, such as benzene, cyclohexane, styrene and polystyrene. SA&S also manufactures and/or markets a variety of specialty chemical products including organosulfur chemicals, solvents, catalysts, and chemicals used in drilling and mining.
+
+The manufacturing of petrochemicals and plastics involves the conversion of hydrocarbon-based raw material feedstocks into higher-value products, often through a thermal process referred to in the industry as “cracking.” For example, ethylene can be produced by cracking ethane, propane, butane, natural gasoline or certain refinery liquids, such as naphtha and gas oil. Ethylene primarily is used as a raw material in the production of plastics, such as polyethylene and polyvinyl chloride (PVC). Plastic resins, such as polyethylene, are manufactured in a thermal/catalyst process, and the produced output is used as a further raw material for various applications, such as packaging and plastic pipe.
+
+The following table reflects CPChem’s petrochemicals and plastics product capacities at December 31, 2020:
+ 
+											
+ 	Millions of Pounds per Year*
+ 	U.S.		Worldwide
+O&P			
+Ethylene	11,910 			14,385 	
+Propylene	2,675 			3,180 	
+High-density polyethylene	5,305 			7,470 	
+Low-density polyethylene	620 			620 	
+Linear low-density polyethylene	1,590 			1,590 	
+Polypropylene	— 			310 	
+Normal alpha olefins	2,335 			2,850 	
+Polyalphaolefins	125 			255 	
+Polyethylene pipe	500 			500 	
+Total O&P	25,060 			31,160 	
+			
+SA&S			
+Benzene	1,600 			2,530 	
+Cyclohexane	1,060 			1,455 	
+Styrene	1,050 			1,875 	
+Polystyrene	835 			915 	
+Specialty chemicals	440 			575 	
+Total SA&S	4,985 			7,350 	
+Total O&P and SA&S	30,045 			38,510 	
+* Capacities include CPChem’s share in equity affiliates and excludes CPChem’s NGL fractionation capacity.
+
+
+
+11
+Table of Contents
+Index to Financial Statements
+CPChem and a co-venturer are jointly pursuing the development of petrochemical facilities on the U.S. Gulf Coast and in Ras Laffan, Qatar. CPChem is monitoring economic developments and has deferred final investment decision for the U.S. Gulf Coast project until 2022.
+
+In October 2020, CPChem announced its first U.S. commercial-scale production of circular polyethylene from recycled mixed-waste plastics at its Cedar Bayou facility and received International Sustainability and Carbon Certification PLUS (ISCC PLUS) certification for this location in November 2020. CPChem is using advanced recycling technology to convert plastic waste to liquids that can become new petrochemicals. CPChem’s circular polyethylene matches the performance and safety specifications of traditional polymers.
+
+
+
+12
+Table of Contents
+Index to Financial Statements
+REFINING
+
+Our Refining segment refines crude oil and other feedstocks into petroleum products, such as gasoline, distillates and aviation fuels, at 13 refineries in the United States and Europe. 
+
+The table below depicts information for each of our owned and joint venture refineries at December 31, 2020:
+																																									
+ 		 		 		Thousands of Barrels Daily		 
+Region/Refinery		Location		Interest		Net Crude Throughput
+Capacity		Net Clean Product
+Capacity**		Clean
+Product
+Yield
+Capability
+At
+December 31 2020	Effective January 1 2021		Gasolines		Distillates	
+Atlantic Basin/Europe													
+Bayway		Linden, NJ		100 	%		258 		258 			155 			130 			92 	%
+Humber		N. Lincolnshire, United Kingdom		100 			221 		221 			95 			115 			81 	
+MiRO*		Karlsruhe, Germany 		19 			58 		58 			25 			25 			87 	
+						537 		537 							
+													
+Gulf Coast													
+Alliance		Belle Chasse, LA		100 			255 		255 			130 			120 			87 	
+Lake Charles		Westlake, LA		100 			249 		264 			105 			115 			70 	
+Sweeny		Old Ocean, TX		100 			265 		265 			140 			125 			86 	
+						769 		784 							
+													
+Central Corridor													
+Wood River		Roxana, IL		50 			173 		173 			88 			70 			81 	
+Borger		Borger, TX		50 			75 		75 			50 			35 			91 	
+Ponca City		Ponca City, OK		100 			217 		217 			120 			100 			93 	
+Billings		Billings, MT		100 			65 		66 			36 			30 			90 	
+						530 		531 							
+													
+West Coast													
+Ferndale		Ferndale, WA		100 			105 		105 			65 			37 			81 	
+Los Angeles		Carson/Wilmington, CA		100 			139 		139 			85 			65 			90 	
+San Francisco		Arroyo Grande/Rodeo, CA		100 			120 		120 			60 			65 			85 	
+						364 		364 							
+						2,200 		2,216 							
+* Mineraloelraffinerie Oberrhein GmbH.
+** Clean product capacities are maximum rates for each clean product category, independent of each other. They are not additive when calculating the clean product yield capability for each refinery.
+
+13
+Table of Contents
+Index to Financial Statements
+Primary crude oil characteristics and sources of crude oil for our owned and joint venture refineries are as follows:
+ 
+																																
+ 	Characteristics		Sources
+ 	Sweet	Medium
+Sour	Heavy
+Sour	
+High
+TAN*
+		United
+States	Canada	South and Central
+America	
+Europe**
+	Middle East
+& Africa
+Bayway	l	l	 			l	l	 		l
+Humber	l		l	l		l			l	l
+MiRO	l	l	l			l			l	l
+Alliance	l	l	 	 		l	 	 	 	
+Lake Charles	l	l	l	l		l	l	l	l	l
+Sweeny	l	l	l	l		l	l	l	 	
+Wood River	l		l	l		l	l	 	 	
+Borger	l	l	l	 		l	l	 	 	 
+Ponca City	l	l	l	 		l	l		 	 
+Billings	 	l	l	l		l	l	 	 	 
+Ferndale	l	l	 	 		l	l	 	 	l
+Los Angeles	 	l	l	l		l	l	l	 	l
+San Francisco	l	l	l	l		l	l	l	l	l
+* High TAN (Total Acid Number): acid content greater than or equal to 1.0 milligram of potassium hydroxide (KOH) per gram.
+** Includes Russian crude.
+
+
+Atlantic Basin/Europe Region
+
+Bayway Refinery
+The Bayway Refinery is located on the New York Harbor in Linden, New Jersey. Bayway’s facilities include crude distilling, naphtha reforming, fluid catalytic cracking, solvent deasphalting, hydrodesulfurization and alkylation units. The complex also includes a polypropylene plant with the capacity to produce up to 775 million pounds per year. The refinery produces a high percentage of transportation fuels, as well as petrochemical feedstocks, residual fuel oil and home heating oil. Refined petroleum products are distributed to East Coast customers by pipeline, barge, railcar and truck.
+
+Humber Refinery
+The Humber Refinery is located on the east coast of England in North Lincolnshire, United Kingdom, approximately 180 miles north of London. Humber’s facilities include crude distilling, naphtha reforming, fluid catalytic cracking, hydrodesulfurization, thermal cracking and delayed coking units. The refinery has two coking units with associated calcining plants. Humber is the only coking refinery in the United Kingdom, and a producer of high-quality specialty graphite and anode-grade petroleum cokes. The refinery also produces a high percentage of transportation fuels. The majority of the light oils produced by the refinery are distributed to customers in the United Kingdom by pipeline, railcar and truck, while the other refined petroleum products are exported throughout the world.
+
+MiRO Refinery
+The MiRO Refinery is located on the Rhine River in Karlsruhe, Germany, approximately 95 miles south of Frankfurt, Germany. MiRO is the largest refinery in Germany and operates as a joint venture in which we own an 18.75% interest. Facilities include crude distilling, naphtha reforming, fluid catalytic cracking, petroleum coking and calcining, hydrodesulfurization, isomerization, ethyl tert-butyl ether and alkylation units. MiRO produces a high percentage of transportation fuels. Other products produced include petrochemical feedstocks, home heating oil, bitumen, and anode- and fuel-grade petroleum cokes. Refined petroleum products are distributed to customers in Germany, Switzerland, France, and Austria by truck, railcar and barge.
+
+
+14
+Table of Contents
+Index to Financial Statements
+Gulf Coast Region
+
+Alliance Refinery
+The Alliance Refinery is located on the Mississippi River in Belle Chasse, Louisiana, approximately 25 miles southeast of New Orleans, Louisiana. The single-train facility includes crude distilling, naphtha reforming, fluid catalytic cracking, alkylation, hydrodesulfurization, aromatics and delayed coking units. Alliance produces a high percentage of transportation fuels. Other products produced include petrochemical feedstocks, home heating oil and anode-grade petroleum coke. A majority of the refined petroleum products are distributed to customers in the southeastern and eastern United States through major common carrier pipeline systems and by barge. Additionally, refined petroleum products are exported to customers primarily in Latin America by waterborne cargo.
+
+Lake Charles Refinery
+The Lake Charles Refinery is located in Westlake, Louisiana, approximately 150 miles east of Houston, Texas. Refinery facilities include crude distilling, naphtha reforming, fluid catalytic cracking, alkylation, hydrocracking, hydrodesulfurization and delayed coking units. Refinery facilities also include a specialty coker and calciner. The refinery produces a high percentage of transportation fuels. Other products produced include off-road diesel, home heating oil, feedstock for our Excel Paralubes joint venture in our M&S segment, and high-quality specialty graphite and fuel-grade petroleum cokes. A majority of the refined petroleum products are distributed to customers in the southeastern and eastern United States by truck, railcar, barge or major common carrier pipelines. Additionally, refined petroleum products are exported to customers primarily in Latin America and Europe by waterborne cargo.
+
+Sweeny Refinery
+The Sweeny Refinery is located in Old Ocean, Texas, approximately 65 miles southwest of Houston, Texas. Refinery facilities include crude distilling, naphtha reforming, fluid catalytic cracking, alkylation, hydrodesulfurization, aromatics units, and a Phillips 66 Partners owned delayed coking unit. The refinery produces a high percentage of transportation fuels. Other products include petrochemical feedstocks, home heating oil and fuel-grade petroleum coke. A majority of the refined petroleum products are distributed to customers throughout the Midcontinent region, southeastern and eastern United States by pipeline, barge and railcar. Additionally, refined petroleum products are exported to customers primarily in Latin America by waterborne cargo.
+
+Central Corridor Region
+
+WRB Refining LP (WRB)
+We are the operator and managing partner of WRB, a 50 percent-owned joint venture that owns the Wood River and Borger refineries.
+
+•Wood River Refinery
+The Wood River Refinery is located in Roxana, Illinois, about 15 miles northeast of St. Louis, Missouri, at the confluence of the Mississippi and Missouri rivers. Refinery facilities include crude distilling, naphtha reforming, fluid catalytic cracking, alkylation, hydrocracking, hydrodesulfurization and delayed coking units. The refinery produces a high percentage of transportation fuels. Other products produced include petrochemical feedstocks, asphalt and fuel-grade petroleum coke. Refined petroleum products are distributed to customers throughout the Midcontinent region by pipeline, railcar, barge and truck.
+ 
+•Borger Refinery
+The Borger Refinery is located in Borger, Texas, in the Texas Panhandle, approximately 50 miles north of Amarillo, Texas. Refinery facilities include crude distilling, naphtha reforming, fluid catalytic cracking, alkylation, hydrodesulfurization, and delayed coking units. The refinery produces a high percentage of transportation fuels, as well as fuel-grade petroleum coke, NGL and solvents. Refined petroleum products are distributed to customers in West Texas, New Mexico, Colorado and the Midcontinent region by company-owned and common carrier pipelines.
+
+
+
+
+
+15
+Table of Contents
+Index to Financial Statements
+Ponca City Refinery
+The Ponca City Refinery is located in Ponca City, Oklahoma, approximately 95 miles northwest of Tulsa, Oklahoma. Refinery facilities include crude distilling, naphtha reforming, fluid catalytic cracking, alkylation, hydrodesulfurization, and delayed coking units. The refinery produces a high percentage of transportation fuels and anode-grade petroleum coke. Refined petroleum products are primarily distributed to customers throughout the Midcontinent region by company-owned and common carrier pipelines.
+
+Billings Refinery
+The Billings Refinery is located in Billings, Montana. Refinery facilities include crude distilling, naphtha reforming, fluid catalytic cracking, alkylation, hydrodesulfurization and delayed coking units. The refinery produces a high percentage of transportation fuels and fuel-grade petroleum coke. Refined petroleum products are distributed to customers in Montana, Wyoming, Idaho, Utah, Colorado and Washington by pipeline, railcar and truck.
+
+West Coast Region
+
+Ferndale Refinery
+The Ferndale Refinery is located on Puget Sound in Ferndale, Washington, approximately 20 miles south of the U.S.-Canada border. Facilities include crude distillation, naphtha reforming, fluid catalytic cracking, alkylation and hydrodesulfurization units. The refinery produces a high percentage of transportation fuels. Other products produced include residual fuel oil, which is supplied to the northwest marine bunker fuel market. Most of the refined petroleum products are distributed to customers in the northwest United States by pipeline and barge.
+
+Los Angeles Refinery
+The Los Angeles Refinery consists of two facilities linked by pipeline located five miles apart in Carson and Wilmington, California, approximately 15 miles southeast of Los Angeles. The Carson facility serves as the front end of the refinery by processing crude oil, and the Wilmington facility serves as the back end of the refinery by upgrading the intermediate products to finished products. Refinery facilities include crude distillation, naphtha reforming, fluid catalytic cracking, alkylation, hydrocracking, and delayed coking units. The refinery produces a high percentage of transportation fuels. The refinery produces California Air Resources Board (CARB)-grade gasoline. Other products produced include fuel-grade petroleum coke. Refined petroleum products are distributed to customers in California, Nevada and Arizona by pipeline and truck.
+
+San Francisco Refinery
+The San Francisco Refinery consists of two facilities linked by our pipelines. The Santa Maria facility is located in Arroyo Grande, California, 200 miles south of San Francisco, California, while the Rodeo facility is located in the San Francisco Bay Area. Intermediate refined products from the Santa Maria facility are shipped by pipeline to the Rodeo facility for upgrading into finished petroleum products. Refinery facilities include crude distillation, naphtha reforming, hydrocracking, hydrodesulfurization and delayed coking units, as well as a calciner. The refinery produces a high percentage of transportation fuels, including CARB-grade gasoline. Other products produced include fuel-grade petroleum coke. The majority of the refined petroleum products are distributed to customers in California by pipeline and barge. Additionally, refined petroleum products are exported to customers primarily in Latin America by waterborne cargo.
+
+In the third quarter of 2020, we announced Rodeo Renewed, a project to reconfigure our San Francisco Refinery to produce renewable fuels. The Rodeo facility will no longer produce fuels from crude oil, but instead will make fuels from used cooking oil, fats, greases, soybean oils and other feedstocks. We expect to complete the diesel hydrotreater conversion in mid-2021, which will produce 8,000 BPD (120 million gallons per year) of renewable diesel. Upon expected completion of the full conversion in early 2024, the facility will have a renewable fuel production capacity of over 50,000 BPD, or 800 million gallons per year.
+
+
+16
+Table of Contents
+Index to Financial Statements
+MARKETING AND SPECIALTIES
+
+Our M&S segment purchases for resale and markets refined petroleum products, such as gasoline, distillates and aviation fuels, mainly in the United States and Europe. In addition, this segment includes the manufacturing and marketing of specialty products, such as base oils and lubricants.
+
+Marketing
+
+Marketing—United States
+We market gasoline, diesel and aviation fuel through marketer and joint venture outlets that utilize the Phillips 66, Conoco or 76 brands. At December 31, 2020, we had approximately 7,590 branded outlets in 48 states and Puerto Rico.
+
+Our wholesale operations utilize a network of marketers operating approximately 5,440 outlets. We place a strong emphasis on the wholesale channel of trade because of its relatively lower capital requirements. In addition, we hold brand-licensing agreements covering approximately 1,370 sites. Our refined petroleum products are marketed on both a branded and unbranded basis. A high percentage of our branded marketing sales are in the Midcontinent, Rockies and West Coast regions, where our wholesale marketing network secures efficient offtake from our refineries. We also utilize consignment fuel arrangements with several marketers whereby we own the fuel inventory and pay the marketers a monthly fee.
+
+In the Gulf Coast and East Coast regions, most sales are conducted via the unbranded channel of trade, which does not require a highly integrated marketing network to secure product placement for refinery pull through. We have export capability at our U.S. coastal refineries to meet international demand.
+
+In addition to automotive gasoline and diesel, we produce and market aviation gasoline and jet fuel. Aviation gasoline and jet fuel are sold through dealers and independent marketers at approximately 780 Phillips 66 branded locations.
+
+We also participate in retail joint ventures to secure long-term placement of our refinery production and extend participation in the retail value chain. At December 31, 2020, our joint ventures had approximately 730 outlets. During the second quarter of 2020, our West Coast retail joint venture completed the acquisition of 95 additional sites. In January 2021, one of our joint ventures in the Central region acquired 106 retail sites.
+
+Marketing—International
+We have marketing operations in four European countries. Our European marketing strategy is to sell primarily through owned, leased or joint venture retail sites using a low-cost, high-volume approach. We use the JET brand name to market retail and wholesale products in Austria, Germany and the United Kingdom. In addition, we have an equity interest in a joint venture that markets refined petroleum products in Switzerland under the COOP brand name.
+
+We also market aviation fuels, LPG, heating oils, marine bunker fuels, and other secondary refined products to commercial customers and into the bulk or spot markets in the above countries.
+
+At December 31, 2020, we had approximately 1,280 marketing outlets in Europe, of which approximately 990 were company owned and approximately 290 were dealer owned. We had interests in approximately 330 additional sites through our COOP joint venture operations in Switzerland, and we held brand-licensing agreements covering approximately 90 sites in Mexico.
+
+We continued our program to update signature image designs for JET branded sites in Europe.
+
+17
+Table of Contents
+Index to Financial Statements
+Specialties
+
+We manufacture lubricants and sell a variety of specialty products, including petroleum coke products, solvents and polypropylene.
+
+Lubricants
+We manufacture and sell automotive, commercial, industrial and specialty lubricants which are marketed worldwide under the Phillips 66, Kendall, Red Line and other private label brands. We also market Group III Ultra-S base oils through an agreement with South Korea’s S-Oil Corporation.
+
+In addition, we own a 50% interest in Excel Paralubes LLC (Excel), an operated joint venture that owns a hydrocracked lubricant base oil manufacturing plant located adjacent to the Lake Charles Refinery. The facility has a nameplate capacity to produce 22,200 BPD of high-quality Group II clear hydrocracked base oils. Excel markets the produced base oil under the Pure Performance brand. The facility’s feedstock is sourced primarily from our Lake Charles Refinery.
+
+Other Specialty Products
+We market high-quality specialty graphite and anode-grade petroleum cokes in the United States, Europe and Asia for use in a variety of industries that include steel, aluminum, titanium dioxide and battery manufacturing.  We also market polypropylene in North America under the COPYLENE brand name for use in consumer products, and market specialty solvents that include pentane, iso-pentane, hexane, heptane and odorless mineral spirits for use in the petrochemical, agriculture and consumer markets. In addition, we market sulfur for use in agricultural and chemical applications, and fuel-grade petroleum coke for use in the making of cement and glass, and generation of power.
+
+
+ENERGY RESEARCH & INNOVATION
+
+Our Energy Research & Innovation organization, located in Bartlesville, Oklahoma, consists of approximately 250 scientists and engineers who conduct research to enhance the safety and reliability of our operations and to develop future air, water and energy solutions, including battery technology, organic (carbon-based) photovoltaic materials and solid oxide fuel cells, for the storage or production of electricity. The Energy Research & Innovation organization enhances our business programs and initiatives with research that enables us to improve our operations and provides a science-based approach to supporting our businesses and evaluating new opportunities.
+
+
+18
+Table of Contents
+Index to Financial Statements
+HUMAN CAPITAL
+
+Phillips 66 employees, our human capital, are guided by our values of safety, honor and commitment. Together, we operate as a high-performing organization by building breadth and depth in capabilities, pursuing excellence and doing the right thing. We empower our people to create and innovate, and to work in ways to deliver industry leading performance. At December 31, 2020, we had approximately 14,300 employees working toward our vision of providing energy and improving lives.
+
+We believe maintaining and enhancing a high-performing organization is critical to our success. Our employees promote our culture and are integral to achieving our strategic goals and maximizing long-term shareholder value. We strive for continuous improvement of our high-performing organization, as we believe that our employees differentiate us in the marketplace. Human capital measures and objectives that we focus on in managing our business include:
+
+•Safety—Safety is the cornerstone of our business. We are committed to protecting the health and safety of everyone who has a role in our operations and the communities in which we operate. We employ rigorous training and audit programs to drive ongoing improvement in personal safety as we strive for zero incidents.
+
+•Culture—Phillips 66 fosters behaviors that promote our culture. “Our Energy in Action” is a set of core behaviors embedded in all of the company’s talent and business processes to drive accountability. Those behaviors include working for the greater good; creating an environment of trust; seeking different perspectives; and achieving excellence.
+
+In addition, we believe a high level of performance can only be achieved through an inclusive culture and diverse workforce. Our inclusion and diversity (I&D) council, chaired by our Chairman and Chief Executive Officer and comprised of executives and business leaders, sets the strategic vision for advancing I&D. We have eight Employee Resource Groups (ERGs) that align with our corporate objective of fostering a diverse workforce. These ERGs are organizations formed around a shared set of experiences and perspectives, and are focused on professional development, networking, recruiting, raising cultural awareness, and community involvement.
+
+We conduct biennial employee engagement surveys to gather employee perspectives on their experience, the results of which are available to employees and our board of directors. Management analyzes findings to identify progress on previous recommendations and areas of continued opportunity.
+
+•Capability—We strive to build depth and breadth in our skills. We drive employee development through technical training and providing opportunities for rotational moves, as well as assisting employees with obtaining and sharpening managerial skills through targeted development programs and promotional moves. Our performance management process identifies coaching and training needs.
+
+We also have a robust succession planning practice and work each year to identify successors for positions within the company. As part of the process, quarterly sessions are held with executives to monitor and guide leadership development for our key corporate positions.
+
+•Performance—We focus on delivering exceptional, sustainable results. We work towards retention of top talent and have advanced the effectiveness of our performance management process by embedding Our Energy in Action into the process to ensure that we drive the desired behaviors.
+
+
+19
+Table of Contents
+Index to Financial Statements
+COMPETITION
+
+In the Midstream segment, our crude oil and products pipelines face competition from other crude oil and products pipeline companies, major integrated oil companies, and independent crude oil gathering and marketing companies.  Competition is based primarily on quality of customer service, competitive pricing and proximity to customers and market hubs. In addition, the Midstream segment, through our equity investment in DCP Midstream and our other operations, competes with numerous integrated petroleum companies, as well as natural gas transmission and distribution companies, to deliver components of natural gas to end users in natural gas markets. Principal methods of competing include economically securing the right to purchase raw natural gas for gathering systems, managing the pressure of those systems, operating efficient NGL processing plants and securing markets for the products produced. In the Chemicals segment, CPChem is ranked among the top 10 producers in many of its major product lines according to published industry sources, based on average 2020 production capacity. Petroleum products, petrochemicals and plastics are typically delivered into the worldwide commodity markets. Our Refining and M&S segments compete primarily in the United States and Europe. We are one of the largest refiners of petroleum products in the United States. Elements of competition for both our Chemicals and Refining segments include product improvement, new product development, low-cost structures, ability to run advantaged feedstocks, and efficient manufacturing and distribution systems. In the marketing portion of the business, competitive factors include product properties, reliability of supply, customer service, price and credit terms, advertising and sales promotion, and development of customer loyalty to branded products.
+
+
+GENERAL
+
+At December 31, 2020, we held a total of 501 active patents in 22 countries worldwide, including 391 active U.S. patents. The overall profitability of any business segment is not dependent on any single patent, trademark, license or franchise.
+
+In support of our goal to attain zero incidents, we have implemented a comprehensive Health, Safety and Environmental (HSE) management system to support consistent management of HSE risks across our enterprise.  The management system is designed to ensure that personal safety, process safety, and environmental impact risks are identified, and mitigation steps are taken to reduce the risk.  The management system requires periodic audits to ensure compliance with government regulations, as well as our internal requirements. Our commitment to continuous improvement is reflected in annual goal setting and performance measurement.
+
+We are subject to various laws and government regulations concerning environmental matters and employee safety and health in the United States and other countries. In addition, various states have authority under the federal statutes and many state and local governments have adopted environmental and employee safety and health laws and regulations, some of which are similar to federal requirements. State and federal authorities may seek fines and penalties for violating these laws and regulations. The material effects of compliance with these government regulations upon our capital expenditures, earnings and competitive position are primarily associated with environmental regulations. See the environmental information contained in “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Capital Resources and Liquidity—Contingencies” under the captions “Environmental” and “Climate Change.” It includes information on expensed and capitalized environmental costs for 2020 and those expected for 2021 and 2022.
+
+
+Website Access to SEC Reports
+
+Our Internet website address is http://www.phillips66.com. Information contained on our Internet website is not part of this Annual Report on Form 10-K.
+
+Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and any amendments to these reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 are available on our website, free of charge, as soon as reasonably practicable after such reports are filed with, or furnished to, the U.S. Securities and Exchange Commission (SEC). Alternatively, you may access these reports at the SEC’s website at http://www.sec.gov.
+20

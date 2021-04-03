@@ -1,0 +1,462 @@
+The Company
+KLA Corporation (“KLA” or the “Company” and also referred to as “we” or “our”) is a global leader in process control and a supplier of process-enabling solutions for a broad range of industries, including semiconductors, printed circuit boards ("PCBs") and displays. We provide solutions for manufacturing and testing wafers and reticles, integrated circuits (“IC” or “chip”), packaging, light emitting diodes, power devices, compound semiconductor devices, microelectromechanical systems, data storage, printed circuit boards, flat and flexible panel displays, and general materials research, as well as providing contracted and comprehensive installation and maintenance services across our installed base.
+KLA was formed as KLA-Tencor in April 1997 through the merger of KLA Instruments Corporation and Tencor Instruments, two long-time leaders in the semiconductor equipment industry that began operations in 1975 and 1976, respectively.
+In February 2019, KLA completed the acquisition of Orbotech, Ltd. (“Orbotech”) and transformed its organizational structure into four reportable segments: Semiconductor Process Control; Specialty Semiconductor Process; PCB, Display and Component Inspection; and Other.
+Within the Semiconductor Process Control segment, our comprehensive portfolio of inspection, metrology and data analytics products, and related service help integrated circuit manufacturers achieve target yield throughout the entire semiconductor fabrication process—from research and development (“R&D”) to final volume production. KLA’s differentiated products and services are designed to provide comprehensive solutions to help customers accelerate development and production ramp cycles, achieve higher and more stable semiconductor die yields and improve their overall profitability.
+In the Specialty Semiconductor Process segment, KLA develops and sells advanced vacuum deposition and etching process tools, which are used by a broad range of specialty semiconductor customers, including manufacturers of microelectromechanical systems (“MEMS”), radio frequency (“RF”) communication chips, and power semiconductors for automotive and industrial applications.
+In the PCB, Display and Component Inspection segment, KLA enables electronic device manufacturers to inspect, test and measure PCBs, flat panel displays (“FPDs”) and ICs to verify their quality, pattern the desired electronic circuitry on the relevant substrate and perform three-dimensional shaping of metalized circuits on multiple surfaces.
+KLA’s suite of advanced products, coupled with its unique yield management software and services, allow us to deliver the solutions our semiconductor, printed circuit board and display customers need to achieve their productivity goals by significantly reducing their risks and costs and improving their overall profitability and returns on investment.
+Additional information about KLA is available at www.kla.com. The Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, are available free of charge on the website as soon as reasonably practicable after they are electronically filed with or furnished to the Securities and Exchange Commission (“SEC”). Information contained on KLA’s website is not part of this Annual Report on Form 10-K or KLA’s other filings with the SEC. Additionally, these filings may be obtained through the SEC’s website (www.sec.gov), which contains reports, proxy and information statements, and other information regarding issuers that file electronically.
+Investors and others should note that KLA announces material financial information to investors using an investor relations website (ir.kla.com), including SEC filings, press releases, public earnings calls and conference webcasts. These channels are used to communicate with the public about the company, products, services and other matters.
+Industry
+General Background
+KLA’s core focus is the semiconductor industry. The semiconductor fabrication process begins with a bare silicon wafer—a round disk that is typically 200 millimeters or 300 millimeters in diameter, about as thick as a credit card and gray in color. The process of manufacturing wafers is highly sophisticated and involves the creation of large ingots of silicon by pulling them
+1
+Table of Contents
+out of a vat of molten silicon. The ingots are then sliced into wafers. Prime silicon wafers are then polished to a mirror finish. Other, more specialized wafers, such as epitaxial silicon (“epi”), silicon on insulator (“SOI”), gallium nitride (“GaN”) and silicon carbide (“SiC”) are also common in the semiconductor industry.
+The manufacturing cycle of an IC is grouped into three phases: design, fabrication and testing. IC design involves the architectural layout of the circuit, as well as design verification and reticle generation. The fabrication of a chip is accomplished by depositing a series of film layers that act as conductors, semiconductors or insulators on bare wafers. The deposition of these film layers is interspersed with numerous other process steps that create circuit patterns, remove portions of the film layers, and perform other functions such as heat treatment, measurement and inspection. Most advanced chip designs require hundreds of individual steps, many of which are performed multiple times. The majority of chips consist of two main structures: the lower structure, typically consisting of transistors or capacitors which perform the “smart” functions; and the upper “interconnect” structure, typically consisting of circuitry which connects the components in the lower structure. When the layers on the wafer have been fabricated, each chip on the wafer is tested for functionality. The wafer is then cut into individual chips, and the chips that pass functional testing are packaged. Final testing is performed on all packaged chips. Packaged chips are then mounted onto PCBs for connection to the rest of the electronic system. Additionally, flat panel displays are manufactured using processes similar to ICs (e.g., film deposition, photolithography, etching) except using glass as the starting substrate.
+The semiconductor equipment industry is currently experiencing multiple growth drivers bolstered by demand for chips from leading edge foundry and logic manufacturers to support computational power and connectivity for markets such as artificial intelligence (“AI”) and 5G wireless technology. Growth of the virtual interaction driven by COVID-19 related travel restrictions and quarantines as well as work from home requirements, advances in healthcare and industrial application together with the increasing adoption of electrical vehicles and intelligence in automobiles are powering leading-edge node technology investments and capacity expansions. Intertwined in these areas, spurred by the requirements of big data, is the growth in demand for memory chips. Finally, China continues to emerge as a major region for manufacturing of logic and memory chips, adding to its role as the world’s largest consumer of ICs. Government initiatives are propelling China to expand its domestic manufacturing capacity. China is currently seen as an important long-term growth region for the semiconductor capital equipment sector.
+The semiconductor industry continually introduces numerous technology changes to support this multi-segmented market growth. KLA’s inspection, metrology and data analytics technologies play key roles in enabling our customers to develop and manufacture advanced semiconductor devices to support and innovate around these trends.
+Companies that anticipate future market demands by developing and refining new technologies and manufacturing processes are better positioned to lead in the semiconductor market. Accelerating the yield ramp and maximizing production yields of high-performance devices are key goals of modern semiconductor manufacturing. Ramping to high-volume production ahead of competitors can dramatically increase the revenue an IC manufacturer realizes for a given product. Leading semiconductor manufacturers are investing in simultaneous production integration of multiple new process technologies, some requiring new substrate and film materials, new geometries, advanced multi-patterning and EUV lithography, and advanced packaging techniques. While many of these technologies have been adopted at the development and pilot production stages of chip manufacturing, significant challenges and risks associated with each technology have affected the adoption of these technologies into full-volume production. For example, as design rules decrease, yields become more sensitive to the size and density of defects, and device performance characteristics (namely speed, capacity or power management) become more sensitive to parameters such as linewidth and film thickness variation. New process materials, such as photoresists for EUV lithography, require extensive characterization before they can be used in the manufacturing process. Moving several of these advanced technologies into production at once only adds to the risks that chipmakers face.
+The continuing evolution of semiconductors to smaller geometries and more complex multi-level circuitry has significantly increased the performance and cost requirements of the capital equipment used to manufacture these devices. Construction of an advanced wafer fabrication facility today can cost well above $10.00 billion, substantially more than previous-generation facilities. In addition, chipmakers are demanding increased productivity and higher returns from their manufacturing equipment and are also seeking ways to extend the performance of their existing equipment.
+By developing new process control and yield management tools that help chipmakers accelerate the adoption and production of these new technologies at scale, KLA enables customers to better leverage increasingly expensive facilities and improve return on investment (“ROI”). Once customers’ production lines are operating at high volume, KLA’s systems monitor to ensure yields are stable and process excursions are identified for quick resolution. In addition, each new generation’s smaller design rules, coupled with new materials and device innovation, increased in-process variability, which requires a subsequent increase in inspection and metrology sampling.
+KLA systems not only analyze defectivity and metrology issues at critical points in the wafer, reticle and IC manufacturing processes, but also provide information to our customers so they can identify and address the underlying process
+2
+Table of Contents
+problems. The ability to locate the source of defects and resolve the underlying process issues enables KLA customers to improve control over the manufacturing processes, increasing their yield of high-performance parts and delivering products to market faster—thus maximizing profits. With a broad portfolio of application-focused technologies and dedicated yield technology expertise, KLA is in position to be a key supplier of comprehensive yield management solutions for customers’ next-generation products. KLA helps customers respond to the challenges posed by shrinking device sizes, the transition to new production materials, new device and circuit architectures, more demanding lithography processes, and new packaging techniques.
+KLA’s SPTS group, a semiconductor processing business from the Orbotech acquisition, develops and sells differentiated custom deposition and etching solutions for fast-growing markets, such as power and analog devices, RF communication chips and MEMS. These devices, which are often built on non-traditional substrates like SiC and GaN, have become critical to accelerating some of the secular trends in automotive, industrial and communication industries. Infrastructure build-out for 5G creates demand for RF components, new SiC and GaN based power devices are moving into volume production for electric vehicles, and high-density packaging is growing to support AI.
+KLA provides a comprehensive portfolio of PCB tools, services and solutions to accelerate technology transitions and production ramp. Our portfolio includes inline inspection tools to monitor the quality of printed circuit board fabrication, equipment to repair defective boards, digital imaging technologies to print fine geometry according to the design, and computer aided manufacturing (“CAM”) software. Growth in the PCB business is driven mainly by investments in 5G technology and its supporting applications: smartphones, autonomous vehicles, AI and cloud servers/high performance computing. These applications will be based on several technological segments including flexible printed circuits (“FPCs”), high density interconnect (“HDI”), PCBs, and IC substrates.
+KLA also provides complete yield management solutions for the FPD market including automated optical inspection systems, repair technologies and electrical testers. An accelerated transition to organic light emitting diode (“OLED”) displays to serve the mobile market, introduction of OLED technology for large size TVs, and a steep ramp in liquid crystal display (“LCD”) production for televisions in China are driving the flat panel display business. New technologies, such as microLED, represent a growth opportunity for KLA in the display market.
+Products
+KLA develops industry-leading equipment and services that enable innovation throughout the electronics industry. We provide advanced process control and process-enabling solutions for manufacturing wafers, reticles, integrated circuits, packaging, printed circuit boards, and flat and flexible panel displays.
+KLA’s inspection, metrology and data analytics products and related offerings can be broadly categorized as supporting customers in the following groups: Chip and Wafer Manufacturing; Reticle Manufacturing; Packaging Manufacturing; Compound Semiconductor and Hard Disk Drive Manufacturing; and General Purpose/Lab Applications. Orbotech’s inspection, repair, imaging, laser drilling and electrical testing support customers in Printed Circuit Board Manufacturing and Flexible and Flat Panel Display Manufacturing. SPTS’s wafer processing equipment supports customers in Advanced Packaging Manufacturing and manufacturing of semiconductor devices such as MEMS, high speed RF ICs, power semiconductors and LEDs. Some of the company’s more significant products are described below and are also included in the broader product table at the end of this “Products” section.
+Semiconductor Process Control:
+Chip and Wafer Manufacturing
+KLA’s comprehensive portfolio of defect inspection, review, metrology, patterning simulation, in situ process monitoring and data analytics products, and related service, software and other offerings, helps substrate and chip manufacturers manage quality throughout wafer and chip fabrication processes. These offerings are designed to help our customers accelerate their development and production ramp cycles, achieve higher and more stable semiconductor die yields, and improve their overall profitability.
+Defect Inspection and Review
+KLA’s wafer defect inspection and review systems cover a broad range of applications for IC and substrate manufacturers, including research and development, wafer qualification, reticle qualification, and tool, process and line monitoring. Patterned and unpatterned wafer inspectors find particles, pattern defects and electrical issues on the front surface, back surface and edge of the wafer, allowing engineers to detect and monitor critical yield and reliability excursions. Our defect review systems capture high resolution images of the defects detected by inspection tools, helping substrate manufacturers and chipmakers identify and resolve yield issues. Fabs rely on our high sensitivity reticle inspection systems to identify defects on
+3
+Table of Contents
+reticles at an early stage and to prevent reticle defects from printing on production wafers. By implementing our defect inspection and review systems, chipmakers and substrate manufacturers can take quick corrective action, resulting in faster quality improvement and better time to market.
+For patterned wafer optical inspection, we provide our 3920 Series, 3900 Series, 2950 Series, 2930 Series, 2920 Series, 2910 Series and 2900 Series (high resolution broadband plasma defect inspection); the Voyager 1015 (laser scanning defect inspection); the Puma 9980 Series, Puma 9850 Series and Puma 9650 Series (laser scanning defect inspection); our 8 Series systems, including the 8930, introduced in the fiscal year ended June 30, 2020, (high productivity defect inspection); and our CIRCL cluster tool (defect inspection, review and metrology of all wafer surfaces – front side, edge and backside).
+Our eDR7380 electron-beam (e-beam) wafer defect review and classification system produces a comprehensive defect pareto in one test for accurate defect sourcing during production. Unique synergy with our inspectors facilitates identification and classification of patterned wafer, bare wafer and bevel edge defects for faster yield learning during IC and wafer manufacturing.
+Our eSL10 electron-beam (“e-beam”) patterned wafer defect inspection system was launched during the fiscal year ending June 30, 2020. The eSL10 detects very small defects, including those at the bottom of deep trenches and contact holes, helping chipmakers accelerate development and ramp of advanced logic and memory devices.
+For unpatterned wafer inspection, we provide our Surfscan SP7, Surfscan SP5 and Surfscan SP3 inspectors. These Surfscan Series systems find defects on bare wafers, smooth films and rough films. We also offer our SURFmonitor technology for surface quality measurements and capture of low-contrast defects. For wafer manufacturers, the Surfscan Series detects defects and assesses surface quality during the development and production of polished wafers, epi wafers and engineered substrates. These systems also play a critical role in determining outgoing substrate quality. For chip manufacturers, the Surfscan systems qualify incoming bare wafers, and qualify and monitor processes from development through production. For original equipment manufacturers (“OEMs”) and materials suppliers, the Surfscan Series support process development and process tool qualification.
+For in-fab reticle qualification, we offer the Teron SL650 Series and X5.3 reticle inspection systems. These inspectors allow IC fabs to qualify incoming reticles and inspect production reticles for contaminants and other process-related changes.
+Metrology
+KLA’s metrology solutions address IC and substrate manufacturing, as well as scientific research and other applications. Precise metrology and control of pattern dimensions, film thicknesses, layer-to-layer alignment, pattern placement, surface topography, electro-optical and electromagnetic properties are important in many industries as devices are becoming more complex with shrinking critical dimensions and narrowing film thicknesses.
+The Archer Series of imaging-based overlay metrology systems enable characterization of overlay error on lithography process layers for advanced patterning technologies. These systems include the Archer 750, launched during the fiscal year ended June 30, 2020, which utilizes wavelength tunability to produce accurate overlay measurements. The ATL Series of scatterometry-based overlay metrology systems utilize tunable laser technology to accurately measure overlay error measurements in the presence of production process variations.
+The SpectraShape optical CD and shape metrology systems characterize and monitor the critical dimensions (“CDs”) and 3D shapes of geometrically complex features incorporated by some IC manufacturers into their latest generation devices. These systems include the SpectraShape 11k metrology system, launched during the fiscal year ended June 30, 2020, which precisely measures the CDs and three-dimensional shapes of finFET, 3D NAND and other complex IC device structures at critical process steps.
+The SpectraFilm and Aleris film metrology systems provide precise measurement of film thickness, refractive index, stress and composition for a broad range of film layers. The SpectraFilm F1 film metrology system, employs optical technologies that determine single- and multi-layer film thicknesses and uniformity with high precision to monitor deposition processes in production, and deliver bandgap data used to predict device electrical performance earlier than end of line test.
+The PWG3 and PWG2 patterned wafer geometry metrology systems measure stress-induced wafer shape, wafer shape-induced pattern overlay errors, wafer thickness variations and wafer dual-sided topography for a wide range of IC manufacturing processes. This data is used for inline monitoring of fab processes, overlay corrections and scanner focus control, enabling improved patterning and faster yield ramp. Our WaferSight bare wafer geometry metrology systems are used by substrate manufacturers to qualify polished and epitaxial silicon wafers, engineered and other advanced substrates.
+4
+Table of Contents
+Magnetic random-access memory (“MRAM”) manufacturing requires the control of deposition, annealing, magnetization and etch of very thin ferromagnetic layers. These memory cells can make up a standalone memory chip or are embedded into a logic chip when the chip is getting close to completion. At this late stage, the value of the chip is high so the MRAM cell must be carefully controlled to maintain high yield. KLA offers several systems for manufacturing control of MRAM processes, including the CAPRES CIPTech and microHall series, and the MicroSense PKMRAM and KerrMapper systems.
+Data Analytics
+The data generated by our inspection, metrology and in situ process monitoring systems are compiled and reduced to relevant root cause and yield analysis information with our suite of data analytics and management tools.
+The OVALiS Software Suite joined our data analytics product portfolio through the acquisition of Qoniac GmbH during the fiscal year ending June 30, 2020. OVALiS supports on-product process optimization, diagnostics, monitoring and control for lithography and other patterning steps that are critical to IC manufacturing. Our 5D Analyzer advanced data analysis and patterning control system offers an extendible, open architecture that accepts data from a wide range of metrology and process tools to enable advanced analysis, characterization and real-time control of fab-wide process variations. Our Klarity automated defect and yield analysis systems help IC manufacturers reduce defect inspection, classification and review data to relevant root-cause and yield-analysis information. Our RDC reticle data analysis and management system provides data used for in-fab reticle qualification. Our FabVision data management system offers fab-wide data management and automated yield analysis for wafer manufacturers.
+In Situ Process Monitoring
+KLA’s SensArray portfolio includes advanced wireless and wired wafers and reticles that enable in situ monitoring of the production process environment for many semiconductor, flat panel display and reticle fabrication processes, and fab-wide monitoring of automated wafer handling. Introduced in the fiscal year ended June 30, 2020, the EtchTemp-HD in situ wafer temperature measurement system enables across-wafer temperature monitoring that strongly correlates with CD uniformity control for conductor etch applications, while the MaskTemp 2 in situ reticle temperature measurement system is used by reticle manufacturers for qualification and monitoring of e-beam writers and high temperature reticle process steps.
+Patterning Simulation
+KLA’s PROLITH computational lithography software is used by researchers at advanced IC manufacturers, lithography hardware suppliers, track companies and material providers to explore critical feature designs, manufacturability and process-limited yield of proposed lithographic and patterning technologies without the time and expense of printing hundreds of test wafers using experimental materials and prototype process equipment.
+Reticle Manufacturing
+Error-free reticles, or masks, are necessary to achieve high semiconductor device yields, since reticle defects can be replicated in every die on production wafers. KLA offers high sensitivity reticle inspection, metrology and data analytics systems for mask blank manufacturers and reticle manufacturers (“mask shops”) to help them manufacture reticle blanks and patterned reticles that are free of defects and meet pattern placement and critical dimension uniformity specifications.
+The FlashScan reticle blank inspection product line is used by blank manufacturers for defect control during process development and volume manufacturing, and by mask shops for incoming inspection, tool monitoring and process control.
+The Teron 640e reticle inspection system detects critical pattern and particle defects at high throughput for the development and qualification of leading-edge EUV and optical patterned reticles. Our reticle inspection portfolio also includes the Teron 600 Series for development and manufacturing of advanced optical and EUV reticles, the TeraScan 500XR system for production of reticles for the 32nm node and above, and our X5.3 and Teron SL650 Series products for reticle quality control in IC fabs.
+In addition, we offer the LMS IPRO Series of reticle registration metrology systems for measuring mask pattern placement error. If the pattern on the reticle is displaced from its intended location, overlay error can result on the wafer, which can lead to electrical continuity issues affecting yield, performance or reliability of the IC device.
+RDC is a comprehensive data analysis and storage platform that supports multiple KLA reticle inspection and metrology platforms for mask shops and IC fabs.
+5
+Table of Contents
+Packaging Manufacturing
+Packaging Process Control on Wafer
+        The Kronos™ patterned wafer inspection system provides high sensitivity to critical defects for advanced wafer-level packaging production monitoring for processes such as 2.5D/3D IC integration using through silicon vias (“TSVs”), wafer-level chip scale packaging (“WLCSP”) and fan-out wafer-level packaging (“FOWLP”). We also offer our CIRCL-AP cluster tool, which features multiple modules to support all-surface wafer-level packaging inspection, metrology and review. Zeta-5xx and Zeta-6xx optical surface profilers measure both wafers and panels for packaging metrology applications. These applications include bump height, under-bump metallization (“UBM”) step height, film thickness, and redistribution layer (“RDL”) height and width.
+Packaging Process Control After Singulation
+After wafer test and dicing, the detection of hairline cracks in bare dies or in fan-in wafer-level packages is achieved with the ICOS™ F160 die sorting and inspection system. Once the ICs are fully packaged, ICOS™ T3/T7/T8 series and MV series of component inspection systems provide automated inspection and metrology capabilities across all different types of packages for detection of issues that affect final package quality. Modular tool architecture allows for inspection solutions to be customized to meet the requirements of different package types with varying size and interconnect styles, while allowing for either tray or tape output. Component inspection capability includes 3D coplanarity inspection, measurement of the evenness of the contacts, component height and two-dimensional (“2D”) surface inspection.
+Compound Semiconductor, Power Device, LED, MEMS and Data Storage Media/Head Manufacturing
+        The compound semiconductor market comprises a diverse group of applications including power devices, radio frequency (“RF”) communications devices, photonics, LED lighting and photovoltaic and display markets. Our primary products for compound semiconductor manufacturing include the Candela 8520, Candela CS20, 8 Series, WI-2280 inspection systems and KLA stylus and optical profilers. These products are used for the inspection and metrology of substrates, epitaxial layers and process films.
+Leading power device manufacturers are targeting faster development and ramp times, higher product yields and lower device costs. To achieve these goals, they are implementing solutions for characterizing yield-limiting defects and processes including full-surface, high sensitivity defect inspection and profiler metrology systems that provide accurate process feedback, thus improving SiC substrate and epitaxy wafer quality and yield.
+To support power device manufacturing, tools such as the Candela 8520 inspection system integrates surface defect detection and photoluminescence technology for inspection and classification of a wide range of defects on SiC substrates and epi layers. The MicroXAM optical profilers measure step height, texture and form for power device applications. The Tencor P-Series and HRP-Series stylus profilers measure step heights and roughness for SiC substrates and patterned wafer applications.
+LEDs are becoming more commonly used in solid state lighting, television and notebook backlighting, and automotive applications. As LED device makers target aggressive cost and performance targets, they place significant emphasis on improved process control and yield during the manufacturing process.
+KLA offers a portfolio of systems to help LED manufacturers reduce production costs and increase product output: Candela 8720, WI-2280, 8 Series, UltraMap, MicroXAM and Zeta optical profilers and Tencor P-Series and HRP-Series stylus profilers. The Candela 8720 substrate and epi wafer inspection system provides automated inspection and quality control of LED substrates, detecting defects that can impact device performance, yield and field reliability. The WI-2280 system is designed specifically for defect inspection and 2D metrology for LED applications. The 8 Series provides patterned wafer defect inspection capability for LED manufacturing. UltraMap provides wafer geometry measurements on sapphire wafers. The MicroXAM and Zeta optical profilers measure step height, texture and form for LED applications. The P Series and HRP-Series stylus profilers are metrology systems for measurement of step heights and roughness for LED substrates and patterned wafer applications. The Zeta-388 measures patterned sapphire substrates (“PSS”) and inspects for defects on high brightness LED substrates.
+KLA offers a variety of products for the display market, including the ZetaScan Series defect inspector, SensArray Process Probe 2070, Zeta-300 optical profiler, P-17 OF stylus profiler, and the Nano Indenter nanomechanical tester.
+The increasing demand for MEMS technology is coming from diverse industries such as automotive, space and consumer electronics. MEMS have the potential to transform many product categories by bringing together silicon-based microelectronics with micromachining technology, making possible the realization of complete systems-on-a-chip. KLA offers tools and
+6
+Table of Contents
+techniques such as defect inspection and review, optical inspection and surface profiling for this emerging market, as highlighted in the product table at the conclusion of this “Products” section.
+Advancements in data storage are being driven by a wave of innovative consumer electronics with small form factors and immense storage capacities, as well as an increasing need for high-volume storage options to support remote computing and networking, such as cloud computing. Our process control and yield management solutions are designed to enable customers to rapidly understand and resolve complex manufacturing problems, which can help improve time to market and product yields. To support manufacturing of substrates, media and thin film head wafers, we offer a portfolio of metrology and defect inspection solutions, as highlighted in the product table at the conclusion of this “Products” section.
+General Purpose/Lab Applications
+A range of industries, including general scientific and materials research and optoelectronics require measurements of surface topography and film thickness, to either control their processes or research new material characteristics. Offered under the KLA Instruments brand, the typical surface metrology parameters that our tools address include flatness, roughness, curvature, peak-to-valley, asperity, waviness, texture, volume, sphericity, slope, density, stress, hardness, bearing ratio and step height (mainly in the micron to nanometer range). Film thickness measurements can also include determination of refractive index. We also offer a portfolio of high-throughput nanomechanical testers for material characterization, including hardness, modulus and adhesion.
+Previous-Generation KLA Systems
+        Our KLA Pro group provides fully refurbished systems, remanufactured legacy systems, and enhancements and upgrades for previous-generation KLA systems. When a customer needs to move to the next manufacturing node, or improve their manufacturing productivity, KLA’s Pro offerings can help maximize the value of the customer’s existing assets.
+Specialty Semiconductor Process:
+        SPTS Technologies, a wholly owned subsidiary of KLA, designs, manufactures and markets wafer processing solutions for the global semiconductor and related industries. It provides etch and deposition processes on a range of single wafer handling platforms for wafer sizes up to 330mm, as well as 400mm taped frame assemblies. These products include etch and deposition equipment designed to address advanced IC packaging manufacturing, and also manufacturing of semiconductor and microelectronic devices such as MEMS, high speed RF IC power semiconductors, and LEDs. The technology and products of SPTS are used by universities, research institutes, and full-scale production companies.
+        The Omega® family of plasma etch solutions includes the DSi-v, Rapier™, Synapse™, and ICP process modules. DSi-v and Rapier deep reactive ion etch (“DRIE”) modules etch large and small structures in silicon MEMS devices such as microphones, accelerometers and gyroscopes. The Rapier module is also used in advanced packaging to create through-silicon vias, and to rapidly etch Si wafers to a thickness of 5µm for very high density die stacking. The Synapse module etches strongly bonded materials such as silicon oxide and glass for photonics, SiC for next generation power switches, and piezoelectric resonators. The ICP module is used in the manufacture of devices such as RF power amplifiers and vertical cavity surface emitting lasers (“VCSELs”) and etches materials including silicon nitride, GaN and III-V semiconductors.
+        The Mosaic™ Plasma Dicing solution includes the Rapier-S series of process modules and uses a plasma etch process to singulate die on full thickness and taped-framed wafers. Because plasma dicing is not a physical process and not restricted by blade width, chip designers can place die much closer together, increasing die count per wafer. Unlike conventional dicing techniques, plasma dicing does not chip or crack die, does not generate localized hot-spots, and produces fewer defects. These characteristics are increasingly important for zero-defect automotive applications and die-to-die bonding.
+        The Sigma® systems deposit conducting and insulating layers by physical vapor deposition (PVD), sometimes referred to as “sputtering”. For the advanced packaging market, the Sigma system is used to create redistribution and under-bump layers in fan-in and fan-out packages. For power management devices, thick conductor layers are deposited on the front side of the wafer, and solderable stacks on the backside. In the RF/MEMS space, the Sigma system is used to deposit uniform, stress-controlled piezoelectric films for bulk acoustic wave (“BAW”) high frequency filters.
+        The Delta™ plasma enhanced chemical vapor deposition (“PECVD”) systems are used for a wide range of dielectric applications within MEMS, compound semiconductor, photonics and advanced packaging industries. SPTS specializes in depositing silicon oxide and nitride layers at temperatures below 200°C, with high breakdown strength and tightly controlled stress, and optical properties.
+7
+Table of Contents
+        The Primaxx® HF Release Etch products are used to remove sacrificial silicon oxide layers, primarily to release silicon microstructures in MEMS devices. SPTS’s proprietary dry process avoids stiction of released moving parts and subsequent damage to delicate structures, common issues with conventional wet processing technology.
+        The Xactix® XeF2 Release Etch products are used for isotropic etching of silicon to release MEMS devices. As a vapor phase etchant, XeF2 avoids many of the problems typically associated with wet or plasma etch processes.
+        Single wafer platforms: SPTS offers a range of single wafer handling platforms for Omega, Sigma, Mosaic, Delta, Primaxx, and Xactix systems for volume production, R&D and pilot production environments.
+        The MVD® system replaces traditional liquid coating processes with a highly reproducible molecular vapor deposition (“MVD”) alternative that is valuable for MEMS/BioMEMS manufacturing applications. The MVD system is also used for commercial applications requiring moisture barriers, anti-corrosion coatings, or release layers for imprinting.
+PCB, Display and Component Inspection:
+Printed Circuit Board Manufacturing
+        PCBs are the basic interconnect platforms for the electronic components that comprise all electronic equipment. An assembly of one or more PCBs on which desired components have been mounted forms an essential part of most electronic products. PCBs are manufactured in a series of complex steps, generally starting with a sheet of epoxy-fiberglass (or other material with electric insulating qualities), laminated with a conducting material such as copper. The conductor pattern is subsequently transferred to a photo-imageable layer which is coated over the conductive layer substrate either through a direct imaging (“DI”) or masked based photolithographic process followed by a chemical development and etching removal process of excess conducting material, leaving the desired conducting metal pattern printed on the layer.
+        Because of the complexity of each step in the process of PCB manufacturing, sophisticated equipment is required in order to enable manufacturing, especially of high complexity boards where high accuracy is required. Dimensions of PCB boards change during the manufacturing process and digital printing is required in order to compensate for these changes and meet demand for high accuracy. PCB's are susceptible to various defects (electrical shorts, open circuits and insufficient or off-measure conductor widths), inspection is required throughout PCB production to identify such defects, which are then repaired, if possible. Early detection of these defects increases the possibility of successful repair and reduces the number of unusable boards, thereby reducing the overall cost to the manufacturer. Early detection and repair are particularly valuable in cases of multilayered and ‘build-up’ boards, wherein PCB layers are embedded inside the finished board.
+        KLA’s Orbotech subsidiary manufactures several solutions intended for use by manufacturers of PCBs to streamline and increase the efficiency and yield of PCB production.
+        Direct Imaging (“DI”)
+        Direct imaging technology enables the manufacture of higher density, more complex PCBs, with significantly higher yields and reduced manufacturing costs, through the elimination of artwork costs and the scrap created by contact printing. The DI involves the transfer of digital image data directly from the electronic media onto the photoresist or solder resist, thereby eliminating the need for exposing photoresist through a production photolithography tool. This process translates into fewer manufacturing steps, lower material costs and greater accuracy of layer-to-layer registration enabling designs with higher density and miniaturization at high yield.
+        Orbotech’s direct imaging (DI) solutions include the Nuvogo series, the Paragon-Ultra series, and the Orbotech Diamond series. Nuvogo is an advanced DI series for substrate-like PCB (“SLP”), modified semi-additive process (“mSAP”), advanced high-density interconnect (“HDI”), and flex, rigid-flex and advanced multi-layer boards (“MLB”) PCB mass production. The Paragon-Ultra series serves complex applications including flip chip ball grid array (“FC-BGA”), flip chip-chip scale package (“FC-CSP”) and other BGA and CSP substrates. Orbotech Diamond is a high capacity, high throughput DI series for a wide variety of solder mask applications.
+        Automated Optical Inspection (“AOI”)
+        PCB-AOI solutions are computerized, electro-optical systems for inspection and identification of defects in PCBs and photolithography tools at various stages of production. Orbotech’s AOI solutions include the Ultra Dimension series, the Ultra Fusion/Fusion series and the Discovery II series. The Ultra Dimension series incorporates pattern inspection, laser via inspection, remote multi-image verification and two-dimensional metrology, to offer advanced electronics manufacturers a way to significantly improve their quality and yield. The Ultra Dimension solutions are suitable for advanced IC substrates, substrate-like PCB (“SLP”), modified semi-additive process (“mSAP”), advanced HDI, flexible printed circuits and more. The
+8
+Table of Contents
+Fusion/Ultra Fusion series inspection solutions include offerings for advanced IC substrates, SLP, mSAP, advanced HDI, flexible printed circuits and more. The Discovery II AOI series AOI handles inspection challenges for MLB, quick turnaround (“QTA”), flex and HDI mass production.
+        
+Automated Optical Shaping (“AOS”)
+        AOS solutions are designed to address certain limitations inherent in the manual repair of PCBs by enabling the automatic shaping of defects in PCB production. Such defects include excess copper (causing electrical shorts) and missing copper (causing electrical opens). Efficient shaping can reduce the scrapping of unusable panels during the manufacturing process, enabling a significant reduction in manufacturers’ overall manufacturing costs. Orbotech AOS solutions ablate the excess conductor material or add copper where missing, and are commonly used for advanced PCBs, where manual repair is not practical.
+        Orbotech’s Precise series is an automated solution for shaping both open and shorts defects for increasingly fine line/space circuitry. The PerFix series addresses excess copper defects for advanced IC substrates, fine line applications, SLP/mSAP, advanced flex applications, and complex HDI and MLB manufacturing.
+        Inkjet/Additive Printing
+        Additive printing refers to the stage in the PCB manufacturing process during which characters and other non-functional patterns (“legends”) are printed on the PCB. Using a digital, non-contact, inkjet-based printing technology, digital print heads release droplets of ink from small apertures directly onto a given medium to create the required image. The Sprint series is our flagship solution for mass production PCB legend and serialization needs.
+Laser Drilling
+        Ultraviolet (“UV”) laser drilling is used to generate the interconnection (vias) between different layers in IC substrates for advanced packaging applications, where traditional mechanical drills or CO2 laser techniques cannot meet small via shape quality and accuracy specifications. The Emerald 160 UV laser drilling solutions address challenging IC substrate, IC packaging and flex applications, including skiving and routing.
+Laser Plotting
+        Laser plotters provide PCB manufacturers with the capability to quickly transform circuit designs on electronic media or design data retrieved from computer aided manufacturing (“CAM”) databases into accurate, reliable artwork for production photolithography tools. Orbotech’s LP-9 high speed laser plotters are designed for printing high density jobs on film that is subsequently used in the traditional PCB photolithography process.
+        Computer Aided Engineering/Manufacturing
+        CAM and engineering solutions from Frontline P.C.B. Solutions Limited Partnership (“Frontline”), an Orbotech subsidiary, are designed for use in the PCB pre-production phase to facilitate automation and integration of the sales, tooling, production data and inspection needs associated with PCB production.
+Smart Factory/Industry 4.0
+        Orbotech Smart Factory is an Industry 4.0 compliant solution that delivers manufacturing intelligence to help manufacturers increase yield, improve production floor management and better track production trends.
+Display Manufacturing
+        Flat Panel Display (“FPDs”), which include liquid-crystal displays (“LCDs”), organic light-emitting diode (“OLED”) displays and other types of displays, are currently used for laptop and desktop computers, tablets, televisions, smartphones, public electronic signs, automotive displays, digital and video cameras, augmented reality/virtual reality (“AR/VR”), wearable devices and a variety of other devices for technical, medical, aerospace and consumer electronics applications. LCDs and OLEDs are susceptible to various defects, many of which result from the deposition, photolithography and etching processes used in their production. Detection and repair of these defects during the production process allows manufacturers to improve monitoring of their production processes, avoid the expense of further costly material and improve their yields.
+        Orbotech’s FPD AOI and electrical testing systems identify and classify defects that may impact the performance of the display panel, while our repair systems are designed to enable customers to repair defects, thereby further improving the manufacturer’s yield and grade (quality) of displays.
+9
+Table of Contents
+        Automated Optical Inspection (“AOI”)
+        Orbotech’s automated optical inspection solutions accommodate all types of display panels up to and including Gen 10.5. The Quantum and FPI-6000 product lines inspect and classify defects to boost yield of high-volume LCD and flex OLED display production.
+        Electrical Testing
+        Orbotech’s electrical testing systems detect, locate, quantify and characterize electrical, contamination and other defects in LCD and OLED displays after array fabrication. These systems determine whether individual pixels or lines of pixels are functional and also identify subtle defects such as variations in individual pixel voltage. These defect data files are then used for repair and statistical process control. The Array Checker and Accelon systems comprise Orbotech’s electrical testing portfolio.
+        Repair
+        Orbotech’s Prism and Array Saver systems repair defects of any shape and any pattern for high-end TVs and flex OLED displays.
+Software Platform - Orbotech OASIS (Orbotech Advanced Software Integrated Solution)
+Orbotech OASIS is an artificial intelligence-driven software platform for increased operational efficiency and yield enhancement of panel display manufacturing. Orbotech OASIS™ delivers actionable manufacturing intelligence to customers, enabling them to make faster and smarter operational and process control decisions by leveraging advanced algorithms and machine learning of the data generated by their systems.
+Other:
+        KLA engages in the research, development and marketing of products for the deposition of thin film coating of various materials on crystalline silicon photovoltaic wafers for solar energy panels.
+KLA Services:
+Our services programs enable our customers in all business sectors to maintain the high performance and productivity of our products through a flexible array of service options. Whether a manufacturing site is producing integrated circuits, wafers, reticles, ICs, display or PCB products, our highly trained service teams collaborate with customers to determine the best products and services to meet technology and business requirements.
+10
+Table of Contents
+Product Table
+											
+SEGMENT	MARKETS	APPLICATIONS	PRODUCTS
+Semiconductor Process Control
+	Chip and Wafer Manufacturing
+Defect Inspection | Review
+	Patterned Wafer	
+39xx, 29xx Series
+eSL10
+Puma™ Series
+Voyager® 1015
+High Productivity and All Surface	
+CIRCL™ with 8 Series, CV350i, BDR300™ and Micro300 modules
+8 Series
+Unpatterned Wafer/Surface	
+Surfscan® SPx Series
+Electron-beam Review	
+eDR7xxx™ Series
+Data Analytics	
+Klarity® product family
+5D Analyzer®
+RDC
+FabVision®
+ProDATA™
+Metrology
+	Overlay	
+Archer™ Series
+ATL™ Series
+Optical CD and Shape	SpectraShape™ product family
+Film Thickness/Index	
+SpectraFilm™ product family
+Aleris® product family
+Filmetrics® F Series products
+Wafer Geometry and Topography	
+WaferSight™ Series
+PWG™ Series
+MicroSense UltraMap® Series
+Edge Bead Removal	CIRCL™
+Ion Implant and Anneal	
+Therma-Probe® 680XP
+Resistivity	
+OmniMap® RS product family
+CIPTech®
+microHall® Series
+microRSP® Series
+Magnetic Metrology	MicroSense PKMRAM, KerrMapper
+Surface Metrology	
+HRP® Series
+Tencor™ P Series
+Zeta™ Series
+Data Analytics
+	Inspection and Metrology Data Analysis	
+Klarity® product family
+5D Analyzer®
+RDC
+FabVision®
+ProDATA™
+Qoniac OVALiS
+In Situ Process Management
+	Lithography, Plasma Etch, Deposition, CMP, Ion Implant, Wet Processing, e-beam Mask Write, Reticle Processing, Wafer Handling	
+SensArray® product family
+
+In Situ Data Analytics
+	Lithography, Plasma Etch, Deposition, CMP, Ion Implant, Wet Processing	
+SensArray® PlasmaSuite, LithoSuite, ThermalSuite
+Patterning Simulation
+	Lithography Simulation	PROLITH™
+11
+Table of Contents
+
+											
+SEGMENT	MARKETS	APPLICATIONS	PRODUCTS
+	Reticle Manufacturing and Quality Control
+	Defect Inspection (mask shop)	
+Teron™ 600 Series, TeraScan™ 500XR
+Defect Inspection (wafer fab)	Teron™ SL6xx Series, X5.3™
+Defect Inspection (mask blanks)	
+FlashScan®
+Pattern Placement Metrology	LMS IPRO Series
+Data Analytics	
+RDC, Klarity® product family
+Packaging Manufacturing
+	Packaging Process
+Control on Wafer	
+CIRCL™-AP, Kronos™ Series, 8 Series, Zeta™-5xx/6xx, WI-2280
+Automated Optical Inspection	
+Ultra Fusion™
+VeriFine™
+Ultra Dimension™
+Data Analytics	
+Klarity® product family
+	Packaging Process Control After Singulation	
+Kronos™ Series, ICOS™ F16x, ICOS™ T3/T7/T8 Series
+MV9xxx™ Series
+Compound Semiconductor | HDD Manufacturing
+	LED, Photonics, RF Communications	
+8 Series, WI-2280, Candela® 8720, Zeta™-388, MicroXAM Series, Tencor™ P Series, HRP® Series, MicroSense UltraMap® Series
+Power Devices	
+8 Series, WI-2280, Candela® 8520, MicroXAM Series, Tencor™ P Series, HRP® Series
+MEMS	
+8 Series, Tencor™ P Series, HRP®Series, MicroXAM Series, Zeta™-20, Zeta™-300, Zeta™-388, Nano Indenter® G200X
+CPV Solar	ZetaScan Series, Zeta™-20, Zeta™-300
+MicroSense PV-6060, UltraMap Series
+Display	
+ZetaScan Series, SensArray® Process Probe 2070, Zeta™-300, Tencor™ P-17 OF, Nano Indenter® G200X
+Data Storage Media | Head Manufacturing	
+8 Series, Candela® 71xx, Candela® 63xx, HRP® Series, Tencor™ P Series, Zeta™-20, MicroXAM Series
+MicroSense Polar Kerr, DiskMapper
+Data Analytics	
+Klarity® product family
+General Purpose/Lab Applications
+	Surface Metrology: Stylus Profilometer	
+Tencor™ P Series, Alpha-Step® product family, HRP® Series
+Surface Metrology: Optical Profilometer	
+MicroXAM Series, Zeta™ Series, Filmetrics® Profilm3D series
+Nanomechanical and Micromechanical Testers	
+Nano Indenter® G200X, T150 UTM, uNano™
+iMicro, iNano®
+		Thin Film Reflectometers	
+Filmetrics® F-series
+12
+Table of Contents
+											
+SEGMENT	MARKETS	APPLICATIONS	PRODUCTS
+Specialty Semiconductor Process
+	Semiconductor Manufacturing
+	Etch	
+Omega® Series
+Primaxx® Series
+Xactix® Series
+Plasma Dicing	Mosaic™ Series
+Deposition	
+Sigma® Series
+Delta™ Series
+MVD® Series
+Additive Printing	Magna™
+JEText™
+PCB, Display and Component Inspection
+	Printed Circuit Boards
+	Direct Imaging	Nuvogo™ Series
+Paragon™ Series
+Orbotech Diamond™ Series
+Automated Optical Inspection	Ultra Dimension™ Series
+Ultra Fusion™/ Fusion™ Series
+Discovery™ II Series
+Automated Optical Shaping	Precise™ Series
+Ultra PerFix™/ PerFix™ Series
+Inkjet / Additive Printing	Sprint™ Series
+UV Laser Drilling	Emerald™ 160 Series
+Laser Plotters	LP™-9 Family
+Computer Aided Engineering / Manufacturing	Frontline InCAM Series, InQuery, InPlan, InPlan Flex
+	Smart Factory/Industry 4.0	Orbotech Smart Factory
+Display
+	Inspection 	Orbotech Quantum™ Series
+FPI-6000 Series
+Electrical Testing	Array Checker™ Series
+Accelon Series
+Repair	Orbotech Prism™ Series
+Array Saver™ Series
+	Software Platform	Orbotech OASIS (Orbotech Advanced Software Integrated Solution)
+Other
+	Photovoltaic Manufacturing
+	Deposition	
+Aurora PECVD®
+13
+Table of Contents
+Customers
+To support our growing global customer base, we maintain a significant presence throughout Asia, the United States and Europe, staffed with local sales and applications engineers, customer and field service engineers and yield management consultants. We count among our largest customers the leading semiconductor, semiconductor-related and electronic device manufacturers in each of these regions.
+For the fiscal years ended June 30, 2020, 2019 and 2018, the following customers each accounted for more than 10% of total revenues primarily in Semiconductor Process Control segment:
+														
+Year ended June 30,
+2020		2019		2018
+Taiwan Semiconductor Manufacturing Company Limited		Taiwan Semiconductor Manufacturing Company Limited		Samsung Electronics Co., Ltd.
+Samsung Electronics Co., Ltd.				
+Our business depends upon the capital expenditures of semiconductor, semiconductor-related and electronic device manufacturers, which in turn is driven by the current and anticipated market demand for ICs, products utilizing ICs and other electronic components. We do not consider our business to be seasonal in nature, but it has historically been cyclical with respect to the capital equipment procurement practices of semiconductor, semiconductor-related and electronic device manufacturers, and it is impacted by the investment patterns of such manufacturers in different global markets. Downturns in the semiconductor or other industries in which we operate, or slowdowns in the worldwide economy as well as customer consolidation could have a material adverse effect on our future business and financial results.
+Sales, Service and Marketing
+Our sales, service and marketing efforts are aimed at building deep long-term relationships with our customers. We focus on providing comprehensive resources for the full breadth of process control, process-enabling and yield management solutions for manufacturing and testing wafers and reticles, integrated circuits, packaging, light emitting diodes, power devices, compound semiconductor devices, microelectromechanical systems, data storage, printed circuit boards and flat and flexible panel displays, as well as general materials research. Our customers benefit from the simplified planning and coordination, as well as the increased equipment compatibility, which are realized as a result of dealing with a single supplier for multiple products and services. Our revenues are derived primarily from product sales and related service contracts, mostly through our direct sales force.
+We believe that the size and location of our field sales, service and applications engineering, and marketing organizations represent a competitive advantage in our served markets. We have direct sales forces in Asia, the United States and Europe. We maintain an export compliance program that is designed to meet the requirements of the United States Departments of Commerce and State.
+As of June 30, 2020, we employed approximately 4,020 full-time sales and related personnel, service engineers and applications engineers. In addition to sales and service offices in the United States, we conduct sales, marketing and services out of subsidiaries or branches in other countries, including China, Germany, Israel, United Kingdom, Japan, Singapore, Korea and Taiwan. International revenues accounted for approximately 89%, 87%, and 88% of our total revenues in the fiscal years ended June 30, 2020, 2019 and 2018, respectively. Additional information regarding our revenues from foreign operations for our last three fiscal years can be found in Note 19, “Segment Reporting and Geographic Information” to the Consolidated Financial Statements.
+We believe that sales outside the United States will continue to be a significant percentage of our total revenues. Our future performance will depend, in part, on our ability to continue to compete successfully in Asia, one of the largest markets for our equipment. Our ability to compete in this area is dependent upon the continuation of favorable trading relationships between countries in the region and the United States, and our continuing ability to maintain satisfactory relationships with leading semiconductor companies in the region.
+14
+Table of Contents
+International sales and operations may be adversely affected by the imposition of governmental controls, restrictions on export technology, political instability, trade restrictions, changes in tariffs and the difficulties associated with staffing and managing international operations. In addition, international sales may be adversely affected by the economic conditions in each country and by fluctuations in currency exchange rates, and such fluctuations may negatively impact our ability to compete on price with local providers or the value of revenues we generate from our international business. Although we attempt to manage some of the currency risk inherent in non-U.S. dollar product sales through hedging activities, there can be no assurance that such efforts will be adequate. These factors, as well as any of the other risk factors related to our international business and operations that are described in Item 1A, “Risk Factors,” could have a material adverse effect on our future business and financial results.
+Backlog
+Our backlog which represents our performance obligation to deliver products and services, totaled $2.13 billion and $1.84 billion as of June 30, 2020 and 2019, respectively, and primarily consists of sales orders where written customer requests have been received and a majority of the delivery is anticipated within the next 12 months. Orders for service contracts and unreleased products are included in the backlog. All orders are subject to risk of delays, pushouts, and cancellation by the customer, usually with limited or no penalties.
+Because customers can potentially change delivery schedules or delay or cancel orders, and because some orders are received and shipped within the same quarter, our shipment backlog at any particular date is not necessarily indicative of business volumes or actual sales for any succeeding periods. The historical cyclicality of the semiconductor industry combined with the lead times from our suppliers sometimes result in timing disparities between, on the one hand, our ability to manufacture, deliver and install products and, on the other, the requirements of our customers. In our efforts to balance the requirements of our customers with the availability of resources, management of our operating model and other factors, we often must exercise discretion and judgment as to the timing and prioritization of manufacturing, deliveries and installations of products, which may impact the timing of revenue recognition with respect to such products.
+Research and Development
+The market for semiconductor and electronics industries is characterized by rapid technological development and product innovation. These technical innovations are inherently complex and require long development cycles and appropriate professional staffing. We believe that continued and timely development of new products and enhancements to existing products are necessary to maintain our competitive position. Accordingly, we devote a significant portion of our human and financial resources to research and development programs and seek to maintain close relationships with customers to remain responsive to their needs. In addition, we may enter certain strategic development and engineering programs whereby certain government agencies or other third parties fund a portion of our research and development costs. As of June 30, 2020, we employed approximately 2,870 full-time research and development personnel.
+Our key research and development activities during the fiscal year ended June 30, 2020 involved the development of process control and process-enabling solutions for a broad range of industries including semiconductors, printed circuit boards and displays. For information regarding our research and development expenses during the last three fiscal years, see Item 7 “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in this Annual Report on Form 10-K.
+The strength of our competitive positions in many of our existing markets is largely due to our leading technology, which is the result of our continuing significant investments in product research and development. Even during down cycles in the semiconductor industry, we have remained committed to significant engineering efforts toward both product improvement and new product development in order to enhance our competitive position. New product introductions, however, may contribute to fluctuations in operating results, since customers may defer ordering existing products, and, if new products have reliability or quality problems, those problems may result in reduced orders, higher manufacturing costs, delays in acceptance of and payment for new products, and additional service and warranty expenses. There can be no assurance that we will successfully develop and manufacture new products, or that new products introduced by us will be accepted in the marketplace. If we do not successfully introduce new products, our results of operations will be adversely affected.
+Manufacturing, Raw Materials and Supplies
+We perform system design, assembly and testing in-house and utilize an outsourcing strategy for the manufacture of components and major subassemblies. Our in-house manufacturing activities consist primarily of assembling and testing components and subassemblies that are acquired through third-party vendors and integrating those subassemblies into our finished products. Our principal manufacturing activities take place in the United States, Singapore, Israel, Germany, United Kingdom, Italy, and China. As of June 30, 2020, we employed approximately 1,830 full-time manufacturing personnel.
+15
+Table of Contents
+Some critical parts, components and subassemblies (collectively, “parts”) that we use are designed by us and manufactured by suppliers in accordance with our specifications, while other parts are standard commercial products. We use numerous vendors to supply parts and raw materials for the manufacture and support of our products. Although we make reasonable efforts to ensure that these parts and raw materials are available from multiple suppliers, this is not always possible, and certain parts and raw materials included in our systems may be obtained only from a single supplier or a limited group of suppliers. Through our business interruption planning, we endeavor to minimize the risk of production interruption by, among other things, monitoring the financial condition of suppliers of key parts and raw materials, identifying (but not necessarily qualifying) possible alternative suppliers of such parts and materials, and ensuring adequate inventories of key parts and raw materials are available to maintain manufacturing schedules.
+Although we seek to reduce our dependence on sole and limited source suppliers, in some cases the partial or complete loss of certain of these sources, or disruptions within our suppliers’ often-complex supply chains, could disrupt scheduled deliveries to customers, damage customer relationships and have a material adverse effect on our results of operations.
+Competition
+The worldwide market for technologically advanced, process control, process-enabling and yield management solutions used by semiconductor and electronics manufactures is highly competitive. In each of our product markets, we have many competitors, including companies such as Applied Materials, Inc., ASML Holding N.V., Hitachi High-Technologies Corporation, Onto Innovation, Inc. and Lasertec, Inc., some of which may have greater financial, research, engineering, manufacturing and marketing resources than we have. We may also face future competition from new market entrants from other overseas and domestic sources. We expect our competitors to continue to improve the design and performance of their current products and processes and to introduce new products and processes with improved price and performance characteristics. We believe that, to remain competitive, we will require significant financial resources to offer a broad range of products, to maintain customer service and support centers worldwide, and to invest in product and process research and development.
+We believe that, while price and delivery are important competitive factors, the customers’ overriding requirement is for systems that easily and effectively incorporate automated capabilities into their existing development and manufacturing processes to enhance productivity. Significant competitive factors in the market for process control and process-enabling systems include system performance, ease of use, reliability, interoperability with the existing installed base and technical service and support, as well as overall cost of ownership.
+Management believes that we are well positioned in the market with respect to both our products and services. However, any loss of competitive position could negatively impact our prices, customer orders, revenues, gross margins and market share, any of which could negatively impact our operating results and financial condition.
+Acquisitions and Alliances
+We continuously evaluate strategic acquisitions and alliances to expand our technologies, product offerings and distribution capabilities. Acquisitions involve numerous risks, including management issues and costs in connection with integration of the operations, technologies and products of the acquired companies, and the potential loss of key employees of the acquired companies. The inability to manage these risks effectively could negatively impact our operating results and financial condition.
+Patents and Other Proprietary Rights
+We protect our proprietary technology through reliance on a variety of intellectual property laws, including patent, copyright and trade secret. We have filed and obtained a number of patents in the United States and abroad and intend to continue pursuing the legal protection of our technology through intellectual property laws. In addition, from time to time we acquire license rights under United States and foreign patents and other proprietary rights of third parties, and we attempt to protect our trade secrets and other proprietary information through confidentiality and other agreements with our customers, suppliers, employees and consultants and through other security measures.
+Although we consider patents and other intellectual property significant to our business, no single patent, copyright or trade secret is essential to us as a whole or to any of our business segments.
+No assurance can be given that patents will be issued on any of our applications, that license assignments will be made as anticipated, or that our patents, licenses or other proprietary rights will be sufficiently broad to protect our technology. No assurance can be given that any patents issued to or licensed by us will not be challenged, invalidated or circumvented or that the rights granted thereunder will provide us with a competitive advantage. In addition, there can be no assurance that we will be able to protect our technology or that competitors will not be able to independently develop similar or functionally competitive technology.
+16
+Table of Contents
+Environmental Matters
+We are subject to a variety of federal, state and local governmental laws and regulations related to the protection of the environment, including without limitation the management of hazardous materials that we use in our business operations. Compliance with these environmental laws and regulations has not had, and is not expected to have, a material effect on our capital expenditures, financial condition, results of operations or competitive position.
+However, any failure to comply with environmental laws and regulations may subject us to a range of consequences, including fines, suspension of certain of our business activities, limitations on our ability to sell our products, obligations to remediate environmental contamination, and criminal and civil liabilities or other sanctions. In addition, changes in environmental laws and regulations could require us to invest in potentially costly pollution control equipment, alter our manufacturing processes or use substitute materials. Our failure to comply with these laws and regulations could subject us to future liabilities.
+Employees
+As of June 30, 2020, we employed approximately 10,600 full-time employees. Except for our employees in Belgium (where a trade union delegation has been recognized) and our employees in the German operations of our MIE business unit (who are represented by employee works council), none of our employees are represented by a labor union. We have not experienced work stoppages and believe that our employee relations are good.
+Competition is intense in the recruiting of personnel in the semiconductor and semiconductor equipment industry. We believe that our future success will depend, in part, on our continued ability to hire and retain qualified management, marketing and technical employees.
+
+17
+Table of Contents
+Glossary
+This section provides definitions for certain industry and technical terms commonly used in our business, which are used elsewhere in this Item 1:
+								
+active matrix		A technology used in flat panel displays to control the imaging-produced active areas where the display pixels are located.
+		
+broadband	  	An illumination source with a wide spectral bandwidth.
+		
+computer-aided manufacturing (CAM)		An application technology that uses computer software and machinery to facilitate and automate manufacturing processes.
+		
+critical dimension (CD)	  	The dimension of a specified geometry (such as the width of a patterned line or the distance between two lines) that must be within design tolerances in order to maintain semiconductor device performance consistency.
+		
+design rules	  	Rules that set forth the allowable dimensions of particular features used in the design and layout of integrated circuits.
+		
+design technology co-optimization (DTCO)		The methodology of optimizing semiconductor design and process simultaneously during the technology definition phase.
+		
+die	  	The term for a single semiconductor chip on a wafer.
+		
+electron-beam	  	An illumination source comprised of a stream of electrons emitted by a single source.
+		
+epitaxial silicon (epi)		A substrate technology based on growing a crystalline silicon layer on top of a silicon wafer. The added layer, where the structure and orientation are matched to those of the silicon wafer, includes dopants (impurities) to imbue the substrate with special electronic properties.
+		
+etching		A process step in which layers of material are removed from a semiconductor wafer in a specific pattern.
+		
+excursion	  	For a manufacturing step or process, a deviation from normal operating conditions that can lead to decreased performance or yield of the final product.
+		
+fab		The main manufacturing facility for processing semiconductor wafers.
+		
+finFET		A type of field-effect transistor (FET), often with source and drain geometries that resemble fins.
+		
+flat panel display (FPD)		A display appliance that uses a thin panel design. Also includes flexible displays.
+		
+flexible printed circuit (FPC)		Flexible circuits in a device provide mechanical support and connect various electrical and mechanical components together using material that can be shaped, bent, twisted or folded.
+		
+front end	  	The processes that make up the first half of the semiconductor manufacturing process, from wafer start through final contact window processing.
+		
+geometry		The surface shape of an object, such as the 3D shape of a semiconductor device structure or the shape of base or patterned wafers
+		
+high-density interconnect (HDI)		HDI PCBs have a higher wiring density per unit area, finer lines and spaces, smaller vias, smaller capture pads and higher connection pad density than conventional PCBs.
+		
+in situ	  	Refers to processing steps or tests that are done without moving the wafer. Latin for “in original position.”
+		
+ingot		A piece of pure metal intended to be processed. In semiconductors, a silicon ingot is typically created in such a way that slicing cross-sections creates bare wafers.
+		
+18
+Table of Contents
+								
+interconnect	  	A highly conductive material, usually copper or aluminum, which carries electrical signals to different parts of a die.
+		
+internet of things (IoT)		A network of devices with the ability to transfer data without human interaction.
+		
+liquid crystal display (LCD)		A flat panel display technology that uses a backlight to provide light to individual pixels arranged in a grid.
+		
+lithography	  	A process in which a masked pattern is projected onto a photosensitive coating that covers a substrate.
+		
+mask shop	  	A manufacturer that produces the reticles used by semiconductor manufacturers.
+		
+metrology	  	The science of measurement to determine dimensions, quantity or capacity. In the semiconductor industry, typical measurements include critical dimension, overlay and film thickness.
+		
+microelectromechanical systems (MEMS)		Micron-sized mechanical devices powered by electricity, created using processes similar to those used to manufacture IC devices.
+		
+micron	  	
+A metric unit of linear measure that equals 1/1,000,000 meter (10-6m), or 10,000 angstroms (the diameter of a human hair is approximately 75 microns).
+		
+Moore’s Law
+		An observation made by Gordon Moore in 1965 and revised in 1975 that the number of transistors on a typical integrated circuit doubles approximately every two years.
+		
+multi-layer boards (MLB)		A printed circuit board (PCB) made up of three or more conductive layers that are pressed together.
+		
+nanometer (nm)	  	
+One billionth (10-9) of a meter.
+		
+organic light emitting diode (OLED)		A flat panel display technology containing thin flexible sheets of an organic electroluminescent material, used for visual displays.
+		
+patterned	  	For semiconductor manufacturing and industries using similar processing technologies, refers to substrates that have electronic circuits (transistors, interconnects, etc.) fabricated on the surface.
+		
+photoresist	  	A radiation-sensitive material that, when properly applied to a variety of substrates and then properly exposed and developed, masks portions of the substrate with a high degree of integrity.
+		
+photovoltaic		The property of semiconductor devices to create electric current through exposure to sunlight.
+		
+printed circuit board (PCB)		A board used to mechanically support and electrically connect various electrical and mechanical components.
+		
+process control	  	The ability to maintain specifications of products and equipment during manufacturing operations.
+		
+reticle	  	A very flat glass plate that contains the patterns to be reproduced on a wafer.
+		
+silicon on insulator (SOI)		A substrate technology comprised of a thin top silicon layer separated from the silicon substrate by a thin insulating layer of glass or silicon dioxide, used to improve performance and reduce the power consumption of IC circuits.
+		
+SLP/mSAP		Substrate-like PCB/modified semi-additive process is an advanced manufacturing process or technique that enables fine line and space patterns with higher manufacturing precision that maximizes circuit density.
+		
+substrate	  	A wafer or other material on which layers of various materials are added during the process of manufacturing semiconductor devices (circuits), flat panel displays or printed circuit boards.
+19
+Table of Contents
+								
+		
+unpatterned	  	For semiconductor manufacturing and industries using similar processing technologies, refers to substrates that do not have electronic circuits (transistors, interconnects, etc.) fabricated on the surface. These can include bare silicon wafers, other bare substrates or substrates on which blanket films have been deposited.
+		
+yield management	  	The ability of a semiconductor manufacturer to oversee, manage and control its manufacturing processes so as to maximize the percentage of manufactured wafers or die that conform to pre-determined specifications.

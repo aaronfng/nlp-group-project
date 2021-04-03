@@ -1,0 +1,263 @@
+Overview
+Penn National Gaming, Inc., together with its subsidiaries (“Penn National,” the “Company,” “we,” “our,” or “us”), is a leading, diversified, multi-jurisdictional owner and manager of gaming and racing properties, retail and online sports betting operations, and video gaming terminal (“VGT”) operations. Our wholly-owned interactive division, Penn Interactive Ventures, LLC (“Penn Interactive”), operates retail sports betting across the Company’s portfolio, as well as online sports betting, online social casino, bingo and online casinos (“iGaming”). In February 2020, the Company acquired 36% (inclusive of 1% on a delayed basis) equity interest in Barstool Sports, Inc. (“Barstool Sports”), a leading digital sports, entertainment, lifestyle and media company, and entered into a strategic relationship with Barstool Sports, whereby Barstool Sports will exclusively promote the Company's land-based retail sportsbooks, iGaming products and online sports betting products, including the Barstool Sportsbook mobile app, to its national audience. We launched an online sports betting app called Barstool Sports in Pennsylvania in September 2020 and in Michigan in January 2021. We also operate iGaming in Pennsylvania and Michigan. Our MYCHOICE® customer loyalty program (the "mychoice program") currently has over 20 million members and provides such members with various benefits, including complimentary goods and/or services. The Company’s strategy has continued to evolve from an owner and manager of gaming and racing properties into an omni-channel provider of retail and online gaming, live racing and sports betting entertainment. We believe our continued evolution into a best-in-class omni-channel provider of retail and online gaming and sports betting entertainment will be a catalyst for our core land-based business, while also providing a platform for significant long-term shareholder value. References in this Annual Report on Form 10-K, to “Penn National,” the “Company,” “we,” “our,” or “us” refer to Penn National Gaming, Inc. and its subsidiaries, except where stated or the context otherwise indicates.
+
+As of December 31, 2020, we owned, managed, or had ownership interests in 41 properties in 19 states. The majority of the real estate assets (i.e., land and buildings) used in the Company’s operations are subject to triple net master leases; the most significant of which are the Penn Master Lease and the Pinnacle Master Lease (as such terms are defined in the “Triple Net Leases” section below and collectively referred to as the “Master Leases”), with Gaming and Leisure Properties, Inc. (NASDAQ: GLPI) (“GLPI”), a real estate investment trust (“REIT”). In addition, we are currently developing two Category 4 satellite gaming casinos in Pennsylvania: Hollywood Casino York and Hollywood Casino Morgantown, both of which are expected to commence operations by the end of 2021.
+On March 11, 2020, the World Health Organization declared the novel coronavirus (known as “COVID-19”) outbreak to be a global pandemic. To help combat the spread of COVID-19 and pursuant to various orders from state gaming regulatory bodies or governmental authorities, operations at all of our properties were temporarily suspended for single or multiple time periods during the year. Once re-opened, properties operated with reduced gaming and hotel capacity and limited food and beverage offerings in order to accommodate social distancing and health and safety protocols.
+During the fourth quarter of 2020, our properties temporarily suspended operations in Pennsylvania, Michigan and Illinois and were subject to increased operational restrictions in Ohio and Massachusetts (among other states). Our Michigan property temporarily closed on November 17, 2020 and reopened on December 23, 2020. Our Pennsylvania properties temporarily closed on December 12, 2020 and reopened on January 4, 2021. Our Illinois properties temporarily closed on November 20, 2020 and began reopening with limited hours of operations beginning January 16, 2021 and throughout the week. The property closures were pursuant to the various orders from state gaming regulatory bodies or governmental authorities to combat the rapid spread of COVID-19. As of February 26, 2021, all of our properties were open to the public with the exception of Zia Park and Valley Race Park, which remain closed.
+
+The COVID-19 pandemic caused significant disruptions to our business and had a material adverse impact on our financial condition, results of operations and cash flows, the magnitude of which continues to develop. During the year, substantial measures were taken to improve our financial position and liquidity as discussed in our Consolidated Financial Statements Note 1, “Organization and Basis of Presentation”.
+In February 2020, we closed on our investment in Barstool Sports pursuant to a stock purchase agreement with Barstool Sports and stockholders of Barstool Sports, in which we purchased approximately 36% of the common stock of Barstool Sports for a purchase price of $161.2 million. Within three years after the closing or earlier at our election, we will increase our ownership in Barstool Sports to approximately 50% with an incremental investment of approximately $62 million, consistent with the implied valuation at the time of the initial investment. With respect to the remaining Barstool Sports shares, we have immediately exercisable call rights, and the existing Barstool Sports stockholders have put rights exercisable beginning three
+1
+Table of Contents
+years after closing, all based on a fair market value calculation at the time of exercise (subject to a cap of $650.0 million and a floor of 2.25 times the annualized revenue of Barstool Sports, all subject to various adjustments). Upon closing, we became Barstool Sports’ exclusive gaming partner for up to 40 years and have the sole right to utilize the Barstool Sports brand for all of our online and retail sports betting and iGaming products. For additional information, see Note 7, "Investments in and Advances to Unconsolidated Affiliates".
+On December 15, 2020, the Company entered into a definitive agreement with GLPI to purchase the operations of Hollywood Casino Perryville for $31.1 million. The transaction is expected to close during the second or third quarter of 2021, subject to approval of the Maryland Lottery and Gaming Control Commission and other customary closing conditions. Simultaneous with the closing of the transaction, we would lease the real estate assets associated with Hollywood Casino Perryville from GLPI with initial annual rent of $7.8 million per year subject to escalation. For additional information on our acquisitions, see Note 6, “Acquisitions and Dispositions.”
+In May 2019, we acquired Greektown Casino-Hotel (“Greektown”) in Detroit, Michigan, subject to a triple net lease with VICI Properties Inc. (NYSE: VICI) (“VICI”, a REIT and collectively with GLPI, our “REIT Landlords”) (the “Greektown Lease”) and, in January 2019, we acquired Margaritaville Casino Resort (“Margaritaville”) in Bossier City, Louisiana, subject to a triple net lease with VICI (the “Margaritaville Lease” and collectively with the Master Leases, the Greektown Lease, the Meadows Lease, the Tropicana Lease and the Morgantown Lease, of which the Meadows Lease, the Tropicana Lease and Morgantown Lease are defined in the “Triple Net Leases” section below, the “Triple Net Leases”).
+
+In October 2018, the Company completed the acquisition of Pinnacle Entertainment, Inc. (“Pinnacle”), a leading regional gaming operator (the “Pinnacle Acquisition”). In connection with the Pinnacle Acquisition, we added 12 gaming properties to our portfolio, providing us with greater operational scale and geographic diversity. We assumed the Pinnacle Master Lease concurrently with the closing of the Pinnacle Acquisition.
+
+We believe that our portfolio of assets provides us the benefit of geographically-diversified cash flow from operations. We expect to continue to expand our gaming operations through the implementation and execution of a disciplined capital expenditure program at our existing properties, the pursuit of strategic acquisitions and investments, and the development of new gaming properties. In addition, the partnership with Barstool Sports reflects our strategy to continue evolving from the nation’s largest regional gaming operator to a best-in-class omni-channel provider of retail and online gaming and sports betting entertainment.
+
+Triple Net Leases
+As noted above, the majority of the real estate assets used in the Company’s operations are subject to either the Penn Master Lease or the Pinnacle Master Lease. In addition to the Penn Master Lease and the Pinnacle Master Lease, five individual gaming facilities used in our operations are subject to individual triple net leases. Under triple net leases, in addition to lease payments for the real estate assets, the Company is required to pay the following, among other things: (1) all facility maintenance; (2) all insurance required in connection with the leased properties and the business conducted on the leased properties; (3) taxes levied on or with respect to the leased properties (other than taxes on the income of the lessor); (4) all tenant capital improvements; and (5) all utilities and other services necessary or appropriate for the leased properties and the business conducted on the leased properties.
+
+The following summaries of the Master Leases are qualified in their entirety by reference to either the Penn Master Lease or the Pinnacle Master Lease, as applicable, all of which are incorporated by reference in the exhibits to this Annual Report on Form 10-K.
+Penn Master Lease
+Pursuant to a triple net master lease with GLPI (the “Penn Master Lease”), which became effective November 1, 2013, the Company leases real estate assets associated with 19 of the gaming facilities used in its operations. The Penn Master Lease has an initial term of 15 years with four subsequent, five-year renewal periods on the same terms and conditions, exercisable at the Company’s option. If we elect to renew the term of the Penn Master Lease, the renewal will be effective as to all of the leased real estate assets then subject to the Penn Master Lease, subject to limitations on the final renewal term with respect to certain of the barge-based facilities.
+Pinnacle Master Lease
+In connection with the Pinnacle Acquisition, the Company assumed a triple net master lease with GLPI (“Pinnacle Master Lease”), originally effective April 28, 2016. Pursuant to the Pinnacle Master Lease, the Company leases real estate assets associated with 12 of the gaming facilities used in its operations from GLPI. Upon assumption of the Pinnacle Master Lease, as
+2
+Table of Contents
+amended, there were 7.5 years remaining of the initial ten-year term, with five subsequent, five-year renewal periods exercisable at the Company’s option. Furthermore, in conjunction with the Pinnacle Acquisition, GLPI acquired the real estate assets associated with Plainridge Park Casino and leased back such assets to the Company pursuant to an amendment to the Pinnacle Master Lease.
+
+Morgantown Lease
+On October 1, 2020, we sold the land underlying our Morgantown development project to GLPI in exchange for rent credits of $30.0 million. Contemporaneous with the sale, the Company entered into a triple net lease with a subsidiary of GLPI for the land underlying Morgantown (“Morgantown Lease”). The initial term of the Morgantown Lease is twenty years with six subsequent, five-year renewal periods, exercisable at the Company’s option.
+Meadows Lease, Margaritaville Lease, Greektown Lease and Tropicana Lease
+In connection with the Pinnacle Acquisition, the Company assumed a triple net lease of the real estate assets used in the operations of Meadows Racetrack and Casino (the “Meadows Lease”), originally effective September 9, 2016, with GLPI as the landlord. Upon assumption of the Meadows Lease, there were eight years remaining of the initial ten-year term, with three subsequent, five-year renewal options followed by one four-year renewal option on the same terms and conditions, exercisable at the Company’s option.
+As discussed above, in separate acquisitions, the Company entered into the Margaritaville Lease with VICI for the real estate assets used in the operations of Margaritaville and the Greektown Lease with VICI for the real estate assets used in the operations of Greektown. Both the Margaritaville Lease and the Greektown Lease have initial terms of 15 years, with four subsequent five-year renewal options on the same terms and conditions, exercisable at the Company’s option.
+On April 16, 2020, we sold the real estate assets associated with our Tropicana Las Vegas ("Tropicana") property to a subsidiary of GLPI in exchange for rent credits of $307.5 million. Contemporaneous with the sale, the Company entered into a leaseback of the real estate assets for nominal cash rent. We are required to continue to operate the Tropicana for two years (subject to three one-year extensions at GLPI’s option) or until the real estate assets and the operations of the Tropicana are earlier sold by GLPI.
+
+3
+Table of Contents
+Operating Properties
+The table below summarizes certain features of the properties owned, operated or managed by us as of December 31, 2020, by reportable segment (all area and capacity metrics are approximate):
+																																									
+	Location		Real Estate Assets Lease or Ownership Structure		Type of Facility		Gaming Square Footage		Gaming Machines		
+Table Games (1)
+		Hotel Rooms
+Northeast segment (2)
+													
+Ameristar East Chicago	East Chicago, IN		Pinnacle Master Lease		Dockside gaming		73,000		1,796		75		288
+Greektown Casino-Hotel	Detroit, MI		Greektown Lease		Land-based gaming		100,000		2,362		62		400
+Hollywood Casino Bangor	Bangor, ME		Penn Master Lease		Land-based gaming/racing		31,750		726		14		152
+Hollywood Casino at Charles Town Races	Charles Town, WV		Penn Master Lease		Land-based gaming/racing		115,000		2,292		74		153
+Hollywood Casino Columbus	Columbus, OH		Penn Master Lease		Land-based gaming		177,000		2,066		74		—
+Hollywood Casino Lawrenceburg (3)
+	Lawrenceburg, IN		Penn Master Lease		Dockside gaming		149,500		1,521		58		463
+Hollywood Casino at Penn National Race Course	Grantville, PA		Penn Master Lease		Land-based gaming/racing		99,500		1,962		80		—
+Hollywood Casino Toledo	Toledo, OH		Penn Master Lease		Land-based gaming		125,000		1,848		69		—
+Hollywood Gaming at Dayton Raceway	Dayton, OH		Penn Master Lease		Land-based gaming/racing		40,600		814		—		—
+Hollywood Gaming at Mahoning Valley Race Course	Youngstown, OH		Penn Master Lease		Land-based gaming/racing		50,000		1,127		—		—
+Marquee by Penn (4)
+	Pennsylvania		N/A		Land-based gaming		N/A		115		—		—
+Meadows Racetrack and Casino	Washington, PA		Meadows Lease		Land-based gaming/racing		125,000		2,463		95		—
+Plainridge Park Casino	Plainville, MA		Pinnacle Master Lease		Land-based gaming/racing		50,000		1,181		—		—
+													
+South segment													
+1st Jackpot Casino
+	Tunica, MS		Penn Master Lease		Dockside gaming		40,000		839		12		—
+Ameristar Vicksburg	Vicksburg, MS		Pinnacle Master Lease		Dockside gaming		70,000		1,102		24		148
+Boomtown Biloxi	Biloxi, MS		Penn Master Lease		Dockside gaming		35,500		605		20		—
+Boomtown Bossier City	Bossier City, LA		Pinnacle Master Lease		Dockside gaming		30,000		806		16		187
+Boomtown New Orleans	New Orleans, LA		Pinnacle Master Lease		Dockside gaming		30,000		1,132		31		150
+Hollywood Casino Gulf Coast	Bay St. Louis, MS		Penn Master Lease		Land-based gaming		51,000		829		20		291
+Hollywood Casino Tunica	Tunica, MS		Penn Master Lease		Dockside gaming		54,000		900		10		494
+L’Auberge Baton Rouge	Baton Rouge, LA		Pinnacle Master Lease		Dockside gaming		71,500		1,305		49		205
+L’Auberge Lake Charles	Lake Charles, LA		Pinnacle Master Lease		Dockside gaming		70,000		1,469		85		995
+Margaritaville Resort Casino	Bossier City, LA		Margaritaville Lease		Dockside gaming		30,000		1,109		50		395
+													
+West segment													
+Ameristar Black Hawk	Black Hawk, CO		Pinnacle Master Lease		Land-based gaming		56,000		1,050		38		536
+Cactus Petes and Horseshu	Jackpot, NV		Pinnacle Master Lease		Land-based gaming		29,000		743		21		416
+M Resort	Henderson, NV		Penn Master Lease		Land-based gaming		96,000		1,073		40		390
+Tropicana Las Vegas	Las Vegas, NV		Tropicana Lease		Land-based gaming		72,000		632		20		1,470
+Zia Park Casino	Hobbs, NM		Penn Master Lease		Land-based gaming/racing		18,000		754		—		154
+													
+Midwest segment													
+Ameristar Council Bluffs (5)
+	Council Bluffs, IA		Pinnacle Master Lease		Dockside gaming		35,000		1,421		22		444
+Argosy Casino Alton (6)
+	Alton, IL		Penn Master Lease		Dockside gaming		23,000		705		12		—
+Argosy Casino Riverside	Riverside, MO		Penn Master Lease		Dockside gaming		56,000		1,200		42		258
+Hollywood Casino Aurora	Aurora, IL		Penn Master Lease		Dockside gaming		53,000		976		27		—
+Hollywood Casino Joliet	Joliet, IL		Penn Master Lease		Dockside gaming		50,000		1,100		26		100
+Hollywood Casino at Kansas Speedway (7)
+	Kansas City, KS		Owned - JV		Land-based gaming		95,000		2,000		41		—
+Hollywood Casino St. Louis	Maryland Heights, MO		Penn Master Lease		Dockside gaming		120,000		2,017		63		502
+Prairie State Gaming (4)
+	Illinois		N/A		Land-based gaming		N/A		2,047		—		—
+River City Casino	St. Louis, MO		Pinnacle Master Lease		Dockside gaming		90,000		1,945		53		200
+													
+Other													
+Freehold Raceway (8)
+	Freehold, NJ		Owned - JV		Standardbred racing		—		—		—		—
+Retama Park Racetrack (9)
+	Selma, TX		None - Managed		Thoroughbred racing		—		—		—		—
+Sam Houston Race Park (10)
+	Houston, TX		Owned - JV		Thoroughbred racing		—		—		—		—
+Sanford-Orlando Kennel Club (11)
+	Longwood, FL		Owned		Greyhound racing/simulcasting		—		—		—		—
+Valley Race Park (10)
+	Harlingen, TX		Owned - JV		Greyhound racing		—		—		—		—
+							2,411,350		48,032		1,323		8,791
+4
+Table of Contents
+(1)Excludes poker tables.
+(2)We expect that Hollywood Casino York and Hollywood Casino Morgantown will be included within our Northeast segment.
+(3)Includes 168 rooms at our hotel and event center located less than a mile from the gaming facility.
+(4)VGT route operations.
+(5)Includes 284 rooms operated by a third party and located on land leased by us and subleased to such third party.
+(6)The riverboat is owned by us and not subject to the Penn Master Lease.
+(7)Pursuant to a joint venture with NASCAR.
+(8)Pursuant to a joint venture with Greenwood Limited Jersey, Inc., a subsidiary of Greenwood Racing, Inc.
+(9)Pursuant to a management contract with Retama Development Corporation.
+(10)Pursuant to a joint venture with MAXXAM, Inc. (“MAXXAM”).
+(11)In the fourth quarter of 2020, we sold the land underlying the Sanford-Orlando Kennel Club racetrack which discontinued our live racing operations. We continue to operate our simulcast racing business.
+
+Northeast Segment
+Ameristar East Chicago is located less than 25 miles from downtown Chicago, Illinois and offers guests a gaming and entertainment experience in the Chicago metropolitan area. In addition to gaming amenities, the property features a full-service hotel, a sportsbook for live sports betting, a fitness center, dining venues, lounges and 5,400 square feet of meeting and event space.
+
+Greektown Casino-Hotel is located in the Greektown district of Detroit, Michigan, and is one of four casino hotels in the Detroit-Windsor area. In addition to slot machines, table games, poker tables and a sportsbook for live sports betting, the property features a 30-story hotel, several food and beverage options from casual to fine dining, as well as 10,000 square feet of convention and banquet space.
+
+Hollywood Casino Bangor is located less than five miles from the Bangor airport in Maine. It features slot machines, table games and poker tables, as well as a hotel with 5,100 square feet of meeting and multipurpose space; and dining and entertainment options. Bangor Raceway, which is adjacent to the property, is located at historic Bass Park and includes a one-half mile standardbred racetrack and a 12,000 square foot grandstand capable of seating 3,500 patrons.
+
+Hollywood Casino at Charles Town Races is located within approximately an hour drive of the Baltimore, Maryland and Washington, D.C. markets. In addition to slot machines, table games and poker tables, the property includes a sportsbook for live sports betting, as well as a variety of dining options. The complex also features live thoroughbred racing at a 3/4-mile all-weather lighted thoroughbred racetrack with a 3,000-seat grandstand and simulcast wagering.
+Hollywood Casino Columbus is a Hollywood-themed casino located in Columbus, Ohio. It features slot machines, table games and poker tables as well as multiple food and beverage outlets, and an entertainment lounge.
+
+Hollywood Casino Lawrenceburg is a Hollywood-themed casino riverboat located along the Ohio River in Lawrenceburg, Indiana, approximately 15 miles west of Cincinnati, Ohio. In addition to slot machines, table games, and poker tables, the riverboat features a sportsbook for live sports betting, as well as a variety of dining options. The hotel and event center, located within one mile from the casino, includes 18,000 square feet of multipurpose space and 19,500 square feet of ballroom and meeting space.
+
+Hollywood Casino at Penn National Race Course is located 15 miles northeast of Harrisburg, Pennsylvania. This gaming facility also includes a variety of dining and entertainment options, as well as sports betting and a viewing area for live racing. The property includes a one-mile all-weather lighted thoroughbred racetrack and a 7/8-mile turf track.
+
+Hollywood Casino Toledo is a Hollywood-themed casino, located on the bank of the Maumee River, in Toledo, Ohio. The property features slot machines, table games and poker tables, as well as multiple food and beverage outlets and an entertainment lounge.
+
+Hollywood Gaming at Dayton Raceway is a Hollywood-themed casino and raceway located in Dayton, Ohio. It features video lottery terminals, a 5/8-mile standardbred racetrack, as well as various restaurants and bars, amongst other amenities.
+
+Hollywood Gaming at Mahoning Valley Race Course is a Hollywood-themed casino and raceway located in Youngstown, Ohio featuring video lottery terminals and a one-mile thoroughbred racetrack. The property also includes various restaurants, and bars, amongst other amenities.
+5
+Table of Contents
+Marquee by Penn is our licensed VGT route operator with a network of 23 truck stop establishments in Pennsylvania.
+
+Meadows Racetrack and Casino is located in Washington, Pennsylvania, approximately 25 miles south of Pittsburgh, Pennsylvania. In addition to gaming amenities, the property offers a sportsbook for live sports betting, several dining options, as well as an event and banquet center, a simulcast betting parlor, a harness racetrack and a bowling alley.
+
+Plainridge Park Casino is located 20 miles southwest of the Boston beltway just off interstate 95 in Plainville, Massachusetts. In addition to gaming offerings, Plainridge Park Casino features various restaurants and bars, along with a 5/8-mile live harness racing facility with a two-story clubhouse for simulcast operations, special events, and live racing viewing.
+
+South Segment
+
+1st Jackpot Casino is the closest Tunica-area casino to downtown Memphis, Tennessee. It features slot machines, table games, a café, a sportsbook and a live entertainment venue.
+
+Ameristar Vicksburg, which is the largest dockside casino in central Mississippi, is located along the Mississippi River approximately 45 miles west of Mississippi’s largest city, Jackson. In addition to gaming amenities, the property features a hotel, multiple dining and bar facilities, an 1,800 square feet of meeting and event space, a sports book and an RV park.
+
+Boomtown Biloxi, located in Biloxi Mississippi, offers slot machines and table games, and a sportsbook for live sports betting, as well as a variety of dining options. The property also includes a recreational vehicle park, and a 3,600 square foot event center and board room.
+
+Boomtown Bossier City features a hotel adjoining a dockside riverboat casino located less than one mile from the Louisiana Boardwalk. It also offers several dining options, ranging from a high-end steakhouse to casual dining restaurants, and 1,500 square feet of meeting and conference space.
+
+Boomtown New Orleans is located in the West Bank area across the Mississippi River and approximately 15 minutes from the French Quarter of New Orleans, Louisiana. In addition to gaming amenities, it also features a five-story hotel, a fitness center, several restaurants, a 500-seat entertainment venue, and over 14,000 square feet of meeting and conference space.
+
+Hollywood Casino Gulf Coast is located in Bay St. Louis, Mississippi and features slot machines, table games, and a sportsbook for live sports betting. The property also features a golf course, various dining options, and an RV park amongst other amenities. The waterfront hotel includes a 10,000 square foot ballroom, and nine separate meeting rooms offering more than 14,000 square feet of meeting space.
+
+Hollywood Casino Tunica is a Hollywood-themed casino, located less than 10 miles from Tunica County River Park. In addition to gaming offerings, it features a sportsbook for live sports betting, a hotel, a 123-space recreational vehicle park, various dining and bar options, and banquet and meeting facilities.
+
+L’Auberge Baton Rouge is located approximately ten miles southeast of downtown Baton Rouge, Louisiana. In addition to gaming options, the property features a 12-story hotel, a variety of dining choices, and 13,000 square feet of meeting and event space.
+
+L’Auberge Lake Charles offers one of the closest full-scale casino hotel facilities to Houston, Texas, as well as to the Austin, Texas and San Antonio, Texas metropolitan areas. The location is approximately 140 miles from Houston and approximately 300 miles and 335 miles from Austin and San Antonio, respectively. In addition to gaming amenities, the property features several dining outlets, a golf course, a full-service spa, and more than 26,000 square feet of meeting and event space.
+
+Margaritaville Resort Casino is one of the premier gaming, lodging, dining and entertainment experiences in Northern Louisiana. The property provides an island-style theme and includes a 15,000 square foot 1,000-seat theater, and 9,500 square feet of meeting space.
+
+West Segment
+Ameristar Black Hawk is located in the center of the Black Hawk gaming district, approximately 40 miles west of Denver, Colorado. In addition to gaming amenities, the resort features a hotel, a full-service day spa, several dining outlets, a live entertainment bar, and 15,000 square feet of meeting and event space.
+6
+Table of Contents
+Cactus Petes and Horseshu (collectively, “the Jackpot Properties”) are located just south of the Idaho border in Jackpot, Nevada. The Jackpot Properties collectively feature two hotels, several dining options, a 4,000 seat amphitheater, a showroom, a live entertainment lounge, and meeting and event facilities.
+
+M Resort, located approximately ten miles from the Las Vegas strip in Henderson, Nevada, is situated at the southeast corner of Las Vegas Boulevard and St. Rose Parkway. The resort features slot machines, table games and a sportsbook for live sports betting, as well as a hotel and a variety of dining and bar options. The property also features more than 60,000 square feet of meeting and conference space, a spa and fitness center, and a 100,000 square foot event center.
+
+Tropicana Las Vegas, located on the strip in Las Vegas, Nevada, is situated at the corner of Tropicana Boulevard and Las Vegas Boulevard. In addition to gaming, the resort features a hotel, a sportsbook kiosk, full-service restaurants, a food court, and a variety of bar and lounge options. The property also includes entertainment venues, over 100,000 square feet of exhibition and meeting space, and a five-acre tropical beach event area and spa.
+
+Zia Park Casino is located in Hobbs, New Mexico, and features slot machines, a hotel, restaurants, a one-mile quarter/thoroughbred racetrack with live racing from September to December, and a year-round simulcast parlor.
+
+Midwest Segment
+Ameristar Council Bluffs is located across the Missouri River from Omaha, Nebraska and includes the largest riverboat in Iowa. In addition to gaming amenities, the property also features a hotel, a fitness center, several dining facilities, a sports bar featuring a sportsbook with live sports betting, and 5,000 square feet of convention and meeting space.
+
+Argosy Casino Alton is located on the Mississippi River in Alton, Illinois, approximately 20 miles northeast of downtown St. Louis, Missouri. Argosy Casino Alton is a three-deck riverboat featuring slot machines, table games and a sportsbook for live betting. Argosy Casino Alton includes an entertainment pavilion and features a deli, a VIP lounge and a 475-seat main showroom.
+
+Argosy Casino Riverside is located on the Missouri River, approximately five miles from downtown Kansas City. In addition to gaming amenities, this Mediterranean-themed property features a nine-story hotel, a spa, an entertainment facility featuring various food and beverage areas, a VIP lounge and a sports/entertainment lounge and 19,000 square feet of banquet/conference facilities.
+
+Hollywood Casino Aurora is located in Aurora, Illinois, the second largest city in Illinois, approximately 35 miles west of Chicago. This single-level dockside casino offers guests gaming amenities, including a poker room and a sportsbook for live sports betting and features multiple dining and bar options.
+
+Hollywood Casino Joliet is located on the Des Plaines River in Joliet, Illinois, approximately 40 miles southwest of Chicago. The complex includes a barge-based casino which provides guests with two levels of gaming experience, as well as a land-based pavilion with several dining and entertainment options. In addition, the property includes a sportsbook for live betting, a hotel, 4,600 square feet of meeting space, and an 80-space RV park.
+
+Hollywood Casino at Kansas Speedway, our 50% joint venture with NASCAR, is located in Kansas City, Kansas. It features slot machines, table games and poker tables and offers a variety of dining and entertainment facilities, and a meeting room.
+
+Hollywood Casino St. Louis is located adjacent to the Missouri River directly off I-70 and approximately 22 miles northwest of downtown St. Louis, Missouri. The facility features slot machines, table games, poker tables, a hotel, and a variety of dining and entertainment venues.
+
+Prairie State Gaming is our licensed VGT route operator in Illinois across a network of over 390 bar and/or retail gaming establishments in seven distinct geographic areas throughout Illinois.
+
+River City Casino is located in the St. Louis, Missouri metropolitan area, just south of the confluence of the Mississippi River and the River des Peres in the south St. Louis community of Lemay, Missouri. River City Casino features a hotel, multiple dining outlets, an entertainment lounge, and over 10,000 square feet of conference space.
+
+Other
+7
+Table of Contents
+Freehold Raceway. Through our joint venture in Pennwood Racing, Inc. (“Pennwood”), we own 50% of Freehold Raceway. The property features a half-mile standardbred race track and a 118,000 square foot grandstand. In addition, through our Pennwood joint venture, we own 50% of a leased OTW in Toms River, New Jersey, and operate another OTW, which we constructed, in Gloucester Township, New Jersey.
+
+Retama Park Racetrack. We have a management contract with Retama Development Corporation (“RDC”), a local government corporation of the City of Selma, Texas, to manage the day-to-day operations of Retama Park Racetrack. In addition, we own 1.0% of the equity of Retama Nominal Holder, LLC, which holds a nominal interest in the racing license used to operate Retama Park Racetrack. Additionally, we own a 75.5% interest in Pinnacle Retama Partners, LLC (“PRP”), which owns the contingent gaming rights that may arise if gaming under the existing racing license becomes legal in Texas in the future.
+
+Sam Houston Race Park and Valley Race Park. Our joint venture with MAXXAM owns and operates Sam Houston Race Park and Valley Race Park, and holds a license for a racetrack in Manor, Texas, just outside of Austin. Sam Houston Race Park, which is located 15 miles northwest from downtown Houston along Beltway 8, hosts thoroughbred and quarter horse racing and offers daily simulcast operations, as well as hosts various special events, private parties and meetings, concerts and national touring festivals throughout the year. Valley Race Park features 91,000 of property square footage as a dog racing and simulcasting facility.
+
+Sanford-Orlando Kennel Club. The greyhound racetrack and related facility was sold to a land developer during the fourth quarter of 2020. The remaining facility owned by the Company is used to operate a restaurant and to offer year-round simulcast racing operations.
+
+Penn Interactive
+Penn Interactive is our interactive gaming division that operates our online sports betting app called Barstool Sportsbook as well as our iGaming platforms, which are currently live in Pennsylvania and Michigan. Penn Interactive includes the operations of Absolute Games, LLC, a developer and operator of online social bingo and other casino games. In addition, Penn Interactive has entered into multi-year agreements with leading sports betting operators for online sports betting and iGaming market access across our portfolio of properties. Pursuant to these agreements, such sports betting operators have commenced operations in Indiana, Pennsylvania and West Virginia. Penn Interactive also operates 16 internally-branded or Barstool-branded retail sportsbooks located at the Company's properties in Colorado, Illinois, Indiana, Iowa, Michigan, Mississippi, Pennsylvania and West Virginia.
+
+Trademarks
+We own a number of trademarks and service marks registered with the U.S. Patent and Trademark Office (“USPTO”), including but not limited to, “Ameristar®,” “Argosy®,” “Boomtown®,” “Greektown®,” “Hollywood Casino®,” “Hollywood Gaming®,” “L’Auberge®,” “M Resort®,” and “MYCHOICE®,” among other trademarks. We believe that our rights to our trademarks are well-established and have competitive value to our properties. We also have a number of trademark applications pending with the USPTO.
+
+Among others, we have a licensing agreement with a third party to use the “Margaritaville®” trademark in connection with the operations of Margaritaville in Bossier City, Louisiana. Upon closing of the transaction with Barstool Sports in February 2020, we have the sole right to utilize the Barstool Sports® brand for all of our online and retail sports betting and iGaming products. In addition, subject to certain terms, conditions, and limitations, we have the exclusive right to use the “Tropicana Las Vegas®” and certain other trademarks within 50 miles of our Tropicana Las Vegas property.
+Competition
+The gaming industry is characterized by an increasingly high degree of competition among a large number of participants operating from physical locations and/or through online or mobile platforms, and other forms of gaming in the U.S. In a broader sense, our gaming operations face competition from all manner of leisure and entertainment activities, including shopping, athletic events, television and movies, concerts and travel. Legalized gaming is currently permitted in various forms throughout the U.S. and on various lands taken into trust for the benefit of certain Native Americans and as well as various land taken into trust for the benefit of certain First Nations people in Canada. Other jurisdictions, including states adjacent to states in which we currently have properties, have recently legalized, implemented and expanded gaming. In addition, established gaming jurisdictions could award additional gaming licenses or permit the expansion or relocation of existing gaming operations (including VGTs, skill games, sports betting and iGaming). Competition is discussed in further detail within “Item 1A. Risk
+8
+Table of Contents
+Factors,” of this Annual Report on Form 10-K and a discussion of the impact of competition on our results of operations, and cash flows is included within “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations,” of this Annual Report on Form 10-K.
+
+Government Regulation and Gaming Issues
+The gaming and racing industries are highly regulated, and we must maintain our licenses and pay gaming taxes to continue our operations. Each of our properties is subject to extensive regulation under the laws, rules and regulations of the jurisdiction where it is located. These laws, rules and regulations generally concern the responsibility, financial stability and character of the owners, managers, and persons with financial interests in the gaming operations. Violations of laws or regulations in one jurisdiction could result in disciplinary action in other jurisdictions. For a more detailed description of the statutes and regulations to which we are subject, see Exhibit 99.1, “Description of Government Regulations,” to this Annual Report on Form 10-K, which is incorporated herein by reference.
+Our businesses are subject to various federal, state and local laws and regulations in addition to gaming regulations. These laws and regulations include, but are not limited to, restrictions and conditions concerning alcoholic beverages, environmental matters, employees, health care, currency transactions, taxation, zoning and building codes, and marketing and advertising. Such laws and regulations could change or could be interpreted differently in the future, or new laws and regulations could be enacted. Material changes, new laws or regulations, or material differences in interpretations by courts or governmental authorities could adversely affect our financial condition, results of operations and cash flows.
+Information about our Executive Officers
+As of February 26, 2021, the persons serving as our executive officers and their positions with us are as follows:
+														
+NAME		AGE		POSITION WITH THE COMPANY
+Jay Snowden		44		President, Chief Executive Officer and Director
+Todd George 		51		Executive Vice President, Operations
+Harper Ko		47		Executive Vice President, Chief Legal Officer and Secretary
+
+Jay Snowden.  In August 2019, the Company’s Board of Directors elected Mr. Snowden as a Board member. Effective January 1, 2020, Mr. Snowden became the Company’s Chief Executive Officer. Mr. Snowden joined the Company in October 2011 as Senior Vice President-Regional Operations and was promoted to Chief Operating Officer in January 2014. In March 2017, Mr. Snowden was named President and Chief Operating Officer and was responsible for overseeing all of our operating businesses, as well as human resources, marketing, and information technology. Prior to joining the Company, Mr. Snowden was the Senior Vice President and General Manager of Caesars and Harrah’s in Atlantic City, New Jersey, and prior to that, held various leadership positions with them in St. Louis, Missouri, San Diego, California and Las Vegas, Nevada.
+
+Todd George.  Mr. George has served as our Executive Vice President, Operations since January 2020. Mr. George joined us in October 2012 as Vice President and General Manager of Hollywood Casino in Lawrenceburg, Indiana, transitioning to the role of Vice President and General Manager of Hollywood Casino St. Louis in 2014. In 2017, he was promoted to his previous role as Senior Vice President, Regional Operations, overseeing nine properties in the Company’s Midwest Region. Prior to joining Penn National, Mr. George spent 12 years in various management positions at Pinnacle Entertainment Inc., including leading the development and launch of Pinnacle’s two St. Louis, Missouri properties.
+Harper Ko.  Ms. Ko was appointed as the Company’s Executive Vice President, Chief Legal Officer and Secretary on January 1, 2021. Prior to joining Penn, Ms. Ko was the Executive Vice President, Chief Legal Officer – General Counsel and Secretary of Everi Holdings, Inc., a full-service casino gaming equipment and payment solutions provider from 2017 until December 2020. Prior to joining Everi, Ms. Ko served as Deputy General Counsel, Gaming for Scientific Games Corporation. During her time there from November 2014 to December 2017, Ms. Ko led the legal integration of Bally Gaming, Inc., SHFL entertainment Inc., and WMS Gaming Inc. into the Scientific Games Gaming division and served as a strategic advisor to their Gaming unit executive management team on all material commercial transactions, customer and third-party issues, and regulatory compliance and litigation matters.
+
+Employees and Human Capital Resources
+The Company’s key human capital management objectives are to attract, retain and develop diverse and high quality talent. Our commitment to an equal-opportunity and respectful workplace characterized by both diversity and inclusion, in which everyone feels valued, respected and supported, is a factor driving our success. Our talent and development programs are designed to develop, support and maintain talent succession pipelines in preparation for key roles and leadership positions;
+9
+Table of Contents
+recognize, reward and support our team members through competitive pay and wellness programs; enhance the Company’s philanthropic culture by encouraging participation and championing programs in the communities in which we work and live; and invest in technology and resources to provide our team members with the most efficient tools to perform their jobs.
+
+Some of the key programs and initiatives developed to attract and retain high quality talent include:
+•Executive and High Potential Talent Review Process
+•Diversity and Veteran Recruitment Initiatives
+•AwardCo Recognition Program and Property Engagement Committees
+
+As of December 31, 2020, we had approximately 18,321 full-time and part-time employees. As of December 31, 2020, we had 38 collective bargaining agreements covering approximately 2,779 active employees. Nine collective bargaining agreements are scheduled to expire in 2021, and we are currently renegotiating three collective bargaining agreements that expired in 2020. Although we believe that we have good employee relations, there can be no assurance that we will be able to extend or enter into replacement agreements. If we are able to extend or enter into replacement agreements, there can be no assurance as to whether the terms will be on comparable terms to the existing agreements.
+
+In addition, the Company established a special COVID-19 Emergency Relief Fund under the Penn National Gaming Foundation to provide assistance to team members who have not been called back from furlough due to the ongoing restrictions associated with COVID-19. The Company has raised $3.7 million from our Board of Directors, Chief Executive Officer, senior management and the Penn National Gaming Foundation. In addition, we provided $13 million in one-time holiday cash bonuses in the fourth quarter to our non-executive team members companywide to help with the financial impact to their families from COVID-19. We also created the Hurricane Laura Relief Fund with an initial contribution of $2.5 million to help our community and team members impacted by the storm, in addition to providing more than $6 million in full wages and benefits to our team members during the L'Auberge Lake Charles property closure. Finally, on the social justice front, our Diversity Committee announced a new scholarship program for disadvantaged team members that will be funded with a $1 million annual commitment from our Company, and we launched a series of new inclusion-related initiatives.
+
+
+Available Information
+We maintain a website at www.pngaming.com that includes more information about us. The contents of our website are not part of this Annual Report on Form 10-K. Our electronic filings with the U.S. Securities and Exchange Commission (“SEC”) (including all Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, and any amendments to these reports), including the exhibits, are available free of charge through our website as soon as reasonably practicable after we electronically file them with, or furnish them to, the SEC. Our filings are also available through a database maintained by the SEC at www.sec.gov.

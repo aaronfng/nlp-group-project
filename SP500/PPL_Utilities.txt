@@ -1,0 +1,645 @@
+PPL Corporation, headquartered in Allentown, Pennsylvania, is a utility holding company, incorporated in 1994, in connection with the deregulation of electricity generation in Pennsylvania, to serve as the parent company to the regulated utility, PPL Electric, and to generation and other unregulated business activities. PPL Electric was founded in 1920 as Pennsylvania Power & Light Company. PPL, through its regulated utility subsidiaries, delivers electricity to customers in the U.K., Pennsylvania, Kentucky and Virginia; delivers natural gas to customers in Kentucky; and generates electricity from power plants in Kentucky.
+ 
+PPL's principal subsidiaries at December 31, 2020 are shown below (* denotes a Registrant).
+ 
+																																																					
+ 	 	 	 	 	 	 	PPL Corporation*	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 	 	
+PPL Capital Funding
+Provides financing for the operations of PPL and certain subsidiaries
+	 	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	
+PPL Global
+Engages in the regulated distribution of electricity in the U.K.
+	 	 	
+LKE*
+ 
+	 	 	
+PPL Electric*
+Engages in the regulated transmission and distribution of electricity in Pennsylvania
+	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	
+LG&E*
+Engages in the regulated generation, transmission, distribution and sale of electricity and the regulated distribution and sale of natural gas in Kentucky
+	 	 	
+KU*
+Engages in the regulated generation, transmission, distribution and sale of electricity, primarily in Kentucky
+	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	U.K.
+Regulated Segment	 	 	Kentucky
+Regulated Segment	 	 	Pennsylvania
+Regulated Segment	 
+ 
+PPL Global is not a registrant. Unaudited annual consolidated financial statements for the U.K. Regulated Segment are furnished contemporaneously with this report on a Form 8-K with the SEC.
+
+In addition to PPL, the other Registrants included in this filing are as follows.
+ 
+PPL Electric Utilities Corporation, headquartered in Allentown, Pennsylvania, is a wholly owned subsidiary of PPL organized in Pennsylvania in 1920 and a regulated public utility that is an electricity transmission and distribution service provider in eastern and central Pennsylvania. PPL Electric is subject to regulation as a public utility by the PUC, and certain of its transmission activities are subject to the jurisdiction of the FERC under the Federal Power Act. PPL Electric delivers electricity in its Pennsylvania service area and provides electricity supply to retail customers in that area as a PLR under the Customer Choice Act.
+ 
+LG&E and KU Energy LLC, headquartered in Louisville, Kentucky, is a wholly owned subsidiary of PPL and a holding company that owns regulated utility operations through its subsidiaries, LG&E and KU, which constitute substantially all of LKE's assets. LG&E and KU are engaged in the generation, transmission, distribution and sale of electricity. LG&E also engages in the distribution and sale of natural gas. LG&E and KU maintain separate corporate identities and serve customers in Kentucky under their respective names. KU also serves customers in Virginia under the Old Dominion Power name. LKE, formed in 2003, is the successor to a Kentucky entity incorporated in 1989.
+
+3
+
+Table of Contents
+
+ 
+Louisville Gas and Electric Company, headquartered in Louisville, Kentucky, is a wholly owned subsidiary of LKE and a regulated utility engaged in the generation, transmission, distribution and sale of electricity and distribution and sale of natural gas in Kentucky. LG&E is subject to regulation as a public utility by the KPSC, and certain of its transmission activities are subject to the jurisdiction of the FERC under the Federal Power Act. LG&E was incorporated in 1913.
+
+Kentucky Utilities Company, headquartered in Lexington, Kentucky, is a wholly owned subsidiary of LKE and a regulated utility engaged in the generation, transmission, distribution and sale of electricity in Kentucky and Virginia. KU is subject to regulation as a public utility by the KPSC and the VSCC, and certain of its transmission and wholesale power activities are subject to the jurisdiction of the FERC under the Federal Power Act. KU serves its Kentucky customers under the KU name and its Virginia customers under the Old Dominion Power name. KU was incorporated in Kentucky in 1912 and in Virginia in 1991.
+ 
+Segment Information
+ 
+(PPL)
+ 
+PPL is organized into three reportable segments as depicted in the chart above: U.K. Regulated, Kentucky Regulated, and Pennsylvania Regulated. The U.K. Regulated segment has no related subsidiary Registrants. PPL's other reportable segments' results primarily represent the results of its related subsidiary Registrants, except that the reportable segments are also allocated certain corporate level financing costs that are not included in the results of the applicable subsidiary Registrants. PPL also has corporate and other costs, primarily including financing costs incurred at the corporate level that have not been allocated or assigned to the segments, as well as certain other unallocated costs. The financial results of Safari Energy are also reported within Corporate and Other.
+
+A comparison of PPL's three regulated segments is shown below.
+																	
+ 	 		Kentucky		Pennsylvania
+	U.K. Regulated		Regulated		Regulated
+For the year ended December 31, 2020:	 		 		 
+Operating Revenues (in billions)	$	2.1 			$	3.1 			$	2.3 	
+Net Income (in millions) 	$	686 			$	418 			$	497 	
+Electricity delivered (GWh)	68,133 			29,016 			36,008 	
+At December 31, 2020:			 		 
+Regulatory Asset Base (in billions) (a)	$	10.9 			$	10.8 			$	8.3 	
+Service area (in square miles)	21,600 			9,400 			10,000 	
+End-users (in millions)	8.0 			1.3 			1.4
+
+(a)Represents RAV for U.K. Regulated, capitalization for Kentucky Regulated and rate base for Pennsylvania Regulated.
+
+See Note 2 to the Financial Statements for additional financial information by segment.
+
+(PPL Electric, LKE, LG&E and KU)
+
+PPL Electric has two operating segments that are aggregated into a single reportable segment. LKE, LG&E and KU are individually single operating and reportable segments.
+
+U.K. Regulated Segment (PPL)
+
+The U.K. Regulated segment consists of PPL Global, which primarily includes WPD's regulated electricity distribution operations, the results of hedging the translation of WPD's earnings from British pound sterling into U.S. dollars, and certain costs, such as U.S. income taxes, administrative costs and acquisition-related financing costs.
+
+WPD operates four of the 14 Ofgem regulated DNOs providing electricity service in the U.K. through wholly owned subsidiaries: WPD (South West), WPD (South Wales), WPD (East Midlands) and WPD (West Midlands). The number of network customers (end-users) served by WPD totals 8.0 million across 21,600 square miles in south Wales and southwest and central England. See Note 3 to the Financial Statements for revenue information. WPD's operating revenues are translated from GBP to U.S. dollars using the average exchange rates in effect each month. The annual weighted average of the monthly GBP
+
+4
+
+Table of Contents
+
+to U.S. dollar exchange rates used for the years ended December 2020, 2019 and 2018 were $1.28 per GBP, $1.28 per GBP, and $1.34 per GBP.
+
+In August 2020, PPL announced that it initiated a formal process to sell its U.K. utility business. See “Item 7. Combined Management's Discussion and Analysis of Financial Condition and Results of Operations – Overview – Financial and Operational Developments – Initiation of Formal Process to Sell U.K. Utility Business.
+
+Franchise and Licenses
+
+WPD’s operations are regulated by Ofgem under the direction of the Gas and Electricity Markets Authority. Ofgem is a non-ministerial government department and an independent National Regulatory Authority responsible for protecting the interests of existing and future electricity and natural gas consumers. The Electricity Act 1989 provides the fundamental framework for electricity companies and established licenses that require each DNO to develop, maintain and operate efficient distribution networks. WPD’s operations are regulated under these licenses which set the outputs WPD needs to deliver to customers and associated revenues WPD is allowed to earn. WPD operates under a regulatory year that begins April 1 and ends March 31 of each year.
+
+Ofgem has the formal power to propose modifications to each distribution license; however, licensees can appeal such changes to the U.K.’s Competition and Markets Authority. Generally, any potential changes to these licenses are reviewed with stakeholders in a formal regulatory consultation process prior to a formal change proposal.
+
+Competition
+
+Although WPD operates in non-exclusive concession areas in the U.K., it currently faces little competition with respect to end-users connected to its network. WPD's four DNOs are, therefore, regulated monopolies, operating under regulatory price controls.
+
+Customers
+
+WPD provides regulated electricity distribution services to licensed third-party energy suppliers who use WPD's networks to transfer electricity to their customers, the end-users. WPD bills energy suppliers for this service and the supplier is responsible for billing its end-users. Ofgem requires that all licensed electricity distributors and suppliers become parties to the Distribution Connection and Use of System Agreement. This agreement specifies how creditworthiness will be determined and, as a result, whether a supplier needs to collateralize its payment obligations.
+
+U.K. Regulation and Rates
+
+Overview
+
+Ofgem has adopted a price control regulatory framework with a balanced objective of enhancing and developing future electricity networks, controlling costs to customers and allowing DNOs, such as WPD's DNOs, to earn a fair return on their investments. This regulatory structure is focused on outputs and performance in contrast to traditional U.S. utility ratemaking that operates under a cost recovery model. Price controls are established based on long-term business plans developed by each DNO with substantial input from its stakeholders. To measure the outputs and performance, each DNO business plan includes incentive targets that allow for increases and/or reductions in revenues based on operational performance, which are intended to align returns with quality of service, innovation and customer satisfaction.
+
+For comparative purposes, amounts listed below are in British pounds sterling, nominal prices and in calendar years unless otherwise noted.
+
+Key Ratemaking Mechanisms
+
+PPL believes the U.K. electricity utility model is a premium jurisdiction in which to do business due to its significant stakeholder engagement, incentive-based structure and high-quality ratemaking mechanisms.
+
+5
+
+Table of Contents
+
+
+Current Price Control: RIIO-ED1
+
+WPD currently operates under an eight-year price control called RIIO-ED1, which commenced for electricity distribution companies on April 1, 2015. The regulatory framework is based on an updated approach for sustainable network regulation known as the "RIIO" model where Revenue = Incentives + Innovation + Outputs.
+
+In coordination with numerous stakeholders, WPD developed its business plans for RIIO-ED1 building off its historical track record and long-term strategy of delivering industry-leading levels of performance at an efficient level of cost. As a result, all four of WPD’s DNOs' business plans were accepted by Ofgem as "well justified" and were "fast-tracked" ahead of all other DNOs. WPD's DNOs were rewarded for being fast-tracked with preferential financial incentives, a higher return on equity and higher cost savings retention under their business plans as discussed further below. However, an unintended consequence of being fast-tracked resulted in WPD being disadvantaged from a cost of debt recovery standpoint, as further discussed within “(2) Real Return on capital from RAV” below.
+
+WPD's combined RIIO-ED1 business plans as accepted by Ofgem included funding for total expenditures of approximately £12.8 billion (nominal) over the eight-year period, as follows:
+
+•Totex - £8.5 billion (£6.8 billion recovered as additions to RAV over time ("Slow pot"); £1.7 billion recovered in the year spent in the plan ("Fast pot"));
+•Pension deficit funding - £1.2 billion;
+•Cost of debt recovery - £1.0 billion;
+•Pass Through Charges - £1.6 billion (Property taxes, Ofgem fees and National Grid transmissions charges); and
+•Corporate income taxes recovery - £0.5 billion.
+
+The chart below illustrates the building blocks of allowed revenue and GAAP net income for the U.K. Regulated Segment. The revenue components are shown in either 2012/13 prices or nominal prices, consistent with the formulas Ofgem established for RIIO-ED1. The reference numbers shaded in each block correspond with the descriptions that follow.
+ppl-20201231_g1.jpg
+(a)Primarily pension deficit funding, pass through costs, profiling adjustments and legacy price control adjustments.
+(b)Primarily pass through true-ups.
+(c)Reference Form 8-K filed February 18, 2021 for U.K. Regulated Segment GAAP Statement of Income component values.
+(d)Includes the service cost component of GAAP pension costs/income. See “Defined Benefits, Net periodic defined benefit costs (credits)” in Note 12 to the Financial Statements.
+(e)Primarily property taxes.
+(f)Primarily includes the non-service cost (credit) components of GAAP pension costs/income and gains and losses on foreign currency hedges.
+(g)Includes WPD interest and $32 million of allocated interest expense to finance the acquisition of WPD Midlands.
+(h)GAAP income taxes represent an effective tax rate of 18% for 2020, 16% for 2019, 17% for 2018 and approximately 19% going forward.
+
+
+6
+
+Table of Contents
+
+(1) Base Revenue
+
+The base revenue a DNO can collect in each year of the current price control period is the sum of the following, discussed further below:
+
+•a return on capital from RAV;
+•a return of capital from RAV (i.e., depreciation);
+•the Fast pot recovery, see discussion “(4) Expenditure efficiency mechanisms” below;
+•an allowance for cash taxes paid less a potential reduction for tax benefits from excess leverage if a DNO is levered more than 65% Debt/RAV;
+•pension deficit funding;
+•certain pass-through costs over which the DNO has no control;
+•profiling adjustments, see discussion “(6) Other revenue included in base revenue” below;
+•certain legacy price control adjustments from preceding price control periods, including the information quality incentive (also known as the rolling RAV incentive); and
+•fast-track incentive - because WPD's four DNOs were fast-tracked through the price control review process for RIIO-ED1, their base revenue also includes the fast-track incentive.
+
+(2) Real Return on capital from RAV
+
+Real-time returns on cost of regulated equity (real) - Ofgem establishes an allowed return on regulated equity that DNOs earn in their base business plan revenues as a consideration of the financial parameters for each RIIO-ED1 business plan. For WPD, the base cost of equity collected in revenues was set at 6.4% (real). Base equity returns exclude inflation adjustments, allowances for incentive rewards/penalties and over/under collections driven by cost efficiencies. WPD’s DNO base equity returns are calculated using an equity ratio of 35% of RAV. The equity ratio was reviewed and set during the RIIO-ED1 business plan process taking various stakeholder impacts into consideration such as costs to consumers, credit ratings and investor needs. The amounts of base real equity return for 2020, 2019 and 2018 were £177 million, £168 million and £160 million.
+
+Indexed cost of debt recovery (real) - As part of WPD’s fast-track agreement with Ofgem for RIIO-ED1, WPD collects in revenues an assumed real cost of debt that is derived from a historical 10-year bond index (iBoxx) and adjusted annually for inflation. This calculated real cost of debt is then applied to 65% of RAV at the DNOs to determine the cost of debt revenue recovery. The cost of debt was set at 2.55% in the original "well justified" business plans. The recovery amounts are trued up annually as a component of the MOD true-up mechanism described within "(9) MOD and Inflation True-Up (TRU)" below.
+
+As discussed above, WPD’s cost of debt revenue allowances are derived from using a rolling 10-year trailing average of
+historical 10-year bond index (iBoxx); however, the cost of debt revenue allowances for all slow track companies are derived
+using an extending trailing average of the index. Under this approach, the trailing average period used is progressively extended from 10 to 20 years and consequently short-term fluctuations in the interest rate have a less pronounced effect on the regulatory cost of debt applied. Therefore, WPD’s cost of debt recovery is significantly lower than it would have been had it been derived under the approach used for the slow-track companies.
+
+Over the 8-year RIIO-ED1 period WPD is expected to under-recover its cost of debt at the four DNOs, based upon the latest inflation assumptions and projected 10-year iBoxx bond indices rates, by approximately £300 million primarily driven by the previously discussed differing cost of debt recovery calculations. Under the terms of the fast track process, fast tracked companies were not supposed to be disadvantaged financially to slow track companies. It is currently unlikely, however, if WPD will be able to recover any of this under-recovery in the next price control period, RIIO-ED2, beginning April 1, 2023.
+
+Interest costs relating to long-term debt issued at WPD’s holding companies are not recovered in revenues and for 2020, 2019 and 2018 were approximately £58 million, £57 million and £46 million.
+
+(3) Recovery of depreciation in revenues - Recovery of depreciation in regulatory revenues is one of the key mechanisms Ofgem uses to support financeable business plans that provide incentives to attract the continued substantial investment required in the U.K. Differences between GAAP and regulatory depreciation exist primarily due to differing assumptions on asset lives and because RAV is adjusted for inflation using RPI.
+
+Compared to asset lives established for GAAP, asset lives established for ratemaking are set by Ofgem based on economic lives which results in improved DNO near-term revenues and cash flows during investment cycles. Under U.K. regulation prior to RIIO-ED1, electric distribution assets were depreciated on a 20-year asset life for the purpose of setting revenues. After review and consultation, Ofgem decided to use 45-year asset lives for RAV additions after April 1, 2015, with transitional
+
+7
+
+Table of Contents
+
+arrangements available for DNOs fully demonstrating a need to ensure financeable plans. WPD adopted a transition that has a linear increase in asset lives from 20 to 45 years for additions to RAV in each year of RIIO-ED1 (with additions averaging a life of approximately 35 years over this period), which adds support to its credit metrics. RAV additions prior to March 31, 2015 continue to be recovered in revenues over 20 years.
+
+The asset lives used to determine depreciation expense for GAAP purposes are not the same as those used for the depreciation of the RAV in setting revenues and, as such, vary by asset type and are based on the expected useful lives of the assets. Effective January 1, 2015, after completing a review of the useful lives of its distribution network assets, WPD set the weighted average useful lives to 69 years for GAAP depreciation expense.
+
+Because Ofgem uses a real cost of capital, the RAV and recovery of depreciation are adjusted for inflation using RPI. The inflation revenues collected in this line item help recover the cost of equity and debt returns on a "nominal" basis, compared to the "real" rates used to set the return component of base revenues.
+
+This regulatory construct, in combination with the different assets lives used for ratemaking and GAAP, results in amounts collected by WPD as recovery of depreciation in revenues being significantly higher than the amounts WPD recorded for depreciation expense under GAAP. For 2020, 2019 and 2018, this difference was £458 million, £450 million and £444 million (pre-tax) and positively impacted net income. The difference is expected to continue in the £400 million to £460 million (pre-tax) range at least through 2022 (the last full calendar year of RIIO-ED1), assuming RPI of approximately 3.0% per year from 2021 through 2022 and based on expected RAV additions of approximately £800 million per year to prepare the distribution system for future U.K. energy objectives while maintaining premier levels of reliability and customer service.
+
+(4) Expenditure efficiency mechanisms - Ofgem introduced the concept of Totex in RIIO to ensure all DNOs face equal incentives in choosing between operating and capital solutions. Totex is split between immediate recovery (called "Fast pot") and deferred recovery as an addition to RAV (called "Slow pot"). The ratio of Slow pot to Fast pot was determined by each DNO in its business plan development. WPD established a Totex split of 80% Slow pot and 20% Fast pot for RIIO-ED1 to balance maximizing RAV growth with immediate cost recovery to support investment grade credit ratings. Comparatively, other DNOs on average used a ratio of approximately 70% Slow pot and 30% Fast pot for RIIO-ED1.
+
+Ofgem also allows a Totex Incentive Mechanism that is intended to reward DNOs for cost efficiency. WPD's DNOs are able to retain 70% of any amounts not spent against their RIIO-ED1 plan and bear 70% of any over-spends. Any amounts to be returned to customers are trued up in the AIP discussed below.
+
+Because Fast pot cost recovery represents 20% of Totex expenditures and certain other costs are recovered in other components of revenue, Fast pot will not equal operation and maintenance expenses recorded for GAAP purposes.
+
+(5) Income Tax Allowance - For price control purposes, WPD collects income tax based on Ofgem’s notional tax charge, which will not equal the amount of income tax expense recorded for GAAP purposes. The following table shows the amount of taxes collected in revenues and recorded under GAAP.
+																				
+		2020		2019		2018
+Taxes collected in revenues		£	55 			£	56 			£	58 	
+Taxes recorded under GAAP		233 			167 			156 	
+
+(6) Other revenue included in base revenue - Other revenue included in base revenue primarily consists of pension deficit funding, pass through costs, profiling adjustments and legacy price control adjustments.
+
+Recovery of annual (normal) pension cost and pension deficit funding - Ofgem allows DNOs to recover annual (normal) pension costs through the Totex allocation, split between the previously described Fast pot (immediate recovery) and Slow pot recovery (as an addition to RAV). The amount of normal pension cost is computed by the pension trustees, using assumptions that differ from those used in calculating pension costs/income under GAAP. In addition, the timing of the revenue collection may not match the actual pension payment schedule, resulting in a timing difference of cash flows.
+
+In addition, WPD recovers approximately 80% of pension deficit funding for certain of WPD's defined benefit pension plans in conjunction with actual costs similar to the Fast pot mechanism. The pension deficit is determined by the pension trustees on a triennial basis in accordance with their funding requirements. Pension deficit funding recovered in revenues was £155 million, £151 million and £147 million in 2020, 2019 and 2018. Following the completion of the 2019 Actuarial Valuations and Ofgem's 2020 Reasonableness Review, WPD expects to collect £142 million, £138 million and £62 million in revenues through December 31, 2021, 2022 and 2023.
+
+8
+
+Table of Contents
+
+
+See Note 12 to the Financial Statements for additional information on pension costs/income recognized under GAAP.
+
+Recovery of pass through costs - WPD recovers certain pass-through costs over which the DNO has no control such as property taxes, National Grid transmission charges and Ofgem fees. Although these items are intended to be pass-through charges there could be timing differences, primarily related to property taxes, as to when amounts are collected in revenues and when amounts are expensed in the Statements of Income. WPD over-collected property taxes by £30 million, £37 million and £38 million in 2020, 2019 and 2018. WPD expects to continue to over-recover property taxes until the end of RIIO-ED1. Amounts under-or over-recovered in revenues in a regulatory year are trued up through revenues two regulatory years later.
+
+Profiling adjustments - Ofgem permitted DNOs the flexibility to make profiling adjustments to their base revenues within their business plans. These adjustments do not affect the total base revenue in real terms over the eight-year price control period but change the year in which the revenue is collected. In the first year of RIIO-ED1, WPD’s base revenue decreased by 11.8% compared to the final year of the prior price control period (DPCR5), primarily due to a change in profiling methodology and a lower weighted-average cost of capital. Base revenue then increased by approximately 2.5% per annum before inflation for regulatory years up to March 31, 2019 and will increase by approximately 1% per annum before inflation for each regulatory year thereafter for the remainder of RIIO-ED1.
+
+(7) Incentives for developing high-quality business plans (known as fast-tracking) - For RIIO-ED1, Ofgem incentivized DNOs with certain financial rewards to develop "well justified" business plans that drive value to customers. WPD was awarded the following fast-track incentives:
+
+•an annual fast-track revenue incentive worth 2.5% of Totex (approximately £25 million annually for WPD);
+•a real cost of equity rate of 6.4% compared to 6.0% for slow-tracked DNOs; and,
+•cost savings retention was established at 70% for WPD compared to approximately 55% for slow-tracked DNOs.
+
+(8) Allowed Revenue - Allowed revenue is the amount that a DNO can collect from its customers in order to fund its investment requirements.
+
+Base revenues are adjusted annually during RIIO-ED1 to arrive at allowed revenues. These adjustments are discussed in sections (9) through (13) below.
+
+(9) MOD and Inflation True-Up (TRU)
+
+MOD - RIIO-ED1 includes an AIP that allows future base revenues, agreed with the regulator as part of the price control review, to be updated during the price control period for financial adjustments including taxes, pensions, cost of debt, legacy price control adjustments from preceding price control periods and adjustments relating to actual and allowed total expenditure together with the Totex Incentive Mechanism (TIM). The AIP calculates an incremental change to base revenue, known as the "MOD" adjustment.
+
+•The MOD provided by Ofgem in November 2016 included the TIM for the 2015/16 regulatory year, as well as the cost of debt calculation based on the 10-year trailing average to October 2016. This MOD of £12 million reduced base revenue in calendar years 2017 and 2018 by £8 million and £4 million.
+•The MOD provided by Ofgem in November 2017 for the 2016/17 regulatory year was a £39 million reduction to revenue that reduced base revenue in calendar years 2018 and 2019 by £26 million and £13 million.
+•The MOD provided by Ofgem in November 2018 for the 2017/18 regulatory year was a £42 million reduction to revenue that reduced base revenue in calendar year 2019 and 2020 by £28 million and £14 million.
+•The MOD provided by Ofgem in November 2019 for the 2018/19 regulatory year was a £81 million reduction to revenue that reduced base revenue in calendar year 2020 by £54 million and will reduce base revenues in calendar year 2021 by £27 million.
+•The MOD provided by Ofgem in November 2020 for the 2019/20 regulatory year was a £126 million reduction to revenue that will reduce base revenue in calendar years 2021 and 2022 by £84 million and £42 million.
+•The projected MOD for the 2020/2021 regulatory year is a £159 million reduction to revenue that is expected to reduce base revenue in calendar years 2022 and 2023 by £106 million and £53 million.
+
+
+9
+
+Table of Contents
+
+TRU - As discussed below in "(10) Inflation adjusted, multi-year rate cycle," the base revenue for the RIIO-ED1 period was set based on 2012/13 prices. Therefore, an inflation factor as determined by forecasted RPI, provided by HM Treasury, is applied to base revenue. Forecasted RPI is trued up to actuals and affects future base revenue two regulatory years later. This revenue change is called the "TRU" adjustment.
+
+•The TRU for the 2015/16 regulatory year was a £31 million reduction to revenue that reduced base revenue in calendar years 2017 and 2018 by £21 million and £10 million.
+•The TRU for the 2016/17 regulatory year was a £6 million reduction to revenue that reduced base revenue in calendar years 2018 and 2019 by £4 million and £2 million.
+•The TRU for the 2017/18 regulatory year was a £4 million increase to revenue that increased base revenue in calendar year 2019 and 2020 by £3 million and £1 million.
+•The TRU for the 2018/19 regulatory year was a £2 million reduction to revenue that reduced base revenue in calendar year 2020 by £1 million and will reduce base revenue in calendar year 2021 by £1 million.
+•The TRU for the 2019/20 regulatory year was a £15 million reduction to revenue that will reduce base revenue in calendar years 2021 and 2022 by £10 million and £5 million.
+•The projected TRU for the 2020/21 regulatory year is a £13 million reduction to revenue that is expected to reduce base revenue in calendar years 2022 and 2023 by £9 million and £4 million.
+
+As both MOD and TRU are changes to future base revenues as determined by Ofgem, these adjustments are recognized as a component of revenues in future years in which service is provided and revenues are collected or returned to customers.
+
+(10) Inflation adjusted, multi-year rate cycle - Ofgem built its price control framework to better coincide with the long-term nature of electricity distribution investments. The current price control for electricity distribution is for the eight-year period from April 1, 2015 through March 31, 2023. This both required and enabled WPD to design a base business plan with predictable revenues and expenses over the long-term to drive value for its customers through predetermined outputs and for its investors through preset base returns. A key aspect to the multi-year cycle is an annual inflation adjustment for revenue and cost components, which are inflated using RPI from the base 2012/13 prices used to establish the business plans. Consistent with Ofgem’s formulas, the inflation adjustment is applied to base revenue, MOD and TRU when determining allowed revenue. This inflation adjustment also has the effect of inflating RAV, and real returns are earned on the inflated RAV.
+
+(11) Incentive revenues for strong operational performance and innovation - Ofgem has established incentives to provide opportunities for DNOs to enhance overall returns by improving network efficiency, reliability and customer service. These incentives can result in an increase or reduction in revenues based on incentives or penalties for actual performance against pre-established targets based on past performance. Some of the more significant incentives that may affect allowed revenue include the Interruptions Incentive Scheme (IIS), the broad measure of customer service (BMCS) and the time to connect (TTC) incentive:
+
+•The IIS has two major components: (1) Customer interruptions (CIs) and (2) Customer minutes lost (CMLs), and both are designed to incentivize the DNOs to invest in and operate their networks to manage and reduce both the frequency and duration of power outages.
+•The BMCS encompasses customer satisfaction in supply interruptions, connections and general inquiries, complaints, stakeholder engagement and delivery of social obligations.
+•The TTC incentive rewards DNOs for reducing connection times for minor connections against an Ofgem set target.
+
+The annual incentives and penalties are reflected in customer rates on a two-year lag from the time they are earned and/or assessed. Based on applicable GAAP, incentive revenues and penalties are recorded in revenues when they are billed to customers. The following table shows the amount of incentive revenues (in total), primarily from IIS, BMCS and TTC that WPD has received and is projected to receive on a calendar year basis:
+														
+ 		Incentive Received		Calendar Year Ended Incentive
+Calendar Year Ended Incentive Earned		(in millions)		Included in Revenue
+2016		£	76 			2018
+2017		72 			2019
+2018		78 			2020
+2019		85 			2021
+2020 (a)		75-85		2022
+2021 (a)		75-85		2023
+
+
+10
+
+Table of Contents
+
+(a)Reflects projected incentive revenues.
+
+(12) Correction Factor (K-factor) - During the price control period, WPD sets its tariffs to recover allowed revenue. However, in any fiscal period, WPD's revenue could be negatively affected if its tariffs and the volume delivered do not fully recover the allowed revenue for a particular period. Conversely, WPD could over-recover revenue. Over- and under-recoveries are subtracted from or added to allowed revenue in future years, known as the "Correction Factor" or "K-factor." Over and under-recovered amounts during RIIO-ED1 will be refunded/recovered two regulatory years later.
+•The K-factor for the 2015/16 regulatory year was a £4 million under-recovery that increased allowed revenue in calendar years 2017 and 2018 by £3 million and £1 million.
+•The K-factor for the 2016/17 regulatory year was a £23 million over-recovery that reduced allowed revenue in calendar years 2018 and 2019 by £15 million and £8 million.
+•The K-factor for the 2017/18 regulatory year was a £3 million over-recovery that reduced allowed revenue in calendar year 2019 and 2020 by £2 million and £1 million.
+•The K-factor for the 2018/19 regulatory year was a £16 million over-recovery that reduced allowed revenue in calendar year 2020 by £11 million and will reduce allowed revenue in calendar year 2021 by £5 million.
+•The K-factor for the 2019/20 regulatory year was a £25 million under-recovery that will increase allowed revenue in calendar years 2021 and 2022 by £17 million and £8 million.
+•The projected K-factor for the 2020/21 regulatory year is a £88 million under-recovery that is expected to increase allowed revenue in calendar years 2022 and 2023 by £59 million and £29 million.
+
+Historically, tariffs have been set a minimum of three months prior to the beginning of the regulatory year (April 1). In 2015, Ofgem determined that, beginning with the 2017/18 regulatory year, tariffs would be established a minimum of fifteen months in advance. This change will potentially increase volatility in future revenue forecasts due to the need to forecast components of allowed revenue including MOD, TRU, K-factor and incentive revenues.
+
+(13) Other Allowed Revenue - Other Allowed Revenue primarily consists of pass through true-ups. For a discussion on property tax true-ups, see recovery of pass through costs in "(6) Other revenue included in base revenue" above.
+
+(14) GAAP Operating Revenue - Operating revenue under GAAP primarily consists of allowed revenue, which has been converted to rates and earned as electricity was delivered in the calendar year, converted to U.S. dollars. It also includes miscellaneous revenue primarily from engineering recharge work and ancillary activity revenue. Engineering recharge is work performed for a third party by WPD which is not for general network maintenance or to increase reliability. Examples are diversions and running new lines and equipment for a new housing complex. Ancillary activity revenue includes revenue primarily from WPD’s Telecoms and Property companies. The amounts of miscellaneous revenue for 2020, 2019 and 2018 were £121 million, £115 million and £115 million. The margin or profit on these activities, however, was not significant.
+
+(15) Currency Hedging - Earnings generated by PPL's U.K. subsidiaries are subject to foreign currency translation risk. Due to the significant earnings contributed from WPD, PPL enters into foreign currency contracts to economically hedge the value of the GBP versus the U.S. dollar. These hedges do not receive hedge accounting treatment under GAAP.
+
+GAAP Accounting implications
+
+As the regulatory model in the U.K. is incentive based rather than a cost recovery model, WPD is not subject to accounting for the effects of certain types of regulation as prescribed by GAAP. Therefore, the accounting treatment for the differences in the amounts collected in revenues and the amounts recorded for expenses related to depreciation, pensions, cost of debt and income taxes, and the adjustments to base revenue and/or allowed revenue are evaluated primarily based on revenue recognition guidance.
+
+See "Revenue Recognition" in Note 1 to the Financial Statements for additional information.
+
+See "Overview - Financial and Operational Developments - RIIO-2 Framework" in "Item 7. Combined Management's Discussion and Analysis of Financial Condition and Results of Operations" for information on the RIIO-2 Framework which will commence on April 1, 2023.
+
+Kentucky Regulated Segment (PPL)
+
+The Kentucky Regulated segment consists of the operations of LKE, which owns and operates regulated public utilities engaged in the generation, transmission, distribution and sale of electricity and distribution and sale of natural gas, representing
+
+11
+
+Table of Contents
+
+primarily the activities of LG&E and KU. In addition, certain acquisition-related financing costs are allocated to the Kentucky Regulated segment.
+
+(PPL, LKE, LG&E and KU)
+ 
+LG&E and KU, direct subsidiaries of LKE, are engaged in the regulated generation, transmission, distribution and sale of electricity in Kentucky and, in KU's case, also Virginia. LG&E also engages in the distribution and sale of natural gas in Kentucky. LG&E provides electricity service to approximately 425,000 customers in Louisville and adjacent areas in Kentucky, covering approximately 700 square miles in nine counties and provides natural gas service to approximately 332,000 customers in its electricity service area and eight additional counties in Kentucky. KU provides electric service to approximately 536,000 customers in 77 counties in central, southeastern and western Kentucky and approximately 28,000 customers in five counties in southwestern Virginia, covering approximately 4,800 non-contiguous square miles. KU also sells wholesale electricity to two municipalities in Kentucky under load following contracts. See Note 3 to the Financial Statements for revenue information.
+ 
+Franchises and Licenses
+ 
+LG&E and KU provide electricity delivery service, and LG&E provides natural gas distribution service, in their respective service territories pursuant to certain franchises, licenses, statutory service areas, easements and other rights or permissions granted by state legislatures, cities or municipalities or other entities. 
+ 
+Competition
+
+There are currently no other electric public utilities operating within the electricity service areas of LKE. From time to time, bills are introduced into the Kentucky General Assembly which seek to authorize, promote or mandate increased distributed generation, customer choice or other developments. Neither the Kentucky General Assembly nor the KPSC has adopted or approved a plan or timetable for retail electric industry competition in Kentucky. The nature or timing of legislative or regulatory actions, if any, regarding industry restructuring and their impact on LKE, which may be significant, cannot currently be predicted. Virginia, formerly a deregulated jurisdiction, has enacted legislation that implemented a hybrid model of cost-based regulation. KU's operations in Virginia have been and remain regulated.
+ 
+Alternative energy sources such as electricity, oil, propane and other fuels indirectly impact LG&E's natural gas revenues. Marketers may also compete to sell natural gas to certain large end-users. LG&E's natural gas tariffs include gas price pass-through mechanisms relating to its sale of natural gas as a commodity. Therefore, customer natural gas purchases from alternative suppliers do not generally impact LG&E's profitability. Some large industrial and commercial customers, however, may physically bypass LG&E's facilities and seek delivery service directly from interstate pipelines or other natural gas distribution systems.
+
+Power Supply
+ 
+At December 31, 2020, LKE owned generating capacity of 7,561 MW, of which 2,786 MW related to LG&E and 4,775 MW related to KU. See "Item 2. Properties - Kentucky Regulated Segment" for a complete list of LKE's generating facilities.
+ 
+The system capacity of LKE's owned or controlled generation is based upon a number of factors, including the operating experience and physical condition of the units, and may be revised periodically to reflect changes in circumstances.
+ 
+During 2020, LKE's power plants generated the following amounts of electricity:
+																	
+ 	GWh
+Fuel Source	LKE		LG&E		KU
+ Coal	24,039 			9,961 			14,078 	
+Gas	5,370 			1,274 			4,096 	
+Hydro	367 			242 			125 	
+Solar	18 			7 			11 	
+Total (a)	29,794 			11,484 			18,310 	
+
+(a)This generation represents decreases for LKE, LG&E and KU of 8%, 13% and 4% from 2019 output.
+
+The majority of LG&E's and KU's generated electricity was used to supply their retail customer bases.
+ 
+
+12
+
+Table of Contents
+
+LG&E and KU jointly dispatch their generation units with the lowest cost generation used to serve their customers. When LG&E has excess generation capacity after serving its own customers and its generation cost is lower than that of KU, KU purchases electricity from LG&E and vice versa.
+ 
+Due to environmental requirements and energy efficiency measures, as of December 31, 2020, LG&E and KU have retired approximately 1,200 MW of coal-fired generation plants since 2010.
+
+LG&E and KU received approval from the KPSC to develop a 4 MW Solar Share facility to service a Solar Share program. The Solar Share program is a voluntary program that allows customers to subscribe capacity in the Solar Share facility. Construction commences, in 500-kilowatt phases, when subscription is complete. Construction of two 500-kilowatt phases was completed as of December 31, 2020. The subscription for the third and fourth 500-kilowatt phase was completed with construction expected to be completed in 2021. LG&E and KU continue to market the program and have started receiving subscriptions for the fifth 500-kilowatt phase.
+
+On January 23, 2020, LG&E and KU applied to the KPSC for approval of arrangements relating to the purchase of 100 MW of solar power in connection with the Green Tariff option established in the 2018 Kentucky base rate cases. Pursuant to the agreements, LG&E and KU would purchase the initial 20 years of output of a proposed third-party solar generation facility and resell the bulk of the power as renewable energy to two large industrial customers and use the remaining power for other customers. On May 8, 2020, the KPSC issued an order approving LG&E’s and KU’s applications with certain modifications. LG&E and KU requested reconsideration of limited portions of the KPSC's Order and on December 16, 2020, the KPSC amended their original order. PPL, LKE, LG&E and KU do not anticipate that these arrangements will have a significant impact on their results of operations or financial condition.
+
+Fuel Supply
+ 
+Coal and natural gas are expected to be the predominant fuels used by LG&E and KU for generation for the foreseeable future. Natural gas used for generation is primarily purchased using contractual arrangements separate from LG&E's natural gas distribution operations. Natural gas and oil are also used for intermediate and peaking capacity and flame stabilization in coal-fired boilers.
+ 
+Fuel inventory is maintained at levels estimated to be necessary to avoid operational disruptions at coal-fired generating units. Reliability of coal deliveries can be affected from time to time by a number of factors including fluctuations in demand, coal mine production issues, high or low river level events, lock outages and other supplier or transporter operating difficulties.
+ 
+LG&E and KU have entered into coal supply agreements with various suppliers for coal deliveries through 2024 and augment their coal supply agreements with spot market purchases, as needed.
+ 
+For their existing units, LG&E and KU expect, for the foreseeable future, to purchase most of their coal from western Kentucky, southern Indiana, southern Illinois, northern West Virginia and western Pennsylvania. LG&E and KU continue to purchase certain quantities of ultra-low sulfur content coal from Wyoming for blending at Trimble County Unit 2. Coal is delivered to the generating plants primarily by barge and rail.
+ 
+To enhance the reliability of natural gas supply, LG&E and KU have secured firm long-term pipeline transport capacity with contracts of various durations through 2024 on the interstate pipeline serving Cane Run Unit 7. This pipeline also serves the six simple cycle combustion turbine units located at the Trimble County site as well as three other simple cycle units at the Paddy's Run site. For the seven simple cycle combustion turbines at the E.W. Brown facility, no firm long-term pipeline transport capacity has been purchased due to the facility being interconnected to two pipelines and some of the units having dual fuel capability.
+ 
+LG&E and KU have firm contracts for a portion of the natural gas fuel for Cane Run Unit 7 through March 2023. The bulk of the natural gas fuel remains purchased on the spot market.
+
+(PPL, LKE and LG&E)
+
+Natural Gas Distribution Supply
+ 
+Five underground natural gas storage fields, with a current working natural gas capacity of approximately 15 billion cubic feet (Bcf), are used to provide natural gas service to LG&E's firm sales customers. Natural gas is stored during the summer season for withdrawal during the following winter heating season. Without this storage capacity, LG&E would need to purchase
+
+13
+
+Table of Contents
+
+additional natural gas and pipeline transportation services during winter months when customer demand increases and the prices for natural gas supply and transportation services are expected to be higher. At December 31, 2020, LG&E had 12 Bcf of natural gas stored underground with a carrying value of $30 million.
+
+LG&E has a portfolio of supply arrangements of varying durations and terms that provide competitively priced natural gas designed to meet its firm sales obligations. These natural gas supply arrangements include pricing provisions that are market-responsive. In tandem with pipeline transportation services, these natural gas supplies provide the reliability and flexibility necessary to serve LG&E's natural gas customers.
+ 
+LG&E purchases natural gas supply transportation services from two pipelines. LG&E has contracts with one pipeline that are subject to termination by LG&E between 2023 and 2026. Total winter season capacity under these contracts is 184,900 MMBtu/day and summer season capacity is 60,000 MMBtu/day. With this same pipeline, LG&E also has another contract for pipeline capacity through 2026 for 60,000 MMBtu/day during both the winter and summer seasons. LG&E has a single contract with a second pipeline with a total capacity of 20,000 MMBtu/day during both the winter and summer seasons that expires in 2023.
+ 
+LG&E expects to purchase natural gas supplies for its gas distribution operations from onshore producing regions in South Texas, East Texas, North Louisiana and Arkansas, as well as gas originating in the Marcellus and Utica production areas.
+ 
+(PPL, LKE, LG&E and KU)
+
+Transmission
+
+LG&E and KU contract with the Tennessee Valley Authority to act as their transmission reliability coordinator and contract with TranServ International, Inc. to act as their independent transmission organization.
+ 
+Rates
+ 
+LG&E is subject to the jurisdiction of the KPSC and FERC, and KU is subject to the jurisdiction of the KPSC, FERC and VSCC. LG&E and KU operate under a FERC-approved open access transmission tariff.
+ 
+LG&E's and KU's Kentucky base rates are calculated based on a return on capitalization (common equity, long-term debt and short-term debt) including adjustments for certain net investments and costs recovered separately through other means. As such, LG&E and KU generally earn a return on regulatory assets in Kentucky.
+
+KU's Virginia base rates are calculated based on a return on rate base (net utility plant plus working capital less accumulated deferred income taxes and miscellaneous deductions). As all regulatory assets and liabilities, except the levelized fuel factor and regulatory assets or liabilities recorded for pension and postretirement benefits and AROs related to certain CCR impoundments, are excluded from the return on rate base utilized in the calculation of Virginia base rates, no return is earned on the related assets.
+ 
+KU's rates to municipal customers for wholesale power requirements are calculated based on annual updates to a formula rate that utilizes a return on rate base (net utility plant plus working capital less accumulated deferred income taxes and miscellaneous deductions). As all regulatory assets and liabilities are excluded from the return on rate base utilized in the development of municipal rates, no return is earned on the related assets. In April 2014, certain municipalities submitted notices of termination to cease taking power under the wholesale requirements contracts. KU's service to eight municipalities terminated effective April 30, 2019. KU continues to provide service to two municipalities.
+
+See "Financial and Operational Developments" in "Item 7. Combined Management's Discussion and Analysis of Financial Condition and Results of Operations" and Note 7 to the Financial Statements for additional information on current rate proceedings and rate mechanisms.
+
+
+14
+
+Table of Contents
+
+Pennsylvania Regulated Segment (PPL)
+
+The Pennsylvania Regulated segment consists of PPL Electric, a regulated public utility engaged in the distribution and transmission of electricity.
+
+(PPL and PPL Electric)
+
+PPL Electric delivers electricity to approximately 1.4 million customers in a 10,000-square mile territory in 29 counties within eastern and central Pennsylvania. PPL Electric also provides electricity to retail customers in this territory as a PLR under the Customer Choice Act. See Note 3 to the Financial Statements for revenue information.
+
+Franchise, Licenses and Other Regulations
+
+PPL Electric is authorized to provide electric public utility service throughout its service area as a result of grants by the Commonwealth of Pennsylvania in corporate charters to PPL Electric and companies which it has succeeded, and as a result of certification by the PUC. PPL Electric is granted the right to enter the streets and highways by the Commonwealth subject to certain conditions. In general, such conditions have been met by ordinance, resolution, permit, acquiescence or other action by an appropriate local political subdivision or agency of the Commonwealth.
+
+Competition
+
+Pursuant to authorizations from the Commonwealth of Pennsylvania and the PUC, PPL Electric operates a regulated distribution monopoly in its service area. Accordingly, PPL Electric does not face competition in its electricity distribution business. Pursuant to the Customer Choice Act, generation of electricity is a competitive business in Pennsylvania, and PPL Electric does not own or operate any generation facilities.
+
+The PPL Electric transmission business, operating under a FERC-approved PJM Open Access Transmission Tariff, is subject to competition pursuant to FERC Order 1000 from entities that are not incumbent PJM transmission owners with respect to the construction and ownership of transmission facilities within PJM.
+
+Rates and Regulation
+
+Transmission
+
+PPL Electric's transmission facilities are within PJM, which operates the electricity transmission network and electric energy market in the Mid-Atlantic and Midwest regions of the U.S.
+
+PJM serves as a FERC-approved Regional Transmission Operator (RTO) to promote greater participation and competition in the region it serves. In addition to operating the electricity transmission network, PJM also administers regional markets for energy, capacity and ancillary services. A primary objective of any RTO is to separate the operation of, and access to, the transmission grid from market participants that buy or sell electricity in the same markets. Electric utilities continue to own the transmission assets and to receive their share of transmission revenues, but the RTO directs the control and operation of the transmission facilities. Certain types of transmission investments are subject to competitive processes outlined in the PJM tariff.
+
+As a transmission owner, PPL Electric's transmission revenues are recovered through PJM and billed in accordance with a FERC-approved Open Access Transmission Tariff that allows recovery of incurred transmission costs, a return on transmission-related plant and an automatic annual update based on a formula-based rate recovery mechanism. Under this formula, rates are put into effect in June of each year based upon prior year actual expenditures and current year forecasted capital additions. Rates are then adjusted the following year to reflect actual annual expenses and capital additions, as reported in PPL Electric’s annual FERC Form 1, filed under the FERC’s Uniform System of Accounts. Any difference between the revenue requirement in effect for the prior year and actual expenditures incurred for that year is recorded as a regulatory asset or regulatory liability. Any change in the prior year PPL zonal peak load billing factor applied on January 1 of each year will result in an increase or decrease in revenue until the next annual rate update is effective on June 1 of that same year.
+
+As a PLR, PPL Electric also purchases transmission services from PJM. See "PLR" below.
+
+See Note 7 to the Financial Statements for additional information on rate mechanisms.
+
+
+15
+
+Table of Contents
+
+Distribution
+
+PPL Electric's distribution base rates are calculated based on a return on rate base (net utility plant plus a cash working capital allowance less plant-related deferred taxes and other miscellaneous additions and deductions). All regulatory assets and liabilities are excluded from the return on rate base. Therefore, no return is earned on the related assets unless specifically provided for by the PUC. Currently, PPL Electric's Smart Meter rider and the DSIC are the only riders authorized to earn a return. Certain operating expenses are also included in PPL Electric's distribution base rates including wages and benefits, other operation and maintenance expenses, depreciation and taxes.
+
+Pennsylvania's Alternative Energy Portfolio Standard (AEPS) requires electricity distribution companies and electricity generation suppliers to obtain from alternative energy resources a portion of the electricity sold to retail customers in Pennsylvania. Under the default service procurement plans approved by the PUC, PPL Electric purchases all of the alternative energy generation supply it needs to comply with the AEPS.
+
+Act 129 created an energy efficiency and conservation program, a demand side management program, smart metering technology requirements, new PLR generation supply procurement rules, remedies for market misconduct and changes to the existing AEPS.
+
+Act 11 authorizes the PUC to approve two specific ratemaking mechanisms: the use of a fully projected future test year in base rate proceedings and, subject to certain conditions, the use of a DSIC. Such alternative ratemaking procedures and mechanisms provide opportunity for accelerated cost-recovery and, therefore, are important to PPL Electric as it is in a period of significant capital investment to maintain and enhance the reliability of its delivery system, including the replacement of aging assets. PPL Electric utilized the fully projected future test year mechanism in its 2015 base rate proceeding. PPL has had the ability to utilize the DSIC recovery mechanism since July 2013.
+
+See "Financial and Operational Developments" in "Item 7. Combined Management's Discussion and Analysis of Financial Condition and Results of Operations" and Note 7 to the Financial Statements for additional information on legislative and regulatory matters.
+
+PLR
+
+The Customer Choice Act requires electric distribution companies, including PPL Electric, or an alternative supplier approved by the PUC, to act as a PLR of electricity supply for customers who do not choose to shop for supply with a competitive supplier and provides that electricity supply costs will be recovered by the PLR pursuant to PUC regulations. In 2020, the following average percentages of PPL Electric's customer load were provided by competitive suppliers: 42% of residential, 81% of small commercial and industrial and 98% of large commercial and industrial customers. The PUC continues to favor expanding the competitive market for electricity.
+
+PPL Electric's cost of electricity generation is based on a competitive solicitation process. The PUC approved PPL Electric's default service plan for the period June 2017 through May 2021, which included a total of eight semi-annual solicitations for electricity supply. Additionally, on December 17, 2020, the PUC approved PPL Electric's next default service plan for the period of June 2021 through May 2025, which includes a total of eight solicitations for electricity supply held semiannually in April and October. The new plan also includes eight solicitations for alternative energy credits held semiannually in January and July with the first solicitation being in July 2021 and the final solicitation being in January 2025.
+
+Pursuant to the plans, PPL Electric contracts for all of the electricity supply for residential, commercial and industrial customers who elect to take default service from PPL Electric. These solicitations contain a mix of products including 5-year block energy contracts for residential customers, 6- and 12-month fixed-price load-following contracts for residential and small commercial and industrial customers, 12-month real-time pricing contracts for large commercial and industrial customers, and alternative energy credit contracts for residential, commercial and industrial customers. These contracts fulfill PPL Electric's obligation to provide customer electricity supply as a PLR.
+
+Numerous alternative suppliers have offered to provide generation supply in PPL Electric's service area. As the cost of generation supply is a pass-through cost for PPL Electric, its financial results are not impacted if its customers purchase electricity supply from these alternative suppliers.
+
+16
+
+Table of Contents
+
+
+Corporate and Other (PPL)
+
+PPL Services provides PPL subsidiaries with administrative, management and support services. The costs of these services are charged directly to the respective recipients for the services provided or indirectly charged to applicable recipients based on an average of the recipients' relative invested capital, operation and maintenance expenses and number of employees or a ratio of overall direct and indirect costs.
+
+PPL Capital Funding, PPL's financing subsidiary, provides financing for the operations of PPL and certain subsidiaries. PPL's growth in rate-regulated businesses provides the organization with an enhanced corporate level financing alternative, through PPL Capital Funding, that enables PPL to cost effectively support targeted credit profiles across all of PPL's rated companies. As a result, PPL plans to utilize PPL Capital Funding as a source of capital in future financings, in addition to continued direct financing by the operating companies.
+
+Unlike PPL Services, PPL Capital Funding's costs are not generally charged to PPL subsidiaries. Costs are charged directly to PPL. However, PPL Capital Funding participated significantly in the financing for the acquisitions of LKE and WPD Midlands and certain associated financing costs were allocated to the Kentucky Regulated and U.K. Regulated segments. The associated financing costs, as well as the financing costs associated with prior issuances of certain other PPL Capital Funding securities, have been assigned to the appropriate segments for purposes of PPL management's assessment of segment performance. The financing costs associated primarily with PPL Capital Funding's securities issuances beginning in 2013, with certain exceptions, have not been directly assigned or allocated to any segment.
+
+During the second quarter of 2018, PPL completed the acquisition of all the outstanding membership interests of Safari Energy, a privately held provider of solar energy solutions for commercial customers in the U.S. The acquisition is not material to PPL and the financial results of Safari Energy are reported within Corporate and Other.
+
+ENVIRONMENTAL MATTERS
+
+(All Registrants)
+
+The Registrants are subject to certain existing and developing federal, regional, state and local laws and regulations with respect to air and water quality, land use and other environmental matters. The EPA and other federal agencies with jurisdiction over environmental matters have issued numerous environmental regulations relating to air, water and waste that directly affect the electric power industry. Due to these environmental issues, it may be necessary for the Registrants to modify or cease certain operations or operation of certain facilities to comply with statutes, regulations and other requirements of regulatory bodies or courts. In addition, legal challenges to environmental permits or rules add uncertainty to estimating future costs of complying with such permits and rules. The new U.S. presidential administration is expected to undertake an assessment of potential changes in a wide range of environmental programs.
+
+See “Legal Matters” in Note 14 to the Financial Statements for a discussion of environmental commitments and contingencies. See "Financial Condition - Liquidity and Capital Resources - Forecasted Uses of Cash - Capital Expenditures" in "Item 7. Combined Management's Discussion and Analysis of Financial Condition and Results of Operations" for information on projected environmental capital expenditures for 2021 through 2025.
+
+LG&E and KU are entitled to recover, through the ECR mechanism, certain costs of complying with the Clean Air Act, as amended, and other federal, state and local environmental requirements applicable to coal combustion wastes and by-products from coal-fired generating facilities upon KPSC review. Costs not covered by the ECR mechanism for LG&E and KU and all such costs for PPL Electric are subject to rate recovery at the discretion of the companies' respective state regulatory authorities, or the FERC, if applicable. WPD's distribution businesses are subject to certain statutory and regulatory environmental requirements. It may be necessary for WPD to incur significant compliance costs, which may be recoverable through rates subject to Ofgem approval. Because neither WPD nor PPL Electric own any generating plants, their exposure to related environmental compliance costs is reduced. PPL, PPL Electric, LKE, LG&E and KU can provide no assurances as to the ultimate outcome of future proceedings before regulatory authorities.
+
+
+17
+
+Table of Contents
+
+Air
+
+(PPL, LKE, LG&E and KU)
+
+NAAQS
+
+The Clean Air Act has a significant impact on the operation of fossil fuel generation plants. The Clean Air Act requires the EPA periodically to establish and review National Ambient Air Quality Standards, known as NAAQS, for six pollutants: carbon monoxide, lead, nitrogen dioxide, ozone (contributed to by nitrogen oxide emissions), particulate matter and sulfur dioxide. In December 2020, the EPA released final actions keeping the existing NAAQS standard for particulate matter and ozone without change. PPL, LKE, LG&E, and KU are unable to predict the outcome of future evaluations by the EPA and the states with respect to the NAAQS standards.
+
+Applicable regulations require each state to identify areas within its boundaries that fail to meet the NAAQS, (known as nonattainment areas), and develop a state implementation plan to achieve and maintain compliance. States that are found to contribute significantly to another state's nonattainment with ozone standards are required to establish "good neighbor" state implementation plans. In addition, for attainment of ozone and fine particulates standards, certain states, including Kentucky, are subject to a regional EPA program known as the Cross-State Air Pollution Rule (CSAPR).
+
+In January 2018, the EPA designated Jefferson County, Kentucky (Louisville) as being in nonattainment with the existing 2015 ozone standard. In 2020, LG&E entered into an agreement with the Louisville Metro Air Pollution Control District for temporary nitrogen oxide emission limits at LG&E's Mill Creek Station during 2020 to facilitate compliance with the ozone standard. If Jefferson County is unable to demonstrate attainment within the specified timeframes, it may be “bumped up” to the moderate nonattainment classification and thus subject to additional requirements including requirements for installation of reasonably available control technology on coal-fired generating units. Compliance with such requirements may require installation of additional pollution controls or other compliance actions. LKE and LG&E are unable to determine the impact on operations until certain compliance determinations are made by the EPA and Kentucky.
+
+In December 2018, the EPA finalized the CSAPR "Close-Out Rule," determining that the existing CSAPR "Update Rule" for the 2008 ozone NAAQS fully addresses applicable states' interstate pollution transport obligations. Various states and others challenged the rule in the U.S. Court of Appeals for the D.C. Circuit (D.C. Circuit). In September 2019, the D.C. Circuit granted these petitions and remanded a portion of the CSAPR Update Rule to the EPA. In October 2020, the EPA released proposed revisions to the CSAPR Update Rule providing for rescission of Kentucky's approved good neighbor state implementation plan and additional reductions in ozone season nitrogen oxide emissions for 2021 and subsequent years from sources in 12 states, including Kentucky.
+
+PPL, LKE, LG&E and KU are unable to determine the impact of the rule on operations until the rule is finalized, and certain implementation determinations are made by the EPA and Kentucky. Compliance with the NAAQS, CSAPR and related requirements may require installation of additional pollution controls or other compliance actions, the costs of which PPL, LKE, LG&E and KU believe would be subject to rate recovery.
+
+Climate Change
+
+There is continuing world-wide attention focused on issues related to climate change. In 2015, 195 nations, including the U.S., signed the Paris Agreement on Climate, establishing non-binding targets to reduce GHG emissions from both developed and developing nations. In 2017, the President announced a U.S. withdrawal from the Paris Agreement, effective November 2020. In January 2021, the new U.S. presidential administration initiated the process to rejoin the Paris Agreement. The new U.S. presidential administration also issued executive orders directing agencies to conduct a general review of regulations and executive actions relating to the environment and reestablished a framework for considering the social cost of carbon as part of certain agency cost-benefit analyses for new regulations. The new U.S. presidential administration is considering a wide range of additional policies, executive orders, rules, legislation and other initiatives to address climate change. Some of these initiatives may include repeal of policies, executive orders or rules implemented by the prior administration. Additionally, there are ongoing efforts by various state and local governments to assess potential changes to legislation, rules, policies, directives, and other requirements applicable to greenhouse gas emissions. PPL, LKE, LG&E and KU cannot predict the outcome of ongoing developments.
+
+The U.K. has enacted binding carbon reduction requirements that are applicable to WPD. Under the U.K. law, WPD must purchase carbon allowances to offset emissions associated with WPD's operations. The cost of these allowances is not significant and is included in WPD's current operating expenses.
+
+18
+
+Table of Contents
+
+
+The EPA's Affordable Clean Energy Rule
+
+In July 2019, the EPA repealed the Clean Power Plan and finalized the Affordable Clean Energy (ACE) Rule which gives states broad latitude to establish emission guidelines providing for plant-specific efficiency upgrades or "heat-rate improvements" to reduce GHG emissions per unit of electricity generated. States are generally allowed three years to submit plans establishing standards of performance, while the EPA anticipates that most facilities will be required to demonstrate compliance within two years of plan approval. The EPA intends to take additional action to finalize new criteria for determining whether efficiency projects will trigger New Source Review and thus be subject to more stringent emission controls. LG&E and KU are currently working with state agencies on submittal of compliance plans to the EPA. Various entities filed petitions for review and petitions for reconsideration. On January 19, 2021, the D.C. Circuit Court issued an opinion finding that the EPA had erroneously repealed the Clean Power Plan. The D.C Circuit Court's opinion also vacated and remanded the ACE Rule to the EPA. PPL, LKE, LG&E, and KU cannot predict the outcome of the pending litigation and regulatory proceedings or changes that may be pursued by the new U.S. presidential administration, but believe that the costs would be subject to rate recovery.
+
+Water/Waste
+
+(PPL, LKE, LG&E and KU)
+
+Clean Water Act
+
+Regulations under the federal Clean Water Act dictate permitting and mitigation requirements for facilities and construction projects that impact "Waters of the United States." Many other requirements relate to power plant operations, including the treatment of pollutants in effluents prior to discharge, the temperature of effluent discharges and the location, design and construction of cooling water intake structures at generating facilities, and standards intended to protect aquatic organisms that become trapped at or pulled through cooling water intake structures at generating facilities. These requirements could impose significant costs for LG&E and KU, which are expected to be subject to rate recovery.
+
+Clean Water Act Jurisdiction
+
+Environmental groups and others have claimed that discharges to groundwater from leaking CCR impoundments at power plants are subject to Clean Water Act permitting. A citizen suit raising such claims has been filed against KU with respect to the E.W. Brown plant, as discussed under “Legal Matters” - “E.W. Brown Environmental Claims” in Note 14 to the Financial Statements. On April 12, 2019, the EPA released regulatory clarification finding that Clean Water Act jurisdiction does not cover such discharges to groundwater. On January 23, 2020, the EPA announced a final rule modifying the jurisdictional scope of the Clean Water Act. The announced rule revises the definition of the "Waters of the United States," including a revision to exclude groundwater from the definition. In April 2020, the U.S. Supreme Court issued a ruling that Clean Water Act jurisdiction may apply to certain discharges to groundwater that result in the functional equivalent of a direct discharge to navigable waters. In December 2020, the EPA published draft guidance addressing how the Supreme Court decision applies to the Clean Water Act National Pollutant Elimination System permit program. PPL, LKE, LG&E, and KU are unaware of any unpermitted releases from their facilities that are subject to Clean Water Act jurisdiction, but future regulatory developments and judicial rulings could potentially subject certain releases from CCR impoundments and landfills to additional permitting and remediation requirements, which could impose substantial costs. Any associated costs are expected to be subject to rate recovery. PPL, LKE, LG&E and KU are unable to predict the outcome or financial impact of future regulatory proceedings and litigation.
+
+Seepages and Groundwater Infiltration
+
+In addition to the actions described above, LG&E and KU have completed, or are completing, assessments of seepages or groundwater infiltration at various facilities and have completed, or are working with agencies to implement, further testing, monitoring or abatement measures, where applicable. Depending on the circumstances in each case, certain costs, which may be subject to rate recovery, could be significant.
+
+Superfund and Other Remediation
+
+(All Registrants)
+
+From time to time, PPL's subsidiaries in the United States undertake testing, monitoring or remedial action in response to spills or other releases at various on-site and off-site locations, negotiate with the EPA and state and local agencies regarding actions
+
+19
+
+Table of Contents
+
+necessary to comply with applicable requirements, negotiate with property owners and other third parties alleging impacts from PPL's operations and undertake similar actions necessary to resolve environmental matters that arise in the course of normal operations. Based on analyses to date, resolution of these environmental matters is not expected to have a significant adverse impact on the operations of PPL Electric, LG&E and KU.
+
+Future cleanup or remediation work at sites not yet identified may result in significant additional costs for PPL, PPL Electric, LKE, LG&E and KU. Insurance policies maintained by LKE, LG&E and KU may be available to cover certain of the costs or other obligations related to these matters, but the amount of insurance coverage or reimbursement cannot be estimated or assured.
+
+See “Legal Matters” in Note 14 to the Financial Statements for additional information.
+
+(All Registrants)
+
+SEASONALITY
+
+The demand for and market prices of electricity and natural gas are affected by weather. As a result, the Registrants' operating results in the future may fluctuate substantially on a seasonal basis, especially when unpredictable weather conditions make such fluctuations more pronounced. The pattern of this fluctuation may change depending on the type and location of the facilities owned. See "Item 1. Business - Environmental Matters - Air" for additional information regarding climate change.
+
+FINANCIAL CONDITION
+
+See "Financial Condition" in "Item 7. Combined Management's Discussion and Analysis of Financial Condition and Results of Operations" for this information.
+
+CAPITAL EXPENDITURE REQUIREMENTS
+
+See "Financial Condition - Liquidity and Capital Resources - Forecasted Uses of Cash - Capital Expenditures" in "Item 7. Combined Management's Discussion and Analysis of Financial Condition and Results of Operations" for information concerning projected capital expenditure requirements for 2021 through 2025. See "Item 1. Business - Environmental Matters" for additional information concerning the potential impact on capital expenditures from environmental matters.
+
+HUMAN CAPITAL
+
+PPL, together with its subsidiaries, is committed to fostering an exceptional workplace for employees. PPL pledges to enable success of its current and future workforce through a human capital management approach that cultivates a diverse, equitable and inclusive culture, fosters professional development and encourages employee engagement. Matters related to these priorities and corporate culture are overseen by PPL's senior management, which provides updates to the PPL Board of Directors (the Board). Three priorities of this commitment and their oversight are as follows:
+
+•Diversity, equity and inclusion (DEI) – Foster an inclusive, respectful and diverse workplace. Senior management reviews demographic metrics, DEI objectives and associated programs semi-annually. The Director of Diversity, Inclusion and Talent Management also reports to the Board on the company’s DEI strategy.
+•Employee engagement – Create a workplace that fosters an engaged, high-quality workforce. PPL’s operating companies regularly conduct assessments related to employee engagement, safety and culture. Senior management reviews corporate culture with the Board annually.
+•Human capital – Invest in our current and future workforce through training and development, succession planning and creation of a pipeline for internal advancement. In addition to challenging careers and competitive salaries, PPL offers competitive benefits programs to attract and retain talent and support employees’ well-being. PPL offers competitive vacation time, expanded leave for new parents, retirement programs, and internal and external development opportunities, including tuition reimbursement offerings for undergraduate and certain graduate degrees. Senior management reviews succession planning with the Compensation Committee of the Board on an annual basis.
+
+PPL is also committed to maintaining an ethical and safe workplace culture. Additional steps to ensure Board oversight in these areas include:
+
+
+20
+
+Table of Contents
+
+•Compliance – The Corporate Compliance Committee, including senior executives, meets quarterly to discuss metrics and other matters related to the compliance and ethics culture. Among the items discussed are statistics regarding Ethics Helpline reports and employee concerns. This information is also reviewed with the Audit Committee of the Board quarterly.
+•Safety – PPL carries out programs focused on health and safety, including emergency preparedness, vehicle safety and accident prevention. Employees receive safety training and are encouraged to share best practices. Senior management receives monthly safety data to determine whether additional safety measures should be implemented. The Board annually reviews the company's safety programs and results. The Board is also immediately engaged in the event of a fatality.
+
+PPL will continue to engage with employees and to assess these priorities as we work to best position individuals and the company for future success. As a result of our continued effort in these areas, we have a relatively low turnover rate of 5.8% for the year ended December 31, 2020. Looking forward, we will maintain our strong focus on workforce planning to address future talent needs.
+
+At December 31, 2020, PPL and its subsidiaries had the following full-time employees and employees represented by labor unions:
+																	
+	Total Full-Time
+Employees		Number of Union
+Employees		Percentage of Total
+Workforce
+PPL	12,318 			5,692 			46 	%
+PPL Electric	1,533 			887 			58 	%
+LKE	3,482 			759 			22 	%
+LG&E	1,016 			640 			63 	%
+KU	889 			119 			13 	%
+
+PPL's domestic workforce has 1,820 employees, or 32%, who are members of labor unions.
+
+WPD has 3,872 employees who are members of labor unions (or 59% of PPL's U.K. workforce). WPD recognizes four unions, the largest of which represent 40% of its union workforce. WPD's Electricity Business Agreement, which covers 3,816 union employees, may be amended by agreement between WPD and the unions and can be terminated with 12 months' notice by either side.
+
+CYBERSECURITY MANAGEMENT
+
+The Registrants and their subsidiaries are subject to risks from cyber-attacks that have the potential to cause significant interruptions to the operation of their businesses. The frequency of these attempted intrusions has increased in recent years and the sources, motivations and techniques of attack continue to evolve and change rapidly. PPL has adopted a variety of measures to monitor and address cyber-related risks and continues to implement and explore additional cybersecurity measures. Cybersecurity and the effectiveness of PPL's cybersecurity strategy are regular topics of discussion at Board of Directors meetings. PPL's strategy for managing cyber-related risks is risk-based and, where appropriate, integrated within PPL's enterprise risk management processes. PPL's Chief Information Security Officer (CISO), who reports directly to the Chief Executive Officer, leads a dedicated cybersecurity team and is responsible for the design, implementation, and execution of cyber-risk management strategy. Among other things, the CISO and the cybersecurity team actively monitor the Registrants' systems, regularly review policies, compliance, regulations and best practices, perform penetration testing, lead response exercises and internal campaigns, and provide training and communication across the organization to strengthen secure behavior. The cybersecurity team also routinely participates in industry-wide programs to further information sharing, intelligence gathering, and unity of effort in responding to potential or actual attacks. In addition, in 2018, PPL revised and formalized its internal policy and procedures for communicating cybersecurity incidents on an enterprise-wide basis.
+In addition to these enterprise-wide initiatives, PPL's Kentucky and Pennsylvania operations are subject to extensive and rigorous mandatory cybersecurity requirements that are developed and enforced by NERC and approved by the FERC to protect grid security and reliability. Finally, PPL purchases insurance to protect against a wide range of costs that could be incurred in connection with cyber-related incidents. There can be no assurance, however, that these efforts will be effective to prevent interruption of services or other damage to the Registrants' businesses or operations or that PPL's insurance coverage will cover all costs incurred in connection with any cyber-related incident.
+
+21
+
+Table of Contents
+
+AVAILABLE INFORMATION
+
+PPL's Internet website is www.pplweb.com. Under the Investors heading of that website, PPL provides access to SEC filings of the Registrants (including annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to these reports filed or furnished pursuant to Section 13(d) or 15(d)) free of charge, as soon as reasonably practicable after filing with the SEC. The information contained on, or available through, PPL's Internet website is not, and shall not be deemed to be, incorporated by reference into this report. Additionally, the Registrants' filings are available at the SEC's website (www.sec.gov).

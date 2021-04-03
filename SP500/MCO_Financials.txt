@@ -1,0 +1,670 @@
+BACKGROUND
+As used in this report, except where the context indicates otherwise, the terms “Moody’s” or the “Company” refer to Moody’s Corporation, a Delaware corporation, and its subsidiaries. The Company’s executive offices are located at 7 World Trade Center at 250 Greenwich Street, New York, NY 10007 and its telephone number is (212) 553-0300.
+THE COMPANY
+Company Overview
+Moody’s is a global integrated risk assessment firm that empowers organizations and investors to make better decisions. Moody’s reports in two segments: MIS and MA. Financial information and operating results of these segments, including revenue, expenses and operating income, are included in Part II, Item 8. Financial Statements of this annual report and are herein incorporated by reference.
+
+																	
+					
+  mco-20201231_g1.jpg
+	
+
+mco-20201231_g2.jpg
+	
+mco-20201231_g3.jpg
+mco-20201231_g4.jpg
+	
+Independent provider of credit rating opinions and related information for over 100 years
+	
+mco-20201231_g5.jpg
+	A global integrated risk assessment firm that empowers organizations to make better decisions	
+mco-20201231_g6.jpg
+	
+Global provider of data and analytic solutions which help companies make better and faster decisions.
+59.7%	2020 Adjusted Operating Margin 	Total 2020 Revenue
+of $5.4 billion 	29.4%	2020 Adjusted Operating Margin
+57.1%	2020 Operating Margin	
+mco-20201231_g7.jpg
+	20.3%	2020 Operating Margin
+			
+			
+		44.5%	2020 Operating Margin		
+		49.7%	2020 Adjusted Operating Margin		
+
+
+10     MOODY'S 2020 10-K
+Table of Contents
+														
+mco-20201231_g8.jpg
+				
+	
+mco-20201231_g9.jpg
+		2007 - 2016	
+		Expanded beyond ratings agency 	
+			
+•Established Moody’s Analytics
+•Built the ERS business (e.g., Fermat, B&H)
+•Expanded ratings to China (i.e., CCXI)
+	
+				
+	
+mco-20201231_g10.jpg
+		2017 - 2020	
+		Built out substantial data and analytics capabilities	
+			
+•Complemented ERS business with private company information (i.e., BvD)
+•Accelerated capability expansion (e.g., company database, CRE data, ESG data)
+	
+				
+	
+mco-20201231_g11.jpg
+		2021 and Beyond 	
+		Positioned to serve a wide range of risk assessment markets	
+			
+•Competitive differentiator: integration of data and analytics combined with expertise and technology enablement
+•Further investment in data and analytics capabilities such as private company, CRE and ESG to serve high growth risk assessment use cases (e.g., KYC and compliance)
+	
+
+
+MOODY'S 2020 10-K     11
+Table of Contents
+Moody's Investors Service Overview
+MIS publishes credit ratings and provides assessment services on a wide range of debt obligations, programs and facilities, and the entities that issue such obligations in markets worldwide, including various corporate, financial institution and governmental obligations, and structured finance securities. A rating from MIS enables issuers to create timely, go-to-market debt strategies with the ability to capture wider investor focus and deeper liquidity options.
+
+																				
+The Benefits of a Moody's Rating
+mco-20201231_g12.jpg
+mco-20201231_g13.jpg
+		
+mco-20201231_g14.jpg
+		
+mco-20201231_g15.jpg
+		
+mco-20201231_g16.jpg
+Access to capital		Transparency, credit comparison and market stability		Planning and budgeting		Analytical capabilities
+•Moody’s opinions on credit are used by institutional investors throughout the world, making an issuer’s debt potentially more attractive to a wide range of buyers.
+		
+•Signals a willingness by issuers to be transparent and provides issuers with an independent assessment against which to compare creditworthiness.
+		
+•May help issuers when formulating internal capital plans and funding strategies
+		
+•Among ratings advisors, Moody’s has a strong position and is well-recognized for the depth and breadth of its analytical capabilities.
+						
+•A Moody’s rating may facilitate access to both domestic and international debt capital.
+
+		
+•Moody’s ratings and research reports may help to maintain investor confidence, especially during periods of market stress.
+
+				
+
+
+Ratings revenue is derived from the originators and issuers of such transactions who use MIS ratings to support the distribution of their debt issues to investors. Ratings are disseminated via press releases to the public primarily through a variety of electronic media, including the internet and real-time information systems widely used by securities traders and investors.
+
+12     MOODY'S 2020 10-K
+Table of Contents
+																				
+MIS by the Numbers
+						
+	
+mco-20201231_g17.jpg
+	5,000+		
+mco-20201231_g18.jpg
+	16,000+	
+	Rated Non-Financial Corporates		Rated Public Finance Issuers	
+						
+	
+mco-20201231_g19.jpg
+	3,600+		
+mco-20201231_g20.jpg
+	9,100+	
+	Rated Financial Institutions		Rated Structured Finance Deals 	
+						
+	
+mco-20201231_g21.jpg
+	145		
+mco-20201231_g22.jpg
+	1,000+	
+	Rated Sovereigns		Rated Infrastructure & Public Finance Issuers	
+						
+	
+mco-20201231_g23.jpg
+	47		
+mco-20201231_g24.jpg
+	202	
+	Rated Supranational Institutions		Rating Methodologies	
+						
+	
+mco-20201231_g25.jpg
+	459		
+mco-20201231_g26.jpg
+	140+	
+	Rated Sub-Sovereigns
+		Countries where MIS provides ratings	
+
+MIS also earns revenue from certain non-ratings-related operations, which primarily consist of financial instruments pricing services in the Asia-Pacific region, revenue from ESG research, data and assessments and revenue from ICRA's non-ratings operations. The revenue from these operations is included in the MIS Other LOB and is not material to the results of the MIS segment.
+
+MOODY'S 2020 10-K     13
+Table of Contents
+Moody's Analytics Overview
+MA is a global provider of data and analytic solutions which help companies make better and faster decisions. MA’s analytic models, industry insights, software tools and proprietary data assets allow companies to inform and perform many critical business activities with trust and confidence. MA’s approach to aggregating, broadening and deepening available data, research, analytic tools and software solutions fosters a more integrated and efficient delivery to MA's customers resulting in better decisions around risks and opportunities. MA’s subscription businesses provide a significant base of recurring revenue to mitigate cyclical changes in debt issuance volumes that may result in volatility in MIS’s revenues.
+														
+MA's Diverse Product Solutions
+Continuous expansion and refinement of content, tools and user experience to help customers make better and faster decisions.
+				
+Integrated Experience:
+Ease of Use
+		
+Enhanced Content and Coverage:
+More Value
+				
+mco-20201231_g27.jpg
+	
+Onboard customers
+Confirm KYC, AML
+	
+mco-20201231_g28.jpg
+	
+mco-20201231_g29.jpg
+	
+Compliance modules
+Leverage BvD, RDC and Acquire Media data
+				
+mco-20201231_g30.jpg
+	
+Gather financials
+Create credit statistics
+	
+mco-20201231_g28.jpg
+	
+mco-20201231_g31.jpg
+	
+Spreading tools
+Prepopulate and digitize financials
+
+				
+mco-20201231_g32.jpg
+	
+Analyze credit and transaction
+Assess creditworthiness of portfolio
+	
+mco-20201231_g28.jpg
+	
+mco-20201231_g33.jpg
+	
+World class credit research and analytics
+Early warning signals and credit scoring
+				
+mco-20201231_g34.jpg
+	
+Consider risks holistically
+Climate change, cyber, macro-economic
+	
+mco-20201231_g28.jpg
+	
+mco-20201231_g35.jpg
+	
+ESG impact
+of customer’s business
+				
+Multichannel Delivery
+mco-20201231_g36.jpg
+	Web	
+mco-20201231_g36.jpg
+	Third party platforms
+mco-20201231_g36.jpg
+	Excel add-in	
+mco-20201231_g36.jpg
+	Mobile
+mco-20201231_g36.jpg
+	API		
+
+14     MOODY'S 2020 10-K
+Table of Contents
+																				
+MA Customers by the Numbers
+						
+	
+mco-20201231_g37.jpg
+	1,500+		
+mco-20201231_g38.jpg
+	2,900+	
+	Asset Managers		Commercial Banks	
+						
+	
+mco-20201231_g39.jpg
+	3,100+		
+mco-20201231_g40.jpg
+	225+	
+	Corporations		Securities Dealers and Investment Banks	
+						
+	
+mco-20201231_g41.jpg
+	675+		
+mco-20201231_g42.jpg
+	4,000+	
+	Insurance Companies		Government & Other Entities	
+						
+	
+mco-20201231_g43.jpg
+	300+		
+mco-20201231_g44.jpg
+	337,000+	
+	Real Estate Entities		Individuals accessed the Moody's research website 	
+						
+	
+mco-20201231_g26.jpg
+	155+		
+mco-20201231_g45.jpg
+	31,000+	
+	Countries where MA customers operate 		Customer users accessed the Moody's research website in 2020	
+
+Sustainability
+Moody’s manages its business with the goal of delivering value to all of its stakeholders, including its customers, employees, business partners, local communities and stockholders. As part of this effort, Moody’s advances sustainability by considering environmental, social, and governance (“ESG”) factors throughout its operations and products and services. It uses its expertise and assets to make a positive difference through technology tools, research and analytical services that help other organizations and the investor community better understand the links between sustainability considerations and the global markets. Moody’s efforts to promote sustainability-related thought leadership, assessments and data to market participants include following the policies of recognized sustainability organizations that develop standards or frameworks and/or evaluate and assess performance, including the Global Reporting Initiative and Sustainability Accounting Standards Board. Moody's also issues an annual report on how the Company has implemented the Task Force on Climate-related Financial Disclosures (“TCFD”) recommendations. Moody’s sustainability-related achievements in 2020 included the following:
+–established science based targets for reducing greenhouse gas (GHG) emissions and received validation for such targets from Science Based Targets initiative;
+–published Moody's Decarbonization Plan; and
+–introduced sustainability related performance goals for determining compensation of certain senior executives.
+The Board oversees sustainability matters, with assistance from the Audit and Governance & Nominating Committees, as part of its oversight of management and the Company’s overall strategy.
+MOODY'S 2020 10-K     15
+Table of Contents
+HUMAN CAPITAL
+Moody’s purpose is to bring clarity, knowledge and fairness to an interconnected world. The Company’s success in achieving its purpose is only possible through the collective contributions of its global employee population whose members possess the unique combination of skills, professional experience and diversity of backgrounds needed to advance the Company’s business and contribute to the communities in which it operates. Moody’s believes that it is essential to: i) create a workplace where its employees feel valued and inspired; ii) to provide an environment that fosters a culture of independence, inclusion and intellectual leadership; and iii) to support peer collaboration and professional growth.
+As a global integrated risk assessment firm, attracting, supporting and retaining skilled talent is essential to the Company’s success. Moody’s addresses these goals by: (i) championing diversity, equity and inclusion among employees; (ii) seeking to provide market-competitive compensation and benefits and rewarding employees for their contributions to the Company’s strategic and operational goals; (iii) offering wellness programs; (iv) supporting employee learning, development and skills enhancement; and (v) advancing employee engagement.
+Diversity, Equity and Inclusion
+Moody's believes it is imperative to be visible champions of diversity, equity and inclusion because differing thoughts and perspectives help to enrich the Company’s offerings to its many stakeholders and improves performance. The key objectives for which the Company focuses with respect to these items include: (i) incorporating diversity, equity and inclusion into Moody’s business strategy; (ii) establishing leadership accountability with respect to diversity, including through executive compensation programs; (iii) working to increase diverse representation, e.g., women and ethnic groups; (iv) continuing to advance women and ethnically diverse employees in leadership roles; (v) enhancing employee training in diversity, equity and inclusion matters; (vi) promoting equal employment opportunities in all aspects of employment; (vii) designing the Company’s compensation practices to provide equal pay for equal work; and (viii) incorporating market standards, role, experience and performance into compensation decisions. The executive leadership team’s focus on these items is vital to attract, support and retain its skilled talent.
+Moody’s has numerous diversity programs and eight active business resource groups (“BRGs”), representing 40 chapters and more than 5,400 memberships globally as of December 31, 2020. An employee can hold membership in multiple BRGs in a single region.
+The Company’s diversity programs include its TIDE program (Talent Aspirations & Alignment, Insights, Development & Career Planning and Exposure & Expansion), which is a high potential employee diversity initiative aimed at elevating women and ethnically diverse employees into leadership positions.
+The Company provides and periodically updates information on its BRGs and other diversity, inclusion and equity programs in its various sustainability and stakeholder reports and on its Diversity & Inclusion microsite. See moodys.com/csr and moodys.com/diversity for these items. The content of those websites is not incorporated by reference herein.
+The charts below present additional information regarding the diversity of the Company's workforce as of December 31, 2020. The percentage for people of color ("POC") includes those who identified as Asian, Hispanic, Black, American Indian/Alaskan Native, Hawaiian/Other Pacific Island or two or more races. Officers and Managers are calculated using the job categories: executives, senior managers, mid-level managers, and first-level managers. The following data is based on Company records and may involve estimates or assumptions.
+mco-20201231_g46.jpg mco-20201231_g47.jpg
+
+
+16     MOODY'S 2020 10-K
+Table of Contents
+mco-20201231_g48.jpg mco-20201231_g49.jpg
+
+Compensation
+Moody’s compensation programs are designed to foster and maintain a strong, capable, experienced and motivated global workforce. An important element of the Company’s compensation philosophy is aligning compensation to local market standards so that it can attract and retain the highly-skilled talent needed to thrive. The Company’s compensation packages include market-competitive salaries, annual bonuses and equity grants for certain employees.
+Benefits and Wellness Programs
+With respect to benefits, the Company views investments in benefits as an investment in its people. Moody’s is committed to providing competitive benefits programs designed to care for all employees and their families. The Company’s comprehensive programs offer resources for physical and mental health that promote preventive care, awareness and support a healthy lifestyle. The Company also promotes financial wellness and provides for flexible work arrangements, which support the Company’s efforts to create a work atmosphere in which people feel valued and inspired to give their best. Beyond delivering health, welfare, retirement benefits, and paid vacation and sick days, Moody’s extends other benefits to support its employees and their families. To provide competitive benefits, the Company periodically adjusts the nature and extent of benefits, such as parental leave, workplace flexibility and educational support.
+
+MOODY'S 2020 10-K     17
+Table of Contents
+Employee Population
+As of December 31, 2020 and 2019, the number of Moody’s full-time equivalent employees was as follows:
+																							
+Global Headcount
+			December 31, 		Change
+			2020		2019		%
+							
+MIS						
+	U.S. 		1,512 			1,453 			4 	%
+	Non-U.S. 		3,564 			3,358 			6 	%
+	Total 		5,076 			4,811 			6 	%
+							
+MA						
+	U.S.		2,004 			1,810 			11 	%
+	Non-U.S.		2,963 			3,023 			(2)	%
+	Total		4,967 			4,833 			3 	%
+							
+MSS
+	U.S.		709 			645 			10 	%
+	Non-U.S.		738 			792 			(7)	%
+	Total		1,447 			1,437 			1 	%
+							
+Total MCO						
+	U.S.		4,225 			3,908 			8 	%
+	Non-U.S.		7,265 			7,173 			1 	%
+	Total		11,490 			11,081 			4 	%
+
+The MIS employee population primarily consists of credit analysts, data and operations analysts, credit strategy and methodology professionals, software engineers, sales and sales operations, and international strategy teams.
+MA’s employee population primarily consists of software engineers, data and operation analysts, advisory and implementation teams and economists, as well as sales and sales support professionals.
+The MSS employee population primarily consists of information technology professionals and other professional support staff such as finance, human resources and legal that support both MIS and MA.
+18     MOODY'S 2020 10-K
+Table of Contents
+Employee Engagement, Learning and Development
+Management monitors employee turnover rates as presented in the chart below:
+
+mco-20201231_g50.jpg mco-20201231_g51.jpg
+
+The decline in the Company's voluntary turnover rates in 2020 compared to 2019 are likely due to the effects of COVID-19 on the labor market. Additionally, MSS involuntary turnover figures in 2020 in the chart above includes employees who separated pursuant to a third party outsourcing arrangement relating to certain back office functions.
+Additionally, as a result of the COVID-19 pandemic, the Company enhanced its digital communications with its employees in 2020. These enhanced communications have allowed senior management to apprise employees of evolving priorities and its focus on the health, safety and well-being of Moody’s employees during this challenging time.
+Learning & Development is one element of Moody’s talent management framework, which includes talent acquisition, performance management, total rewards, succession planning and leadership development. Each of these areas supports the Company’s business strategy and Moody’s culture as a diverse, equitable and inclusive place to work. The Company views learning and education as an investment in its people that aligns their professional goals and interests with the success of the firm, and helps to retain talent over the longer-term. A number of training programs are available, including leadership development, professional skills development, technical skills, as well as compliance training.
+MOODY'S 2020 10-K     19
+Table of Contents
+MOODY’S STRATEGY
+Moody’s corporate mission is to provide trusted insights and standards that help decision-makers act with confidence. Moody’s will continue to invest with intent to defend and enhance its core businesses and expand into strategic adjacencies and new geographies.
+																										
+Moody’s Priorities for Strategic Growth
+								
+mco-20201231_g52.jpg
+		
+mco-20201231_g53.jpg
+		
+mco-20201231_g45.jpg
+Global Integrated Risk Assessments 		Moody's Core Strengths 		Strategic Adjacencies and Expand into New Geographies
+								
+Standard Solutions and Insights 					Business Adjacencies
+								
+mco-20201231_g54.jpg
+	Credit		
+mco-20201231_g55.jpg
+	
+mco-20201231_g56.jpg
+		
+mco-20201231_g57.jpg
+	
+mco-20201231_g58.jpg
+	
+mco-20201231_g59.jpg
+mco-20201231_g60.jpg
+	Data		Trusted Brand	Proprietary data and integrated analytics 		Commercial Real Estate	Know Your Customer	ESG
+						
+				Regional Expansion
+								
+mco-20201231_g61.jpg
+	Analytics		
+mco-20201231_g62.jpg
+	
+mco-20201231_g63.jpg
+		
+mco-20201231_g64.jpg
+	
+mco-20201231_g65.jpg
+	
+mco-20201231_g66.jpg
+			Business-credit products 	Expanded global customer base 		EMEA	Asia Pacific	Latin America
+								
+
+Moody’s invests in initiatives to implement the Company’s strategy, including internally led organic development and targeted acquisitions. Illustrative examples include:
+
+														
+mco-20201231_g67.jpg
+	
+mco-20201231_g68.jpg
+	
+mco-20201231_g69.jpg
+	
+mco-20201231_g70.jpg
+	
+mco-20201231_g71.jpg
+Enhancements to ratings quality and product extensions
+	
+Investments that extend ownership and participation in joint ventures and strategic alliances
+	Expansion in emerging markets 	
+New products, services, content and technology capabilities to meet customer demands
+	
+Selective bolt-on acquisitions that accelerate the ability to scale and grow Moody’s businesses
+
+20     MOODY'S 2020 10-K
+Table of Contents
+During 2020, Moody’s continued to invest in and acquire complementary businesses as further described below:
+
+														
+Date 	Business	Company	Stake	Strategic Commentary
+				
+December 2020	Commercial Real Estate	Catylist, Inc	100%	A U.S. based provider of commercial real estate (CRE) solutions for brokers. The acquisition advances Moody’s Analytics CRE platform, substantially enhancing its coverage of property-level data and expanding its range of analytical solutions to the broker market.
+				
+December 2020	Risk Solutions	ZM Financial Systems	100%	A U.S. based provider of risk and financial management software for the U.S. banking sector. The acquisition advances Moody’s position in integrated risk assessment by broadening Moody’s Analytics’ suite of enterprise risk solutions, which help financial institutions make better decisions.
+				
+November 2020	ESG & KYC	MioTech	Minority	Provider of ESG and KYC alternative data and insights serving the Greater China market. The investment reflects Moody’s commitment to providing China’s evolving financial markets with innovative and technology enabled ESG and KYC solutions.
+				
+October 2020	Data	Acquire Media	100%	A U.S. based aggregator and distributor of curated real-time news, multimedia, data, and alerts. The acquisition serves to advance MA’s solutions by strengthening its ability to provide early warning signals and real-time insight to market participants.
+				
+August 2020	Credit Ratings	Malaysian Rating Corporation Berhad (MARC)	Minority	Credit rating agency serving the Malaysian domestic bond and sukuk markets. The investment strengthens Moody’s presence in Southeast Asia and across domestic bond markets globally, and advances its position as a leader in Islamic finance.
+				
+March 2020	Financial Training & Certifications	RBA International	100%	A U.K. based provider of online retail bank training and certifications. The acquisition deepens the capabilities of MA’s financial training and certifications business.
+				
+February 2020	KYC	Regulatory DataCorp	100%	A U.S. based provider of KYC data and due diligence services. The acquisition complements Moody’s 2017 acquisition of company data provider Bureau van Dijk (BvD), creating a global leader in compliance solutions, BvD’s fastest-growing business segment.
+
+
+																							
+Moody's Priorities Looking Forward
+Realizing the full potential of our global integrated risk assessment opportunity
+							
+mco-20201231_g72.jpg
+		
+mco-20201231_g73.jpg
+		
+mco-20201231_g74.jpg
+Sharpen focus on understanding and delivering for our customers		Invest with intent to grow and scale 		Collaborate, modernize and innovate
+World-class customer experience 		Deepen and extend our presence in risk assessment markets		Technology interoperability and data access
+
+MOODY'S 2020 10-K     21
+Table of Contents
+PROSPECTS FOR GROWTH
+Moody’s believes that the overall long-term outlook remains favorable for continued growth of the global fixed-income market and related financial information market, which includes information such as credit opinions, research, data, analytics, risk management tools and related services.
+Moody’s growth is influenced by a number of trends that impact financial information markets including:
+
+																																
+mco-20201231_g75.jpg
+		
+mco-20201231_g76.jpg
+		
+mco-20201231_g77.jpg
+		
+mco-20201231_g78.jpg
+		
+mco-20201231_g79.jpg
+		
+mco-20201231_g80.jpg
+Health of the world’s major economies
+		Debt capital markets activity		Disintermediation of credit markets		Fiscal and monetary policy of governments		Expansion of market for integrated data and analytics solutions		Business investment spending, including mergers and acquisitions
+
+In an environment of increasing financial complexity and heightened attention to credit analysis and risk management, Moody’s is well positioned to benefit from continued growth in global fixed-income market activity and more widespread use of credit ratings, research and related analytical products. Moody’s expects that these developments will support continued long-term demand for high quality, independent credit opinions, research, data, analytics, risk management tools and related services. Moreover, pricing opportunities aligned with customer value creation and advances in information technology present growth opportunities for Moody’s.
+Environmental, Social and Governance Data and Solutions
+ESG data and solutions are expected to play an increasingly important role across both MIS and MA as market participants seek trusted insights and standards to make better decisions.
+																																			
+Priorities for Strategic Growth: ESG Integrated Across All Platforms, Driving Growth and Enhanced Relevance
+	
+mco-20201231_g81.jpg
+	
+											
+	MIS Integration		MA Integration		MESG	
+											
+	
+mco-20201231_g82.jpg
+	
+mco-20201231_g83.jpg
+		
+mco-20201231_g84.jpg
+		
+mco-20201231_g85.jpg
+		
+mco-20201231_g86.jpg
+		
+mco-20201231_g87.jpg
+	
+	ESG Classification	ESG Credit Scores		Real Estate Solutions	
+mco-20201231_g88.jpg
+	Moodys.com		ESG Measures	
+mco-20201231_g89.jpg
+	Climate Solutions	
+											
+	
+mco-20201231_g90.jpg
+	
+mco-20201231_g91.jpg
+		
+mco-20201231_g92.jpg
+	Risk Analytics & Regulatory Reporting	
+mco-20201231_g93.jpg
+		
+mco-20201231_g94.jpg
+	Index Solutions	
+mco-20201231_g95.jpg
+	
+	Credit Ratings & Research	Heat Maps		Lending Solutions and Tools 		APIs, and Data Feeds		SME Solutions		Sustainable Finance	
+
+22     MOODY'S 2020 10-K
+Table of Contents
+Impact of Technology
+The pace of change in technology and communication over the past two decades makes information about investment alternatives widely available throughout the world and facilitates issuers’ ability to place securities outside their national markets and similarly investors’ ability to obtain information about securities issued outside their national markets. Technology also allows issuers and investors the ability to more readily obtain information about new financing techniques and new types of securities that they may wish to purchase or sell, which in the absence of the appropriate technology might not be readily or easily obtainable. This availability of information promotes the ongoing integration and expansion of financial markets worldwide, giving issuers and investors access to a wider range of both established and newer capital markets. As technology provides broader access to worldwide markets, it also results in a greater need for credible, globally comparable opinions about credit risk, data, analytics and related services.
+Moody’s operations are subject to various risks, as more fully described in Part I, Item 1A “Risk Factors,” inherent in conducting business on a global basis. Such risks include currency fluctuations and possible nationalization, expropriation, exchange and price controls, changes in the availability of data from public sector sources, limits on providing information across borders and other restrictive governmental actions.
+MIS Prospects for Growth
+Strong secular trends should continue to provide long-term growth opportunities in MIS. Key growth drivers include:
+•Debt market issuance driven by global GDP growth;
+•Continued disintermediation of fixed-income markets in both developed and emerging economies driving issuance and demand for new ratings products and services; and
+•Growth in first time rating mandates.
+In addition to the factors noted above, growth in global fixed income markets in a given year is dependent on many macroeconomic and capital market factors including:
+
+																										
+mco-20201231_g96.jpg
+	
+mco-20201231_g97.jpg
+	
+mco-20201231_g98.jpg
+	
+mco-20201231_g99.jpg
+	
+mco-20201231_g100.jpg
+	
+mco-20201231_g101.jpg
+	
+mco-20201231_g102.jpg
+	
+mco-20201231_g103.jpg
+	
+mco-20201231_g104.jpg
+Interest rates
+	Business investment spending	Corporate refinancing needs	Merger and acquisition activity 	Issuer financial health	Consumer borrowing levels	Securitization activity	
+Expansion of ratings coverage
+	
+Expansion into geographies with developing debt capital markets
+
+Rating fees paid by debt issuers account for most of the revenue of MIS. Therefore, a substantial portion of MIS’s revenue is dependent upon the dollar-equivalent volume and number of ratable debt securities issued in the global capital markets.
+MIS’s results can be affected by factors such as:
+•Performance and prospects for growth of the major world economies;
+•Fiscal and monetary policies pursued by their governments; and
+•Whether issuers request MIS ratings to aid investors in making their investment decisions.
+However, annual fee arrangements with frequent debt issuers, annual debt monitoring fees and annual fees from commercial paper and medium-term note programs, bank deposit ratings, insurance company financial strength ratings, mutual fund ratings, and other areas partially mitigate MIS’s dependence on the volume or number of new debt securities issued in the global fixed-income markets. MIS’s global coverage positions it well to serve the needs of the global fixed income markets.
+While already common in U.S. and Western European markets, an ongoing trend in the world’s capital markets is the disintermediation of financial systems. Issuers increasingly raise capital in the global public capital markets, in addition to, or in substitution for, traditional financial intermediaries. Moreover, financial intermediaries have sold assets in the global public capital markets, in addition to, or instead of, retaining those assets. Moody’s believes that issuer use of global debt capital markets offer advantages in capacity and efficiency compared to traditional banking systems and that the trend of increased disintermediation will continue. Further, disintermediation has continued because of the historically low interest rate environment and bank deleveraging, which has encouraged a number of corporations and other entities to seek alternative funding in the bond markets.
+MOODY'S 2020 10-K     23
+Table of Contents
+Moody’s also observes disintermediation in key emerging markets where economic growth may outpace internal banking system capacity. Thus, disintermediation is expected to continue over the longer-term, with Moody’s targeting investment and resources to those markets where disintermediation and bond issuance is expected to remain robust.
+MA Prospects for Growth
+Growth in MA is likely to be driven by expansion across customer sectors fostered by broadening MA's data and analytics solutions to meet an expanded set of customer use cases.
+MA’s business growth is influenced by a number of factors, including:
+
+														
+mco-20201231_g105.jpg
+	
+mco-20201231_g106.jpg
+	
+mco-20201231_g107.jpg
+	
+mco-20201231_g79.jpg
+	
+mco-20201231_g108.jpg
+Growth from data and analytics in adjacent markets, including ESG, KYC, and CRE
+	Expansion of data sets and delivery options establishing a gateway that supports multiple stakeholders	Ability to capitalize on demand for company data from a diverse set of use cases	Continued digital transformation of credit decisioning and analytical tools (e.g., shift to SaaS-based solutions)	Geographic expansion of actuarial and asset management solutions and continued investment in predictive analytics franchise
+
+Moody’s expects that MA products and services that improve efficiencies, provide business insights, and enable compliance with financial regulation, including AML, KYC, and accounting standards, will continue to be in demand from institutions worldwide. In order to respond to other sources of demand and drive growth, MA is actively investing in new products, including enhanced data sets and improved delivery services (e.g., software-as-a-service). These efforts should support broader distribution of MA’s capabilities, deepen relationships with existing customers and drive new customer acquisition.
+
+COMPETITION
+MIS competes with other CRAs and with investment banks and brokerage firms that offer credit opinions and research. Many users of MIS’s ratings also have in-house credit research capabilities. There are also some rating markets, based on industry, geography and/or instrument type, in which Moody’s has made investments and obtained market positions superior to its competitors, while in other markets, the reverse is true.
+MA competes broadly in the financial information industry against various diversified competitors. MA’s main competitors within RD&A are providers of fixed income analytics, valuations, economic data and research as well as a host of financial training and education firms. In ERS, MA faces competition from both large software providers and various other vendors as well as in-house solutions.
+REGULATION
+MIS, certain of the Company's ratings affiliates and many of the issuers and/or securities that it rates are subject to extensive regulation in the U.S., EU and in other countries (including by state and local authorities). In addition, some of the services offered by MA and its affiliates are subject to regulation in countries such as Canada, China and Australia. MA also derives a significant amount of its sales from banks and other financial services providers who are subject to regulatory oversight and who are required to pass through certain regulatory requirements to key suppliers such as MA. Existing and proposed laws and regulations can impact the Company’s operations, products and the markets in which the Company operates. Additional laws and regulations have been proposed or are being considered. Each of the existing, adopted, proposed and potential laws and regulations can increase the costs and legal risk associated with the Company’s operations, including the issuance of credit ratings, and may negatively impact the Company’s profitability and ability to compete, or result in changes in the demand for credit ratings, in the manner in which credit ratings are utilized and in the manner in which the Company operates.
+24     MOODY'S 2020 10-K
+Table of Contents
+The regulatory landscape continues to evolve. In the U.S., CRAs are subject to extensive regulation primarily pursuant to the Reform Act and the Dodd-Frank Act. The Reform Act added Section 15E to the Exchange Act and provided the SEC with the authority to establish a registration and oversight program for CRAs registered as NRSROs. Among other things, the Reform Act requires the SEC to submit an annual report to Congress providing an overview of SEC activities with respect to NRSROs, and the SEC’s views on the state of competition, transparency and conflicts of interests among NRSROs. The Dodd-Frank Act enhanced the SEC’s oversight of the regulation of NRSROs, and includes a requirement that the SEC publish an annual report summarizing the results of its annual examinations of NRSROs. To date, through a series of rulemakings, the SEC has implemented several Exchange Act provisions related to NRSROs. These include, for example, provisions addressing disclosure of data and assumptions underlying credit ratings, conflicts of interest with respect to sales and marketing practices, disclosure of performance statistics, application and disclosure of credit rating methodologies, analyst training and testing and consistent application of rating symbols and definitions. The Dodd-Frank Act also changed the pleading standard for CRAs. The Company has made, and continues to make, substantial IT and other investments, and has implemented the relevant compliance obligations.
+In the EU, the CRA industry is registered and supervised through a pan-EU regulatory framework. The European Securities and Markets Authority (ESMA) has direct supervisory responsibility for registered CRAs throughout the EU MIS’ EU CRA subsidiaries are registered and are subject to formal regulation and periodic inspection. Applicable rules include, but are not limited to, procedural requirements with respect to use of credit ratings, independence and avoidance of conflicts of interest, conflicts of interest concerning investments in CRAs, methodologies, models and key rating assumptions, CRA rotation and use of multiple CRAs, outsourcing, disclosures, credit ratings of sovereign issuers, liability for intentional or grossly negligent failure to abide by applicable regulations, reporting requirements to ESMA regarding fees, and additional procedural and substantive requirements on the pricing of services. From time to time, ESMA publishes interpretive guidance, or thematic reports regarding various aspects of the CRA regulation and, annually, sets out its work program for the forthcoming year. ESMA’s 2021 work program includes monitoring, identifying and assessing new risks such as those emanating from COVID-19 and ESG data and rating providers, assessing the drivers behind changes to credit rating methodologies, engaging with CRAs on IT and information security controls and ensuring that credit ratings are accessible and usable by investors.
+In 2021, the European Commission is expected to publish its second Sustainable Finance Action Plan which may include a timeline for the adoption of legislative proposals regarding products and services in the ESG sector. The Commission is also expected to publish a report in 2021 on CRAs and the integration of sustainability factors into their credit ratings. The Commission may also seek to introduce a regulatory framework that may impact Moody’s ESG products and services.
+Separately, the U.K. left the EU on January 31, 2020 and commenced the Brexit implementation period ending on December 31, 2020. After the Brexit implementation period, the MIS U.K. registered CRA ceased to be registered with and regulated by ESMA and became subject to regulation by the U.K. Financial Conduct Authority. Regulatory arrangements were put in place by the relevant authorities in both the U.K. and the EU to allow credit ratings to be available for regulatory use in both the EU and the U.K. after the end of the Brexit implementation period. MIS has put arrangements in place to endorse its U.K. credit ratings into the EU and its EU credit ratings into the U.K. These arrangements are independent of the EU-U.K. Trade and Cooperation Agreement (“TCA”) that now governs the trading relationship between the EU and the U.K., subject to relevant ratification arrangements by each party.
+In light of the regulations that have gone into effect in both the EU and the U.S. (as well as many other countries), periodically and as a matter of course pursuant to their enabling legislation, regulatory authorities have, and will continue to, publish reports that describe their oversight activities. In addition, other legislation and/or interpretation of existing regulation relating to the Company’s operations, including credit rating, ancillary and research services has been or is being considered by local, national and multinational bodies and this type of activity is likely to continue in the future. Finally, in certain countries, governments may provide financial or other support to locally-based CRAs. For example, governments may from time to time establish official CRAs or credit ratings criteria or procedures for evaluating local issuers. If enacted, any such legislation and regulation could change the competitive landscape in which MIS operates. The legal status of CRAs has been addressed by courts in various decisions and is likely to be considered and addressed in legal proceedings from time to time in the future. Management of the Company cannot predict whether these or any other proposals will be enacted, the outcome of any pending or possible future legal proceedings, or regulatory or legislative actions, or the ultimate impact of any such matters on the competitive position, financial position or results of operations of the Company.
+MOODY'S 2020 10-K     25
+Table of Contents
+INTELLECTUAL PROPERTY
+Moody’s and its affiliates own and control a variety of intellectual property, including but not limited to:
+																													
+	
+mco-20201231_g109.jpg
+	Proprietary information		
+mco-20201231_g110.jpg
+	Publications		
+mco-20201231_g111.jpg
+	Databases	
+									
+	
+mco-20201231_g112.jpg
+	Trademarks		
+mco-20201231_g113.jpg
+	Software tools and applications		
+mco-20201231_g114.jpg
+	Domain names	
+									
+	
+mco-20201231_g115.jpg
+	Research		
+mco-20201231_g116.jpg
+	Models and methodologies		
+mco-20201231_g117.jpg
+	Other proprietary materials that, in the aggregate, are of material importance to Moody’s business	
+
+Management of Moody’s believes that each of the trademarks and related corporate names, marks and logos relating to its businesses, including those containing the term “Moody’s”, are of material importance to the Company.
+The Company, primarily through MA and its subsidiaries, licenses certain of its databases, software applications, credit risk models, training courses in credit risk and capital markets, research and other publications and services that contain intellectual property to its customers. In addition, the Company, primarily through Vigeo Eiris and Four Twenty Seven and their respective subsidiaries, licenses certain databases, software applications, assessments, research and other publications and services relating to ESG and climate risks that contain intellectual property to its customers. These licenses are provided pursuant to standard agreements containing customary restrictions and intellectual property protections.
+In addition, Moody’s licenses from third parties certain technology, data and other intellectual property rights. Specifically, Moody’s obtains licenses from third parties to use financial information (such as market and index data, financial statement data, research data, default data, and security identifiers) as well as software development tools and libraries. In addition, the Company’s Bureau van Dijk and RDC businesses obtain from third party information providers certain financial, credit risk, compliance, management, ownership and/or other data worldwide, which Bureau van Dijk and RDC distribute through its company information products. The Company obtains such technology and intellectual property rights from generally available commercial sources. The Company also utilizes generally available open source software and libraries for internal use and subject to appropriately permissive open source licenses, to carry out routine functions in certain of the Company’s software products. Most of such technology and intellectual property is available from a variety of sources. Although certain financial information (particularly security identifiers, certain pricing or index data, and certain company financial data in selected geographic markets) is available from a limited number of sources, Moody’s does not believe it is dependent on any one data source for a material aspect of its business.
+The names of Moody’s products and services referred to herein are trademarks, service marks or registered trademarks or service marks owned by or licensed to Moody’s or one or more of its affiliates. The Company owns thirty eight patents. None of the Company's intellectual property is subject to a specific expiration date, except to the extent that the patents and the copyright in items that the Company creates (such as credit reports, research, software, and other written opinions) expire pursuant to relevant law.
+The Company considers its intellectual property to be proprietary, and Moody’s relies on a combination of copyright, trademark, trade secret, patent, non-disclosure and other contractual and technological safeguards for protection. Moody’s also pursues instances of third-party infringement of its intellectual property in order to protect the Company’s rights.
+AVAILABLE INFORMATION
+Moody’s investor relations internet website is http://ir.moodys.com/. Under the “SEC Filings” tab at this website, the Company makes available free of charge its annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports as soon as reasonably practicable after they are filed with, or furnished to, the SEC.
+The SEC maintains an internet site that contains annual, quarterly and current reports, proxy and other information statements that the Company files electronically with the SEC. The SEC’s internet site is http://www.sec.gov/.
+26     MOODY'S 2020 10-K
+Table of Contents
+INFORMATION ABOUT OUR EXECUTIVE OFFICERS
+								
+		Name, Age, Position and Biographical Data
+	
+mco-20201231_g118.jpg
+		
+Robert Fauber, 50
+President and Chief Executive Officer
+
+Mr. Fauber has served as the Company’s President and Chief Executive Officer since January 2021. Mr. Fauber joined the Board of Directors in October 2020 and he currently serves on the Executive Committee of the Board of Directors. Prior to serving as CEO, Mr. Fauber served as Chief Operating Officer from November 2019 to December 2020, as President of Moody’s Investors Service, Inc. from June 2016 to October 2019, as Senior Vice President—Corporate & Commercial Development of Moody’s Corporation from April 2014 to May 2016, and was Head of the MIS Commercial Group from January 2013 to May 2016. From April 2009 through April 2014, he served as Senior Vice President—Corporate Development of Moody’s Corporation. Mr. Fauber served as Vice President—Corporate Development from September 2005 to April 2009. Prior to joining Moody’s, Mr. Fauber served in several roles at Citigroup and its investment banking subsidiary Salomon Smith Barney from 1999 to 2005. From 1992 to 1996, Mr. Fauber worked at NationsBank (now Bank of America) in the middle market commercial banking group.
+		
+mco-20201231_g119.jpg
+		
+John J. Goggins, 60
+Executive Vice President and General Counsel
+
+Mr. Goggins has served as the Company’s Executive Vice President and General Counsel since April 2011 and the Company’s Senior Vice President and General Counsel from October 2000 until April 2011. Mr. Goggins joined Moody’s Investors Service, Inc. in February 1999 as Vice President and Associate General Counsel.
+		
+mco-20201231_g120.jpg
+		
+Melanie Hughes, 58
+Senior Vice President and Chief Human Resources Officer
+
+Ms. Hughes has served as the Company’s Senior Vice President—Chief Human Resources Officer since September 2017. Prior to joining the Company, Ms. Hughes was Chief Human Resource Officer and Executive Vice President, Human Resources at American Eagle Outfitters from July 2016 to September 2017 and served as Executive Vice President, Human Resources at Tribune Media from May 2013 to June 2016. She has held several senior management roles for many different companies such as Coach, Gilt Group, DoubleClick and UBS Warburg.
+		
+mco-20201231_g121.jpg
+		
+Mark Kaye, 41
+Senior Vice President and Chief Financial Officer
+
+Mr. Kaye has served as the Company’s Senior Vice President—Chief Financial Officer since August 2018. Prior to joining the Company, Mr. Kaye was Senior Vice President and Head of Financial Planning and Analysis at Massachusetts Mutual Life Insurance Company (MassMutual) since February 2016, and Chief Financial Officer of MassMutual U.S. since July 2015. Prior to that, Mr. Kaye served as Chief Financial Officer and Senior Vice President, Retirement Solutions, at Voya Financial from 2011 to 2015. Mr. Kaye previously held various senior financial and risk reporting positions at ING U.S. and ING Group, and was in the investment banking division of Credit Suisse First Boston.
+		
+MOODY'S 2020 10-K     27
+Table of Contents
+								
+		Name, Age, Position and Biographical Data
+	
+mco-20201231_g122.jpg
+		
+Caroline Sullivan, 52
+Senior Vice President and Corporate Controller
+
+Ms. Sullivan has served as the Company’s Senior Vice President—Corporate Controller since December 2018. Prior to joining the Company, Ms. Sullivan served in several roles at Bank of America from 2011 to 2018, where her last position held was Managing Director and Global Banking Controller. Prior to that role, Ms. Sullivan supported the Global Wealth & Investment Management business from 2015 to 2017 in a variety of positions including Controller. Ms. Sullivan, a CPA, previously held various senior positions at several banks and a major accounting firm, and is a member of the Board of Directors of Financial Executives International.
+		
+mco-20201231_g123.jpg
+		
+Stephen Tulenko, 53
+President, Moody’s Analytics
+
+Mr. Tulenko has served as President of Moody’s Analytics since November 2019. Mr. Tulenko served as Executive Director of Enterprise Risk Solutions from 2013 to October 2019 and as Executive Director of Global Sales, Customer Service and Marketing from 2008 to 2013. Prior to the formation of Moody’s Analytics, he held various sales, product development and product strategy roles at Moody’s Investors Service, Inc. Mr. Tulenko joined Moody’s in 1990.
+		
+mco-20201231_g124.jpg
+		
+Michael West, 52
+President, Moody’s Investors Service
+
+Mr. West has served as President of Moody’s Investors Service, Inc. since November 2019. Mr. West served as Managing Director—Head of MIS Ratings and Research from June 2016 to October 2019. Previously, Mr. West served as Managing Director—Head of Global Structured Finance from February 2014 to May 2016 and Managing Director—Head of Global Corporate Finance from January 2010 to January 2014. Earlier in his career, he was also responsible for the research strategy for the ratings businesses and before that led Corporate Finance for the EMEA Region, European Corporates and the EMEA leveraged finance business. Prior to joining Moody’s in 1998, Mr. West worked at Bank of America and HSBC in various credit roles.

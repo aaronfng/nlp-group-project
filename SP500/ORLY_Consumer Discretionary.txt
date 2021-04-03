@@ -1,0 +1,2971 @@
+GENERAL INFORMATION
+
+Unless otherwise indicated, “we,” “us,” “our” and similar terms, as well as references to the “Company,” refer to O’Reilly Automotive, Inc. and its Subsidiaries.  O’Reilly is one of the largest specialty retailers of automotive aftermarket parts, tools, supplies, equipment and accessories in the United States (“U.S.”), selling our products to both do-it-yourself (“DIY”) and professional service provider customers, our “dual market strategy.”  The business was founded in 1957 by Charles F. O’Reilly and his son, Charles H. “Chub’’ O’Reilly, Sr., and initially operated from a single store in Springfield, Missouri. Our common stock has traded on The NASDAQ Global Select Market under the symbol “ORLY” since April 22, 1993.
+
+After the close of business on November 29, 2019, we completed the acquisition of Mayoreo de Autopartes y Aceites, S.A. de C.V. (“Mayasa”), a specialty retailer of automotive aftermarket parts headquartered in Guadalajara, Jalisco, Mexico pursuant to a stock purchase agreement.  At the time of the acquisition, Mayasa operated six distribution centers, 21 Orma Autopartes stores and served over 2,000 independent jobber locations in 28 Mexican states.
+
+At December 31, 2020, we operated 5,594 stores in 47 states in the United States and 22 stores in Mexico.  Our stores carry an extensive product line, including
+	●	new and remanufactured automotive hard parts and maintenance items, such as alternators, batteries, brake system components, belts, chassis parts, driveline parts, engine parts, fuel pumps, hoses, starters, temperature control, water pumps, antifreeze, appearance products, engine additives, filters, fluids, lighting, oil and wiper blades; and
+	●	accessories, such as floor mats, seat covers and truck accessories.
+
+Our stores offer many enhanced services and programs to our customers, such as
+	●	battery diagnostic testing;
+	●	battery, wiper and bulb replacement;
+	●	check engine light code extraction, where allowed by law;
+	●	custom hydraulic hoses;
+	●	drum and rotor resurfacing;
+	●	electrical and module testing;
+	●	loaner tool program;
+	●	professional paint shop mixing and related materials; and
+	●	used oil, oil filter and battery recycling.
+
+See the “Risk Factors” section of this annual report on Form 10-K for a description of certain risks relevant to our business.  These risk factors include, among others, risk related to the novel coronavirus (“COVID-19”) pandemic, deteriorating economic conditions, competition in the automotive aftermarket business, our sensitivity to regional economic and weather conditions, our relationships with key suppliers and availability of key products, complications in our distribution centers (“DCs”), failure to protect our brand and reputation, risks associated with international operations, unanticipated fluctuations in our quarterly results, the volatility of the market price of our common stock, our increased debt levels, a downgrade in our credit ratings, future growth assurance, our dependence upon key and other personnel, our acquisition strategies, data security and environmental legislation and other regulations.
+
+OUR BUSINESS
+
+Our goal is to continue to achieve growth in sales and profitability by capitalizing on our competitive advantages and executing our growth strategy.  We remain confident in our ability to continue to gain market share in our existing markets and grow our business in new markets by focusing on our dual market strategy and the core O’Reilly values, including superior customer service and expense control.  Our intent is to be the dominant auto parts provider in all the markets we serve, by providing a higher level of customer service and a better value position than our competitors to both DIY and professional service provider customers.
+
+3
+
+Competitive Advantages
+
+We believe our effective dual market strategy, superior customer service, technically proficient store personnel, strategic distribution network and experienced management Team make up our key competitive advantages, which cannot be easily duplicated.
+
+Proven Ability to Execute Our Dual Market Strategy:
+
+For more than 40 years, we have established a track record of effectively serving, at a high level, both DIY and professional service provider customers.  We believe our proven ability to effectively execute a dual market strategy is a unique competitive advantage.  The execution of this strategy enables us to better compete by targeting a larger base of automotive aftermarket parts consumers, capitalizing on our existing store and distribution infrastructure, operating profitably in both large markets and less densely populated geographic areas that typically attract fewer competitors and enhancing service levels offered to DIY customers through the offering of a broad inventory and the extensive product knowledge required by professional service provider customers.
+
+In 2020, we derived approximately 59% of our sales from our DIY customers and approximately 41% of our sales from our professional service provider customers.  Over the long-term, we have increased our sales to professional service provider customers at a faster pace than the increase in our sales to DIY customers due to the more fragmented nature of the professional service provider business, which offers a greater opportunity for consolidation.  We believe we will continue to have a competitive advantage on the professional service provider portion of our business, due to our systems, knowledge, industry-leading parts availability and experience serving the professional service provider side of the automotive aftermarket, supported by our approximately 765 full-time sales staff dedicated solely to calling upon and servicing the professional service provider customer.  We will also continue to expand and enhance the level of offerings focused on growing our DIY business and will continue to execute our proven dual market strategy in both existing and new markets.
+
+Superior Customer Service:
+
+We seek to provide our customers with an efficient and pleasant in-store experience by maintaining attractive stores in convenient locations with a wide selection of automotive products.  We believe the satisfaction of DIY and professional service provider customers is substantially dependent upon our ability to provide, in a timely fashion, the specific automotive products needed to complete their repairs.  Accordingly, each O’Reilly store carries, or has same or next day availability to, a broad selection of automotive products designed to cover a wide range of vehicle applications.  We continuously refine the inventory levels and assortments carried in each of our stores and within our network, based in large part on the sales movement tracked by our inventory control system, market vehicle registration data, failure rates and management’s assessment of the changes and trends in the marketplace.  We have no material backorders for the products we sell.
+
+We seek to attract new DIY and professional service provider customers and retain existing customers by offering superior customer service, the key elements of which are identified below:
+	●	superior in-store service through highly-motivated, technically-proficient store personnel (“Professional Parts People”);
+	●	an extensive selection and availability of products;
+	●	many enhanced service programs, including battery and electrical testing, battery, wiper and bulb replacement and check engine light code extractions;
+	●	attractive stores in convenient locations;
+	●	competitive pricing, supported by a good, better, best product assortment designed to meet all of our customers’ quality and value preferences; and
+	●	a robust point-of-sale system integrated with our proprietary electronic catalog, which contains a wide variety of product images, schematics and technical specifications and equips our Team Members with highly effective tools to source products in our extensive supply network.
+
+Technically Proficient Professional Parts People:
+
+Our highly-motivated, technically-proficient Professional Parts People provide us with a significant competitive advantage, particularly over less specialized retail operators.  We require our Professional Parts People to undergo extensive and ongoing training and to be knowledgeable, particularly with respect to hard part repairs, in order to better serve the technically-oriented professional service provider customers with whom they interact on a daily basis.  Such technical proficiency also enhances the customer service we provide to our DIY customers who value the expert assistance provided by our Professional Parts People.
+
+4
+
+Strategic Regional Tiered Distribution Network:
+
+We believe our commitment to a robust, regional, tiered distribution network provides superior replenishment and access to hard-to-find parts and enables us to optimize product availability and inventory levels throughout our store network.  Our strategic, regional, tiered distribution network includes DCs and Hub stores.  Our inventory management and distribution systems electronically link each of our stores to one or more DCs, which provides for efficient inventory control and management.  We currently operate 28 regional DCs, which provide our stores with same-day or overnight access to an average of 159,000 stock keeping units (“SKUs”), many of which are hard-to-find items not typically stocked by other auto parts retailers.  To augment our robust distribution network, we operate a total of 362 Hub stores that also provide delivery service and same-day access to an average of 70,000 SKUs from a Super Hub or 42,000 SKUs from a Hub to other stores within the surrounding area.  We believe this timely access to a broad range of products is a key competitive advantage in satisfying customer demand and generating repeat business.
+
+Experienced Management Team:
+
+Our Company philosophy is to “promote from within” and the vast majority of our senior management, district managers and store managers have been promoted from within the Company.  We augment this promote from within philosophy by pursuing strategic hires with a strong emphasis on automotive aftermarket experience.  We have a strong management Team comprised of 216 senior managers who average 20 years of service, 269 corporate managers who average 16 years of service and 560 district managers who average 13 years of service.  Our management Team has demonstrated the consistent ability to successfully execute our business plan and growth strategy by generating 28 consecutive years of record revenues and earnings and positive comparable store sales results since becoming a public company in April of 1993.
+
+Growth Strategy
+
+Aggressively Open New Stores:
+
+We intend to continue to consolidate the fragmented automotive aftermarket.  During 2020, we opened 155 net, new domestic stores and one new store in Mexico.  In 2021, we plan to open 165 to 175 net, new stores, which will increase our penetration in existing markets and allow for expansion into new, contiguous markets.  The sites for these new stores have been identified, and to date, we have not experienced significant difficulties in locating suitable sites for construction of new stores or identifying suitable acquisition targets for conversion to O’Reilly stores.  We typically open new stores by
+	(i)	constructing a new facility or renovating an existing one on property we purchase or lease and stocking the new store with fixtures and inventory;
+	(ii)	acquiring an independently owned auto parts store (“jobber store”), typically by the purchase of substantially all of the inventory and other assets (other than realty) of such store; or
+	(iii)	purchasing multi-store chains.
+
+New store sites are strategically located in clusters within geographic areas that complement our distribution network in order to achieve economies of scale in management, advertising and distribution.  Other key factors we consider in the site selection process include population density and growth patterns, demographic lifestyle segmentation, age and per capita income, vehicle traffic counts, vehicles in operation, number and type of existing automotive repair facilities and competing auto parts stores within a predetermined radius.
+
+We target both small and large markets for expansion of our store network.  While we have, and continue to face, aggressive competition in the more densely populated markets, we believe we have competed effectively, and are well positioned to continue to compete effectively, in such markets and to achieve our goal of continued profitable sales growth within these markets.  We also believe that with our dual market strategy, we are better able to operate stores in less densely populated areas, which would not otherwise support a national chain store selling primarily to the retail automotive aftermarket.  Therefore, we continue to pursue opening new stores in less densely populated market areas as part of our growth strategy.
+
+Grow Sales in Existing Stores:
+
+Profitable comparable store sales growth is also an important part of our growth strategy.  To achieve improved sales and profitability at existing O’Reilly stores, we continually strive to improve the service provided to our customers.  We believe that while competitive pricing is an essential component of successful growth in the automotive aftermarket business, it is customer satisfaction, whether of the DIY consumer or professional service provider, resulting from superior customer service, that generates increased sales and profitability.
+
+Selectively Pursue Strategic Acquisitions:
+
+The automotive aftermarket industry is still highly fragmented, and we believe the ability of national auto parts chains, like O’Reilly, to operate more efficiently and effectively than smaller independent operators will result in continued industry consolidation.  Our intention
+
+5
+
+is to continue to selectively pursue strategic acquisitions that will strengthen our position as a leading automotive aftermarket parts supplier in existing markets and provide a springboard for expansion into new markets, domestic and cross-border.
+
+Continually Enhance Store Design and Location:
+
+Our current prototype store design features optimized square footage, high ceilings, convenient interior store layouts, in-store signage, bright lighting, convenient ingress, egress and parking and dedicated counters to serve professional service provider customers, each designed to increase sales and operating efficiencies to enhance overall customer service.  We continually update the location and condition of our store network through systematic renovation and relocation of our existing stores to enhance store performance.  During 2020, while experiencing constraints to construction timing due to the COVID-19 pandemic, we relocated 16 stores and performed minor to major updates or renovations to approximately 970 additional stores.  We believe that our ability to consistently achieve growth in comparable store sales is due in part to our commitment to maintaining an attractive store network, which is strategically located to best serve our customers.
+
+Omnichannel Growth Strategy:
+
+Our Omnichannel growth strategies reflect the continued evolution of customer preferences in researching and completing purchases.  More than ever before, our customers’ purchase decisions are informed by a range of interactions, whether in-person, over the phone, or through a variety of digital channels, as they seek to find the professional parts knowledge and the product availability they need to meet their automotive repair and maintenance needs.  Our Omnichannel growth strategies are focused on offering our customers an enhanced and seamless research and buying experience through any of these channels.  We have long been known for excellent customer service and continue to grow the functionality and user-friendliness of our websites, including www.OReillyAuto.com and www.FirstCallOnline.com, to enhance our customer’s shopping experience.  Many of our customers interact over multiple channels to research and complete a purchase, and the functionality and features of our digital sites complements the outstanding customer service provided in our over 5,600 brick and mortar locations.
+
+Team Members and Human Capital Management
+
+Our tradition for 64 years has been to treat all of our Team Members with honesty and respect and to commit significant resources to instill in them our “Live Green” culture, which emphasizes the importance of each Team Member’s contribution to the success of O’Reilly.  This focus on professionalism and respect has created an industry-leading Team, and we consider our relations with our Team Members to be excellent.  
+
+We are also committed to providing a work environment where Team Members feel highly valued and where productivity at work is enhance by maintaining an inclusive environment and healthy work/life balance, which we believe increases employee engagement.  Our ongoing emphasis on diversity and inclusion, including further ensuring our policies, recruitment and selection procedures, onboarding tactics and training efforts, positively builds upon our successful “promote from within” philosophy and growth strategies.  
+
+Management Structure:
+
+Our Company knows the value of a tenured Team, which is why our philosophy is to “promote from within” first.  As management opportunities arise, we look first within the Company and promote those who have performed well, have the right expertise and have shown leadership potential before looking outside the Company; however, we augment this philosophy by pursuing strategic hires with a strong emphasis on automotive aftermarket experience when appropriate.  This comprehensive approach increases Team Member commitment and has resulted in a very experienced leadership Team.  As of December 31, 2020, our strong management Team was comprised of 216 senior managers who average 20 years of service, 269 corporate managers who average 16 years of service and 560 district managers who average 13 years of service.
+
+Each of our stores is staffed with a store manager and one or more assistant managers, in addition to parts specialists, retail and/or installer service specialists and other positions required to meet the specific needs of each store.  Each of our 560 district managers has general supervisory responsibility for an average of 10 stores, which provides our stores with strong operational support.
+
+Store and district managers complete a comprehensive training program to ensure each has a thorough understanding of customer service, leadership, inventory management and store profitability, as well as all other sales and operational aspects of our business model.  Store and district managers are also required to complete a structured training program that is specific to their position, including attending a week-long manager development program at the corporate headquarters in Springfield, Missouri.  Store and district managers also receive continuous training through online training, field workshops, regional meetings and our annual leadership conference.
+
+We provide financial incentives to all store Team Members through incentive compensation programs.  Under our incentive compensation programs, base salary is augmented by incentive compensation based on individual and store sales and profitability.  In
+
+6
+
+addition, each of our district managers participates in our stock option and bonus programs, and store managers participate in bonus programs based on their store’s performance.  We believe our incentive compensation programs significantly increase the motivation and overall performance of our store Team Members and enhance our ability to attract and retain qualified management and other personnel.
+
+Professional Parts People:
+
+We believe our highly trained Team of Professional Parts People is essential in providing superior customer service to both DIY and professional service provider customers.  A significant portion of our business is from professional service provider customers; therefore, our Professional Parts People are required to be highly technically proficient in automotive products.  In addition, we have found that the typical DIY customer often seeks assistance from Professional Parts People, particularly when purchasing hard parts.  The ability of our Professional Parts People to provide such assistance to the DIY customer creates a favorable impression and is a significant factor in generating repeat DIY business.
+
+We screen prospective Team Members to identify highly motivated individuals who either have experience with automotive parts or repairs, or automotive aptitude.  New store Team Members go through a comprehensive orientation focused on the culture of our Company, as well as the requirements for their specific position.  Additionally, during their first year of employment, our parts specialists go through extensive automotive systems and product knowledge training to ensure they are able to provide high levels of service to our customers.  Once all of the required training has been satisfied, our parts specialists become eligible to take the O’Reilly Certified Parts Professional test.  Passing the O’Reilly test helps prepare them to become certified by the National Institute for Automotive Service Excellence (“ASE”).
+
+All of our stores have the ability to service professional service provider customers.  For this reason, select Team Members in each store complete extensive sales call training with a regional field sales manager.  These Team Members then spend at least one day per week calling on existing and potential professional service provider customers.  Additionally, each Team Member engaged in such sales activities participates in quarterly advanced training programs for sales and business development.
+
+Team Members and Unions:
+
+As of January 31, 2021, we employed 77,827 Team Members (62,530 full-time Team Members and 15,297 part-time Team Members), of whom 63,212 were employed at our U.S. stores, 9,593 were employed at our U.S. DCs, 3,625 were employed at our U.S. corporate and regional offices and 1,397 were employed in Mexico.  Ours is an increasingly technical business creating the need for knowledgeable Professional Parts People, and our ongoing focus on developing a technically proficient Team has resulted in the growth of our full-time work force, increasing to 80% as of January 31, 2021, up from 65% as of January 31, 2020.  While full-time Professional Parts People play a vital role in our ongoing success, the flexibility of incorporating part-time employment into our work force is also an important component of providing excellent customer service.  Many of our part-time Team Members choose to work at O’Reilly while attending school, or during other transitional periods in their lives, or simply because of their passion for cars and knowledge of auto parts.  Part-time Team Members have the opportunity to become career Professional Parts People because of our promote from within philosophy, and many of our leaders today began their careers as part-time Team Members in our stores or distribution centers.
+
+A union represents Team Members in 53 stores (408 Team Members) in the Greater Bay Area in California and has for many years.  Approximately 63 Team Members that drive over-the-road trucks in two of our domestic DCs are also represented by a labor union.  In addition, the Company has collective bargaining agreements with two unions in Mexico, where the legal environment is very different and evolving compared to the U.S.  Our relationships with unions in Mexico will continue to evolve to ensure compliance with changing requirements.  We consider our current relationship with these unions and union Team Members to be excellent.  With the exception of the previously described Team Members, our Team Members are not represented by labor unions.  
+
+Store Network
+
+New Store Site Selection:
+
+In selecting sites for new stores, we seek to strategically locate store sites in clusters within geographic areas in order to achieve economies of scale in management, advertising and distribution.  Other key factors we consider in the site selection process are
+	●	population density;
+	●	demographics, including age, life style and per capita income;
+	●	market economic strength, retail draw and growth patterns;
+	●	number, age and percent of makes and models of registered vehicles;
+	●	the number, type and sales potential of existing automotive repair facilities;
+
+7
+
+	●	the number of auto parts stores and other competitors within a predetermined radius;
+	●	physical location, traffic count, size, economics and presentation of the site;
+	●	financial review of adjacent existing locations; and
+	●	the type and size of store that should be developed.
+
+When entering new, more densely populated markets, we generally seek to initially open several stores within a short span of time in order to maximize the effect of initial promotional programs and achieve economies of scale.  After opening this initial cluster of new stores, we begin penetrating the less densely populated surrounding areas.  As these store clusters mature, we evaluate the need to open additional locations in the more densely populated markets where we believe opportunities exist to expand our market share or to improve the level of service provided in high volume areas.  This strategy enables us to achieve additional distribution and advertising efficiencies in each market.
+
+Store Locations and Size:
+
+As a result of our dual market strategy, we are able to profitably operate in both large, densely populated markets and small, less densely populated areas that would not otherwise support a national chain selling primarily to the retail automotive aftermarket.  Our U.S. stores, on average, carry approximately 22,000 SKUs and average approximately 7,400 total square feet in size.  At December 31, 2020, we had a total of approximately 42 million square feet in our 5,594 domestic stores.  Our domestic stores are served primarily by the nearest DC, which averages 159,000 SKUs, but also have same-day access to the broad selection of inventory available at one of our 362 Hub stores, which are comprised of 88 Super Hubs that average approximately 17,100 square feet and carry an average of 70,000 SKUs and 274 Hubs that average approximately 10,200 square feet and carry an average of 42,000 SKUs.
+
+We believe that our stores are “destination stores” generating their own traffic rather than relying on traffic created by the presence of other stores in the immediate vicinity.  Consequently, most of our stores are freestanding buildings or prominent end caps situated on or near major traffic thoroughfares and offer ample parking, easy customer access and are generally located in close proximity to our professional service provider customers.
+
+8
+
+The following table sets forth the geographic distribution and activity of our stores as of December 31, 2020 and 2019:
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+December 31, 2019
+	
+
+	
+
+2020 Net, New Stores
+	
+
+	
+
+December 31, 2020
+
+	
+
+    
+	
+
+	
+
+    
+	
+
+    
+	
+
+	
+
+	
+
+    
+	
+
+% of Total
+	
+
+	
+
+	
+
+    
+	
+
+    
+	
+
+	
+
+Cumulative
+
+	
+
+	
+
+Store
+	
+
+	
+
+% of Total
+	
+
+	
+
+Store
+	
+
+	
+
+Store
+	
+
+	
+
+Store
+	
+
+	
+
+% of Total
+	
+
+	
+
+% of Total
+
+State
+	
+
+	
+
+Count
+	
+
+	
+
+Store Count
+	
+
+	
+
+Change
+	
+
+	
+
+Change
+	
+
+	
+
+Count
+	
+
+	
+
+Store Count
+	
+
+	
+
+Store Count
+
+Texas
+	
+
+	
+
+ 735
+	
+
+	
+
+ 13.5
+	
+
+%  
+	
+
+	
+
+ 20
+	
+
+ 
+	
+
+ 12.9
+	
+
+%  
+	
+
+	
+
+ 755
+	
+
+	
+
+ 13.5
+	
+
+%  
+	
+
+	
+
+ 13.5
+	
+
+%
+
+California
+	
+
+	
+
+ 554
+	
+
+	
+
+ 10.2
+	
+
+%  
+	
+
+	
+
+ 8
+	
+
+ 
+	
+
+ 5.2
+	
+
+%  
+	
+
+	
+
+ 562
+	
+
+	
+
+ 10.0
+	
+
+%  
+	
+
+	
+
+ 23.5
+	
+
+%
+
+Florida
+	
+
+	
+
+ 239
+	
+
+	
+
+ 4.4
+	
+
+%  
+	
+
+	
+
+ 7
+	
+
+ 
+	
+
+ 4.5
+	
+
+%  
+	
+
+	
+
+ 246
+	
+
+	
+
+ 4.4
+	
+
+%  
+	
+
+	
+
+ 27.9
+	
+
+%
+
+Georgia
+	
+
+	
+
+ 214
+	
+
+	
+
+ 3.9
+	
+
+%  
+	
+
+	
+
+ 10
+	
+
+ 
+	
+
+ 6.5
+	
+
+%  
+	
+
+	
+
+ 224
+	
+
+	
+
+ 4.0
+	
+
+%  
+	
+
+	
+
+ 31.9
+	
+
+%
+
+Illinois
+	
+
+	
+
+ 211
+	
+
+	
+
+ 3.9
+	
+
+%  
+	
+
+	
+
+ 2
+	
+
+ 
+	
+
+ 1.3
+	
+
+%  
+	
+
+	
+
+ 213
+	
+
+	
+
+ 3.8
+	
+
+%  
+	
+
+	
+
+ 35.7
+	
+
+%
+
+Ohio
+	
+
+	
+
+ 203
+	
+
+	
+
+ 3.7
+	
+
+%  
+	
+
+	
+
+ 8
+	
+
+ 
+	
+
+ 5.2
+	
+
+%  
+	
+
+	
+
+ 211
+	
+
+	
+
+ 3.8
+	
+
+%  
+	
+
+	
+
+ 39.5
+	
+
+%
+
+Missouri
+	
+
+	
+
+ 203
+	
+
+	
+
+ 3.7
+	
+
+%  
+	
+
+	
+
+ 1
+	
+
+ 
+	
+
+ 0.6
+	
+
+%  
+	
+
+	
+
+ 204
+	
+
+	
+
+ 3.6
+	
+
+%  
+	
+
+	
+
+ 43.1
+	
+
+%
+
+North Carolina
+	
+
+	
+
+ 185
+	
+
+	
+
+ 3.4
+	
+
+%  
+	
+
+	
+
+ 14
+	
+
+ 
+	
+
+ 9.0
+	
+
+%  
+	
+
+	
+
+ 199
+	
+
+	
+
+ 3.6
+	
+
+%  
+	
+
+	
+
+ 46.7
+	
+
+%
+
+Tennessee
+	
+
+	
+
+ 183
+	
+
+	
+
+ 3.4
+	
+
+%  
+	
+
+	
+
+ 2
+	
+
+ 
+	
+
+ 1.3
+	
+
+%  
+	
+
+	
+
+ 185
+	
+
+	
+
+ 3.3
+	
+
+%  
+	
+
+	
+
+ 50.0
+	
+
+%
+
+Michigan
+	
+
+	
+
+ 175
+	
+
+	
+
+ 3.2
+	
+
+%  
+	
+
+	
+
+ 6
+	
+
+ 
+	
+
+ 3.9
+	
+
+%  
+	
+
+	
+
+ 181
+	
+
+	
+
+ 3.2
+	
+
+%  
+	
+
+	
+
+ 53.2
+	
+
+%
+
+Washington
+	
+
+	
+
+ 158
+	
+
+	
+
+ 2.9
+	
+
+%  
+	
+
+	
+
+ —
+	
+
+ 
+	
+
+ —
+	
+
+%  
+	
+
+	
+
+ 158
+	
+
+	
+
+ 2.8
+	
+
+%  
+	
+
+	
+
+ 56.0
+	
+
+%
+
+Indiana
+	
+
+	
+
+ 147
+	
+
+	
+
+ 2.7
+	
+
+%  
+	
+
+	
+
+ 9
+	
+
+ 
+	
+
+ 5.8
+	
+
+%  
+	
+
+	
+
+ 156
+	
+
+	
+
+ 2.8
+	
+
+%  
+	
+
+	
+
+ 58.8
+	
+
+%
+
+Alabama
+	
+
+	
+
+ 147
+	
+
+	
+
+ 2.7
+	
+
+%  
+	
+
+	
+
+ 5
+	
+
+ 
+	
+
+ 3.2
+	
+
+%  
+	
+
+	
+
+ 152
+	
+
+	
+
+ 2.7
+	
+
+%  
+	
+
+	
+
+ 61.5
+	
+
+%
+
+Arizona
+	
+
+	
+
+ 140
+	
+
+	
+
+ 2.6
+	
+
+%  
+	
+
+	
+
+ 2
+	
+
+ 
+	
+
+ 1.3
+	
+
+%  
+	
+
+	
+
+ 142
+	
+
+	
+
+ 2.5
+	
+
+%  
+	
+
+	
+
+ 64.0
+	
+
+%
+
+Wisconsin
+	
+
+	
+
+ 124
+	
+
+	
+
+ 2.3
+	
+
+%  
+	
+
+	
+
+ 4
+	
+
+ 
+	
+
+ 2.7
+	
+
+%  
+	
+
+	
+
+ 128
+	
+
+	
+
+ 2.3
+	
+
+%  
+	
+
+	
+
+ 66.3
+	
+
+%
+
+Louisiana
+	
+
+	
+
+ 124
+	
+
+	
+
+ 2.3
+	
+
+%  
+	
+
+	
+
+ 3
+	
+
+ 
+	
+
+ 1.9
+	
+
+%  
+	
+
+	
+
+ 127
+	
+
+	
+
+ 2.3
+	
+
+%  
+	
+
+	
+
+ 68.6
+	
+
+%
+
+Minnesota
+	
+
+	
+
+ 126
+	
+
+	
+
+ 2.3
+	
+
+%  
+	
+
+	
+
+ (2)
+	
+
+ 
+	
+
+ (1.3)
+	
+
+%  
+	
+
+	
+
+ 124
+	
+
+	
+
+ 2.2
+	
+
+%  
+	
+
+	
+
+ 70.8
+	
+
+%
+
+Oklahoma
+	
+
+	
+
+ 122
+	
+
+	
+
+ 2.2
+	
+
+%  
+	
+
+	
+
+ 2
+	
+
+ 
+	
+
+ 1.3
+	
+
+%  
+	
+
+	
+
+ 124
+	
+
+	
+
+ 2.2
+	
+
+%  
+	
+
+	
+
+ 73.0
+	
+
+%
+
+Arkansas
+	
+
+	
+
+ 114
+	
+
+	
+
+ 2.1
+	
+
+%  
+	
+
+	
+
+ 3
+	
+
+ 
+	
+
+ 1.9
+	
+
+%  
+	
+
+	
+
+ 117
+	
+
+	
+
+ 2.1
+	
+
+%  
+	
+
+	
+
+ 75.1
+	
+
+%
+
+South Carolina
+	
+
+	
+
+ 110
+	
+
+	
+
+ 2.0
+	
+
+%  
+	
+
+	
+
+ 5
+	
+
+ 
+	
+
+ 3.2
+	
+
+%  
+	
+
+	
+
+ 115
+	
+
+	
+
+ 2.1
+	
+
+%  
+	
+
+	
+
+ 77.2
+	
+
+%
+
+Colorado
+	
+
+	
+
+ 105
+	
+
+	
+
+ 1.9
+	
+
+%  
+	
+
+	
+
+ 4
+	
+
+ 
+	
+
+ 2.7
+	
+
+%  
+	
+
+	
+
+ 109
+	
+
+	
+
+ 1.9
+	
+
+%  
+	
+
+	
+
+ 79.1
+	
+
+%
+
+Kentucky
+	
+
+	
+
+ 101
+	
+
+	
+
+ 1.9
+	
+
+%  
+	
+
+	
+
+ 4
+	
+
+ 
+	
+
+ 2.7
+	
+
+%  
+	
+
+	
+
+ 105
+	
+
+	
+
+ 1.9
+	
+
+%  
+	
+
+	
+
+ 81.0
+	
+
+%
+
+Virginia
+	
+
+	
+
+ 85
+	
+
+	
+
+ 1.7
+	
+
+%  
+	
+
+	
+
+ 5
+	
+
+ 
+	
+
+ 3.2
+	
+
+%  
+	
+
+	
+
+ 90
+	
+
+	
+
+ 1.6
+	
+
+%  
+	
+
+	
+
+ 82.6
+	
+
+%
+
+Kansas
+	
+
+	
+
+ 85
+	
+
+	
+
+ 1.7
+	
+
+%  
+	
+
+	
+
+ 1
+	
+
+ 
+	
+
+ 0.6
+	
+
+%  
+	
+
+	
+
+ 86
+	
+
+	
+
+ 1.5
+	
+
+%  
+	
+
+	
+
+ 84.1
+	
+
+%
+
+Mississippi
+	
+
+	
+
+ 80
+	
+
+	
+
+ 1.5
+	
+
+%  
+	
+
+	
+
+ 2
+	
+
+ 
+	
+
+ 1.3
+	
+
+%  
+	
+
+	
+
+ 82
+	
+
+	
+
+ 1.5
+	
+
+%  
+	
+
+	
+
+ 85.6
+	
+
+%
+
+Iowa
+	
+
+	
+
+ 78
+	
+
+	
+
+ 1.4
+	
+
+%  
+	
+
+	
+
+ 2
+	
+
+ 
+	
+
+ 1.3
+	
+
+%  
+	
+
+	
+
+ 80
+	
+
+	
+
+ 1.4
+	
+
+%  
+	
+
+	
+
+ 87.0
+	
+
+%
+
+Oregon
+	
+
+	
+
+ 72
+	
+
+	
+
+ 1.3
+	
+
+%  
+	
+
+	
+
+ (1)
+	
+
+ 
+	
+
+ (0.6)
+	
+
+%  
+	
+
+	
+
+ 71
+	
+
+	
+
+ 1.3
+	
+
+%  
+	
+
+	
+
+ 88.3
+	
+
+%
+
+Utah
+	
+
+	
+
+ 65
+	
+
+	
+
+ 1.2
+	
+
+%  
+	
+
+	
+
+ 1
+	
+
+ 
+	
+
+ 0.6
+	
+
+%  
+	
+
+	
+
+ 66
+	
+
+	
+
+ 1.2
+	
+
+%  
+	
+
+	
+
+ 89.5
+	
+
+%
+
+New Mexico
+	
+
+	
+
+ 60
+	
+
+	
+
+ 1.1
+	
+
+%  
+	
+
+	
+
+ —
+	
+
+ 
+	
+
+ —
+	
+
+%  
+	
+
+	
+
+ 60
+	
+
+	
+
+ 1.1
+	
+
+%  
+	
+
+	
+
+ 90.6
+	
+
+%
+
+Nevada
+	
+
+	
+
+ 56
+	
+
+	
+
+ 1.0
+	
+
+%  
+	
+
+	
+
+ 1
+	
+
+ 
+	
+
+ 0.6
+	
+
+%  
+	
+
+	
+
+ 57
+	
+
+	
+
+ 1.0
+	
+
+%  
+	
+
+	
+
+ 91.6
+	
+
+%
+
+Massachusetts
+	
+
+	
+
+ 46
+	
+
+	
+
+ 0.8
+	
+
+%  
+	
+
+	
+
+ 5
+	
+
+ 
+	
+
+ 3.2
+	
+
+%  
+	
+
+	
+
+ 51
+	
+
+	
+
+ 0.9
+	
+
+%  
+	
+
+	
+
+ 92.5
+	
+
+%
+
+Nebraska
+	
+
+	
+
+ 47
+	
+
+	
+
+ 0.9
+	
+
+%  
+	
+
+	
+
+ 2
+	
+
+ 
+	
+
+ 1.3
+	
+
+%  
+	
+
+	
+
+ 49
+	
+
+	
+
+ 0.9
+	
+
+%  
+	
+
+	
+
+ 93.4
+	
+
+%
+
+Idaho
+	
+
+	
+
+ 45
+	
+
+	
+
+ 0.8
+	
+
+%  
+	
+
+	
+
+ 3
+	
+
+ 
+	
+
+ 1.9
+	
+
+%  
+	
+
+	
+
+ 48
+	
+
+	
+
+ 0.9
+	
+
+%  
+	
+
+	
+
+ 94.3
+	
+
+%
+
+Pennsylvania
+	
+
+	
+
+ 33
+	
+
+	
+
+ 0.6
+	
+
+%  
+	
+
+	
+
+ 4
+	
+
+ 
+	
+
+ 2.7
+	
+
+%  
+	
+
+	
+
+ 37
+	
+
+	
+
+ 0.7
+	
+
+%  
+	
+
+	
+
+ 95.0
+	
+
+%
+
+Maine
+	
+
+	
+
+ 34
+	
+
+	
+
+ 0.6
+	
+
+%  
+	
+
+	
+
+ —
+	
+
+ 
+	
+
+ —
+	
+
+%  
+	
+
+	
+
+ 34
+	
+
+	
+
+ 0.6
+	
+
+%  
+	
+
+	
+
+ 95.6
+	
+
+%
+
+New Hampshire
+	
+
+	
+
+ 32
+	
+
+	
+
+ 0.6
+	
+
+%  
+	
+
+	
+
+ 1
+	
+
+ 
+	
+
+ 0.6
+	
+
+%  
+	
+
+	
+
+ 33
+	
+
+	
+
+ 0.6
+	
+
+%  
+	
+
+	
+
+ 96.2
+	
+
+%
+
+Montana
+	
+
+	
+
+ 28
+	
+
+	
+
+ 0.5
+	
+
+%  
+	
+
+	
+
+ —
+	
+
+ 
+	
+
+ —
+	
+
+%  
+	
+
+	
+
+ 28
+	
+
+	
+
+ 0.5
+	
+
+%  
+	
+
+	
+
+ 96.7
+	
+
+%
+
+Connecticut
+	
+
+	
+
+ 23
+	
+
+	
+
+ 0.4
+	
+
+%  
+	
+
+	
+
+ 3
+	
+
+ 
+	
+
+ 1.9
+	
+
+%  
+	
+
+	
+
+ 26
+	
+
+	
+
+ 0.5
+	
+
+%  
+	
+
+	
+
+ 97.2
+	
+
+%
+
+Vermont
+	
+
+	
+
+ 24
+	
+
+	
+
+ 0.4
+	
+
+%  
+	
+
+	
+
+ —
+	
+
+ 
+	
+
+ —
+	
+
+%  
+	
+
+	
+
+ 24
+	
+
+	
+
+ 0.4
+	
+
+%  
+	
+
+	
+
+ 97.6
+	
+
+%
+
+Wyoming
+	
+
+	
+
+ 22
+	
+
+	
+
+ 0.4
+	
+
+%  
+	
+
+	
+
+ 1
+	
+
+ 
+	
+
+ 0.6
+	
+
+%  
+	
+
+	
+
+ 23
+	
+
+	
+
+ 0.4
+	
+
+%  
+	
+
+	
+
+ 98.0
+	
+
+%
+
+New York
+	
+
+	
+
+ 17
+	
+
+	
+
+ 0.3
+	
+
+%  
+	
+
+	
+
+ 3
+	
+
+ 
+	
+
+ 1.9
+	
+
+%  
+	
+
+	
+
+ 20
+	
+
+	
+
+ 0.4
+	
+
+%  
+	
+
+	
+
+ 98.4
+	
+
+%
+
+South Dakota
+	
+
+	
+
+ 18
+	
+
+	
+
+ 0.3
+	
+
+%  
+	
+
+	
+
+ 1
+	
+
+ 
+	
+
+ 0.6
+	
+
+%  
+	
+
+	
+
+ 19
+	
+
+	
+
+ 0.3
+	
+
+%  
+	
+
+	
+
+ 98.7
+	
+
+%
+
+West Virginia
+	
+
+	
+
+ 17
+	
+
+	
+
+ 0.3
+	
+
+%  
+	
+
+	
+
+ 1
+	
+
+ 
+	
+
+ 0.6
+	
+
+%  
+	
+
+	
+
+ 18
+	
+
+	
+
+ 0.3
+	
+
+%  
+	
+
+	
+
+ 99.0
+	
+
+%
+
+Alaska
+	
+
+	
+
+ 15
+	
+
+	
+
+ 0.3
+	
+
+%  
+	
+
+	
+
+ —
+	
+
+ 
+	
+
+ —
+	
+
+%  
+	
+
+	
+
+ 15
+	
+
+	
+
+ 0.3
+	
+
+%  
+	
+
+	
+
+ 99.3
+	
+
+%
+
+North Dakota
+	
+
+	
+
+ 15
+	
+
+	
+
+ 0.3
+	
+
+%  
+	
+
+	
+
+ —
+	
+
+ 
+	
+
+ —
+	
+
+%  
+	
+
+	
+
+ 15
+	
+
+	
+
+ 0.3
+	
+
+%  
+	
+
+	
+
+ 99.6
+	
+
+%
+
+Hawaii
+	
+
+	
+
+ 12
+	
+
+	
+
+ 0.2
+	
+
+%  
+	
+
+	
+
+ 1
+	
+
+ 
+	
+
+ 0.6
+	
+
+%  
+	
+
+	
+
+ 13
+	
+
+	
+
+ 0.2
+	
+
+%  
+	
+
+	
+
+ 99.8
+	
+
+%
+
+Rhode Island
+	
+
+	
+
+ 10
+	
+
+	
+
+ 0.2
+	
+
+%  
+	
+
+	
+
+ 2
+	
+
+ 
+	
+
+ 1.3
+	
+
+%  
+	
+
+	
+
+ 12
+	
+
+	
+
+ 0.2
+	
+
+%  
+	
+
+	
+
+ 100.0
+	
+
+%
+
+Total U.S. stores
+	
+
+	
+
+ 5,439
+	
+
+	
+
+ 100.0
+	
+
+%  
+	
+
+	
+
+ 155
+	
+
+	
+
+ 100.0
+	
+
+%  
+	
+
+	
+
+ 5,594
+	
+
+	
+
+100.0
+	
+
+%  
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+Mexico
+	
+
+	
+
+ 21
+	
+
+	
+
+	
+
+	
+
+	
+
+ 1
+	
+
+	
+
+	
+
+	
+
+	
+
+ 22
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+Total stores
+	
+
+ 
+	
+
+ 5,460
+	
+
+ 
+	
+
+	
+
+	
+
+	
+
+ 156
+	
+
+ 
+	
+
+	
+
+	
+
+	
+
+ 5,616
+	
+
+ 
+	
+
+	
+
+	
+
+	
+
+  
+	
+
+9
+
+Distribution Systems
+
+We believe that our tiered distribution model provides industry-leading parts availability and store in-stock positions, while lowering our inventory carrying costs by controlling the depth of our store stocked inventory.  Moreover, we believe our ongoing, significant capital investments made in our DC network allow us to efficiently service new stores that are planned to open in contiguous market areas as well as servicing our existing store network.  Our distribution expansion strategy complements our new store opening strategy by supporting newly established clusters of stores, and additional penetration into existing markets, in the regions surrounding each DC.  As of December 31, 2020, we had a total growth capacity of more than 585 stores in our distribution center network, which benefited from relocating our Nashville, Tennessee, DC into a larger facility in Lebanon, Tennessee, providing a larger, more efficient facility in March 2020.  The existing store portion of the Nashville, Tennessee, DC facility remained a large Hub that continues to provide same day parts availability in the attractive Nashville market.  The distribution operations of our Knoxville, Tennessee, DC are in the process of being merged into our Lebanon, Tennessee, DC, which is expected to be completed in 2021, and the existing store portion of our Knoxville, Tennessee, DC facility will remain a large Hub that will continue to provide same day parts availability in the Knoxville market.  Additionally, we plan to merge our North Little Rock, Arkansas, DC into our new Horn Lake, Mississippi, DC, which we expect to open in mid-2021.  At that time, the existing store portion of our North Little Rock, Arkansas, DC facility will remain a large Hub that will continue to provide same day parts availability in the Little Rock market.
+
+Distribution Centers:
+
+As of December 31, 2020, we operated 28 domestic DCs comprised of approximately 11.6 million operating square feet (see the “Properties” table in Item 2 of this annual report on Form 10-K for more information about DC operating square footages).  Our DCs stock an average of 159,000 SKUs and most DCs are linked to and have access to multiple other regional DCs’ inventory.  Our DCs provide five-night-a-week delivery, primarily via a Company-owned fleet, to substantially all of our stores in the continental United States.  In addition, stores within an individual DC’s metropolitan area receive multiple daily deliveries from the DC’s “city counter,” many of which receive this service seven days per week.  Our DCs provide weekend service to not only the stores they service via their city counters but also to strategic Hub locations, which redistribute products to surrounding stores.  Our national Hub store network provides additional service throughout the week, and on weekends, to surrounding stores.
+
+As part of our continuing efforts to enhance our distribution network in 2021, we plan to
+	●	continue to enhance our distribution network through the engineering, design, expansion or relocation of new or current DCs;
+	●	continue to utilize routing software to continue to enhance logistics efficiencies;
+	●	continue to implement labor management software to improve DC productivity and overall operating efficiency;
+	●	continue to define and implement best practices in all DCs;
+	●	make proven, return-on-investment based capital enhancements to material handling equipment in DCs, including conveyor systems, picking modules, lift equipment and computer hardware; and
+	●	continue to augment our robust distribution network, when and where appropriate, through the use of strategically located Hubs and Super Hubs.  
+
+Hub Stores:
+
+We currently operate a total of 362 strategically located Hub stores.  In addition to serving DIY and professional service provider customers in their markets, Hub stores also provide delivery service to our other stores within the surrounding area and access to an expanded selection of SKUs on a same-day basis.  Our Hub store network consists of 88 Super Hubs that average approximately 17,100 square feet and carry an average of 70,000 SKUs and 274 Hubs that average approximately 10,200 square feet and carry an average of 42,000 SKUs.
+
+Products and Purchasing
+
+Our stores offer DIY and professional service provider customers a wide selection of products for domestic and imported automobiles, vans and trucks.  Our merchandise generally consists of nationally recognized, well-advertised, premium name brand products, such as AC Delco, Armor All, Bosch, Castrol, Dorman, Fel-Pro, Gates Rubber, Lucas Oil, Mobil1, Monroe, Moog, Pennzoil, Prestone, Standard, STP, Turtle Wax, Valvoline, Wagner, and Wix, and a wide selection of quality proprietary private label products, which span the entire good, better and best value spectrum, under our BesTest®, BrakeBest®, Cartek®, Import Direct®, MasterPro®, MicroGard®, Murray®, Omnispark®, O’Reilly Auto Parts®, Precision®, Power Torque®, Super Start®, and Ultima® brands.  Our proprietary private label products are produced by respected automotive manufacturers, meet or exceed original equipment manufacturer specifications and consist of house brands and nationally recognized proprietary bands, which we have acquired or developed over time.  Our “good” proprietary brands provide a great combination of quality and value, a characteristic important to our DIY customers, while
+
+10
+
+our “better” and “best” proprietary brands offer options for our more heavy-duty DIY customers, as well as our professional service provider customers, who often prefer higher quality products that can be relied upon to support and grow their businesses.
+
+We have no long-term contracts with material purchase commitments with any of our suppliers, nor have we experienced difficulty in obtaining satisfactory alternative supply sources for automotive parts.  We believe that alternative supply sources exist at competitive costs for substantially all of the automotive products that we sell.  It is our policy to take advantage of payment and seasonal purchasing discounts offered by our suppliers and to utilize extended dating terms available from suppliers.  We have entered into various programs and arrangements with certain suppliers that provided for extended dating and payment terms for inventory purchases.  As a whole, we consider our relationships with our suppliers to be very good.
+
+We purchase automotive products in substantial quantities from over 730 suppliers, the five largest of which accounted for approximately 25% of our total purchases in 2020.  Our largest supplier in 2020 accounted for approximately 7% of our total purchases and the next four largest suppliers each accounted for approximately 3% to 6% of our total purchases.
+
+Marketing
+
+Retail and Online Marketing:
+
+Our integrated marketing strategy and Omnichannel efforts include national media channels, in-store, digital and social media activation, as well as marketing the O’Reilly brand through automotive event sponsorships and on-site appearances throughout the country.  Our O’Rewards loyalty program encourages repeat customers, as they accumulate points from their O’Reilly purchases that are redeemable for rewards at various purchase levels.  Our marketing efforts also target the Spanish-speaking market through broadcast media, print and sports marketing, as well as sponsorships of local and regional events.
+
+Professional Marketing:
+
+To develop our continued relationships with professional service providers and installers, we employ Territory Sales Managers in nearly every market to ensure complete sales territory coverage and personalized service for these customers.  Flyers, quick reference guides and catalogs are distributed on a regular basis to all professional service providers, including paint and body shops and fleet maintenance customers to encourage brand and program awareness.  In addition, our professional customer program, First Call, also offers an ordering website, www.FirstCallOnline.com, dedicated to Professional Service Specialists in stores, multiple daily deliveries and access to training opportunities, shop management, maintenance supplies and the Certified Auto Repair program, which offers professional service providers with the business tools they need to profitably grow and market their business.
+
+INDUSTRY ENVIRONMENT
+
+The automotive aftermarket industry includes all products and services purchased for light and heavy-duty vehicles after the original sale.  The total size of the automotive aftermarket is estimated to be approximately $281 billion, according to The Auto Care Association.  This market is made up of four segments:  labor share of professional service provider sales, auto parts share of professional service provider sales, DIY sales and tire sales.  We estimate that O’Reilly’s addressable market within this industry is approximately $90 billion to $100 billion, which includes the auto parts share of professional service provider sales at wholesale and DIY sales at retail.  We do not sell tires or perform for-fee automotive repairs or installations.
+
+Competition
+
+The sale of automotive aftermarket items is highly competitive in many areas, including customer service, product availability, store location, brand recognition and price.  We compete in both the DIY and professional service provider portions of the automotive aftermarket and are one of the largest specialty retailers within that market.  We compete primarily with
+	●	national retail and wholesale automotive parts chains (such as AutoZone, Inc., Advance Auto Parts, CARQUEST, NAPA and the Pep Boys - Manny, Moe and Jack, Inc.);
+	●	regional retail and wholesale automotive parts chains;
+	●	wholesalers or jobber stores (some of which are associated with national automotive parts distributors or associations such as NAPA, CARQUEST, Bumper to Bumper and Auto Value);
+	●	automobile dealers; and
+	●	mass merchandisers and online retailers that carry automotive replacement parts, maintenance items and accessories (such as Wal-Mart Stores, Inc. and Amazon.com, Inc.).
+
+11
+
+We compete on the basis of customer service, which includes merchandise selection and availability, technical proficiency and helpfulness of store personnel, price, store layout, continually enhancing the Omnichannel experience and convenient and accessible store locations.  Our dual market strategy requires significant capital, such as the capital expenditures required for our distribution and store networks and working capital needed to maintain inventory levels necessary for providing products to both the DIY and professional service provider portions of the automotive aftermarket.
+
+Inflation and Seasonality
+
+We have been successful, in many cases, in reducing the effects of merchandise cost increases principally by taking advantage of supplier incentive programs, economies of scale resulting from increased volume of purchases and selective forward buying.  To the extent our acquisition costs increase due to price increases industry wide, we have typically been able to pass along these increased costs through higher retail prices for the affected products.  As a result, we do not believe our operations have been materially, adversely affected by inflation.
+
+To some extent our business is seasonal, primarily as a result of the impact of weather conditions on customer buying patterns.  Store sales, profits and inventory levels have historically been higher in the second and third quarters (April through September) than in the first and fourth quarters (October through March) of the year.
+
+Regulations
+
+We are subject to federal, state and local laws and governmental regulations relating to our business, as well as the health and safety of our Team Members and customers, including, but not limited to, those related to the handling, storage and disposal of hazardous substances, the recycling of batteries and used lubricants and the ownership and operation of real property.
+
+As part of our operations, we handle hazardous materials in the ordinary course of business and our customers may bring hazardous materials onto our property in connection with, for example, our used oil, oil filter and battery recycling programs.  We currently provide a recycling program for batteries and the collection of used lubricants at certain stores as a service to our customers pursuant to agreements with third-party suppliers.  The batteries and used lubricants are collected by our Team Members, deposited into supplier-provided containers and pallets and then recycled by the third-party suppliers.  In general, our agreements with such suppliers contain provisions that are designed to limit our potential liability under applicable environmental regulations for any damage or contamination, which may be caused by the batteries and lubricants to off-site properties (including as a result of waste disposal) and to our properties, when caused by the supplier.
+
+Compliance with any such laws and regulations has not had a material adverse effect on our operations to date.  However, we cannot give any assurance that we will not incur significant expenses in the future in order to comply with any such laws or regulations.
+
+INFORMATION ABOUT OUR EXECUTIVE OFFICERS
+
+Gregory D. Johnson, age 55, Chief Executive Officer and Co-President, has been an O’Reilly Team Member for 38 years, which includes continuous years of service with a company acquired by O’Reilly.  Mr. Johnson’s O’Reilly career began as a part-time Distribution Center Team Member and progressed through the roles of Retail Systems Manager, Warehouse Management Systems (WMS) Development Manager, Director of Distribution, Vice President of Distribution Operations, Senior Vice President of Distribution Operations, and Executive Vice President of Supply Chain.  Mr. Johnson has held the position of Co-President since 2017.  Mr. Johnson was promoted to Chief Executive Officer and Co-President in 2018.
+
+Jeff M. Shaw, age 58, Chief Operating Officer and Co-President, has been an O’Reilly Team Member for 32 years.  Mr. Shaw’s primary areas of responsibility are Store Operations, Sales, Distribution Operations and International Operations.  Mr. Shaw’s O’Reilly career began as a Parts Specialist and progressed through the roles of Store Manager, District Manager, Regional Manager, Vice President of the Southern Division, Vice President of Sales and Operations, Senior Vice President of Sales and Operations, and Executive Vice President of Store Operations and Sales.  Mr. Shaw has held the position of Co-President since 2017.  Mr. Shaw was promoted to Chief Operating Officer and Co-President in 2018.
+
+Brad Beckham, age 42, Executive Vice President of Store Operations and Sales, has been an O’Reilly Team Member for 24 years.  Mr. Beckham’s primary areas of responsibility are Store Operations and Sales for O’Reilly’s Store Operations.  Mr. Beckham’s O’Reilly career began as a Parts Specialist and progressed through the roles of Store Manager, District Manager, Regional Manager, Divisional Vice President, Vice President of Eastern Store Operations and Sales, Senior Vice President of Eastern Store Operations and Sales, and Senior Vice President of Central Store Operations.  Mr. Beckham has held the position of Executive Vice President of Store Operations and Sales since 2018.
+
+12
+
+Brent G. Kirby, age 52, Executive Vice President of Supply Chain, has been an O’Reilly Team Member since 2018.  Mr. Kirby’s primary areas of responsibility are Inventory Management, Purchasing, Merchandise, Pricing, Store Design, Marketing, Advertising, Electronic Catalog, Customer Satisfaction and Digital business areas while working cross functionally to deliver our Omnichannel strategy.  Mr. Kirby has over 30 years of experience in the retail industry.  Prior to joining O’Reilly, Mr. Kirby held the position of Chief Supply Chain Officer for Lowe’s Companies, Inc. (“Lowe’s”), with direct responsibility for leading the global supply chain supporting Lowe’s U.S.-based home improvement business.  In this role, Mr. Kirby was responsible for team members across a diverse network of distribution centers, manufacturing facilities, direct-to-consumer parcel operations and last mile delivery operations.  Mr. Kirby began his retail career as a hardware associate with Lowe’s and progressed through various positions at the store, district and regional levels before being promoted to Senior Vice President of Store Operations and later Chief Omnichannel Officer.  In 2018, Mr. Kirby joined O’Reilly as Senior Vice President of Omnichannel.  Mr. Kirby has held the position of Executive Vice President of Supply Chain since January of 2021.
+
+Tom McFall, age 50, Executive Vice President and Chief Financial Officer, has been an O’Reilly Team Member for 14 years.  Mr. McFall’s primary areas of responsibility are Finance, Accounting, Information Technology, Legal, Real Estate and Risk Management.  Mr. McFall’s career began with Ernst & Young LLP in Detroit, Michigan, where he achieved the position of Audit Manager, before accepting a position with Murray’s Discount Auto Stores (“Murray’s”).  Mr. McFall served Murray’s for eight years through the roles of Controller, Vice President of Finance, and Chief Financial Officer, with direct responsibility for finance, accounting and distribution and logistics operations.  After Murray’s was acquired by CSK Auto Corporation (“CSK”) in 2005, Mr. McFall held the position of Chief Financial Officer of Midwest Operation for CSK.  In 2006, Mr. McFall joined O’Reilly as Senior Vice President of Finance and Chief Financial Officer.  Mr. McFall has held the position of Executive Vice President and Chief Financial Officer since 2007.
+
+Jonathan Andrews, age 53, Senior Vice President of Human Resources and Training, has been an O’Reilly Team Member for eight years.  Mr. Andrews’s primary areas of responsibility are Human Resources and Training.  Mr. Andrews has over 25 years of human resources experience.  Mr. Andrews’s career includes human resource positions with Cargill, Inc., Tyson Foods, Inc. and AutoNation, Inc.  Mr. Andrews served AutoNation for 10 years as Director of Human Resources and Senior Director of Human Resources.  In 2012, Mr. Andrews joined O’Reilly as Vice President of Human Resources and progressed through the role of Vice President of Human Resources and Training.  Mr. Andrews has held the position of Senior Vice President of Human Resources and Training since 2019.
+
+Doug Bragg, age 51, Senior Vice President of Central Store Operations and Sales, has been an O’Reilly Team Member for 30 years.  Mr. Bragg’s primary areas of responsibility are Store Operations and Sales for O’Reilly Central Store Operations.  Mr. Bragg’s O’Reilly career began as a Distribution Center Team Member and progressed through the roles of Assistant Store Manager, Store Manager, District Manager, Regional Manager, and Divisional Vice President.  Mr. Bragg has held the position of Senior Vice President of Central Store Operations since 2018.
+
+Robert Dumas, age 47, Senior Vice President of Eastern Store Operations and Sales, has been an O’Reilly Team Member for 29 years, which includes continuous years of service with a company acquired by O’Reilly.  Mr. Dumas’s primary areas of responsibility are Store Operations and Sales for O’Reilly’s Eastern Store Operations.  Mr. Dumas’s O’Reilly career began as a Parts Specialist and progressed through the roles of Installer Service Specialist, Night Manager, Associate Manager, Store Manager, District Manager, Regional Manager, and Divisional Vice President.  Mr. Dumas has held the position of Senior Vice President of Eastern Store Operations and Sales since 2016.
+
+Larry L. Ellis, age 65, Senior Vice President of Distribution Operations, has been an O’Reilly Team Member for 45 years, which includes continuous years of service with a company acquired by O’Reilly.  Mr. Ellis’s primary areas of responsibility are Distribution Operations and Logistics.  Mr. Ellis’s O’Reilly career began as a Distribution Center Team Member and progressed through the roles of Distribution Center Supervisor, Distribution Center Manager, Director of Distribution Operations, Vice President of Logistics, Vice President of Western Division Distribution Operations, and Vice President of Distribution Operations.  Mr. Ellis has held the position of Senior Vice President of Distribution Operations since 2014.
+
+Jeremy Fletcher, age 43, Senior Vice President of Finance and Controller, has been an O’Reilly Team Member for 15 years.  Mr. Fletcher’s primary area of responsibility is Finance.  Mr. Fletcher’s O’Reilly career began as the Financial Reporting and Budgeting Manager and progressed through the roles of Director of Finance, and Vice President of Finance and Controller.  Prior to joining O’Reilly, Mr. Fletcher worked as a Certified Public Accountant with a public accounting firm and in a financial reporting and planning role for a Fortune 1000 corporation.  Mr. Fletcher has held the position of Senior Vice President of Finance and Controller since 2017.
+
+Jeffrey L. Groves, age 55, Senior Vice President of Legal and General Counsel, has been an O’Reilly Team Member for 16 years.  Mr. Groves’s primary areas of responsibility are Corporate Governance, Regulatory Matters, and Internal Audit.  Mr. Groves’s O’Reilly
+
+13
+
+career began as Director of Legal and Claim Services and progressed through the roles of Director of Legal and Claim Services and General Counsel and Vice President of Legal and Claim Services and General Counsel.  Prior to joining O’Reilly, Mr. Groves worked in a private civil defense trial practice.  Mr. Groves has held the position of Senior Vice President of Legal and General Counsel since 2016.
+
+Scott Kraus, age 44, Senior Vice President of Real Estate and Expansion, has been an O’Reilly Team Member for 22 years.  Mr. Kraus’s primary areas of responsibility are Real Estate Expansion and Acquisitions.  Mr. Kraus’s O’Reilly career began as a Parts Specialist and progressed through the roles of Store Manager, District Manager, Regional Field Sales Manager, Regional Manager, Divisional Vice President, and Vice President of Real Estate.  Mr. Kraus has held the position of Senior Vice President of Real Estate and Expansion since 2016.
+
+Jeffrey A. Lauro, age 54, Senior Vice President of Information Technology, has been an O’Reilly Team Member for five years.  Mr. Lauro’s primary area of responsibility is Information Technology.  Mr. Lauro has over 30 years of information technology experience primarily in the retail industry.  Prior to joining O’Reilly, Mr. Lauro held the position of Chief Information Officer for Payless ShoeSource (“Payless”), with direct responsibility for solution delivery, infrastructure and operations and enterprise architecture.  Prior to joining Payless, Mr. Lauro was the Vice President, Global Information Technology Service Delivery Director for The TJX Companies, Inc., with direct responsibility for global information technology service management, operations, implementation and disaster recovery.  In 2015, Mr. Lauro joined O’Reilly as Senior Vice President of Information Technology and has held this position since that time.
+
+Jason Tarrant, age 40, Senior Vice President of Western Store Operations and Sales, has been an O’Reilly Team Member for 19 years, which includes continuous years of service with a company acquired by O’Reilly.  Mr. Tarrant’s primary areas of responsibility are Store Operations and Sales for O’Reilly Western Store Operations.  Mr. Tarrant’s O’Reilly career began as a Parts Specialist and progressed through the roles of Assistant Store Manager, Store Manager, District Manager, Regional Field Sales Manager, Regional Manager, and Divisional Vice President.  Mr. Tarrant has held the position of Senior Vice President of Western Store Operations and Sales since 2018.
+
+Darin Venosdel, age 50, Senior Vice President of Inventory Management, has been an O’Reilly Team Member for 23 years.  Mr. Venosdel’s primary areas of responsibility are Inventory Management, Purchasing and Store Design.  Mr. Venosdel’s O’Reilly career began as a Programmer/Analyst and progressed through the roles of Application Development Manager, Director of Application Development, Director of Inventory Management, and Vice President of Inventory Management.  Mr. Venosdel has held the position of Senior Vice President of Inventory Management since 2018.
+
+David Wilbanks, age 49, Senior Vice President of Merchandise, has been an O’Reilly Team Member for eight years.  Mr. Wilbanks’s primary areas of responsibility are Merchandise and Pricing.  Mr. Wilbanks has over 30 years of experience in the automotive aftermarket industry.  Mr. Wilbanks’s career began as a counter technician for an independent jobber and progressed to becoming an ASE Certified Master Technician for an automotive dealership, before accepting a position with AutoZone, Inc. (“AutoZone”).  Mr. Wilbanks served AutoZone for twelve years as a financial analyst, Category Manager, and Director of Merchandise.  In 2012, Mr. Wilbanks joined O’Reilly as Vice President of Merchandise and has held the position of Senior Vice President of Merchandise since 2016.
+
+SERVICE MARKS AND TRADEMARKS
+
+ 
+
+We have registered, acquired and/or been assigned the following service marks and trademarks in the United States:  BENNETT AUTO SUPPLY®; BESTEST®; BETTER PARTS. BETTER PRICES.®; BETTER PARTS, BETTER PRICES....EVERYDAY!®; BOND AUTO PARTS®; BRAKEBEST®; BRAKEBEST HD®; BRAKEBEST SELECT®; CARTEK®; CARTEK PRO®; CERTIFIED AUTO REPAIR®; CHECKER AUTO PARTS®; CSK PROSHOP®; CUSTOMIZE YOUR RIDE®; DO IT RIGHT DEALS®; DO IT RIGHT REBATE®; DRIVE WITH THE LEADER!®; EARN POINTS EVERY WAY YOU SHOP®; FIRST CALL®; FLEET & HEAVY DUTY PROFESSIONAL PARTS PEOPLE®; FRIENDLIEST PARTS STORE IN TOWN®; FROM OUR STORE TO YOUR DOOR®; IMPORT DIRECT®; KRAGEN AUTO PARTS®; MASTER PRO®; MASTER PRO REFINISHING®; MASTERPRO SELECT®; MASTERPRO UNDERCAR®; MICROGARD®; MICROGARD HEPA®; MURRAY®; MURRAY CLIMATE CONTROL®; MURRAY TEMPERATURE CONTROL®; MURRAY’S MASCOT® (Design only); MURRAY PLUS®; MURRAY ULTRA®; MURRAY’S AUTO PARTS®; O LOW PRICE GUARANTEE! ®;  O® (Shamrock inside of “O”); OMNISPARK®; O’REILLY®; O’REILLY AUTO COLOR PROFESSIONAL PAINT PEOPLE®; O’REILLY AUTO PARTS®; O’REILLY AUTO PARTS PROFESSIONAL PARTS PEOPLE®; O’REILLY AUTOMOTIVE®; O’REILLY O’REWARDS®; O’REILLY SELECT®; O’REWARDS®; PARTNERSHIP NETWORK®; PARTS CITY®; PARTS CITY AUTO COLOR PROFESSIONAL PAINT PEOPLE®; PARTS CITY AUTO PARTS®; PARTS FOR YOUR CAR WHEREVER YOU ARE®; PARTS PAYOFF®; POWER TORQUE®; PRECISION®; PRECISION HUB ASSEMBLIES®; PRIORITY PARTS®; QUIETECH®; REAL
+
+14
+
+WORLD TRAINING®; ¡SIGUE ADELANTE CON O’REILLY!®; SCHUCK’S AUTO SUPPLY®; SUPER START®; TOOLBOX®; ULTIMA®; ULTIMA SELECT®; and WORK AT THE O®.  Some of the service marks and trademarks listed above may also have a design associated therewith.  Each of the service marks and trademarks are in duration for as long as we continue to use and seek renewal of such marks.  The above list includes only the trademarks and service marks that are currently and validly registered with the United States Patent and Trademark Office.  It does not include trademarks or service marks which may also be in use, but are not yet registered.  We believe that our business is not otherwise dependent upon any patent, trademark, service mark or copyright.
+
+Solely for convenience, our service marks and trademarks may appear in this report without the ® or ™ symbol, which is not intended to indicate that we will not assert, to the fullest extent under applicable law, our rights or the right to these service marks and trademarks.
+
+AVAILABLE INFORMATION
+
+Our Internet address is www.OReillyAuto.com.  Interested readers can access, free of charge, our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and any amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, through the Securities and Exchange Commission website at www.sec.gov and searching with our ticker symbol “ORLY.”  Such reports are generally available the day they are filed.  Upon request, we will furnish interested readers a paper copy of such reports free of charge by contacting Mark Merz, Vice President of Investor Relations, Financial Reporting and Planning, at 233 South Patterson Avenue, Springfield, Missouri, 65802. 

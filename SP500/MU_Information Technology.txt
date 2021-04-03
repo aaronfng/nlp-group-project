@@ -1,0 +1,283 @@
+Overview
+
+Micron Technology, Inc., including its consolidated subsidiaries, is an industry leader in innovative memory and storage solutions. Through our global brands — Micron® and Crucial® — our broad portfolio of high-performance memory and storage technologies, including DRAM, NAND, 3D XPointTM memory, and NOR, is transforming how the world uses information to enrich life for all. Backed by more than 40 years of technology leadership, our memory and storage solutions enable disruptive trends, including artificial intelligence, 5G, machine learning, and autonomous vehicles, in key market segments like mobile, data center, client, consumer, industrial, graphics, automotive, and networking.
+
+We manufacture our products at wholly-owned facilities and also utilize subcontractors to perform certain manufacturing processes. In recent years, we have increased our manufacturing scale and product diversity through strategic acquisitions, expansion, and various partnering arrangements.
+
+We make significant investments to develop proprietary product and process technology, which are implemented in our manufacturing facilities, and generally increase the density per wafer and reduce manufacturing costs of each generation of product through advancements in product and process technology, such as our leading-edge line-width process technology and 3D NAND architecture. We continue to introduce new generations of products that offer improved performance characteristics, including higher data transfer rates, advanced packaging solutions to meet industry standards, lower power consumption, improved read/write reliability, and increased memory density. A significant portion of our revenues are from sales of managed NAND and SSD products, which incorporate NAND, a controller, and firmware. An increasing portion of our SSDs incorporate proprietary controllers and firmware that we have developed. Development of advanced technologies enables us to diversify our product portfolio toward a richer mix of differentiated, high-value solutions and to target high-growth markets.
+
+We face intense competition in the semiconductor memory and storage markets and, to remain competitive, we must continuously develop and implement new products and technologies and decrease manufacturing costs. Our success is largely dependent on obtaining returns on our R&D investments, efficient utilization of our manufacturing infrastructure, development and integration of advanced product and process technologies, market acceptance of our diversified portfolio of semiconductor-based memory and storage solutions, and return-driven capital spending.
+
+Impact of COVID-19 on Our Business
+
+Events surrounding the ongoing COVID-19 outbreak have resulted in a reduction in economic activity across the globe. The ultimate severity and duration of these economic repercussions, including any resulting impact on our business, remain largely unknown and will depend on many factors, including the speed and effectiveness of the containment efforts and economic intervention throughout the world.
+
+From the start of the COVID-19 outbreak, we proactively implemented preventative protocols intended to safeguard our team members, contractors, suppliers, customers, distributors, and communities, and to ensure business continuity in the event government restrictions or severe outbreaks impact our operations at certain sites. While all our global sites are currently operational, our facilities could be required to temporarily curtail production levels or temporarily cease operations based on actions we deem to be prudent or as a result of government mandates. We remain committed to providing a healthy and safe environment and continue to actively monitor the situation. We may take further actions to alter our business operations to ensure the health and safety of all our stakeholders, or as required by government authorities.
+
+
+3 | 2020 10-K
+
+
+Products
+
+We are relentlessly focused on evolving our product portfolio to a richer mix of high-value solutions and cultivating deeper relationships with customers. Our position as a developer and manufacturer of DRAM, NAND, 3D XPoint memory, NOR, and other emerging memory technologies uniquely enables us to collaborate with our customers to ensure our technology and engineering roadmaps deliver critical features. We continuously introduce new products on our advanced technologies, delivering performance, quality, and cost advantages to our customers. Across our entire portfolio of products, we continue to focus on product differentiation and portfolio expansion to grow our share of industry profits while maintaining stable bit share.
+
+Our product portfolio of memory and storage solutions, advanced solutions, and storage platforms is based on our high-performance semiconductor memory and storage technologies, including DRAM, NAND, 3D XPoint memory, NOR, and other technologies. We sell our products into various markets through our business units in numerous forms, including wafers, components, modules, SSDs, managed NAND, and MCP products. Our system-level solutions, including SSDs, managed NAND, and MCPs, typically include a controller and firmware and in some cases combine DRAM, NAND, and/or NOR.
+
+Product Technologies
+
+DRAM: DRAM products are dynamic random access memory semiconductor devices with low latency that provide high-speed data retrieval with a variety of performance characteristics. DRAM products lose content when power is turned off (“volatile”) and are most commonly used in client, cloud server, enterprise, networking, graphics, industrial, and automotive markets. Low-power DRAM (“LPDRAM”) products, which are engineered to meet standards for performance and power consumption, are sold into smartphone and other mobile-device markets, as well as into the automotive, industrial, and consumer markets.
+
+NAND: NAND products are non-volatile, re-writeable semiconductor storage devices that provide high-capacity, low-cost storage with a variety of performance characteristics. NAND is used in SSDs for the enterprise and cloud, client, and consumer markets and in removable storage markets. Managed NAND is used in smartphones and other mobile devices, and in consumer, automotive, and embedded markets. Low-density NAND is ideal for applications like automotive, surveillance, machine-to-machine, automation, printer, and home networking.
+
+3D XPoint: 3D XPoint is a new class of non-volatile technology between DRAM and NAND in the memory and storage hierarchy, offering higher capacity and non-volatility over DRAM along with lower latency and higher endurance as compared to NAND. 3D XPoint technology is ideal for data center and other markets requiring high-bandwidth storage and low-latency performance.
+
+NOR: NOR products are non-volatile re-writable semiconductor memory devices that provide fast read speeds. NOR is most commonly used for reliable code storage (e.g., boot, application, operating system, and execute-in-place code in an embedded system) and for frequently changing small data storage and is ideal for automotive, industrial, and consumer applications.
+
+Products by Business Unit and Market
+
+Compute and Networking Business Unit (“CNBU”)
+
+CNBU includes memory products and solutions sold into client, cloud server, enterprise, graphics, and networking markets. CNBU reported revenue of $9.18 billion in 2020, $9.97 billion in 2019, and $15.25 billion in 2018. In late 2019, we were the first to introduce volume production of 1Znm DRAM which, at the time, was the industry's most advanced node. In 2020, we began ramping our 1Znm technology and achieved bit production crossover in the second half of 2020 with the aggregate of our 1Ynm and 1Znm nodes comprising more than 50% of our DRAM bit production. We began sampling 1Znm DDR5 modules and are on track to introduce high bandwidth memory in calendar 2020. We continue to make meaningful progress on our 1-alpha nm node, which we expect to introduce in 2021. During 2020, we began sampling our first high-bandwidth DRAM memory product, which is competitive with the industry's most advanced products, to enable expansion of our AI data center opportunities.
+
+mu-20200903_g5.jpg 4
+
+
+Client: CNBU sales to the client market in 2020 consisted primarily of 1Xnm and 1Ynm DDR4 DRAM products. In 2020, we also achieved significant production and sales to the client market of our DDR4 DRAM products from our 1Znm technology. Our products sold to the client market support both commercial and consumer PC growth, with growth driven by the rapid deployment of PCs to support the work-from-home and e-learning environments as the world responded to the COVID-19 pandemic.
+
+Cloud Server: CNBU sales to the cloud market in 2020 consisted primarily of our 1Xnm, 1Ynm, and 1Znm DDR4 DRAM products. The cloud server market continued to experience significant growth in 2020 due to strong demand from the work-from-home and e-learning environments, video streaming, and significant increases in e-commerce activity around the world. The cloud server market has also been driven, in part, by intelligent edge devices capable of artificial intelligence and augmented reality that store and access data in the cloud. Cloud servers supporting artificial intelligence workloads require significantly increasing quantities of DRAM and, as the number and capabilities of these intelligent edge devices increase, more data is stored, processed, and accessed in the cloud, creating a virtuous cycle between the cloud and edge devices.
+
+Enterprise: CNBU sales to the enterprise market in 2020 consisted primarily of our 1Xnm and 1Ynm DDR4 DRAM products. In 2020, we started providing early engineering samples of 1Znm DDR5 products for enterprise applications. The enterprise market is experiencing demand from intelligent edge devices requiring rapid data analysis and storage to enable machine learning, training, and inference.
+
+Graphics: CNBU sales to the graphics market in 2020 consisted primarily of GDDR6 and GDDR5 graphics products. In addition, in 2020, we started shipping GDDR6 DRAM products for next-generation gaming consoles and also introduced our leading-edge GDDR6X graphics memory, which delivers unprecedented speed, power, and bandwidth for high-performance graphics and computing. The graphics market is driven by the need for high-performance, high-bandwidth, and cost-effective memory solutions. Our GDDR6 and GDDR5 DRAM graphics products are incorporated into game consoles, PC graphics cards, and graphics processing unit-based data center solutions, which are the driving force behind applications such as artificial intelligence, virtual and augmented reality, 4K and 8K gaming, and professional design. Our GDDR6X products feature innovative signal transmission technology enabling over 1-terabyte of memory bandwidth to deliver an immersive, real-life gaming experience.
+
+Networking: CNBU sales to the networking market in 2020 consisted primarily of DDR4 and DDR3 DRAM products. In 2020, demand was driven, in part, by rapid work-from-home infrastructure deployment, as well as increased 5G build-out in certain geographic locations to further support the growth of the advanced 5G networking infrastructure. The networking memory market has relatively long life-cycle DRAM products and, accordingly, a significant portion of our sales consisted of products manufactured on our legacy DRAM technology.
+
+3D XPoint: CNBU sales of 3D XPoint memory consisted primarily of wafers sold to Intel. In 2020, we introduced our X100 NVMe SSD, the fastest storage device in the world. The X100 NVMe SSD is the first product in a new family of high-performance memory solutions based on 3D XPoint technology, which has higher chip density than DRAM, up to 1,000 times lower latency, and exponentially greater endurance than NAND. These specifications create a significant value opportunity for 3D XPoint technology in solutions between DRAM and NAND in the memory and storage hierarchy. Trends in machine learning, big data analytics, and artificial intelligence are driving demand for the features offered by 3D XPoint technology.
+
+Mobile Business Unit (“MBU”)
+
+MBU includes memory products sold into smartphone and other mobile-device markets and includes discrete NAND, DRAM, and managed NAND. MBU managed NAND includes embedded multi-media controller (“e.MMC”) and universal flash storage (“UFS”) solutions, each of which combine high-capacity NAND with a high-speed controller and firmware, and eMCP/uMCP products, which combine an e.MMC/UFS solution with LPDRAM. MBU reported revenue of $5.70 billion in 2020, $6.40 billion in 2019, and $6.58 billion in 2018. In 2020, we were the first company to deliver LPDDR5 mobile DRAM products to customers, including our LPDDR5 products in select 5G-capable smartphones, in capacities up to 12GB. We also began sampling the world's first LPDDR5 DRAM-based UFS MCPs, which enable longer smartphone battery life and high-performance image processing and utilize our advanced 1Ynm DRAM process technology and the world’s smallest 512Gb 96-layer 3D NAND die.
+
+Smartphone: MBU sales to the smartphone market in 2020 consisted primarily of our 1Xnm and 1Ynm LPDDR4, LPDDR5, and managed NAND solutions. In the first quarter of 2020, we ramped our 1Znm LPDDR4 DRAM-based uMCP, which at the time had the fastest revenue ramp of any product in the history of our mobile business. High-
+5 | 2020 10-K
+
+
+end smartphones incorporate higher levels of NAND and LPDRAM that enable features such as larger 4K displays, multiple high-resolution cameras, and 4K high-dynamic range video recording. Additionally, our smartphone products are utilized by OEMs to enable artificial intelligence, augmented reality, and life-like virtual reality capabilities into high-end phones, including facial and voice recognition, real-time translation, fast image search, and scene detection.
+
+Other: MBU sales in 2020 also included products sold into the feature and disposable phone markets, mobile PC, and tablet markets. Sales primarily consisted of LPDDR4, LPDDR3, and eMCPs.
+
+Storage Business Unit (“SBU”)
+
+SBU includes SSDs and component-level solutions sold into enterprise and cloud, client, and consumer storage markets and other discrete storage products sold in component and wafer forms to removable storage markets. SBU reported revenue of $3.77 billion in 2020, $3.83 billion in 2019, and $5.02 billion in 2018. In 2020, we significantly increased the mix of our high-value solutions in NAND.
+
+In 2020, we continued to transition to our NAND QLC technology, representing nearly 20% of our overall NAND sales in the fourth quarter of 2020. The low cost per bit of our NAND QLC technology enables us to offer SSD products at a price point competitive with hard disk drives in a number of market segments. A meaningful portion of our consumer SSDs shipped in the second half of 2020 included NAND with our QLC technology.
+
+In 2020, we started volume production of our first-generation 128-layer 3D NAND using replacement gate technology and began shipping products to customers in the fourth quarter of 2020. We continue to make progress on our second-generation replacement gate node, which we expect to broadly deploy across our product portfolio, and remain on track for replacement gate production to comprise a meaningful portion of our NAND output by the end of calendar 2020.
+
+SSDs: SSD storage products incorporate NAND, a controller, and firmware and offer significant performance and features over hard disk drives, including smaller form factors, faster read and write speeds, higher reliability, and lower power consumption. We offer SSD solutions utilizing our NAND technology to the enterprise and cloud, client, and consumer markets.
+
+Enterprise and Cloud SSDs: SBU sales to the enterprise and cloud SSD markets in 2020 consisted primarily of our 5300, 5200, and 5100 series SATA SSDs. In 2020, we offered new capacity and features with our 5210 ION SATA SSD, continuing our leadership in QLC NAND-based SSDs and accelerating the transition from hard disk drives to QLC SSDs in data centers. Similar to trends in the memory market, the enterprise and cloud storage markets have been driven by advanced edge devices capable of artificial intelligence, augmented reality, and other features that store, access, and analyze data in the cloud. Artificial intelligence servers require fast access to data with low latency, predictable performance, and high storage capacities. Our technology is providing cost-optimized storage solutions at a significantly lower total cost of ownership for demanding workloads.
+
+Client SSDs: SBU sales to the client SSD market in 2020 consisted primarily of our 2200 and 1300 series SATA Client SSDs with our 96- and 64-layer TLC 3D NAND. Our client SSDs, targeted for leading personal computer OEMs as a replacement to hard disk drives, are used in notebooks, desktops, workstations, and other consumer applications, and deliver high performance, power efficiency, security, and capacity. In 2020, we launched our client 2300 NVMe SSD, which uses our 96-layer 3D NAND technology and a single-sided M.2 form factor to provide flexibility in design with industry-leading capacities of up to 2TB. In early 2020, we launched our client 2210 NVMe SSD, which uses our 96-layer QLC NAND technology for higher storage capacity and SLC NAND technology for write-performance, with M.2 form factor to bridge the gap between the low cost of hard disk drives and the performance, reliability, low power, and security of SSDs.
+
+Consumer SSDs: SBU sales to the consumer SSD market in 2020 consisted primarily of our Crucial-branded MX500/BX500 SATA SSDs and our P1/P2 PCIe SSDs, which utilize our NAND QLC and TLC technologies. We had record consumer SSD revenue in 2020, assisted by the growth of our QLC NVMe SSDs, and we continue transitioning our product line of consumer SSDs from SATA to NVMe. In 2020, we expanded into the consumer portable SSD market by introducing the Crucial X8 and X6 portable SSDs and also began shipments of our BX500 SATA SSD, utilizing our 128-layer TLC 3D NAND with replacement gate technology. Similar to the client SSD market, our consumer SSD solutions are replacing hard disk drives as end users seek the higher performance, power savings, and reliability of SSDs.
+mu-20200903_g5.jpg 6
+
+
+
+Components and Wafers: SBU sales of components in 2020 included NAND products and consisted primarily of our 64-layer and 96-layer TLC and QLC NAND technology sold into storage markets, which include custom and consumer SSDs and all flash arrays by advanced enterprise users, broadening our footprint into diverse market segments and enabling greater output flexibility.
+
+Embedded Business Unit (“EBU”)
+
+EBU includes memory and storage products sold into industrial, automotive, and consumer markets and includes discrete and module DRAM, discrete NAND, managed NAND, SSDs, and NOR. EBU reported revenue of $2.76 billion in 2020, $3.14 billion in 2019, and $3.48 billion in 2018. The embedded market has traditionally been characterized by long life-cycle DRAM and non-volatile products manufactured on mature process technologies. With strong trends of digitization, connectivity, and intelligence in every device, demand continues to grow for leading-edge products from newer process technologies emerging in the embedded market. Our embedded products enable edge devices to store, connect, and share information in the internet of things (“IoT”) market and are utilized in a diverse set of applications in the automotive, industrial, and consumer markets.
+
+Industrial: EBU sales to the industrial market in 2020 consisted primarily of DDR4 and DDR3 DRAM, LPDDR4 DRAM, SLC NAND, NAND MCPs, and NOR. Our products enable applications in the growing industrial IoT market, including machine-to-machine communication, factory automation, transportation, surveillance, retail, and smart infrastructure.
+
+Automotive: EBU sales to the automotive market in 2020 consisted primarily of DDR3 DRAM, e.MMC managed NAND, and LPDDR4 and LPDDR2 DRAM. Our leading 1TB automotive-grade PCIe NVMe SSD delivers faster, more reliable, and cost-effective storage for next-generation autonomous vehicles. Advancements in autonomous driving and advanced driver-assistance systems continue to increase the requirements for high-performing memory and storage products, with higher reliability requirements for leading-edge products. Automotive memory and storage products enable connected, large display infotainment systems and higher definition 4K displays and support improved voice and gesture control in automotive applications. Our comprehensive and expanding portfolio of DRAM, NAND, and NOR solutions to the automotive market, as well as our extensive customer support network, enable us to maintain our strong leadership position in this market.
+
+Consumer: EBU sales to the consumer market in 2020 consisted primarily of our DDR4 and DDR3 DRAM, LPDDR4 DRAM, managed NAND, SLC NAND, NOR, and secure digital (“SD”) cards. These embedded memory and storage solutions are used in a diverse set of consumer products, including service provider and IP set-top boxes, digital home assistants, digital still and video cameras, home networking, ultra-high definition televisions, and many more applications. Our embedded memory and storage solutions enable edge devices in the consumer products market to store, connect, and share information in the IoT.
+
+
+Manufacturing
+
+We manufacture our products within our own facilities located in Taiwan, Singapore, Japan, the United States, China, and Malaysia and also utilize subcontractors to perform certain manufacturing processes. Our products are manufactured on 300mm wafers in facilities that generally operate 24 hours per day, seven days per week. Semiconductor manufacturing is extremely capital intensive, requiring large investments in sophisticated facilities and equipment. Our DRAM, NAND, 3D XPoint memory, and NOR products share a number of common manufacturing processes, enabling us to leverage our product and process technology and certain resources and manufacturing infrastructure across these product lines.
+
+Our process for manufacturing semiconductor products is complex and involves numerous precise steps, including wafer fabrication, assembly, and test. Efficient production of semiconductor products requires utilization of advanced semiconductor manufacturing techniques and effectively deploying those techniques across multiple facilities. The primary determinants of manufacturing cost are process line-width, 3D non-volatile layers, NAND cell levels, process complexity (including the number of mask layers and fabrication steps), and manufacturing yield. Other factors include the cost and sophistication of manufacturing equipment, equipment utilization, cost of raw materials, labor productivity, package type, cleanliness of our manufacturing environment, and utilization of subcontractors to
+7 | 2020 10-K
+
+
+perform certain manufacturing processes. As we continue to increase our production of high value products and solutions, manufacturing costs are increasingly affected by the costs of ASIC controllers, advanced and complex packaging configurations, and testing at progressively higher performance speeds and quality levels. We continuously enhance our production processes, increase bits per wafer, transition to higher density products, and utilize advanced testing and assembly processes.
+
+Wafer fabrication occurs in a highly-controlled clean environment to minimize yield loss from contaminants. Despite stringent manufacturing controls, individual circuits may be nonfunctional or wafers may be scrapped due to equipment errors, minute impurities in materials, defects in photomasks, circuit design marginalities or defects, and contamination from airborne particles. Success of our manufacturing operations depends largely on minimizing defects and improving process margin to maximize yield of high-quality circuits. In this regard, we employ rigorous quality controls throughout the manufacturing, screening, and testing processes. We continue to heighten quality control as our product offerings expand into higher-end segments that require increasing performance targets.
+
+Our products are manufactured and sold in both packaged form and as unpackaged bare die. Our packaged products include packaged die, memory modules, and system-level solutions, such as SSDs, managed NAND, and MCPs. We assemble many products in-house and, in some cases, outsource assembly services for certain packaged die, memory modules, SSDs, and MCPs. We test our products at various stages in the manufacturing process, conduct numerous quality control inspections throughout the entire production flow, and perform high temperature burn-in on finished products. In addition, we use our proprietary AMBYX™ line of intelligent test and burn-in systems to perform simultaneous circuit tests of semiconductor die, capturing quality and reliability data and reducing testing time and cost.
+
+In recent years, we have produced an increasingly broad portfolio of products and system solutions, which enhances our ability to allocate resources to our most profitable products but also increases the complexity of our manufacturing and supply chain operations. Although our product lines generally use similar manufacturing processes, our costs can be affected by frequent conversions to new products, the allocation of manufacturing capacity to more complex, smaller-volume products, and the reallocation of manufacturing capacity across various product lines.
+
+
+Arrangements with Intel
+
+Since 2006, we and Intel owned and operated IMFT, a joint venture that manufactured semiconductor products exclusively for its members under long-term supply agreements at prices approximating cost. Through 2018, IMFT manufactured NAND memory and, subsequent to that time, manufactured 3D XPoint memory. In the first quarter of 2020, we acquired Intel’s interest in IMFT. (See “Part II – Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements – Equity,” “– Debt,” and “– Research and Development.”)
+
+
+Supply Chain, Materials, and Third-Party Service Providers
+
+Our supply chain and operations are dependent on the availability of materials that meet exacting standards and the use of third parties to provide us with components and services. We generally have multiple sources of supply for our materials and services. However, only a limited number of suppliers are capable of delivering certain materials and services that meet our standards and, in some cases, materials, components, or services are provided by a single supplier. Various factors could reduce the availability of materials or components such as chemicals, silicon wafers, gases, photoresist, controllers, substrates, lead frames, printed circuit boards, targets, and reticle glass blanks. Shortages or increases in lead times may occur from time to time in the future. Our manufacturing processes are also dependent on our relationships with third-party manufacturers of controllers used in a number of our products and with outsourced semiconductor assembly and test providers, contract manufacturers, logistic carriers, and other service providers. We monitor and manage supply-chain activities to mitigate risks associated with raw materials and service providers. Certain materials are primarily available in certain countries, including rare earth elements, minerals, and metals available primarily from China. Trade disputes or other political conditions, economic conditions, or public health issues, such as COVID-19, may limit our ability to obtain such materials. Although these rare earth and other materials are generally available from multiple suppliers, China is the
+mu-20200903_g5.jpg 8
+
+
+predominant producer of certain of these materials. In addition, we and/or our suppliers and service providers could be affected by tariffs, embargoes, or other trade restrictions, as well as laws and regulations enacted in response to concerns regarding climate change, conflict minerals, responsible sourcing practices, public health crises, or contagious disease outbreaks, which can limit the supply of our materials and/or increase the cost.
+
+
+Marketing and Customers
+
+We continue to transform how we interact with our customers from transactional opportunistic sales of standardized memory components to collaborative relationships where we work with our customers to understand their unique opportunities and challenges. Many of our customers require thorough review or qualification of our products. By engaging with our customers early in the product life-cycle to identify and design features and performance characteristics into our products, we are able to manufacture products that anticipate and address our customers’ changing needs. Collaborating with our customers on their design needs in changing end markets allows us to differentiate our memory and storage solutions, which provides greater value to our customers.
+
+Our semiconductor memory and storage products are offered under our Micron and Crucial brand names and through private labels. We market our semiconductor memory and storage products primarily through our own direct sales force and maintain sales or representative offices in our primary markets around the world. We sell our Crucial-branded products through a web-based customer direct sales channel as well as through channel and distribution partners. Our products are also offered through independent sales representatives, distributors, and retailers. Our independent sales representatives obtain orders, subject to final acceptance by us, and we then make shipments against these orders directly to customers or through our distributors. Our distributors carry our products in inventory and typically sell a variety of other semiconductor products, including competitors’ products. We maintain inventory at locations in close proximity to certain key customers to facilitate rapid delivery of products.
+
+In each of the last three years, approximately one-half of our total net sales were to our top ten customers. For other information regarding our concentrations and customers, see “Part II – Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements – Certain Concentrations.”
+
+Sales of our memory and storage products, and the transfer of related technical information and know-how, including support, are subject to laws and regulations governing international trade, including, but not limited to, export control, customs, and sanctions regulations administered by U.S. government agencies such as the Bureau of Industry and Security (“BIS”) of the U.S. Department of Commerce and the Office of Foreign Asset Control of the U.S. Department of the Treasury. Other jurisdictions, such as the European Union or China, also maintain, or may implement, similar laws and regulations with which we must comply. Any such laws or regulations may require that we either obtain licenses or other authorizations to export certain of our products or sell them to certain countries, companies, or individuals, or, in the absence of such licenses or authorizations, not export or sell the applicable products or transfer the related technical information and know-how to the affected countries, companies, or individuals. In addition, increased tariffs imposed by the countries in which our products are sold can increase the cost of our product to our customers. The laws and regulations that govern international trade change frequently, sometimes without advance notice. See “Item 1A. Risk Factors – Trade regulations have restricted our ability to sell our products to several customers, could restrict our ability to sell our products to other customers or in certain markets, or could otherwise restrict our ability to conduct operations” and “ – We face risks associated with our international sales and operations that could materially adversely affect our business, results of operations, or financial condition.”
+
+
+Backlog
+
+Because of volatile industry conditions, our customers are generally reluctant to enter into long-term, fixed-price contracts. Accordingly, new order volumes for our memory and storage products may fluctuate significantly. We typically accept orders with acknowledgment that the terms may be adjusted to reflect market conditions at the time of shipment. For these reasons, we do not believe that our order backlog as of any particular date is a reliable indicator of actual sales for any succeeding period.
+
+9 | 2020 10-K
+
+
+
+Product Warranty
+
+The design and manufacturing process for semiconductor products is highly complex and, as a result, it is possible that we may produce products that do not comply with applicable specifications, contain defects, or are otherwise incompatible with end uses. In accordance with industry practice, we generally provide a limited warranty that our products comply with applicable specifications existing at the time of delivery and will operate to those specifications during a stated warranty period. Under our standard terms and conditions of sale, liability for certain failures of product during a stated warranty period is usually limited to repair or replacement of defective items or return of, or a credit with respect to, amounts paid for such items. Under certain circumstances, we provide more extensive limited warranty coverage than that provided under our standard terms and conditions.
+
+
+Competition
+
+We face intense competition in the semiconductor memory and storage markets from a number of companies, including Intel; Kioxia Holdings Corporation (formerly Toshiba Memory Corporation); Samsung Electronics Co., Ltd.; SK Hynix Inc.; and Western Digital Corporation. Some of our competitors are large corporations or conglomerates that may have greater resources to invest in technology, capitalize on growth opportunities, and withstand downturns in the semiconductor markets in which we compete. Consolidation of industry competitors could put us at a competitive disadvantage. Our competitors generally seek to increase wafer capacity, improve yields, and reduce die size in their product designs which may result in significant increases in worldwide supply and downward pressure on prices. Increases in worldwide supply of semiconductor memory and storage also result from fabrication capacity expansions, either by way of new facilities, increased capacity utilization, or reallocation of other semiconductor production to semiconductor memory and storage production. Our competitors may increase capital expenditures resulting in future increases in worldwide supply. We, and some of our competitors, have plans to ramp, or are constructing or ramping, production at new fabrication facilities. If competitors are more successful at developing or implementing new product or process technology, their products could have cost or performance advantages. Certain of our memory and storage products are manufactured to industry standard specifications and, as such, have similar performance characteristics to those of our competitors. For these products, the principal competitive factors are generally price and performance characteristics including operating speed, power consumption, reliability, compatibility, size, and form factor. In addition, some of our competitors may benefit from policies and regulations that favor domestic companies or may not be subject to certain regulations or restrictions to which we are subject, which may allow them access to certain sales opportunities from which we may be restricted.
+
+Some governments may provide, or have provided, and may continue to provide, significant assistance, financial or otherwise, to some of our competitors or to new entrants and may intervene in support of national industries and/or competitors. In particular, we face the threat of increasing competition as a result of significant investment in the semiconductor industry by the Chinese government and various state-owned or affiliated entities that is intended to advance China’s stated national policy objectives. In addition, the Chinese government may restrict us from participating in the China market or may prevent us from competing effectively with Chinese companies. Some of our competitors may use aggressive pricing to obtain market share or take business of our key customers. Additionally, our customers may redirect their business to our competitors based on government policy, national preference, or other factors.
+
+
+
+
+
+Research and Development
+
+Our R&D efforts are focused primarily on development of industry leading memory and storage solutions that enable continuous improvement in performance and cost structure for our products. We are focused on developing new fundamentally different memory structures, materials, and packages designed to facilitate our transition to next generation products. Additional R&D efforts focus on the enablement of advanced computing, storage, and mobile memory architectures and the investigation of new opportunities that leverage our core semiconductor expertise. Product design and development efforts include high-density DDR4, DDR5, LPDDR4, LPDDR5, high-bandwidth memory, and advanced graphics DRAM; 3D NAND (including TLC and QLC technologies); 3D XPoint technology; mobile and storage solutions (including firmware and controllers); managed NAND; and other memory technologies and systems.
+
+To compete in the semiconductor memory and storage markets, we must continue to develop technologically advanced products and processes. The continued evolution of our semiconductor product offerings is necessary to meet expected market demand for memory and storage products and solutions. Our process, design, firmware, controller, package, and system development efforts occur at multiple locations across the world. Our primary R&D centers are located in Boise, Idaho, Singapore, Japan, Taiwan, Italy, China, India, Germany, and other sites in the United States.
+
+R&D expenses vary primarily with the number of development and pre-qualification wafers processed and end-product solutions developed, the cost of advanced equipment dedicated to new product and process development, and personnel costs. Because of the lead times necessary to manufacture our products, we typically begin to process wafers before completion of performance and reliability testing. Development of a product is deemed complete when it is qualified through reviews and tests for performance and reliability. R&D expenses can vary significantly depending on the timing of product qualification.
+
+
+Patents and Licenses
+
+As of September 3, 2020, we owned approximately 14,200 active U.S. patents and 6,500 active foreign patents. In addition, we have thousands of U.S. and foreign patent applications pending. Our patents have various terms expiring through 2040.
+
+From time to time, we sell and/or license our technology to other parties and continue to pursue opportunities to monetize our investments in our intellectual property through partnering and other arrangements. We have also jointly developed memory and storage product and process technology with third parties on a limited basis.
+
+We have a number of patent and intellectual property license agreements and have, from time to time, licensed or sold our intellectual property to third parties. Some of these license agreements require us to make one-time or periodic payments while others have resulted in us receiving payments. We may need to obtain additional licenses or renew existing license agreements in the future, and we may enter into additional sales or licenses of intellectual property and partnering arrangements. We are unable to predict whether these license agreements can be obtained or renewed on terms acceptable to us.
+
+
+Employees
+
+As of September 3, 2020, we had approximately 40,000 employees.
+
+
+11 | 2020 10-K
+
+
+Environmental Compliance
+
+We approach environmental stewardship and sustainability proactively to ensure we meet all government regulations regarding use of raw materials, discharges, climate change and energy use, emissions, and wastes from our manufacturing processes and address the evolving expectations of our investors, customers, team members, and other stakeholders. Compliance with the law and other compliance obligations is considered a minimum environmental expectation at Micron. Our wafer fabrication facilities continued to conform to the requirements of the International Organization for Standardization (“ISO”) 14001 environmental management systems standard to ensure we are continuously improving our performance. As part of the ISO 14001 framework, we have established a global environmental policy and meet requirements in terms of environmental aspects evaluation and control, compliance obligations, commitment, training, communication, control of documented information, operational control, emergency preparedness and response, and management review. While we have not experienced any material adverse effects to our operations from environmental regulations, changes in regulations could necessitate additional capital expenditures, modification of our operations, or other compliance actions.
+
+
+Information About Our Executive Officers
+
+Our executive officers are appointed annually by our Board of Directors and our directors are elected annually by our shareholders. All officers serve until their successors are duly chosen or elected and qualified, except in the case of earlier death, resignation, or removal.
+
+The following presents information, as of September 3, 2020, about our executive officers:
+											
+			
+mu-20200903_g6.jpg
+			April S. Arnzen
+		Senior Vice President, Human Resources
+		Ms. Arnzen, 49, joined us in December 1996 and has served in various leadership positions since that time. Ms. Arnzen was named Senior Vice President, Human Resources in June 2017. Ms. Arnzen holds a BS in Human Resource Management and Marketing from the University of Idaho and is a graduate of the Stanford Graduate School of Business Executive Program.
+			
+			
+mu-20200903_g7.jpg
+			Manish Bhatia
+		Executive Vice President, Global Operations
+		Mr. Bhatia, 48, joined us in October 2017 as our Executive Vice President of Global Operations. From May 2016 to October 2017, Mr. Bhatia served as the Executive Vice President of Silicon Operations at Western Digital Corporation. From March 2010 to May 2016, Mr. Bhatia held several executive roles at SanDisk Corporation including Executive Vice President of Worldwide Operations until it was acquired by Western Digital in May 2016. Mr. Bhatia holds a BS and MS in Mechanical Engineering and an MBA, each from the Massachusetts Institute of Technology.
+			
+			
+mu-20200903_g8.jpg
+			Michael W. Bokan
+		Senior Vice President, Worldwide Sales
+		Mr. Bokan, 59, joined us in 1996 and has served in various leadership positions since that time. Mr. Bokan was named Senior Vice President, Worldwide Sales in October 2018. Mr. Bokan holds a BS in Business Administration from Colorado State University.
+			
+
+
+mu-20200903_g5.jpg 12
+
+
+											
+			
+			
+mu-20200903_g9.jpg
+			Scott J. DeBoer
+		Executive Vice President, Technology Development
+		Dr. DeBoer, 54, joined us in February 1995 and has served in various leadership positions since that time. Dr. DeBoer was named Executive Vice President, Technology Development in June 2017. Dr. DeBoer holds a PhD in Electrical Engineering and an MS in Physics from Iowa State University. He completed his undergraduate degree at Hastings College.
+			
+			
+mu-20200903_g10.jpg
+	`		Paul Marosvari
+		Vice President, Chief Accounting Officer
+		
+Mr. Marosvari, 54, joined us in March 1996, and has held various leadership positions since that time. Mr. Marosvari was named Vice President, Chief Accounting Officer in October 2019. Mr. Marosvari holds a Bachelor of Business Administration in Accounting from Boise State University.
+
+On September 21, 2020, we announced that Mr. Marosvari intends to retire from Micron in early calendar year 2021. Scott Allen, 52, has been appointed by our Board of Directors to succeed Mr. Marosvari as Corporate Vice President and Chief Accounting Officer, effective as of October 26, 2020.
+			
+			
+mu-20200903_g11.jpg
+			Sanjay Mehrotra
+		President, Chief Executive Officer, and Director
+		Mr. Mehrotra, 62, joined us in May 2017 as our President, Chief Executive Officer, and Director. Mr. Mehrotra co-founded and led SanDisk Corporation as a start-up in 1988 until its eventual sale in May 2016, serving as its President and Chief Executive Officer from January 2011 to May 2016, and as a member of its Board of Directors from July 2010 to May 2016. Mr. Mehrotra served as a member of the Board of Directors for Cavium, Inc. from July 2009 until July 2018 and for Western Digital Corp. from May 2016 to February 2017. Mr. Mehrotra holds a BS and an MS in Electrical Engineering and Computer Science from the University of California, Berkeley and is a graduate of the Stanford Graduate School of Business Executive Program.
+			
+			
+mu-20200903_g12.jpg
+			Joel L. Poppen
+		Senior Vice President, Legal Affairs, General Counsel, and Corporate Secretary
+		
+Mr. Poppen, 56, joined us in October 1995 and has held various leadership positions since that time. Mr. Poppen was named Senior Vice President, Legal Affairs, General Counsel, and Corporate Secretary in June 2017. Mr. Poppen holds a BS in Electrical Engineering from the University of Illinois and a JD from the Duke University School of Law.
+			
+			
+mu-20200903_g13.jpg
+			Sumit Sadana
+		Executive Vice President and Chief Business Officer
+		
+Mr. Sadana, 51, joined us in June 2017 as our Executive Vice President and Chief Business Officer. From April 2010 to May 2016, Mr. Sadana served in various roles at SanDisk Corporation, including Executive Vice President, Chief Strategy Officer, and General Manager, Enterprise Solutions until it was acquired by Western Digital in May 2016. Mr. Sadana currently serves on the Board of Directors of Silicon Laboratories, Inc. Mr. Sadana holds a B.Tech. in Electrical Engineering from the Indian Institute of Technology, Kharagpur, India and an MS in Electrical Engineering from Stanford University.
+			
+			
+mu-20200903_g14.jpg
+			David A. Zinsner
+		Senior Vice President and Chief Financial Officer
+		Mr. Zinsner, 51, joined us in February 2018 as our Senior Vice President and Chief Financial Officer. From April 2017 to February 2018, Mr. Zinsner served as the President and Chief Operating Officer of Affirmed Networks. From January 2009 to April 2017, Mr. Zinsner served as the Senior Vice President of Finance and Chief Financial Officer of Analog Devices. From July 2005 to January 2009, Mr. Zinsner served as the Senior Vice President and Chief Financial Officer of Intersil Corporation. Mr. Zinsner holds an MBA, Finance and Accounting from Vanderbilt University and a BS in Industrial Management from Carnegie Mellon University.
+		
+
+There are no family relationships between any of our directors or executive officers.
+
+13 | 2020 10-K
+
+
+
+Available Information
+
+Our executive offices are located at 8000 South Federal Way, Boise, Idaho 83716-9632 and our telephone number is (208) 368-4000. Information about us is available at our website, www.micron.com. Also available on our website are our Corporate Governance Guidelines, Governance and Sustainability Committee Charter, Compensation Committee Charter, Audit Committee Charter, Finance Committee Charter, and Code of Business Conduct and Ethics. Any amendments or waivers of our Code of Business Conduct and Ethics will also be posted on our website within four business days of the amendment or waiver. Copies of these documents are available to shareholders upon request. Information contained or referenced on our website is not incorporated by reference and does not form a part of this Annual Report on Form 10-K.
+
+Investors and others should note that we announce material financial information about our business and products through a variety of means, including our investor relations website (investors.micron.com), filings with the U.S. Securities and Exchange Commission (“SEC”), press releases, public conference calls, and webcasts. We use these channels to achieve broad, non-exclusionary distribution of information to the public and for complying with our disclosure obligations under Regulation FD. Therefore, we encourage investors, the media, and others interested in our company to review the information we post on such channels.
+
+Our filings are available free of charge on our website as soon as reasonably practicable after they are electronically filed with, or furnished to, the SEC, including our annual and quarterly reports on Forms 10-K and 10-Q and current reports on Form 8-K, our proxy statements, and any amendments to those reports or statements. The SEC’s website, www.sec.gov, contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. The content on any website referred to in this Form 10-K is not incorporated by reference in this Form 10-K unless expressly noted.

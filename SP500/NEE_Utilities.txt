@@ -1,0 +1,478 @@
+
+OVERVIEW
+
+NEE is one of the largest electric power and energy infrastructure companies in North America and a leader in the renewable energy industry. NEE has two principal businesses, FPL, including Gulf Power, and NEER. FPL is the largest electric utility in the state of Florida and one of the largest electric utilities in the U.S. FPL’s strategic focus is centered on investing in generation, transmission and distribution facilities to deliver on its value proposition of low customer bills, high reliability, outstanding customer service and clean energy solutions for the benefit of its more than 5.6 million customers. NEER is the world's largest generator of renewable energy from the wind and sun, as well as a world leader in battery storage. NEER’s strategic focus is centered on the development, construction and operation of long-term contracted assets throughout the U.S. and Canada, primarily consisting of clean energy solutions such as renewable generation facilities and battery storage projects, and electric transmission facilities.
+
+In January 2019, NEE acquired Gulf Power, a rate-regulated electric utility engaged in the generation, transmission, distribution and sale of electric energy in northwest Florida. On January 1, 2021, FPL and Gulf Power merged, with FPL as the surviving entity. However, FPL will continue to be regulated as two separate ratemaking entities in the former service areas of FPL and Gulf Power until the FPSC approves consolidation of the FPL and Gulf Power rates and tariffs. FPL has notified the FPSC of its intent to submit such a request as part of its upcoming base rate proceeding to be initiated in March 2021 (see FPL - FPL Regulation - FPL Electric Rate Regulation - Base Rates - FPL 2021 Base Rate Proceeding). FPL and Gulf Power will continue to be separate operating segments of NEE as well as FPL, through 2021. For purposes of discussion herein, prior to the merger, the use of the term "FPL" represents FPL the legal entity, which excludes Gulf Power, and "Gulf Power" represents Gulf Power Company the legal entity; post-merger "FPL" represents the legal entity, including Gulf Power, "FPL segment" represents FPL, excluding Gulf Power, and "Gulf Power" represents an operating division of FPL.
+
+As described in more detail in the following sections, NEE seeks to create value in its two principal businesses by meeting its customers' needs more economically and more reliably than its competitors. NEE's strategy has resulted in profitable growth over sustained periods at both FPL and NEER. Management seeks to grow each business in a manner consistent with the varying opportunities available to it; however, management believes that the diversification and balance represented by FPL and NEER is a valuable characteristic of the enterprise and recognizes that each business contributes to NEE's financial strength in different ways. FPL and NEER share a common platform with the objective of lowering costs and creating efficiencies for their businesses. NEE and its subsidiaries, with employees totaling approximately 14,900 as of December 31, 2020, continue to develop and implement enterprise-wide initiatives focused on improving productivity, process effectiveness and quality.
+
+NEE's segments for financial reporting purposes are the FPL segment, Gulf Power and NEER. NEECH, a wholly owned subsidiary of NEE, owns and provides funding for NEE's operating subsidiaries, other than FPL and its subsidiaries. NEP, an affiliate of NextEra Energy Resources, acquires, manages and owns contracted clean energy projects with stable, long-term cash flows. See NEER section below for further discussion of NEP. The following diagram depicts NEE's simplified ownership structure:
+
+nee-20201231_g3.jpg
+4
+Table of Contents
+
+
+
+FPL
+
+FPL is a rate-regulated electric utility engaged primarily in the generation, transmission, distribution and sale of electric energy in Florida. FPL is the largest electric utility in the state of Florida and one of the largest electric utilities in the U.S. At December 31, 2020, FPL had approximately 28,400 MW of net generating capacity, approximately 76,200 circuit miles of transmission and distribution lines and 673 substations. FPL provides service to its electric customers through integrated transmission and distribution systems that link its generation facilities to its customers. In 2018, FPL acquired a retail gas business (see Note 6 - Other).
+On January 1, 2021, FPL and Gulf Power merged, with FPL as the surviving entity. However, FPL will continue to be regulated as two separate ratemaking entities in the former service areas of FPL and Gulf Power until the FPSC approves consolidation of the FPL and Gulf Power rates and tariffs. FPL and Gulf Power will continue to be separate operating segments of NEE as well as FPL, through 2021. See FPL - FPL Regulation - FPL Electric Rate Regulation - Base Rates - FPL 2021 Base Rate Proceeding and Gulf Power below. Following the merger, FPL now serves more than 11 million people through more than 5.6 million customer accounts. The following map shows FPL's service areas and plant locations, which cover most of the east and lower west coasts of Florida and are in eight counties throughout northwest Florida (see FPL Sources of Generation below).
+
+nee-20201231_g4.jpg
+
+
+
+
+5
+Table of Contents
+
+
+
+CUSTOMERS AND REVENUE
+
+FPL's primary source of operating revenues is from its retail customer base; it also serves a limited number of wholesale customers within Florida. The percentage of FPL's operating revenues and customer accounts by customer class were as follows:
+					
+nee-20201231_g5.jpg
+	
+nee-20201231_g6.jpg
+
+For both retail and wholesale customers, the prices (or rates) that FPL may charge are approved by regulatory bodies, by the FPSC in the case of retail customers and by the FERC in the case of wholesale customers. In general, under U.S. and Florida law, regulated rates are intended to cover the cost of providing service, including a reasonable rate of return on invested capital. Since the regulatory bodies have authority to determine the relevant cost of providing service and the appropriate rate of return on capital employed, there can be no guarantee that FPL will be able to earn any particular rate of return or recover all of its costs through regulated rates. See FPL Regulation below.
+
+FPL seeks to maintain attractive rates for its customers. Since rates are largely cost-based, maintaining low rates requires a strategy focused on developing and maintaining a low-cost position, including the implementation of ideas generated from cost savings initiatives. A common benchmark used in the electric power industry for comparing rates across companies is the price of 1,000 kWh of consumption per month for a residential customer. FPL's 2020 average bill for 1,000 kWh of monthly residential usage was well below both the average of reporting electric utilities within Florida and the July 2020 national average (the latest date for which this data is available) as indicated below:
+
+nee-20201231_g7.jpg
+6
+Table of Contents
+
+
+
+FRANCHISE AGREEMENTS AND COMPETITION
+
+FPL's service to its electric retail customers is provided primarily under franchise agreements negotiated with municipalities or counties. During the term of a franchise agreement, which is typically 30 years, the municipality or county agrees not to form its own utility, and FPL has the right to offer electric service to residents. At December 31, 2020, FPL held 192 franchise agreements with various municipalities and counties in Florida with varying expiration dates through 2050. These franchise agreements covered approximately 88% of FPL's retail customer base in Florida. At December 31, 2020, FPL also provided service to customers in 11 other municipalities and to 23 unincorporated areas within its service area without franchise agreements pursuant to the general obligation to serve as a public utility. FPL relies upon Florida law for access to public rights of way.
+
+Because any customer may elect to provide his/her own electric services, FPL effectively must compete for an individual customer's business. As a practical matter, few customers provide their own service at the present time since FPL's cost of service is lower than the cost of self-generation for the vast majority of customers. Changing technology, economic conditions and other factors could alter the favorable relative cost position that FPL currently enjoys; however, FPL seeks as a matter of strategy to ensure that it delivers superior value, in the form of low customer bills, high reliability, outstanding customer service and clean energy solutions.
+
+In addition to self-generation by residential, commercial and industrial customers, FPL also faces competition from other suppliers of electrical energy to wholesale customers and from alternative energy sources. In each of 2020, 2019 and 2018, operating revenues from wholesale and industrial electric customers combined represented approximately five percent of FPL's total operating revenues.
+
+For the building of new steam and solar generating capacity of 75 MW or greater, the FPSC requires investor-owned electric utilities, including FPL, to issue a request for proposal (RFP) except when the FPSC determines that an exception from the RFP process is in the public interest. The RFP process allows independent power producers and others to bid to supply the new generating capacity. If a bidder has the most cost-effective alternative, meets other criteria such as financial viability and demonstrates adequate expertise and experience in building and/or operating generating capacity of the type proposed, the investor-owned electric utility would seek to negotiate a purchased power agreement with the selected bidder and request that the FPSC approve the terms of the purchased power agreement and, if appropriate, provide the required authorization for the construction of the bidder's generating capacity.
+
+FPL SOURCES OF GENERATION
+
+At December 31, 2020, FPL's resources for serving load consisted of approximately 28,528 MW, of which 28,414 MW were from FPL-owned facilities and 114 MW were available through purchased power agreements. FPL owned and operated 30 units that used fossil fuels, primarily natural gas, with generating capacity of 22,008 MW and had a joint ownership interest in Scherer Unit No. 4, a coal unit located in Georgia which it does not operate, with net generating capacity of 634 MW. During 2020, FPL announced plans to retire Scherer Unit No. 4 in early 2022 (see Note 7 - Jointly-Owned Electric Plants). In addition, FPL owned, or had undivided interests in, and operated 4 nuclear units with net generating capacity totaling 3,502 MW (see Nuclear Operations below) and owned and operated 32 solar generation facilities with generating capacity totaling 2,270 MW. FPL customer usage and operating revenues are typically higher during the summer months, largely due to the prevalent use of air conditioning in its service area. Occasionally, unusually cold temperatures during the winter months result in significant increases in electricity usage for short periods of time.
+
+FPL is in the process of modernizing two generating units at its Lauderdale facility to a high-efficiency, clean-burning natural gas unit (Dania Beach Clean Energy Center). The Dania Beach Clean Energy Center is expected to provide approximately 1,200 MW of generating capacity and to be in service in 2022. FPL is also in the process of completing the construction of the final nine of twenty planned 74.5 MW solar power plants dedicated to its SolarTogether program, a voluntary community solar program approved by the FPSC that gives certain FPL electric customers an opportunity to participate directly in the expansion of solar energy and receive credits on their related monthly customer bill. The final nine plants are expected to be placed in service by mid-2021.
+
+7
+Table of Contents
+
+
+
+Fuel Sources
+
+FPL relies upon a mix of fuel sources for its generation facilities, the ability of some of its generation facilities to operate on both natural gas and oil, and on purchased power to maintain the flexibility to achieve a more economical fuel mix in order to respond to market and industry developments.
+
+nee-20201231_g8.jpgnee-20201231_g9.jpg
+					
+*approximately 71% has dual fuel capability	
+
+Significant Fuel and Transportation Contracts. At December 31, 2020, FPL had the following significant fuel and transportation contracts in place:
+
+•firm transportation contracts with seven different transportation suppliers for natural gas pipeline capacity for an aggregate maximum quantity of 3,169,000 MMBtu/day with expiration dates ranging from 2021 to 2042 (see Note 15 - Contracts);
+•several contracts for the supply of uranium and the conversion, enrichment and fabrication of nuclear fuel with expiration dates ranging from March 2021 through 2032; and
+•short- and medium-term natural gas supply contracts to provide a portion of FPL's anticipated needs for natural gas. The remainder of FPL's natural gas requirements is purchased in the spot market.
+
+Nuclear Operations
+
+At December 31, 2020, FPL owned, or had undivided interests in, and operated the four nuclear units in Florida discussed below. FPL's nuclear units are periodically removed from service to accommodate planned refueling and maintenance outages, including inspections, repairs and certain other modifications. Scheduled nuclear refueling outages require the unit to be removed from service for variable lengths of time.
+																				
+Facility		FPL's Ownership
+(MW)		Beginning of Next
+Scheduled Refueling Outage		Operating License
+Expiration Date
+St. Lucie Unit No. 1		981		April 2021		2036
+St. Lucie Unit No. 2		
+   840(a)
+		August 2021		2043
+Turkey Point Unit No. 3		837		October 2021		2052
+Turkey Point Unit No. 4		844		March 2022		2053
+______________________
+(a)    Excludes 147 MW operated by FPL but owned by non-affiliates.
+
+NRC regulations require FPL to submit a plan for decontamination and decommissioning five years before the projected end of plant operation. FPL's current plans, under the existing operating licenses, provide for St. Lucie Unit No. 1 to be shut down in 2036 with decommissioning activities to be integrated with the dismantlement of St. Lucie Unit No. 2 commencing in 2043. Current plans provide for the dismantlement of Turkey Point Units Nos. 3 and 4 with decommissioning activities commencing in 2052 and 2053, respectively.
+
+8
+Table of Contents
+
+
+
+FPL's nuclear facilities use both on-site storage pools and dry storage casks to store spent nuclear fuel generated by these facilities, which are expected to provide sufficient storage of spent nuclear fuel that is generated at these facilities through license expiration.
+
+FPL ENERGY MARKETING AND TRADING
+
+FPL's Energy Marketing & Trading division (EMT) buys and sells wholesale energy commodities, such as natural gas, oil and electricity. EMT procures natural gas and oil for FPL's use in power generation and sells excess natural gas, oil and electricity. EMT also uses derivative instruments (primarily swaps, options and forwards) to manage the physical and financial risks inherent in the purchase and sale of fuel and electricity. Substantially all of the results of EMT's activities are passed through to customers in the fuel or capacity clauses. See Management's Discussion - Energy Marketing and Trading and Market Risk Sensitivity and Note 3.
+
+FPL REGULATION
+
+FPL's operations are subject to regulation by a number of federal, state and other organizations, including, but not limited to, the following:
+
+•the FPSC, which has jurisdiction over retail rates, service area, issuances of securities, planning, siting and construction of facilities, among other things;
+•the FERC, which oversees the acquisition and disposition of generation, transmission and other facilities, transmission of electricity and natural gas in interstate commerce, proposals to build and operate interstate natural gas pipelines and storage facilities, and wholesale purchases and sales of electric energy, among other things;
+•the NERC, which, through its regional entities, establishes and enforces mandatory reliability standards, subject to approval by the FERC, to ensure the reliability of the U.S. electric transmission and generation system and to prevent major system blackouts;
+•the NRC, which has jurisdiction over the operation of nuclear power plants through the issuance of operating licenses, rules, regulations and orders; and
+•the EPA, which has the responsibility to maintain and enforce national standards under a variety of environmental laws, in some cases delegating authority to state agencies. The EPA also works with industries and all levels of government, including federal and state governments, in a wide variety of voluntary pollution prevention programs and energy conservation efforts.
+
+FPL Electric Rate Regulation
+
+The FPSC sets rates at a level that is intended to allow the utility the opportunity to collect from retail customers total revenues (revenue requirements) equal to its cost of providing service, including a reasonable rate of return on invested capital. To accomplish this, the FPSC uses various ratemaking mechanisms, including, among other things, base rates and cost recovery clauses. Although FPL and Gulf Power merged effective January 1, 2021, FPL will continue to be regulated as two separate rate making entities until the FPSC approves consolidation of the FPL and Gulf Power rates and tariffs (see FPL 2021 Base Rate Proceeding below).
+
+Base Rates. In general, the basic costs of providing electric service, other than fuel and certain other costs, are recovered through base rates, which are designed to recover the costs of constructing, operating and maintaining the utility system. These basic costs include O&M expenses, depreciation and taxes, as well as a return on investment in assets used and useful in providing electric service (rate base). At the time base rates are established, the allowed rate of return on rate base approximates the FPSC's determination of the utility's estimated weighted-average cost of capital, which includes its costs for outstanding debt and an allowed return on common equity. The FPSC monitors the utility's actual regulatory ROE through a surveillance report that is filed monthly with the FPSC. The FPSC does not provide assurance that any regulatory ROE will be achieved. Base rates are determined in rate proceedings or through negotiated settlements of those proceedings. Proceedings can occur at the initiative of the utility or upon action by the FPSC. Existing base rates remain in effect until new base rates are approved by the FPSC.
+
+FPL Base Rates Effective January 2017 - In December 2016, the FPSC issued a final order approving a stipulation and settlement between FPL and several intervenors in FPL's base rate proceeding (2016 rate agreement). Key elements of the 2016 rate agreement, which became effective in January 2017, include, among other things, the following:
+
+•New retail base rates and charges were established resulting in the following increases in annualized retail base revenues:
+◦$400 million beginning January 1, 2017;
+◦$211 million beginning January 1, 2018; and
+◦$200 million beginning April 1, 2019 for a new approximately 1,720 MW natural gas-fired combined-cycle unit in Okeechobee County, Florida (Okeechobee Clean Energy Center) that achieved commercial operation on March 31, 2019.
+9
+Table of Contents
+
+
+
+•In addition, FPL received base rate increases in 2018 through 2020 associated with the addition of approximately 1,200 MW of new solar generating capacity that became operational during that timeframe.
+•FPL's allowed regulatory ROE is 10.55%, with a range of 9.60% to 11.60%. If FPL's earned regulatory ROE falls below 9.60%, FPL may seek retail base rate relief. If the earned regulatory ROE rises above 11.60%, any party with standing, other than FPL, may seek a review of FPL's retail base rates.
+•Subject to certain conditions, FPL may amortize, over the term of the 2016 rate agreement, up to $1.0 billion of depreciation reserve surplus plus the reserve amount that remained under FPL's previous rate agreement (approximately $250 million), provided that in any year of the 2016 rate agreement FPL must amortize at least enough reserve to maintain a 9.60% earned regulatory ROE but may not amortize any reserve that would result in an earned regulatory ROE in excess of 11.60%.
+•Future storm restoration costs would be recoverable on an interim basis beginning 60 days from the filing of a cost recovery petition, but capped at an amount that could produce a surcharge of no more than $4 for every 1,000 kWh of usage on residential bills during the first 12 months of cost recovery. Any additional costs would be eligible for recovery in subsequent years. If storm restoration costs exceed $800 million in any given calendar year, FPL may request an increase to the $4 surcharge to recover amounts above $400 million. See Note 1 - Storm Funds, Storm Reserves and Storm Cost Recovery.
+
+FPL 2021 Base Rate Proceeding - On January 11, 2021, FPL filed a formal notification with the FPSC indicating its intent to initiate a base rate proceeding by submitting a four-year rate plan that would begin in January 2022 replacing the 2016 rate agreement. As Gulf Power legally merged with FPL on January 1, 2021, the notification indicates that the plan will include the total revenue requirements of the combined utility system, reflecting the legal and operational consolidation of Gulf Power into FPL. The notification also states that, based on preliminary estimates, FPL expects to request a general base annual revenue requirement increase of approximately $1.1 billion effective January 2022 and a subsequent annual increase of approximately $615 million effective January 2023. The plan is also expected to request authority for a Solar Base Rate Adjustment (SoBRA) mechanism to recover, subject to FPSC review, the revenue requirements of up to 900 MW of solar projects in 2024 and up to 900 MW in 2025. If the full amount of new solar capacity allowed under the proposed SoBRA mechanism were constructed, FPL’s preliminary estimate is that it would result in base rate adjustments of approximately $140 million in 2024 and $140 million in 2025. The proposed SoBRA mechanism adjustments would be offset, in part, by a reduction in FPL’s fuel costs. Under the filing, FPL does not expect to request further adjustments to general base annual revenue requirements to be effective before January 2026. In addition, FPL expects to propose an allowed regulatory ROE midpoint of 11.50%, which includes a 50 basis point incentive for superior performance. FPL expects to file its formal request to initiate a base rate proceeding in March 2021.
+
+Cost Recovery Clauses. Cost recovery clauses are designed to permit full recovery of certain costs and provide a return on certain assets allowed to be recovered through various clauses. Cost recovery clause costs are recovered through levelized monthly charges per kWh or kW, depending on the customer's rate class. These cost recovery clause charges are calculated annually based on estimated costs and estimated customer usage for the following year, plus or minus true-up adjustments to reflect the estimated over or under recovery of costs for the current and prior periods. An adjustment to the levelized charges may be approved during the course of a year to reflect revised estimates. FPL recovers costs from customers through the following clauses:
+
+•Fuel - primarily fuel costs, the most significant of the cost recovery clauses in terms of operating revenues (see Note 1 - Rate Regulation);
+•Storm Protection Plan - costs associated with an FPSC-approved transmission and distribution storm protection plan, which includes costs for hardening of overhead transmission and distribution lines, undergrounding of certain distribution lines and vegetation management;
+•Capacity - primarily certain costs associated with the acquisition of several electric generation facilities (see Note 1 - Rate Regulation);
+•Energy Conservation - costs associated with implementing energy conservation programs; and
+•Environmental - certain costs of complying with federal, state and local environmental regulations enacted after April 1993 and costs associated with three of FPL's solar facilities placed in service prior to 2016.
+
+The FPSC has the authority to disallow recovery of costs that it considers excessive or imprudently incurred. These costs may include, among others, fuel and O&M expenses, the cost of replacing power lost when fossil and nuclear units are unavailable, storm restoration costs and costs associated with the construction or acquisition of new facilities.
+
+FERC
+
+The Federal Power Act grants the FERC exclusive ratemaking jurisdiction over wholesale sales of electricity and the transmission of electricity and natural gas in interstate commerce. Pursuant to the Federal Power Act, electric utilities must maintain tariffs and rate schedules on file with the FERC which govern the rates, terms and conditions for the provision of FERC-jurisdictional wholesale power and transmission services. The Federal Power Act also gives the FERC authority to certify and oversee an electric reliability organization with authority to establish and independently enforce mandatory reliability standards applicable to all users, owners and operators of the bulk-power system. See NERC below. Electric utilities are subject to accounting, record-keeping and reporting requirements administered by the FERC. The FERC also places certain limitations on transactions between electric utilities and their affiliates.
+
+10
+Table of Contents
+
+
+
+NERC
+
+The NERC has been certified by the FERC as an electric reliability organization. The NERC's mandate is to ensure the reliability and security of the North American bulk-power system through the establishment and enforcement of reliability standards approved by FERC. The NERC's regional entities also enforce reliability standards approved by the FERC. FPL is subject to these reliability standards and incurs costs to ensure compliance with continually heightened requirements, and can incur significant penalties for failing to comply with them.
+
+FPL Environmental Regulation
+
+FPL is subject to environmental laws and regulations as described in the NEE Environmental Matters section below. FPL expects to seek recovery through FPL's and Gulf Power's respective environmental clauses for compliance costs associated with any new environmental laws and regulations.
+
+FPL HUMAN CAPITAL
+
+FPL had approximately 9,100 employees at December 31, 2020, with approximately 31% of these employees represented by the International Brotherhood of Electrical Workers (IBEW), substantially all of which are under a collective bargaining agreement with FPL that expires January 31, 2022.
+
+GULF POWER
+
+Gulf Power, a part of FPL's rate-regulated electric utility system beginning January 1, 2021, is engaged in the generation, transmission, distribution and sale of electric energy in northwest Florida, and is subject to similar regulations described in FPL - FPL Regulation above. Gulf Power operates under a separate base rate settlement agreement, which took effect July 1, 2017, that provides for an allowed regulatory ROE of 10.25%, with a range of 9.25% to 11.25%. As of December 31, 2020, Gulf Power served approximately 474,000 customers in eight counties throughout northwest Florida and had approximately 2,400 MW of primarily fossil-fueled electric net generating capacity and 9,500 miles of transmission and distribution lines located primarily in Florida. See FPL - FPL Regulation - FPL Electric Rate Regulation - Base Rates - FPL 2021 Base Rate Proceeding.
+On January 1, 2019, NEE completed the acquisition of all of the outstanding common shares of Gulf Power under a stock purchase agreement with The Southern Company dated May 20, 2018, as amended, for approximately $4.44 billion in cash consideration and the assumption of approximately $1.3 billion of Gulf Power debt. On January 1, 2021, Gulf Power merged with FPL, with FPL as the surviving entity. FPL and Gulf Power will continue to be separate operating segments of NEE as well as FPL, through 2021. See Note 6 - Gulf Power Company and - Merger of FPL and Gulf Power for further discussion.
+NEER
+
+NEER, comprised of NEE's competitive energy and rate-regulated transmission businesses, is a diversified clean energy business with a strategy that emphasizes the development, construction and operation of long-term contracted assets with a focus on renewable projects. NEE reports NextEra Energy Resources and NEET, a rate-regulated transmission business, on a combined basis for segment reporting purposes, and the combined segment is referred to as NEER. The NEER segment currently owns, develops, constructs, manages and operates electric generation facilities in wholesale energy markets in the U.S. and Canada. NEER, with approximately 23,900 MW of total net generating capacity at December 31, 2020, is one of the largest wholesale generators of electric power in the U.S., including approximately 23,370 MW of net generating capacity across 38 states and 520 MW of net generating capacity in 4 Canadian provinces. At December 31, 2020, NEER operates facilities, in which it has ownership interests, with a total generating capacity of 27,300 MW. NEER produces the majority of its electricity from clean and renewable sources as described more fully below. In addition, NEER develops and constructs battery storage projects, which when combined with its renewable projects, serve to enhance its ability to meet customer needs for a nearly firm generation source. NEER is the world's largest generator of renewable energy from the wind and sun based on 2020 MWh produced on a net generation basis, as well as a world leader in battery storage. NEER also owns and operates rate-regulated transmission facilities, primarily in Texas and California, and transmission lines that connect its electric generation facilities to the electric grid, which are comprised of approximately 215 substations and 1,910 circuit miles of transmission lines at December 31, 2020.
+
+NEER also engages in energy-related commodity marketing and trading activities, including entering into financial and physical contracts. These contracts primarily include power and fuel commodities and their related products for the purpose of providing full energy and capacity requirements services, primarily to distribution utilities in certain markets, and offering customized power and fuel and related risk management services to wholesale customers, as well as to hedge the production from NEER's generation assets that is not sold under long-term power supply agreements. In addition, NEER participates in natural gas, natural gas liquids and oil production through operating and non-operating ownership interests, and in pipeline infrastructure construction, management and operations, through either wholly owned subsidiaries or noncontrolling or joint venture interests, hereafter referred to as the gas infrastructure business. NEER also hedges the expected output from its gas infrastructure production assets to protect against price movements.
+
+11
+Table of Contents
+
+
+
+NEP - NEP acquires, manages and owns contracted clean energy projects with stable long-term cash flows through a limited partner interest in NEP OpCo. NEP's projects include energy projects contributed by or acquired from NextEra Energy Resources, as well as ownership interests in contracted natural gas pipelines acquired from third parties. NextEra Energy Resources' indirect limited partnership interest in NEP OpCo based on the number of outstanding NEP OpCo common units was approximately 57.2% at December 31, 2020. NextEra Energy Resources accounts for its ownership interest in NEP as an equity method investment with its earnings/losses from NEP as equity in earnings (losses) of equity method investees and accounts for its asset sales to NEP as third-party sales in its consolidated financial statements. See Note 1 - Basis of Presentation. At December 31, 2020, NEP owned, or had an ownership interest in, a portfolio of 38 wind and solar projects with generating capacity totaling approximately 5,730 MW and in contracted natural gas pipelines, all located in the U.S. as further discussed in Generation and Other Operations. NextEra Energy Resources operates all of the energy projects in NEP's portfolio and its ownership interest in the portfolio's generating capacity was approximately 3,379 MW at December 31, 2020.
+
+GENERATION AND OTHER OPERATIONS
+
+NEER sells products associated with its generation facilities (energy, capacity, renewable energy credits (RECs) and ancillary services) in competitive markets in regions where those facilities are located. Customer transactions may be supplied from NEER generation facilities or from purchases in the wholesale markets, or from a combination thereof. See Markets and Competition below.
+
+At December 31, 2020, NEER managed or participated in the management of essentially all of the following generation projects, natural gas pipelines and transmission facilities that it wholly owned or in which it had an ownership interest.
+
+nee-20201231_g10.jpg
+12
+Table of Contents
+
+
+
+Generation Assets and Other Operations
+
+nee-20201231_g11.jpg
+		
+*Primarily natural gas
+Generation Assets.
+
+NEER's portfolio of generation assets primarily consist of generation facilities with long-term power sales agreements for substantially all of their capacity and/or energy output. Information related to contracted generation assets at December 31, 2020 was as follows:
+•represented approximately 21,983 MW of total net generating capacity;
+•weighted-average remaining contract term of the power sales agreements and the remaining life of the PTCs associated with repowered wind facilities of approximately 16 years, based on forecasted contributions to earnings and forecasted amounts of electricity produced by the repowered wind facilities; and
+•contracts for the supply of uranium and the conversion, enrichment and fabrication of nuclear fuel have expiration dates ranging from March 2021 through 2033 (see Note 15 - Contracts).
+
+NEER's merchant generation assets primarily consist of generation facilities that do not have long-term power sales agreements to sell their capacity and/or energy output and therefore require active marketing and hedging. Merchant generation assets at December 31, 2020 represented approximately 1,913 MW of total net generating capacity, including 1,102 MW from nuclear generation and 805 MW from other peak generation facilities, and are primarily located in the Northeast region of the U.S. NEER utilizes swaps, options, futures and forwards to lock in pricing and manage the commodity price risk inherent in power sales and fuel purchases.
+
+13
+Table of Contents
+
+
+
+Other Operations.
+
+Gas Infrastructure Business - At December 31, 2020, NextEra Energy Resources had ownership interests in natural gas pipelines, the most significant of which are discussed below, and in oil and gas shale formations located primarily in the Midwest and South regions of the U.S.
+																													
+	Miles
+of
+Pipeline		Pipeline
+Location/Route		Ownership		Total
+Net Capacity
+(per day)		Actual/Expected
+In-Service
+Dates
+Operational:									
+Texas Pipelines(a)
+	542		South Texas		53.8%	
+(b)
+	2.19 Bcf		1950s - 2015
+Sabal Trail(c)
+	517		Southwestern Alabama to Central Florida		42.5%		0.43 Bcf		June 2017 - May 2020
+Florida Southeast Connection(c)
+	169		Central Florida to South Florida		100%		0.64 Bcf		June 2017
+Central Penn Line(d)
+	185		Northeastern Pennsylvania to Southeastern
+Pennsylvania		22.3%	
+(b)
+	0.29 Bcf - 0.40 Bcf		October 2018 - Mid-2022
+Under Construction:									
+Mountain Valley Pipeline(e)
+	303		Northwestern West Virginia to Southern
+Virginia 		31.5%		0.63 Bcf		2022
+______________________
+(a)    A NEP portfolio of seven natural gas pipelines, of which a third party owns a 10% interest in a 120-mile pipeline with a daily capacity of approximately 2.3 Bcf. Approximately 1.71 Bcf per day of net capacity is contracted with firm ship-or-pay contracts that have expiration dates ranging from 2021 to 2035.
+(b)    Ownership percentage based on NextEra Energy Resources limited partnership interest in NEP OpCo common units.
+(c)    See Note 15 - Contracts for a discussion of transportation contracts with FPL.
+(d)    NEP has an indirect equity method investment in the Central Penn Line (CPL) which represents an approximately 39% aggregate ownership interest in the CPL.
+(e)    Completion of construction of the natural gas pipeline is subject to certain conditions, including applicable regulatory approvals and the resolution of legal challenges. Also, see Note 4 - Nonrecurring Fair Value Measurements for a discussion of an impairment charge and Note 15 - Contracts for a discussion of a transportation contract with a NextEra Energy Resources subsidiary.
+
+Rate-Regulated Transmission - At December 31, 2020, certain entities within the NEER segment had ownership interests in rate-regulated transmission facilities, the most significant of which are discussed below, which facilities are located primarily in ERCOT, CAISO and Independent Electricity System Operator (IESO) jurisdictions.
+																																									
+	Miles		Substations		Kilovolt		
+Location		Rate Regulator		
+Ownership		Actual/Expected
+In-Service
+Dates
+Operational:													
+Lone Star
+	330		6		345		Central Texas		PUCT		100%		2013
+Trans Bay Cable
+	53		2		
+200 DC(a)
+		Northern California		FERC		100%		2010
+Under Construction:													
+NextBridge Infrastructure
+	280		-		230		Ontario, Canada		OEB		50%		First Quarter of 2022
+______________________
+(a)    Direct current
+
+In September 2020, a wholly owned subsidiary of NEET entered into agreements to acquire GridLiance Holdco, LP and GridLiance GP, LLC, which owns and operates three FERC-regulated transmission utilities with approximately 700 miles of high-voltage transmission lines across six states. The acquisition is expected to close in the first half of 2021, and is subject to, among other things, certain regulatory approvals. See Note 6 - GridLiance.
+
+Customer Supply and Proprietary Power and Gas Trading - NEER provides commodities-related products to customers, engages in energy-related commodity marketing and trading activities and includes the operations of a retail electricity provider. Through NextEra Energy Resources subsidiary PMI, NEER:
+•manages risk associated with fluctuating commodity prices and optimizes the value of NEER's power generation and gas infrastructure production assets through the use of swaps, options, futures and forwards;
+•sells output from NEER's plants that is not sold under long-term contracts and procures fossil fuel for use by NEER's generation fleet;
+•provides full energy and capacity requirements to customers; and
+•markets and trades energy-related commodity products and provides a wide range of electricity and fuel commodity products as well as marketing and trading services to customers.
+
+14
+Table of Contents
+
+
+
+NEER Generation Assets Fuel/Technology Mix
+
+NextEra Energy Resources utilized the following mix of fuel sources for generation facilities in which it has an ownership interest:
+
+
+nee-20201231_g12.jpg
+		
+*Primarily natural gas
+Wind Facilities
+
+•located in 20 states in the U.S. and 4 provinces in Canada;
+•operated a total generating capacity of 18,551 MW at December 31, 2020;
+•ownership interests in a total net generating capacity of 16,073 MW at December 31, 2020;
+◦all MW are from contracted wind assets located primarily throughout Texas and the Midwest and West regions of the U.S. and Canada;
+◦added approximately 2,299 MW of new generating capacity and repowered wind generating capacity totaling 1,412 MW in the U.S. in 2020 and sold assets to NEP (see Note 1 - Disposal of Businesses/Assets and - Sale of Noncontrolling Ownership Interests).
+
+Solar Facilities
+
+•located in 27 states in the U.S.;
+•operated PV and solar thermal facilities with a total generating capacity of 3,629 MW at December 31, 2020;
+•ownership interests in PV and solar thermal facilities with a total net generating capacity of 3,160 MW at December 31, 2020;
+◦essentially all MW are from contracted solar facilities located primarily throughout the West and South regions of the U.S.;
+◦added approximately 625 MW of generating capacity in the U.S. in 2020 (see Note 1 - Disposal of Businesses/Assets and - Sale of Noncontrolling Ownership Interests for asset sales, including sales to NEP).
+
+Nuclear Facilities
+
+At December 31, 2020, NextEra Energy Resources owned, or had undivided interests in, and operated the three nuclear units discussed below. NEER's nuclear units are periodically removed from service to accommodate planned refueling and maintenance outages, including inspections, repairs and certain other modifications. Scheduled nuclear refueling outages require the unit to be removed from service for variable lengths of time.
+																																
+Facility		Location		Ownership
+(MW)		Portfolio
+Category		Next Scheduled
+Refueling Outage		Operating License
+Expiration Date
+Seabrook		New Hampshire		
+1,102(a)
+		Merchant		October 2021		2050
+Point Beach Unit No. 1		Wisconsin		595		
+Contracted(b)
+		March 2022		
+2030(c)
+Point Beach Unit No. 2		Wisconsin		595		
+Contracted(b)
+		October 2021		
+2033(c)
+______________________
+(a)    Excludes 147 MW operated by NEER but owned by non-affiliates.
+(b)    NEER sells all of the output of Point Beach Units Nos. 1 and 2 under long-term contracts through their current operating license expiration dates.
+(c)    In 2020, NEER filed an application with the NRC to renew both Point Beach operating licenses for an additional 20 years. License renewal is pending.
+15
+Table of Contents
+
+
+
+NEER is responsible for all nuclear unit operations and the ultimate decommissioning of the nuclear units, the cost of which is shared on a pro-rata basis by the joint owners for the jointly-owned units. NRC regulations require plant owners to submit a plan for decontamination and decommissioning five years before the projected end of plant operation. NEER's nuclear facilities use both on-site storage pools and dry storage casks to store spent nuclear fuel generated by these facilities, which are expected to provide sufficient storage of spent nuclear fuel that is generated at these facilities through current license expiration.
+
+NEER also owns an approximately 70% interest in Duane Arnold Energy Center (Duane Arnold), a nuclear facility located in Iowa that ceased operations in August 2020. NEER submitted a site-specific cost estimate and plan for decontamination and decommissioning to the NRC. All spent nuclear fuel housed onsite is expected to be in long-term dry storage within three years of plant shutdown and until the DOE is able to take possession. NEER estimates that the cost of decommissioning Duane Arnold is fully funded and expects completion by approximately 2080.
+
+Policy Incentives for Renewable Energy Projects
+
+U.S. federal, state and local governments have established various incentives to support the development of renewable energy projects. These incentives include accelerated tax depreciation, PTCs, ITCs, cash grants, tax abatements and RPS programs. Pursuant to the U.S. federal Modified Accelerated Cost Recovery System, wind and solar projects are fully depreciated for tax purposes over a five-year period even though the useful life of such projects is generally much longer than five years.
+
+Owners of utility-scale wind facilities are eligible to claim an income tax credit (the PTC, or an ITC in lieu of the PTC) upon initially achieving commercial operation. The PTC is determined based on the amount of electricity produced by the wind facility during the first ten years of commercial operation. This incentive was created under the Energy Policy Act of 1992 and has been extended several times. Alternatively, an ITC equal to 30% of the cost of a wind facility may be claimed in lieu of the PTC. Owners of solar facilities are eligible to claim a 30% ITC for new solar facilities. Previously, owners of solar facilities could have elected to receive an equivalent cash payment from the U.S. Department of Treasury for the value of the 30% ITC (convertible ITC) for qualifying solar facilities where construction began before the end of 2011 and the facilities were placed in service before 2017. In order to qualify for the PTC (or an ITC in lieu of the PTC) for wind or ITC for solar, construction of a facility must begin before a specified date and the taxpayer must maintain a continuous program of construction or continuous efforts to advance the project to completion. The Internal Revenue Service (IRS) issued guidance stating that the safe harbor for continuous efforts and continuous construction requirements will generally be satisfied if the facility is placed in service no more than four years after the year in which construction of the facility began (extended to five years for a facility that began construction in 2016 or 2017). The IRS also confirmed that retrofitted wind facilities may re-qualify for PTCs or ITCs pursuant to the 5% safe harbor for the begin construction requirement, as long as the cost basis of the new investment is at least 80% of the facility’s total fair value. Tax credits for qualifying wind and solar projects are subject to the following schedule.
+																																																					
+	
+Year construction of project begins(a)
+	2016		2017		2018		2019		2020		2021		2022		2023		2024 and beyond
+PTC(b)
+	100 	%		80 	%		60 	%		40 	%		60 	%		60 	%		-		-		-
+Wind ITC(c)
+	30 	%		24 	%		18 	%		12 	%		18 	%		18 	%		-		-		-
+Solar ITC(d)
+	30 	%		30 	%		30 	%		30 	%		26 	%		26 	%		26 	%		22 	%		10 	%
+_________________________
+(a)    A project must be placed in service no more than four years after the year in which construction of the project began (extended to five years for a facility that began construction in 2016 or 2017) to qualify for the PTC or ITC.
+(b)    Percentage of the full PTC available for wind projects that begin construction during the applicable year.
+(c)    Percentage of eligible project costs that can be claimed as ITC by wind projects that begin construction during the applicable year.
+(d)    Percentage of eligible project costs that can be claimed as ITC by solar projects that begin construction during the applicable year. ITC is limited to 10% for solar projects not placed in service before January 1, 2026.
+
+Other countries, including Canada, provide for incentives like feed-in-tariffs for renewable energy projects. The feed-in-tariffs promote renewable energy investments by offering long-term contracts to renewable energy producers, typically based on the cost of generation of each technology.
+
+MARKETS AND COMPETITION
+
+Electricity markets in the U.S. and Canada are regional and diverse in character. All are extensively regulated, and competition in these markets is shaped and constrained by regulation. The nature of the products offered varies based on the specifics of regulation in each region. Generally, in addition to the natural constraints on pricing freedom presented by competition, NEER may also face specific constraints in the form of price caps, or maximum allowed prices, for certain products. NEER's ability to sell the output of its generation facilities may also be constrained by available transmission capacity, which can vary from time to time and can have a significant impact on pricing.
+
+The degree and nature of competition is different in wholesale markets than in retail markets. During 2020, 2019 and 2018, approximately 85% of NEER's revenue was derived from wholesale electricity markets.
+
+Wholesale power generation is a capital-intensive, commodity-driven business with numerous industry participants. NEER primarily competes on the basis of price, but believes the green attributes of NEER's generation assets, its creditworthiness and
+16
+Table of Contents
+
+
+
+its ability to offer and manage reliable customized risk solutions to wholesale customers are competitive advantages. Wholesale power generation is a regional business that is highly fragmented relative to many other commodity industries and diverse in terms of industry structure. As such, there is a wide variation in terms of the capabilities, resources, nature and identity of the companies NEER competes with depending on the market. In wholesale markets, customers' needs are met through a variety of means, including long-term bilateral contracts, standardized bilateral products such as full requirements service and customized supply and risk management services.
+
+In general, U.S. and Canadian electricity markets encompass three classes of services: energy, capacity and ancillary services. Energy services relate to the physical delivery of power; capacity services relate to the availability of MW capacity of a power generation asset; and ancillary services are other services that relate to power generation assets, such as load regulation and spinning and non-spinning reserves. The exact nature of these classes of services is defined in part by regional tariffs. Not all regions have a capacity services class, and the specific definitions of ancillary services vary from region to region.
+
+RTOs and ISOs exist throughout much of North America to coordinate generation and transmission across wide geographic areas and to run markets. NEER operates in all RTO and ISO jurisdictions. At December 31, 2020, NEER also had generation facilities with ownership interests in a total net generating capacity of approximately 5,913 MW that fall within reliability regions that are not under the jurisdiction of an established RTO or ISO, including 3,641 MW within the Western Electricity Coordinating Council and 1,303 MW within the SERC Reliability Corporation. Although each RTO and ISO may have differing objectives and structures, some benefits of these entities include regional planning, managing transmission congestion, developing larger wholesale markets for energy and capacity, maintaining reliability and facilitating competition among wholesale electricity providers. NEER has operations that fall within the following RTOs and ISOs:
+
+nee-20201231_g13.jpg
+
+NEER competes in different regions to differing degrees, but in general it seeks to enter into long-term bilateral contracts for the full output of its generation facilities. At December 31, 2020, approximately 92% of NEER's net generating capacity was committed under long-term contracts. Where long-term contracts are not in effect, NEER sells the output of its facilities into daily spot markets. In such cases, NEER will frequently enter into shorter term bilateral contracts, typically of less than three years duration, to hedge the price risk associated with selling into a daily spot market. Such bilateral contracts, which may be hedges
+17
+Table of Contents
+
+
+
+either for physical delivery or for financial (pricing) offset, serve to protect a portion of the revenue that NEER expects to derive from the associated generation facility. Contracts that serve the economic purpose of hedging some portion of the expected revenue of a generation facility but are not recorded as hedges under GAAP are referred to as “non-qualifying hedges” for adjusted earnings purposes. See Management's Discussion - Overview - Adjusted Earnings.
+
+Certain facilities within the NEER wind and solar generation portfolio produce RECs and other environmental attributes which are typically sold along with the energy from the plants under long-term contracts, or may be sold separately from wind and solar generation not sold under long-term contracts. The purchasing party is solely entitled to the reporting rights and ownership of the environmental attributes.
+
+While the majority of NEER's revenue is derived from the output of its generation facilities, NEER is also an active competitor in several regions in the wholesale full requirements business and in providing structured and customized power and fuel products and services to a variety of customers. In the full requirements service, typically, the supplier agrees to meet the customer's needs for a full range of products for every hour of the day, at a fixed price, for a predetermined period of time, thereby assuming the risk of fluctuations in the customer's volume requirements.
+
+Expanded competition in a frequently changing regulatory environment presents both opportunities and risks for NEER. Opportunities exist for the selective acquisition of generation assets and for the construction and operation of efficient facilities that can sell power in competitive markets. NEER seeks to reduce its market risk by having a diversified portfolio by fuel type and location, as well as by contracting for the future sale of a significant amount of the electricity output of its facilities.
+
+NEER REGULATION
+
+The energy markets in which NEER operates are subject to domestic and foreign regulation, as the case may be, including local, state and federal regulation, and other specific rules.
+
+At December 31, 2020, essentially all of NEER's operating independent power projects located in the U.S. have received exempt wholesale generator status as defined under the Public Utility Holding Company Act of 2005. Exempt wholesale generators own or operate a facility exclusively to sell electricity to wholesale customers. They are barred from selling electricity directly to retail customers. While projects with exempt wholesale generator status are exempt from various restrictions, each project must still comply with other federal, state and local laws, including, but not limited to, those regarding siting, construction, operation, licensing, pollution abatement and other environmental laws.
+
+Additionally, most of the NEER facilities located in the U.S. are subject to FERC regulations and market rules and the NERC's mandatory reliability standards, all of its facilities are subject to environmental laws and the EPA's environmental regulations, and its nuclear facilities are also subject to the jurisdiction of the NRC. See FPL - FPL Regulation for additional discussion of FERC, NERC, NRC and EPA regulations. Rates of NEER's rate-regulated transmission businesses are set by regulatory bodies as noted in Generation and Other Operations - Generation Assets and Other Operations - Other Operations - Rate-Regulated Transmission. With the exception of facilities located in ERCOT, the FERC has jurisdiction over various aspects of NEER's business in the U.S., including the oversight and investigation of competitive wholesale energy markets, regulation of the transmission and sale of natural gas, and oversight of environmental matters related to natural gas projects and major electricity policy initiatives. The PUCT has jurisdiction, including the regulation of rates and services, oversight of competitive markets, and enforcement of statutes and rules, over NEER facilities located in ERCOT.
+
+Certain entities within the NEER segment and their affiliates are also subject to federal and provincial or regional regulations in Canada related to energy operations, energy markets and environmental standards. In Canada, activities related to owning and operating wind and solar projects and participating in wholesale and retail energy markets are regulated at the provincial level. In Ontario, for example, electricity generation facilities must be licensed by the OEB and may also be required to complete registrations and maintain market participant status with the IESO, in which case they must agree to be bound by and comply with the provisions of the market rules for the Ontario electricity market as well as the mandatory reliability standards of the NERC.
+
+In addition, NEER is subject to environmental laws and regulations as described in the NEE Environmental Matters section below. In order to better anticipate potential regulatory changes, NEER continues to actively evaluate and participate in regional market redesigns of existing operating rules for the integration of renewable energy resources and for the purchase and sale of energy commodities.
+
+NEER HUMAN CAPITAL
+
+NEER had approximately 4,900 employees at December 31, 2020. NEER has collective bargaining agreements with the IBEW, the Utility Workers Union of America and the Security Police and Fire Professionals of America, which collectively represent approximately 13% of NEER's employees. The collective bargaining agreements have approximately two- to five-year terms and expire between June 2021 and September 2022.
+
+18
+Table of Contents
+
+
+
+NEE ENVIRONMENTAL MATTERS
+
+NEE and its subsidiaries, including FPL, are subject to environmental laws and regulations, including extensive federal, state and local environmental statutes, rules and regulations relating to, among others, air quality, water quality and usage, waste management, wildlife protection and historical resources, for the siting, construction and ongoing operations of their facilities. The U.S. government and certain states and regions, as well as the Government of Canada and its provinces, have taken and continue to take certain actions, such as proposing and finalizing regulations or setting targets or goals, regarding the regulation and reduction of GHG emissions and the increase of renewable energy generation. The environmental laws in the U.S., including, among others, the Endangered Species Act, the Migratory Bird Treaty Act, and the Bald and Golden Eagle Protection Act, provide for the protection of numerous species, including endangered species and/or their habitats, migratory birds and eagles. The environmental laws in Canada, including, among others, the Species at Risk Act, provide for the recovery of wildlife species that are endangered or threatened and the management of species of special concern. Complying with these environmental laws and regulations could result in, among other things, changes in the design and operation of existing facilities and changes or delays in the location, design, construction and operation of new facilities. Failure to comply could result in fines, penalties, criminal sanctions or injunctions. NEE's rate-regulated subsidiaries expect to seek recovery for compliance costs associated with any new environmental laws and regulations, which recovery for FPL, including Gulf Power, would be through their respective environmental clause.
+
+WEBSITE ACCESS TO SEC FILINGS
+
+NEE and FPL make their SEC filings, including the annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and any amendments to those reports, available free of charge on NEE's internet website, www.nexteraenergy.com, as soon as reasonably practicable after those documents are electronically filed with or furnished to the SEC. The information and materials available on NEE's website (or any of its subsidiaries' or affiliates' websites) are not incorporated by reference into this combined Form 10-K.
+
+
+
+
+
+
+INFORMATION ABOUT OUR EXECUTIVE OFFICERS(a)
+																				
+Name		Age		Position		Effective Date
+Miguel Arechabala		59		Executive Vice President, Power Generation Division of NEE
+Executive Vice President, Power Generation Division of FPL		January 1, 2014
+Deborah H. Caplan		58		Executive Vice President, Human Resources and Corporate Services of NEE
+Executive Vice President, Human Resources and Corporate Services of FPL		April 15, 2013
+Paul I. Cutler		61		Treasurer of NEE
+Treasurer of FPL
+Assistant Secretary of NEE		February 19, 2003
+February 18, 2003
+December 10, 1997
+John W. Ketchum		50		President and Chief Executive Officer of NextEra Energy Resources		March 1, 2019
+Rebecca J. Kujawa		45		Executive Vice President, Finance and Chief Financial Officer of NEE
+Executive Vice President, Finance and Chief Financial Officer of FPL		March 1, 2019
+James M. May		44		Vice President, Controller and Chief Accounting Officer of NEE		March 1, 2019
+Donald A. Moul		55		Executive Vice President, Nuclear Division and Chief Nuclear Officer of NEE
+Vice President and Chief Nuclear Officer of FPL		January 1, 2020
+May 17, 2019
+Ronald R. Reagan		52		Executive Vice President, Engineering, Construction and Integrated Supply Chain of NEE
+Vice President, Engineering and Construction of FPL		January 1, 2020
+March 1, 2019
+James L. Robo		58		Chairman, President and Chief Executive Officer of NEE
+Chairman of FPL		December 13, 2013
+May 2, 2012
+Charles E. Sieving		48		Executive Vice President & General Counsel of NEE
+Executive Vice President of FPL		December 1, 2008
+January 1, 2009
+Eric E. Silagy		55		President and Chief Executive Officer of FPL		May 30, 2014
+______________________
+(a)Information is as of February 12, 2021. Executive officers are elected annually by, and serve at the pleasure of, their respective boards of directors. Except as noted below, each officer has held his/her present position for five years or more and his/her employment history is continuous. Mr. Ketchum served as Executive Vice President, Finance and Chief Financial Officer of NEE and FPL from March 2016 to February 2019 and NEE’s Senior Vice President, Finance from February 2015 to March 2016. Ms. Kujawa served as Vice President, Business Management of NextEra Energy Resources from March 2012 to February 2019. Mr. May served as Controller of NextEra Energy Resources from April 2015 to February 2019. Mr. Moul served as Vice President and Chief Nuclear Officer of NEE from May 2019 to December 2019. He previously held various roles at several subsidiaries of FirstEnergy Corp., which are energy suppliers involved in the generation, transmission and distribution of electricity. Mr. Moul was Executive on Special Assignment of FirstEnergy Solutions Corp. from March 2019 to May 2019, President and Chief Nuclear Officer of FirstEnergy Generation Companies from March 2018 to March 2019, President of FirstEnergy Generation LLC from April 2017 to March 2018 and Senior Vice President, Fossil Operations and Environmental of FirstEnergy Solutions from August 2015 to April 2017. Mr. Reagan served as Vice President, Engineering and Construction of NEE from November 2018 to December 2019 and Vice President, Integrated Supply Chain of NEE from October 2012 to November 2018.
+19

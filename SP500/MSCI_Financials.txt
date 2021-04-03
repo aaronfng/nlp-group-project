@@ -1,0 +1,958 @@
+Mission
+
+ 
+
+MSCI’s mission is to enable investors to build better portfolios for a better world.
+
+ 
+
+Overview
+
+ 
+
+We are a leading provider of critical decision support tools and services for the global investment community.  Leveraging our knowledge of the global investment process and our expertise in research, data and technology, our actionable solutions power better investment decisions by enabling our clients to understand and analyze key drivers of risk and return and confidently and efficiently build more effective portfolios.
+
+ 
+
+Investors all over the world use our tools and services to gain insights and improve transparency throughout their investment processes, including to help define their investment universe, inform and analyze their asset allocation and portfolio construction decisions, measure and manage portfolio performance and risk, conduct performance attribution, implement sustainable and other investment strategies, design and issue exchange traded funds (“ETFs”) and other indexed financial products, and facilitate reporting to stakeholders.  
+
+ 
+
+Our leading, research-enhanced products and services include indexes; portfolio construction and risk management analytics; environmental, social and governance (“ESG”) and climate solutions; and real estate benchmarks, return-analytics and market insights.  Through our integrated franchise we provide solutions across our products and services to support our clients’ dynamic and complex needs. Our content and capabilities can be accessed by our clients through multiple channels and platforms.  
+
+ 
+
+We are focused on product innovation to address the evolving needs of our clients in light of changing investment trends and an increasingly complex industry. In order to most effectively serve our clients, we are committed to driving an integrated solutions-based approach, achieving service excellence, enhancing our differentiated research and content, and delivering flexible, cutting-edge technology and platforms.  
+
+ 
+
+1
+
+ 
+
+ 
+
+Clients
+
+ 
+
+Our clients comprise a wide spectrum of the global investment industry and include the following key client types:
+
+ 
+
+ 
+	
+
+•
+	
+
+Asset owners (pension funds, endowments, foundations, central banks, sovereign wealth funds, family offices and insurance companies)
+
+ 
+	
+
+•
+	
+
+Asset managers (institutional funds and accounts, mutual funds, hedge funds, ETFs, insurance products, private banks and real estate investment trusts)
+
+ 
+	
+
+•
+	
+
+Financial intermediaries (banks, broker-dealers, exchanges, custodians, trust companies and investment consultants)
+
+ 
+	
+
+•
+	
+
+Wealth managers (including robo-advisors and self-directed brokerages)
+
+ 
+	
+
+•
+	
+
+Corporates
+
+ 
+
+As of December 31, 2020, we served over 4,400 clients1 in more than 95 countries. For the year ended December 31, 2020, our largest client organization by revenue, BlackRock, accounted for 11.0% of our total revenues, with 94.3% of the revenue from BlackRock coming from fees based on the assets in BlackRock’s ETFs that are based on our indexes.  
+
+ 
+
+Industry Trends and Competitive Advantages
+
+ 
+
+We believe we are uniquely positioned to benefit from emerging trends and to help our clients adapt to a large and rapidly expanding and evolving investment industry. Investing has grown in complexity, with more choices across asset classes, security types and geographies. Investors are increasingly looking outside their home countries, and the access to and diversity of investment choices are growing. As a result, the investment process is transforming, reflected in a number of trends we have observed, including:
+
+ 
+
+ 
+	
+
+•
+	
+
+Changing client operating models and business strategies, driven in part by fee compression, changing demographics, the regulatory environment and economics;
+
+ 
+	
+
+•
+	
+
+Increasing use of global and multi-asset class strategies, incorporating private asset investments and factor objectives, as investors seek specific, customized outcomes;
+
+ 
+	
+
+•
+	
+
+Accelerating integration of ESG and climate considerations into investment processes, reporting and products as sustainable investing goes increasingly mainstream and investors increasingly focus on companies with strong sustainability practices as an indicator of long-term resilience especially in light of events such as the COVID-19 pandemic;
+
+ 
+	
+
+•
+	
+
+Continuing growth of indexed investing through indexed investment products such as ETFs, mutual/UCITS funds and annuities, as well as indexed derivatives such as futures, options, structured products and over-the-counter swaps, and other vehicles that seek to track an index as investors increasingly seek lower-cost investment strategies;
+
+ 
+	
+
+•
+	
+
+Increasing demand for data and tools that can be customized by clients to support their unique portfolio construction needs and to provide transparency into their investment objectives; and
+
+ 
+	
+
+•
+	
+
+Growing use of advanced technologies to enhance investment analytics, streamline operations, create efficiencies and gain competitive advantages.
+
+ 
+
+ 
+
+1 
+	
+
+Represents the aggregate of all related clients under their respective parent entity. 
+
+2
+
+ 
+
+ 
+
+We believe the following competitive advantages position us well to meet client demands in light of these trends:
+
+ 
+
+ 
+	
+
+•
+	
+
+Differentiated research-enhanced content, which is integral to the solutions we provide to clients to help them adapt to a fast-changing marketplace. We are continually developing a wide range of differentiated content and have amassed an extensive database of historical global market data, proprietary equity index data, factor models, private real estate assets benchmark data, risk algorithms and ESG and climate data, all of which are critical components of our clients’ investment processes. This content is grounded in our deep knowledge of the global investment process and fueled by experienced research and product development and data management teams. We consult with clients and other market participants to discuss their needs, investment trends and implications for our business.
+
+ 
+	
+
+•
+	
+
+Strong client relationships supported by a client coverage team with significant industry experience. The coverage team develops and maintains strong and trusted relationships with senior executives and investment professionals at the world’s largest investment institutions. We believe that these relationships and our global operating footprint enable us to better understand our clients’ unique needs and tailor our coverage initiatives to better serve our clients in the markets in which they operate.
+
+ 
+	
+
+•
+	
+
+Flexible, scalable, cutting-edge technology that is used, developed and enhanced by a global team of sophisticated and innovative technology and data professionals. Our technology enables clients to use content created by MSCI, themselves and third parties in an efficient manner and thereby helps them be more cost-effective in their own operations. Our technology allows us to continually improve our overall products and services by more efficiently processing data for distribution and ensuring advanced platform flexibility that provides for easy integration of our solutions into distribution channels and our clients’ workflows.
+
+Strategy
+
+We provide critical tools and solutions that enable investors to manage the transformations taking place in the investment industry, better understand performance and risk, and build portfolios more effectively and efficiently to achieve their investment objectives. We are focused on the following key initiatives to deliver actionable and integrated client solutions:
+
+ 
+
+ 
+	
+
+•
+	
+
+Extend leadership in research-enhanced content across asset classes. We continue to deliver solutions that incorporate proprietary and highly differentiated content based on rich insights from our research and product development team. In addition to continuing to enhance our position as a leader with respect to tools and services for equity investors globally, our strategic priorities with respect to content also include ESG and climate, thematics, factors, fixed income, liquidity and private assets, all of which we believe represent significant growth opportunities. We are focused on expanding our performance and risk capabilities and content across asset classes, which will allow us to provide more tools to our clients that help them pursue and achieve their investment objectives.
+
+ 
+
+ 
+	
+
+•
+	
+
+Enhance distribution and content-enabling technology. We are deploying and developing advanced technology to drive integration and efficiencies, accelerate the pace of innovation and enhance distribution and the client experience. We increasingly utilize proprietary and third-party technologies, including machine learning and artificial intelligence tools, to enhance our ability to gather and analyze data, create content and automate and enhance the efficiency of many of our data processes.
+
+ 
+	
+
+•
+	
+
+Expand solutions that empower client customization. We will further enhance how we support our clients’ investment objectives by embedding our highly differentiated research into solutions that allow clients to incorporate their custom preferences. For example, we will leverage existing capabilities and applications to deliver solutions that will allow clients to reflect their unique risk and return, ESG and climate and thematic preferences, as well as tax optimization strategies in a scalable way.
+
+ 
+
+ 
+	
+
+•
+	
+
+Growth through strengthening existing client relationships and developing new ones. In support of our solutions-driven strategy, we continue to grow our existing offerings by cultivating and expanding relationships across our client base and serving the needs of different client types across multiple asset classes. We remain focused on building the strength and knowledge of our client coverage team to enable them to understand our clients’ needs and educate our clients on the full breadth of our content and capabilities and how using complementary tools can help clients analyze performance and risk across asset classes, investment strategies and geographies. We continue to develop relationships with the following client segments that we believe offer significant growth opportunities: wealth managers, corporates, insurance companies and exchanges, as well as clients in fast-growing regions such as Asia.
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+	
+
+•
+	
+
+Execute strategic relationships and acquisitions with complementary content and technology companies.  We regularly evaluate and selectively pursue strategic relationships with, and acquisitions of, providers of unique and differentiated content, products and technologies that we believe have the potential to complement, enhance or expand our offerings and client base. In order to drive value, we target acquisitions and strategic relationships that can be efficiently integrated into our existing operational structure and global sales network. For example, in January 2020, we entered into a strategic relationship with The Burgiss Group, LLC (“Burgiss”), a global provider of investment decision support tools for private capital, that is intended to accelerate and expand the data, analytics and other investment decision support tools available to investors in private assets.
+
+ 
+
+Financial Model
+
+ 
+
+We have an attractive financial model due to our recurring revenue and strong cash generation. Clients purchase our products and services primarily through recurring fixed and variable fee arrangements, a business model which has historically delivered stable revenue and predictable cash flows. Finally, our disciplined capital-allocation policy provides us with flexibility to balance internal resources and investment needs, acquisitions and shareholder returns through dividends and opportunistic share repurchases.
+
+ 
+
+See Part II, Item 7. “Management’s Discussion and Analysis of Financial Condition and Results of Operations—Overview” and Note 1, “Introduction and Basis of Presentation—Significant Accounting Policies—Revenue Recognition,” of the Notes to the Consolidated Financial Statements included herein for information on how we generate revenue and our revenue recognition policy.
+
+ 
+
+Operating Segments
+
+ 
+
+For the year ended December 31, 2020, we had five operating segments - Index, Analytics, ESG, Real Estate and Burgiss. For reporting purposes, the ESG and Real Estate operating segments were combined and presented as All Other as they did not meet the thresholds for separate presentation. The Burgiss operating segment represented the Company’s equity method investment in Burgiss. Effective January 1, 2021, we revised our reportable segment structure. While our strategy, organizational structure and day-to-day operations remain largely unchanged, we believe the new segment reporting structure provides additional and helpful transparency into our operations. See Note 16. “Subsequent Events,” of the Notes to the Consolidated Financial Statements included herein for additional information.
+
+ 
+
+Index
+
+ 
+
+Clients use our indexes in many areas of the investment process, including for indexed product creation (e.g., ETFs, mutual funds, annuities, futures, options, structured products, over-the-counter derivatives), performance benchmarking, portfolio construction and rebalancing, and asset allocation. We currently calculate more than 246,0002 end-of-day indexes daily and more than 14,000 indexes in real time. Clients receive index data directly from us or from third-party vendors worldwide.
+
+ 
+
+Our indexes include:
+
+ 
+	
+
+•
+	
+
+MSCI Global Equity Indexes. MSCI Global Equity Indexes are designed to measure returns across a wide variety of equity markets, size segments, sectors and industries.  As of December 31, 2020, we calculated indexes that covered more than 80 countries in developed, emerging, frontier and standalone markets, as well as various regional indexes built from the component country indexes.
+
+ 
+	
+
+•
+	
+
+Factor Indexes. Factor Indexes are created using the Barra Equity Models from our Analytics segment to address a growing trend among institutional investors and asset managers to target systematic style factors, such as volatility, size and momentum.
+
+ 
+	
+
+•
+	
+
+ESG and Climate Indexes. ESG and Climate Indexes are constructed using data from our ESG segment to meet the growing demand for indexes that integrate ESG and climate criteria to facilitate sustainable investing strategies.
+
+ 
+
+2 
+	
+
+The number of indexes includes different return versions (e.g., price, net and gross returns) but does not include different currency versions.
+
+4
+
+ 
+
+ 
+
+ 
+	
+
+•
+	
+
+Customized Indexes. Customized Indexes are calculated by applying a client’s criteria such as stock exclusion lists, currency hedging rules, tax rates or special weighting to an existing MSCI index.
+
+ 
+	
+
+•
+	
+
+Thematic Indexes. Thematic Indexes are designed to measure the performance of specific social, economic, industrial, environmental or demographic investment strategies.
+
+ 
+	
+
+•
+	
+
+Real Assets Indexes. Real Assets Indexes provide transparency and insight to private real estate investment strategies.
+
+ 
+
+In 2020, we launched the following indexes:
+
+ 
+	
+
+•
+	
+
+Fixed Income Indexes. Fixed Income Indexes use broad market corporate bond universes to create indexes that track the performance of investment strategies based upon (i) the credit market (MSCI Corporate Bond Indexes), (ii) systematic style factor exposures such as carry, value, size and low risk (MSCI Factor Fixed Income Indexes), (iii) certain ESG metrics and companies’ ESG profiles (MSCI Fixed Income ESG Universal Indexes), (iv) fixed income securities from issuers that have high ESG ratings relative to their sector peers (MSCI Fixed Income ESG Leaders Indexes) and (v) the opportunities and risks associated with the transition to a lower carbon economy (MSCI Climate Change Fixed Income Indexes).
+
+ 
+	
+
+•
+	
+
+Innovation-Focused Thematic Indexes. Innovation-Focused Thematic Indexes expand MSCI’s megatrend index suite to include indexes that are focused on disruptive innovation. These indexes are designed to track the performance of companies in dynamic fields such as autonomous technologies, genomics, fintech, future education and next generation internet. These indexes are used by investors to realign their portfolios to capture structural economic changes.
+
+ 
+	
+
+•
+	
+
+MSCI Climate Paris Aligned Indexes. MSCI Climate Paris Aligned Indexes are designed to help investors mitigate transition and physical risks, identify potential opportunities and allocate resources in a way that supports the decarbonization of the economy while being compatible with the Paris Agreement. The MSCI Climate Paris Aligned Indexes incorporate the recommendations of the EU Task Force on Climate-related Financial Disclosures (“TCFD”) and are designed to exceed the minimum standards for EU Paris-aligned Benchmarks.
+
+ 
+
+Our Index segment also includes revenues from licenses of GICS® and GICS Direct, the global industry classification standard jointly developed and maintained by MSCI and Standard & Poor’s Financial Services, LLC, a subsidiary of S&P Global Inc. (“Standard & Poor’s”).  This classification system was designed to respond to clients’ needs for a comprehensive, consistent and accurate framework for classifying companies into industries. GICS is widely accepted as an industry analysis framework for investment research, portfolio management and asset allocation. GICS Direct is a dataset comprised of active companies and securities classified by sector, industry group, industry and sub-industry in accordance with the proprietary GICS methodology. The MSCI Sector Indexes are comprised of GICS sector, industry group, and industry indexes across countries and regions in Developed, Emerging and select Frontier markets.
+
+ 
+
+For the year ended December 31, 2020, 60.0% of our revenues were attributable to our Index segment. A majority of those revenues are attributable to annual, recurring subscriptions. A portion of our revenues come from clients who use our indexes as the basis for indexed investment products. Such fees are primarily based on a client’s assets under management (“AUM”) or trading volumes and are referred to herein as asset-based fees. Since market movement and investment trends impact our asset-based fees, our revenues from asset-based fees are subject to volatility. For the year ended December 31, 2020, asset-based fees accounted for 39.3% of the total revenues for our Index segment.
+
+ 
+
+Analytics
+
+ 
+
+Our Analytics segment offers risk management, performance attribution and portfolio management content, applications and services that provide clients with an integrated view of risk and return and tools for analyzing market, credit, liquidity and counterparty risk across all major asset classes, spanning short-, medium- and long-term time horizons. Our offerings also support clients’ various regulatory reporting needs.
+
+ 
+
+5
+
+ 
+
+ 
+
+Our Analytics tools and capabilities include: models to support factor-based analytics (e.g., Barra equity models and fixed income and multi-asset class (“MAC”) models), pricing models and single security analytics, time series-based analytics, stress testing, performance attribution, portfolio optimization and liquidity risk analytics, as well as underlying inputs such as interest rate and credit curves. We continue to develop new and improved tools and capabilities in response to the evolving needs of our clients. For example, in 2020 we released multi-period stress testing capabilities that allow investors to model the impact of long horizon scenarios on their portfolios.
+
+ 
+
+Our clients access our Analytics tools and content through our proprietary applications and APIs (application programming interfaces), third-party applications or directly through their own platforms. Our Analytics solutions provide clients with tools to construct and manage portfolios, including integrated market data from multiple third parties as well as content from MSCI’s other segments, which significantly reduces the operational burden on clients to independently source this information and populate it in our Analytics products. Our key Analytics products include:
+
+ 
+
+ 
+	
+
+•
+	
+
+RiskMetrics RiskManager. RiskMetrics RiskManager is an industry leader in value at risk (“VaR”) simulation and in stress testing. Clients use RiskManager for daily analysis; measuring and monitoring market and liquidity risk at position, fund and firm levels; sensitivity and stress testing; interactive what-if analysis; counterparty credit exposure; and regulatory risk reporting.   
+
+ 
+
+ 
+	
+
+•
+	
+
+BarraOne. Powered by our MAC models and Barra Integrated Model, BarraOne provides clients with global, multi-asset class, multi-currency risk and performance analytics using Barra’s fundamental factor methodology that allows clients to identify the factors driving the risk and performance of their portfolios and calculate portfolio optimizations.
+
+ 
+
+ 
+	
+
+•
+	
+
+Barra Portfolio Manager. Barra Portfolio Manager is an integrated risk, performance and optimization platform. Powered by Barra equity models, Barra Portfolio Manager enables our clients to share strategies, analytics and reports across their organizations. It is used by equity fund managers and their teams to gain additional portfolio insight, manage their investment processes more systematically and make more efficient and informed investment decisions.
+
+ 
+
+ 
+	
+
+•
+	
+
+WealthBench and CreditManager. WealthBench is a web-based platform used by private banks, financial advisers, brokerages and trust companies to help wealth managers assess portfolio risk, construct asset allocation policies and create comprehensive client proposals. CreditManager is a portfolio credit risk management system used primarily by banks to calculate economic capital, facilitate risk-based pricing and measure credit risk concentrations.
+
+ 
+
+ 
+	
+
+•
+	
+
+MSCI BEON™. Our BEON application provides an enhanced client experience for equity portfolio and risk managers through a graphical interface that allows clients to easily determine drivers of risk and return. BEON offers clients consolidated access to certain capabilities and tools currently available through other Analytics applications, as well as certain tools from other MSCI operating segments.
+
+ 
+
+Our Analytics segment also provides various managed services to help clients operate more efficiently, including consolidation of client portfolio data from various sources, review and reconciliation of input data and results, and customized reporting. In addition, our HedgePlatform service allows clients such as funds of funds, pension funds and endowments who invest in hedge funds to measure, evaluate and monitor the risk of their hedge fund investments across multiple hedge fund strategies.
+
+ 
+
+For the year ended December 31, 2020, 30.3% of our revenues were attributable to our Analytics segment.
+
+ 
+
+All Other – ESG
+
+MSCI ESG Research3 analyzes over 8,5004 entities worldwide to help institutional investors understand how ESG and climate considerations can impact the long-term risks and opportunities in financial markets. Subscribers to MSCI ESG Research include global asset managers, leading asset owners, consultants, advisers and academics.
+
+ 
+
+3 
+	
+
+MSCI ESG Research is provided by MSCI ESG Research LLC, a wholly-owned subsidiary of MSCI Inc. that is registered with the U.S. Securities and Exchange Commission as an Investment Adviser under the Investment Advisers Act of 1940. MSCI ESG Ratings are used in the construction and calculation of MSCI ESG indexes. MSCI indexes are products of MSCI Inc., and MSCI Limited is the benchmark administrator of such indexes.  
+
+4 
+	
+
+Does not include subsidiary-level companies.
+
+6
+
+ 
+
+ 
+
+In addition, MSCI ESG Research data and MSCI ESG Ratings are used in the construction of MSCI equity and fixed income indexes from our Index operating segment to help institutional investors more effectively benchmark ESG investment performance, issue indexed investment products, as well as manage, measure and report on ESG mandates.  
+
+ 
+
+MSCI ESG Research offerings include:
+
+ 
+
+ 
+	
+
+•
+	
+
+MSCI ESG Ratings. Our ESG ratings aim to measure a company's resilience to long-term ESG risks. Companies are scored on an industry-relative scale across the most relevant key ESG issues based on a company's business model.  MSCI ESG Ratings include ratings of equity issuers and fixed income securities. In 2020, MSCI launched the MSCI ESG Industry Materiality Map, a public tool which explores the key ESG issues by GICS® sub-industry or sector and their contribution to companies’ overall ESG ratings. Ratings are designed to identify and analyze ESG issues, including exposures (e.g., business segment and geographic risk), management and industry-specific measures that may include the intersection of a company’s major social and environmental impacts with its core business operations, thereby identifying potential risks and opportunities for the company and its investors.  
+
+ 
+
+ 
+	
+
+•
+	
+
+MSCI ESG Business Involvement Screening Research. MSCI ESG Business Involvement Screening Research is a screening service that enables institutional investors to manage ESG standards and restrictions reliably and efficiently. Asset managers, investment advisers and asset owners can access screening research through the online MSCI ESG Manager platform or a data feed to satisfy their clients’ investment guidelines, implement client mandates and manage potential ESG portfolio risks.
+
+ 
+
+ 
+	
+
+•
+	
+
+MSCI Climate Solutions. MSCI’s Climate VaR metric provides investors with an estimation of how the value of their investment portfolios could be impacted (up or down) by climate policy risk, technology transition opportunities and extreme weather (physical climate risks). A company's Climate VaR, expressed as a percentage change from its current market valuation, is derived from financial modeling of potential future costs and profits associated with climate-related risks and opportunities.
+
+ 
+
+For a description of regulation applicable to MSCI ESG Research offerings, see “—Government Regulation” below.
+
+ 
+
+For the year ended December 31, 2020, 6.5% of our revenues were attributable to our ESG segment.
+
+All Other – Real Estate
+
+ 
+
+Our Real Estate segment includes research, reporting, market data and benchmarking offerings that provide real estate performance analytics for funds, investors and managers. Our Real Estate performance and risk analytics range from enterprise-wide to property-specific analysis. Some of the risk analysis generated in the Real Estate segment is also used in the products offered by our other operating segments. For example, the MAC models created in our Analytics segment offer a view of risk across market and asset classes, including private real estate, by incorporating content generated in the Real Estate segment. We also provide business intelligence to real estate owners, managers, developers and brokers worldwide. Real Estate offerings include:
+
+ 
+
+ 
+	
+
+•
+	
+
+MSCI Enterprise Analytics. Our Enterprise Analytics application offers an interactive, single integrated view to private real estate investors and managers, providing them with the ability to evaluate and analyze the drivers of portfolio performance across an organization’s investments, as well as review exposures and concentrations across markets, asset types and increasingly diverse portfolios.
+
+ 
+
+ 
+	
+
+•
+	
+
+MSCI Global Intel. Our Global Intel offering is an industry-leading database that equips asset owners, researchers, strategists and portfolio and risk managers with data and analytics to enhance their understanding of local, regional and global real estate performance and risks. This tool comprises a consolidated set of global, regional, national, city and submarket indexes with segmentation by property type.   
+
+ 
+
+ 
+	
+
+•
+	
+
+MSCI Real Estate Climate Value-at-Risk (“RE Climate VaR”). Our RE Climate VaR solution provides forward-looking and return-based valuation assessments to measure climate-related risks for real estate assets in an investment portfolio. By calculating both transition risk from changing legislation due to climate action and physical risk from extreme weather impacts, RE Climate VaR offers a framework for investors to improve portfolio performance, risk management, regulatory reporting and progress towards broader sustainability goals.
+
+ 
+
+7
+
+ 
+
+ 
+
+For the year ended December 31, 2020, 3.2% of our revenues were attributable to our Real Estate segment.
+
+Research and Product Development
+
+ 
+
+We apply an integrated team approach to developing content across our operating segments. Our product management, research and product development, data operations and technology, and application development departments are at the center of this process. Our content is developed by a research and product development team comprised of mathematicians, economists, statisticians, financial engineers and investment industry experts.  Content created in one segment can often be used for the creation of products in another segment.  For example, the MAC models created in our Analytics segment offer a view of risk across market and asset classes, including private real estate, by incorporating content generated in the Real Estate segment, and MSCI ESG indexes are constructed using data from our ESG segment.
+
+ 
+
+Through our relationships with the world’s largest investment institutions, we monitor investment trends and their drivers globally and support instrument valuation, risk modeling, portfolio construction, portfolio attribution, asset allocation and VaR simulation. An important way we monitor global investment trends and their implications for our business is through direct public consultations and client advisory panels and through the forum provided by our Advisory Council. Our Advisory Council meets twice a year to discuss current and emerging investment industry trends and is comprised of senior investment professionals from around the world and senior members of our research and product development team.
+
+ 
+
+Technology
+
+ 
+
+Technology plays a pivotal role in our operations. Current areas of focus include:
+
+ 
+
+ 
+	
+
+•
+	
+
+Migrating products, data and services onto a cloud platform to accelerate the delivery of new capabilities that will help investors more swiftly and efficiently manage data and understand the drivers of risk and performance, drive automation across our corporate processes and minimize data center risks.
+
+ 
+
+ 
+	
+
+•
+	
+
+Modernizing our workplace to better support a remote workforce that can collaborate and productively work from anywhere.
+
+ 
+
+ 
+	
+
+•
+	
+
+Improving the client experience by enhancing the way clients access, interact with and use our data, applications and other tools.
+
+ 
+
+ 
+	
+
+•
+	
+
+Enhancing data processing by expanding our use of data science and machine learning in our data collection processes to enable us to more efficiently build scale and facilitate faster product enhancements and releases while also maintaining the highest quality standards.
+
+ 
+	
+
+•
+	
+
+Enhancing information security by further strengthening our technology infrastructure, with an emphasis on cyber and information security. Our success depends on our clients’ abilities to securely access our products and services. We implement changes and upgrades to technology and processes to minimize risk on an ongoing basis, and we seek to improve employee awareness of cyber and information security issues through training.
+
+8
+
+ 
+
+ 
+		
+
+Competition
+
+ 
+
+Index. Many industry participants compete with us by offering one or more indexes in similar categories. Such indexes vary widely in scope, including by geographic region, business sector and risk category, and may be used by clients in a variety of ways in many different markets around the world.  Among our Index competitors are S&P Dow Jones Indices LLC (a joint venture company owned by CME Group, Inc., CME Group Services LLC and S&P Global Inc.) and FTSE Russell, a subsidiary of the London Stock Exchange Group PLC.
+
+ 
+
+Growing competition also exists from industry participants, including asset managers and investment banks, that create their own indexes, often in cooperation with index providers, which may, among other things, provide some form of calculation agent service. Asset managers manage funds, including ETFs, based on their proprietary indexes, and many investment banks launch structured products or create over-the-counter derivatives based on their proprietary indexes. This is often referred to as self-indexing.
+
+ 
+
+Analytics. Our Analytics offerings compete with those from a range of competitors, including Qontigo (formerly Axioma Inc. and acquired by Deutsche Borse Group as part of a strategic partnership with General Atlantic), BlackRock Solutions, Bloomberg Finance L.P., and FactSet Research Systems Inc. Additionally, some of the larger broker-dealers have developed proprietary analytics tools for their clients. Similarly, some of the large global investment organizations, such as custodians, have developed internal risk management and performance analytics tools that they offer to their clients.
+
+ 
+
+All Other.  We also have a variety of competitors for our other offerings that comprise a smaller portion of our revenues, including a growing number of companies that issue ESG data, ratings or research and a growing number of companies that provide Real Estate data, indexes, performance and risk attribution services. For example, our ESG offerings compete with those from a range of competitors, including Sustainalytics Holding B.V. (now a part of Morningstar, Inc.), Institutional Shareholder Services Inc. and Refinitiv Holdings Limited.
+
+ 
+
+Intellectual Property, Other Proprietary Rights and Sources of Data
+
+ 
+
+We consider many aspects of our offerings, processes and services to be proprietary. We have registered “MSCI” and other marks as trademarks or service marks in the United States and in certain other countries. We will continue to evaluate the registration of additional trademarks and service marks as appropriate. From time to time, we have also filed patent applications to protect our proprietary rights. Additionally, many of our offerings, processes and services require the use of intellectual property that we license for use from third parties. It may be necessary in the future to seek or renew licenses relating to various aspects of our offerings and services.
+
+ 
+
+Our ownership and protection of intellectual property and other proprietary rights and our ability to obtain the rights to use third-party intellectual property are important to our business and contribute in part to our overall success. We do not believe we are dependent on any one of our intellectual property rights or any one license to use third-party intellectual property.
+
+ 
+
+In addition to our intellectual property, we rely on third-party data to create and deliver our products and services. For example, we require certain stock exchange data to construct equity indexes. Termination of or disputes regarding our rights to receive or use such data could limit the information available for us to use in connection with building or distributing our products and services and to make available to our clients.  
+
+ 
+
+Human Capital Management
+
+MSCI is committed to creating a performance culture with high employee engagement. Our talent and leadership development programs are designed to ensure we have the people and skills in place to deliver on MSCI’s strategy, including a workplace that values and promotes diversity, equality and inclusion.
+
+ 
+
+MSCI is an international company with a highly diverse footprint. Our employees are located in more than 30 cities across more than 20 countries. As of December 31, 2020, we employed 3,633 people, of which 47.0% of MSCI employees were located in the Asia Pacific region, 23.3% in Europe, Middle East and Africa, 20.7% in the U.S. and Canada, and 9.0% in Mexico and Brazil. For the one-year period ended December 31, 2020, voluntary turnover was 7.6% and involuntary turnover was 3.8%.
+
+ 
+
+9
+
+ 
+
+ 
+
+Diversity, Equality and Inclusion
+
+At MSCI, diversity, equality and inclusion are core values of our culture. We strive to empower our people to maximize their potential in an environment where all individuals are respected and encouraged to bring their authentic selves to work. This culture embraces diverse experiences and perspectives, which we believe foster creativity and innovation. As of December 31, 2020, women represented 33.1% of our global employees, and people of color (defined as those who identify as Asian, Black/African American, Hispanic/Latino, Native American, Hawaiian, Pacific Islander or two or more races) represented 41.7% of our U.S. employees. From a global diversity perspective, the U.S. represents only 19.9% of our global workforce.
+
+ 
+
+Our Executive Diversity Council (the “EDC”) champions a diverse and inclusive culture by advising on corporate initiatives and facilitating collaboration across the Company. Members of the EDC partner with our employee resource groups (the Women’s Leadership Forum, Women in Tech (formed in 2020), MSCI Pride, the Black Leadership Network (formed in 2020) and Eco Groups) to raise awareness, conduct events around the globe and serve as sponsors in their respective locations.
+
+ 
+
+In 2020, we established the Employer Brand Council and the Diversity Engagement and Sourcing team. These groups focus on:
+
+ 
+
+ 
+	
+
+•
+	
+
+building and communicating the MSCI employer brand with the aim of bringing to life and showcasing our culture;
+
+ 
+	
+
+•
+	
+
+attracting and developing diverse talent for current and future roles;
+
+ 
+	
+
+•
+	
+
+building early career and internal pipeline programs that focus on gender, race, ethnicity, LGBTQ+, socio-economic and native/indigenous diversity;
+
+ 
+	
+
+•
+	
+
+forging relationships at institutions worldwide that promote diversity; and
+
+ 
+	
+
+•
+	
+
+building relationships with external partners and media to position MSCI’s programs and opportunities with new networks.
+
+The team not only creates a pipeline of diverse talent for MSCI but also ensures we are positioned more broadly as a leading organization that puts diversity, equality and inclusion at the center of its strategy. We are growing a culture that has highly competent, engaged, accountable and diverse people at every level. We believe that a diverse team is a stronger team and an important part of our success.
+
+ 
+
+Additional information on our diversity metrics and programs can be found on our website at https://www.msci.com/who-we-are/corporate-responsibility/social-responsibility/diversity-and-inclusion. Information contained on our website is not deemed part of or incorporated by reference into this Annual Report on Form 10-K or any other report filed with the SEC.
+
+ 
+
+Compensation, Benefits and Well-being
+
+We offer a broad range of highly competitive compensation and benefits programs to our employees and their families, including same sex domestic partners. These programs include health and welfare benefits, including an Employee Assistance Program; enhanced maternity and paternity leave policies, including a Global Minimum Standard applicable to all offices worldwide; contributions to defined contribution and defined benefit pensions plans globally and Health Savings Accounts in the U.S.; life insurance; a global wellness initiative that can help employees improve their health and well-being; presentations on well-being topics, including retirement planning, parenting, meditation, stress management and nutrition; ergonomic equipment and desk assessments for employees; and wellness rooms in all MSCI office locations.
+
+ 
+
+Compensation at MSCI supports a culture of high performance and accountability. Our goal is to provide competitive compensation in the markets we compete for talent. We believe in linking all employee’s compensation to Company, Product/Function and individual performance by making 100% of our employees eligible for annual cash bonuses. We strongly differentiate cash bonus payouts based on actual results against goals and for managers, how effectively they demonstrate behaviors consistent with the Company’s values and culture.
+
+ 
+
+10
+
+ 
+
+ 
+
+Officers of the Company are eligible to participate in the MSCI Long-Term Incentive Program with awards of MSCI stock that vest over a multi-year period. The goal of the Long-Term Incentive Program is to: (i) align the interests of eligible officers with those of our shareholders, (ii) enhance our “owner-operator” philosophy, (iii) recognize and reward potential long-term contributions, (iv) retain key leaders and top performing officers.
+
+ 
+
+In response to the COVID-19 pandemic, MSCI prioritized the well-being of its global workforce by having the vast majority of our employees work from home. At the onset of the pandemic, we engaged a firm of global medical and safety experts to provide additional information and guidance to all of our offices globally. In response to the pandemic, we also increased communications about employee assistance programs that provide mental health and emotional well-being support, as well as resources to help manage stress and care for individuals and their families. We also provide ergonomics workshops that focus on how to configure home workspaces for optimal health, comfort and performance.
+
+ 
+
+Cultivating Talent and Employee Engagement
+
+MSCI is committed to investing in employee learning and development. Throughout the year, we offer tools and workshops to help employees better understand how their work aligns with MSCI’s overall strategy, seek and receive real-time and transparent feedback and coaching, successfully deliver on their goals, and more effectively plan and develop their careers. In response to the COVID-19 pandemic and the transition to working from home on a regular basis, MSCI created and delivered virtual training programs to quickly build remote capabilities, such as Leading Virtually, Working Virtually and Building Resilience. Employees were also asked to examine their goals through a start, stop, delay and pivot lens. The “re-imagined” goals focused on servicing our clients and prioritizing critical actions to help clients navigate the evolving and challenging circumstances.
+
+ 
+
+MSCI conducts an annual employee engagement survey that measures whether our approaches to performance, growth and career development are driving employee engagement. Managers receive anonymous feedback and are accountable for improving and enhancing the work environment to drive higher engagement. In 2020, 85% of employees responded to an employee engagement check-in survey conducted in November 2020 and to an additional employee engagement check-in survey conducted in June 2020. The June 2020 check-in survey was designed to help us understand employees’ overall work experience throughout the unprecedented personal and professional challenges they faced as a result of the COVID-19 pandemic. These responses helped us gather insights on what drives business outcomes, refine our communication throughout the COVID-19 pandemic and explore ways to continue to make MSCI more inclusive and innovative and support employee well-being.
+
+ 
+
+Additional information on our training programs and engagement metrics can be found on our website at https://www.msci.com/who-we-are/corporate-responsibility/social-responsibility/cultivating-talent. Information contained on our website is not deemed part of or incorporated by reference into this Annual Report on Form 10-K or any other report filed with the SEC.
+
+ 
+
+COVID-19 Update
+
+The COVID-19 pandemic has underscored for us the importance of keeping our employees safe and healthy. In response to the pandemic, we immediately implemented an employee communication strategy that was direct, transparent and inclusive. Through townhalls, firmwide e-mail communications and broad cross-functional meetings, management delivered key messages around employee safety and well-being, leadership, remaining productive, engaging with clients, promoting community and having empathy for others. We also increased communications around employee assistance programs that provide mental health and emotional well-being support, and resources to help manage stress and care for individuals and their families. Finally, we paid for or reimbursed employees for the cost of COVID-19 testing and enhanced our sick leave policies.
+
+ 
+
+At the outset of the COVID-19 pandemic our technology infrastructure allowed us to seamlessly transition to a remote work environment. We increased technology effectiveness to allow our employees to remain fully engaged, productive and well. We also provided individualized support and equipment to our employees as needed to facilitate productivity. A substantial majority of our global workforce continues to work from home on a regular basis, as we continue to closely monitor and manage the situation regarding the COVID-19 pandemic and follow the recommended practices and guidelines from the World Health Organization and the local governments where our offices are located globally. Our Innovation Center of Excellence has partnered with cross-functional groups throughout the Company to help our employees address challenges, opportunities and long-term shifts in the remote
+
+11
+
+ 
+
+working paradigm introduced by the COVID-19 pandemic, such as re-imagining the future of work and supporting client needs.
+
+ 
+
+We have in place well-defined location and business-specific continuity plans and processes which have helped us to ensure the continued operation of critical products and services. During 2020, we did not delay any of our index rebalancings. Our index methodologies are designed to ensure continuity of calculation, maintenance and distribution, and appropriate treatment of global market volatility, circuit breaker events and exchange closures. Additionally, our production environment remained fully functional with the capacity not only to run our index and risk model calculations and produce our ESG ratings, but also to process our clients’ portfolios for risk and performance reports and to respond to ad-hoc demands for stress testing scenarios and COVID-19 risk analyses.
+
+ 
+
+Government Regulation
+
+ 
+
+The Company is subject to reporting, disclosure and recordkeeping obligations pursuant to SEC requirements.
+
+ 
+
+Pursuant to the European Union’s benchmark regulation, the United Kingdom’s Financial Conduct Authority (“UK FCA”) authorized MSCI Limited (a subsidiary of MSCI Inc.) to be the benchmark administrator for applicable MSCI indexes. Information about index regulation is periodically updated on our website at https://www.msci.com/index-regulation. The contents of our website, including this webpage, are not, however, a part of or incorporated by reference in this Annual Report on Form 10-K.
+
+ 
+
+MSCI ESG Research LLC is a registered investment adviser and must comply with the requirements of the Investment Advisers Act of 1940 (the “Advisers Act”) and related SEC regulations. Such requirements relate to, among other things, disclosure obligations, recordkeeping and reporting requirements, marketing restrictions and general anti-fraud prohibitions. It is possible that in addition to MSCI ESG Research LLC, other entities in our corporate family may be required to register as an investment adviser under the Advisers Act or comply with similar laws or requirements in states or foreign jurisdictions. We registered in 2012 with the State Council Information Office of the Ministry of Commerce and the State Administration for Industry and Commerce in China as a foreign institution supplying financial information services in China. This license is currently administered by the Cyberspace Administration of China.  
+
+Information About Our Executive Officers
+
+ 
+
+Name
+	
+
+  
+	
+
+Age
+	
+
+  
+	
+
+Position
+
+Henry A. Fernandez
+	
+
+  
+	
+
+62
+	
+
+  
+	
+
+Chairman and Chief Executive Officer
+
+C.D. Baer Pettit
+	
+
+  
+	
+
+56
+	
+
+  
+	
+
+President and Chief Operating Officer
+
+Andrew C. Wiechmann
+	
+
+  
+	
+
+41
+	
+
+  
+	
+
+Chief Financial Officer
+
+Robert J. Gutowski
+	
+
+  
+	
+
+53
+	
+
+  
+	
+
+General Counsel
+
+Scott A. Crum
+	
+
+  
+	
+
+64
+	
+
+  
+	
+
+Chief Human Resources Officer
+
+ 
+
+There are no family relationships between any of our executive officers and any director or other executive officer of the Company.
+
+Henry A. Fernandez
+
+Mr. Fernandez has served as Chairman since October 2007 and as Chief Executive Officer and a director since 1998. He also served as President from 1998 until October 2017. Before leading MSCI’s transition to becoming a fully independent, standalone public company in 2007, he was a Managing Director at Morgan Stanley, where he worked in emerging markets product strategy, equity derivative sales and trading, mergers and acquisitions, worldwide corporate finance and mortgage finance for U.S. financial institutions. Mr. Fernandez worked for Morgan Stanley from 1983 to 1991 and from 1994 to 2007. Mr. Fernandez also serves on the boards of directors/trustees of Royalty Pharma plc, Stanford University, King Abdullah University of Science and Technology, the Hoover Institution, the Memorial Sloan-Kettering Cancer Center, the Foreign Policy Association, and Catholic Charities of the Archdiocese of New York. Mr. Fernandez previously served on the boards of trustees at Georgetown University, the Trinity School, The Browning School and MexDer (Mexican Derivatives Exchange) and was the Chair of the Advisory Council at the Stanford University Graduate School of Business. He holds a Bachelor of Arts in economics from Georgetown University, an M.B.A. from the Stanford University Graduate School of Business and pursued doctoral studies in economics at Princeton University.
+
+12
+
+ 
+
+C.D. Baer Pettit
+
+Mr. Pettit has served as the Company's President since October 2017 and the Company’s Chief Operating Officer since January 2020. As President and Chief Operating Officer, Mr. Pettit oversees the Company's business functions, including client coverage, marketing, product management, research and product development, technology and operations. He previously served as Chief Operating Officer from 2015 to 2017, Head of the Product Group from February 2015 to September 2015, Head of Index Products from 2011 to 2015, Head of Marketing from 2005 to 2012 and Head of Client Coverage from 2001 to 2012. Prior to joining the Company, Mr. Pettit worked for Bloomberg L.P. from 1992 to 1999. Mr. Pettit holds a Master of Arts degree in history from Cambridge University and a Master of Science degree from the School of Foreign Service at Georgetown University.
+
+Andrew C. Wiechmann
+
+Mr. Wiechmann has served as the Chief Financial Officer since September 2020.  Mr. Wiechmann previously served as Chief Strategy Officer from May 2019 to September 2020, Interim Chief Financial Officer from March 2019 to May 2019, Head of Strategy and Corporate Development from July 2012 to March 2019, as Head of Investor Relations from December 2017 to March 2019 and Head of Financial Planning & Analysis from July 2015 to December 2017. Prior to joining MSCI in 2012, Mr. Wiechmann was an investment banker at Morgan Stanley where he executed M&A and capital markets transactions for financial technology and specialty finance companies, including advising MSCI on its IPO and various acquisitions. Mr. Wiechmann holds Bachelor of Arts degrees in Physics and Economics from Hamilton College.
+
+Robert J. Gutowski
+
+Mr. Gutowski has served as the Company’s General Counsel since January 2020. Mr. Gutowski previously served as the Company’s Deputy General Counsel and the Head of Compliance from 2010 to 2019 and the Head of Internal Audit from 2012 to 2019.  He joined MSCI in 2002.  Prior to joining MSCI, he was an attorney in private practice at Rogers & Wells LLP and Clifford Chance LLP. He received his B.A. from Georgetown University and his J.D. from the State University of New York at Buffalo Law School.
+
+Scott A. Crum
+
+Mr. Crum has served as the Chief Human Resources Officer since April 2014. Prior to joining MSCI, Mr. Crum served as global head of human resources for four publicly traded companies. Mr. Crum worked for Avon Products, Inc. as Senior Vice President of Human Resources and Chief People Officer from 2012 to 2013. From 2010 to 2012, Mr. Crum served as Senior Vice President and Chief People Officer of Motorola Mobility Holdings, Inc., one of two publicly traded companies formally created when Motorola Inc. split in January 2011 until it was acquired by Google. Prior to that, he served as the Senior Vice President and Director of Human Resources of ITT Corporation from 2002 to 2010 and Senior Vice President of Administration and Employee Resources at General Instruments Corp. from 1997 to 2000. Mr. Crum holds a Bachelor of Business Administration with a concentration in industrial relations from Southern Methodist University.
+
+Available Information
+
+Our corporate headquarters is located at 7 World Trade Center, 250 Greenwich Street, 49th Floor, New York, New York, 10007, and our telephone number is (212) 804-3900. We maintain a website on the internet at www.msci.com. The contents of our website are not a part of or incorporated by reference in this Annual Report on Form 10-K.
+
+We file annual, quarterly and current reports, proxy statements and other information with the SEC. The SEC maintains a website that contains reports, proxy and information statements and other information that we file electronically with the SEC at www.sec.gov. We also make available free of charge, on or through our website, these reports, proxy statements and other information as soon as reasonably practicable following the time they are electronically filed with or furnished to the SEC. To access these, click on the “SEC Filings” link found on our Investor Relations homepage (http://ir.msci.com).
+
+We also use our Investor Relations homepage, Corporate Responsibility homepage and corporate Twitter account (@MSCI_Inc) as channels of distribution of Company information. The information we post through these channels may be deemed material.
+
+Accordingly, investors should monitor these channels, in addition to following our press releases, SEC filings and public conference calls and webcasts. In addition, you may automatically receive email alerts and other
+
+13
+
+ 
+
+information about us when you enroll your email address by visiting the “Email Alert Subscription” section of our Investor Relations homepage at http://ir.msci.com/alerts.cfm. The contents of our website, including our Investor Relations homepage, Corporate Responsibility homepage and social media channels are not, however, a part of or incorporated by reference in this Annual Report on Form 10-K.

@@ -1,0 +1,711 @@
+We develop, manufacture and sell specialized semiconductor products used by our customers for a wide variety of embedded control applications. Our product portfolio comprises general purpose and specialized 8-bit, 16-bit, and 32-bit microcontrollers, 32-bit microprocessors, field-programmable gate array (FPGA) products, a broad spectrum of high-performance linear, mixed-signal, power management, thermal management, discrete diodes and Metal Oxide Semiconductor Field Effect Transistors (MOSFETS), radio frequency (RF), timing, timing systems, safety, security, wired connectivity and wireless connectivity devices, as well as Serial Electrically Erasable Programmable Read Only Memory (EEPROM), Serial Flash memories, Parallel Flash memories, Serial Electrically Erasable Random Access Memory (EERAM) and Serial Static Random Access Memory (SRAM). We also license Flash-IP solutions that are incorporated in a broad range of products.  Our synergistic product portfolio targets thousands of applications worldwide and a strong demand for high-performance designs in the automotive, aerospace, defense, space, communications, computing, consumer and industrial control markets.  We comply with several quality systems, including: ISO9001 (2015 version), IATF16949 (2016 version), AS9100 (2016 version), and TL9000.
+ 
+Microchip Technology Incorporated was incorporated in Delaware in 1989.  Our executive offices are located at 2355 West Chandler Boulevard, Chandler, Arizona 85224-6199 and our telephone number is (480) 792-7200.
+ 
+Our Internet address is www.microchip.com.  We post the following filings on our website as soon as reasonably practicable after they are electronically filed with or furnished to the Securities and Exchange Commission:
+ 
+	
+•
+	
+our annual report on Form 10-K
+	
+•
+	
+our quarterly reports on Form 10-Q
+	
+•
+	
+our current reports on Form 8-K
+	
+•
+	
+our proxy statement
+	
+•
+	
+any amendments to the above-listed reports filed or furnished pursuant to Sections 13(a) or 15(d) of the Securities Exchange Act of 1934
+
+All of our SEC filings on our website are available free of charge.  The information on our website is not incorporated into this Form 10-K.
+
+Acquisition of Microsemi
+
+On May 29, 2018, we completed our acquisition of Microsemi Corporation (Microsemi), a publicly traded company headquartered in Aliso Viejo, California. We paid an aggregate of approximately $8.19 billion in cash to the stockholders of Microsemi. The total consideration transferred in the acquisition, including approximately $53.9 million of non-cash consideration for the exchange of certain share-based payment awards of Microsemi for stock awards of Microchip, was approximately $8.24 billion. In addition to the consideration transferred, we recognized in our consolidated financial statements $3.23 billion in liabilities of Microsemi consisting of debt, taxes payable and deferred, pension obligations, restructuring, and contingent and other liabilities of which $2.06 billion of existing debt was paid off. We financed the purchase price using approximately $8.10 billion of borrowings consisting of $3.10 billion of loans under our revolving line of credit (the "Revolving Credit Facility"), $3.00 billion of term loans ("Term Loan Facility") provided under our amended and restated Credit Agreement, and $2.00 billion in newly issued senior secured notes. We incurred $22.0 million in costs related to the acquisition. As a result of the acquisition, Microsemi became a wholly owned subsidiary of Microchip. Microsemi offers a comprehensive portfolio of semiconductor and system solutions for aerospace and defense, communications, data center and industrial markets. Our primary reason for this acquisition was to expand our range of solutions, products and capabilities by extending our served available market.
+
+3
+Table of Contents
+
+
+Industry Background
+ 
+Competitive pressures require original equipment manufacturers (OEM) of a wide variety of products to expand product functionality and provide differentiation while maintaining or reducing cost.  To address these requirements, manufacturers often use integrated circuit-based embedded control systems that enable them to:
+ 
+	
+•
+	
+differentiate their products
+	
+•
+	
+replace less efficient electromechanical control devices
+	
+•
+	
+reduce the number of components in their system
+	
+•
+	
+add product functionality
+	
+•
+	
+reduce the system level energy consumption
+	
+•
+	
+make systems safer to operate
+	
+•
+	
+add security to their products
+	
+•
+	
+decrease time to market for their products
+	
+•
+	
+significantly reduce product cost
+
+Embedded control systems have been incorporated into thousands of products and subassemblies in a wide variety of applications and markets worldwide, including:
+ 
+	
+•
+	
+actuators
+	
+•
+	
+applications needing touch buttons, touch screens and graphical user interfaces
+	
+•
+	
+automotive access control
+	
+•
+	
+automotive comfort, safety, information and entertainment applications
+	
+•
+	
+avionics
+	
+•
+	
+building automation
+	
+•
+	
+communication infrastructure systems
+	
+•
+	
+consumer electronics
+	
+•
+	
+defense and military hardware
+	
+•
+	
+energy monitoring
+	
+•
+	
+handheld tools
+	
+•
+	
+industrial automation
+	
+•
+	
+large and small home appliances
+	
+•
+	
+medical devices
+	
+•
+	
+motor controls
+	
+•
+	
+portable computers and accessories
+	
+•
+	
+power supplies
+	
+•
+	
+remote control devices
+	
+•
+	
+robotics
+	
+•
+	
+routers and video surveillance systems
+	
+•
+	
+satellites
+	
+•
+	
+security systems
+	
+•
+	
+smoke and carbon monoxide detectors
+	
+•
+	
+storage and server systems
+	
+•
+	
+thermostats
+
+Embedded control systems typically incorporate a microcontroller as the principal active, and sometimes sole, component.  A microcontroller is a self-contained computer-on-a-chip consisting of a central processing unit, often with on-board non-volatile program memory for program storage, random access memory for data storage and various analog and digital input/output peripheral capabilities.  In addition to the microcontroller, a complete embedded control system often incorporates application-specific software, various analog, mixed-signal, timing, connectivity, security and non-volatile memory components such as EEPROMs and Flash memory.
+ 
+The increasing demand for embedded control has made the market for microcontrollers a significant segment of the semiconductor market at $18 billion in calendar year 2019.  Microcontrollers are primarily available in 8-bit through 32-bit architectures.  8-bit microcontrollers remain very cost-effective and easy to use for a wide range of high-volume embedded control applications and, as a result, continue to represent a significant portion of the overall microcontroller market.  16-bit and 32-bit microcontrollers provide higher performance and functionality, and are generally found in more complex embedded control applications. FPGAs are programmable integrated circuits that are used to implement complex logic functions and can
+
+4
+Table of Contents
+
+be re-programmed at any time, allowing for multiple implementations and revisions during or after the end customer system is manufactured. Some versions of FPGAs also include a microcontroller or microprocessor core to provide additional system on chip functionality for compute intensive tasks. The analog and mixed-signal segment of the semiconductor market was $56 billion in calendar year 2019, and this market is fragmented into a large number of sub segments.
+ 
+Our Products
+ 
+Our strategic focus is on embedded control solutions, including:
+ 
+	
+•
+	
+general purpose and specialized microcontrollers and microprocessors
+	
+•
+	
+wired and wireless connectivity products
+	
+•
+	
+development tools and related software
+	
+•
+	
+analog, interface, mixed signal, timing, timing systems and security products
+	
+•
+	
+discrete diodes and MOSFETS
+	
+•
+	
+FPGA products
+	
+•
+	
+memory products
+	
+•
+	
+technology licensing
+
+We provide cost-effective embedded control solutions that also offer the advantages of small size, high performance, extreme low power usage, wide voltage range operation, mixed signal integration, and ease of development, thus enabling timely and cost-effective integration of our solutions by our customers in their end products.
+
+Microcontrollers
+
+We offer a broad family of proprietary general purpose microcontroller products marketed under multiple brand names.  We believe that our microcontroller product families provide leading function and performance characteristics in the worldwide microcontroller market. With over 3,950 microcontrollers in our product portfolio, we target the 8-bit, 16-bit, and 32-bit microcontroller and 32-bit embedded microprocessor markets.  We have shipped more than 27.2 billion microcontrollers to customers worldwide since 1990.  We also offer specialized microcontrollers for automotive, industrial, computing, communications, lighting, power supplies, motor control, human machine interface, security, wired connectivity and wireless connectivity applications.
+ 
+We leverage our circuit design, process technologies, development tools, applications knowledge, and manufacturing experiences to enable our customers to implement various embedded control functions in their end systems with our microcontrollers.
+ 
+Development Tools
+ 
+We offer a comprehensive set of low-cost and easy-to-learn application development tools.  These tools enable system designers to quickly and easily program our microcontroller products for specific applications and, we believe, they are an important factor for facilitating design wins.
+ 
+Our family of development tools for our microcontroller products range from entry-level systems, which include an assembler or a compiler and programmer or in-circuit debugging hardware, to fully configured systems that provide in-circuit emulation capability.  We also offer a complete suite of compilers, software code configurators and simulators. Customers moving from entry-level designs to those requiring real-time emulation are able to preserve their investment in learning and tools as they migrate to future microcontroller devices in our portfolio.
+
+Many independent companies also develop and market application development tools that support our microcontroller product architectures, including an extensive amount of third-party tool suppliers whose products support our microcontroller architectures.
+ 
+We believe that familiarity with and adoption of development tools from Microchip as well as third-party development tool partners by an increasing number of product designers will be an important factor in the future selection of our embedded control products.  These development tools allow design engineers to develop thousands of application-specific products from our standard microcontrollers.
+
+Analog, Power, Interface, Mixed Signal and Timing Products
+ 
+
+5
+Table of Contents
+
+Our analog, power, interface, mixed signal and timing products consist of several families with over 8,900 power management, linear, mixed-signal, high voltage, thermal management, discrete diodes and MOSFETS, RF, drivers, safety, security, timing, USB, ethernet, wireless and other interface products.  
+ 
+We market and sell our analog, power, interface, mixed signal and timing products into our microcontroller, microprocessor and FPGA customer base, and to customers who use microcontrollers and FPGA products from other suppliers and to customers who use other products that may not fit our traditional microcontroller, FPGA and memory products customer base.
+ 
+Field-Programmable Gate Array (FPGA) Products
+
+Our FPGA product line was primarily acquired as a part of our acquisition of Microsemi. Our portfolio of non-volatile FPGAs range in densities from 100 to 481,000 logic elements and are recognized for their low power, high security and extended reliability. We market and sell our FPGA products and related solutions into a broad range of applications within the industrial, defense, aviation, space and communications markets.
+
+We offer a comprehensive set of development tools for our FPGA products. These tools enable system designers to visualize, implement, simulate and program complex logic functions in the FPGA. Our development tool suite manages the entire design flow from design entry, simulation, synthesis, through place-and-route, timing, and power analysis. We also provide C/C++ development and debugging environment to support our FPGAs that implement embedded microcontrollers or microprocessor cores.
+
+Licensing, Memory and Other (LMO)
+
+Our LMO product line includes royalties associated with licenses for the use of our SuperFlash and other technologies, sales of our intellectual property, fees for engineering services, memory products, timing systems, manufacturing services (wafer foundry and assembly and test subcontracting), legacy application specific integrated circuits, and products for aerospace applications.
+
+Our technology licensing business generates license fees and royalties associated with technology licenses for the use of our SuperFlash® embedded flash and Smartbits® one time programmable NVM technologies. We also generate fees for engineering services related to these technologies. We license our NVM technologies to foundries, integrated device manufacturers and design partners throughout the world for use in the manufacture of their advanced microcontroller products, gate array, RF, analog and neuromorphic compute products that require embedded non-volatile memory.
+
+Our memory products consist of EEPROMs, Serial Flash memories, Parallel Flash memories, Serial SRAM memories and EERAM. Serial EEPROMs, Serial Flash memories, Serial SRAMs and EERAM have a very low I/O pin requirement, permitting production of very small footprint devices. We sell our memory products primarily into the embedded control
+market, complementing our microcontroller offerings.
+
+Manufacturing
+ 
+Our manufacturing operations include wafer fabrication, wafer probe, assembly and test.  The ownership of a substantial portion of our manufacturing resources is an important component of our business strategy, enabling us to maintain a high level of manufacturing control, resulting in us being one of the lowest cost producers in the embedded control industry.  By owning wafer fabrication facilities and our assembly and test operations, and by employing statistical techniques (statistical process control, designed experiments and wafer level monitoring), we have been able to achieve and maintain high production yields.  Direct control over manufacturing resources allows us to shorten our design and production cycles.  This control also allows us to capture a portion of the wafer manufacturing and assembly and testing profit margin. We do outsource a significant portion of our manufacturing requirements to third parties and the amount of our outsourced manufacturing has increased in recent years due to our acquisitions of Microsemi and other companies that outsource all or substantial portions of their manufacturing.
+
+Our manufacturing facilities are located in:
+ 
+	
+•
+	
+United States
+	
+◦
+	
+Chandler, Arizona (wafer probe)
+	
+◦
+	
+Tempe, Arizona (Fab 2)
+	
+◦
+	
+Gresham, Oregon (Fab 4)
+
+6
+Table of Contents
+
+	
+◦
+	
+Colorado Springs, Colorado (Fab 5)
+	
+◦
+	
+Garden Grove, California (manufacturing, R&D and administrative)
+	
+◦
+	
+San Jose, California (manufacturing, R&D, and administrative)
+	
+◦
+	
+Simsbury, Connecticut (manufacturing, R&D and administrative)
+	
+◦
+	
+Beverly, Massachusetts (manufacturing)
+	
+◦
+	
+Lawrence, Massachusetts (manufacturing and administrative)
+	
+◦
+	
+Lowell, Massachusetts (wafer fabrication, assembly and test, R&D, warehousing and administrative)
+	
+◦
+	
+Mt. Holly Springs, Pennsylvania (manufacturing, R&D and administrative)
+	
+•
+	
+Thailand
+	
+◦
+	
+Chacherngsao (wafer probe, assembly and test)
+	
+•
+	
+Philippines
+	
+◦
+	
+Calamba, Laguna (wafer probe and test)
+	
+•
+	
+France
+	
+◦
+	
+Nantes, Loire-Atlantique (design, engineering, test, probe, administrative and warehousing)
+	
+•
+	
+Ireland
+	
+◦
+	
+Ennis, County Clare (manufacturing)
+	
+•
+	
+Germany
+	
+◦
+	
+Neckarbischofsheim, Baden-Württemberg (manufacturing and administrative)
+	
+◦
+	
+Teltow, Brandenburg (wafer fabrication, assembly and test, wafer probe, R&D, warehousing and administrative)
+
+Wafer Fabrication
+ 
+Fab 2 currently produces 8-inch wafers and supports various manufacturing process technologies, but predominantly utilizes our 0.5 microns to 1.0 microns processes.  During fiscal 2020, we increased Fab 2's capacity to support more advanced technologies by making process improvements, upgrading existing equipment, and adding equipment.
+ 
+Fab 4 currently produces 8-inch wafers using predominantly 0.13 microns to 0.5 microns manufacturing processes.  During fiscal 2020, we increased Fab 4's capacity to support more advanced technologies by making process improvements, upgrading existing equipment, and adding equipment. A significant amount of additional clean room capacity in Fab 4 can be brought on line in the future to support incremental wafer fabrication capacity needs. 
+
+Fab 5 is a 6-inch wafer fabrication facility that currently utilizes processes from 0.25 microns to 1.0 microns. During fiscal 2020, we announced our intention to re-purpose Fab 5 to manufacture discrete and specialty products in addition to a lower volume of a diversified set of standard products. In connection with these efforts, we reduced the clean room footprint and transferred certain higher volume products to our 8-inch wafer fabrication facilities in Arizona and Oregon. We anticipate that these actions will result in significant cost savings over the next several years.
+ 
+We believe the combined capacity of Fab 2, Fab 4, and Fab 5 will provide sufficient capacity to allow us to respond to increases in future demand over the next several years with modest incremental capital expenditures.
+
+As a result of our acquisition of Microsemi, we acquired several smaller wafer fabrication facilities, which utilize older technologies that are appropriate for the discrete products they manufacture. We plan to operate these fabrication facilities with modest investment to keep them operational with the exception of the facility in Bend, Oregon, which discontinued production in March 2019, and the facility in Santa Clara, California, which we plan to close by March 2021.
+
+We continue to transition products to more advanced process technologies to reduce future manufacturing costs.  We believe that our ability to successfully transition to more advanced process technologies is important for us to remain competitive.
+ 
+We augment our internal manufacturing capabilities by outsourcing a significant portion of our wafer production requirements to third-party wafer foundries.  As a result of our acquisitions in recent years, we have become more reliant on outside wafer foundries for our wafer fabrication requirements.  In fiscal 2020, approximately 61% of our sales came from products that were produced at outside wafer foundries.
+
+Assembly and Test
+ 
+We perform product assembly and test at various facilities located around the world. During fiscal 2020, we increased capacity at our Thailand and Philippines facilities to support more technologies by making process improvements, upgrading
+
+7
+Table of Contents
+
+existing equipment, and adding equipment. During fiscal 2020, approximately 45% of our assembly requirements were being performed in our internal facilities and approximately 54% of our test requirements were performed in internal facilities.  We use third-party assembly and test contractors for the balance of our assembly and test requirements. Over time, we intend to continue to migrate a portion of the outsourced assembly and test activities to our internal facilities.
+
+General Matters Impacting Our Manufacturing Operations
+ 
+Due to the high fixed costs inherent in semiconductor manufacturing, consistently high manufacturing yields have significant positive effects on our gross profit and overall operating results.  Our continuous focus on manufacturing productivity has allowed us to maintain excellent manufacturing yields at our facilities.  Our manufacturing yields are primarily driven by a comprehensive implementation of statistical process control, extensive employee training and effective use of our manufacturing facilities and equipment.  Maintenance of manufacturing productivity and yields are important factors in the achievement of our operating results.  The manufacture of integrated circuits, particularly non-volatile, erasable complementary metal-oxide semiconductor (CMOS) memory and logic devices, such as those that we produce, are complex processes.  These processes are sensitive to a wide variety of factors, including the level of contaminants in the manufacturing environment, impurities in the materials used and the performance of our manufacturing personnel and equipment.  As is typical in the semiconductor industry, we have from time to time experienced lower than anticipated manufacturing yields.  Our operating results will suffer if we are unable to maintain yields at or above approximately the current levels.
+
+Historically, we have relied on our ability to respond quickly to customer orders as part of our competitive strategy, resulting in customers placing orders with relatively short delivery schedules.  In order to respond to such requirements, we have historically maintained a significant work-in-process and finished goods inventory.
+ 
+The following table summarizes our long-lived assets (consisting of property, plant and equipment and right-of-use assets) by geography at the end of fiscal 2020, fiscal 2019 and fiscal 2018 (in millions).
+											
+ 
+	
+March 31,
+ 
+	
+2020
+	
+ 
+	
+2019
+	
+ 
+	
+2018
+United States
+	
+$
+	
+515.0
+	
+
+	
+ 
+	
+$
+	
+521.1
+	
+
+	
+ 
+	
+$
+	
+393.3
+	
+
+Thailand
+	
+174.4
+	
+
+	
+ 
+	
+209.3
+	
+
+	
+ 
+	
+215.5
+	
+
+Various other countries
+	
+306.2
+	
+
+	
+ 
+	
+266.3
+	
+
+	
+ 
+	
+159.1
+	
+
+Total long-lived assets(1)
+	
+$
+	
+995.6
+	
+
+	
+ 
+	
+$
+	
+996.7
+	
+
+	
+ 
+	
+$
+	
+767.9
+	
+
+
+(1) The amounts presented for March 31, 2020 include right-of-use assets of $119.5 million due to the adoption of Accounting Standards Codification Topic 842, Leases, under the retrospective cumulative effect adjustment transition method. The disclosures are not applicable for the fiscal years ended March 31, 2019 and March 31, 2018 (see Note 11, Leases, for further information).
+
+We have many suppliers of raw materials and subcontractors which provide our various materials and service needs. We generally seek to have multiple sources of supply for our raw materials and services, but, in some cases, we may rely on a single or limited number of suppliers.
+
+Sales and Distribution
+ 
+General
+ 
+We market and sell our products worldwide primarily through a network of direct sales personnel and distributors.
+ 
+Our direct sales force focuses on a wide variety of strategic accounts in three geographical markets: the Americas, Europe and Asia.  We currently maintain sales and technical support centers in major metropolitan areas in all three geographic markets.  We believe that a strong technical service presence is essential to the continued development of the embedded control market.  Many of our client engagement managers, embedded solutions engineers (ESEs), and sales management have technical degrees or backgrounds and have been previously employed in high technology environments.  We believe that the technical and business knowledge of our sales force is a key competitive advantage in the sale of our products.  The primary mission of our ESE team is to provide technical assistance to customers and to conduct periodic training sessions for the balance of our sales team.  ESEs also frequently conduct technical seminars and workshops in major cities around the world or through online webcasts.
+ 
+
+8
+Table of Contents
+
+Our licensing division has dedicated sales, technology, design, product, test and reliability personnel that support the requirements of our licensees.
+ 
+For information regarding our revenue, results of operations, and total assets for each of our last three fiscal years, refer to our financial statements included in this Form 10-K.
+
+Distribution
+ 
+Our distributors focus primarily on servicing the product requirements of a broad base of diverse customers.  We believe that distributors provide an effective means of reaching this broad and diverse customer base.  We believe that customers recognize us for our products and brand name and use distributors as an effective supply channel.
+ 
+In fiscal 2020, we derived 50% of our net sales through distributors and 50% of our net sales from customers serviced directly by us. In fiscal 2019, we derived 51% of our net sales through distributors and 49% of our net sales from customers serviced directly by us. In fiscal 2018, we derived 54% of our net sales through distributors and 46% of our net sales from customers serviced directly by us. With the exception of Arrow Electronics, our largest distributor, which made up 10% of our net sales in fiscal 2020 and fiscal 2019, no other distributor or end customer accounted for more than 10% of our net sales. In fiscal 2018, no distributor or end customer accounted for more than 10% of our net sales.
+ 
+We do not have long-term purchase commitments from our distributors and we, or our distributors, may each terminate our relationship with little or no advanced notice.  The loss of, or the disruption in the operations of, one or more of our distributors could reduce our future net sales in a given quarter and could result in an increase in inventory returns.
+
+Backlog
+ 
+As of March 31, 2020, our backlog was approximately $2.42 billion, compared to $2.20 billion as of March 31, 2019.  Our backlog includes all purchase orders scheduled for delivery within the subsequent 12 months.
+
+We primarily produce standard products that can be shipped from inventory within a relatively short time after we receive an order.  Our business and, to a large extent, that of the entire semiconductor industry, is characterized by short-term orders and shipment schedules.  Orders constituting our current backlog are subject to changes in delivery schedules, or to cancellation at the customer's option without significant penalty.  Thus, while backlog is useful for scheduling production, backlog as of any particular date may not be a reliable measure of our sales for any future period.
+ 
+Competition
+ 
+The semiconductor industry is intensely competitive and has been characterized by price erosion and rapid technological change.  We compete with major domestic and international semiconductor companies, some of which have greater market recognition and greater financial, technical, marketing, distribution and other resources than we have with which to pursue engineering, manufacturing, marketing and distribution of their products.  We also compete with a number of companies that we believe have copied, cloned, pirated or reverse engineered our proprietary product lines in such countries as China and Taiwan.  We are continuing to take actions to vigorously and aggressively defend and protect our intellectual property on a worldwide basis.
+
+We currently compete principally on the basis of the technical innovation and performance of our embedded control products, including the following product characteristics:
+ 
+	
+•
+	
+performance
+	
+•
+	
+analog, digital and mixed signal functionality and level of functional integration
+	
+•
+	
+field programmability
+	
+•
+	
+memory density
+	
+•
+	
+low power consumption
+	
+•
+	
+extended voltage ranges
+	
+•
+	
+reliability
+	
+•
+	
+packaging alternatives
+	
+•
+	
+completeness of development tool line
+
+We believe that other important competitive factors in the embedded control market include:
+ 
+
+9
+Table of Contents
+
+	
+•
+	
+ease of use
+	
+•
+	
+functionality of application development systems
+	
+•
+	
+dependable delivery, quality and availability
+	
+•
+	
+technical and innovative service and support
+	
+•
+	
+time to market
+	
+•
+	
+price
+
+We believe that we compete favorably with other companies on all of these factors, but we may be unable to compete successfully in the future, which could harm our business.
+
+Patents, Licenses and Trademarks
+ 
+We maintain a portfolio of U.S. and foreign patents, expiring on various dates through 2039.  We also have numerous additional U.S. and foreign patent applications pending.  We do not expect that the expiration of any particular patent will have a material impact on our business.  While our intention is to continue to patent our technology and manufacturing processes, we believe that our continued success depends primarily on the technological skills and innovative capabilities of our personnel and our ability to rapidly commercialize new and enhanced products.  As with any operating company, the scope and strength of our intellectual property assets, including our pending and existing patents, trademarks, copyrights, and other intellectual property rights may be insufficient to provide meaningful protection or commercial advantage.  Moreover, pursuing violations of intellectual property rights on a worldwide basis is a complex challenge involving multinational patent, trademark, copyright and trade secret laws. Further, the laws of particular foreign countries often fail to protect our intellectual property rights to the same extent as the laws of the U.S.
+ 
+We have also entered into certain intellectual property licenses and cross-licenses with other companies and those licenses relate to semiconductor products and manufacturing processes.  As is typical in the semiconductor industry, we and our customers from time to time receive, and may continue to receive, demand letters from third parties asserting infringement of patent and other intellectual property rights.  We diligently investigate all such notices and respond as we believe appropriate.  In most cases we believe that we can obtain necessary licenses on commercially reasonable terms, however, we cannot be certain that this would be the case, or that litigation or damages for any past infringement could be avoided. Litigation, which could result in substantial costs and require significant attention from management, may be necessary to enforce our intellectual property rights, or to defend against claimed infringement of the rights of others.  The failure to obtain necessary licenses, or the necessity of engaging in defensive litigation, could harm our business.
+
+Environmental Regulation
+ 
+We must comply with many different federal, state, local and foreign governmental regulations related to the use, storage, discharge and disposal of certain chemicals and gases used in our manufacturing processes.  Our facilities have been designed to comply with these regulations and we believe that our activities are conducted in material compliance with such regulations. Any changes in such regulations or in their enforcement could require us to acquire costly equipment or to incur other significant expenses to comply with environmental regulations.  Any failure by us to adequately control the storage, use, discharge and disposal of regulated substances could result in significant future liabilities.
+ 
+Increasing public attention has been focused on the environmental impact of electronic manufacturing operations.  While we have not experienced any materially adverse effects on our operations from recently adopted environmental regulations, our business and results of operations could suffer if for any reason we fail to control the storage or use of, or to adequately restrict the discharge or disposal of, hazardous substances under present or future environmental regulations.
+ 
+Employees
+ 
+As of March 31, 2020, we had approximately 18,000 employees.  We have never had a work stoppage and believe that our employee relations are good.
+
+
+10
+Table of Contents
+
+Executive Officers of the Registrant
+
+The following sets forth certain information regarding our executive officers as of April 30, 2020:
+
+				
+Name
+	
+ 
+	
+Age
+	
+ 
+	
+Position
+Steve Sanghi
+	
+ 
+	
+64
+	
+ 
+	
+Chief Executive Officer and Chairman of the Board
+Ganesh Moorthy
+	
+ 
+	
+60
+	
+ 
+	
+President and Chief Operating Officer
+J. Eric Bjornholt
+	
+ 
+	
+49
+	
+ 
+	
+Senior Vice President, Chief Financial Officer
+Stephen V. Drehobl
+	
+ 
+	
+58
+	
+ 
+	
+Senior Vice President, MCU8 and MCU16 Business Units
+Mitchell R. Little
+	
+ 
+	
+68
+	
+ 
+	
+Senior Vice President, Worldwide Client Engagement
+Richard J. Simoncic
+	
+ 
+	
+56
+	
+ 
+	
+Senior Vice President, Analog Power and Interface Business Units
+
+Mr. Sanghi has served as Chief Executive Officer since October 1991, and as Chairman of the Board since October 1993.  He served as President from August 1990 to February 2016 and has served as a director since August 1990.  Mr. Sanghi holds an M.S. degree in Electrical and Computer Engineering from the University of Massachusetts and a B.S. degree in Electronics and Communication from Punjab University. Mr. Sanghi served on the Board of Directors of Myomo, Inc., a publicly traded commercial stage medical robotics company that offers expanded mobility for those suffering from neurological disorders and upper-limb paralysis, from November 2016 through October 2019.  Mr. Sanghi served on the board of Mellanox Technologies Ltd., a publicly traded supplier of end-to-end Ethernet and InfiniBand intelligent interconnect solutions and services for servers, storage, and hyper-converged infrastructure, from February 2018 through April 2020.
+
+ Mr. Moorthy has served as President since February 2016 and as Chief Operating Officer since June 2009. He also served as Executive Vice President from October 2006 to August 2012 and as a Vice President in various roles since he joined Microchip in 2001.  Prior to this time, he served in various executive capacities with other semiconductor companies.  Mr. Moorthy holds an M.B.A. in Marketing from National University, a B.S. degree in Electrical Engineering from the University of Washington and a B.S. degree in Physics from the University of Mumbai, India. Mr. Moorthy was elected to the Board of Directors of Rogers Corporation in July 2013 and serves on the Audit Committee of the Board and as the Nominating and Governance Committee Chairperson.
+
+Mr. Bjornholt was promoted to Senior Vice President in 2019 and has served as Vice President of Finance since 2008 and as Chief Financial Officer since January 2009.  He has served in various financial management capacities since he joined Microchip in 1995.  Mr. Bjornholt holds a Master's degree in Taxation from Arizona State University and a B.S. degree in Accounting from the University of Arizona.
+
+Mr. Drehobl was promoted to Senior Vice President in 2019 and has served as Vice President of the MCU8 business unit and various other divisions and business units since July 2001. He has been employed by Microchip since August 1989 and has served as a Vice President in various roles since February 1997.  Mr. Drehobl holds a Bachelor of Technology degree from the University of Dayton.
+
+Mr. Little was promoted to Senior Vice President in 2019 and has served as Vice President of Worldwide Sales since July 2000.  He has been employed by Microchip since 1989 and has served as a Vice President in various roles since September 1993.  Mr. Little holds a B.S. degree in Engineering Technology from United Electronics Institute.
+
+Mr. Simoncic was promoted to Senior Vice President in 2019 and has served as Vice President, Analog Power and Interface Business Units since September 1999.  From October 1995 to September 1999, he served as Vice President in various roles.  Since joining Microchip in 1990, Mr. Simoncic held various roles in Design, Device/Yield Engineering and Quality Systems.  Mr. Simoncic holds a B.S. degree in Electrical Engineering Technology from DeVry Institute of Technology.

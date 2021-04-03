@@ -1,0 +1,593 @@
+Overview
+
+MarketAxess Holdings Inc. (the “Company” or “MarketAxess”) operates leading electronic trading platforms delivering expanded liquidity opportunities, improved execution quality and significant cost savings across global fixed-income markets. Over 1,800 institutional investor and broker-dealer firms are active users of our patented trading technology, accessing global liquidity on our platforms in U.S. investment-grade bonds, U.S. high-yield bonds, U.S. Treasuries, municipal bonds, emerging market debt, Eurobonds and other fixed income securities. Through our Open Trading™ protocols, we execute bond trades between and among institutional investor and broker-dealer clients in our leading all-to-all anonymous trading environment. We also offer a number of trading-related products and services, including: Composite+™ pricing and other market data products to assist clients with trading decisions; auto-execution and other execution services for clients requiring specialized workflow solutions; connectivity solutions that facilitate straight-through processing; and technology services to optimize trading environments. In addition, we provide a range of pre- and post-trade services, including trade matching, trade publication, regulatory transaction reporting and market and reference data across a range of fixed-income and other products.
+
+ 
+
+Our platforms’ innovative technology solutions are designed to increase the number of potential trading counterparties and create a menu of solutions to address different trade sizes and bond liquidity characteristics. Our traditional Request-For-Quote (“RFQ”) model allows our institutional investor clients to simultaneously request competing, executable bids or offers from our broker-dealer clients and execute trades with the broker-dealer of their choice from among those that choose to respond. Our anonymous trading protocols (referred to throughout as “Open Trading”) complement our RFQ model by increasing the number of potential counterparties and improving liquidity by allowing all participants to interact anonymously in an all-to-all trading environment. Clients can use our auto-execution technology with both our traditional RFQ and Open Trading protocols, thereby using rules-based execution to connect to diverse sources of liquidity while reducing trading inefficiencies and human errors. Live Markets, an order book that provides a single view of two-way, actionable prices for the most active corporate bonds, including newly issued debt, benchmark issues and news-driven securities, leverages the benefits of our Open Trading marketplace and allows participants to efficiently trade liquid names in larger size.
+
+Our services relating to trade execution range from providing a suite of trading protocols designed to fit the trading needs of our clients to innovative new trading technologies, such as auto-execution and the use of artificial intelligence, to assist our clients’ trading decisions. Trading protocols include single and multiple-dealer inquiries; list trading, which is the ability to request bids and offers on up to 200 bonds at the same time; portfolio trading, which allows clients to competitively trade baskets of up to 1,500 securities; and swap trading, which is the ability to request an offer to purchase one bond and a bid to sell another bond. Auto-execution allows clients to set eligibility criteria for their orders that our system will use to determine whether or not to execute a trade in accordance with the pre-defined parameters. Once a trade is completed, clients will settle the trade with the assistance of our automated post-trade messaging, which facilitates the communication of trade acknowledgment and allocation information between our institutional investor and broker-dealer clients.
+
+We are not a party to any of the disclosed trades that occur on our platforms between institutional investor clients and broker-dealer clients; rather, we serve as an intermediary between broker-dealers and institutional investors, enabling them to meet, agree on a price and then transact directly with each other. However, in connection with our Open Trading and other anonymous protocols, we execute bond transactions between and among institutional investor and broker-dealer clients on a matched principal basis by serving as counterparty to both the buyer and the seller in matching back-to-back trades. In 2020, 32.7% of all credit volume on the MarketAxess platform was executed via Open Trading protocols, up from 26.3% in 2019.
+
+3
+
+ 
+
+Our broker-dealer clients accounted for approximately 98.5% of the underwriting of newly-issued U.S. corporate bonds and approximately 86.4% of the underwriting of newly issued European corporate bonds in 2020. Although institutional investors, specialist market-making firms, proprietary trading firms and other non-traditional liquidity providers have increasingly provided liquidity on our platforms through Open Trading, we believe these broker-dealers still represent the principal source of secondary market liquidity in the markets in which we operate. Secondary market liquidity refers to the ability of market participants to buy or sell a security quickly and in large volume following the original issuance of the security, without substantially affecting the price of the security.
+
+In 2020, our volume in U.S. high-grade and high yield corporate bonds represented approximately 21.6% and 14.6%, respectively, of the total estimated U.S. high-grade and high yield corporate bond volumes, as reported by the Financial Industry Regulatory Authority (“FINRA”) Trade Reporting and Compliance Engine (“TRACE”). TRACE facilitates the mandatory reporting of over-the-counter (“OTC”) secondary market transactions in eligible fixed-income securities in the U.S., including trading between institutional investors and broker-dealers, as well as inter-dealer and retail trading. All broker-dealers that are FINRA member firms have an obligation to report transactions in corporate bonds to TRACE under a set of rules approved by the Securities and Exchange Commission (“SEC”).
+
+We provide trade matching and regulatory reporting services for European investment firms and market and reference data across a range of fixed-income products. In response to the pre-and post-trade transparency mandates from the recast Markets in Financial Instruments Directive (“MiFID II”) in Europe, we have been authorized by each of the United Kingdom (“U.K.”) Financial Conduct Authority (“FCA”) and the Netherlands Authority for the Financial Markets (“AFM”) as an Approved Publication Arrangement (“APA”) and an Approved Reporting Mechanism (“ARM”). In addition to our APA and ARM reporting services, we have developed a comprehensive suite of value-add solutions for MiFID II, including pre-trade transparency services, systematic internaliser (“SI”) determination and monitoring, best execution reporting, commodity position reporting, data quality analysis and peer benchmarking.
+
+In 2020, 92.1% of our revenues were derived from commissions for transactions executed on our platforms. We also derive revenues from information services, post-trade services and other income. Our revenue can be impacted by seasonal effects caused by increased levels of new bond issuance, which often occurs in the first quarter of a year, or slow-downs in trading activity, particularly during the customary holiday periods in August and December. Our expenses consist of employee compensation and benefits, depreciation and amortization, technology and communication expenses, professional and consulting fees, occupancy, marketing and advertising, clearing costs and other general and administrative expenses.
+
+Industry Background
+
+Fixed-income securities are issued by corporations, governments and other entities, and pay a pre-set absolute or relative rate of return. As of September 30, 2020, the most recent date available, there were approximately $50.1 trillion principal amount of fixed-income securities outstanding in the U.S. market, including $10.4 trillion principal amount of U.S. corporate bonds and $20.4 trillion principal amount of U.S. government bonds, according to the Securities Industry and Financial Markets Association (“SIFMA”). The estimated average daily trading volume of U.S. corporate bonds, as measured by TRACE, was $35.8 billion in 2020. Primary dealer holdings of U.S. corporate bonds (investment-grade and high-yield) as reported by the Federal Reserve Bank of New York were $8.9 billion as of December 31, 2020. This represents less than one day of trading volume as measured by TRACE.
+
+Traditionally, bond trading has been a manual process, with product and price discovery conducted over the telephone between two or more parties. This traditional process has a number of shortcomings resulting primarily from the lack of a central trading facility for fixed-income securities, which makes it difficult to match buyers and sellers for particular issues. Many market participants also use e-mail and instant messaging for trading these securities. While these electronic communication methods have addressed some of the limitations associated with telephonic trading, these methods are still hindered by limited liquidity, limited price transparency, significant transaction costs, compliance and regulatory challenges, and difficulty in executing numerous trades at one time. Our platforms’ functionality address many of the remaining shortcomings that result from trading bonds over the telephone, e-mail or instant message.
+
+Demand for our trading platforms has grown as the need for greater execution efficiency and changing regulations have continued to shift trading from voice markets to electronic markets across our product areas. We and other trading platforms have responded to this demand with technological advances which have further automated many of the manual processes required by traditional methods of trading. Although our market share has increased significantly in recent years, large components of the fixed income markets in which we operate have not yet migrated to electronic trading because of the diverse and heterogeneous nature of those instruments and because participants in these markets have traditionally operated in a more relationship-driven environment.
+
+4
+
+ 
+
+Regulatory changes have also driven demand for the electronification of fixed-income trading processes. The policy objectives of a number of post-2008 crisis reforms, such as the Dodd-Frank Wall Street Reform and Customer Protection Act (the “Dodd-Frank Act”), Basel III and MiFID II, are to increase transparency and reduce systemic risk. These objectives have generally led to increased adoption of electronic trading on regulated markets where price transparency, all-to-all trading and reporting tools are essential components. The Volcker Rule, which limits proprietary trading by banks, has also had an impact on dealer inventories and the ability of dealers to act as market-makers. Our Open Trading protocols, which are designed to allow our broker-dealer and institutional investor clients to interact in an all-to-all trading environment, have helped market participants improve their liquidity and turnover in response to these trends. During 2020, over 1,200 participating client firms provided liquidity via our Open Trading solutions and we completed approximately 1.9 million Open Trading trades, an increase of 42.7% compared to 2019.
+
+Our Competitive Strengths
+
+We believe that we are well positioned to strengthen our market position in electronic trading in our existing products and to extend our presence into new products and services by capitalizing on our competitive strengths, including:
+
+Significant Trading Volumes with Participation by Leading Broker-Dealers and Institutional Investors
+
+Our electronic trading platforms provide access to the liquidity generated by the participation of over 1,800 active institutional investor and broker-dealer clients, including substantially all of the leading broker-dealers in global fixed-income trading. We believe these broker-dealers represent the principal source of secondary market liquidity for U.S. high-grade corporate bonds, emerging markets and high-yield bonds, European high-grade corporate bonds and the other markets in which we operate. Our broker-dealer clients are motivated to continue to utilize our platforms due to the presence on the platforms of our large network of institutional investor clients and their ability to use our Open Trading protocols to help manage their risk, source liquidity, and facilitate transactions on behalf of their clients.
+
+As shown in the chart below, our total credit trading volume increased from approximately $1.4 trillion in 2016 to $2.6 trillion in 2020.
+
+5
+
+ 
+
+ 
+
+Our estimated share of U.S. high-grade and high-yield corporate bond volume from 2016 to 2020 is shown in the chart below:
+
+Open Trading is a Differentiator that Expands the Liquidity Pool and Further Increases Cost-Savings for Clients
+
+In the post-financial crisis years, liquidity has remained a persistent concern for market participants as regulators raised banks’ capital requirements and adopted other measures that prompted many dealers to reduce market-making activities even as the buy side’s bond holdings have grown rapidly. In this environment, Open Trading, our fully electronic, all-to-all trading environment, has emerged as one solution to the post-crisis liquidity problem. As a result, the liquidity options for Open Trading participants are broader and more diverse compared to the traditional model of bilateral trading with a limited set of dealer counterparties. The expanded pool of liquidity providers includes investment managers, global dealers, regional dealers and specialist market-making and proprietary trading firms. During 2020, over 1,200 unique liquidity providers participated in Open Trading, which improved the ability of both dealers and institutional investors to find natural and opportunistic matches, move orders more efficiently, and achieve significant increases in execution quality and price improvement.
+
+We believe our Open Trading protocols enhance our institutional investor clients’ ability to obtain a competitive price by allowing all of our Open Trading participants to interact with each other, thereby increasing the potential sources of liquidity for each participant, as well as the likelihood of receiving a competitive price response. We estimate that liquidity takers saved an estimated $673.7 million in transaction costs through Open Trading during 2020, while liquidity providers saved an estimated $398.8 million during the year. These Open Trading cost savings are in addition to the potential cost savings institutional investors can achieve by simultaneously requesting bids or offers from our broker-dealer clients via our traditional RFQ protocol. Estimated liquidity taker cost savings is defined as the difference between the winning price and the best disclosed dealer cover price. Estimated liquidity provider cost savings is defined as the difference between the winning price and then current Composite+ bid or offer level (offer if the provider if buying, bid if provider is selling) at the time of the inquiry.
+
+6
+
+ 
+
+Growing, Comprehensive International Offering and Client Base
+
+Our platforms provide global fixed-income market participants with trading functionality across global hard currency and local currency markets, connecting clients in over 50 countries to local and global dealers. MarketAxess has over 850 active client firms located outside the U.S. that access our platforms through our regulated venues in Europe, Asia and Latin America. Our Open Trading functionality allows international clients to access cross-border liquidity with minimal ramp-up time or regulatory hurdles.
+
+The MarketAxess emerging markets trading platform also offers the most comprehensive offering for local currency bond trading across the Latin America, Central & Eastern Europe, Middle East and Africa (“CEEMEA”), and Asia-Pacific (“APAC”) regions. Our platforms provide clients with the ability to trade local currency debt denominated in 27 local currencies with over 125 emerging market dealers.
+
+Robust, Scalable Technology Throughout the Full Trading Cycle
+
+We have developed proprietary technology that is highly secure, fault-tolerant and provides adequate capacity for our current operations, as well as for substantial growth. Our highly scalable systems are designed to accommodate additional volume, products and clients with relatively little modification and low incremental costs. We have consistently used our proprietary technology to find new ways for our clients to trade more effectively and efficiently. Our core software solutions span multiple components of the trading lifecycle and include pre-trade data and analytics, trade execution and post-trade data, analytics and reporting, connectivity and straight-through processing. Our systems are built to be scalable, flexible and resilient. We have also created new trading protocols and developed additional solutions for our clients that are translated and built by our highly experienced technology and business personnel. Going forward, we expect that our agile software development processes will help us continue to be a market leader in developing the technology solutions for our clients’ trading needs.
+
+In addition to services directly related to the execution of trades, we offer our clients several other services throughout the trading cycle. In the pre-trade period, our platforms assist our participants by providing them with value-added services, such as real-time and historical trade price information, liquidity and turnover analytics, bond reference data and trade order matching alerts. Following the execution of a trade, our platforms support all of the essential tools and functionalities to enable our participants to realize the full benefits of electronic trading and demonstrate best execution, including real-time trade details, straight-through processing (“STP”), account allocations, automated audit trails, regulatory trade reporting, trade detail matching, and transaction cost analysis.
+
+Next Generation Data and Analytical Tools Supporting the Increasing Automation of Trading Workflows
+
+Our data and analytical tools enhance the value proposition of our trading platforms and improve the trading experience of our clients. We support our clients’ trading functions by offering value-added analytics that rely on machine-learning, automation and algorithms that are designed to improve the trading decisions and workflows of our clients. Our data and analytical tools are designed to help clients make better trading decisions, benefitting our current clients and attracting new market participants to our network. For example, our Composite+ pricing algorithm powers many of our automated trading solutions, which allows traders to automatically execute trades according to pre-determined parameters and automatically send completed or rejected order details to internal order management systems. By allowing traders to automate and execute their smaller, low touch trades more efficiently, our auto-execution solutions allow traders to focus their attention on higher value-added trades, with a goal of reducing trading inefficiencies and human errors.  
+
+Proven Innovator with an Experienced Management Team
+
+Since our inception, we have been an innovator in the fixed-income securities markets. The members of our management team average more than 20 years of experience in the securities industry. We have consistently sought to benefit participants in the markets we serve by attempting to replicate the essential features of fixed-income trading, including the existing relationships between broker-dealers and their institutional investor clients, while applying technology to eliminate weaknesses in traditional trading methods and improve liquidity. In recent years, MarketAxess has received industry recognition from key independent publications for its innovations and contributions to the fixed-income market. For example, in 2020, MarketAxess won the Waters Technology “Sell-Side Technology Award” for the Best Sell-Side Trading Network and the Global Capital “Bond Award” for the Best Emerging Markets Bond Trading Platform. In addition, Composite+ won the Waters Technology “Buy-Side Technology Award” for the Best Buy-Side AI Tool. Several awards have recognized our successful use of the agile software development methodology in the development of our Live Markets order book, while a number of our female employees have been honored with leadership awards across the globe.
+
+7
+
+ 
+
+Independent Ownership Structure
+
+We believe our ownership structure has been an advantage relative to certain of our competitors that are owned by exchange or dealer groups as we have been free to make balanced business and trading protocol decisions with the best interests of both our institutional investor and broker-dealer clients in mind. We are also able to attract industry leaders with valuable skills and insights to our independent Board of Directors. 
+
+Our Strategy
+
+Our objective is to provide the leading global electronic trading platforms for fixed-income securities, connecting broker-dealers and institutional investors more easily and efficiently, while offering a broad array of information, trading and technology services to market participants across the trading cycle. The key elements of our strategy are:
+
+Broaden Our Client Base in Our Existing Markets and Increase Penetration with Existing Clients
+
+We intend to use our broad network of over 1,800 active institutional investor and broker-dealer participants to drive more clients to our leading electronic fixed-income trading platforms. The number of active participants on our platforms has increased by approximately 80% since 2016. We believe that the continued expansion of our client base will lead to even further increases in the liquidity available on our platforms. We expect that the increased liquidity on our platforms and our ability to innovate and efficiently add new functionality and product offerings will also help us deepen our market share with our existing clients across our product suite. The number of clients trading three or more products on our platforms has increased by 38.7% from 718 in 2016 to 996 in 2020. Last, we plan to increase our international presence by increasing the number of firms located outside the U.S. that access our platforms through our venues in Europe, Asia and Latin America, increasing the number of local currencies available for trading on our platforms; and, subject to regulatory requirements, increasing the number of countries in which we can offer our platforms.  
+
+Enhance the Liquidity of Securities Traded on Our Platforms by Leveraging our Client Network and Open Trading Protocols
+
+We aim to increase the secondary market liquidity on our trading platforms by deploying innovative technology solutions designed to increase the number of potential trading counterparties on our platforms and to address different trade sizes, bond liquidity characteristics and trading preferences. Our Open Trading protocols exponentially increase the potential trading counterparties by allowing broker-dealers and institutional investors to interact in an all-to-all trading environment. During 2020, our clients executed approximately 1.9 million trades using our Open Trading solutions, representing 32.7% of the total credit trading volume on our corporate bond platform. In recent years, we have also significantly increased the number of participants that provide bond prices to our corporate bond platform via an algorithm, which has helped increase the number of algorithmic price responses from 0.9 million in 2016 to 14.2 million in 2020. We intend to continue to improve the liquidity of bonds on our platforms by increasing the number of connections we have with algorithmic trading firms. We also believe that the combination of Open Trading and our vast client network provides the basis for MarketAxess to deliver meaningful cross-border liquidity or enter into new markets where liquidity is scarcer, such as municipal bonds.  
+
+Continue to Develop Innovative Next-Generation Technologies that will Allow Our Clients to Further Automate and Improve the Performance of their Trading Desks
+
+We believe that the increased adoption of next-generation trading technologies by both dealer and investor clients will create improved liquidity, enhanced trading efficiencies and the ability to identify trends within the bond market. In recent years, we have launched a number of innovative technologies that rely on machine-learning, automation and algorithms that are designed to improve the trading decisions and workflows of our clients, while reducing trading inefficiencies and human errors. For example, clients can use our rules-based auto-execution technology with both our traditional RFQ protocol and Open Trading to automatically execute trades meeting defined parameters with diverse sources of liquidity. Our Composite+ pricing algorithm uses machine-learning to generate near real-time prices for approximately 30,000 corporate and sovereign bonds based on a variety of data inputs, and our Like Bonds product uses a data-driven methodology to help clients find liquid, tradable alternatives to illiquid bonds. We intend to continue to invest in and develop advanced technologies such as these that will make MarketAxess an increasingly valuable part of our clients’ trading decisions and workflows.
+
+8
+
+ 
+
+Expand and Strengthen our Trade-Related Service, Data and Analytical Offerings Throughout the Trading Cycle
+
+We plan to expand and strengthen our existing service, data and analytical offerings throughout the trading cycle so that MarketAxess is more fully integrated into the workflow of our broker-dealer and institutional investor clients. In the pre-trade period, we intend to continue to enhance the value of our information and analytical offerings, including the content and capabilities of BondTicker®, Axess All® and Composite+. We plan to enhance and expand the usage of LiquidityBridge®, our execution management system (“EMS”) service for dealers that allows users to manage and facilitate complex liquidity flows across multiple trading platforms, and Axess IQTM, our order and execution workflow solution for the wealth management and private banking community. We also intend to augment our European post-trade matching and regulatory reporting services that enable our clients to comply with their heightened obligations pursuant to MiFID II. The recent acquisition of Deutsche Börse’s regulatory reporting business is expected to help us expand and improve our services across a broader European client base, predominantly in Germany, France and the Nordics regions. As the use of our pre- and post-trade services and products grow, we believe that MarketAxess will become further entrenched as a value-added resource to our clients at each stage of the trading cycle, which we believe will further increase the attractiveness and use of our trading platforms.
+
+Pursue Select Acquisitions and Strategic Alliances
+
+We continually evaluate opportunities to supplement our internal growth by entering into strategic alliances, or acquiring businesses or technologies, that will enable us to enter new markets, provide new products or services, or otherwise enhance the value of our platforms and existing trade-related services to our clients. In 2017, we expanded our strategic alliance with BlackRock, Inc. (“BlackRock”) to combine BlackRock’s order flow with our Open Trading solution to improve the range of trading connections available to global credit market participants. The acquisition of LiquidityEdge® LLC (“LiquidityEdge”) in 2019 provided our clients with access to one of the leading platforms for U.S. Treasury trading, and it supports the further expansion of our U.S. Treasury hedging capabilities for our corporate bond platform. In 2020, we acquired the regulatory reporting business of Deutsche Börse in order to bolster our post-trade and market data services in Europe and entered into an agreement to acquire MuniBrokers, a central electronic venue serving municipal bond inter-dealer brokers and dealers, in order to expand our existing municipal bond trading solution for global institutional investor and dealer clients.
+
+Our Key Trading Markets and Services
+
+U.S. High-Grade Corporate Bond Market
+
+The U.S. corporate bond market consists of three broad categories of securities: investment-grade debt (so-called “high-grade”), which typically refers to debt rated BBB- or better by Standard & Poor’s or Baa3 or better by Moody’s Investor Service; debt rated below investment-grade (so-called “high-yield”), which typically refers to debt rated lower than BBB- by Standard & Poor’s or Baa3 by Moody’s Investor Service; and debt convertible into equity (so-called “convertible debt”). According to SIFMA, U.S. corporate bond debt outstanding has increased approximately 26% from $8.3 trillion at year-end 2015 to $10.4 trillion at September 30, 2020. We use the terms high-grade and investment-grade interchangeably in this Annual Report on Form 10-K.
+
+The U.S. high-grade corporate bond market represents the largest subset of the U.S. corporate bond market. Over the last five years, high-grade corporate bond issuance was over $1 trillion each year. The total annual amount of U.S. high-grade corporate bond issuance as reported by SIFMA increased by 60% to $1.8 trillion in 2020 from $1.1 trillion in 2019. Notwithstanding the growth in the total amount of debt outstanding and new issuance, turnover (which is the total amount traded as a percentage of the amount outstanding for the bonds that traded) is still below pre-credit crisis levels. The average daily trading volume of U.S. high-grade corporate bonds as reported by TRACE for the year ended December 31, 2020 was approximately $25.3 billion compared to $22.2 billion and $20.7 billion for the years ended December 31, 2019 and 2018, respectively.
+
+Our U.S. high-grade corporate bond business consists of U.S. dollar-denominated investment-grade debt issued by corporations for distribution in the U.S. Over 100 broker-dealers utilize our platforms to trade U.S. high-grade corporate bonds, including all of the top 20 broker-dealers as ranked by underwriting volume of newly-issued U.S. high-grade corporate bonds in 2020. Our broker-dealer clients accounted for approximately 98.5% of the underwriting of newly-issued U.S. high-grade corporate bonds in 2020. More than 1,200 active domestic and foreign institutional investor firms use our platforms to trade U.S. high-grade corporate bonds. Our 2020 trading volume in the U.S. high-grade corporate bond market was $1.4 trillion.
+
+U.S. Crossover and High-Yield Bond Market
+
+We define the high-yield bond market generally to include all debt rated lower than BBB- by Standard & Poor’s or Baa3 by Moody’s Investor Service. We define the crossover market to include any debt issue rated below investment-grade by one agency but investment-grade by the other. The total annual amount of high-yield corporate bond issuance as reported by SIFMA increased by 62.7% to $444.9 billion in 2020 from $273.5 billion in 2019. The average daily trading volume of high-yield bonds as measured by TRACE for the year ended December 31, 2020 was approximately $10.5 billion compared to $8.8 billion and $8.0 billion for the years ended December 31, 2019 and 2018, respectively.
+
+9
+
+ 
+
+Over 100 of our broker-dealer clients and more than 1,000 active institutional investor firms use our platforms to trade crossover and high-yield bonds. Trading in crossover and high-yield bonds uses many of the same features available in our U.S. high-grade corporate bond offering. We also offer leveraged loan trading for our clients that trade high-yield bonds. Our 2020 trading volume in the high-yield bond market was $384.8 billion.
+
+Emerging Markets Bond Market
+
+We define the emerging markets bond market generally to include U.S. dollar, Euro or local currency denominated bonds issued by sovereign entities or corporations domiciled in a developing country. These issuers are typically located in Latin America, Asia, or Central and Eastern Europe. Examples of countries we classify as emerging markets include: Argentina, Brazil, Colombia, Mexico, Peru, the Philippines, Russia, Turkey and Venezuela.
+
+The institutional investor base for emerging markets bonds includes many crossover investors from the high-yield and high-grade investment areas. Institutional investors have been drawn to emerging markets bonds by their high returns and high growth potential. The average daily trading volume of emerging markets debt, as reported by the Emerging Markets Trade Association for the nine months ended September 30, 2020, the most recent date available, was $17.7 billion compared to $21.3 billion and $19.6 billion for the years ended December 31, 2019 and 2018, respectively.
+
+Over 125 of our broker-dealer clients and more than 1,200 active institutional investor firms use our platforms to trade emerging markets bonds. The emerging markets countries whose bonds were most frequently traded on our platforms in 2020 were Mexico, Brazil, China and Indonesia. In 2020, our clients were able to trade corporate and sovereign debt denominated in 27 local market currencies on our platform. Our 2020 trading volume in the emerging market bond market was $561.8 billion.
+
+European Corporate Bond Market
+
+The European corporate bond market consists of a broad range of products, issuers and currencies. We define the European corporate bond market generally to consist of bonds intended to be distributed to European investors, primarily bonds issued by European corporations, excluding bonds that are issued by corporations domiciled in an emerging markets country and excluding most government bonds that trade in Europe. Examples include:
+
+ 
+	
+
+•
+	
+
+bonds issued by European corporations, denominated in any currency;
+
+ 
+	
+
+•
+	
+
+bonds generally denominated in Euros, U.S. dollars or British Pounds Sterling intended to be distributed to European investors, excluding bonds that are issued by corporations domiciled in an emerging market;
+
+ 
+	
+
+•
+	
+
+bonds issued by supra-national organizations (entities that include a number of central banks or government financial authorities, such as the World Bank), agencies and governments located in Europe, generally denominated in Euros, U.S. dollars or British Pounds Sterling, provided that such currency is not the currency of the country where the bond was issued; and
+
+ 
+	
+
+•
+	
+
+floating-rate notes issued by European corporations.
+
+We believe that the European corporate bond market is impacted by many of the same factors as the U.S. high-grade corporate bond market. The total amount of Euro denominated high-grade and high-yield bonds yearly issuance as reported by the International Capital Markets Association increased 9.7% to $564.3 billion in 2020 from $514.4 billion in 2019. The estimated average daily trading volume of European corporate bonds for the year ended December 31, 2020 was approximately $10.8 billion compared to $10.5 billion and $9.2 billion for the years ended December 31, 2019 and 2018, respectively.
+
+We offer secondary trading functionality in U.S. dollar- and Euro-denominated European corporate bonds to our broker-dealer and institutional investor clients. We also offer our clients the ability to trade in other European corporate bonds, including bonds issued in British Pounds Sterling, floating rate notes, European government bonds and bonds denominated in non-core currencies. We offered the first platform in Europe with a multi-dealer disclosed counterparty trading capability for corporate bonds.
+
+In the Eurobond credit market, defined as including European high-grade, high-yield and government bonds, over 50 broker-dealers utilize our platform, including each of the top 20 broker-dealers as ranked by 2020 European corporate new-issue underwriting volume. Approximately 650 active institutional investor firms use our platforms to trade European bonds. Our 2020 trading volume in the Eurobond bond market was $299.9 billion.
+
+U.S. Treasury Market
+
+U.S. Treasury securities are government instruments issued by the U.S. Department of the Treasury. The average daily trading volume of U.S. Treasuries as measured by SIFMA was $607.1 billion for the year ended December 31, 2020 compared to $593.6 billion and $547.8 billion for the years ended December 31, 2019 and 2018, respectively.
+
+10
+
+ 
+
+We entered the U.S. Treasury market in 2019 through our acquisition of LiquidityEdge. LiquidityEdge’s custom liquidity pools, as well as direct dealer streaming capabilities, for on- and off-the-run U.S. Treasuries offer a bespoke trading ecosystem to connect a community of dealers, market-makers and institutional investors. In addition to providing MarketAxess clients with an enhanced ability to trade U.S. Treasuries, the acquisition supported the expansion of our treasury hedging services for clients desiring to hedge duration risk of certain credit trades.
+
+Over 75 firms use our LiquidityEdge platform to trade U.S. Treasuries. The Treasury products traded on the LiquidityEdge platform include On the Runs, Off the Runs and guaranteed spreads. Our 2020 trading volume in the U.S. Treasury market was $3.9 trillion.
+
+U.S. Municipal Bond Market
+
+Municipal bonds are debt securities issued by states, cities, counties and other governmental entities in the U.S. to fund day-to-day obligations and to finance a wide variety of public projects, such as highways or water systems. Depending on the type of financing, payments of the principal and interest on a municipal bond may come from general revenues of the municipal issuer, specific tax receipts, revenues generated from a public project, payments from private entities or from a combination of sources. In addition to being issued for many different purposes, municipal securities are also issued in many different forms, such as fixed rate, zero coupon or variable rate bonds. The interest paid on municipal securities is typically exempt from federal income taxation and may be exempt from state income and other taxes as well. As of December 31, 2020, there were over 1.0 million different municipal bonds outstanding, in the total aggregate principal amount of more than $3.9 trillion. The average daily trading volume of municipal bonds, excluding variable rate demand notes, as measured by the Municipal Securities Rulemaking Board (“MSRB”) was $5.7 billion for the year ended December 31, 2020 compared to $5.3 billion and $6.0 billion for the years ended December 31, 2019 and 2018, respectively.
+
+Over 75 broker-dealer clients and over 300 institutional investor clients use our platforms to trade municipal bonds. We offer trading for both taxable and non-taxable municipal bonds. Our 2020 trading volume in the U.S. municipal bond market was $14.0 billion.
+
+U.S. Agency Bond Market
+
+We define the U.S. agency bond market to include debt issued by a U.S. government-sponsored enterprise. Some prominent issuers of agency bonds are the Federal National Mortgage Association and Federal Home Loan Mortgage Corporation. The total amount of U.S. agency bonds outstanding was approximately $1.8 trillion as of September 30, 2020 as reported by SIFMA. The average daily trading volume of U.S. agency bonds (excluding mortgage-backed securities) as measured by TRACE was $5.4 billion for the year ended December 31, 2020 compared to $4.3 billion and $3.6 billion for the years ended December 31, 2019 and 2018, respectively.
+
+Over 35 of our broker-dealer clients and more than 300 active institutional investor firms use our platforms to trade U.S. agency bonds. Trading in U.S. agency bonds uses many of the same features available in our U.S. high-grade corporate bond offering. Our 2020 trading volume in the U.S. agency bond market was $49.4 billion.
+
+Credit Derivative Market
+
+Credit derivatives are contracts that allow market participants to obtain credit protection or assume credit exposure associated with a broad range of issuers of fixed-income securities and other debt obligations without ownership of the underlying security. Among the most significant requirements of the derivatives section of the Dodd-Frank Act are mandatory clearing of certain derivatives transactions (“swaps”) through regulated central clearing organizations and mandatory trading of those swaps through either regulated exchanges or swap execution facilities (“SEFs”), in each case, subject to certain key exceptions. We operate a SEF pursuant to the U.S. Commodity Futures Trading Commission’s (“CFTC”) rules and we list certain credit derivatives for trading by U.S. persons and other participants on our SEF.
+
+We offer a range of functionality for electronic trading of CFTC-regulated credit derivative instruments on our SEF in compliance with the CFTC’s requirements. This includes an RFQ system that allows participants to send anonymous or disclosed RFQs, as well as an order book, which enables market participants to trade anonymously with all other market participants. Approximately 30 active market participants use our SEF to trade credit derivative indices. Our 2020 credit derivatives trading volume was $45.1 billion.
+
+11
+
+ 
+
+Execution Benefits for Clients
+
+In addition to our platforms’ strengths described above, we believe our platforms provide numerous additional benefits to our clients over both traditional fixed-income trading methods and competing electronic trading systems, including:
+
+Open Trading Functionality
+
+We offer Open Trading protocols for all of our key trading products, including corporate, municipal and emerging market bonds. Our Market List functionality provides our Open Trading participants with the ability to display requests for bids and offers anonymously to the entire MarketAxess trading community, thereby creating broad visibility of their inquiry among market participants and increasing the likelihood that the request results in a completed trade. Public Axes™ is an order book-style price discovery process that gives clients the ability to view anonymous or disclosed indications of interest from the inventory on our platform. For block-sized trades, clients may use our Private Axes® functionality, a protocol that allows participants to anonymously negotiate round lots (greater than $1.0 million) and block trades to minimize information leakage. In 2019, we launched Live Markets, an order book that creates a single view of two-way, actionable prices for the most active corporate bonds, including newly issued debt, benchmark issues and news-driven securities.
+
+Transparent Pricing on a Broad Range of Securities
+
+The price discovery process includes the ability to view indicative prices from our broker-dealer clients’ inventory available on our platform, access to real-time pricing information and analytical tools available on our BondTicker® service (including Composite+ predictive pricing, spread-to-Treasury data, search capabilities and independent third-party credit research), and the ability to request executable bids and offers simultaneously from all of our participating broker-dealer clients during the trading process on any debt security in our bond reference database. Institutional investors and broker-dealer clients can search bonds in inventory based on combinations of issuer, issue, rating, maturity, spread-to-Treasury, size and dealer providing the listing, in a fraction of the time it takes to do so manually. We believe that broad participation in client inquiries results in more trade matches and lower transaction costs.
+
+Highly Automated Trading Processes that Create Greater Trading Accuracy and Cost-Efficiency
+
+We believe that we provide improved efficiency by reducing the time and labor required to conduct broad product and price discovery. Single-security, multi-security (bid or offer lists) inquiries and portfolio trading (baskets of up to 1,500 securities) can be efficiently conducted with multiple broker-dealers or via Open Trading. Our auto-execution technology uses rules-based execution logic to reduce trading inefficiencies and human errors while allowing traders to focus on higher-value trades. In addition, our BondTicker® service eliminates the need for manually-intensive phone calls or e-mail communications to gather, sort and analyze information concerning historical transaction prices.
+
+Our electronic trading platforms also include verification mechanisms at various stages of the execution process which result in greater accuracy in the processing, confirming and clearing of trades between institutional investor and broker-dealer clients, including real-time trade details, STP, account allocations, automated audit trails and trade detail matching. These verification mechanisms are designed to ensure that our institutional investor and broker-dealer clients are sending accurate trade messages by providing multiple opportunities to verify they are trading the correct bond, at the agreed-upon price and size. Our platforms are designed to assist our institutional investor clients in automating the transmittal of order tickets from the portfolio manager to the trader, and from the trader to back-office personnel. This automation provides more timely execution and a reduction in the likelihood of errors that can result from manual entry of information into different systems.
+
+Efficient Risk Monitoring and Compliance
+
+Institutional investors, broker-dealers and their regulators are increasingly focused on ensuring that best execution is achieved for fixed-income trades. Our electronic trading platforms offer both institutional investors and broker-dealers an automated audit trail for each stage in the trading cycle. This enables compliance personnel to review information relating to trades more easily and with greater reliability. Trade information, including all price responses, execution time, trade price and, if applicable, spread-to-Treasury, is stored securely and automatically on our electronic trading platform and is provided to clients as part of our automated post-trade messaging. This data represents a valuable source of information for our clients’ compliance personnel. Importantly, we believe the automated audit trail, together with the competitive pricing and transaction cost analysis that is a feature of our electronic trading platforms, gives fiduciaries the ability to demonstrate that they have achieved best execution on behalf of their clients.
+
+12
+
+ 
+
+Limited Information Leakage
+
+Our Open Trading protocols allow our institutional investor clients to maintain their anonymity from trade initiation through to settlement without limiting their number of potential trading counterparties. In addition, our Private Axes® protocol allows participants to negotiate bilaterally on an anonymous basis to minimize information leakage when transacting in larger trade sizes.
+
+Greater Sales Efficiency and More Efficient Inventory Management
+
+We offer our broker-dealer clients broad connectivity with our institutional investor clients. Through this connectivity, our broker-dealer clients are able to efficiently display their indications of interest to buy and sell various securities. We also enable broker-dealers to broaden their distribution by participating in transactions to which they otherwise may not have had access. In addition, the ability to post prices and electronically execute on straightforward trades enables bond sales professionals at broker-dealer firms to focus their efforts on higher value-added trades and more complex transactions.
+
+The posting of inventory to, and the ability to respond to inquiries from, a broad pool of institutional investors, creates an increased opportunity for broker-dealers to identify demand for their inventory, particularly in less liquid securities. Broker-dealers also use Open Trading as a source of liquidity as they manage their risk exposure. As a result, we believe they can achieve enhanced bond inventory turnover by using our platforms, which may limit their credit exposure.
+
+ 
+
+Post-Trade Reporting, Publishing and Matching Services
+
+In the European Union (“E.U.”) and the U.K., all firms regulated as “investment firms” under MiFID II are required to submit complete and accurate details of qualifying transactions to their national regulator no later than the close of the working day following the date of the transaction. This process is known as transaction reporting. Pursuant to the associated Markets in Financial Instruments Regulation (“MiFIR”), the number of fields and the complexity of the information that must be reported to regulators was significantly enhanced. Firms may either report directly to the regulator or use an entity that is licensed as an ARM, such as our subsidiaries in the U.K. and the Netherlands, to validate and submit such reports. Our multi-asset class ARM reporting solution allows our clients to report to 15 different European regulators. We have also collaborated with Equilend on a full front-to-back Securities Financing Transactions Regulation (“SFTR”) solution to support mutual clients with their SFTR reporting requirements.
+
+In addition, under MiFIR, all regulated investment firms in the U.K. and the E.U. are required to comply with pre- and post-trade transparency requirements pursuant to which quotes and trades must be made public subject to a system of waivers and deferrals. Firms are required to utilize an APA, such as our APAs in the U.K. and the Netherlands, to comply with the post trade transparency requirement and, although optional, many firms also utilize a third-party provider to satisfy the pre trade transparency requirement. The MarketAxess transparency and APA trade reporting solutions are available through our Insight™ platform, offering our clients a pre- and post-trade transparency solution, including APA trade reporting, quote publication, SI determination and instrument liquidity classification. We also offer a commodity position reporting service to assist firms in compliance with the commodity derivative position limit reporting requirements of MiFID II.
+
+Trade matching enables counterparties to agree on the terms of a trade shortly after execution, reducing the risk of trade errors and fails during settlement. We provide a near real-time post-trade matching and exception management tool which covers a broad range of securities, including fixed-income and equities. By confirming all economic details within minutes of trade execution, we help our clients to mitigate their operational risk, improve STP and efficiency and address the complexities of MiFID II and the Central Securities Depositories Regulation.
+
+MarketAxess has approximately 900 post-trade reporting and transparency clients, including broker-dealers, hedge funds and investment banks. We expect that our recent acquisition of Deutsche Börse’s regulatory reporting business will help us expand and improve our services across a broader European client base, predominantly in Germany, France and the Nordics regions.
+
+Information and Execution Management Services
+
+Traders are increasingly using data and machine-learning for pre-trade analytics, automated execution, transaction cost analysis and post-trade solutions. Our real-time pre-trade data and analytics are an additional value-added resource to our participants at each stage of the trading cycle, which further increases the attractiveness and use of our trading platforms. In the pre-trade period, our platforms assist our participants by providing them with real time and historical trade price information, intelligent Composite+ pricing, BondTicker®, liquidity and turnover analytics, bond reference data and trade order matching alerts. The information and analytical tools we provide to our clients help them make investment and trading decisions. Our electronic trading platforms allow institutional investors to compile, sort and use information to discover investment opportunities that might have been difficult or impossible to identify using a manual information-gathering process or other electronic services.
+
+13
+
+ 
+
+Our Composite+ pricing algorithm generates near real-time prices for approximately 30,000 corporate and sovereign bonds based on a variety of data inputs, including feeds from our trading platform, our post-trade service and TRACE. Composite+ is used by clients as a pre-trade reference price to enhance trading outcomes and transaction cost analysis. Composite+ can be combined with our auto-execution service, providing clients with an alert if a response is “off market”.
+
+Axess All®, the first intra-day trade tape for the European fixed-income market, is sourced from over 39,000 bond transactions processed daily by our post-trade services business and includes aggregated volume and pricing for the most actively traded European fixed-income instruments. We also provide market participants with access to pricing, liquidity and volume data on over 60,000 unique fixed-income securities and securities reference data for approximately 71,000 fixed-income securities.
+
+BondTicker® provides real-time TRACE data and enhances it with MarketAxess trade data and analytical tools in order to provide professional market participants with a comprehensive set of corporate bond price information with associated analytical tools that are not otherwise available. The data includes trade time and sales information, including execution prices, as well as MarketAxess-estimated spread-to-Treasuries, for trades disseminated by the TRACE system. The data also includes actual execution prices and spread-to-Treasury levels for U.S. high-grade corporate bond trades executed on the MarketAxess platform. BondTicker® is currently the source of corporate bond trading information for The Wall Street Journal in the U.S.
+
+BondTicker® allows institutional investors to search for and sort bonds based upon specific criteria, such as volume, time/date of transaction, spread change, issuer or security. This search function allows institutional investors to compile information relating to potential securities trades in a fraction of the time that it takes to manually compile this information from disparate sources or other electronic databases, including direct TRACE feeds and European pricing information provided by our end-of-day pricing feed.
+
+BondTicker® is integrated directly into the MarketAxess electronic trading platform and can be seamlessly accessed, either when viewing securities inventory or when launching an inquiry. BondTicker® is also available through the internet for non-trading professional market participants, including, among others, research analysts and rating agencies, who can log in and access the information via a browser-based interface.
+
+We provide order and execution workflow solutions designed to meet the specific needs of the customer. LiquidityBridge® is our EMS service for dealers that allows users to manage and facilitate the complex liquidity flows across multiple trading platforms, including the MarketAxess system. LiquidityBridge® brings together real-time comparison and execution of bond prices across multiple sectors, allowing users to rapidly react to trading opportunities. Axess IQ is our order and execution workflow solution designed to meet the needs of wealth management and private banking community by improving liquidity discovery, execution efficiency and alpha generation for firms with large numbers of individual client orders.
+
+Straight-Through Processing and APIs
+
+Straight-through processing refers to the integration of systems and processes to automate the trade process from end-to-end — trade execution, confirmation and settlement — without the need for manual intervention. We provide our broker-dealer and institutional investor clients with a range of tools that facilitate straight-through processing, including order upload, easy-to-use online allocation tools and pre- and post-trade messaging features that enable our clients to communicate electronically between their front- and back-office systems. Our straight-through processing tools can be customized to meet specific needs of our clients and allow them to integrate their order, portfolio management and accounting systems in real time. We maintained over 1,700 STP connections as of December 31, 2020. In addition, many of our clients use our Application Programming Interface (“API”) services for pre-trade, trade negotiation and post-trade services to improve efficiency and reduce errors in processing.
+
+Sales and Marketing
+
+We promote our products and services using a variety of direct and indirect sales and marketing strategies. Our sales force, which works closely with our product management and technology teams, is responsible for client acquisition activity and the management of ongoing client relationships to increase clients’ awareness, knowledge and usage of our trading platforms and post-trade solutions, new product launches, information and data services and pre- and post-trade services. Our sales team is also responsible for training and supporting new and existing clients on their use of our platforms and post-trade solutions, including how to optimize their trading performance and efficiency through our various trading protocols. We employ various strategies, including advertising, direct marketing, digital and social media, promotional mailings, and participation in industry conferences and media engagement, to increase awareness of our brand, our trading platforms and our other solutions. For example, we work with The Wall Street Journal to leverage BondTicker® data as the source of information for its weekly distressed debt tables.
+
+14
+
+ 
+
+Competition
+
+The global fixed-income securities industry generally, and the electronic financial services markets in which we engage in particular, are highly competitive, and we expect competition to intensify in the future. We compete with a broad range of market participants globally. Some of these market participants compete with us in a particular market, while select others compete against the entire spectrum of our platforms and solutions. We face five main areas of competition:
+
+ 
+	
+
+•
+	
+
+Telephone and Direct Electronic Communications — We compete with bond trading business conducted over the telephone, e-mail or instant messaging directly between broker-dealers and their institutional investor clients. Institutional investors have historically purchased fixed-income securities by telephoning or otherwise communicating via e-mail or instant messaging with bond sales professionals at one or more broker-dealers and inquiring about the price and availability of individual bonds. This remains the manner in which the majority of corporate bond volumes are still traded between institutional investors and broker-dealers.
+
+ 
+	
+
+•
+	
+
+Other electronic trading platforms — There are numerous other electronic trading platforms currently in existence, including several that have only commenced operations in the last few years. We compete with Tradeweb, Bloomberg, Intercontinental Exchange, Trumid and others in the credit and municipal markets; and Tradeweb, Bloomberg, Nasdaq (Nasdaq Fixed Income), CME Group (NEX Group), BGC Partners (Fenics UST) and others in the rates markets. In addition, some broker-dealers and institutional investors operate, or have invested in, proprietary electronic trading systems or information networks that enable institutional investors to trade directly with a broker-dealer, and/or with other institutional investors over an electronic medium. As we expand our business into new products, we will likely come into more direct competition with other electronic trading platforms or firms offering traditional services.
+
+ 
+	
+
+•
+	
+
+Exchanges — In recent years, exchanges have pursued acquisitions that have put them in competition with us. For example, London Stock Exchange Group has recently acquired a significant stake in Tradeweb and Intercontinental Exchange acquired BondPoint and TMC Bonds, retail-focused platforms, and IDC, a provider of fixed income data, in an effort to expand its portfolio of fixed income products and services. CME Group and Nasdaq also operate platforms that compete with us. Exchanges also have data and analytics businesses, which increasingly put their offerings in direct competition with us.
+
+ 
+	
+
+•
+	
+
+Market data and information vendors — Several large market data and information providers, such as Bloomberg, Refinitiv, Intercontinental Exchange, and IHS Markit currently have a data and analytics relationship with virtually every institutional firm. Some of these entities currently offer varying forms of electronic trading of fixed-income securities. Some of these entities have announced their intention to expand their electronic trading platforms or to develop new platforms. These entities are currently direct competitors to our information services business and already are or may in the future become direct competitors to our electronic trading platforms.
+
+ 
+	
+
+•
+	
+
+Other approved regulatory mechanisms — We compete with other approved regulatory mechanisms in Europe that have ARM and APA designations, such as the London Stock Exchange’s UnaVista and Tradeweb, to provide post-trade matching and regulatory transaction reporting and transparency services to European clients.
+
+ 
+
+Competitors, including companies in which some of our clients have invested, have developed electronic trading platforms or have announced their intention to explore the development of electronic trading platforms that compete or will compete with us. Furthermore, some of our clients have made, and may in the future continue to make, investments in or enter into agreements with other businesses that directly or indirectly compete with us.
+
+ 
+
+In general, we compete on the basis of a number of key factors, including:
+
+ 
+	
+
+•
+	
+
+broad network of broker-dealer and institutional investor clients using our electronic trading platforms;
+
+ 
+	
+
+•
+	
+
+liquidity provided by the participating broker-dealers and, to a growing extent, by other institutional investors;
+
+ 
+	
+
+•
+	
+
+magnitude and frequency of price improvement;
+
+ 
+	
+
+•
+	
+
+enhancing the quality and speed of execution;
+
+ 
+	
+
+•
+	
+
+compliance benefits;
+
+ 
+	
+
+•
+	
+
+total transaction costs;
+
+ 
+	
+
+•
+	
+
+technology capabilities, including the reliability, security, and ease of use of our electronic trading platforms; and
+
+ 
+	
+
+•
+	
+
+range of products, protocols and services offered.
+
+We believe that our ability to grow volumes and revenues will largely depend on our performance with respect to these factors.
+
+15
+
+ 
+
+Our competitive position is also enhanced by the familiarity and integration of our clients with our electronic trading platforms and other systems. We have focused on the unique aspects of the markets we serve in the development of our platforms, working closely with our clients to provide a system that is suited to their needs.
+
+ 
+
+Our broker-dealer clients have invested in building APIs with us for inventory contributions, electronic trading, government bond benchmark pricing and post-trade messaging. We believe that we have successfully built deep roots with our broker-dealer clients, increasing our level of service to them while at the same time increasing their commitment to use our services; however, the contractual obligations of such clients are non-exclusive. See the Risk Factor captioned “We are dependent on our broker-dealer clients, who are not restricted from using their own proprietary or third-party platforms to transact with our institutional investor clients.”
+
+Furthermore, a significant number of our institutional investor clients have built interfaces to enable them to communicate electronically between our platforms and their order, portfolio management and accounting systems. We believe that this increases the reliance of these institutional investor clients on our services and creates significant competitive barriers to entry.
+
+Technology
+
+The design and quality of our technology products are critical to our growth and our ability to execute our business strategy. Our electronic trading platforms have been designed with secure, scalable client-server architecture that makes broad use of distributed computing to achieve speed, reliability and fault tolerance. The platforms are built on industry-standard technologies and have been designed to handle many multiples of our current trading volume.
+
+All critical server-side components, primarily our networks, application servers and databases, have backup equipment running in the event that the main equipment fails. This offers redundant system capacity designed to maximize uptime and minimize the potential for loss of transaction data in the event of an internal failure. We also seek to minimize the impact of external failures by automatically recovering connections in the event of a communications failure. The majority of our broker-dealer clients and a significant number of our institutional investor clients have redundant dedicated high-speed communication paths to our network in order to provide fast data transfer. Our security measures include industry-standard communications encryption.
+
+We have designed our primary application with an easy-to-use, Windows-based interface. Our clients are able to access our electronic trading platforms through a secure, single sign-on. Clients are also able to execute transactions over our platforms directly from their order management systems. We provide users an automatic software update feature that does not require manual intervention.
+
+We prioritize security throughout our platforms, operations and software development. We make architectural, design and implementation choices to structurally address security risks, such as logical and physical access controls, perimeter firewall protection and embedded security processes in our systems development lifecycle. Our cybersecurity program is based on the National Institute of Standards and Technology Cyber Security Framework (the “Framework”). The Framework consists of standards, guidelines and best practices to manage cybersecurity-related risks and promote the protection and resilience of critical infrastructure. Our Global Chief Information Security Officer leads a cybersecurity team in assessing, managing and reducing the relevant risks with a goal to assure critical operations and continuous delivery of service. We constantly monitor connectivity and suspect events are escalated to our global risk and management teams.
+
+Intellectual Property
+
+We rely upon a combination of copyright, patent, trade secret and trademark laws, written agreements and common law to protect our proprietary technology, processes and other intellectual property. Our software code, elements of our electronic trading platforms, website and other proprietary materials are protected by copyright laws. We have been issued 13 patents covering significant trading protocols and other aspects of our trading system technology.
+
+The written agreements upon which we rely to protect our proprietary technology, processes and intellectual property include agreements designed to protect our trade secrets. Examples of these written agreements include third party nondisclosure agreements, employee nondisclosure and inventions assignment agreements, and agreements with customers, contractors and strategic partners. Other written agreements upon which we rely to protect our proprietary technology, processes and intellectual property take many forms and contain provisions related to patent, copyright, trademark and trade secret rights.
+
+ 
+
+We have registered the MarketAxess® name and logo for trademark in the U.S., Europe and in other parts of the world. We also have a number of other registered or pending trademarks and service marks globally, including Open Trading™, BondTicker®, and Now You’re In The Market™, among others. In addition, we own, or have filed applications for, the rights to trade names, copyrights, domain names and service marks that we use in the marketing of products and services to clients.
+
+16
+
+ 
+
+In addition to our efforts to register our intellectual property, we believe that factors such as the technological and creative skills of our personnel, new product and service developments, frequent enhancements and reliability with respect to our services are essential to establishing and maintaining a technology and market leadership position.
+
+Government Regulation
+
+The securities industry and financial markets in the U.S. and elsewhere are subject to extensive regulation. In these jurisdictions, government regulators and self-regulatory organizations oversee the conduct of our business, and have broad powers to promulgate and interpret laws, rules and regulations that may serve to restrict or limit our business. As a matter of public policy, these regulators are charged with safeguarding the integrity of the securities and other financial markets and with protecting the interests of investors participating in those markets. Our active broker-dealer and regulated venue subsidiaries fall within the scope of their regulations. Rulemaking by regulators, including resulting market structure changes, has had an impact on our business by directly affecting our method of operation and, at times, our profitability.
+
+As registered broker-dealers, trading venues and other types of regulated entities as described below, certain of our subsidiaries are subject to laws, rules and regulations (including the rules of self-regulatory organizations) that cover all aspects of their business, including manner of operation, system integrity, anti-money laundering and financial crimes, handling of material non-public information, safeguarding data, capital requirements, reporting, record retention, market access, licensing of employees and the conduct of officers, employees and other associated persons.
+
+Regulation can impose, and has imposed, obligations on our regulated subsidiaries, including our broker-dealer subsidiaries. These increased obligations require the implementation and maintenance of internal practices, procedures and controls, which have increased our costs. Many of our regulators, as well as other governmental authorities, are empowered to bring enforcement actions and to conduct administrative proceedings, examinations, inspections and investigations, which may result in increased compliance costs, penalties, fines, enhanced oversight, increased financial and capital requirements, additional restrictions or limitations, censure, suspension or disqualification of the entity and/or its officers, employees or other associated persons, or other sanctions, such as disgorgement, restitution or the revocation or limitation of regulatory approvals. Whether or not resulting in adverse findings, regulatory proceedings, examinations, inspections and investigations can require substantial expenditures of time and money and can have an adverse impact on a firm’s reputation, client relationships and profitability. From time to time, we and our associated persons have been and are subject to routine reviews, none of which to date have had a material adverse effect on our businesses, financial condition, results of operations or prospects. As a result of such reviews, and any future actions or reviews, we may be required to, among other things, amend certain internal structures and frameworks such as our operating procedures, systems and controls.
+
+The regulatory environment in which we operate is subject to constant change. We are unable to predict how certain new laws and proposed rules and regulations will be implemented or in what form, or whether any changes to existing laws, rules and regulations, including the interpretation, implementation or enforcement thereof or a relaxation or amendment thereof, will occur in the future. We believe that uncertainty and potential delays around the final form of certain new rules and regulations may negatively impact our clients and trading volumes in certain markets in which we transact, although a relaxation of or the amendment of existing rules and requirements could potentially have a positive impact in certain markets. While we generally believe the net impact of the laws, rules and regulations may be positive for our business, it is possible that unintended consequences may materially adversely affect us in ways yet to be determined. See the Risk Factor captioned “Our business and the trading businesses of many of our clients are subject to increasingly extensive government and other regulation, which may affect our trading volumes and increase our cost of doing business.”
+
+U.S. Regulation
+
+In the U.S., the SEC is the federal governmental agency primarily responsible for the administration of the federal securities laws, including adopting and enforcing rules and regulations applicable to broker-dealers. One of our broker-dealers operates an alternative trading system (“ATS”) subject to the SEC’s Regulation ATS, which includes certain specific requirements and compliance responsibilities in addition to those faced by broker-dealers generally. Another of our broker-dealers operates an exempt ATS for U.S. Treasuries. Broker-dealers are also subject to regulation by state securities administrators in those states in which they conduct business or have registered to do business. We are also subject to the various anti-fraud provisions of the Securities Act of 1933 as amended (the “Securities Act”), the Securities Exchange Act of 1934, as amended (the “Exchange Act”), the Commodity Exchange Act, certain state securities laws and the rules and regulations promulgated thereunder. We also may be subject to vicarious and controlling person liability for the activities of our subsidiaries and our officers, employees and affiliated persons.
+
+17
+
+ 
+
+The CFTC is the federal agency primarily responsible for the administration of federal laws governing activities relating to futures, swaps and other derivatives, including the rules applicable to our SEF. Our SEF is subject to regulations that relate to trading and product requirements, governance and disciplinary requirements, operational capabilities, surveillance obligations and financial information and resource requirements, including the requirement that they maintain sufficient financial resources to cover operating costs for at least one year. Our SEF is subject to both scheduled and unscheduled examinations by the CFTC.
+
+Much of the regulation of broker-dealers’ operations in the United States has been delegated to self-regulatory organizations. These self-regulatory organizations adopt rules (which are generally subject to approval by the SEC) that govern the operations of broker-dealers and conduct periodic inspections and examinations of their operations. In the case of our U.S. broker-dealer subsidiaries, the principal self-regulatory organization is FINRA. Our U.S. broker-dealer subsidiaries are subject to both scheduled and unscheduled examinations by the SEC and FINRA. In addition, our broker-dealers’ municipal securities-related activities are subject to the rules of the MSRB.
+
+Title VII of the Dodd-Frank Act (“Title VII”) amended the Commodity Exchange Act and the Exchange Act to establish a regulatory framework for swaps, subject to regulation by the CFTC, and security-based swaps, subject to regulation by the SEC. The CFTC has implemented the majority of its regulations in this area, most of which are in effect. The SEC has also finalized many of its security-based swap regulations, although a significant number are not yet in effect. Among other things, Title VII rules require certain standardized swaps to be cleared through a central clearinghouse and/or traded on a designated contract market or SEF, subject to various exceptions. Title VII also requires the registration and regulation of certain market participants, including SEFs.
+
+The SEC is currently conducting a review of the regulatory framework for fixed income electronic trading platforms for the purpose of evaluating the potential regulatory gaps that may exist among such platforms, including ours, with respect to access to markets, system integrity, surveillance, and transparency, among other things. It is unknown at this time to what extent new legislation will be passed into law or whether pending or new regulatory proposals will be adopted or modified, or what effect such passage, adoption or modification will have, whether positive or negative, on our industry, our clients or us.
+
+Non-U.S. Regulation
+
+Outside of the United States, we are currently regulated by: the FCA in the U.K., De Nederlandsche Bank (“DNB”) and the AFM in the Netherlands, the Securities & Futures Commission (the “SFC”) of Hong Kong, the Monetary Authority of Singapore (the “MAS”), the Australian Securities and Investment Commission in Australia (the “ASIC”), the Investment Industry Regulatory Organization of Canada (the “IIROC”) and provincial regulators in Canada, and the Securities and Exchange Commission and Central Bank in Brazil.
+
+The FCA’s strategic objective is to ensure that the relevant markets function well and its operational objectives are to protect consumers, to protect and enhance the integrity of the U.K. financial system and to promote effective competition in the interests of consumers. It has investigative and enforcement powers derived from the Financial Services and Markets Act 2000 (“FSMA”) and subsequent legislation and regulations. Subject to the FSMA, individuals or companies that seek to acquire or increase their control in a firm that the FCA regulates is required to obtain prior approval from the FCA.
+
+The legal framework in the Netherlands for financial undertakings is predominantly included in the Dutch Financial Supervision Act (“FSA”). The AFM, like DNB, is an autonomous administrative authority with independent responsibility for fulfilling its supervisory function. Pursuant to the FSA, the AFM authorizes investment firms. The AFM is legally responsible for business supervision. DNB is responsible for prudential supervision. The purpose of prudential supervision is to ensure the solidity of financial undertakings and to contribute to the stability of the financial sector. Holders of a qualifying holding (in short, shareholdings or voting rights of 10% or more) must apply to the DNB for a declaration of no objection and satisfy the applicable requirements of the FSA.
+
+In January 2018, the E.U. implemented enhanced rules and regulations targeted at the financial services industry, including MiFID II and MiFIR. MiFID II and MiFIR introduced significant changes to the E.U. financial markets that were designed to facilitate more efficient markets and greater transparency for participants by: (i) enhancing pre- and post-trade transparency for fixed-income instruments, (ii) increasing and enhancing post-trade reporting obligations with a requirement to submit post-trade data to ARMs, (iii) improving technology synchronization and best execution and (iv) establishing a consolidated tape for trade data. Although MiFID II and MiFIR were intended to help improve the functioning of the E.U. single market by achieving a greater consistency of regulatory standards, MiFID II and MiFIR have caused us to expend significantly more compliance, business and technology resources, to incur additional operational costs and has created additional regulatory exposure for our trading and post-trade businesses. While we generally believe the net impact of the rules and regulations have been positive for our businesses, unintended consequences of the rules and regulations may adversely affect us in ways yet to be determined. In particular, the possible divergence of the U.K. from the E.U. in relation to the future development of MIFID II and MiFIR and other rules and regulations within the financial markets (such as the Central Securities Depository Regulation) may further increase the complexity, operational costs and compliance requirements of our business in the U.K. and E.U.
+
+18
+
+ 
+
+The securities industry and financial markets in the 27 member states of the E.U. is regulated by agencies in each member state. E.U. regulations provide for a cross-border “passporting regime”, which allows us to provide our services throughout the E.U. in reliance upon our authorization from any E.U. member state. Historically, we have utilized the FCA authorizations held by our U.K. regulated subsidiaries in order to provide regulated services to our European clients outside of the U.K. in reliance on this passport. However, the U.K. ceased to be a member of the E.U. on January 31, 2020, triggering a transition period in which the U.K. continued to observe applicable E.U. regulations through December 31, 2020 (commonly referred to as “Brexit”). In preparation for Brexit, we obtained AFM authorizations for our subsidiaries in the Netherlands in 2019 and we are able to provide regulated services to our clients within the E.U. in reliance on the cross-border services passport held by our Dutch subsidiaries. See the Risk Factor captioned “The U.K. exit from the European Union could materially adversely impact our business, clients, financial condition, results of operations and prospects.”
+
+Capital Requirements
+
+Certain of our subsidiaries are subject to jurisdictional specific regulatory capital requirements, designed to maintain the general financial integrity and liquidity of a regulated entity. In general, they require that at least a minimum amount of a regulated entity’s assets be kept in relatively liquid form. Failure to maintain required minimum capital may subject a regulated subsidiary to a fine, requirement to cease conducting business, suspension, revocation of registration or expulsion by the applicable regulatory authorities, and ultimately could require the relevant entity’s liquidation.  
+
+In addition, as a result of our self-clearing activities, MarketAxess Corporation is required to finance certain transactions, maintain deposits with various clearing organizations and clearing broker-dealers and maintain a special reserve bank account for the benefit of customers pursuant to SEC Rule 15c3-3. These requirements can fluctuate based on trading activity, market volatility or other factors which may impact our liquidity or require us to use our capital resources.
+
+Regulatory Status of MarketAxess Entities
+
+Our operations span jurisdictions across the Americas, Europe and Asia, and we operate through various regulated entities. The current regulatory status of many of our business entities is described below. We also provide our platforms in other countries pursuant to exemptions from registration under the laws of such countries.
+
+Americas
+
+MarketAxess Corporation is a SEC registered broker-dealer, a member of FINRA, the MSRB, and the Securities Investor Protection Corporation (“SIPC”). MarketAxess Corporation is registered as a clearing broker with FINRA.
+
+LiquidityEdge is a SEC registered broker-dealer, a member of FINRA, the SIPC and is recognized as a Financial Market Supervisory Authority (“FINMA”) in Switzerland as a foreign trading venue.
+
+MarketAxess SEF Corporation is a CFTC registered SEF.
+
+MarketAxess Canada Company is registered as an Alternative Trading System with the Ontario Securities Commission (“OSC”), the Autorité des Marchés Financiers (“AMF”), the British Columbia Securities Commission (“BCSC”) and the Alberta Securities Commission (“ASC”) and is a member of IIROC.
+
+MarketAxess Plataforma de Negociacao Ltda. is authorized through its parent (MarketAxess Holdings Inc.) by Comissão de Valores Mobiliários (“CVM”) and BACEN (Central Bank of Brazil) to provide a system in Brazil for the trading of fixed income securities by sophisticated institutional investors.
+
+MarketAxess Colombia Corporation is registered with the Superintendence of Finance of Colombia (“SOFC”) as an Information System.
+
+U.K. and Europe
+
+MarketAxess Capital Limited is authorized and regulated by the FCA as a MiFID investment firm and acts as a matched principal counterparty for Open Trading transactions.
+
+ 
+
+19
+
+ 
+
+ 
+
+MarketAxess Europe Limited is authorized and regulated by the FCA to operate a multilateral trading facility (“MTF”), licensed by the Australian Securities and Investments Commission to have an Australian Markets License, recognized by FINMA as a foreign trading venue, licensed by BAFIN under the German Securities Trading Act, licensed by the Securities & Futures Commission of Hong Kong as an Automated Trading Service and licensed by the Monetary Authority of Singapore as a Recognized Market Operator. In addition, MarketAxess Europe Limited is recognized or licensed to provide its services in each of Italy, Denmark and Finland following Brexit.
+
+MarketAxess NL B.V. is authorized and regulated by the AFM in the Netherlands as an MTF. MarketAxess NL B.V. may provide services throughout the E.U. 27 and EEA countries under the MiFID passport and is approved by FINMA to provide cross-border services into Switzerland as a foreign trading venue.
+
+Trax NL B.V. is licensed in the Netherlands by the AFM as a Data Reporting Services Provider (“DRSP”), specifically to act as an ARM and APA. Trax NL B.V. may provide services throughout the E.U. 27 and EEA countries under the MiFID passport.
+
+Xtrakter Limited is authorized and regulated by the FCA as a DRSP for ARM and APA services and as a service company.
+
+Asia and Pacific
+
+MarketAxess Singapore Pte. Limited is approved by the Monetary Authority of Singapore as a Recognized Market Operator. Additionally, MarketAxess Singapore Pte. Limited is approved by FINMA in Switzerland as a foreign trading venue, by Hong Kong as an ATS, by Germany as a foreign market operator, and holds an Australian Markets License from ASIC.
+
+Human Capital Resources
+
+As of December 31, 2020, we had 606 employees, 378 of whom were based in the U.S. and 228 of whom were based outside of the U.S., principally in the U.K. During fiscal year 2020, despite the COVID-19 pandemic (the “Pandemic”), we increased our number of employees by 79, or 15.0%, compared to an increase of 73, or 16.1%, in 2019. We did not discontinue any compensation or benefits programs in fiscal year 2020. None of our employees are represented by a labor union. We consider our relationships with our employees to be good and have not experienced any interruptions of operations due to labor disagreements.
+
+Health and Safety
+
+In fiscal year 2020, the Pandemic had a significant impact on how we manage human capital. Nearly all of our workforce has worked remotely since March 2020, and we instituted safety protocols and procedures for those employees who chose to work on site on a part-time basis. Our experienced teams of employees adapted to the changes in our work environment and have managed our business successfully during this challenging time.
+
+Diversity, Equity and Inclusion
+
+The diverse backgrounds, experiences and perspectives of our employees are one of our biggest strengths. We strive to make our workforce more diverse, inclusive and supportive of all. We embrace a culture and vision that supports and enhances our ability to recruit, develop and retain diverse talent at every level. In 2020, based on the results of an employee survey to further our diversity and inclusion efforts, our employees participated in an educational and developmental program designed to educate our employees about the Company’s diversity and inclusion initiatives and their importance to our success. As of December 31, 2020, our U.S. workforce was approximately 72% men and 28% women, and of our U.S. employees, our workforce was approximately 59% White, 28% Asian, 6% Hispanic or Latinx, 5% Black or African American, and 2% identified with another race or ethnicity.
+
+To broaden our candidate pools, we use diverse hiring sources, including employee referrals, recruitment vendors, postings on diversity job boards and with diversity interest groups, and we attend various recruiting events. We have been able to further diversify our workforce through our summer intern and graduate hire programs, which represent a spectrum of schools, fields of study, interests and socio-economic backgrounds. In 2020, we expanded our partnerships with universities with larger racially diverse student bodies in both New York and London, and we specifically targeted affinity groups on campus in order to diversify our applicant pool.
+
+Talent and Development
+
+Our talent management strategy is focused on attracting, developing and retaining top talent within the Company. In 2020, we conducted a global talent review to identify high-potential talent at all levels of seniority within the Company. This review is helping us build short- and long-term succession plans for our executive leadership team and other critical roles within the Company.  
+
+20
+
+ 
+
+The Company also intends to use the talent review process to inform our increasing levels of investment in learning and development for our employees. Currently, we offer a customized management training program for new managers and an accelerated leadership program for our more seasoned leaders who we believe may assume broader or more complex roles within the Company in the future. We also offer a range of technical, markets-related, and soft-skills training courses on an ongoing basis to enable our employees to develop a broad spectrum of skills. We conduct regular engagement surveys of our employee base to better understand what is working well for our employees and identify areas that we can improve. In our latest survey focused on Diversity and Inclusion, 87% of our global employees participated.  
+
+Company Information
+
+MarketAxess was incorporated in Delaware in April 2000. Our internet website address is www.marketaxess.com. Through our internet website, we will make available, free of charge, the following reports as soon as reasonably practicable after electronically filing them with, or furnishing them to, the SEC: our annual report on Form 10-K; our quarterly reports on Form 10-Q; our current reports on Form 8-K; and amendments to those reports filed or furnished pursuant to Section 13(a) of the Securities Exchange Act of 1934, as amended. Our Proxy Statements for our Annual Meetings are also available through our internet website. Our internet website and the information contained therein or connected thereto are not intended to be incorporated into this Annual Report on Form 10-K. You may also obtain copies of our reports without charge by writing to:
+
+MarketAxess Holdings Inc.
+
+55 Hudson Yards
+
+New York, NY 10001
+
+Attn: Investor Relations
+
+Our Board of Directors has standing Audit, Compensation and Talent, Nominating and Corporate Governance, Risk and Investment Committees. Each of these committees has a written charter approved by our Board of Directors and our Board of Directors has also adopted a set of Corporate Governance Guidelines. Copies of the committee charters and the Corporate Governance Guidelines are also posted on our website.
+
+The SEC maintains an internet website that contains annual, quarterly and current reports, proxy and information statements and other information that issuers (including the Company) file electronically with the SEC. The SEC’s internet website is www.sec.gov.
+
+ 

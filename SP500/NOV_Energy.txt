@@ -1,0 +1,491 @@
+General
+
+NOV Inc. (“NOV” or the “Company”) is a leading independent equipment and technology provider to the global energy industry. Originally founded in 1862, NOV and its predecessor companies have spent 159 years helping transform oil and gas field development and improving its cost-effectiveness, efficiency, safety, and environmental impact. Over the past few decades, the Company has pioneered and refined key technologies to improve the economic viability of frontier resources, including unconventional and deepwater oil and gas. More recently, by applying its deep expertise and technology, the company has helped advance the transition toward sustainable energy.
+
+NOV’s extensive proprietary technology portfolio supports the industry’s full-field drilling, completion, and production needs. With unmatched cross-segment capabilities, scope, and scale, NOV continues to develop and introduce technologies that further enhance the economics and efficiencies of energy production, with a focus on automation, predictive analytics, and condition-based maintenance.
+
+NOV serves major-diversified, national, and independent service companies, contractors, and energy producers in 61 countries, operating under three segments: Wellbore Technologies, Completion & Production Solutions, and Rig Technologies.
+
+Business Strategy and Competitive Strengths
+
+NOV’s primary business objective is to generate above-average long-term capital returns and further enhance its position as a leading independent global energy technology and equipment provider by delivering technologies, equipment, and services that help lower the marginal cost and environmental footprint associated with energy development and production from oil, gas, and renewable sources. NOV is executing the following competitive strategies:
+
+Leverage NOV’s advantages of size, scope, scale, and market position
+
+NOV’s position as a leading independent global energy technology and equipment provider affords several competitive advantages, including:
+
+Economies of scale in procurement and manufacturing. NOV’s global leadership and footprint, spanning almost every major petroleum market, provides the Company with economies of scale, enabling development of a unique global supply chain, which allows materials procurement from lower-cost sources. The Company’s global manufacturing footprint and diverse production flexibility also enables NOV to rapidly adapt to demand changes, efficiently leverage manufacturing capacity in high-demand areas, and manufacture goods in lower-cost jurisdictions. NOV’s geographic diversity also reduces potential revenue volatility from shifts in activity location, regional differences in energy prices, and adverse weather events.
+
+Scope and scale for distribution and marketing. With operations in 61 countries, NOV has developed an efficient worldwide distribution network and relationships with virtually every petroleum producer, service company, and contractor. NOV uses its customer relationships and distribution capabilities to accelerate the commercialization of new products and technologies. NOV also routinely develops technologies for the global marketplace where the Company’s infrastructure allows for quick market penetration and creation of a first-mover advantage with standardized operations around certain products.
+
+2
+
+Reputation, experience, and benefits of fleet standardization. NOV’s reputation and experience make its products a lower-risk purchase for customers. The Company benefits from customer efforts to standardize training, maintenance, and spare parts, resulting in reduced downtime and inventory-stocking requirements, lower training costs, and better safety. Customers may prefer standardized equipment from NOV, a well-capitalized market leader with which they can enter into long-term service agreements that offer big-data analytics and condition monitoring to maximize uptime and reduce the total cost of equipment ownership.
+
+Large installed base of equipment. As a leading original equipment manufacturer (“OEM”) for oil and gas operations, NOV is well positioned to provide aftermarket support for its large base of installed equipment. Most service companies prefer, and many of their customers demand, OEM aftermarket support. Customers frequently encounter higher risk and cost when they purchase and use potentially incompatible products from different vendors, particularly where products must interact through complex interfaces, which are common sources of failures and unplanned costs. Additionally, certain past events have increased the industry’s risk profile with government regulatory bodies, which have shown a strong preference for OEM service contractor critical equipment maintenance.
+
+Digital products and technologies. NOV’s size, scale, and breadth of knowledge provide inherent competitive advantages in technology relative to smaller, less-diversified organizations. NOV’s proficiencies in building capital equipment, control systems, sensors, field instrumentation, and data acquisition systems provide for unique comprehensive digital energy solutions development. Additionally, NOV’s well-established, global field-service infrastructure affords the Company a distinct capability and advantage in the commercialization and support required to deploy digital solutions that must collect, aggregate, and transmit field-level data from complex machinery and equipment in harsh environments. NOV is investing considerable time and resources to develop its MaxTM platform and MaxTM edge devices, which enable large-scale collection, aggregation, and big-data analytics of real-time equipment and process data, both at the edge and in the cloud. While this platform’s initial application was a predictive analytics and condition-based equipment-monitoring solution, it is also the edge-focused backbone of the Company’s data services and software solutions and is used for monitoring, analyzing, and optimizing many of the Company’s manufacturing operations.
+
+3
+
+Develop proprietary technologies and solutions that assist oil and gas operators in reducing their marginal cost of supply
+
+NOV strives to further develop its substantial technology portfolio and is known for developing innovative customer productivity solutions. The Company is well positioned to introduce breakthrough technologies that enhance efficiencies and address industry needs, to generate strong returns. The Company’s cross-business-unit expertise uniquely positions NOV to pioneer proprietary technologies across its business lines. For example, NOV’s Wellbore Technologies and Rig Technologies segments jointly introduced closed-loop drilling technologies, which link real-time data from the well bottom to drilling rig controls and use machine learning to drive greater efficiency. NOV works closely with customers to identify needs, and its technical experts use internal capabilities to develop value-added technologies.
+
+Capitalize on and drive end-market fragmentation
+
+Technology and product availability to all industry participants is a key tenet of NOV’s business model. To the extent NOV can provide equipment and technology products that are equal to or better than those developed by service providers, it will prevent any one organization from having a proprietary advantage and therefore drive fragmentation. This fragmentation expands NOV’s customer base and avoids customer concentration in most of its businesses. NOV has resisted the recent trend toward vertical integration, leaving the Company in an attractive and unique position as the largest global independent technology and equipment provider to the oilfield service sector. Governments in certain international markets are pursuing initiatives that drive local content and greater local employment. These actions will likely prompt more local startup enterprises, further expanding demand for NOV’s equipment.
+
+Leverage core capabilities and competencies to assist customers in efforts to reduce environmental footprint and advance energy transition initiatives
+
+NOV’s engineering expertise, complex global supply chain management, low-cost manufacturing, and large-scale energy infrastructure development support provide unique capabilities to assist customers with energy transition advancement. The Company has pioneered numerous innovations that help reduce emissions, including its recently-introduced Ideal eFrac™ equipment, which significantly reduces emissions and lowers costs associated with hydraulic stimulation, and its PowerBlade™ Kinetic Energy Recovery System, which recaptures energy from cranes, winches, and draw-works. NOV is also a leading geothermal equipment and technology provider, offering a broad array of tools and equipment specifically designed for the ultra-harsh conditions associated with geothermal development. Additionally, with expertise in offshore heavy-lift equipment and naval architectural design, the Company is the leading equipment and technology provider for purpose-built vessels used to build, install, and maintain offshore wind towers and turbines. While NOV’s research and development includes efforts in land and offshore-based wind, solar power, hydrogen energy, geothermal power, and carbon capture and sequestration, the Company sees the most promise in development and commercialization of novel products and technologies to improve the efficiencies and economics of land and offshore-based wind, geothermal power generation, and carbon capture and sequestration (See “Energy Transition” below).
+
+Employ a capital-light business model with the ability to quickly scale operations
+
+NOV’s manufacturing facilities require relatively low investment and maintenance expenses versus the sales they enable. NOV manufactures a diverse line of products and improves efficiency by shifting production runs to high-demand or lowest-cost facilities. The Company also benefits from a customer base requiring technically complex equipment for use in extreme environments. Using sophisticated tools to precisely place a wellbore several miles into the earth, and then physically cracking open reservoir rock using large volumes of highly abrasive fluids pumped at extremely high pressures, is incredibly rough on equipment, creating recurring sales opportunities for equipment replacement and aftermarket sales and service.
+
+NOV’s infrastructure leverages the energy industry’s cyclicality. As commodity prices rise, the industry typically enters an expansionary phase, and equipment orders increase. NOV is able to ramp up manufacturing capacity quickly to capture the up-cycle value while meeting customer demand. During down-cycles, the Company’s focus is internal efficiency and technological advancement. NOV’s continuous pursuit of cyclical technological initiatives enhances its ability to drive long-term customer and shareholder value. The Company also outsources non-critical
+
+4
+
+machining operations with lower tolerance requirements during increased activity and brings the machining operations back into Company-owned facilities during down-cycles for lower cost and effective utilization.
+
+Employ a conservative capital structure with ample liquidity to capitalize on volatility associated with the oil and gas industry
+
+NOV maintains a conservative capital structure with an investment-grade credit rating and ample liquidity. The Company carefully manages its capital structure by continuously monitoring cash flow, capital spending, and debt capacity. Maintaining financial strength inspires confidence from customers who make large purchase commitments delivered over multi-year timeframes and who expect NOV to support their equipment with OEM aftermarket parts and services for decades to come. NOV’s strong balance sheet provides flexibility to execute its strategy, including advancing technological offerings, through industry volatility and commodity price cycles. The Company intends to maintain a conservative approach to balance sheet management to preserve operational and strategic flexibility.
+
+ 
+
+5
+
+ 
+
+Energy Transition
+
+As a leading independent global energy technology and equipment provider, NOV can be a key participant in the world’s transition to a low-carbon future. While oil and gas will remain critical to many parts of the global economy, the transition to clean, carbon-neutral energy sources represents an enormous economic opportunity for organizations that can improve the economic competitiveness of renewable energy. The International Energy Agency estimates that approximately $71 trillion, or $3.4 trillion per year, must be spent by 2040 in order for global CO2 emissions to decline 50 percent as outlined in the Paris Agreement. NOV is working to develop proprietary solutions to improve project execution, drive higher capital returns, and lower levelized costs of energy (“LCOE,” which is a measure of the average net present cost of electricity generation over a source’s lifetime) associated with renewable energy.
+
+Fixed Offshore Wind
+
+NOV has drawn on its expertise in oil and gas jack-up vessel design, robust aftermarket network, and strong reputation in marine equipment design to become the leading global equipment and design provider for offshore wind turbine installation vessels. NOV’s comprehensive offerings include designing and manufacturing critical jacking systems, cranes, and mooring equipment; developing and licensing vessel designs; working closely with shipyards to install and commission equipment on wind installation vessels; and aftermarket parts, service, and repair. The Company expects an upcoming growth period in the global offshore wind installation vessel market, driven primarily by the need for larger vessels required to support the installation of wind turbines with increasingly large rotor diameters, nacelle weights, and hub heights. The vessels required to install modern, heavier nacelles at higher hub heights are similar to those previously designed by NOV and are relatively consistent across global geographies. Additionally, as U.S. fixed offshore wind projects approach final permitting approval, the need for Jones Act-compliant wind installation vessels will become more urgent. As a result, the Company is well-positioned to capture additional orders associated with future newbuild wind installation vessels.
+
+Floating Offshore Wind
+
+The nascent floating offshore wind market presents one of the great renewable resource opportunities of the next decade. NOV is actively developing new products and technologies to support this industry alongside its legacy portfolio, which includes cranes, winches, mooring systems, cable-lay systems, ballasting systems, and chain connectors and tensioners. NOV has developed a patent-pending Tri-Floater semi-submersible floating foundation that requires less steel than competing offerings. NOV is also designing several proprietary lifting and handling tools for streamlined turbine component installation. Today, the floating offshore wind market sits in the pre-commercial development phase, with industry players focused on proofs of concept and mitigating execution risk. NOV is working to become a value-added partner capable of meaningfully reducing project execution risk by leveraging the Company’s broad and growing portfolio of relevant technology, extensive track record of successfully managing complex marine projects, relationships with global shipyards, and robust global supply chain accustomed to stringent quality and traceability.
+
+Onshore Wind
+
+NOV is developing technology to lower onshore wind’s LCOE by economically constructing increasingly tall wind towers. Higher hub heights allow turbines to reach stronger winds, significantly increasing energy capture, lowering energy cost, and expanding the regions where wind projects can be profitably developed. Higher hub heights are also required for larger, more efficient turbines. The combination of larger turbines and steadier, higher winds improves wind farm economics. Consequently, wind turbine size and tower height have been increasing steadily for several years. NOV’s core design and manufacturing competencies for large, industrial capital equipment, including cranes, lifting tools, and rotating machinery, uniquely position NOV to develop fit-for-purpose wind components and installation equipment to facilitate building onshore wind turbines at higher hub heights.
+
+In 2019, NOV acquired a minority interest in Keystone Tower Systems (“KTS”), which has developed a patented tapered spiral-welding process that enables automated wind tower section production. The proprietary process significantly decreases tower section production times and reduces costs. Additionally, the process enables in-field manufacturing operations, which can reduce costs and eliminate many logistical limitations of transporting the
+
+6
+
+larger-diameter sections necessary for tall tower developments. KTS’s first commercial line is currently under construction within NOV’s facility in Pampa, TX.
+
+NOV is developing a fit-for-purpose onshore wind tower erection system. Constructing onshore wind towers currently requires large crawler cranes, which provide advantaged mobility at low and moderate hub heights but are significantly less efficient at high hub heights. NOV’s technology, built upon the intellectual property, control systems, and experience developed through mobile desert and arctic drilling rig design, uses a tower crane in conjunction with a unique mobility system. This patent-pending combination creates a structurally-sound, mobile tower crane that is expected to significantly improve the safety, reliability, and efficiency of tall wind tower installation processes.
+
+Geothermal
+
+Today, many of NOV’s oil and gas products are used for drilling geothermal wells which produce steam that turns surface-mounted turbines to generate electricity. NOV’s top drives, blowout preventers, drill pipe, drill pipe inspection and coating, liner hangers, completion tools, drill bits, and full land rig packages have been a critical part of global geothermal development. Further, with geothermal power generation’s recently renewed traction, NOV has developed new proprietary products that address many unique geothermal production challenges and is investigating certain novel geothermal energy forms that could expand the worldwide geothermal power generation market.
+
+Carbon Capture and Sequestration
+
+NOV is positioned to play a vital role in the growing carbon capture and sequestration industry. Technology from NOV’s Wellstream Processing business enables CO2-from-hydrocarbon separation, dehydration, and liquification, all vital parts of the carbon capture chain. In addition, the APL business’s turret and mooring systems facilitate the development of offshore carbon re-injection sites.
+
+Lowering the Carbon and Environmental Footprint of the Oil & Gas Industry
+
+NOV is committed to providing products and services that economically reduce carbon intensity and deliver superior performance. The Company has pioneered numerous solutions for improving the industry’s safety and environmental footprint, including NOV’s closed-loop solids control and thermal desorption systems, dual-containment flowline technologies, solar pumping systems, and hydrocarbon leak detection systems, among others. NOV remains committed to reducing emissions and improving industry sustainability.
+
+NOV’s recently-introduced PowerBlade™ Kinetic Energy Recovery System is a regenerative braking technology that utilizes both flywheel energy and lithium-ion battery energy storage to significantly reduce fuel consumption and emissions associated with drilling and hoisting. The PowerBlade™ system captures and regenerates electrical energy that would have previously dissipated as heat when a drawworks, crane, or winch slows and stops. The PowerBladeTM system then returns this energy when needed.
+
+NOV also recently introduced its Ideal eFrac™ fleet, delivering advanced well stimulation technology to dramatically reduce emissions and decrease ownership cost. The patent-pending Ideal eFrac™ system enhances wellsite safety by reducing complexity and removing personnel from hazardous environments. In addition to lower operating emissions and greater power density, the Ideal eFrac™ system is less disruptive to neighboring communities due to its reduced noise and smaller footprint, requiring 40 percent fewer truckloads for delivery.
+
+Business Segment Overview
+
+Wellbore Technologies provides the critical technologies, equipment, and services required to maximize customer oil and gas drilling efficiencies and economics. The segment contains the following business units:
+
+ 
+	
+
+•
+	
+
+Downhole is a leading independent drilling and intervention equipment supplier with engineering teams, manufacturing facilities, supply hubs, and service centers situated in oil and gas activity regions with a constantly-evolving product portfolio that includes downhole drilling motors, SelectShiftTM motors,
+
+7
+
+ 
+		
+
+agitator systems, and fishing and thru-tubing tools. Downhole’s offerings enable significant efficiency increases in drilling, workover, and intervention.  
+
+ 
+	
+
+•
+	
+
+Tuboscope is a tubular coating and inspection leader, servicing drill-pipe and other oil country tubular goods (“OCTG”) such as casing, production tubing, and line pipe. With an 80-year track record, Tuboscope offers a fully integrated inspection, coating, and repair process that enables critical OCTG customer confidence. In addition, Tuboscope offers artificial lift rod solutions, line-pipe connection systems, pipe thread protection systems, and RFID technology for complete drill-pipe lifecycle management.
+
+ 
+	
+
+•
+	
+
+Grant Prideco is a leading premium drill-stem tubular manufacturer. With an integrated supply chain and an array of premium drill-pipe connections, Grant Prideco offers one-stop shopping. Grant Prideco leverages its expertise in metallurgy and connection technologies to offer an innovative product portfolio ranging from the simplest vertical land well to deepwater, extended-reach, high-pressure/high-temperature, and factory-drilling applications.
+
+ 
+	
+
+•
+	
+
+IntelliServ is the only commercial telemetry network enabling real-time broadband data transmission for instantaneous two-way communication between the bottomhole assembly and surface control system utilizing wired drill-pipe. IntelliServTM telemetry enables real-time information, real-time bottom-hole pressure monitoring, and significant rig-time savings as surveys, downlinks, slide orientations, and other data-driven activities are performed in seconds.
+
+ 
+	
+
+•
+	
+
+Directional Drilling Technologies is a designer and manufacturer of downhole tools and technologies for directional drilling operations. Directional Drilling Technologies’ measurement-while-drilling tools enable real-time wellbore location monitoring, and its logging-while-drilling tools provide real-time critical formation data. Its rotary-steerable-systems, including tools with closed-loop directional control, enable directional well trajectory drilling at high rates of penetration with limited surface interaction. As an independent supplier, Directional Drilling Technologies provides critical technologies required for efficient directional well drilling and enables service companies, drilling contractors, and E&P operators worldwide to deliver productive wells cost-effectively and reliably.
+
+ 
+	
+
+•
+	
+
+WellSite Services is a leading provider of solids control and waste management equipment and services, advanced wellhead cellar systems, managed-pressure-drilling systems, and wellsite logistics solutions. WellSite Services manufactures, sells, and rents highly-engineered solids control equipment and provides field services that improve customers’ bottom line by efficiently separating solids and reclaiming drilling fluids for reuse. After separating drill cuttings, WellSite Services provides waste management (both onsite and at centralized locations), including transport and storage. Additionally, Wellsite Services provides water management solutions, and managed pressure drilling services, combined with a network of wellsite experts who support operators in bringing their wells in on-time and on-budget. WellSite Services offers diversified resources to help manage the full wellsite lifecycle from initial preparation and cellar installation to worksite abandonment and remediation, including generators, temperature-control equipment, and other wellsite accessories.
+
+ 
+	
+
+•
+	
+
+ReedHycalog is a premier technical provider of performance-engineered drill bits and borehole enlargement products to help operators improve well construction efficiency and economics. The specialized product base centers on directly breaking the rock during rotary drilling operations, primarily through design, manufacturing, sales and rentals of high-quality, customized fixed cutter drill bits and the use of industry-leading cutter technology. The portfolio also includes roller cone drill bits, borehole enlargement tools that excel in the most demanding applications, and geographically focused coring tools and services.
+
+ 
+	
+
+•
+	
+
+M/D Totco is a leading independent oilfield digital solutions provider offering the full spectrum of sensors (both surface and downhole), data acquisition units, data aggregation, remote transmission, and analytics. Supported by a global field service infrastructure, M/D Totco’s ability to deliver real-time data, edge analytics, and digital solutions around critical parameters improves customer wellsite safety and operational efficiency. Using IntelliServ high-speed wired drill-pipe telemetry services, M/D Totco harnesses NOV’s unique ability to connect downhole tools with surface equipment to enable the world’s first closed-loop drilling automation and optimization solutions, using heuristic functions and machine-learning capabilities to transform drilling performance.
+
+8
+
+Completion & Production Solutions provides critical technologies to optimize the well completion process and production phase of a well’s lifecycle. Completion & Production Solutions business units include:
+
+ 
+	
+
+•
+	
+
+Intervention and Stimulation Equipment (“ISE”) designs and manufactures capital equipment and related consumables for oilfield pressure pumpers and coiled tubing, wireline, and well testing/flowback service companies. For hydraulic stimulation jobs, ISE’s manufacturing and assembly includes value-add technologies and complex process equipment, such as hydration units, chemical additive systems, blenders, and control systems. In addition, the business unit produces essential consumables to support pressure pumping spreads, including centrifugal pumps, valves, seats, and flowline equipment. Along with providing surface well-testing and flowback equipment for ultimate production assurance, the unit designs and manufactures cement pumping, mixing, transport, and storage equipment for well construction. ISE is also a leading provider of coiled tubing units and strings, pressure control and nitrogen support equipment, injector heads, and snubbing units. The business unit designs and manufactures wireline products for electric and slickline applications, including critical pressure control equipment like wireline lubricators. With integrated control systems, including condition-based maintenance solutions in engineered equipment and other digital offerings, ISE extends equipment life through real-time analytics, prevents non-productive time, and provides remote operations monitoring. ISE supports all its equipment with comprehensive repair, recertification, and other services through an unmatched global aftermarket facilities network.
+
+ 
+	
+
+•
+	
+
+Fiber Glass Systems (“FGS”) leads the market in the design, manufacture, and delivery of high-end composite piping systems, pressure vessels, tanks, and structures engineered to solve both corrosion and weight challenges. With manufacturing facilities spanning five continents and a sales and distribution network covering 40 countries, FGS serves a wide array of applications. In addition to oil and gas products, including composite downhole tubing and casing, high-pressure line pipe, spoolable pipe, and tanks, FGS supplies the marine and offshore industry with piping systems, scrubbers, and structural components such as handrails and grating. FGS also supplies packaged, UL-certified fiberglass pipe and tank solutions to the fuel handling market, as well as supporting chemical, industrial, and mining applications with corrosion and abrasion-resistant piping systems, tanks, and structural components.  
+
+ 
+	
+
+•
+	
+
+Process and Flow Technologies (“PFT”) provides integrated processing, production, and pumping equipment to energy producers. For the production space, PFT manufactures reciprocating, multistage, and progressive cavity pumps, as well as artificial lift support systems. For the midstream space, PFT manufactures closures and transfer pumps. For fluid processing, PFT designs and manufactures integrated systems that provide water treatment, separation, sand management, hydrate inhibition, and gas processing for use both on and offshore. Building on its processing equipment portfolio, PFT offers comprehensive floating production systems, including turret mooring and topside process modules that minimize execution risk and maximize operability and crew safety. PFT can partner with operators from concept to deployment or operate as the equipment provider to both end customers and engineering, procurement, and construction (“EPC”) firms. PFT, along with alliance partners, offers complete technology, engineering, and project management to supply comprehensive topside solutions for floating production, storage, and offloading (“FPSO”) vessel projects.
+
+ 
+	
+
+•
+	
+
+Subsea Production Systems (“SPS”) provides technical innovation to reduce cost and improve subsea infrastructure and customer productivity. The business unit manufactures flexible subsea pipe systems designed to operate worldwide in demanding offshore conditions. Flexible pipes are highly engineered, complex, helically wound structures composed of multiple unbonded steel and composite layers, allowing them to withstand the demanding pressures and tensile loads of deepwater production while remaining resistant to wave- and tidal-induced fatigue. SPS also provides an assortment of critical subsea production equipment, such as water injection and tie-in connector systems, subsea storage units, and other related products.  
+
+ 
+	
+
+•
+	
+
+XL Systems (“XLS”) provides integral and weld-on connectors for oil and gas applications, including conductor strings, surface casing, and liners, with diameters ranging from 16 to 72 inches. XLS is the sole provider of a proprietary line of wedge thread connections on large-bore pipe. In addition, XLS supplies connector products with threads machined on high-strength forging material and then welded to the pipe.
+
+9
+
+ 
+	
+
+•
+	
+
+Completion Tools solves the most pressing needs of the global completions marketplace, including lowering well cost through operational efficiency maximization, significant water consumption reduction, and increased production and ultimate recovery. Completion Tools’ technologies include multistage frac products, such as its proprietary BPSTM (Burst Port System), VapRTM dissolvable frac plug, i-Frac CEMTM multistage frac sleeve, VoyagerTM Open Hole frac sleeve, and BullmastiffTM frac system, which incorporates sand-control capabilities. The breadth of these offerings provides customers with optimal solutions for their application. Completion Tools also provides well construction technologies, including liner hangers and real-time optimization solutions such as iConTM RT.
+
+ 
+	
+
+•
+	
+
+Industrial Pumps and Mixers is a leading provider of specialized, technology-driven progressive cavity pumps and mixers for moving high-viscosity liquids for a variety of attractive end markets with high failure cost. Products include progressive cavity pumps for sludge movement, fluid metering, and sanitation sold under the Moyno and Mono brands; and industrial and static mixers, homogenizers, mixing systems, impellers, and agitators sold under the Chemineer, Kenics, Greerco, and Prochem brands. Marketed under globally recognized brands known for quality and reliability and backed by more than 75 years of advanced fluid-handling experience, Industrial Pumps and Mixers serves a wide breadth of end markets, including food and beverage, water/wastewater, chemical, mineral processing, pulp & paper, pharmaceutical, and general industrial processes.
+
+ 
+	
+
+•
+	
+
+Pole Products provides premium products to support connectivity, lighting, and power for municipal and residential applications, including 5G, smart-city infrastructure, roads and highways, and energy-grid modernization. The business unit is a national leading manufacturer of premium spun-cast concrete, tapered steel, and innovative fiberglass poles for diverse applications. Known for durability, aesthetic design, superior lead times, and differentiated field services, Pole Products provides bundled installed products to the telecom, utility, and transportation infrastructure markets.
+
+Rig Technologies is the global leader in the engineering, manufacturing, and support of advanced drilling equipment packages and related capital equipment for oil and gas wells. The segment also designs, builds, installs, and supports renewable energy equipment and technology, with a focus on wind and solar. Rig Technologies operates two business units:
+
+ 
+	
+
+•
+	
+
+Rig Equipment designs, manufactures, and sells land rigs, complete offshore drilling packages, and rig components designed to mechanize and automate complex drilling rig processes, including the NOVOSTM automation control system and ATOMTM RTX Robotics solutions. Rig Equipment’s portfolio includes designs that changed the way rigs are operated, such as the TDS top drive drilling system and automated roughneck. The product portfolio has evolved with market needs and includes solutions to reduce energy consumption and enable energy regeneration, resulting in reduced drilling environmental impact. The business unit also provides comprehensive aftermarket products and services to maximize rig fleet drilling uptime and reduce total cost of ownership through big-data analytics, condition monitoring, and digital solutions like TrackerVisionTM and eHawkTM that enable efficient remote support. Aftermarket offerings include upgrades of existing equipment and systems, spare parts, repair, and rentals, as well as comprehensive remote equipment monitoring, technical support, field service, and customer training through an extensive aftermarket facilities network strategically located in major drilling areas around the world.
+
+ 
+	
+
+•
+	
+
+Marine Construction designs, engineers, and manufactures heavy-lift cranes; a large range of knuckle-boom and lattice-boom cranes, including active heave options; mooring, anchor, and deck-handling machinery; a full range of jacking systems both for drilling rigs and wind turbine installation jack-ups; and solutions for installing offshore wind towers and turbines, pipelay, and construction vessel systems. Within Marine Construction, GustoMSC provides design solutions for drilling jack-ups and floaters, wind turbine installation jack-ups, and floating offshore wind solutions like the TriFloater. Marine Construction serves the oil and gas industry as well as wind energy and other marine-based end markets. This business unit also provides aftermarket support, including upgrades of existing equipment, spare parts, repair and field services.
+
+See Note 16 to the Consolidated Financial Statements for financial information by segment and a geographical revenue and long-lived asset breakout. We have also included a glossary of oilfield terms at the end of Item 1. “Business” of this Annual Report.
+
+10
+
+Overview of Oil and Gas Well-Construction Processes
+
+The well-construction process starts with an oil and gas operator and its contractors designating a suitable drilling site and placing a drilling rig at the location.  The rig’s crew assembles the drill stem, which consists of drillpipe joints, specialized drilling components known as downhole tools, and a drill bit at the end.  Modern rigs typically power the drill bit through a drilling motor, which is attached to the bottom of the drill stem and provides rotational force directly to the bit, or a top drive, a device suspended from the derrick that turns the entire drill stem.  The evolution of drilling motors and top drives has facilitated operators’ abilities to drill directionally and horizontally as opposed to being limited to the traditional vertical trajectory.  The Company sells and rents drilling motors, agitators, drill bits, downhole tools and drill pipe through Wellbore Technologies, and sells top drives through Rig Technologies.
+
+Heavy drilling fluids, or “drilling muds,” are pumped down the drill stem and forced out through jets in the bit. The drilling mud returns to the surface through the space between the borehole wall and the drill stem, carrying with it the rock cuttings drilled out by the bit. The cuttings are removed from the mud by a solids control system (which can include shakers, centrifuges, and other specialized equipment) and disposed of in an environmentally sound manner. The solids control system permits the mud, which is often comprised of expensive compounds, to be continuously reused and re-circulated back into the hole.  Rig Technologies sells the large “mud pumps” that are used to pump drilling mud through the drill stem, down, and back up the hole. Wellbore Technologies sells and rents solids control equipment and provides solids control, waste management and drilling fluids services.
+
+Many operators internally coat the drill stem to improve its hydraulic efficiency and protect it from the corrosive fluids sometimes encountered during drilling; have hard-facing alloys applied to drillpipe joints, collars, and other components to protect tool joints and casing against wear; and inspect and assess the integrity of the drillpipe from time to time.  Wellbore Technologies manufactures and sells drillpipe and provides coating, “hardfacing,” and drillpipe inspection and repair.  As hole depth increases, additional joints of drillpipe are continuously added to the drill stem. When the bit becomes dull or the equipment at the bottom of the drill stem – including the drilling motors – otherwise requires servicing, the entire drill stem is pulled out of the hole and disassembled by disconnecting the joints of drillpipe. These are set aside or “racked,” the old bit is replaced or service is performed, and the drill stem is reassembled and lowered back into the hole (a process called “tripping”). During drilling and tripping operations, joints of drillpipe must be screwed together and tightened (“made up”), and loosened and unscrewed (“spun out”), a process that can create a considerable amount of stress on the pipe connections while also being quite time consuming.  Rig Technologies provides drilling equipment to manipulate and maneuver the drillpipe in an efficient and safe manner, and Wellbore Technologies manufactures premium connections that are designed to reduce failure downhole and improve the rate of connection on the rig floor. When the hole has reached a specified depth, all the drillpipe is pulled out of the hole, and larger-diameter pipe known as casing is lowered into the hole and permanently cemented in place in order to protect against collapse and contamination of the hole. The casing is typically inspected before it is lowered into the hole, another service provided by Wellbore Technologies.  Hole openers from Wellbore Technologies, which mount above the drill bits in the drill stem, open the tolerance of the hole to allow for easier and faster casing installation. Completion & Production Solutions manufactures cement mixing and pumping equipment that is used to cement the casing in place. The rig’s hoisting system raises and lowers the drill stem while drilling or tripping, and lowers casing into the wellbore. A conventional hoisting system is a block-and-tackle mechanism that works within the drilling rig’s derrick. The mechanism is lifted by a series of pulleys that are attached to the drawworks at the base of the derrick. Rig Technologies sells and installs drawworks and pipe hoisting-systems.
+
+During the course of normal drilling operations, the drill stem passes through different geological formations that exhibit varying pressure characteristics. If this pressure is not contained, oil, gas, and/or water would flow out of these formations to the surface. Containing reservoir pressures is accomplished primarily by the circulation of heavy drilling muds and secondarily by blowout preventers (“BOPs”), should the mud prove inadequate.  Drilling muds are carefully designed to exhibit certain qualities that optimize the drilling process. In addition to containing formation pressure, they must provide power to the drilling motor; carry drilled solids to the surface; protect the drilled formations from being damaged; and cool the drill bit. Achieving these objectives often requires a formulation specific to a given well, requires a high level of cleanliness for better bottomhole assembly, and can involve the use of expensive chemicals as well as natural materials, such as certain types of clay. The fluid itself is often oil or more expensive synthetic mud. Given the cost, it is highly desirable to reuse as much of the drilling mud as possible. Solids control equipment such as shale shakers, centrifuges, cuttings dryers, and mud cleaners help accomplish this objective. Wellbore Technologies provides drilling fluids and rents, sells, operates, and services
+
+11
+
+solids control equipment.  Rig Technologies manufactures pumps that power the flow of the mud and fluid downhole and back to the surface. Drilling muds are formulated based on expected drilling conditions. However, as the hole is drilled, the drill stem may encounter a high-pressure zone where the mud density is inadequate to maintain sufficient pressure. Should efforts to “weight up” the mud to contain such a pressure kick fail, a blowout could result, whereby reservoir fluids would flow uncontrolled into the well. A series of BOPs are positioned at the top of the well and, when activated, form tight seals that prevent the escape of fluids to the surface. Conventional BOPs prevent normal rig operations when closed so the BOPs are activated only if drilling mud and normal well control procedures cannot safely contain the pressure.  Rig Technologies engineers and manufactures BOPs.
+
+The operations of the rig and the condition of the drilling mud are closely monitored by various sensors, which measure operating parameters such as the weight on the rig’s hook, the incidence of pressure kicks, the operation of the drilling mud pumps, weight on bit, etc. Wellbore Technologies sells and rents drilling rig instrumentation packages that perform these monitoring functions as well as additional sensors that continuously collect downhole data that can be transmitted back to the surface via wired drill pipe.  Wellbore Technologies’ also offers drilling optimization and automation software and services that utilize this downhole data to maximize drilling performance by mitigating vibrations, dynamic and impact loading, and stick-slip, which ensures longer bit runs, and reduces the number of necessary trips.
+
+During drilling operations, the drilling rig and related equipment and tools are subject to severe stresses, pressures, and temperatures, as well as a corrosive environment, and require regular repair and maintenance. Rig Technologies supplies spare parts and can dispatch field service engineers with the expertise to quickly repair and maintain equipment, minimizing down time.
+
+Once a well has been drilled, cased, and cemented, and the operator determines hydrocarbons are present in commercial quantities, the well is then completed, and sometimes stimulated.  After the casing is cemented in place, the well undergoes one of several completion processes to open the bottom of the wellbore and allow hydrocarbons to flow from the reservoir and up the well to the surface.  The most commonly used technique is known as perforation.  The perforating process entails lowering a string of shaped charges to the desired depth in the well using an electric wireline unit and firing the charges to perforate the casing or liner.  Wireline units are also used to perform logging operations and other intervention services.  At this point, the operator may decide, based on well design and flow rate, to further enhance production by stimulating the well.  Unconventional wells almost always require stimulation through multi-stage hydraulic fracturing, a process by which a fluid or slurry is pumped down the well by large pumping units.  This causes the underground formation to crack or fracture, opening up space for hydrocarbons to flow more freely out of tight rock formations.  A proppant is suspended in the fluid and lodges in the cracks, propping them open and allowing hydrocarbons to flow after the fluid is gone.  A coiled tubing unit is often used to drill out bridge plugs that isolate the many stages needed to stimulate a horizontal well.  A coiled tubing unit utilizes a large continuous length of steel tubing to enter and traverse long laterals and perform completion and well remediation operations.  As drilling laterals have lengthened in recent years, many operators are electing to use larger high-specification well service rigs to assist in several phases of the completion phase by conveying tools downhole and drilling out completion plugs.  Workover rigs are similar to drilling rigs in their capabilities to handle tubing but are usually smaller and somewhat less sophisticated. Completion & Production Solutions provides the essential equipment necessary for the entirety of the completion and stimulation process, designing and manufacturing coiled tubing units, wireline units, pressure pumping equipment, completion tools, snubbing units, nitrogen units, and treating iron.  In addition, the well completion process creates a large amount of wear and tear on the equipment used, which creates healthy demand for Completion & Production Solutions’ aftermarket services.  The use of coiled tubing and wireline equipment typically requires the use of a BOP to ensure safety during operations. Completion & Production Solutions manufactures this well control equipment. Due to the corrosive nature of many produced fluids, production tubing is often inspected and coated, services offered by Wellbore Technologies.  Increasingly, operators choose to use corrosion-resistant composite materials or alloys in the process, which are also sold by Completion & Production Solutions.
+
+Once the well has been stimulated, it is usually ready to be capped with a production wellhead and linked up to a gathering system where it can begin producing and generating cash flow for the operator.  This process is significantly more involved offshore, where pipes are often required to reach thousands of feet from the wellhead back to the surface, contending with tides, debris, and weather.  The development of flexible pipe solved many of the issues associated with linking offshore wells back to their respective FPSOs, which serve as gathering hubs, sometimes in some of the most remote areas of the world.  Completion & Production Solutions manufactures flexible subsea pipe in addition to offering turret mooring systems and topside process modules for FPSOs.
+
+12
+
+Natural decline rates set in as a well ages, and workover procedures and other services may be necessary to extend its life and increase its production rate.  Over time, downhole equipment, casing, or tubing may need to be serviced or replaced.  When producing wells require anything from routine maintenance to major modifications and repair, a well servicing rig is typically needed.  Workover rigs are used to disassemble the wellhead, tubing and other completion components of an existing well in order to stimulate or remediate the well. As a well continues to mature, its natural reservoir pressure may no longer be enough to force fluids to the surface.  Artificial lift equipment is then typically installed, which adds energy to the fluid column in a wellbore using one of several types of pumps.  In addition to reduced pressure, the water cut of a well’s production tends to increase as the well ages, which typically requires the addition of water treatment and separation equipment.  The Company offers a comprehensive range of workover rigs through Rig Technologies. Tubing and sucker rods removed from a well during a well remediation operation are often inspected to determine their suitability to be reused in the well, a service Wellbore Technologies provides.  Completion & Production Solutions offers several types of artificial lift and related support systems as well as integrated systems that provide water treatment, separation, hydrate inhibition, and gas processing.
+
+Markets and Competition
+
+The Company’s customers are predominantly service companies, oil and gas companies, and shipyards. Products within Wellbore Technologies and Completion & Production Solutions are sold and rented worldwide through NOV’s sales force and through commissioned representatives.  Substantially all of Rig Technologies’ capital equipment and spare parts sales, and a large portion of smaller pumps and parts sales, are made through NOV’s direct sales force and distribution service centers. Sales to foreign oil companies are often made with or through representative arrangements.
+
+The Company’s competition consists primarily of publicly traded oilfield service and equipment companies and smaller independent equipment manufacturers in the oil and gas, industrial, and renewable energy equipment markets.
+
+The Company’s foreign operations, which include significant operations in the Middle East, Africa and Latin America, Russia, the Far East, Canada and Europe are subject to the risks normally associated with conducting business in foreign countries, including foreign currency exchange risks and uncertain political and economic environments, which may limit or disrupt markets, restrict the movement of funds or result in the deprivation of contract rights or the taking of property without fair compensation. Government-owned petroleum companies located in some of the countries in which the Company operates have adopted policies (or are subject to governmental policies) giving preference to the purchase of goods and services from companies that are majority-owned by local nationals. As a result of such policies, the Company relies on joint ventures, license arrangements, and other business combinations with local nationals in these countries. See Note 16 to the Consolidated Financial Statements for information regarding geographic revenue information.
+
+Influence of Oil and Gas Activity Levels on the Company’s Business
+
+The oil and gas industry has historically experienced significant volatility. Demand for the Company’s products and services depends primarily upon the general level of activity in the oil and gas industry worldwide.  Oil and gas activity is in turn heavily influenced by, among other factors, oil and gas prices worldwide. High levels of drilling and well remediation generally spurs demand for the Company’s products and services. Additionally, high levels of oil and gas activity increase cash flows available for oil and gas companies, drilling contractors, oilfield service companies, and manufacturers of OCTG to invest in equipment that the Company sells.  
+
+See additional discussion on the current worldwide economic environment and related oil and gas activity levels in Item 1A. “Risk Factors” and Item 7. “Management’s Discussion and Analysis of Financial Condition and Results of Operations.”
+
+13
+
+Seasonal Nature of the Company’s Business
+
+Historically, activity levels of some of the Company’s segments have followed seasonal trends to some degree.  Extremely harsh winter weather can reduce oilfield operations in far northern or high-altitude locations, including parts of Colorado, Canada, Russia and China, and the annual thaw (or “breakup”) in Canada makes some unimproved roads inaccessible to heavy equipment during part of each second quarter.  Both situations temporarily reduce demand for the Company’s products and services in the effected geographic area, although revenues generally recover once conditions improve.  Fluctuations in customer’s activity levels caused by national or customary holiday seasons and annual budgetary cycles can also affect their spending levels with the Company, leading to both temporary local decreases and increases in sales.  Over the past few years, the Company has seen a more pronounced level of spending during the fourth quarter, and a decline in the first quarter, in certain of its businesses, which it believes is related to annual budgetary cycles. While the Company anticipates that the seasonal and other trends described above may continue, there can be no guarantee that spending by the Company’s customers will continue to follow patterns seen in the past.
+
+Research and New Product Development and Intellectual Property
+
+The Company believes that it has been a leader in the development of new technology and equipment to enhance the safety and productivity of drilling and well servicing processes and that its sales and earnings have been dependent, in part, upon the successful introduction of new or improved products. It also invests in new technologies related to its non-oil and gas business as well as renewable energy-related technologies. Through its internal development programs and certain acquisitions, the Company has assembled an extensive array of technologies protected by a substantial number of trademarks, for both goods and services, patents, trade secrets, and other proprietary rights.
+
+As of December 31, 2020, the Company held a substantial number of granted patents and pending patent applications worldwide, including U.S. patents and U.S. patent applications as well as patents and patent applications in a variety of other countries. Expiration dates of such patents range from 2021 to 2040. Additionally, the Company maintains a substantial number of trademarks for both goods and services and maintains a number of trade secrets.
+
+Although the Company believes that this intellectual property has value, competitive products with different designs have been successfully developed and marketed by others. The Company considers the quality and timely delivery of its products, the service it provides to its customers, and the technical knowledge and skills of its personnel to be as important as its intellectual property in its ability to compete. While the Company stresses the importance of its research and development programs, the technical challenges and market uncertainties associated with the development and successful introduction of new products are such that there can be no assurance that the Company will realize future revenue from new products.
+
+Manufacturing and Service Locations
+
+The manufacturing processes for the Company’s products generally consist of machining, welding and fabrication, heat treating, assembly of manufactured and purchased components, and testing. Most equipment is manufactured primarily from alloy steel. The availability and price of alloy steel castings, forgings, purchased components, and bar stock is critical to the production and timing of shipments.
+
+Wellbore Technologies designs, manufactures, rents, and sells a variety of equipment and technologies used to perform drilling operations, and offers services that optimize their performance, including: solids control and waste management equipment and services, drilling fluids, premium drillpipe, wired pipe, drilling optimization services, tubular inspection and coating services, instrumentation, downhole tools, and drill bits.  Primary facilities are located in Houston, Conroe, Navasota, and Cedar Park, Texas; Veracruz, Mexico; and Dubai, UAE.
+
+Completion & Production Solutions designs, manufactures, and integrates technologies for well completions, oil and gas production, and industrial markets. This includes equipment and technologies needed for hydraulic fracture stimulation, including pressure pumping trucks, blenders, sanders, hydration units, injection units, flowline, and manifolds; well intervention, including coiled tubing units, coiled tubing, and wireline units and tools; cementing products for pumping, mixing, transport, and storage; onshore production, including fluid processing, composite pipe, surface transfer and progressive cavity pumps, and artificial lift systems; and offshore production, including integrated production systems and subsea production technologies. Primary facilities are located in Houston, and
+
+14
+
+Fort Worth, Texas; Tulsa, Oklahoma; Senai, Malaysia; Qingdau, Shandong, China; Kalundborg, Denmark; Superporto du Acu, Brazil; Manchester, England; Nisku, Canada; Dammam, Saudi Arabia; Jiangyan, China; and Aberdeenshire, Scotland, UK.
+
+Rig Technologies provides drilling rig components, complete land drilling rigs, and offshore drilling equipment packages. Primary manufacturing and service facilities are located in Houston, Texas; Mexicali, Mexico; Dubai, UAE; Pune, India; Stavanger, Norway; Kristiansand, Norway; New Iberia, Louisiana; Port Elizabeth, South Africa; Macae, Brazil; Ulsan Korea and Singapore.
+
+Raw Materials
+
+The Company believes that materials and components used in its operations are generally available from multiple sources. The prices paid by the Company for its raw materials may be affected by, among other things, energy, steel, and other commodity prices; tariffs and duties on imported materials; and foreign currency exchange rates. The Company has experienced rising, declining, and stable prices for milled steel and standard grades in line with broader economic activity and has generally seen specialty alloy prices continue to rise, driven primarily by escalation in the price of the alloying agents. The Company has generally been successful in its effort to mitigate the financial impact of higher raw materials costs on its operations by applying surcharges to, and adjusting prices on, the products it sells. Higher prices and lower availability of steel and other raw materials the Company uses in its business may adversely impact future periods.
+
+Backlog
+
+The Company monitors its backlog of orders to guide its planning. Backlog includes orders which typically require more than three months to manufacture and deliver.
+
+Backlog measurements are made on the basis of written orders that are firm but may be defaulted upon by the customer in some instances. Most require reimbursement to the Company for costs incurred in such an event. There can be no assurance that the backlog amounts will ultimately be realized as revenue, or that the Company will earn a profit on backlog work. Backlog for Completion & Production Solutions at December 31, 2020, 2019 and 2018 was $0.7 billion, $1.3 billion and $0.9 billion, respectively. Backlog for Rig Technologies at December 31, 2020, 2019 and 2018, was $2.7 billion, $3.0 billion and $3.1 billion, respectively.  
+
+Human Capital
+
+NOV’s 27,631 global, diverse employees use their skill and expertise to provide the products and services that help our customers operate safely, efficiently, sustainably, and competitively. NOV’s team designs and manufactures a broad array of equipment and technology, from some of the heaviest, largest and most complex mobile machines on earth (on and offshore drilling rigs, wind turbine installation ships, and FPSOs) to very small precision sensors and measuring devices.  
+
+NOV’s employee base includes:  
+
+ 
+	
+
+•
+	
+
+Inventors, designers, scientists and engineers (including mechanical, electrical, chemical, hydraulic, materials, computer, software, data analytics, and other disciplines) who design and improve the equipment, electronics, software, services and process that bring value to NOV’s customers.
+
+ 
+	
+
+•
+	
+
+Technical sales, marketing and training professionals who educate customers, the industry, and our own organization about NOVs’ many products, services and unique capabilities.  
+
+ 
+	
+
+•
+	
+
+Supply chain, logistics, warehousing, and quality testing professionals who ensure our factories, workshops, repair centers and field technicians have the right materials and tools to do their jobs efficiently.  
+
+ 
+	
+
+•
+	
+
+Production and service planners and schedulers, project managers, and process design and Quality Health Safety and Environmental professionals who plan, manage and monitor the activities of our workforce to ensure high-quality, efficient, safe, and environmentally compliant operations.  
+
+ 
+	
+
+•
+	
+
+Machinists, metal fabricators, welders, assemblers, pipe fitters, riggers, electronics technicians, system integrators, composite material fabricators, paint and industrial coatings specialists, and other skilled
+
+15
+
+ 
+		
+
+trade professionals who use a wide variety of industrial processes, tools, and techniques to transform raw materials and purchased components into the many products NOV sells.    
+
+ 
+	
+
+•
+	
+
+Field service engineers, mechanics, and technicians who maintain, service, repair, and upgrade NOV equipment and, in some cases, assist customers with its operation.
+
+ 
+	
+
+•
+	
+
+Business leaders and managers who create business strategies and targets, assess goals and priorities, and allocate resources to ensure NOV’s employees have the tools they need to get the job done and further build the Company’s competitive advantages.
+
+ 
+	
+
+•
+	
+
+Support function professionals, including: Information Technology, Human Resources, Legal, Compliance, Clerical, and Accounting and Finance who support operations to keep the business infrastructure and administrative burdens flowing.
+
+Thirty-five percent of NOV employees work in the United States, 25% in Europe, 13% in the Asia Pacific region, 12% in Latin America, 9% in the Middle East and Africa, and 3% in each of Canada and China.  The Company’s 573 physical locations include various size manufacturing plants, research facilities, machine shops, office buildings, warehouses and distribution centers where between 20 to 1,100 people work and repair shops, rental tool bases, sales offices and other small locations where between 5 to 200 people work.  Many NOV employees travel to work at customer locations, including onshore and offshore drilling sites, shipyards, and other industrial locations where equipment needs installation, commissioning, service or repair, or where customers need training or technical support.
+
+NOV’s success depends on these dedicated, skilled hardworking employees.  The Company strongly believes that safeguarding and supporting the health, safety, diversity, respect, skills, career satisfaction and wellbeing of NOV’s employees are critical to the success of the business. The Company’s Human Resources and Health Safety and Environmental organizations provide policies, oversight, monitoring, resources, training, and assistance companywide that are designed to foster a culture that embraces this belief.  
+
+Safety
+
+Protecting the health and safety of all stakeholders is a core value. NOV maintains comprehensive monitoring and tracking of reportable injuries, reviewed each quarter by our operating Segment Presidents with the CEO, CFO, and Chief HSE Officer (including significant injuries, root cause analysis, and remediation measures).  Successful safety programs and campaigns are also shared across the Company’s operations, including:
+
+ 
+	
+
+•
+	
+
+Stop Work Authority – all NOV employees have the authority, responsibility, and duty to stop an unsafe act, practice, or job.  
+
+ 
+	
+
+•
+	
+
+Life Saving Rules – standardized rules aligning NOV with industry partners to reduce the risk of serious injury or death associated with critical hazards in the workplace.
+
+ 
+	
+
+•
+	
+
+Fresh-Eyes – program coordinating safety walk-throughs, observations, and improvements at peer NOV facilities.
+
+ 
+	
+
+•
+	
+
+Safety stand downs – pausing normal operations for general safety meetings or to address a specific risk.
+
+Health and wellbeing
+
+The Company offers locally competitive health benefits, paid holidays and time off, and retirement benefits to our employees.  In the US this includes health, vision and dental insurance, life insurance, disability insurance, a 401(k)-retirement savings plan, an employee assistance program, and a wellness program.
+
+During the COVID-19 pandemic NOV has implemented programs tailored to each location that may include, among other things, working from home, virtual meetings, social distancing, masking, contact tracing and quarantining, facility and machine sanitizing, staggered work shifts, and staggered workdays.
+
+Diversity and inclusion
+
+NOV is committed to maintaining a diverse workforce, individual inclusion, and equal opportunities.  The Company believes an employee base with different education, training and life experiences (gender, age, religion, race, ethnicity, cultural background, sexual orientation, language, education, abilities, perspectives, etc.) lead to more
+
+16
+
+innovative and creative business solutions, more informed decision-making, greater employee engagement, and better retention and recruitment of top talent.
+
+In support of this commitment, NOV has communicated a Diversity and Inclusion Statement from the CEO to our employees and has implemented training programs covering the Company’s Code of Conduct and Business Ethics, Unconscious Bias, and Harassment in the Workplace.
+
+Across NOV’s global workforce, women make up 16% of all employees, 23% of salaried employees, 20% of the C-Suite and hold 22% of the Company’s Board of Directors seats.
+
+Career satisfaction and skills
+
+NOV tracks and monitors data on the employee experience including hiring, turnover, and promotion trends.  The Company also obtains employee feedback through ‘pulse’ surveys which measure employee satisfaction across several areas.  Human resources managers and business managers across the Company review this information to identify areas for improvement and create remediation strategies.
+
+The Company invests in opportunities for employee education, growth, and development, providing comprehensive training opportunities in technical, managerial, and soft skills.  Some programs include: Powering Excellence designed for current and potential business leaders, Supervisor Training and Resources (STAR) and Leading Self and Others designed for new managers, as well as many other courses through the Company’s dedicated Technical Training Centers based in Houston, Singapore, UAE, Norway, UK, and South America.
+
+Available Information
+
+The Company’s principal executive offices are located at 7909 Parkwood Circle Drive, Houston, Texas 77036. Its telephone number is (713) 346-7500. Further information about the Company’s products and services can be found on its website at:  www.nov.com.  The Company’s common stock is traded on the New York Stock Exchange under the symbol “NOV”. The Company’s annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and all related amendments are available free of charge on the Investor Relations portion of the Company’s website, www.nov.com/investor, as soon as reasonably practicable after such material is electronically filed with, or furnished to, the Securities and Exchange Commission (“SEC”).  The Company’s Code of Ethics is also posted on its website. 

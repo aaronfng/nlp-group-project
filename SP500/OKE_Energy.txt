@@ -1,0 +1,394 @@
+
+GENERAL
+
+We are incorporated under the laws of the state of Oklahoma, and our common stock is listed on the NYSE under the trading symbol “OKE.” We are a leading midstream service provider and own one of the nation’s premier NGL systems, connecting NGL supply in the Rocky Mountain, Permian and Mid-Continent regions with key market centers and an extensive network of natural gas gathering, processing, storage and transportation assets. We apply our core capabilities of gathering, processing, fractionating, transporting, storing and marketing natural gas and NGLs through vertical integration across the midstream value chain to provide our customers with premium services while generating consistent and sustainable earnings growth.
+
+Midstream Value Chain
+																	
+	Legend		
+oke-20201231_g2.gif
+	
+				We are connected to supply in natural gas and NGL producing basins and have significant basin diversification, including the Williston, Permian, Powder River and DJ Basins and the STACK and SCOOP areas. In our Natural Gas Gathering and Processing segment, we have more than 3 million dedicated acres in the Williston Basin and approximately 300,000 dedicated acres in the STACK and SCOOP areas. In our Natural Gas Liquids segment, we are the largest NGL takeaway provider in the Williston and Powder River Basins; Oklahoma, including the STACK and SCOOP areas; Kansas; and the Texas Panhandle. We also have a significant presence in the Permian Basin.
+		
+Natural Gas Gathering & Processing
+	
+			
+		
+Natural Gas Liquids
+	
+			
+		
+Natural Gas Pipelines
+	
+			
+			
+Raw natural gas is typically gathered at the wellhead, compressed and transported through pipelines to our processing facilities. Most raw natural gas produced at the wellhead contains a mixture of NGL components, including ethane, propane, iso-butane, normal butane and natural gasoline. 	
+				
+Gathered wellhead natural gas is directed to our processing plants to remove NGLs, resulting in residue natural gas (primarily methane). 		Once processed, residue natural gas is recompressed and delivered to intrastate and interstate natural gas pipelines primarily in our Natural Gas Pipelines segment.
+				
+oke-20201231_g3.gif
+			
+			
+			
+			
+NGLs extracted at processing plants, both third-party and our own, are then gathered by our NGL gathering pipelines. 	
+			
+			
+			
+			
+			
+Gathered NGLs are directed to our downstream fractionators in the Mid-Continent region and Mont Belvieu, Texas, to be separated into purity products.	
+	
+				Residue natural gas is transported to storage facilities and end users, such as large industrial customers, natural gas and electric utilities serving commercial and residential consumers, and international markets through liquefied natural gas exports and cross-border pipelines.
+			
+			
+			
+			
+			
+Purity products are stored or distributed to our customers, such as petrochemical companies, propane distributors, heating fuel users, ethanol producers, refineries and exporters. 		
+	
+	
+	
+				
+5
+
+EXECUTIVE SUMMARY
+
+Business Update, Market Conditions and COVID-19 - Late in the first quarter 2020, the energy industry experienced historic events that led to a simultaneous demand and supply disruption. The World Health Organization declared COVID-19 a global pandemic and recommended containment and mitigation measures worldwide, which contributed to a massive economic slowdown and decreased demand for crude oil. In addition, Saudi Arabia and Russia increased production of crude oil as the two countries competed for market share. As a result, the global supply of crude oil significantly exceeded demand and led to a collapse in crude oil prices. Crude oil prices and the related impact on crude oil drilling impacts our business due to associated natural gas, which is natural gas produced by oil wells. Associated natural gas contains NGLs. The decline of crude oil prices resulted in crude oil and associated natural gas and NGL production being curtailed in the second quarter 2020. We are still experiencing global and regional economic disruptions due primarily to COVID-19; however, in the third quarter 2020, many of our producers reversed curtailments, bringing volumes back to pre-COVID-19 levels as prices and demand significantly improved from second quarter 2020 lows. The full impact of the continued global and regional economic disruption will depend on the unknown duration and severity of COVID-19 and, among other things, the impact of governmental actions imposed in response to COVID-19, the pace and scale of economic recovery and corresponding demand for crude oil and the impacts to commodity prices. We continue to monitor producers’ drilling, completion and production plans, which are increasingly positive as commodity prices have stabilized and improved, and our expectations for 2021 include the potential for an improving pace of drilling and completion activity.
+
+The energy industry has experienced many up and down cycles, and as a result, we have positioned ourselves to minimize exposure to direct commodity price volatility. Each of our three segments’ earnings are primarily fee-based, and our consolidated earnings were more than 90% fee-based in 2020. While our Natural Gas Gathering and Processing segment’s earnings are primarily fee-based, we have direct commodity price exposure related primarily to fee with POP contracts. Under certain fee with POP contracts, our contractual fees and POP percentage may increase or decrease if production volumes, delivery pressures or commodity prices change relative to specified thresholds. In addition, although our Natural Gas Gathering and Processing and Natural Gas Liquids segments generate primarily fee-based earnings, those segments’ results of operations are exposed to volumetric risk as a result of production curtailments, reduced drilling and completion activity, declining well productivity, severe weather disruption, operational outages and crude oil, NGL and natural gas demand. Our Natural Gas Pipelines segment is not exposed to significant volumetric risk due to nearly all of our capacity being subscribed under long-term firm fee-based contracts.
+
+In continued response to COVID-19, we remain committed to managing the impact of the pandemic on our employees. We continue to take actions for safe operations, to protect our workforce and to implement appropriate cost reduction measures. We reduced our 2020 capital-growth expenditures by approximately $1.7 billion, compared with 2019, driven primarily by our previously completed, paused and suspended capital-growth projects. We also significantly reduced our operating expenses in 2020, compared with 2019, primarily as a result of reduced outside services from contractors, asset optimizations and lower employee-related costs. As always, we remain focused on operating our assets safely, reliably and in an environmentally responsible manner. We continue to monitor the COVID-19 outbreak and have implemented our business continuity plans. ONEOK is a critical infrastructure business as defined by the United States Department of Homeland Security, and, therefore, our workforce has remained fully engaged in the midst of federal, state and local government issued guidelines and safety-related ordinances. We continue to practice remote work procedures when possible to protect the safety of our employees and their families and have taken extra precautions for our employees who work in the field or need to report to a ONEOK facility, such as increased facility access restrictions, workspace modifications, social distancing, face covering protocols and sanitation procedures. We continue to apply risk-management and cybersecurity measures designed so that our systems remain functional in order to both serve our operational needs and to provide service to our customers. In the first quarter 2020, the CARES Act was signed into law in response to the COVID-19 pandemic, and we opted into the CARES Act payroll tax deferral program, which will modestly benefit us, and the 401(k) penalty-free hardship withdrawal and loan deferral programs for our employees.
+
+In 2020, due to the commodity price and market environment, we experienced a significant decline in our share price and market capitalization, and performed a Step 1 analysis to test our goodwill for impairment and evaluated certain long-lived asset groups and equity investments for impairment. As a result, we incurred $644.9 million in noncash impairment charges, which had an adverse impact on our financial results for the year ended December 31, 2020. We expect to maintain sufficient liquidity and financial stability into 2021 due to cash on hand from our June 2020 equity issuance, cash flows from operations and access to our undrawn $2.5 Billion Credit Agreement.
+
+See Part II, Item 7A, Quantitative and Qualitative Disclosures About Market Risk, in this Annual Report for more information on our exposure to market risk.
+
+6
+
+
+Natural Gas - In our Natural Gas Gathering and Processing segment, gathered and processed volumes decreased in 2020, compared with 2019, due primarily to natural production declines in the Mid-Continent region. Production curtailments from many of our crude oil and natural gas producers impacted volumes in the second quarter 2020, however in the third quarter 2020, many of our producers returned production and our captured natural gas returned to pre-COVID-19 levels as commodity prices strengthened. We expect to maintain pre-COVID-19 volume levels in the Rocky Mountain region through 2021, assuming no increase in producer activity, due to the completion of previously drilled but uncompleted wells, the capture of natural gas previously flared and rising gas-to-oil ratios. In addition, as prices and volumes continue to strengthen, we have the processing capacity to benefit from production growth without significant capital investment due to the completion of our Demicks Lake I and II natural gas processing plants, which were placed in service in the fourth quarter 2019 and the first quarter 2020, respectively. These plants increased our total processing capacity to approximately 1.5 Bcf/d in the Williston Basin.
+
+Production growth may be impacted by the current litigation challenging the validity of an easement for the Dakota Access Pipeline (DAPL), which is used to transport crude oil from the Williston Basin to markets in the Mid-Continent region and Gulf Coast. If DAPL operations are suspended, production growth could be limited due to increased crude oil transportation costs and pipeline capacity constraints in the region, which could impact us due to the associated natural gas and NGLs. However, we expect limited impact to our producers due to alternative available crude pipeline capacity and existing rail infrastructure out of the Rocky Mountain region.
+
+In our Natural Gas Pipelines segment, our assets are connected to key supply areas and demand centers, including export markets in Mexico via our Roadrunner joint venture and supply areas in Canada and the United States via our interstate and intrastate natural gas pipelines and our Northern Border Pipeline joint venture, which enables us to provide essential natural gas transportation and storage services to end users. Continued demand from local distribution companies, electric-generation facilities and large industrial companies resulted in low-cost expansions in 2019 and 2020 that position us well to provide additional expansions for our customers in 2021. Our natural gas transportation capacity contracted was not significantly impacted by market conditions and COVID-19 in 2020, as our end users rely on natural gas to support their business regardless of commodity price fluctuations. We continued to experience stable fee-based earnings throughout 2020 with transportation capacity more than 95% contracted with firm commitments, and we expect these stable fee-based earnings to continue into 2021 at similarly contracted levels.
+
+NGLs - In our Natural Gas Liquids segment, NGL volumes increased for the year ended December 31, 2020, compared with the same period in 2019, due primarily to increased volumes in the Rocky Mountain region, where we are the largest NGL takeaway provider. While we saw significant declines in volumes in the second quarter 2020, due to reduced demand as a result of COVID-19, by the third quarter 2020 average volumes exceeded pre-COVID-19 levels. NGL volumes were also favorably impacted by ethane production driven by improved ethane recovery economics due to increased demand from petrochemical manufacturers. We expect the improved NGL volumes to continue into 2021, and to benefit without significant capital investment, from our integrated assets, which were strengthened through our recently completed capital-growth projects. Our Elk Creek pipeline was completed in two phases during the second half of 2019. In 2020, we completed an extension of our Bakken NGL pipeline, the construction and extension of our Arbuckle II pipeline and the construction of our 125 MBbl/d MB-4 fractionator.
+
+See Part II, Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations, in this Annual Report for more information on our growth projects, results of operations, liquidity and capital resources.
+
+BUSINESS STRATEGY
+
+Our primary business strategy is to maintain prudent financial strength and flexibility while growing our fee-based earnings and sustaining our dividends per share with a focus on safe, reliable, environmentally responsible, legally compliant and reliable operations for our customers, employees, contractors and the public through the following:
+•Operate in a safe, reliable and environmentally responsible manner - environmental, safety and health continues to be a primary focus for us, and our emphasis on personal and process safety has produced improving trends in the key indicators we track. We also continue to seek ways to reduce our environmental impact by conserving resources and utilizing more efficient technologies. We are preparing for the future energy transition and our role in meeting the world’s energy needs in an environmentally responsible way. In 2020, we were included in the Dow Jones Sustainability North America Index for the second consecutive year and added to the Dow Jones Sustainability World Index, which recognize companies for industry-leading environmental, social and governance performance;
+•Pursue organic investments in our existing operating regions to support earnings growth - we expect earnings growth and dividend stability provided by significant earnings power and available operating capacity from our recently
+7
+
+completed capital-growth projects. As producer activity warrants additional infrastructure, we have the option for low-cost expansions of existing infrastructure to accommodate increasing volumes;
+•Manage our balance sheet and maintain investment-grade credit ratings - we seek to maintain investment-grade credit ratings, pay down debt and internally fund capital-growth projects, when producer activity levels warrant additional infrastructure. At December 31, 2020, we had no borrowings outstanding under our $2.5 Billion Credit Agreement and $524.5 million of cash and cash equivalents; and
+•Attract, select, develop, motivate, challenge and retain a diverse group of employees to support strategy execution - we continue to execute on our recruiting strategy that targets professional and field personnel in our operating areas. We also continue to focus on employee development efforts with our current employees and monitor our benefits and compensation package to remain competitive.
+
+NARRATIVE DESCRIPTION OF BUSINESS
+
+We report operations in the following business segments:
+•Natural Gas Gathering and Processing;
+•Natural Gas Liquids; and
+•Natural Gas Pipelines.
+oke-20201231_g4.jpg
+
+Natural Gas Gathering and Processing
+
+Overview - Our Natural Gas Gathering and Processing segment provides midstream services to producers in North Dakota, Montana, Wyoming, Kansas and Oklahoma.
+
+Rocky Mountain region - The Williston Basin is located in portions of North Dakota and Montana and includes the oil-producing, NGL-rich Bakken Shale and Three Forks formations. Our completed capital-growth projects in the Williston Basin increased our gathering and processing capacity and enable us to capture increased natural gas production from new wells and previously flared natural gas production.
+
+8
+
+
+The Powder River Basin is primarily located in Wyoming, which includes the NGL-rich Niobrara Shale and Frontier, Turner and Sussex formations where we provide gathering and processing services to customers in the eastern portion of Wyoming.
+
+Mid-Continent region - The Mid-Continent region includes the oil-producing, NGL-rich STACK and SCOOP areas and the Cana-Woodford Shale, Woodford Shale, Springer Shale, Meramec, Granite Wash and Mississippian Lime formations of Oklahoma and Kansas, and the Hugoton and Central Kansas Uplift Basins of Kansas.
+oke-20201231_g5.jpg
+Property - Our Natural Gas Gathering and Processing segment includes the following assets:
+•18,900 miles of natural gas gathering pipelines;
+•ten natural gas processing plants with 1.0 Bcf/d of processing capacity in the Mid-Continent region, and 12 natural gas processing plants with 1.5 Bcf/d of processing capacity in the Rocky Mountain region; and
+•14 MBbl/d of NGL fractionation capacity at various natural gas processing plants.
+
+In addition, we have access to up to 200 MMcf/d of processing capacity in the Mid-Continent region through a long-term processing services agreement with an unaffiliated third party.
+
+Our paused and suspended growth projects are excluded from the assets listed above. See “Recent Developments” in Part II, Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations, in this Annual Report for more information on our growth projects.
+
+Sources of Earnings - Earnings for this segment are derived primarily from the following types of service contracts:
+•Fee with POP contracts with no producer take-in-kind rights - We purchase raw natural gas and charge contractual fees for providing midstream services, which include gathering, treating, compressing and processing the producer’s natural gas. After performing these services, we sell the commodities and remit a portion of the commodity sales proceeds to the producer less our contractual fees. This type of contract represented 65% and 63% of supply volumes in this segment for 2020 and 2019, respectively.
+•Fee with POP contracts with producer take-in-kind rights - We purchase a portion of the raw natural gas stream, charge fees for providing the midstream services listed above, return primarily the residue natural gas to the producer, sell the remaining commodities and remit a portion of the commodity sales proceeds to the producer less our contractual fees. This type of contract represented 29% and 33% of supply volumes in this segment for 2020 and 2019, respectively.
+•Fee-only - Under this type of contract, we charge a fee for the midstream services we provide, based on volumes gathered, processed, treated and/or compressed. Our fee-only contracts represented 6% and 4% of supply volumes in this segment in 2020 and 2019, respectively.
+
+9
+
+For commodity sales, we contract to deliver residue natural gas, condensate and/or unfractionated NGLs to downstream customers at a specified delivery point. Our sales of NGLs are primarily to our affiliate in the Natural Gas Liquids segment.
+
+Utilization - The utilization rates for our natural gas processing plants were 66% and 84% for 2020 and 2019, respectively. Our utilization rates decreased in 2020 due primarily to reduced demand as a result of COVID-19. We calculate utilization rates using a weighted-average approach, adjusting for the dates that assets were placed in service.
+
+Unconsolidated Affiliates - Our unconsolidated affiliates in this segment are not material.
+
+See Note M of the Notes to Consolidated Financial Statements in this Annual Report for additional discussion of our unconsolidated affiliates.
+
+Government Regulation - The FERC traditionally has maintained that a natural gas processing plant is not a facility for the transportation or sale of natural gas in interstate commerce and, therefore, is not subject to jurisdiction under the Natural Gas Act. Although the FERC has made no specific declaration as to the jurisdictional status of our natural gas processing operations or facilities, our natural gas processing plants are primarily involved in extracting NGLs and, therefore, are exempt from FERC jurisdiction. The Natural Gas Act also exempts natural gas gathering facilities from the jurisdiction of the FERC. We believe our natural gas gathering facilities and operations meet the criteria used by the FERC for nonjurisdictional natural gas gathering facility status. Interstate transmission facilities remain subject to FERC jurisdiction. The FERC has historically distinguished between these two types of facilities, either interstate or intrastate, on a fact-specific basis. We transport residue natural gas from certain of our natural gas processing plants to interstate pipelines in accordance with Section 311(a) of the Natural Gas Policy Act. Oklahoma, Kansas, Wyoming, Montana and North Dakota also have statutes regulating, to varying degrees, the gathering of natural gas in those states. In each state, regulation is applied on a case-by-case basis if a complaint is filed against the gatherer with the appropriate state regulatory agency.
+
+See further discussion in the “Regulatory, Environmental and Safety Matters” section.
+
+Natural Gas Liquids
+
+Overview - Our Natural Gas Liquids segment owns and operates facilities that gather, fractionate, treat and distribute NGLs and store NGL products, primarily in Oklahoma, Kansas, Texas, New Mexico and the Rocky Mountain region, which includes the Williston, Powder River and DJ Basins. We provide midstream services to producers of NGLs and deliver those products to the two primary market centers: one in the Mid-Continent in Conway, Kansas, and the other in the Gulf Coast in Mont Belvieu, Texas. We own or have an ownership interest in FERC-regulated NGL gathering and distribution pipelines in Oklahoma, Kansas, Texas, New Mexico, Montana, North Dakota, Wyoming and Colorado, and terminal and storage facilities in Kansas, Missouri, Nebraska, Iowa and Illinois. We have a 50% ownership interest in Overland Pass Pipeline Company, which operates an interstate NGL pipeline originating in Wyoming and Colorado and terminating in Kansas. The majority of the pipeline-connected natural gas processing plants in the Williston Basin, Oklahoma, Kansas and the Texas Panhandle are connected to our NGL gathering systems. We lease rail cars and own and operate truck- and rail-loading and -unloading facilities connected to our NGL fractionation, storage and pipeline assets. We also own FERC-regulated NGL distribution pipelines in Kansas, Missouri, Nebraska, Iowa, Illinois and Indiana that connect our Mid-Continent assets with Midwest markets, including Chicago, Illinois. A portion of our ONEOK North System transports refined petroleum products, including unleaded gasoline and diesel, from Kansas to Iowa.
+
+10
+
+
+oke-20201231_g6.jpg
+Property - Our Natural Gas Liquids segment includes the following assets:
+•9,130 miles of gathering pipelines with operating capacity of 1,760 MBbl/d, including 6,330 miles of FERC-regulated pipelines with operating capacity of 1,460 MBbl/d;
+•4,350 miles of distribution pipelines with operating capacity of 1,150 MBbl/d, including 4,180 miles of FERC-regulated pipelines with operating capacity of 1,080 MBbl/d;
+•eight NGL fractionators with combined operating capacity of 920 MBbl/d (includes interests in our proportional share of operating capacity), including 520 MBbl/d in the Mid-Continent region and 400 MBbl/d in the Gulf Coast region;
+•one isomerization unit with operating capacity of 10 MBbl/d;
+•one ethane/propane splitter with operating capacity of 40 MBbl/d;
+•six NGL storage facilities with operating storage capacity of 30 MMBbl; and
+•eight NGL product terminals.
+
+In addition, we lease 10 MMBbl of annual pipeline capacity near our ONEOK North System and have access to 5 MMBbl of combined NGL storage capacity at facilities in Kansas and Texas and 60 MBbl/d of NGL fractionation capacity in the Gulf Coast through service agreements.
+
+Our paused and suspended growth projects are excluded from the assets listed above. See “Recent Developments” in Part II, Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations, in this Annual Report for more information on our growth projects.
+
+Sources of Earnings - Earnings for our Natural Gas Liquids segment are derived primarily from commodity sales and purchases and fee-based services. We purchase NGLs and condensate from third parties, as well as from our Natural Gas Gathering and Processing segment. Our business activities are categorized as follows:
+•Exchange services - We utilize our assets to gather, transport, treat and fractionate unfractionated NGLs, thereby converting them into marketable NGL products delivered to a market center or customer-designated location. Many of these exchange volumes are under contracts with minimum volume commitments that provide a minimum level of revenues regardless of volumetric throughput. Our exchange services activities are primarily fee-based and include
+11
+
+some rate-regulated tariffs; however, we also capture certain product price differentials through the fractionation process.
+•Transportation and storage services - We transport NGL products and refined petroleum products, primarily under FERC-regulated tariffs. Tariffs specify the maximum rates we may charge our customers and the general terms and conditions for transportation service on our pipelines. Our storage activities consist primarily of fee-based NGL storage services at our Mid-Continent and Gulf Coast storage facilities.
+•Optimization and marketing - We utilize our assets, contract portfolio and market knowledge to capture location, product and seasonal price differentials through the purchase and sale of NGLs and NGL products. We primarily transport NGL products between Conway, Kansas, and Mont Belvieu, Texas, to capture the location price differentials between the two market centers. Our marketing activities also include utilizing our NGL storage facilities to capture seasonal price differentials and serving truck and rail markets. Our isomerization activities capture the price differential when normal butane is converted into the more valuable iso-butane at our isomerization unit in Conway, Kansas.
+
+In many of our exchange services contracts, we purchase the unfractionated NGLs at the tailgate of the processing plant and deduct contractual fees related to the transportation and fractionation services we must perform before we can sell them as NGL products. To the extent we hold unfractionated NGLs in inventory, the related contractual fees will not be recognized until the unfractionated inventory is fractionated and sold.
+
+Utilization - The utilization rates for our various assets, including leased assets, decreased in 2020, due primarily to reduced demand as a result of COVID-19, which was partially offset by ethane economics, including the impact of ethane rejection in 2019 and ethane recovery in 2020. The utilization rates for 2020 and 2019, respectively, were as follows:
+•our NGL gathering pipelines were 61% and 78%;
+•our NGL distribution pipelines were 51% and 63%; and
+•our NGL fractionators were 77% and 84%.
+
+We calculate utilization rates using a weighted-average approach, adjusting for the dates that assets were placed in service. Our fractionation utilization rate reflects approximate proportional capacity associated with our ownership interests.
+
+Unconsolidated Affiliates - We have a 50% ownership interest in Overland Pass Pipeline Company, which operates an interstate NGL pipeline system extending 760 miles, originating in Wyoming and Colorado and terminating in Kansas. Our other unconsolidated affiliates in this segment are not material.
+
+See Note M of the Notes to Consolidated Financial Statements in this Annual Report for additional discussion of unconsolidated affiliates.
+
+Government Regulation - The operations and revenues of our NGL pipelines are regulated by various state and federal government agencies. Our interstate NGL pipelines are regulated under the Interstate Commerce Act, which gives the FERC jurisdiction to regulate the terms and conditions of service, rates, including depreciation and amortization policies, and initiation of service. In Oklahoma, Kansas and Texas, certain aspects of our intrastate NGL pipelines that provide common carrier service are subject to the jurisdiction of the OCC, KCC and RRC, respectively.
+
+See further discussion in the “Regulatory, Environmental and Safety Matters” section.
+
+Natural Gas Pipelines
+
+Overview - Our Natural Gas Pipelines segment, through its wholly owned assets, provides transportation and storage services to end users. We have 50% ownership interests in Northern Border Pipeline and Roadrunner, which provide transportation services to various end users.
+
+Interstate Pipelines - Our interstate pipelines are regulated by the FERC and are located in North Dakota, Minnesota, Wisconsin, Illinois, Indiana, Kentucky, Tennessee, Oklahoma, Texas and New Mexico. Our interstate pipeline companies include:
+•Midwestern Gas Transmission, which is a bidirectional system that interconnects with Tennessee Gas Transmission Company’s pipeline near Portland, Tennessee, and with several interstate pipelines that have access to both the Utica Shale and the Marcellus Shale at the Chicago Hub near Joliet, Illinois;
+•Viking Gas Transmission, which is a bidirectional system that interconnects with a TransCanada Corporation pipeline at the United States border near Emerson, Canada, and ANR Pipeline Company near Marshfield, Wisconsin;
+12
+
+
+•Guardian Pipeline, which interconnects with several pipelines at the Chicago Hub near Joliet, Illinois, and with local natural gas distribution companies in Wisconsin; and
+•OkTex Pipeline, which has interconnections with several pipelines in Oklahoma, Texas and New Mexico.
+
+Intrastate Pipelines - Our intrastate natural gas pipeline assets in Oklahoma transport natural gas throughout the state and have access to the major natural gas production areas in the Mid-Continent region, which include the STACK and SCOOP areas and the Cana-Woodford Shale, Woodford Shale, Springer Shale, Meramec, Granite Wash and Mississippian Lime formations. In Texas, our intrastate natural gas pipelines are connected to the major natural gas producing formations in the Texas Panhandle, including the Granite Wash formation and Delaware and Midland Basins in the Permian Basin. These pipelines are capable of transporting natural gas throughout the western portion of Texas, including the Waha area where other pipelines may be accessed for transportation to western markets, exports to Mexico, the Houston Ship Channel market to the east and the Mid-Continent market to the north. Our intrastate natural gas pipeline assets also have access to the Hugoton and Central Kansas Uplift Basins in Kansas.
+oke-20201231_g7.jpg
+Property - Our Natural Gas Pipelines segment includes the following assets:
+•1,500 miles of FERC-regulated interstate natural gas pipelines with 3.5 Bcf/d of peak transportation capacity;
+•5,100 miles of state-regulated intrastate transmission pipelines with peak transportation capacity of 4.3 Bcf/d; and
+•six underground natural gas storage facilities with 52.2 Bcf of total active working natural gas storage capacity.
+
+Our storage includes two underground natural gas storage facilities in Oklahoma, two underground natural gas storage facilities in Kansas and two underground natural gas storage facilities in Texas.
+
+Sources of Earnings - Earnings in this segment are derived primarily from transportation and storage services.
+
+Our transportation earnings are primarily fee-based from the following types of services:
+•Firm service - Customers reserve a fixed quantity of pipeline capacity for a specified period of time, which obligates the customer to pay regardless of usage. Under this type of contract, the customer pays a monthly fixed fee and incremental fees, known as commodity charges, which are based on the actual volumes of natural gas they transport or store. Under the firm service contract, the customer generally is guaranteed access to the capacity they reserve.
+13
+
+•Interruptible service - Under interruptible service transportation agreements, the customer may utilize available capacity after firm service requests are satisfied. The customer is not guaranteed use of our pipelines unless excess capacity is available.
+
+Our regulated natural gas transportation services contracts are based upon rates stated in the respective tariffs, which have generally been established through shipper specific negotiation, discounts and negotiated settlements. The rates are filed with FERC or the appropriate state jurisdictional agencies. In addition, customers typically are assessed fees, such as a commodity charge, and we may retain a percentage of natural gas in-kind based on the natural gas volumes transported.
+
+Our storage earnings are primarily fee-based from the following types of services:
+•Firm service - Customers reserve a specific quantity of storage capacity, including injection and withdrawal rights, and generally pay fixed fees based on the quantity of capacity reserved plus an injection and withdrawal fee. Firm storage contracts typically have terms longer than one year.
+•Park-and-loan service - An interruptible storage service offered to customers providing the ability to park (inject) or loan (withdraw) natural gas into or out of our storage, typically for monthly or seasonal terms. Customers reserve the right to park or loan natural gas based on a specified quantity, including injection and withdrawal rights when capacity is available.
+
+Utilization - Our natural gas pipelines were 96% and 98% subscribed in 2020 and 2019, respectively, and our natural gas storage facilities were 71% and 64% subscribed in 2020 and 2019, respectively.
+
+Unconsolidated Affiliates - Our Natural Gas Pipelines segment includes the following unconsolidated affiliates:
+•50% ownership interest in Northern Border Pipeline, which owns a FERC-regulated interstate pipeline that transports natural gas from the Montana-Saskatchewan border near Port of Morgan, Montana, and the Williston Basin in North Dakota to a terminus near North Hayden, Indiana.
+•50% ownership interest in Roadrunner, a bidirectional pipeline, which has the capacity to transport 570 MMcf/d of natural gas from the Permian Basin in West Texas to the Mexican border near El Paso, Texas, and has capacity to transport approximately 1.0 Bcf/d of natural gas from the Delaware Basin to the Waha area. We are the operator of Roadrunner.
+
+See Note M of the Notes to Consolidated Financial Statements in this Annual Report for additional discussion of unconsolidated affiliates.
+
+Government Regulation - Interstate - Our interstate natural gas pipelines are regulated under the Natural Gas Act, which gives the FERC jurisdiction to regulate virtually all aspects of this business, such as transportation of natural gas, rates and charges for services, construction of new facilities, depreciation and amortization policies, acquisition and disposition of facilities, and the initiation and discontinuation of services.
+
+Intrastate - Our intrastate natural gas pipelines in Oklahoma, Kansas and Texas are regulated by the OCC, KCC and RRC, respectively, and by the FERC under the Natural Gas Policy Act for certain services where we deliver natural gas into FERC regulated natural gas pipelines. While we have flexibility in establishing natural gas transportation rates with customers, there is a maximum rate that we can charge our customers in Oklahoma and Kansas and for the services regulated by the FERC. In Texas and Kansas, natural gas storage may be regulated by the state and by the FERC for certain types of services. In Oklahoma, natural gas storage operations are not subject to rate regulation by the state, and we have market-based rate authority from the FERC for certain types of services.
+
+See further discussion in the “Regulatory, Environmental and Safety Matters” section.
+
+Market Conditions and Seasonality
+
+Supply and Demand - Supply for each of our segments depends on crude oil and natural gas drilling and production activities, which are driven by the strength of the economy; the decline rate of existing production; producer access to capital; producer firm commitments to transportation pipelines; natural gas, crude oil and NGL prices; or the demand for each of these products from end users.
+
+Demand for gathering and processing services is dependent on natural gas production by producers in the regions in which we operate. State requirements in North Dakota for producers to reduce natural gas flaring have increased the need for our services to capture, gather and process natural gas. Demand for NGLs and the ability of natural gas processors to successfully and
+14
+
+
+economically sustain their operations affect the volume of unfractionated NGLs produced by natural gas processing plants, thereby affecting the demand for NGL gathering, transportation and fractionation services. Natural gas and NGL products are affected by economic conditions and the demand associated with the various industries that utilize the commodities, such as butanes and natural gasoline used by the refining industry as blending stocks for motor fuel, denaturant for ethanol and diluents for crude oil. Ethane, propane, normal butane and natural gasoline are also used by the petrochemical industry to produce chemical components, used for a range of products that improve our daily lives and promote economic growth, including health care products, recyclable food packaging, clothing, technology, building materials, industrial, manufacturing and energy infrastructure, lightweight vehicle components and batteries. Propane is also used to heat homes and businesses.
+
+See additional discussion regarding the impacts of COVID-19 on supply and demand under “Business Update, Market Conditions and COVID-19” in our Executive Summary at the beginning of this Item 1. Business.
+
+Commodity Prices - In March 2020, the increase in crude oil supply combined with a decrease in crude oil demand stemming from the global response and uncertainties related to COVID-19 resulted in a sharp decline in crude oil prices. However, in the third quarter 2020, prices significantly improved from second quarter lows. Our earnings are primarily fee-based in all three of our segments, however in our Natural Gas Gathering and Processing segment, we are exposed to commodity price risk as a result of retaining a portion of the commodity sales proceeds associated with our fee with POP contracts. Under certain fee with POP contracts, our contractual fees and POP percentage may increase or decrease if production volumes, delivery pressures or commodity prices change relative to specified thresholds. In our Natural Gas Liquids segment, we are exposed to commodity price risk associated with changes in the price of NGLs; the location differential between the Mid-Continent, Chicago, Illinois, and Gulf Coast regions; and the relative price differential between natural gas, NGLs and individual NGL products, which affect our NGL purchases and sales, our exchange services, transportation and storage services, and optimization and marketing financial results. NGL storage revenue may be affected by price volatility and forward pricing of NGL physical contracts versus the price of NGLs on the spot market. In our Natural Gas Pipelines segment, we are exposed to minimal commodity price risk associated with (i) changes in the price of natural gas, which impact our fuel costs and retained fuel in-kind received for our services; and (ii) the differential between forward pricing of natural gas physical contracts and the price of natural gas on the spot market, which may affect our customer demand for our natural gas storage services.
+
+See additional discussion regarding our commodity price risk and related hedging activities under “Commodity Price Risk” in Part II, Item 7A, Quantitative and Qualitative Disclosures about Market Risk, in this Annual Report.
+
+Seasonality - Cold temperatures usually increase demand for natural gas and certain NGL products, such as propane, the main heating fuels for homes and businesses. Warm temperatures usually increase demand for natural gas used in gas-fired electric generation for residential and commercial cooling, as well as agriculture-related equipment like irrigation pumps and crop dryers. Demand for butanes and natural gasoline, which are primarily used by the refining industry as blending stocks for motor fuel, denaturant for ethanol and diluents for crude oil, are also subject to some variability during seasonal periods when certain government restrictions on motor fuel blending products change. During periods of peak demand for a certain commodity, prices for that product typically increase.
+
+Extreme weather conditions, seasonal temperature changes and the impact of temperature and humidity on the mechanical abilities of the processing equipment impact the volumes of natural gas gathered and processed and NGL volumes gathered, transported and fractionated. Power interruptions and inaccessible well sites as a result of severe storms or freeze-offs, a phenomenon where water produced from natural gas freezes at the wellhead or within the gathering system, may cause a temporary interruption in the flow of natural gas and NGLs.
+
+In our Natural Gas Pipelines segment, natural gas storage is necessary to balance the relatively steady natural gas supply with the seasonal demand of residential, commercial and electric-generation users.
+
+Competition - We compete for natural gas and NGL supply with other midstream companies, major integrated oil companies and independent exploration and production companies that have gathering and processing assets, fractionators, intrastate and interstate pipelines and storage facilities. The factors that typically affect our ability to compete for natural gas and NGL supply are:
+•quality of services provided;
+•producer drilling activity;
+•proceeds remitted and/or fees charged under our contracts;
+•proximity of our assets to natural gas and NGL supply areas and markets;
+•proximity of our assets to alternative energy production;
+•location of our assets relative to those of our competitors;
+15
+
+•efficiency and reliability of our operations;
+•receipt and delivery capabilities for natural gas and NGLs that exist in each pipeline system, plant, fractionator and storage location;
+•the petrochemical industry’s level of capacity utilization and feedstock requirements;
+•current and forward natural gas and NGL prices; and
+•cost of and access to capital.
+
+We have responded by making capital investments to access and connect new supplies with end-user demand; increasing gathering, processing, fractionation and pipeline capacity; increasing storage, withdrawal and injection capabilities; and reducing operating costs so that we compete effectively. Our and our competitors’ infrastructure projects may affect commodity prices and could displace supply volumes from the Mid-Continent and Rocky Mountain regions and the Permian Basin where our assets are located. We believe our assets are located strategically, connecting diverse supply areas to market centers.
+
+Customers - Our Natural Gas Gathering and Processing and Natural Gas Liquids segments derive services revenue from major and independent crude oil and natural gas producers. Our Natural Gas Liquids segment’s customers also include NGL and natural gas gathering and processing companies. Our downstream commodity sales customers are primarily petrochemical, refining and marketing companies, utilities, large industrial companies, natural gasoline distributors, propane distributors and municipalities. Our Natural Gas Pipeline segment’s assets primarily serve local natural gas distribution companies, electric-generation facilities, large industrial companies, municipalities, producers, processors and marketing companies. Our utility customers generally require our services regardless of commodity prices. See discussion regarding our customer credit risk under “Counterparty Credit Risk” in Part II, Item 7A, Quantitative and Qualitative Disclosures about Market Risk, in this Annual Report.
+
+Other
+
+Through ONEOK Leasing Company, L.L.C. and ONEOK Parking Company, L.L.C., we own a 17-story office building (ONEOK Plaza) and a parking garage in downtown Tulsa, Oklahoma, where our headquarters are located. ONEOK Leasing Company, L.L.C. leases excess office space to others and operates our headquarters office building. ONEOK Parking Company, L.L.C. owns and operates a parking garage adjacent to our headquarters.
+
+REGULATORY, ENVIRONMENTAL AND SAFETY MATTERS
+
+Environmental Matters - We are subject to a variety of historical preservation and environmental laws and/or regulations that affect many aspects of our present and future operations. Regulated activities include, but are not limited to, those involving air emissions, storm water and wastewater discharges, handling and disposal of solid and hazardous wastes, wetlands and waterways preservation, wildlife conservation, cultural resources protection, hazardous materials transportation, and pipeline and facility construction. These laws and regulations require us to obtain and/or comply with a wide variety of environmental clearances, registrations, licenses, permits and other approvals. Failure to comply with these laws, regulations, licenses and permits may expose us to fines, penalties, reputational harm and/or interruptions in our operations that could be material to our results of operations or financial condition. For example, if a leak or spill of hazardous substances or petroleum products occurs from pipelines or facilities that we own, operate or otherwise use, we could be held jointly and severally liable for all resulting liabilities, including response, investigation and cleanup costs, which could affect adversely our results of operations and cash flows. In addition, emissions controls and/or other regulatory or permitting mandates under the Clean Air Act and other similar federal and state laws could require unexpected capital expenditures at our facilities. We cannot assure that existing environmental statutes and regulations will not be revised or that new regulations will not be adopted or become applicable to us. We also cannot assure that existing permits will not be revised or cancelled, potentially impacting facility construction activities or ongoing operations.
+
+International, federal, regional and/or state legislative and/or regulatory initiatives may attempt to control or limit GHG emissions, including initiatives directed at issues associated with climate change. Various federal and state legislative proposals have been introduced to regulate the emission of GHGs, particularly carbon dioxide and methane, and the United States Supreme Court has ruled that carbon dioxide is a pollutant subject to regulation by the EPA. In addition, there have been international efforts seeking legally binding reductions in emissions of GHGs.
+
+Our GHG emissions originate primarily from combustion engine exhaust, heater exhaust and fugitive methane gas emissions. Our environmental actions focus on minimizing the impact of our operations on the environment. These actions include: (i) developing and maintaining an accurate GHG emissions inventory according to current rules issued by the EPA; (ii) improving the efficiency of our various pipelines, natural gas processing facilities and NGL fractionation facilities;
+16
+
+
+(iii) following developing technologies for emissions control and the capture of carbon dioxide to keep it from reaching the atmosphere; and (iv) utilizing practices to reduce the loss of methane from our facilities. In addition, many of our compressor station facilities are designed and operated with electric-driven compression units, which reduce the potential emission from these facilities, including Scope 1 GHG emissions, which are emissions directly sourced from our facilities.
+
+We participate in the EPA’s Natural Gas STAR Program and the Our Nation’s Energy (ONE) Future Coalition to reduce voluntarily methane emissions. We continue to focus on maintaining low methane gas release rates through expanded implementation of best practices to limit the release of natural gas during pipeline and facility maintenance and operations.
+
+We believe it is likely that future governmental legislation and/or regulation may require us either to limit GHG emissions from our operations, to purchase allowances for such emissions or to be subject to a carbon emissions tax. However, we cannot predict precisely what form these future regulations will take, the stringency of the regulations, when they will become effective or the impact on our results of operations. In addition to activities on the federal level, state and regional initiatives could also lead to the regulation of GHG emissions sooner than and/or independent of federal regulation. These regulations could be more stringent than any federal legislation that may be adopted.
+
+For additional information regarding the potential impact of laws and regulations on our operations see Item 1A “Risk Factors.”
+
+Pipeline Safety - We are subject to PHMSA safety regulations, including pipeline asset integrity-management regulations. The Pipeline Safety Improvement Act of 2002 requires pipeline companies operating high-pressure pipelines to perform integrity assessments on pipeline segments that pass through densely populated areas or near specifically designated high-consequence areas. The Pipeline Safety, Regulatory Certainty and Job Creation Act of 2011 (the 2011 Pipeline Safety Act) increased maximum penalties for violating federal pipeline safety regulations, directs the DOT and Secretary of Transportation to conduct further review or studies on issues that may or may not be material to us and may result in the imposition of more stringent regulations.
+
+In 2015, PHMSA issued notices of proposed rulemaking for hazardous liquid pipeline safety regulations, natural gas transmission and gathering lines and underground natural gas storage facilities, known as “the Mega Rule.” Due to the large number of rules being considered, PHMSA partitioned the new rulemaking into three sections. To date, the first section of rules was finalized and published in 2019 in the federal register. These final rules mostly address congressional mandates due to former pipeline safety reauthorizations. We do not anticipate the potential capital and operating expenditures related to the first section of rules to create a material impact to our planned capital or operations and maintenance costs. At this point, we do not fully know the impact of the regulations that remain to be finalized. Coupled together, these new rules may provide increased requirements for operating and maintenance, integrity management, public awareness and civil/criminal penalties; however, we do not anticipate a material impact to our planned capital or operations and maintenance costs resulting from compliance with the new or pending regulations. In 2020, legislation was passed to reauthorize PHMSA through 2024. Certain requirements for operations and maintenance, integrity management, leak detection and public awareness will be subject to new rulemaking as a result. The potential capital and operating expenditures related to the new regulations are not fully known, but we do not anticipate a material impact to our planned capital or operations and maintenance costs resulting from compliance with the new regulations.
+
+Air and Water Emissions - The Clean Air Act, the Clean Water Act, analogous state laws and/or regulations impose restrictions and controls regarding the discharge of pollutants into the air and water in the United States. Under the Clean Air Act, a federally enforceable operating permit is required for sources of significant air emissions. We may be required to incur certain capital expenditures for air pollution-control equipment in connection with obtaining or maintaining permits and approvals for sources of air emissions. The Clean Water Act imposes substantial potential liability for the removal of pollutants discharged to waters of the United States and remediation of waters affected by such discharge.
+
+International, federal, regional and/or state legislative and/or regulatory initiatives may attempt to control or limit GHG emissions, including initiatives directed at issues associated with climate change. We monitor all relevant legislation and regulatory initiatives to assess the potential impact on our operations and otherwise take efforts to limit GHG emissions from our facilities, including methane. The EPA’s Mandatory Greenhouse Gas Reporting Rule requires annual GHG emissions reporting from affected facilities and the carbon dioxide emission equivalents for the natural gas delivered by us and the emission equivalents for all NGLs produced by us as if all of these products were combusted, even if they are used otherwise.
+
+Our 2019 total emissions reported pursuant to EPA requirements were approximately 60 million metric tons of carbon dioxide equivalents. This total includes direct emissions from the combustion of fuel in our equipment, such as compressor engines and heaters, as well as carbon dioxide equivalents from natural gas and NGL products delivered to customers and produced as if all such fuel and NGL products were combusted. The additional cost to gather and report this emission data did not have, and we
+17
+
+do not expect it to have, a material impact on our results of operations, financial position or cash flows. In addition, Congress has considered, and may consider in the future, legislation to reduce GHG emissions, including carbon dioxide and methane. Likewise, the EPA may institute additional regulatory rulemaking associated with GHG emissions from the oil and natural gas industry. At this time, no rule or legislation has been enacted that assesses any material costs, fees or expenses on any of these emissions.
+
+We monitor proposed and final rulemakings. At this time, we do not anticipate a material impact to our planned capital, operations and maintenance costs resulting from compliance with the current or pending regulations and EPA actions. However, the EPA may issue additional regulations, responses, amendments and/or policy guidance, which could alter our present expectations. Generally, EPA rulemakings require expenditures for updated emissions controls, monitoring and record-keeping requirements at affected facilities.
+
+Chemical Site Security - The United States Department of Homeland Security (Homeland Security) released the Chemical Facility Anti-Terrorism Standards in 2007, and the final rule associated with these regulations was issued in December 2014. We provided information regarding our chemicals via Top-Screens submitted to Homeland Security, and our facilities subsequently were assigned one of four risk-based tiers ranging from high (Tier 1) to low (Tier 4) risk, or not tiered at all due to low risk. To date, one of our facilities has been given a Tier 4 rating. Facilities receiving a Tier 4 rating are required to complete Site Security Plans, including possible physical security enhancements. The cost of the Site Security Plans and security enhancements did not have a material impact on our results of operations, financial position or cash flows.
+
+Pipeline Security - The United States Department of Homeland Security’s Transportation Security Administration and the DOT have completed a review and inspection of our “critical facilities” and identified no material security issues. Also, the Transportation Security Administration has released new pipeline security guidelines that include broader definitions for the determination of pipeline “critical facilities.” We have reviewed our pipeline facilities according to the new guideline requirements, and there have been no material changes required to date.
+
+HUMAN CAPITAL
+
+The long-term sustainability of our business is dependent on our continued ability to attract, select, develop, motivate, challenge and retain a diverse group of employees to execute our business strategies. We manage our human capital by offering compensation and benefits that are designed to position us as an employer of choice. We also invest significant time and resources developing our employees, training them on health, safety and compliance matters and building inclusive, high-performing teams.
+
+As of December 31, 2020, we had 2,886 employees. Listed below is a summary of our human capital resources, measures and objectives that are collectively important to our success as an organization.
+
+Culture - Our success is due in large part to the skills, experience and dedication of our employees. We are committed to cultivating an inclusive and dynamic work environment where talented people can find opportunities to succeed, grow and contribute to the success of the company. Our employees work each day to provide safe and reliable services to a wide range of customers in the states where we operate. Our core values - Ethics, Quality, Diversity, Value and Service - guide the way in which our employees conduct our business and operations. Our core value of Ethics means our actions are founded on trust, honesty and integrity through open communications and adherence to the highest standards of personal, professional and business ethics. Our core value of Quality drives us to make continuous improvements in our quest for excellence. Our core value of Diversity means we value the diversity, dignity and worth of each employee, and believe that a diverse and inclusive workforce is critical to our continued success. Our core value of Value means we are committed to creating value for all stakeholders - employees, customers, investors and our communities - through the optimum development and utilization of our resources. Finally, our core value of Service means we provide responsive, flexible service to customers, and commit to preserving the environment, providing a safe work environment and improving the quality of life for employees where they live and work.
+
+Diversity and Inclusion - Our diversity and inclusion (D&I) strategy is a cross-functional effort that draws upon contributions from employees at all levels of the organization and is focused on enhancing the workplace to retain and attract talent. The strategy is guided by a D&I Council composed of a diverse group of employees who represent different demographics, work locations, points of view, roles and levels of seniority. Our Chief Executive Officer serves as chair of the D&I Council and attends all meetings of the D&I Council, along with the rest of our senior leadership team. We also have a team within our organizational development group that is wholly dedicated to supporting our D&I efforts.
+
+18
+
+
+In 2020, we provided funding and support for five employee-led business resource groups (BRGs): a Black/African American Resource Group; an Indigenous/Native American Resource Group; a Latinx/Hispanic American Resource Group; a Veterans Resource Group; and a Women’s Resource Group. Each BRG’s purpose is to promote the attraction, development, motivation and retention of members of traditionally underrepresented groups in our industry and workplace in an effort to drive positive business outcomes. A key factor in the success of our BRGs is the active participation by officer-level executive sponsors and allies from outside the BRG’s underrepresented populations. All employees are invited to become a supporter of one or more of our BRGs.
+
+We embed D&I concepts into our core leadership development curriculum and sponsor a number of internal programs intended to promote D&I. In addition, we seek to give back to the communities where we operate by partnering on initiatives to support underrepresented community members and local charitable organizations.
+
+Employee Safety - The safety of our employees is critical to our operations and success. By monitoring the integrity of our assets and promoting the safety of our employees, we are investing in the long-term sustainability of our businesses. We continuously assess the risks our employees face in their jobs, and we work to mitigate those risks through training, appropriate engineering controls, work procedures and other preventive safety programs. Reducing incidents and improving our personal safety incident rates are important, but we are not focused only on statistics. Low personal safety incident rates alone cannot prevent a large-scale incident, which is why we continue to focus on enhancing our Environmental, Safety and Health management systems and process safety programs, such as key risk/key control identification and knowledge sharing. We endeavor to operate our assets safely, reliably and in an environmentally responsible manner. We maintain mature and robust programs that guide trained staff in the completion of these activities, and we continue to enhance and improve these programs and our internal capabilities. In response to COVID-19, we have taken steps to manage the potential impacts of the COVID-19 outbreak on our employees. We continue to practice remote work procedures when possible to protect the safety of our employees and their families, and have taken extra precautions for our employees who work in the field or need to report to a ONEOK facility, such as increased facility access restrictions, workspace modifications, social distancing, face covering protocols and sanitation procedures. During 2020, ONEOK employees completed more than 50,000 hours of virtual and classroom training focused on employee safety.
+
+Health and Welfare - We provide a variety of benefits to help promote the health and welfare of our employees and their families. These benefits include medical, dental and vision plans, virtual health visits and engagement of third-party service providers to offer company on-site and near-site clinics in several of our operating areas, which have access to both rapid antigen and polymerase chain reaction COVID-19 testing. In response to COVID-19, we provided temporary benefit adjustments, including waiving charges for virtual health visits, COVID-19 diagnostic tests and COVID-19 vaccines. Current resources include a dedicated employee information site that houses regular updates regarding COVID-19 and provides resources for prevention best practices, physical health, mental health and caregiver services. Eligible employees also have access, at no charge, to an employee assistance program, a medical second opinion service and a health care concierge service to assist with finding in-network providers and resolving claims. We offer full pay for maternity, paternity or adoption leave of up to 240 hours per qualifying event. We also provide up to $10,000 for reasonable and necessary expenses of a qualifying adoption. Additional benefits provided for the welfare of our employees include, among others, life insurance and long-term disability plans, health and dependent care flexible spending accounts, and full pay while on bereavement and personal and family care leave.
+
+We also provide the opportunity for our employees to help fellow employees through the ONE Trust Fund by contributing donated vacation hours or monetary donations. The ONE Trust Fund is a nonprofit, charitable organization, that serves our employees in times of personal crises due to natural disasters, medical emergencies or other hardships.
+
+Personal and Professional Development - We provide various options to assist with career growth and development. For employees just entering the workforce who desire to advance their career and continue to learn or for the professional who is interested in developing their skills, we provide education and training in a variety of areas, including leadership, functional and industry-specific topics, professional development and skill-building opportunities. Our organizational development and D&I teams provide live virtual classroom training, computer-based self-study and one-on-one coaching that is available to all employees.
+
+We value education and assist eligible employees with the expense of furthering their education in job-related fields, including up to $5,000 per year in qualifying tuition expenses. We also may reimburse employees for certain job-related professional certification examination fees.
+
+Recruiting - We make it a priority to attract, select, develop, motivate, challenge and retain the talent necessary to support our key business strategies. We use targeted recruitment events, maintain strong relationships with area technical schools, colleges
+19
+
+and universities, and we offer compensation benefits and career opportunities that are designed to position us as an employer of choice. In response to COVID-19, we continue to recruit and hire new employees for critical positions through virtual interviews. D&I continue to be a priority in recruiting, and we deploy sourcing strategies designed to access talent from groups that are historically underrepresented in our industry and workplace.
+
+Retirement - We maintain a 401(k) Plan for our employees and match 100% of employee contributions up to 6% of eligible compensation, subject to applicable tax limits. We also have a defined benefit pension plan covering certain employees and former employees hired prior to January 1, 2005. Employees that do not participate in our defined benefit pension plan are eligible to receive quarterly and annual profit-sharing contributions under our 401(k) Plan. As of December 31, 2020, approximately 96% of eligible employees were contributing to our 401(k) Plan. In first quarter 2020, we opted into the CARES Act 401(k) penalty-free hardship withdrawal and loan deferral programs for employees. For additional information about our retirement benefits, see Note K of the Notes to Consolidated Financial Statements in this Annual Report.
+
+INFORMATION ABOUT OUR EXECUTIVE OFFICERS
+
+All executive officers are elected annually by our Board of Directors. Our executive officers listed below include the officers who have been designated by our Board of Directors as our Section 16 executive officers.
+																				
+Name and Position		Age		Business Experience in Past Five Years
+John W. Gibson		68 			2011 to present		Chairman of the Board, ONEOK
+Chairman of the Board				2007 to 2017		Chairman of the Board, ONEOK Partners
+Terry K. Spencer		61 			2014 to present		President and Chief Executive Officer, ONEOK
+President and Chief Executive Officer				2014 to 2017		President and Chief Executive Officer, ONEOK Partners
+				2014 to present		Member of the Board of Directors, ONEOK
+				2014 to 2017		Member of the Board of Directors, ONEOK Partners
+Robert F. Martinovich		63 			2015 to present		Executive Vice President and Chief Administrative Officer, ONEOK
+Executive Vice President and Chief Administrative Officer				2015 to 2017		Executive Vice President and Chief Administrative Officer, ONEOK Partners
+Walter S. Hulse III		57		2019 to present		Chief Financial Officer, Treasurer and Executive Vice President, Strategy and Corporate Affairs, ONEOK
+Chief Financial Officer, Treasurer and Executive Vice President, Strategy and Corporate Affairs				2017 to 2019		Chief Financial Officer and Executive Vice President, Strategic Planning and Corporate Affairs, ONEOK
+				2015 to 2017		Executive Vice President, Strategic Planning and Corporate Affairs, ONEOK and ONEOK Partners
+Kevin L. Burdick		56		2017 to present		Executive Vice President and Chief Operating Officer, ONEOK
+Executive Vice President and Chief Operating Officer				2017		Executive Vice President and Chief Commercial Officer, ONEOK and ONEOK Partners
+				2016 to 2017		Senior Vice President, Natural Gas Gathering and Processing, ONEOK Partners
+				2013 to 2016		Vice President, Natural Gas Gathering and Processing, ONEOK Partners
+Charles M. Kelley		62		2018 to present		Senior Vice President, Natural Gas, ONEOK
+Senior Vice President, Natural Gas				2017 to 2018		Senior Vice President, Natural Gas Gathering & Processing, ONEOK
+				2015 to 2017		Senior Vice President, Corporate Planning and Development, ONEOK and ONEOK Partners
+Sheridan C. Swords		51		2017 to present		Senior Vice President, Natural Gas Liquids, ONEOK
+Senior Vice President, Natural Gas Liquids				2013 to 2017		Senior Vice President, Natural Gas Liquids, ONEOK Partners
+Stephen B. Allen		47		2017 to present		Senior Vice President, General Counsel and Assistant Secretary, ONEOK
+Senior Vice President, General Counsel
+and Assistant Secretary				2008 to 2017		Vice President and Associate General Counsel, ONEOK and ONEOK Partners
+Mary M. Spears		41		2019 to present		Vice President and Chief Accounting Officer, ONEOK
+Vice President and Chief Accounting Officer				2015 to 2019		Director, SEC Reporting, ONEOK
+				2015 to 2017		Director, SEC Reporting, ONEOK Partners
+
+No family relationships exist between any of the executive officers, nor is there any arrangement or understanding between any executive officer and any other person pursuant to which the officer was selected.
+
+INFORMATION AVAILABLE ON OUR WEBSITE
+
+We make available, free of charge, on our website (www.oneok.com) copies of our Annual Reports, Quarterly Reports, Current Reports on Form 8-K, amendments to those reports filed or furnished to the SEC pursuant to Section 13(a) or 15(d) of the Exchange Act and reports of holdings of our securities filed by our officers and directors under Section 16 of the Exchange Act as soon as reasonably practicable after filing such material electronically or otherwise furnishing it to the SEC. Copies of our Code of Business Conduct and Ethics, Corporate Governance Guidelines, Director Independence Guidelines, Corporate Sustainability Report, Response to COVID-19 and the written charter of our Audit Committee also are available on our website, and we will provide copies of these documents upon request.
+20
+
+
+
+In addition to our filings with the SEC and materials posted on our website, we also use social media platforms as additional channels of distribution to reach public investors. Information contained on our website, posted on our social media accounts, and any corresponding applications, are not incorporated by reference into this report.
+

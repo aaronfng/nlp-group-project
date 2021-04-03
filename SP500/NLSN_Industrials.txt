@@ -1,0 +1,633 @@
+Background and Business Overview
+
+We are a leading global measurement and data analytics company that provides the most complete and trusted view available of consumers and markets worldwide. We provide clients with a comprehensive understanding of consumers’ media consumption and buying behavior and how those choices intersect. We deliver critical media and marketing information and analytics. We also provide manufacturer and retailer data and analytics about what and where consumers purchase. Our measurement and analytical services help our clients maintain and strengthen their market positions and identify opportunities for profitable growth. We have operations in over 90 countries, covering approximately 80% of the world's population. We have significant investments in resources and associates all over the world, including in many emerging markets, and hold leading market positions in many of our services and geographies. Based on the strength of the Nielsen brand, our scale and the breadth and depth of our solutions, we believe we are the global leader in measuring and analyzing consumer behavior in the segments in which we operate.
+
+Our Company was founded in 1923 by Arthur C. Nielsen, Sr., who invented an approach to measuring competitive sales results that made the concept of “market share” a practical management tool. For nearly a century, we have advanced the practice of market research and media audience measurement to provide our clients a better understanding of their consumers. In January 2011, we consummated an initial public offering of our common stock and our shares started trading on the New York Stock Exchange under the symbol “NLSN”. On August 31, 2015, Nielsen N.V., a Dutch public company listed on the New York Stock Exchange, merged with Nielsen Holdings plc, by way of a cross-border merger under the European Cross-Border Merger Directive, with Nielsen Holdings plc being the surviving company (the “Merger”). The Merger effectively changed the place of incorporation of Nielsen’s publicly traded parent holding company from the Netherlands to England and Wales, with no changes made to the business being conducted by Nielsen prior to the Merger.
+
+Prior to February 2019, we were aligned into two reporting segments: what consumers buy (“Buy”) and what consumers read, watch and listen to (“Watch”). In February 2019, we realigned our business segments from Buy and Watch to Nielsen Global Connect (“Connect”) and Nielsen Global Media (“Media”). Each segment operates as a complete unit—from the conception of a product, through the collection of the data, into the technology and operations, all the way to the data being sold and delivered to the client. Our Connect and Media segments are built on a foundation of proprietary data assets that are designed to yield essential insights for our clients to successfully measure, analyze and grow their businesses. Our segments each consist of two product categories: Audience Measurement and Plan / Optimize in Media and Measure and Predict / Activate in Connect.  These categories are based on our core measurement platforms in both Media and Connect, while Plan / Optimize and  Predict / Activate are designed to build on our measurement capabilities to enhance client decision-making. These changes better align our external view to our go-forward internal view. Our reportable segments are stated on the new basis and such changes were applied retrospectively. The impact of these changes did not have a material impact on our consolidated financial statements or segment results.
+
+We help our clients enhance their interactions with consumers and make critical business decisions that we believe positively affect their sales and profitability. Our data and analytics solutions, which have been developed through substantial investment over many decades, are deeply embedded into our clients’ workflow. Our long-term client relationships are made up largely of multi-year contracts and high contract renewal rates. The average length of relationship with our top ten clients, which include NBC Universal/ Comcast Corporation, The Coca-Cola Company, Nestle S.A., The Procter & Gamble Company and CBS, is more than 30 years. Typically, before the start of each year, more than 70% of our annual revenue has been committed under contracts in our combined Media and Connect segments.
+
+ 
+
+Our Media segment provides viewership and listening data and analytics primarily to media publishers and marketers and their advertising agencies for television, radio and digital viewing and listening platforms. Our Media data is used by our media clients to understand their audiences, establish the value of their advertising inventory and maximize the value of their content, and by our marketer and advertiser agency clients to plan and optimize their spending. By connecting clients to audiences, we fuel the media industry with the most accurate understanding of what people listen to and watch. We believe that only Nielsen provides a fair playing field for the business of media, under our unique approach AUDIENCE IS EVERYTHING™.
+
+According to ZenithOptimedia, a leading global media services agency, total global spending on advertising, including Linear TV, print, radio, out-of-home, cinema, and digital (i.e., search, online video, social media, and mobile platforms) is projected to reach $620 billion by 2021. In our Media segment, our ratings are the primary metrics used to determine the value of programming and advertising in the U.S. television advertising marketplace. According to eMarketer, U.S. TV ad spending is expected to have been $60 billion in 2020. Including the U.S., our technology is used to measure television viewing in 34 countries. We also measure markets that account for approximately 70% of global TV ad spend and offer measurement and analytic services in 57 countries, including the U.S., where we are the market leader. Our digital ratings are used by 23 of the top 25 Global Advertisers for digital campaigns to help
+
+3
+
+ 
+
+determine the value of advertising in the premium Digital Video Marketplace. According to eMarketer, U.S. Digital ad revenues rose to approximately $129 billion in 2019. Lastly our ratings are also the primary metrics used to determine the value of programming and advertising in the U.S. radio advertising marketplace.  According to eMarketer, U.S. Radio ad spend is expected to be $10.4 billion in 2020. Our Media segment represented approximately 53% of our consolidated revenue in 2020.
+
+Our Connect segment provides measurement services, which include our core tracking and scan data (primarily transactional measurement data and consumer behavior information), and analytical services to businesses in the consumer packaged goods (“CPG”) industry. According to Deloitte, the aggregate retail revenue of the Top 250 global retailers approached $4.7 trillion in 2018.  Our Connect services also enable our clients to better manage their brands, uncover new sources of demand, manage their supply chain issues, launch and grow new services, analyze their sales, drive merchandising efficiency and effectiveness in-store and improve their marketing mix and establish more effective consumer relationships. Our data is used by our clients to measure their market share, tracking billions of sales transactions per month in retail outlets around the world. Our extensive database of retail and consumer information, combined with our advanced analytical capabilities, helps generate strategic insights that influence our clients’ key business decisions. Our broad coverage focuses not only on this modern class of global retailer but also the thousands of traditional trade retailers that have significant presence in emerging markets. Within our Connect segment, we have two primary geographic groups, developed and emerging markets. Developed markets primarily include the United States (“U.S.”), Canada, Western Europe, Japan, South Korea and Australia while emerging markets primarily include Africa, Latin America, Eastern Europe, Russia, China, India and Southeast Asia. Our Connect segment represented approximately 47% of our consolidated revenues in 2020.
+
+On October 31, 2020, Nielsen entered into an agreement (the “Connect Sale Agreement”) to sell its Global Connect business to affiliates of Advent International Corporation (the “Proposed Connect Transaction”), for $2.7 billion in cash, subject to adjustments based on closing levels of cash, indebtedness, debt-like items and working capital, and a warrant to purchase equity interests in the company that will own the Global Connect business (the “Connect Warrant”). The Proposed Connect Transaction was unanimously approved by the Company’s Board of Directors and was approved by the Company’s shareholders at a special meeting on February 11, 2021. The Proposed Connect Transaction is subject to regulatory approvals, consultation with the works council and other customary closing conditions; and the Proposed Connect Transaction is expected to close in the next 90 days. Nielsen expects the Proposed Connect Transaction to result in the Global Connect segment being reported on a discontinued operations basis in the first quarter of 2021.
+
+ 
+
+          Pursuant to the Connect Sale Agreement, Nielsen will enter into certain ancillary agreements at the closing of the Connect Sale pursuant to which, among other things, Nielsen and Advent will (i) provide certain transitional services to each other for periods of up to 24 months following the closing, and (ii) grant each other reciprocal licenses for certain data and corresponding services relating to that data for periods of up to five years following the closing.
+
+ 
+
+          The Connect Sale Agreement contains customary representations, warranties and covenants by each party that are subject, in some cases, to specified exceptions and qualifications contained in the stock purchase agreement.
+
+ 
+
+Services and Solutions
+
+Nielsen Global Media
+
+Our Media segment provides viewership and listening data and analytics primarily to media publishers and marketers and their advertising agencies for television, radio and digital viewing and listening platforms. For the year ended December 31, 2020, revenues from our Media segment represented approximately 53% of our consolidated revenues. This segment has historically generated stable revenue streams that are characterized by multi-year contracts and high contract renewal rates. At the beginning of each year, approximately 80% of the segment’s revenue base for the upcoming year is committed under existing agreements. Our top five clients represented approximately 15% of segment revenues for the year ended December 31, 2020 and the average length of relationship with these same clients is more than 30 years. No customer accounted for 10% or more of our Media segment revenues in 2020.
+
+Our Media segment consists of two major product categories: Audience Measurement and Plan / Optimize.  Within those major product offerings, we have aligned our offerings around three essential solutions:  Audience Measurement, Audience Outcomes and Gracenote Content Services.  Audience Outcomes and Gracenote Content Services are within Plan / Optimize. Beginning in 2021, we will refer to Plan / Optimize as Outcomes & Content.     
+
+4
+
+ 
+
+Audience Measurement
+
+Nielsen Cross-Media Measurement
+
+As audiences move seamlessly between linear, streaming and digital, advertisers are demanding a single, duplicated view of their audiences across all platforms and mediums. Concurrently, publishers want to provide more ad options for buyers and improve the overall viewer experience. In December 2020, we announced its plans to launch a single, cross-media solution to drive more comparable and comprehensive metrics across platforms. Our transformative cross-media solution, called Nielsen ONE, will evolve the current metrics that underpin the more than $100 billion video advertising ecosystem using a phased approach. We plan to launch its single measurement solution beginning in fourth-quarter 2022 with the intention to fully transition the industry to cross-media metrics by the Fall 2024 season.
+
+          With Nielsen ONE, advertisers and publishers will be able to transact using a single metric across linear and digital that is trusted, independent and standardized across the industry. With a single, deduplicated number, marketers will have visibility into total video consumption regardless of platform or device. Marketers will also benefit from a better understanding of unique audiences, the ability to better understand frequency and reduce double counting, inflated metrics and advertising waste.  Nielsen ONE will also underpin our outcomes solutions, thus enabling the industry to optimize media plans and maximize performance across platforms.
+
+          Television Audience Measurement
+
+We are the global leader in television audience measurement. In the U.S., which is by far the world’s largest market for television programming, broadcasters and cable networks use our television audience ratings as the primary currency to establish the value of their airtime and more effectively schedule and promote their programming. Advertisers use this information to plan television advertising campaigns, evaluate the effectiveness of their commercial messages and negotiate advertising rates.
+
+We provide two principal television ratings services in the U.S.: measurement of national television audiences and measurement of local television audience’s local television markets. We use various methods to collect the data from households including set-top-box data and electronic meters, which provide minute-by-minute viewing information for next day consumption by our clients. These households with electronic meters are meticulously identified using the U.S. Census as a model in order to properly and accurately model our national and local ratings. These methods enable us to collect not only television device viewing data but also the demographics of the audience (i.e., who in the household is watching), from which we calculate statistically reliable and accurate estimates of total television viewership. We have made significant investments over decades to build an infrastructure that can accurately and efficiently track television audience viewing, a process that has become increasingly complex as the industry has converted to digital transmission and integrated new technologies allowing for developments such as time-shifted viewing.
+
+Our measurement techniques are constantly evolving to account for new television viewing behavior, increased fragmentation and new media technologies. For example, to help advertisers and programmers understand time-shifted viewing behavior, we created the Average Commercial Minute (ACM) ratings, which is a measure of how many people watch commercials during live and time-shifted viewing, through 3 days ("C3"), 7 days ("C7"), and up to 35 days (“C35”). The C3 and C7 ratings are the primary metrics for buying and selling advertising on national broadcast television.  With the announcement of Nielsen ONE, we will launch our single measurement solution beginning in fourth-quarter 2022 with the intention to fully transition the industry to cross-media metrics by the Fall 2024 season.  
+
+Our technology is used to measure television viewing in 34 countries outside the U.S., including Sweden, Mexico, South Korea, Thailand, New Zealand, Australia, Indonesia, Italy and Poland. The international television audience measurement industry operates on a different model than in the U.S. In many international markets, a joint industry committee of broadcasters in each individual country selects a single official audience measurement provider, which is designated the “currency” through an organized bidding process that is typically revisited every several years. We have strong relationships in these countries and see a significant opportunity to expand our presence into additional countries around the world.
+
+Digital Audience Measurement
+
+We are a global provider of digital media and market research, audience analytics and social media measurement. We employ a variety of measurement offerings in the various markets in which we operate to provide digital publishers, internet and media companies, marketers and retailers with metrics to better understand the behavior of online audiences. Through a combination of patented panel and census data collection methods, we measure and study the internet surfing, online buying, and video viewing (including television content) of digital audiences. Nielsen’s Digital Ad Ratings are now in 35 countries, with Israel being the latest market to launch.
+
+     Since 2010, Nielsen has been providing innovative census measurement in cooperation with third party data enrichment providers such as Facebook. Digital Ad Ratings provides age and gender audience demographics, with key metrics such as reach, frequency, Gross Rating Points (“GRP”) and on-target percentage. Our digital content metrics are consistent with TV and cover audience metrics such as reach and average audience, views, time spent and frequency.
+
+5
+
+ 
+
+Mobile Measurement
+
+To address the rapid growth of mobile internet consumption, we have deployed a combination of panel and census based measurement to capture internet, video and other media on mobile, smartphone, and tablet devices. In the U.S., Nielsen has deployed our mobile software development kit (SDK) to offer a comprehensive mobile advertising and content measurement for our media clients. In addition, our census demographic measurement uses the world's largest mobile demographic data set through our data enrichment providers. We offer mobile measurement and analytic services in 35 countries worldwide, including the U.S., where we are a leader in the market for mobile audience measurement, and are focused on expanding our presence in other markets.
+
+Addressable TV Measurement
+
+Industry trends support the growing demand for addressable measurement at scale across publishers and advertisers as media buyers look to engage with viewers in live, linear, on-demand and streaming environments. With the widespread adoption of connected TVs and advertising technology in place, the insertion of addressable ads in linear broadcast feeds continues to gain momentum. This allows advertisers to target specific audiences in live television. The addition of addressable to National TV measurement will help unlock new value and flexibility for publishers and advertisers to insert addressable ads in any commercial minute they choose. Through Nielsen’s measurement of both targeted and linear audiences, advertisers can better monetize advertising impressions without risking measurement of linear audiences.
+
+Combined, Nielsen’s Advanced Video Advertising footprint and the integration of set top box data insights from DIRECTV, DISH, and Project OAR will expand the National TV panel to millions of U.S. homes offering greater demographic representation, higher quality and more actionable insights for better decision making. Nielsen will calibrate tune-in and exposure data from MVPDs and smart TV OEMs against its gold-standard panel to correct for bias and deliver robust persons-level data for more granular and stable measurement. With reconciled metrics from Nielsen, the industry can now transact on and better monetize all advertising impressions and further drive adoption of addressable advertising.
+
+Advanced Video Advertising
+
+At a time when linear TV viewership is experiencing seismic shifts, Nielsen intends to bring a complete addressable advanced video advertising platform to market, enabling real time targeted ad replacement in live linear TV across connected, enabled Smart TVs.      
+
+We believe Nielsen’s Addressable TV Ad platform will provide benefits across the entire media chain, from ad detection and replacement, to campaign and inventory management and ad decisioning and forecasting tools aimed at yield optimization. The Nielsen Addressable TV Ad platform is intended to be integrated across all Smart TV brands and into all existing broadcast infrastructures and agency workflows to unlock the full value of linear.  
+
+ 
+
+By unlocking addressable inventory, we believe media sellers will enable maximum delivery of return on investment (“ROI”) to advertisers across both linear and addressable TV impressions. Programmers should be able to establish whether certain addressable ad loads are open to single or multiple advertisers, and manage campaign pacing. Our open and flexible approach is intended to also allow brands and agencies to ingest various third-party data sets to create target audiences, upload ad creative and manage ad budgets, pricing, pacing and frequency capping through the platform.  
+
+ 
+
+Audio Audience Measurement
+
+We provide independent measurement and consumer research primarily servicing radio, advertisers and advertising agencies in the audio industry. We estimate the size and composition of radio audiences in local markets and of audiences to network radio programming and commercials in the U.S. We refer to our local and network radio audience ratings services, collectively, as our “syndicated radio ratings services.” We provide our syndicated radio ratings services in local markets in the U.S. to radio broadcasters, advertising agencies, and advertisers. Our national services estimate the size and demographic composition of national radio audiences and the size and composition of audiences of network radio programs and commercials. Broadcasters use our data primarily to price and sell advertising time, and advertising agencies and advertisers use our data in purchasing advertising time.
+
+We have developed our electronic Portable People MeterTM (“PPM®”) technology, which we deploy across many of our customer offerings and have licensed to other media information services companies to use in their media audience ratings services in countries outside of the U.S. We have commercialized our PPM ratings service in 48 of the largest radio markets in the U.S. Nielsen's PPM technology is also used commercially for National TV Out-of-Home, as well as integrated into Local TV measurement in 2019 in 44 local markets.
+
+Plan / Optimize
+
+         Planning
+
+Nielsen has a portfolio of solutions that enable clients to create optimized media plans to reach their desired audiences.
+
+ 
+
+6
+
+ 
+
+     Nielsen Ad Intel provides competitive advertising intelligence across traditional and digital media in 35 markets around the globe and can provide information for more than 80 markets globally.  By providing ad campaign brand details, audience exposure and estimated advertising spend data, we furnish clients with unique insights for competitive brand and advertising creative activity, for shifts in advertising spend among media types, channels and brands, and for advertising sales lead generation. In the U.S., Ad Intel determines the commercial minutes for the national television currency.  Internationally, clients utilize Ad Intel’s ad spend as a secondary measure to the television currency. Furthermore, Ad Intel’s brand schedules form the basis for many other Nielsen products and services.
+
+ 
+
+Nielsen Media Impact is an omni-channel planning system, providing insights about target audiences across platforms and devices, to optimize media plans to achieve advertising campaign objectives.  Nielsen Media Impact is a tool for understanding how various media can be used together most effectively in a media plan to achieve reach, frequency and brand or sales KPIs. With Media Impact, clients can plan across the media consumers are utilizing the most, reach the right consumers and find cost efficiencies to improve their ROI. In the U.S., Nielsen Media Impact is fueled by Total Media Fusion, a granular, comprehensive data set of audiences and media behaviors across TV, SVOD, TV connected device, ad supported ctv, digital, radio and print, designed specifically for media planning and analytics.  Nielsen Media Impact is a tool for media agencies, advertisers and media owners and is currently available in 11 international markets, with more planned for 2021. Local Nielsen Media Impact, a local planning system, is available in 44 markets within the U.S. Local Nielsen Media Impact utilizes Local Media Fusion, a respondent level data set of audiences and media behaviors across TV, radio and digital at the local market level.
+
+In addition to the services described above, we also provide qualitative information about consumers, including their lifestyles, shopping patterns, and use of media in local markets and across the U.S. We market these services to customers of our syndicated radio and television ratings services who wish to demonstrate the target ability and value of their audience. We also market our quantitative and qualitative audience and consumer information to customers outside of our traditional base, including newspapers; advertising agencies; the advertising sales organizations of local cable television companies; national cable and broadcast television networks; out-of-home media sales organizations; sports teams and leagues; marketers and advertisers.  
+
+Qualitative media insights applications include marketing, cross-platform, prospecting, planning/buying, sales, news, promotions, programming and editorial.  Beyond demonstrating audience targeting, value and media planning, qualitative information provides advertiser insights into the areas of promotions, marketing, brand management, multiculturalism, product development, shopper insights and sponsorship.
+
+We currently provide syndicated local qualitative measurement in 208 U.S. markets, as well as Puerto Rico.
+
+         Marketing Effectiveness
+
+          Nielsen’s outcome measurement solutions deliver the ROI metrics marketers need to improve strategic planning decisions and optimize tactics with data driven insights. Working across industries like CPG, Retail, Automotive, Travel, Financial Services, and more, Nielsen delivers the broadest and deepest coverage of ROI in the industry with unmatched speed, data access and channel coverage.
+
+Nielsen Marketing Mix Modeling enables companies of all sizes to understand past trends, predict the future effect of marketing tactics on sales and optimize budget allocation across channels, brands and regions.
+
+Nielsen Attribution collects person-level performance data from addressable marketing channels and devices. Advanced analytic models measure the influence of every addressable channel and granular tactic on multiple success metrics and key audience segments. With some models updated as often as daily, marketers use near real-time data to optimize marketing tactics and media spend allocation while campaigns are still in-flight.
+
+Nielsen Campaign Lift makes a direct connection between the media people consume and the products they buy. We offer the only solution on the market that uses credit and debit sales data, loyalty card data and/or store data to measure campaign performance. Campaign Lift allows marketers to measure how exposure to advertising impacts consumer purchase behavior, including average spend, trip frequency and more, to maximize the revenue outcome of advertising initiatives.
+
+Activation
+
+ 
+
+We offer over 25,000 syndicated segments representing different demographics, psychographics, media consumption and buying behavior along with thousands of additional custom segments.  From top funnel insights, describing demographics, economic and job related parameters, to mid funnel insights describing content that viewers have expressed interest in, such as TV shows
+
+7
+
+ 
+
+watched, restaurants dined at, stores shopped to insights on expressed intent.  These audiences describe individuals with high propensity of exhibiting future behaviors such as purchasing a specific car model, a financial product, airline tickets, and more.  
+
+ 
+
+We enable these segments in a vast array of buying platforms currently connected to Nielsen’s Data Management Platform.  The Nielsen Marketing Cloud is Nielsen’s platform for the custom creation of audiences and activation of those audiences for campaign delivery.  The Nielsen Marketing Cloud empowers brands, agencies and media companies to connect more deeply with customers by combining Nielsen’s world-class data, analytics, media planning, marketing activation and data management platform capabilities in a single cloud platform.  
+
+ 
+
+Our clients can connect directly to our Nielsen Marketing Cloud to identify desired syndicated targeting or created custom targets using their own first party data, unlocking the unique target combinations and using our insights as analytics and ROI tools.  Nielsen Marketing Cloud clients gain exclusive access to granular Nielsen data, which powers audience insights at a much higher degree of detail than is available anywhere else.      
+
+    
+
+          Nielsen Brand Effect
+
+Nielsen Digital Brand Effect allows the entire digital media ecosystem, including advertisers, agencies and media owners, to collaborate to validate and optimize advertising spend in real time. We use brand lift metrics to quantify the effectiveness of advertising and determine “resonance” or the extent to which a specific campaign has shifted consumer perception against its primary marketing objective, including awareness, attitudes, favorability, intent and preference. Additionally, our Expanded View module provides in-depth creative diagnostics to understand the “why” behind the “what.” These services provide clients with a holistic assessment of their digital marketing and strategic insight into how to improve it.
+
+NCSolutions & Nielsen Buyer Insights
+
+Nielsen has the most comprehensive Advertising Effectiveness Measurement in the industry.  We have pioneered the transition of demographic only insights to purchase behavior enhanced metrics.  Through these industry leading ventures, Nielsen delivers the broadest and deepest coverage of ROI and Media Planning across various industries, including, but not limited to, CPG, Restaurant, Retail, Travel and Pharmacy. Nielsen delivers on the deepest granular insights down to the merchant and UPC level (where applicable) against single source matched, demographically accurate viewership data.  NCSolutions (“NCS”), our joint venture with Catalina Marketing Corporation (“Catalina”), and Nielsen Buyer Insights product suites are utilized by every major media company in the U.S. for Upfronts, research, industry events and everyday negotiations.  
+
+NCS measures the effectiveness of advertising across all media.  NCS helps advertisers and agencies define their customer once and find them everywhere.  NCS enables the CPG industry to activate on their best customers based on actual prior purchases data and match that to the very same shopper's media exposure, then measure the sales impact of the campaign. NCS has conducted several thousand studies for 200 advertisers and 450+ brands to optimize ad performance and drive revenue growth and increase return on ad spend. In December 2018, Catalina and certain of its affiliates (the “Catalina debtors”) commenced a “prepackaged” case under chapter 11 of the U.S. Bankruptcy Code with the U.S. Bankruptcy Court for the District of Delaware. On January 30, 2019, the Bankruptcy Court confirmed the joint chapter 11 plan of the Catalina debtors.  On February 15, 2019, the Catalina debtors emerged from bankruptcy following the amendment of the NCS Joint Venture agreement, which amendment reaffirms both parents’ commitment to NCS and also enhances both parents’ flexibility in going to market with effectiveness products and services.
+
+Gracenote Content Services
+
+Gracenote, a Nielsen company, is a leading entertainment data and technology provider. At its core, Gracenote helps connect people with digital entertainment. Its deep descriptive metadata across music, video and sports helps power advanced navigation, search and discovery experiences for media companies, consumer electronics manufacturers, automakers, cable and satellite TV operators and OTT services.
+
+Gracenote’s best-in-class metadata, services and technologies let customers make media more accessible to and discoverable by audiences across all platforms, products and services. Applying a balance of AI-powered techniques and human editors, Gracenote creates, collects, normalizes and intelligently organizes the world’s entertainment data across TV shows, movies, celebrities, sports, teams, athletes, artists, albums and tracks. Its global entertainment data portfolio features descriptions of more than 100 million music tracks, TV listings across 87 countries plus factual data and imagery for tens of millions of video programs, as well as statistics across more than 70 sports and 300,000 games each year (pre Covid-19 pandemic). Additionally, Gracenote powers the infotainment experience in more than 120 million automobiles around the world.
+
+ 
+
+8
+
+ 
+
+Nielsen Global Connect    
+
+Our Connect segment provides retail transactional measurement data, consumer behavior information and analytics primarily to           consumer packaged goods manufacturers and retailers with accurate, actionable information and a complete picture of the complex and changing marketplace that brands need to innovate and grow their businesses. It also provides data and builds tools that use predictive models to turn observations in the marketplace into business decisions and winning solutions. The business's data and insights, combined with the only open, cloud native measurement and analytics platform that democratizes the power of data, continue to provide an essential foundation that make markets possible in the rapidly evolving world of commerce. Within our Connect segment, in 2020, 66% of revenues came from Developed markets and 34% came from Emerging markets. For the year ended December 31, 2020, revenues from our Connect segment represented approximately 47% of our consolidated revenues. This segment has historically generated revenue streams that are characterized by multi-year contracts, client diversity and high contract renewal rates. At the beginning of each year, approximately 60% of the segment’s revenue base for the upcoming year is typically committed under existing agreements. Our top five segment clients represented approximately 14% of our segment revenues for the year ended December 31, 2020 and the average length of relationship with these same clients is over 30 years. No single client accounted for 5% or more of our Connect segment revenues in 2020.
+
+ 
+
+Our retail and manufacturing clients face a business environment that is constantly evolving. New channels are emerging and innovative, nimble competitors are taking advantage of new consumer trends to capture market share. Consumers have better access to information on products and pricing than ever before. Assets that were previously barriers to entry and sources of competitive advantage like scale, global reach and an estate of physical stores can turn into liabilities that hamper the ability to compete with new models.
+
+The advancements in technology that underpin these changes also hold opportunities. There has been a proliferation in the amount of data to help understand consumers better, reach them in a more personal way and make smarter, more actionable decisions. Harnessing this complex and varied amount of data demands new approaches and connectivity. Our clients need to:
+
+ 
+	
+
+•
+	
+
+know their consumers and shoppers even better
+
+ 
+	
+
+•
+	
+
+move faster
+
+ 
+	
+
+•
+	
+
+align their teams and vendors
+
+ 
+	
+
+•
+	
+
+win in omni-channel
+
+ 
+	
+
+•
+	
+
+make smarter decisions and investments
+
+ 
+
+To help our clients meet these challenges, we developed the Connect platform to link Connect’s data with powerful analytics that drive built-in applications. With these applications, clients can see how they are performing against competitors, measure internal objectives across products and markets, test how marketing moves may affect sales and schedule improvements to their workflow, all made possible by the platform’s defining characteristics:    
+
+ 
+
+ 
+	
+
+•
+	
+
+Open: The Connect platform integrates data from any source, extracts data to be used in other systems and keeps Connect’s team connected and in-synch.
+
+ 
+	
+
+•
+	
+
+Simple: Intuitive design and alerts makes the platform simple to use while focusing on the user’s key performance indicators.     
+
+ 
+	
+
+•
+	
+
+Flexible: Utilities in the platform allow clients to enrich data, produce customized views and plug in their own tools and applications.
+
+ 
+	
+
+•
+	
+
+Actionable: The Connect platform supports an ecosystem of applications developed by Nielsen and partners so that clients can focus on execution. Guided workflows make collaboration across teams quicker and smoother.
+
+ 
+
+This allows Connect to provide clients “one truth” through integrated data, access to analytics that inform everyday decisions and valuable consumer insights across all channels of trade, resulting in profitable growth.
+
+Connect’s analytical solutions allow clients to identify consumer demands, improve workflow, manage their supply chain, drive merchandising effectiveness and identify operational efficiencies, making their marketing expenses, like pricing and promotion, more efficient and effective.
+
+                        
+
+     Connect provides these trusted technology-driven products and services to over 20,000 clients:
+
+ 
+
+          Retail Measurement
+
+9
+
+ 
+
+ 
+
+          Connect combines detailed sales data with online and offline partner data, in-house expertise and the latest technology to produce the most accurate view of the marketplace. Clients across nearly every retail industry use Connect’s information and insights  to make manufacturing, marketing, distribution and sales decisions.
+
+ 
+
+          Consumer Panel Measurement
+
+          
+
+          Connect’s consumer panels collect data from more than 250,000 household panelists across 24 countries, using a combination of in-home scanners and mobile applications to record purchases and to help its clients understand consumer purchasing trends.
+
+ 
+
+         Analytics 
+
+ 
+
+          Connect’s Connect platform provides a growing selection of automated consumer intelligence and actionable insights that help clients identify unmet consumer needs, improve workflow and make smarter decisions throughout their development and marketing cycles.
+
+ 
+
+ 
+
+          Loyalty
+
+          
+
+          A global leader in loyalty data processing, Connect allows its retail clients to understand and act on consumer data sets. Connect’s technology also allows retailers to easily share customer data and analytics with their manufacturer partners for mutual growth.
+
+ 
+
+          Advisory Services
+
+ 
+
+          Connect provides its clients with a suite of customized research services as well as consumer and industry studies to better understand consumer attitudes and purchasing behavior, to elevate and understand why marketing campaigns succeed or fail, and to address issues such as promotion, pricing and marketing mix.
+
+ 
+
+          Connect has two major product offerings: Measure and Predict/Activate. The Measure product offering consists of Connect’s Retail Measurement and Consumer Panel Measurement products, and the Predict/Activate product offerings includes Analytics, Loyalty and Advisory Services products.
+
+          
+
+Competitive Advantages
+
+We are faced with a number of competitors in the markets in which we operate. Some of our competitors in each market may have substantially greater financial, marketing and other resources than we do and may benefit from other competitive advantages. See “Competitive Landscape” and “Risk Factors.” We face increasing competition, which could adversely affect our business, financial condition, results of operations and cash flow.  Notwithstanding the challenges presented by the competitive landscape, we believe that we have several competitive advantages, including the following:
+
+Global Scale and Brand. We provide a breadth of information and insights about consumers covering approximately 90 percent of all population and GDP globally.  In our Media segment, our ratings are the primary metrics used to determine the value of programming and advertising in the U.S. television advertising marketplace. According to eMarketer, U.S. TV ad spend is expected to be $60 billion in 2020. In our Connect segment, we track billions of sales transactions per month in retail outlets in more than 90 markets around the world. We also have approximately 250,000 household panelists across 24 countries. We believe our footprint, independence, credibility and leading market positions will continue to contribute to our long-term growth and strong operating margins as the number and role of multinational companies expand. Our scale is supported by our global brand, which is defined by the original Nielsen code created by our founder, Arthur C. Nielsen, Sr.: impartiality, thoroughness, accuracy, integrity, economy, price, delivery and service.
+
+Strong, Diversified Client Relationships. Many of the world’s largest brands rely on us as their information and analytics provider to create value for their business. We maintain long-standing relationships and multi-year contracts with high renewal rates due to the value of the services and solutions we provide. In our Media segment, our client base includes leading broadcast, radio, cable and internet companies such as CBS, Discovery Inc., Disney/ABC/Fox, Facebook, Google, Microsoft, NBC Universal/Comcast, Fox Corporation, Time Warner, Univision and Yahoo!; leading advertising agencies such as WPP, IPG, Omnicom, and Publicis; leading telecom companies such as AT&T, Verizon, and Sprint; and leading automotive companies such as Ford, Toyota and Renault. In our Connect segment, our clients include the largest CPG and merchandising companies in the world such as The Coca-Cola Company, Nestle S.A., and The Procter & Gamble Company, as well as leading retail chains such as Carrefour, Tesco, and Walmart. The average length of relationship with our top 10 clients across both our Media and Connect segments is more than 30 years. In
+
+10
+
+ 
+
+addition, due to our growing presence in emerging markets, we have cultivated strong relationships with local market leaders that can benefit from our services as they expand globally. Our strong client relationships provide both a foundation for recurring revenues as well as a platform for growth.
+
+Enhanced Data Assets and Measurement Science. Our extensive portfolio of transactional and consumer behavioral data across our Media and Connect segments enables us to provide critical information to our clients. For decades, we have employed advanced measurement methodologies that yield statistically accurate information about consumer behavior while having due regard for their privacy. Our particular expertise in panel measurement includes a proven methodology to create statistically accurate research insights that are statistically representative of designated audiences. This expertise is a distinct advantage as we extrapolate more precise insights from emerging large-scale census databases to provide greater granularity and segmentation for our clients. We continue to enhance our core competency in measurement science by improving research approaches and investing in new methodologies. We have also invested significantly in our data architecture to enable the integration of distinct large-scale census data sets including those owned by third parties. We believe that our expertise, established standards and increasingly granular and comprehensive data assets provide us with a distinct advantage as we deliver more precise insights to our clients.
+
+Innovation. We have focused on innovation to deepen our capabilities, expand in new and emerging forms of measurement, enhance our analytical offerings and capitalize on industry trends across our Media and Connect businesses.  
+
+In Media, as audiences move seamlessly between linear, streaming and digital, advertisers are demanding a single, deduplicated view of their audiences across all platforms and mediums. Concurrently, publishers want to provide more ad options for buyers and improve the overall viewer experience. In December 2020, Nielsen announced its plans to launch a single, cross-media solution to drive more comparable and comprehensive metrics across platforms. Nielsen’s transformative cross-media solution, called Nielsen ONE, will evolve the current metrics that underpin the more than $100 billion video advertising ecosystem using a phased approach. The Company plans to launch its single measurement solution beginning in fourth-quarter 2022 with the intention to fully transition the industry to cross-media metrics by the Fall 2024 season.
+
+ 
+
+          With Nielsen ONE, advertisers and publishers will be able to transact using a single metric across linear and digital that is trusted, independent and standardized across the industry.
+
+With a single, deduplicated number, marketers will have visibility into total video consumption regardless of platform or device. Marketers will also benefit from a better understanding of unique audiences, the ability to better understand frequency and reduce double counting, inflated metrics and advertising waste. Nielsen ONE will also underpin our outcomes solutions, thus enabling the industry to optimize media plans and maximize performance across platforms.
+
+Nielsen is also incorporating large census-level data into all of its services and products.  We have been using Return Path Data in different areas of Nielsen over the last five years, for example, in Digital Ad Ratings along with our marketing effectiveness/ROI services.  Nielsen has incorporated Return Path Data for Local Television in 164 local markets, as well as the inclusion of PPM in 44 markets. This resulted in the retirement of the use of paper diaries for TV audience measurement in 2018. In 2019 Nielsen completed a multi-year effort to transform local TV measurement in all 208 markets. Due to the significant deficiencies in this data, Nielsen’s Data Science teams have created a number of statistical models to correct for all of the limitations of this data, including how to calibrate and validate against it which enables us to continue to produce quality person’s based ratings for the marketplace.
+
+     On the planning side, Nielsen Media Impact, a state of the art cross media planning system that integrates reach, audience segments and effectiveness data, which provides the analytics capability tied to our audience measurement data to enable buyers and sellers to more effectively transact on advertising sales.  It helps agencies, media owners, and advertisers to better plan     and optimize the value of their media investments. The fuel for Media Impact is Nielsen Total Media Fusion, a respondent level planning dataset designed specifically for media planning and analytics.     
+
+Nielsen is the premier global provider of analytics and insights in sport sponsorships.  Nielsen Sports America provides critical data about the value of sponsorships to help clients make better, smarter business decisions.  
+
+While technology is changing the path to purchase and generating massive volumes of data to sift through, Nielsen is helping our clients navigate this changing landscape and answer critical questions through Nielsen Connect. Nielsen Connect is an open, cloud-based platform which allows clients to quickly determine what’s happened to their business, the reason behind sales and share changes and then what they should do next through analytic apps that support everyday decisions around innovation, distribution, price, promotion and media.  Retail and manufacturer clients will both have access to Nielsen Connect enabling a high degree of collaboration.  We have also further enhanced our information and analytics delivery platform, Nielsen Answers On Demand, to enable the management of consumer loyalty programs for retail clients.
+
+11
+
+ 
+
+Nielsen is also on a path to measure the “Total Consumer,” which means offline and online purchases, all outlets, retail, and out of home consumption.  Nielsen’s e-commerce measurement solution is a combination of Nielsen retail data cooperators; multiple consumer-sourced data sets and demand related analytics that will provide the industry a leading measure of e-commerce channel performance for both retailers and manufacturers.  These data sources, married with Nielsen’s best in class data science will enable an integrated, calibrated and projectable measurement solution.  The retail data cooperators are across a spectrum of channels ranging from pure play, club, mass, specialty, drug, and food.  This solution will provide an integrated view of consumer insights, in addition to the market measurement, through consumer level purchase data.
+
+ 
+
+Scalable Operating Model. Our global presence and operating model allow us to scale our services and solutions rapidly and efficiently. We have a long track record of establishing leading services that can be quickly expanded across clients, markets and geographies. Our global operations and technology organization enables us to achieve faster, higher quality outcomes for clients in a cost-efficient manner. Our flexible architecture allows us to incorporate leading third-party technologies as well as data from external sources, and enables our clients to use our technology and solutions on their own technology platforms. In addition, we work with various leading technology partners and providers, which allows for greater quality in client offerings and efficiency in our global operations.
+
+Industry Trends
+
+We believe companies, including our clients, require an increasing amount of data and analytics to set strategy and direct operations. This has resulted in a large market for business information and insight which we believe will continue to grow. Our clients are predominantly media, advertising and CPG companies in the large and growing markets, and we are focused on expanding into other verticals in the Media segment. We believe that significant economic, technological, demographic and competitive trends facing consumers and our clients will provide a competitive advantage to our business and enable us to capture a greater share of our significant market opportunity. We may not be able to realize these opportunities if these trends do not continue or if we are otherwise unable to execute our strategies. See “Risk Factors – Risks Related to Our Business and Industry - We may be unable to adapt to significant technological changes which could adversely affect our business” and “Risk Factors – Risks Related to Operating a Global Business- Our international operations are exposed to risks which could impede growth in the future.”
+
+Emerging markets present significant expansion opportunities. Brand marketers are focused on attracting new consumers in emerging countries as a result of the fast-paced population growth of the middle class in these regions. In addition, the retail trade in these markets is quickly evolving from small, local formats toward larger, more modern formats with electronic points of sale, a similar evolution to what occurred in developed markets over the last several decades. We provide established measurement methodologies to help give CPG companies, retailers and media companies an accurate understanding of local consumers to allow them to harness growing consumer buying power in markets like Brazil, India and China.
+
+Demographic shifts and changes in spending behavior are altering the consumer landscape. Consumer demographics and related trends are constantly evolving globally, leading to changes in consumer preferences and the relative size and buying power of major consumer groups. Shifts in population size, age, racial composition, family size and relative wealth are causing marketers continuously to re-evaluate and reprioritize their consumer marketing strategies. We track and interpret consumer demographics that help enable our clients to engage more effectively with their existing consumers as well as forge new relationships with emerging segments of the population.
+
+The media landscape is dynamic and changing. Consumers are rapidly changing their media consumption patterns. The growing availability of the internet, and the proliferation of new formats and channels such as mobile devices, social networks and other forms of user-generated media have led to an increasingly fragmented consumer base that is more difficult to measure and analyze. In addition, simultaneous usage of more than one screen is becoming a regular aspect of daily consumer media consumption. Shifts in consumer behavior accelerated during the global Covid-19 pandemic due to stay at home orders in many markets around the world. We have effectively measured and tracked media consumption through numerous cycles in the industry’s evolution – from broadcast to cable, from analog to digital, from offline to online and from live to time-shifted, from in-home to out-of-home, and Video On Demand/Subscription Video On Demand. We believe our distinct ability to provide independent cross-media audience measurement and metrics helps clients better understand, adapt to and profit from the continued transformation of the global media landscape.
+
+Consumers are more connected, informed and in control. More than three-quarters of the world’s homes have access to television and there are approximately 3.5 billion internet users around the globe. Advances in technology have given consumers a greater level of control of when, where and how they consume information and interact with media and brands. They can compare products and prices instantaneously and have new avenues to learn about, engage with and purchase products and services. These shifts in behavior create significant complexities for our clients. Our broad portfolio of measurement and analytical services enables
+
+12
+
+ 
+
+our clients to engage consumers with more impact and efficiency, influence consumer purchasing decisions and actively participate in and shape conversations about their brands.
+
+Increasing amounts of consumer information are leading to new marketing approaches. The advent of the internet and other digital platforms has created rapid growth in consumer data that is expected to intensify as more entertainment and commerce are delivered across these platforms. As a result, companies are looking for real-time access to more granular levels of data to understand growth opportunities more quickly and more precisely. This presents a significant opportunity for us to work with companies to effectively manage, integrate and analyze large amounts of information and extract meaningful insights that allow marketers to generate profitable growth.
+
+Emerging markets present significant expansion opportunities. Brand marketers are focused on attracting new consumers in emerging countries as a result of the fast-paced population growth of the middle class in these regions. In addition, the retail trade in these markets is quickly evolving from small, local formats toward larger, more modern formats with electronic points of sale, a similar evolution to what occurred in developed markets over the last several decades. We provide established measurement methodologies to help give CPG companies, retailers and media companies an accurate understanding of local consumers to allow them to harness growing consumer buying power in markets like Brazil, India and China.
+
+Consumers are looking for greater value. When it comes to the products consumers choose to buy, the consideration set has grown. Access to information and technology have transformed the way brands can build trust with and appeal to consumers, as exemplified by the rise in omnichannel shopping and the demand for personalized shopper experiences. Today, consumers desire products that meet very specific needs. This increased focus on product attributes is causing manufacturers, retailers and media companies to re-evaluate brand positioning, value propositions and factors that drive loyalty. We believe that companies will increasingly look to our broad range of consumer purchasing insights and analytics to more precisely and effectively measure consumer behavior and target their products and marketing offers to meet the right combination of needs.
+
+The Rise of Online Brand Loyalists. The growth of online commerce has driven the need for fast-moving consumer goods to reshape consumers’ actual online experience around their online behavior.  The real promise in digital retail is the chance to go “beyond the self” to build brand loyalty with consumers.  It is the first time that brands and retailers can fulfill consumers’ needs for convenience and an overall good experience along the entire path to purchase, including clear, helpful production information, ensuring there is a place for customer reviews by product, easy checkout, simple returns, and quick responses to consumer feedback.  Getting the experience right and building those relationships with consumers now will be vital to securing subscriptions and automatic fulfillment, which will very soon become the norm.  
+
+ 
+
+Clients are Under Pressure to Reduce Costs and Move Faster.  Global CPGs are challenged to achieve growth in certain markets with growing fragmentation in consumer demand, more competition from smaller and local players and increased commodity pricing. In addition, the growth of discount retailers, eCommerce players and subscription models is creating competitive pressure for CPGs and retailers. These factors have led clients to seek efficiencies in their business including reducing costs via zero-based budgeting to offset revenue pressure.  We believe clients are looking for decisions to be made in much shorter periods of time and the pace at which market share data and the linked explanatory analytics are delivered needs to increase. We see a growing opportunity to provide clients with fast and nimble data solutions to drive smarter decision-making.
+
+Our Growth Strategy
+
+We believe we are well-positioned for growth worldwide and have a multi-faceted strategy that builds upon our brand, strong client relationships and integral role in measuring and analyzing the global consumer. Our growth strategy is also subject to certain risks. For example, we may be unable to adapt to significant technological changes such as changes in the technology used to collect and process data or in methods of television viewing. In addition, consolidation in our customers’ industries may reduce the aggregate demand for our services. See “Risk Factors.”
+
+ 
+
+Nielsen Global Media
+
+          Nielsen Global Media’s growth strategy centers around our three strategic pillars: Audience Measurement, Audience Outcomes and Gracenote Content Services.
+
+13
+
+ 
+
+Continue to develop innovative services
+
+We intend to continue evolving our service portfolio to provide our clients with comprehensive and advanced solutions. In Nielsen Global Media, we are focused on driving new growth from new solutions across all of our end markets. For example, in Audience Measurement, we are transforming from different measurement systems for broadcast and digital to a single audience measurement solution that measures full coverage on a comparable basis, and we are innovating with new services in Audience Outcomes and Gracenote Content services.
+
+Continue to attract new clients and expand existing relationships
+
+We believe that substantial opportunities exist to both attract new clients and to increase our revenue from existing clients. Building on our deep knowledge, we expect to sell new and innovative solutions to our new and existing clients, increasing our importance to their decision making processes. We are delivering outcome solutions to advertisers and their agencies in new verticals beyond consumer packaged goods.
+
+Continue to grow outside the U.S.  
+
+          In Nielsen Global Media, international revenues comprised approximately 16% of 2020 segment revenues.  Nielsen Global Media has a presence in 60 countries, which creates an entry point to grow in many of these countries across all three essential solutions with Audience Measurement, Audience Outcomes and Gracenote Content Services. We expect the international businesses to grow faster than the US business over the next few years.
+
+Continue to pursue strategic acquisitions to complement our leadership positions
+
+We have increased our capabilities through investments and acquisitions in the U.S. and international audience measurement, and advertising effectiveness for digital media campaigns. Going forward, we will consider select acquisitions of complementary businesses that enhance our product and geographic portfolio and can benefit from our scale, scope and status as a global leader.
+
+ 
+
+Nielsen Global Connect
+
+Continue to grow in emerging markets
+
+Our relationships with top, multi-national CPG companies make it vital for us to respond to client demands, often where population growth is most occurring. Clients expect us to expand coverage and services in emerging markets, where growth is most rapid. Increasing coverage in hard-to-reach channels, while increasing penetration among local clients who have never used market research data, will be a continued focus for us.
+
+Emerging markets (measured in our Connect segment) comprised approximately 34% of our 2020 Connect segment revenues (16% of our 2020 consolidated revenues) and we believe represent a significant long-term opportunity for us given the growth of the middle class and the rapid evolution and modernization of the retail trade in these regions. Key elements of our strategy include:
+
+ 
+	
+
+•
+	
+
+Continuing to grow our existing services in local markets while simultaneously introducing into emerging markets new services drawn from our global portfolio;
+
+ 
+	
+
+•
+	
+
+Partnering with existing clients as they expand their businesses into emerging markets and providing the high-quality measurement and insights to which they are accustomed; and
+
+ 
+	
+
+•
+	
+
+Building relationships with local companies that are expanding beyond their home markets by capitalizing on the global credibility and integrity of the Nielsen brand.
+
+Continue to develop innovative services
+
+Investments will focus on our pursuit of 100% coverage, winning with retail and dramatically expanding analytic capabilities. Innovations in coverage will focus on filling blind spots with the help of our retail data partners, and expanding our omni-channel and e-commerce coverage. We will further expand its product suite for retailer and supplier collaborative needs, opening up new loyalty cases, and deepening retail analytics programs that increase our clients’ return on investment. Expanding our analytics solutions will require moving towards predictions and return on investment capabilities across product availability, placement, price and promotion
+
+14
+
+ 
+
+Continue to attract new clients and expand existing relationships
+
+The Connect platform democratizes our existing data sets to users across existing and new client bases. We have various opportunities to enter into near adjacent fields and is developing plans to do so. For existing clients, casual users now have access to intuitive, self-serve data and analytics. More technical, advanced users can also leverage our capabilities to internally develop new solutions unique to their own data enrichment and modeling needs. New clients now have a user-friendly entry point to experience the benefits that market research can bring to their business.
+
+Continue to pursue strategic acquisitions to complement our leadership positions
+
+Our strategic acquisitions will focus on accelerating profitable growth in coverage for existing or new markets, differentiating or complementing our core measurement business and speeding up our product roadmap. These three pillars all serve to increase our relevance with clients, and uncover growth for them at a more rapid rate than they could achieve themselves.
+
+Technology Infrastructure
+
+We operate with an extensive data and technology infrastructure utilizing five primary data centers in three countries around the world. We also use Amazon Web Services from Amazon and Azure from Microsoft for cloud based infrastructure. Our global database has unlimited capacity and we are currently housing approximately 1.4 petabytes of information, with our Connect segment processing approximately 125 billion purchasing data points each month in 2019, our Media segment processing approximately 200 billion tuning and viewing records (across panel and census data) each month in 2019 and our Nielsen Marketing Cloud platform processing 5 trillion events each month in 2017. Our technology infrastructure plays an instrumental role in meeting service commitments to global clients and allows us to quickly scale our services across practice areas and geographies. Our technology platform utilizes an open approach that facilitates integration of distinct data sets, interoperability with client data and technology, and partnerships with leading technology companies such as Tata Consulting Services and other technology providers. We have been focused on a technology transformation in both Media and Connect which will better position us to drive scale and growth.
+
+Intellectual Property
+
+Our patents, trademarks, trade secrets, copyrights and all of our other intellectual property are important assets that afford protection to our business. Our success depends to a degree upon our ability to protect and preserve certain proprietary aspects of our technology and our brand. To ensure that objective, we control and limit access to our proprietary technology. Our employees and consultants enter into confidentiality, non-disclosure and invention assignment agreements with us. We protect our rights to proprietary technology and confidential information in our business arrangements with third parties through confidentiality and other intellectual property and business agreements.
+
+We hold a number of third-party patent and intellectual property license agreements that afford us rights to third-party patents, technology and other intellectual property. Such license agreements most often do not preclude either party from licensing our patents and technology to others. Such licenses may involve one-time payments or ongoing royalty obligations, and we cannot ensure that future license agreements can or will be obtained or renewed on acceptable terms, or at all.
+
+Pursuant to the Connect Sale Agreement, we will enter into certain ancillary agreements at the closing of the Transaction.  We will grant Advent a license to brand its products and services with the “Nielsen” name and other Nielsen trademarks for 20 years following the closing of the Transaction.  Additionally, Nielsen and Advent will enter into agreements pursuant to which, among other things, Nielsen and Advent will (i) grant each other reciprocal licenses for certain data and corresponding services relating to that data for periods of up to five years following the closing and (ii) grant each other licenses to use certain patents and other intellectual property.
+
+Competitive Landscape
+
+There is no single competitor that offers all of the services we offer in all of the markets in which we offer them. We have many competitors worldwide that offer some of the services we provide in selected markets. While we maintain leading positions in many markets in which we operate, our future success will depend on our ability to enhance and expand our suite of services, provide reliable and accurate measurement solutions and related information, drive innovation that anticipates and responds to emerging client needs, strengthen and expand our geographic footprint, and protect consumer privacy. See “Risk Factors –Risks Related to Competition.” We believe our global presence and integrated portfolio of services are key assets in our ability to effectively compete in the marketplace. A summary of the competitive landscape for each of our segments is included below:
+
+15
+
+ 
+
+Nielsen Global Media
+
+While we do not have one global competitor in our Media segment, we face numerous competitors in various areas of our operations in different markets throughout the world. We are the clear market leader in U.S. television audience measurement; however, there are many emerging players and technologies that will increase competitive pressure. Numerous companies such as, Comscore are attempting to provide alternative forms of television audience measurement using, inter alia, set-top box data and panel-based measurement. Our principal competitor in television audience measurement outside the U.S. is Kantar, with companies such as GfK and Ipsos also providing competition in select individual countries.
+
+Our primary competitor in the digital audience and campaign measurement solutions in the U.S. is Comscore. Globally (including the U.S.), we face competition from additional companies that provide analytics services such as Oracle, Google Analytics, and Adobe Analytics. In 2016, one of our former competitors, Rentrak merged into a wholly-owned subsidiary of Comscore and the combined companies focus on cross platform measurement.  We are the market leader in U.S. audio audience measurement. Our principal competitors globally are Kantar and GFK, and in the U.S. our principal competitor is Eastlan. Kantar developed technologies similar to our PPM ratings service outside the U.S. Additionally Triton, is a U.S.-based digital competitor which has developed a streaming Audio measurement service that uses server log technology. Triton was acquired by iHeartMedia in February 2021.
+
+Nielsen Global Connect    
+
+While we do not have one global competitor in our Connect segment, we face numerous competitors in different markets throughout the world. Such competitors include companies specializing in marketing research, in-house research departments of manufacturers and advertising agencies, retailers that sell information directly or through brokers, information management and software companies, and consulting and accounting firms. In retail measurement, our principal competitor in the U.S. is Information Resources, Inc., which is also present in some European and Asia/Pacific markets. Our retail measurement service also faces competition in individual markets from local companies. Our consumer panel services and analytics services have many direct and/or indirect competitors in all markets around the world including in selected cases, GfK, Numerator, Kantar and local companies in individual countries.
+
+Regulation
+
+We are subject to a variety of laws and regulations in the United States and abroad that involve matters central to our business, many of which are still evolving, and could be interpreted in ways that could harm our business. These laws and regulations may involve privacy, data use, cross-border data transfers, data protection, intellectual property, securities law, COVID-19 related compliance, taxation, labor laws or other subjects. 
+
+There is a trend toward regulations requiring companies to provide consumers with greater information regarding, and greater control over, how their personal data is used and shared, as well as requiring notification when unauthorized access to such data occurs.
+
+These privacy and data protection laws and regulations, which in some cases can be enforced by private parties in addition to government entities, are constantly evolving and can be subject to significant change. As a result, the application, interpretation, and enforcement of these laws and regulations are often uncertain, and may be applied, interpreted and enforced differently in different jurisdictions, and may be inconsistent with our current policies and practices.
+
+Changes in and compliance with these laws and regulations may limit our access to, use and disclosure of data; may require increased expenditures by us; and may adversely affect or restrict the scope, nature and types of services we can offer. The European Union’s General Data Protection Regulation (“GDPR”), took effect in May 2018, and imposed new and more stringent requirements regarding the handling of personal data of persons in the EU. Failure to meet the GDPR requirements could result in penalties of up to 4% of worldwide revenue. Many jurisdictions considering new data protection laws are looking to GDPR as a starting point. Additionally, the California Consumer Privacy Act of 2018 (“CCPA”) took effect on January 1, 2020, and imposed new and more stringent requirements regarding the handling of personal data of persons in California. Because Nielsen does not typically segregate products and services on a state-by-state basis, Nielsen must generally adopt the requirements of CCPA across its U.S. business operations. Failure to meet CCPA requirements could result in penalties of up to $7,500 per violation. CCPA also provides individuals with a limited private right of action in the case of certain breaches of personal data. The proposed EU “ePrivacy” Regulation, if adopted, is expected to have potentially significant impacts for the online/mobile advertising industry as a whole. Nielsen is continuing to monitor the development of the ePrivacy Regulation and industry response and will determine whether to take further action, as needed, following its final adoption. Nielsen is participating in an industry-wide transparency and consent framework mechanism that facilitates users providing and companies passing consent to the advertising supply chain to address GDPR and ePrivacy notice and consent requirements.
+
+16
+
+ 
+
+For additional information about government regulation applicable to our business, see Part I, Item 1A, "Risk Factors- Risks Related to Cybersecurity and Privacy” and “-Risks Relating to Governmental or Regulatory Change" in this Annual Report on Form 10-K.
+
+Global Responsibility and Sustainability
+
+Through responsible, sustainable business practices and our commitment to giving back, we care for the communities and markets where we live and operate our business. Our Global Responsibility and Sustainability strategy includes all environmental, social and governance (ESG) issues that affect our business, operations, supply chain, and all internal and external stakeholders.
+
+The Board of Directors’ Nomination and Corporate Governance Committee oversees these issues. In addition to our Global Responsibility and Sustainability team, we also manage relevant risks and opportunities through various internal engagement channels, including Global Citizenship and Sustainability Council, our Human Resources Sustainability Council and our Technology and Operations Sustainability Council. As part of our commitment to ongoing stakeholder engagement, Nielsen conducts a non-financial materiality assessment once every two years. This process is a critical part of our ESG strategy management to identify the ESG issues that are most critical to our stakeholders and business, as well as understand their impact on our economic, environmental and social value.
+
+ 
+
+Human Capital Management
+
+ 
+
+Our key human capital management objectives are to promote the health, wellness, and safety of our employees while building an inclusive and engaging culture where all of our employees have an equal opportunity to reach their full potential. We continue to develop plans and programs that are designed to attract, develop, and retain our workforce, facilitate internal talent mobility; create engaged teams, reward and support employees through compliant and market-competitive pay and benefit programs, foster inclusion, respect, and belonging for all employees in a diverse workforce, ensure compliance and integrity with the highest standards; and foster positive employee relations.
+
+ 
+
+Employees and Labor Relations
+
+ 
+
+As of December 31, 2020, we employed approximately 43,000 people worldwide with approximately14,000 people in our Media business and 29,000 people in the Connect business.
+
+ 
+
+In the Media business, approximately 4% of our employees are covered under collective bargaining agreements. Approximately 7% are covered under works council agreements in Europe.
+
+ 
+
+In the Connect business, approximately 19% of our employees are covered under collective bargaining agreements. Approximately 12% are covered under works council agreements in Europe.
+
+ 
+
+We consider employee relations to be an on-going area of importance and discussion in order to ensure we are headed in the right direction and we actively invest in it.
+
+ 
+
+Health and Safety
+
+ 
+
+We maintain a commitment to health and wellbeing. Nielsen’s benefit offerings are designed to meet the varied and evolving needs of a diverse workforce across businesses and geographies. We have enhanced the ways we help our employees care for themselves and their families, especially in response to COVID-19. Our Whole You health and wellbeing program focuses not just on physical health, but also on the emotional, financial, social and environmental well-being of our associates. The Whole You online interactive platform provides associates with self-assessments, tools, resources and guides to holistic wellness in areas such as nutrition, exercise, stress management and work-life balance.
+
+ 
+
+We employ several strategies intended to address issues arising during the COVID – 19 pandemic, including  COVID-19 safety protocols for all employees, remote working arrangements where possible, company-provided personal protective equipment (PPE) and training, facilities management policies, workplace safety committees, supplemental paid sick leave (US) and ongoing health benefits reviews. In addition, Nielsen offers employee emergency financial support through the Nielsen Global Support Fund, associates can donate to fellow associates in need and apply for grants in times of personal hardship or natural disaster.
+
+ 
+
+We have a significant population of field associates who recruit and maintain relationships with our research panelists, visit retail stores for inventory tracking and/or service Nielsen equipment. These associates are critical to our success as a company, and we
+
+17
+
+ 
+
+strive to ensure that they stay safe on the job. Nielsen has developed safety guidelines and protocols for field associates who feel unsafe or otherwise uncomfortable during their day-to-day work, for any reason. The most common health and safety issues they face are slip-and-fall injuries and traffic accidents. We track all relevant incidents to determine causes and trends, and then develop preventative steps to minimize those occurrences through adoption of additional safety measures and training.  During the COVID-19 pandemic, Nielsen made adjustments to its data collection procedures where possible without compromising the integrity of our data to reduce the number of in-person interactions. Where in-person interactions are still required, Nielsen provided company issued personal protective equipment (PPE), extensive training, and detailed safety guidelines to these field-based employees. Protocols were developed and implemented in consultation with professional medical advisors.  
+
+ 
+
+Diversity, Equity and Inclusion
+
+ 
+
+Nielsen’s business is built on understanding the diversity of individuals and embraces diversity within its own organization. We value our employees’ individual and collective capabilities. We employ, train, promote and compensate individuals based on job-related qualifications and abilities, without regard to, for example, race, color, religion, national origin, gender, sexual orientation, age, marital status or physical or mental disability. We have a strong commitment to maintaining a bias-free environment where discrimination, harassment, retaliation and unfair treatment are not tolerated. In 2020, our Chief Executive Officer also held the role of Chief Diversity Officer.
+
+ 
+
+In 2020, Nielsen focused on driving impact by increasing diverse representation among associates, enacting global diverse slates, hiring from diverse talent pools and expanding its inclusive hiring practices. We have also had bolder and more candid conversations about issues that are important in building a more inclusive culture. Nielsen’s global non-discrimination policy covers every market in which we do business. Nielsen is committed to reflecting the diversity of the clients, communities and markets we measure within our own workforce.
+
+ 
+
+Talent Development and Employee Engagement
+
+  
+
+We work to integrate associates into the company from day one by helping new hires understand our culture, be clear on their roles and feel connected to their new team and to the broader Nielsen community. Our talent development strategy seeks to engage and develop associates to support their personal and professional development and drive better business outcomes for Nielsen. We believe that managing one’s career development and growth should be an ongoing collaboration between each associate, their manager and the broader Nielsen community. We are committed to ensuring that our people feel valued and know their work matters, and to empowering them to learn, grow, make a difference and reach their full potential. We also offer mentoring programs that provide valuable learning, development and networking experiences, matching associates with mentors who can support their personal and professional development objectives. We enable these mentoring relationships both within and beyond an associate’s business unit, country or region through our global myMentor program.
+
+ 
+
+Our policy is to maintain well-developed communications and consultation programs with all employees and employee representative bodies, including via email communication or regular updates of our employee website and internal social media channels. We also inform and consult with recognized unions and works councils as appropriate.  We continually seek feedback from our employees through Leadership Townhalls, pulse surveys, and an annual engagement survey conducted through a third-party provider.
+
+ 
+
+Compensation and Benefits
+
+ 
+
+Nielsen is committed to providing appropriate, competitive and equitable pay and benefits for all associates, commensurate with the work being performed and in accordance with applicable laws and regulations. Our associates are rewarded and promoted based on performance against priorities and how they live the Nielsen values.  Our pay philosophy is to provide a total compensation package that is market-competitive based on data provided by independent third parties and that also provides an opportunity for pay growth and role progression based on individual contribution and company performance. We regularly review our compensation practices to ensure they are equitable and support our pay-for-performance philosophy and culture of diversity and inclusion.
+
+ 
+
+Available Information
+
+We file our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, proxy and information statements and any amendments to these reports and statements with the Securities and Exchange Commission (“SEC”). The SEC maintains a website that contains reports, proxy and information statements and other information at http://www.sec.gov. Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and any amendments to these reports are made available free of charge on our website at http://www.nielsen.com as soon as reasonably practicable after we
+
+18
+
+ 
+
+electronically file such reports with, or furnish them to, the SEC. Information on our website is not incorporated by reference herein and is not a part of this report.
+
+From time to time, Nielsen may use its website and social media outlets as channels of distribution of material company information.  Financial and other material information regarding the company is routinely posted and accessible on our website at http://www.nielsen.com/investors.

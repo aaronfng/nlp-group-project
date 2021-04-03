@@ -1,0 +1,642 @@
+Merck & Co., Inc. (Merck or the Company) is a global health care company that delivers innovative health solutions through its prescription medicines, vaccines, biologic therapies and animal health products. The Company’s operations are principally managed on a products basis and include two operating segments, which are the Pharmaceutical and Animal Health segments, both of which are reportable segments.
+The Pharmaceutical segment includes human health pharmaceutical and vaccine products. Human health pharmaceutical products consist of therapeutic and preventive agents, generally sold by prescription, for the treatment of human disorders. The Company sells these human health pharmaceutical products primarily to drug wholesalers and retailers, hospitals, government agencies and managed health care providers such as health maintenance organizations, pharmacy benefit managers and other institutions. Human health vaccine products consist of preventive pediatric, adolescent and adult vaccines, primarily administered at physician offices. The Company sells these human health vaccines primarily to physicians, wholesalers, physician distributors and government entities.
+The Animal Health segment discovers, develops, manufactures and markets a wide range of veterinary pharmaceutical and vaccine products, as well as health management solutions and services, for the prevention, treatment and control of disease in all major livestock and companion animal species. The Company also offers an extensive suite of digitally connected identification, traceability and monitoring products. The Company sells its products to veterinarians, distributors and animal producers.
+The Company previously had a Healthcare Services segment that provided services and solutions focused on engagement, health analytics and clinical services to improve the value of care delivered to patients. The Company divested the remaining businesses in this segment in the first quarter of 2020.
+The Company previously had an Alliances segment that primarily included activity from the Company’s relationship with AstraZeneca LP related to sales of Nexium and Prilosec, which concluded in 2018.
+All product or service marks appearing in type form different from that of the surrounding text are trademarks or service marks owned, licensed to, promoted or distributed by Merck, its subsidiaries or affiliates, except as noted. All other trademarks or services marks are those of their respective owners.
+Planned Spin-Off of Women’s Health, Biosimilars and Established Brands into a New Company    
+In February 2020, Merck announced its intention to spin-off (the Spin-Off) products from its women’s health, biosimilars and established brands businesses into a new, independent, publicly traded company named Organon & Co. (Organon) through a distribution of Organon’s publicly traded stock to Company shareholders. The distribution is expected to qualify as tax-free to the Company and its shareholders for U.S. federal income tax purposes. The established brands included in the transaction consist of dermatology, non-opioid pain management, respiratory, and select cardiovascular products including Zetia (ezetimibe) and Vytorin (ezetimibe/simvastatin), as well as the rest of Merck’s diversified brands franchise. Merck’s existing research pipeline programs will continue to be owned and developed within Merck as planned. Organon will have development capabilities initially focused on late-stage development and life-cycle management, and is expected over time to develop research capabilities in selected therapeutic areas. The Spin-Off is expected to be completed late in the second quarter of 2021, subject to market and certain other conditions. See “Risk Factors - Risks Related to the Proposed Spin-Off of Organon.”
+
+1
+Table of Contents
+Product Sales
+Total Company sales, including sales of the Company’s top pharmaceutical products, as well as sales of animal health products, were as follows:
+																	
+($ in millions)	2020		2019		2018
+Total Sales	$	47,994 			$	46,840 			$	42,294 	
+Pharmaceutical	43,021 			41,751 			37,689 	
+Keytruda	14,380 			11,084 			7,171 	
+Januvia/Janumet	5,276 			5,524 			5,914 	
+Gardasil/Gardasil 9
+	3,938 			3,737 			3,151 	
+ProQuad/M-M-R II/Varivax
+	1,878 			2,275 			1,798 	
+Bridion	1,198 			1,131 			917 	
+Pneumovax 23
+	1,087 			926 			907 	
+Isentress/Isentress HD	857 			975 			1,140 	
+Simponi	838 			830 			893 	
+RotaTeq	797 			791 			728 	
+Alliance revenue - Lynparza(1)
+	725 			444 			187 	
+Implanon/Nexplanon	680 			787 			703 	
+Zetia/Vytorin	664 			874 			1,355 	
+Alliance revenue - Lenvima(1)
+	580 			404 			149 	
+Animal Health	4,703 			4,393 			4,212 	
+Livestock	2,939 			2,784 			2,630 	
+Companion Animals	1,764 			1,609 			1,582 	
+Other Revenues(2)
+	270 			696 			393 	
+(1) Alliance revenue represents Merck’s share of profits, which are product sales net of cost of sales and commercialization costs.
+(2)Other revenues are primarily comprised of third-party manufacturing sales and miscellaneous corporate revenues, including revenue hedging activities.
+Pharmaceutical
+The Pharmaceutical segment includes human health pharmaceutical and vaccine products. Human health pharmaceutical products consist of therapeutic and preventive agents, generally sold by prescription, for the treatment of human disorders. Human health vaccine products consist of preventive pediatric, adolescent and adult vaccines, primarily administered at physician offices. Certain of the products within the Company’s franchises are as follows:
+Oncology
+Keytruda (pembrolizumab), the Company’s anti-PD-1 (programmed death receptor-1) therapy, as monotherapy for the treatment of certain patients with cervical cancer, classical Hodgkin Lymphoma (cHL), cutaneous squamous cell carcinoma (cSCC), esophageal cancer, gastric or gastroesophageal junction adenocarcinoma, head and neck squamous cell carcinoma (HNSCC), hepatocellular carcinoma (HCC), non-small-cell lung cancer (NSCLC), small-cell lung cancer (SCLC), melanoma, Merkel cell carcinoma, microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) cancer, including MSI-H/dMMR colorectal cancer, primary mediastinal large B-cell lymphoma (PMBCL), tumor mutational burden-high (TMB-H) cancer, and urothelial carcinoma, including non-muscle invasive bladder cancer. Keytruda is also approved for the treatment of certain patients in combination with chemotherapy for metastatic squamous and non-squamous NSCLC, in combination with chemotherapy for HNSCC, in combination with chemotherapy for triple-negative breast cancer, in combination with axitinib for renal cell carcinoma, and in combination with lenvatinib for endometrial carcinoma; and Emend (aprepitant) for the prevention of certain chemotherapy-induced nausea and vomiting. In addition, the Company recognizes alliance revenue related to sales of Lynparza (olaparib), an oral poly (ADP-ribose) polymerase (PARP) inhibitor, for certain types of advanced ovarian, breast, pancreatic, and prostate cancers; and Lenvima (lenvatinib) for certain types of thyroid cancer, hepatocellular carcinoma, in combination with everolimus for certain patients with renal cell carcinoma, and in combination with Keytruda for certain patients with endometrial carcinoma.
+Vaccines
+Gardasil (Human Papillomavirus Quadrivalent [Types 6, 11, 16 and 18] Vaccine, Recombinant)/Gardasil 9 (Human Papillomavirus 9-valent Vaccine, Recombinant), vaccines to help prevent certain diseases
+2
+Table of Contents
+caused by certain types of human papillomavirus (HPV); ProQuad (Measles, Mumps, Rubella and Varicella Virus Vaccine Live), a pediatric combination vaccine to help protect against measles, mumps, rubella and varicella; M−M−R II (Measles, Mumps and Rubella Virus Vaccine Live), a vaccine to help prevent measles, mumps and rubella; Varivax (Varicella Virus Vaccine Live), a vaccine to help prevent chickenpox (varicella); Pneumovax 23 (pneumococcal vaccine polyvalent), a vaccine to help prevent pneumococcal disease; RotaTeq (Rotavirus Vaccine, Live Oral, Pentavalent), a vaccine to help protect against rotavirus gastroenteritis in infants and children; and Vaqta (hepatitis A vaccine, inactivated) indicated for the prevention of disease caused by hepatitis A virus in persons 12 months of age and older.
+Hospital Acute Care
+Bridion (sugammadex) Injection, a medication for the reversal of two types of neuromuscular blocking agents used during surgery; Noxafil (posaconazole), an antifungal agent for the prevention of certain invasive fungal infections; Prevymis (letermovir) for the prophylaxis of cytomegalovirus (CMV) reactivation and disease in adult CMV-seropositive recipients [R+] of an allogeneic hematopoietic stem cell transplant; Primaxin (imipenem and cilastatin) for injection, an antibiotic for the treatment of certain bacterial infections; Cancidas (caspofungin acetate) for injection, an anti-fungal agent for the treatment of certain fungal infections; Invanz (ertapenem) for injection, an antibiotic for the treatment of certain bacterial infections; Cubicin (daptomycin for injection), an antibiotic for the treatment of certain bacterial infections; and Zerbaxa (ceftolozane and tazobactam) for injection, a combination antibacterial and beta-lactamase inhibitor for the treatment of certain bacterial infections.
+Immunology
+Simponi (golimumab), a once-monthly subcutaneous treatment for certain inflammatory diseases; and Remicade (infliximab), a treatment for inflammatory diseases, both of which the Company markets in Europe, Russia and Turkey.
+Neuroscience
+Belsomra (suvorexant), an orexin receptor antagonist indicated for the treatment of insomnia, characterized by difficulties with sleep onset and/or sleep maintenance.
+Virology
+Isentress/Isentress HD (raltegravir), an HIV integrase inhibitor for use in combination with other antiretroviral agents for the treatment of HIV-1 infection; and Zepatier (elbasvir and grazoprevir) for the treatment of adult patients with chronic hepatitis C virus (HCV) genotype (GT) 1 or GT4 infection, with ribavirin in certain patient populations.
+Cardiovascular
+Zetia (ezetimibe) (marketed as Ezetrol in most countries outside the United States); Vytorin (ezetimibe/simvastatin) (marketed as Inegy outside the United States); Atozet (ezetimibe and atorvastatin) (marketed outside of the United States) and Rosuzet (ezetimibe and rosuvastatin) (marketed outside of the United States), cholesterol modifying medicines; and Adempas (riociguat), a cardiovascular drug for the treatment of pulmonary arterial hypertension.
+Diabetes
+Januvia (sitagliptin) and Janumet (sitagliptin/metformin HCl) for the treatment of type 2 diabetes.
+Women’s Health
+Implanon (etonogestrel implant), a single-rod subdermal contraceptive implant/Nexplanon (etonogestrel implant), a single, radiopaque, rod-shaped subdermal contraceptive implant; and NuvaRing (etonogestrel/ethinyl estradiol vaginal ring), a vaginal contraceptive product.
+Animal Health
+The Animal Health segment discovers, develops, manufactures and markets a wide range of veterinary pharmaceuticals, vaccines and health management solutions and services, as well as an extensive suite of digitally connected identification, traceability and monitoring products. Principal products in this segment include:
+Livestock Products
+Nuflor (Florfenicol) antibiotic range for use in cattle and swine; Bovilis/Vista vaccine lines for infectious diseases in cattle; Banamine (Flunixin meglumine) bovine and swine anti-inflammatory; Estrumate (cloprostenol sodium) for the treatment of fertility disorders in cattle; Matrix (altrenogest) fertility management for swine; Resflor (florfenicol and flunixin meglumine), a combination broad-spectrum antibiotic and non-steroidal anti-inflammatory
+3
+Table of Contents
+drug for bovine respiratory disease; Zuprevo (Tildipirosin) for bovine respiratory disease; Zilmax (zilpaterol hydrochloride) and Revalor (trenbolone acetate and estradiol) to improve production efficiencies in beef cattle; Safe-Guard (fenbendazole) de-wormer for cattle; M+Pac (Mycoplasma Hyopneumoniae Bacterin) swine pneumonia vaccine; Porcilis (Lawsonia intracellularis baterin) and Circumvent (Porcine Circovirus Vaccine, Type 2, Killed Baculovirus Vector) vaccine lines for infectious diseases in swine; Nobilis/Innovax (Live Marek’s Disease Vector), vaccine lines for poultry; Paracox and Coccivac coccidiosis vaccines; Exzolt, a systemic treatment for poultry red mite infestations; Slice (Emamectin benzoate) parasiticide for sea lice in salmon; Aquavac (Avirulent Live Culture)/Norvax vaccines against bacterial and viral disease in fish; Compact PD vaccine for salmon; Aquaflor (Florfenicol) antibiotic for farm-raised fish; and Allflex Livestock Intelligence solutions for animal identification, monitoring and traceability.
+Companion Animal Products
+Bravecto, a line of oral and topical parasitic control products, including the original Bravecto (fluralaner) products for dogs and cats that last up to 12 weeks; Bravecto (fluralaner) One-Month, a monthly product for dogs, and Bravecto Plus (fluralaner/moxidectin), a two-month product for cats; Sentinel, a line of oral parasitic products for dogs including Sentinel Spectrum (milbemycin oxime, lufenuron, and praziquantel) and Sentinel Flavor Tabs (milbemycin oxime, lufenuron); Optimmune (cyclosporine), an ophthalmic ointment; Nobivac vaccine lines for flexible dog and cat vaccination; Otomax (Gentamicin sulfate, USP; Betamethasone valerate USP; and Clotrimazole USP ointment)/Mometamax (Gentamicin sulfate, USP, Mometasone Furoate Monohydrate and Clotrimazole, USP, Otic Suspension)/Posatex (Orbifloxacin, Mometasone Furoate Monohydrate and Posaconazole, Suspension) ear ointments for acute and chronic otitis; Caninsulin/Vetsulin (porcine insulin zinc suspension) diabetes mellitus treatment for dogs and cats; Panacur (fenbendazole)/Safeguard (fenbendazole) broad-spectrum anthelmintic (de-wormer) for use in many animals; Regumate (altrenogest) fertility management for horses; Prestige vaccine line for horses; Scalibor (Deltamethrin)/Exspot for protecting against bites from fleas, ticks, mosquitoes and sandflies; and Sure Petcare products for companion animal identification and well-being, including the microchip and pet recovery system Home Again.
+For a further discussion of sales of the Company’s products, see Item 7. “Management’s Discussion and Analysis of Financial Condition and Results of Operations” below.
+2020 Product Approvals
+Set forth below is a summary of significant product approvals received by the Company in 2020.
+								
+Product
+	
+Date
+	
+Approval
+Dificid (1)
+	January 2020	
+U.S. Food and Drug Administration (FDA) approved Dificid as an oral suspension, and Dificid tablets for the treatment of Clostridioides (formerly Clostridium) difficile-associated diarrhea in children aged six months and older.
+Gardasil	November 2020	
+China’s National Medical Products Administration (NMPA) granted expanded approval for Gardasil for use in girls and women from 9 to 45 years of age.
+Gardasil 9
+	December 2020	
+Japan’s Ministry of Health, Labour and Welfare (MHLW) approved additional indication, dosage and administrations of Gardasil 9 (marketed as Silgard 9) for the prevention of anal cancer (squamous cell cancer) and precursor lesions (anal intraepithelial neoplasia (AIN) grade 1/2/3) caused by HPV types 6, 11, 16 and 18 for individuals 9 years and older and for Genital Warts (condyloma acuminate) for men 9 years and older.
+July 2020	
+Japan’s Pharmaceuticals and Medical Devices Agency (PMDA) approved Gardasil 9 for use in girls and women 9 years and older for the prevention of cervical cancer, certain cervical, vaginal and vulvar precancers, and genital warts caused by the HPV types covered by the vaccine.
+June 2020	
+FDA granted accelerated approval for an expanded indication for Gardasil 9 for the prevention of oropharyngeal and other head and neck cancers caused by HPV Types 16, 18, 31, 33, 45, 52, and 58.
+4
+Table of Contents
+								
+Keytruda
+	December 2020	
+NMPA approved Keytruda as monotherapy for the first-line treatment of patients with metastatic or with unresectable, recurrent HNSCC whose tumors express PD-L1 (Combined Positive Score CPS ≥20) as determined by a fully validated test.
+November 2020
+	
+FDA granted accelerated approval for Keytruda in combination with chemotherapy for patients with locally recurrent unresectable or metastatic triple‑negative breast cancer whose tumors express PD-L1 (CPS ≥10).
+October 2020	
+FDA approved an expanded label for Keytruda, as monotherapy for the treatment of adult patients with relapsed or refractory cHL.
+August 2020
+	
+PMDA approved Keytruda for use at an additional recommended dosage of 400 mg every six weeks (Q6W) administered as an intravenous infusion over 30 minutes across all adult indications, including Keytruda monotherapy and combination therapy.
+
+August 2020
+	
+PMDA approved Keytruda for the treatment of patients whose tumors are PD-L1-positive, and have radically unresectable, advanced or recurrent esophageal squamous cell carcinoma (ESCC) who have progressed after chemotherapy.
+
+June 2020
+	
+FDA approved Keytruda as monotherapy for the first-line treatment of patients with unresectable or metastatic MSI-H or dMMR colorectal cancer.
+June 2020
+	
+FDA approved Keytruda as monotherapy for the treatment of patients with recurrent or metastatic cSCC that is not curable by surgery or radiation.
+June 2020
+	
+NMPA approved Keytruda as monotherapy for the treatment of patients with locally advanced or metastatic ESCC whose tumors express PD-L1 (CPS ≥10) as determined by a fully validated test, following failure of one prior line of systemic therapy.
+June 2020
+	
+FDA granted accelerated approval for Keytruda as monotherapy for the treatment of adult and pediatric patients with unresectable or metastatic TMB-H [≥10 mutations/megabase (mut/Mb)] solid tumors, as determined by an FDA-approved test, that have progressed following prior treatment and who have no satisfactory alternative treatment options.
+April 2020
+	
+FDA granted accelerated approval for Keytruda for use at an additional recommended dose of 400 mg every six weeks (Q6W) for all approved adult indications.
+January 2020	
+FDA approved Keytruda for patients with Bacillus Calmette-Guerin (BCG)-unresponsive, high-risk, non-muscle invasive bladder cancer with carcinoma in situ with or without papillary tumors who are ineligible for or have elected not to undergo cystectomy.
+
+Koselugo(2)
+	April 2020	
+FDA approved the kinase inhibitor Koselugo for the treatment of pediatric patients two years of age and older with neurofibromatosis type 1 (NF1) who have symptomatic, inoperable plexiform neurofibromas (PN).
+Lenvima	November 2020	NMPA approved Lenvima as a monotherapy for the treatment of differentiated thyroid cancer.
+5
+Table of Contents
+								
+Lynparza(2)
+	December 2020	
+PMDA approved Lynparza for the treatment of patients with BRCA gene-mutated (BRCAm) castration-resistant prostate cancer with distant metastasis.
+December 2020	
+PMDA approved Lynparza as maintenance treatment after platinum-based chemotherapy for patients with BRCAm curatively unresectable pancreas cancer.
+December 2020	
+PMDA approved Lynparza as maintenance treatment after first-line chemotherapy containing bevacizumab (genetical recombination) in patients with homologous recombination repair deficient (HRD) ovarian cancer.
+November 2020	
+The European Commission (EC) approved Lynparza for the maintenance treatment of adult patients with advanced (FIGO stages III and IV) high-grade epithelial ovarian, fallopian tube or primary peritoneal cancer who are in response (complete or partial) following completion of first-line platinum-based chemotherapy in combination with bevacizumab and whose cancer is associated with HRD-positive status defined by either a breast cancer susceptibility gene 1/2 (BRCA1/2) mutation and/or genomic instability.
+November 2020	EC approved Lynparza as monotherapy for the treatment of adult patients with metastatic castration-resistant prostate cancer (mCRPC) and BRCA1/2 mutations (germline and/or somatic) who have progressed following a prior therapy that included a new hormonal agent.
+July 2020
+	
+EC approved Lynparza as a monotherapy for the maintenance treatment of adult patients with germline BRCA1/2 mutations who have metastatic adenocarcinoma of the pancreas and have not progressed after a minimum of 16 weeks of platinum treatment within a first-line chemotherapy regimen.
+May 2020	
+FDA approved Lynparza for the treatment of adult patients with deleterious or suspected deleterious germline or somatic homologous recombination repair (HRR) gene-mutated mCRPC, as determined by an FDA-approved test, who have progressed following prior treatment with enzalutamide or abiraterone.
+May 2020
+	
+FDA approved Lynparza in combination with bevacizumab as a first-line maintenance treatment of adult patients with advanced epithelial ovarian, fallopian tube or primary peritoneal cancer who are in complete or partial response to first-line platinum-based chemotherapy and whose cancer is associated with HRD positive status defined by either a deleterious or suspected deleterious BRCA mutation, and/or genomic instability, as determined by an FDA-approved test.
+Recarbrio
+	June 2020
+	
+FDA approved Recarbrio for the treatment of patients 18 years of age and older with hospital-acquired bacterial pneumonia and ventilator-associated bacterial pneumonia (HABP/VABP).
+Steglatro(3)
+	July 2020	
+NMPA approved Steglatro 5 mg tablets for the treatment of type 2 diabetes.
+(1) Dificid in the U.S. and Canada is a trademark of Cubist Pharmaceuticals LLC, an indirect wholly-owned subsidiary of Merck Sharp & Dohme Corp.
+(2) In July 2017, Merck and AstraZeneca entered into a global strategic oncology collaboration to co-develop and co-commercialize AstraZeneca’s Lynparza and Koselugo.
+(3) Being commercialized and promoted in a worldwide, except Japan, collaboration with Pfizer Inc.
+
+6
+Table of Contents
+Competition and the Health Care Environment
+Competition
+The markets in which the Company conducts its business and the pharmaceutical industry in general are highly competitive and highly regulated. The Company’s competitors include other worldwide research-based pharmaceutical companies, smaller research companies with more limited therapeutic focus, generic drug manufacturers, and animal health care companies. The Company’s operations may be adversely affected by generic and biosimilar competition as the Company’s products mature, as well as technological advances of competitors, industry consolidation, patents granted to competitors, competitive combination products, new products of competitors, the generic availability of competitors’ branded products, and new information from clinical trials of marketed products or post-marketing surveillance. In addition, patent rights are increasingly being challenged by competitors, and the outcome can be highly uncertain. An adverse result in a patent dispute can preclude commercialization of products or negatively affect sales of existing products and could result in the payment of royalties or in the recognition of an impairment charge with respect to intangible assets associated with certain products.
+Pharmaceutical competition involves a rigorous search for technological innovations and the ability to market these innovations effectively. With its long-standing emphasis on research and development, the Company is well-positioned to compete in the search for technological innovations. The Company is active in acquiring and marketing products through external alliances, such as licensing arrangements and collaborations and has been refining its sales and marketing efforts to address changing industry conditions. However, the introduction of new products and processes by competitors may result in price reductions and product displacements, even for products protected by patents. For example, the number of compounds available to treat a particular disease typically increases over time and can result in slowed sales growth or reduced sales for the Company’s products in that therapeutic category.
+The highly competitive animal health business is affected by several factors including regulatory and legislative issues, scientific and technological advances, product innovation, the quality and price of the Company’s products as well as competitors’ products, effective promotional efforts and the frequent introduction of generic products by competitors.
+Health Care Environment and Government Regulation
+Global efforts toward health care cost containment continue to exert pressure on product pricing and market access.
+United States
+In the United States, federal and state governments for many years have pursued methods to reduce the cost of drugs and vaccines for which they pay. For example, federal and state laws require the Company to pay specified rebates for medicines reimbursed by Medicaid and to provide discounts for medicines purchased by certain state and federal entities such as the Department of Defense, Veterans Affairs, Public Health Service entities and hospitals serving a disproportionate share of low income or uninsured patients.
+Health Care Programs
+The United States enacted major health care reform legislation in 2010 (the ACA). Various insurance market reforms have since advanced and state and federal insurance exchanges were launched in 2014. With respect to the effect of the law on the pharmaceutical industry, the law increased the mandated Medicaid rebate from 15.1% to 23.1%, expanded the rebate to Medicaid managed care utilization, and increased the types of entities eligible for the federal 340B drug discount program. The law also requires pharmaceutical manufacturers to pay 70% of the cost of the medicine, including biosimilar products, when Medicare Part D beneficiaries are in the Medicare Part D coverage gap (i.e., the so-called “donut hole”), which increased from 50% beginning in 2019 as a result of the Balanced Budget Act of 2018. Merck recorded approximately $700 million, $615 million and $365 million as a reduction to revenue in 2020, 2019, and 2018, respectively, related to the donut hole provision. Also, pharmaceutical manufacturers are required to pay an annual non-tax deductible health care reform fee. The total annual industry fee has been set at $2.8 billion. The fee is assessed on each company in proportion to its share of prior year branded pharmaceutical sales to certain government programs, such as Medicare and Medicaid. The Company recorded approximately $85 million, $112 million, and $124 million of costs within Selling, general and administrative
+7
+Table of Contents
+expenses in 2020, 2019 and 2018, respectively, for the annual health care reform fee. In February 2016, the Centers for Medicare & Medicaid Services (CMS) issued the Medicaid rebate final rule that implemented provisions of the ACA effective April 1, 2016. The rule provides comprehensive guidance on the calculation of Average Manufacturer Price and Best Price; two metrics utilized to determine the rebates drug manufacturers are required to pay to state Medicaid programs. More recently, although CMS previously declined to define what constitutes a product “line extension” (beyond the statutory definition), CMS issued a new rule on December 21, 2020 that will significantly expand the definition of the term “line extension” as of January 1, 2022 to include a broad range of products, including products reflecting new strengths, dosage forms, release mechanisms, and routes of administration. This expanded definition will increase the number of drugs subject to a higher Medicaid rebate. Effective January 1, 2023, this final rule also changes the way that manufacturers must calculate Best Price, in relation to certain patient support programs, including coupons, which also may result in an increase in the Company’s Medicaid rebates. The impact of these and other provisions in this final rule could adversely impact the Company’s business, cash flow, results of operations, financial condition and prospects.
+The Patient Protection and Affordable Care Act
+There is significant uncertainty about the future of the ACA in particular and health care laws in general in the United States. In December 2018, a Texas federal district court struck down the ACA on the grounds that the individual health insurance mandate is unconstitutional. The United States Supreme Court heard arguments in this case on November 10, 2020.
+The Company is participating in the health care debate and monitoring how any proposed changes could affect its business. The Company is unable to predict the likelihood of changes to the ACA. Depending on the nature of any changes to the ACA, such actions could have a material adverse effect on the Company’s business, cash flow, results of operations, financial condition and prospects.
+Other Legislative Changes
+In addition, other legislative changes have been proposed and adopted in the United States since the ACA was enacted. A number of states have passed pharmaceutical price and cost transparency laws. These laws typically require manufacturers to report certain product price information or other financial data to the state. Some laws also require manufacturers to provide advance notification of price increases. The Company expects that states will continue their focus on pharmaceutical price transparency and that this focus will continue to exert pressure on product pricing.
+Drug Pricing
+The Company also faces increasing pricing pressure globally from managed care organizations, government agencies and programs that could negatively affect the Company’s sales and profit margins, including, in the United States (i) practices of managed care organizations, federal and state exchanges, and institutional and governmental purchasers, and (ii) federal laws and regulations related to Medicare and Medicaid, including the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 and the ACA.
+In November 2020, the Department of Health and Human Services Office of Inspector General (OIG) issued a Final Rule that would, effective January 1, 2023, eliminate the Anti-Kickback Statute safe harbor for rebates paid to Medicare Part D plans or to pharmacy benefit managers (PBMs) on behalf of such plans. While the Company cannot anticipate the effects of this change to the way it currently contracts, this new framework could significantly alter the way it does business with Part D Plan Sponsors and PBMs on behalf of such plans. This rulemaking also established, effective January 1, 2021, a new safe harbor for point of sale discounts at the pharmacy counter and a new safe harbor for certain services arrangements between pharmaceutical manufacturers and PBMs.
+CMS also recently issued an Interim Final Rule (the MFN Rule) that alters how physicians will be reimbursed under the Medicare program for physician administered drugs. Pursuant to the MFN Rule, which was intended to be effective January 1, 2021, rather than use the current Average Sales Price (ASP)-based payment framework for certain physician-administered drugs, the MFN Rule would institute a new pricing system for certain prescription drugs and biologic products covered by Medicare Part B in which Medicare would reimburse no more than the “most favored nation price,” meaning the lowest price after adjusting for volume and differences in gross domestic product, for the top 50 Part B reimbursed products, which includes Keytruda, sold in 22 member countries of the Organisation for Economic Co-operation and Development (OECD). Several organizations, including two
+8
+Table of Contents
+trade groups of which Merck is a member, have filed suit challenging this regulation. Those lawsuits remain pending with a preliminary injunction having been entered in one of the cases. At this time, the Company cannot predict with any certainty if or when the MFN Rule will go into effect. Implementation of the MFN Rule could have a material adverse effect on the Company’s business, cash flow, results of operations, financial condition and prospects.
+The FDA also recently issued rulemaking allowing the commercial importation of certain prescription drugs from Canada through FDA-authorized, time-limited programs sponsored by states or Native American tribes recognized under the rule, and, in certain future circumstances, pharmacists and wholesalers. The FDA also recently released final guidance for industry detailing procedures for drug manufacturers to import FDA-approved prescription drug, biological, and combination products that were manufactured abroad and authorized and intended for sale in a foreign country. A trade organization, in which Merck is a member, brought suit, which remains pending in federal district court, challenging the commercial importation rule. These proposed changes could have a material adverse effect on the Company’s business, cash flow, results of operations, financial condition and prospects.
+Changes to the health care system enacted as part of health care reform in the United States, as well as increased purchasing power of entities that negotiate on behalf of Medicare, Medicaid, and private sector beneficiaries, could result in further pricing pressures. As an example, health care reform has contributed to an increase in the number of patients in the Medicaid program under which sales of pharmaceutical products are subject to substantial rebates.
+The pharmaceutical industry also could be considered a potential source of savings via other legislative and administrative proposals that have been debated but not enacted. These types of revenue generating or cost saving proposals include additional direct price controls.
+There was active consideration of drug-pricing related legislation in the last Congress, and it remains very uncertain as to what proposals, if any, may be included as part of future federal legislative proposals that would directly or indirectly affect the Company.
+In the U.S. private sector, consolidation and integration among health care providers is a major factor in the competitive marketplace for pharmaceutical products. Health plans and PBMs have been consolidating into fewer, larger entities, thus enhancing their purchasing strength and importance. Private third-party insurers, as well as governments, employ formularies to control costs by negotiating discounted prices in exchange for formulary inclusion. Failure to obtain timely or adequate pricing or formulary placement for Merck’s products or obtaining such placement at unfavorable pricing could adversely affect revenue. In addition to formulary tier co-pay differentials, private health insurance companies and self-insured employers have been raising co-payments required from beneficiaries, particularly for branded pharmaceuticals and biotechnology products. Private health insurance companies also are increasingly imposing utilization management tools, such as clinical protocols, requiring prior authorization for a branded product if a generic product is available or requiring the patient to first fail on one or more generic products before permitting access to a branded medicine. These same management tools are also used in treatment areas in which the payor has taken the position that multiple branded products are therapeutically comparable. As the U.S. payor market concentrates further and as more drugs become available in generic form, pharmaceutical companies may face greater pricing pressure from private third-party payors.
+In order to provide information about the Company’s pricing practices, the Company annually posts on its website its Pricing Transparency Report for the United States. The report provides the Company’s average annual list price, net price increases, and average discounts across the Company’s U.S. portfolio dating back to 2010. In 2020, the Company’s gross U.S. sales were reduced by 45.5% as a result of rebates, discounts and returns. 
+European Union
+Efforts toward health care cost containment remain intense in the European Union (EU). The Company faces competitive pricing pressure resulting from generic and biosimilar drugs. In addition, a majority of countries in the EU attempt to contain drug costs by engaging in reference pricing in which authorities examine pre-determined markets for published prices of drugs. Reference pricing may either compare a product’s prices in other markets (external reference pricing), or compare a product’s price with those of other products in a national class (internal reference pricing). The authorities then use the price data to set new local prices for brand-name drugs, including the Company’s drugs. Guidelines for examining reference pricing are usually set in local markets and can be changed
+9
+Table of Contents
+pursuant to local regulations. Some EU Member States have established free-pricing systems, but regulate the pricing for drugs through profit control plans. Others seek to negotiate or set prices based on the cost-effectiveness of a product or an assessment of whether it offers a therapeutic benefit over other products in the relevant class. The downward pressure on health care costs in general, particularly prescription drugs, has become intense. As a result, increasingly high barriers are being erected to the entry of new products. In some EU Member States, cross-border imports from low-priced markets also exert competitive pressure that may reduce pricing within an EU Member State.
+Additionally, EU Member States have the power to restrict the range of pharmaceutical products for which their national health insurance systems provide reimbursement. In the EU, pricing and reimbursement plans vary widely from Member State to Member State. Some EU Member States provide that drug products may be marketed only after a reimbursement price has been agreed. Some EU Member States may require the completion of additional studies that compare the cost-effectiveness of a particular product candidate to already available therapies or so-called health technology assessments (HTA), in order to obtain reimbursement or pricing approval. The HTA of pharmaceutical products is becoming an increasingly common part of the pricing and reimbursement procedures in most EU Member States. The HTA process, which is governed by the national laws of these countries, involves the assessment of the cost-effectiveness, public health impact, therapeutic impact and/or the economic and social impact of use of a given pharmaceutical product in the national health care system of the individual country is conducted. Ultimately, HTA measures the added value of a new health technology compared to existing ones. The outcome of HTAs regarding specific pharmaceutical products will often influence the pricing and reimbursement status granted to these pharmaceutical products by the regulatory authorities of individual EU Member States. A negative HTA of one of the Company’s products may mean that the product is not reimbursable or may force the Company to reduce its reimbursement price or offer discounts or rebates.
+A negative HTA by a leading and recognized HTA body could also undermine the Company’s ability to obtain reimbursement for the relevant product outside a jurisdiction. For example, EU Member States that have not yet developed HTA mechanisms may rely to some extent on the HTA performed in other countries with a developed HTA framework, to inform their pricing and reimbursement decisions. HTA procedures require additional data, reviews and administrative processes, all of which increase the complexity, timing and costs of obtaining product reimbursement and exert downward pressure on available reimbursement.
+To obtain reimbursement or pricing approval in some EU Member States, the Company may be required to conduct studies that compare the cost-effectiveness of the Company’s product candidates to other therapies that are considered the local standard of care. There can be no assurance that any EU Member State will allow favorable pricing, reimbursement and market access conditions for any of the Company’s products, or that it will be feasible to conduct additional cost-effectiveness studies, if required.
+Brexit
+In 2016, the United Kingdom (UK) held a referendum in which voters approved an exit from the EU, commonly referred to as “Brexit.” As a result of that referendum and subsequent negotiations, the UK left the EU on January 31, 2020. A transitional period applied from January 31, 2020 until December 31, 2020, and during this period the EU and UK operated as if the UK was an EU Member State, and the UK continued to participate in the EU Customs Union allowing for the freedom of movement for people and goods.
+It was announced on December 24, 2020, that the EU and the UK agreed to a Trade and Cooperation Agreement (TCA). The TCA sets out the new arrangements for trade of goods, including medicines and vaccines, which allows goods to continue to flow between the EU and the UK. On December 29, 2020, the Council of the EU adopted the decision to sign the TCA and for the TCA to be provisionally applied from January 1, 2021. The UK and EU signed the TCA on December 30, 2020. In order for the TCA to be ratified and formally come into effect, the Council of the EU must unanimously approve the TCA and the European Parliament must consent to it, which the Company believes will occur. As a result of the TCA, the Company believes that its operations will not be materially adversely affected by Brexit.
+
+10
+Table of Contents
+Japan
+In Japan, the pharmaceutical industry is subject to government-mandated biennial price reductions of pharmaceutical products and certain vaccines. Furthermore, the government can order re-pricings for specific products if it determines that use of such product will exceed certain thresholds defined under applicable re-pricing rules. The next government-mandated price reduction will occur in April 2021 and is expected to impact many Company products.
+China
+The Company’s business in China has grown rapidly in the past few years, and the importance of China to the Company’s overall pharmaceutical and vaccines business has increased accordingly. Continued growth of the Company’s business in China is dependent upon ongoing development of a favorable environment for innovative pharmaceutical products and vaccines, sustained access for the Company’s current in-line products, and the absence of trade impediments or adverse pricing controls. In recent years, the Chinese government has introduced and implemented a number of structural reforms to accelerate the shift to innovative products and reduce costs. Since 2017, there have been multiple new policies introduced by the government to improve access to new innovation, reduce the complexity of regulatory filings, and accelerate the review and approval process. This has led to a significant increase in the number of new products being approved each year. Additionally, in 2017, the Chinese government updated the National Reimbursement Drug List (NRDL) for the first time in eight years. While the mechanism for drugs being added to the list evolves, inclusion may require a price negotiation which could impact the outlook in the market for selected brands. In 2020, drugs were added to the NRDL through double-digit price reductions. While pricing pressure has always existed in China, health care reform has increased this pressure in part due to the acceleration of generic substitution through volume based procurement (VBP). In 2019, the government implemented the VBP program through a tendering process for mature products which have generic substitutes with a Generic Quality Consistency Evaluation approval. Mature products that have entered into the first three rounds of VBP have had, on average, a price reduction of 50%. The Company expects VBP to be a semi-annual process that will have a significant impact on mature products moving forward.
+Emerging Markets
+The Company’s focus on emerging markets, in addition to China, has continued. Governments in many emerging markets are also focused on constraining health care costs and have enacted price controls and measures impacting intellectual property, including in exceptional cases, threats of compulsory licenses, that aim to put pressure on the price of innovative pharmaceuticals or result in constrained market access to innovative medicine. The Company anticipates that pricing pressures and market access challenges will continue in the future to varying degrees in the emerging markets.
+Beyond pricing and market access challenges, other conditions in emerging market countries can affect the Company’s efforts to continue to grow in these markets, including potential political instability, changes in trade sanctions and embargoes, significant currency fluctuation and controls, financial crises, limited or changing availability of funding for health care, credit worthiness of health care partners, such as hospitals, due to COVID-19, and other developments that may adversely impact the business environment for the Company. Further, the Company may engage third-party agents to assist in operating in emerging market countries, which may affect its ability to realize continued growth and may also increase the Company’s risk exposure.
+In addressing cost containment pressures, the Company engages in public policy advocacy with policymakers and continues to work to demonstrate that its medicines provide value to patients and to those who pay for health care. The Company advocates with government policymakers to encourage a long-term approach to sustainable health care financing that ensures access to innovative medicines and does not disproportionately target pharmaceuticals as a source of budget savings. In markets with historically low rates of health care spending, the Company encourages those governments to increase their investments and adopt market reforms in order to improve their citizens’ access to appropriate health care, including medicines.
+Operating conditions have become more challenging under the global pressures of competition, industry regulation and cost containment efforts. Although no one can predict the effect of these and other factors on the Company’s business, the Company continually takes measures to evaluate, adapt and improve the organization and
+11
+Table of Contents
+its business practices to better meet customer needs and believes that it is well-positioned to respond to the evolving health care environment and market forces.
+Regulation
+The pharmaceutical industry is also subject to regulation by regional, country, state and local agencies around the world focused on standards and processes for determining drug safety and effectiveness, as well as conditions for sale or reimbursement.
+Of particular importance is the FDA in the United States, which administers requirements covering the testing, approval, safety, effectiveness, manufacturing, labeling, and marketing of prescription pharmaceuticals. In some cases, the FDA requirements and practices have increased the amount of time and resources necessary to develop new products and bring them to market in the United States. At the same time, the FDA has committed to expediting the development and review of products bearing the “breakthrough therapy” designation, which has accelerated the regulatory review process for medicines with this designation. The FDA has also undertaken efforts to bring generic competition to market more efficiently and in a more timely manner.
+The EU has adopted directives and other legislation concerning the classification, approval for marketing, labeling, advertising, manufacturing, wholesale distribution, integrity of the supply chain, pharmacovigilance and safety monitoring of medicinal products for human use. These provide mandatory standards throughout the EU, which may be supplemented or implemented with additional regulations by the EU member states. In particular, EU regulators may approve products subject to a number of post-authorization conditions. Examples of typical post-authorization commitments include additional pharmacovigilance, the conduct of clinical trials, the establishment of patient registries, physician or patient education and controlled distribution and prescribing arrangements. Non-compliance with post-authorization conditions, pharmacovigilance and other obligations can lead to regulatory action, including the variation, suspension or withdrawal of the marketing authorizations, or other enforcement or regulatory actions, including the imposition of financial penalties. The Company’s policies and procedures are already consistent with the substance of these directives; consequently, it is believed that they will not have any material effect on the Company’s business.
+The Company believes that it will continue to be able to conduct its operations, including launching new drugs, in this regulatory environment. (See “Research and Development” below for a discussion of the regulatory approval process.)
+Access to Medicines
+As a global health care company, Merck’s primary role is to discover and develop innovative medicines and vaccines. The Company also recognizes that it has an important role to play in helping to improve access to its medicines, vaccines, and to quality health care around the world. The Company’s efforts in this regard are wide-ranging and include a set of principles that the Company strives to embed into its operations and business strategies to guide the Company’s worldwide approach to expanding access to health care. In addition, through innovative social investments, including philanthropic programs and impact investing, Merck is also helping to strengthen health systems and build capacity, particularly in under-resourced communities. The Merck Patient Assistance Program provides medicines and adult vaccines for free to people in the United States who do not have prescription drug or health insurance coverage and who, without the Company’s assistance, cannot afford their Merck medicines and vaccines. Merck has funded “Merck for Mothers,” a long-term effort with global health partners to end preventable deaths from complications of pregnancy and childbirth. Merck has also provided funds to the Merck Foundation, an independent grantmaking organization, which has partnered with a variety of organizations dedicated to improving global health.
+Privacy and Data Protection
+The Company is subject to a significant number of privacy and data protection laws and regulations globally, many of which place restrictions on the Company’s ability to transfer, access and use personal data across its business. The legislative and regulatory landscape for privacy and data protection continues to evolve. There has been increased attention to privacy and data protection issues in both developed and emerging markets with the potential to affect directly the Company’s business, including the EU General Data Protection Regulation, (GDPR) which went into effect in May 2018 and imposes penalties of up to 4% of global revenue.
+12
+Table of Contents
+The GDPR and related implementing laws in individual EU Member States govern the collection and use of personal health data and other personal data in the EU. The GDPR increased responsibility and liability in relation to personal data that the Company processes. It also imposes a number of strict obligations and restrictions on the ability to process (which includes collection, analysis and transfer of) personal data, including health data from clinical trials and adverse event reporting. The GDPR also includes requirements relating to the consent of the individuals to whom the personal data relates, the information provided to the individuals prior to processing their personal data or personal health data, notification of data processing obligations to the national data protection authorities, and the security and confidentiality of the personal data. Further, the GDPR prohibits the transfer of personal data to countries outside of the EU that are not considered by the EC to provide an adequate level of data protection, including to the United States, except if the data controller meets very specific requirements. Following the Schrems II decision of the Court of Justice of the European Union on July 16, 2020, there is considerable uncertainty as to the permissibility of international data transfers under the GDPR. In light of the implications of this decision, the Company may face difficulties regarding the transfer of personal data from the EU to third countries.
+Failure to comply with the requirements of the GDPR and the related national data protection laws of the EU Member States may result in significant monetary fines and other administrative penalties as well as civil liability claims from individuals whose personal data was processed. Data protection authorities from the different EU Member States may still implement certain variations, enforce the GDPR and national data protection laws differently, and introduce additional national regulations and guidelines, which adds to the complexity of processing personal data in the EU. Guidance developed at both EU level and at the national level in individual EU Member States concerning implementation and compliance practices is often updated or otherwise revised.
+There is, moreover, a growing trend towards required public disclosure of clinical trial data in the EU which adds to the complexity of obligations relating to processing health data from clinical trials. Failing to comply with these obligations could lead to government enforcement actions and significant penalties against the Company, harm to its reputation, and adversely impact its business and operating results. The uncertainty regarding the interplay between different regulatory frameworks further adds to the complexity that the Company faces with regard to data protection regulation.
+Additional laws and regulations enacted in the United States (such as the California Consumer Privacy Act), Europe, Asia and Latin America, have increased enforcement and litigation activity in the United States and other developed markets, as well as increased regulatory cooperation among privacy authorities globally. The Company has adopted a comprehensive global privacy program to manage these evolving risks and facilitate the transfer of personal information across international borders.
+Distribution
+The Company sells its human health pharmaceutical products primarily to drug wholesalers and retailers, hospitals, government agencies and managed health care providers, such as health maintenance organizations, PBMs and other institutions. Human health vaccines are sold primarily to physicians, wholesalers, physician distributors and government entities. The Company’s professional representatives communicate the effectiveness, safety and value of the Company’s pharmaceutical and vaccine products to health care professionals in private practice, group practices, hospitals and managed care organizations. The Company sells its animal health products to veterinarians, distributors and animal producers.
+Patents, Trademarks and Licenses
+Patent protection is considered, in the aggregate, to be of material importance to the Company’s marketing of its products in the United States and in most major foreign markets. Patents may cover products per se, pharmaceutical formulations, processes for, or intermediates useful in, the manufacture of products, or the uses of products. Protection for individual products extends for varying periods in accordance with the legal life of patents in the various countries. The protection afforded, which may also vary from country to country, depends upon the type of patent and its scope of coverage.
+The Food and Drug Administration Modernization Act includes a Pediatric Exclusivity Provision that may provide an additional six months of market exclusivity in the United States for indications of new or currently marketed drugs if certain agreed upon pediatric studies are completed by the applicant. Current U.S. patent law
+13
+Table of Contents
+provides additional patent term for periods when the patented product was under regulatory review by the FDA. The EU also provides an additional six months of pediatric market exclusivity attached to a product’s Supplementary Protection Certificate (SPC). Japan provides the additional term for pediatric studies attached to market exclusivity unrelated to patent term.
+Patent portfolios developed for products introduced by the Company normally provide market exclusivity. The Company has the following key patent protection in the United States, the EU, Japan and China (including the potential for patent term extensions (PTE) and SPCs where indicated) for the following marketed products:
+														
+Product	Year of Expiration (U.S.)	
+Year of Expiration (EU)(1)
+	
+Year of Expiration (Japan)(2)
+	
+Year of Expiration (China)
+Januvia	2023	2022	2025-2026	2022
+Janumet	2023	2023	N/A	2022
+Janumet XR	2023	N/A	N/A	2022
+Isentress	2024	
+2023(3)
+	2022-2026	2022
+Simponi	
+N/A(4)
+	
+2024(5)
+	
+N/A(4)
+	
+N/A(4)
+Lenvima(6)
+	
+2025(3) (with pending PTE)
+	
+2021 (patents), 2026(3) (SPCs)
+	2026	2021
+Adempas(7)
+	
+2026(3)
+	
+2028(3)
+	2027-2028	2023
+Bridion	
+2026(3) (with pending PTE)
+	2023	2024	Expired
+Nexplanon	2027 (device)	2025 (device)	N/A	2025
+Bravecto	2027 (with pending PTE)	2025 (patents), 2029 (SPCs)	2029	2033
+Gardasil	2028	
+2021(3)
+	Expired	N/A
+Gardasil 9
+	2028	
+2025 (patents), 2030(3) (SPCs)
+	N/A	2025
+Keytruda	2028	
+2028 (patents), 2030(3) (SPCs)
+	2032-2033	2028
+Lynparza(8)
+	
+2028(3) (with pending PTE)
+	
+2024 (patents), 2029(3) (SPCs)
+	2028-2029	2024
+Zerbaxa	
+2028(3)
+	
+2023 (patents), 2028(3) (SPCs)
+	2028 (with pending PTE)	N/A
+Sivextro	2028	2024 (patents), 2029 (SPCs)	2029	2024
+Belsomra	
+2029(3)
+	N/A	2031	N/A
+Prevymis	
+2029(3) (with pending PTE)
+	
+2024 (patents), 2029(3) (SPCs)
+	2029	N/A
+Segluromet(9)
+	2031 (with pending PTE)	2029 (patents), 2034 (SPCs)	
+N/A(10)
+	N/A
+Steglatro(9)
+	
+2031(3) (with pending PTE)
+	
+2029 (patents), 2034(3) (SPCs)
+	
+N/A(10)
+	2029
+Steglujan(9)
+	
+2031 (with pending PTE)
+	2029 (patents), 2034 (SPCs)	
+N/A(10)
+	N/A
+Verquvo(7)
+	2031 (with pending PTE)	
+N/A(11)
+	
+N/A(11)
+	
+N/A(11)
+Delstrigo	2032 (with pending PTE)	2031 (patents), 2033 (SPCs)	N/A	N/A
+Pifeltro	2032 (with pending PTE)	2031 (patents), 2033 (SPCs)	2036	2031
+Recarbrio	
+2033(3) (with pending PTE)
+	N/A	N/A	N/A
+Note:    Compound patent unless otherwise noted. Certain of the products listed may be the subject of patent litigation. See Item 8. “Financial Statements and Supplementary Data,” Note 10. “Contingencies and Environmental Liabilities” below.
+N/A:    Currently no marketing approval.
+14
+Table of Contents
+(1)The EU date represents the expiration date for the following five countries: France, Germany, Italy, Spain and the United Kingdom (Major EU Markets). If SPC applications have been filed but have not been granted in all Major EU Markets, both the patent expiry date and the SPC expiry date are listed.
+(2)    The PTE system in Japan allows for a patent to be extended more than once provided the later approval is directed to a different indication from that of the previous approval. This may result in multiple PTE approvals for a given patent, each with its own expiration date.
+(3)    Eligible for 6 months Pediatric Exclusivity.
+(4)    The Company has no marketing rights in the U.S., Japan or China.
+(5)    Expiration of the distribution agreement with Janssen Pharmaceuticals, Inc.
+(6)    Part of a global strategic oncology collaboration with Eisai.
+(7)    Being commercialized in a worldwide collaboration with Bayer AG.
+(8)    Part of a global strategic oncology collaboration with AstraZeneca.
+(9)    Being commercialized and promoted in a worldwide, except Japan, collaboration with Pfizer Inc.
+(10)    The Company has no marketing rights in Japan.
+(11)    The Company has no marketing rights in the EU, Japan or China.
+The Company also has the following key U.S. patent protection for drug candidates under review or in Phase 3 development: 
+					
+Phase 3 Drug Candidate	
+Currently Anticipated
+Year of Expiration (in the U.S.)
+MK-7264 (gefapixant)	2027
+V114 (pneumoconjugate vaccine)	2031 (vaccine composition)
+MK-7110 (CD24Fc)	2031
+MK-8591A (islatravir/doravirine)	2032
+MK-6482 (belzutifan)
+	2034
+Unless otherwise noted, the patents in the above charts are compound patents. Each patent may be subject to a future patent term restoration of up to five years and six month pediatric market exclusivity, either or both of which may be available. In addition, depending on the circumstances surrounding any final regulatory approval of the compound, there may be other listed patents or patent applications pending that could have relevance to the product as finally approved; the relevance of any such application would depend upon the claims that ultimately may be granted and the nature of the final regulatory approval of the product. Also, regulatory exclusivity tied to the protection of clinical data is complementary to patent protection and, in some cases, may provide more effective or longer lasting marketing exclusivity than a compound’s patent estate. In the United States, the data protection generally runs five years from first marketing approval of a new chemical entity, extended to seven years for an orphan drug indication and 12 years from first marketing approval of a biological product.
+While the expiration of a product patent normally results in a loss of market exclusivity for the covered pharmaceutical product, commercial benefits may continue to be derived from: (i) later-granted patents on processes and intermediates related to the most economical method of manufacture of the active ingredient of such product; (ii) patents relating to the use of such product; (iii) patents relating to novel compositions and formulations; and (iv) in the United States and certain other countries, market exclusivity that may be available under relevant law. The effect of product patent expiration on pharmaceutical products also depends upon many other factors such as the nature of the market and the position of the product in it, the growth of the market, the complexities and economics of the process for manufacture of the active ingredient of the product and the requirements of new drug provisions of the Federal Food, Drug and Cosmetic Act or similar laws and regulations in other countries.
+Additions to market exclusivity are sought in the United States and other countries through all relevant laws, including laws increasing patent life. Some of the benefits of increases in patent life have been partially offset by an increase in the number of incentives for and use of generic products. Additionally, improvements in intellectual property laws are sought in the United States and other countries through reform of patent and other relevant laws and implementation of international treaties.
+For further information with respect to the Company’s patents, see Item 1A. “Risk Factors” and Item 8. “Financial Statements and Supplementary Data,” Note 10. “Contingencies and Environmental Liabilities” below.
+15
+Table of Contents
+Worldwide, all of the Company’s important products are sold under trademarks that are considered in the aggregate to be of material importance. Trademark protection continues in some countries as long as used; in other countries, as long as registered. Registration is for fixed terms and can be renewed indefinitely.
+Royalty income in 2020 on patent and know-how licenses and other rights amounted to $185 million. Merck also incurred royalty expenses amounting to $2.0 billion in 2020 under patent and know-how licenses it holds.
+Research and Development
+The Company’s business is characterized by the introduction of new products or new uses for existing products through a strong research and development program. At December 31, 2020, approximately 16,750 people were employed in the Company’s research activities. The Company prioritizes its research and development efforts and focuses on candidates that it believes represent breakthrough science that will make a difference for patients and payers.
+The Company maintains a number of long-term exploratory and fundamental research programs in biology and chemistry as well as research programs directed toward product development. The Company’s research and development model is designed to increase productivity and improve the probability of success by prioritizing the Company’s research and development resources on candidates the Company believes are capable of providing unambiguous, promotable advantages to patients and payers and delivering the maximum value of its approved medicines and vaccines through new indications and new formulations. Merck is pursuing emerging product opportunities independent of therapeutic area or modality (small molecule, biologics and vaccines) and is building its biologics capabilities. The Company is committed to ensuring that externally sourced programs remain an important component of its pipeline strategy, with a focus on supplementing its internal research with a licensing and external alliance strategy focused on the entire spectrum of collaborations from early research to late-stage compounds, as well as access to new technologies.
+The Company’s clinical pipeline includes candidates in multiple disease areas, including cancer, cardiovascular diseases, metabolic diseases, infectious diseases, neurosciences, respiratory diseases, and vaccines.
+In the development of human health products, industry practice and government regulations in the United States and most foreign countries provide for the determination of effectiveness and safety of new chemical compounds through pre-clinical tests and controlled clinical evaluation. Before a new drug or vaccine may be marketed in the United States, recorded data on pre-clinical and clinical experience are included in the New Drug Application (NDA) for a drug or the Biologics License Application (BLA) for a vaccine or biologic submitted to the FDA for the required approval.
+Once the Company’s scientists discover a new small molecule compound or biologic that they believe has promise to treat a medical condition, the Company commences pre-clinical testing with that compound. Pre-clinical testing includes laboratory testing and animal safety studies to gather data on chemistry, pharmacology, immunogenicity and toxicology. Pending acceptable pre-clinical data, the Company will initiate clinical testing in accordance with established regulatory requirements. The clinical testing begins with Phase 1 studies, which are designed to assess safety, tolerability, pharmacokinetics, and preliminary pharmacodynamic activity of the compound in humans. If favorable, additional, larger Phase 2 studies are initiated to determine the efficacy of the compound in the affected population, define appropriate dosing for the compound, as well as identify any adverse effects that could limit the compound’s usefulness. In some situations, the clinical program incorporates adaptive design methodology to use accumulating data to decide how to modify aspects of the ongoing clinical study as it continues, without undermining the validity and integrity of the trial. One type of adaptive clinical trial is an adaptive Phase 2a/2b trial design, a two-stage trial design consisting of a Phase 2a proof-of-concept stage and a Phase 2b dose-optimization finding stage. If data from the Phase 2 trials are satisfactory, the Company commences large-scale Phase 3 trials to confirm the compound’s efficacy and safety. Another type of adaptive clinical trial is an adaptive Phase 2/3 trial design, a study that includes an interim analysis and an adaptation that changes the trial from having features common in a Phase 2 study (e.g. multiple dose groups) to a design similar to a Phase 3 trial. An adaptive Phase 2/3 trial design reduces timelines by eliminating activities which would be required to start a separate study. Upon completion of Phase 3 trials, if satisfactory, the Company submits regulatory filings with the appropriate regulatory agencies around the world to have the product candidate approved for marketing. There can
+16
+Table of Contents
+be no assurance that a compound that is the result of any particular program will obtain the regulatory approvals necessary for it to be marketed.
+Vaccine development follows the same general pathway as for drugs. Pre-clinical testing focuses on the vaccine’s safety and ability to elicit a protective immune response (immunogenicity). Pre-marketing vaccine clinical trials are typically done in three phases. Initial Phase 1 clinical studies are conducted in normal subjects to evaluate the safety, tolerability and immunogenicity of the vaccine candidate. Phase 2 studies are dose-ranging studies. Finally, Phase 3 trials provide the necessary data on effectiveness and safety. If successful, the Company submits regulatory filings with the appropriate regulatory agencies.
+In the United States, the FDA review process begins once a complete NDA or BLA is submitted, received and accepted for review by the agency. Within 60 days after receipt, the FDA determines if the application is sufficiently complete to permit a substantive review. The FDA also assesses, at that time, whether the application will be granted a priority review or standard review. Pursuant to the Prescription Drug User Fee Act V (PDUFA), the FDA review period target for NDAs or original BLAs is either six months, for priority review, or ten months, for a standard review, from the time the application is deemed sufficiently complete. Once the review timelines are determined, the FDA will generally act upon the application within those timelines, unless a major amendment has been submitted (either at the Company’s own initiative or the FDA’s request) to the pending application. If this occurs, the FDA may extend the review period to allow for review of the new information, but by no more than three months. Extensions to the review period are communicated to the Company. The FDA can act on an application either by issuing an approval letter or by issuing a Complete Response Letter (CRL) stating that the application will not be approved in its present form and describing all deficiencies that the FDA has identified. Should the Company wish to pursue an application after receiving a CRL, it can resubmit the application with information that addresses the questions or issues identified by the FDA in order to support approval. Resubmissions are subject to review period targets, which vary depending on the underlying submission type and the content of the resubmission.
+The FDA has four program designations — Fast Track, Breakthrough Therapy, Accelerated Approval, and Priority Review — to facilitate and expedite development and review of new drugs to address unmet medical needs in the treatment of serious or life-threatening conditions. The Fast Track designation provides pharmaceutical manufacturers with opportunities for frequent interactions with FDA reviewers during the product’s development and the ability for the manufacturer to do a rolling submission of the NDA/BLA. A rolling submission allows completed portions of the application to be submitted and reviewed by the FDA on an ongoing basis. The Breakthrough Therapy designation provides manufacturers with all of the features of the Fast Track designation as well as intensive guidance on implementing an efficient development program for the product and a commitment by the FDA to involve senior managers and experienced staff in the review. The Accelerated Approval designation allows the FDA to approve a product based on an effect on a surrogate or intermediate endpoint that is reasonably likely to predict a product’s clinical benefit and generally requires the manufacturer to conduct required post-approval confirmatory trials to verify the clinical benefit. The Priority Review designation means that the FDA’s goal is to take action on the NDA/BLA within six months, compared to ten months under standard review. More than one of these special designations can be granted for a given application (i.e., a product designated as a Breakthrough Therapy may also be eligible for Priority Review).
+Due to the COVID-19 public health crisis, the United States Secretary of Health and Human Services has exercised statutory authority to determine that a public health emergency exists, and declare these circumstances justify the emergency use of drugs and biological products as authorized by the FDA. While in effect, this declaration enables the FDA to issue Emergency Use Authorizations (EUAs) permitting distribution and use of specific medical products absent NDA/BLA submission or approval, including products to treat or prevent diseases or conditions caused by the SARS-CoV-2 virus, subject to the terms of any such EUAs. The FDA must make certain findings to grant an EUA, including that it is reasonable to believe based on the totality of evidence that the drug or biologic may be effective, and that known or potential benefits when used under the terms of the EUA outweigh known or potential risks. Additionally, the FDA must find that there is no adequate, approved and available alternative to the emergency use.
+The primary method the Company uses to obtain marketing authorization of pharmaceutical products in the EU is through the “centralized procedure.” This procedure is compulsory for certain pharmaceutical products, in
+17
+Table of Contents
+particular those using biotechnological processes, and is also available for certain new chemical compounds and products. A company seeking to market an innovative pharmaceutical product through the centralized procedure must file a complete set of safety data and efficacy data as part of a Marketing Authorization Application (MAA) with the European Medicines Agency (EMA). After the EMA evaluates the MAA, it provides a recommendation to the EC and the EC then approves or denies the MAA. It is also possible for new chemical products to obtain marketing authorization in the EU through a “mutual recognition procedure” in which an application is made to a single member state and, if the member state approves the pharmaceutical product under a national procedure, the applicant may submit that approval to the mutual recognition procedure of some or all other EU member states.
+Outside of the United States and the EU, the Company submits marketing applications to national regulatory authorities. Examples of such are the Ministry of Health, Labour and Welfare in Japan, the National Medical Products Administration in China, Health Canada, Agência Nacional de Vigilância Sanatária in Brazil, Korea Food and Drug Administration in South Korea, and the Therapeutic Goods Administration in Australia. Each country has a separate and independent review process and timeline. In many markets, approval times can be longer as the regulatory authority requires approval in a major market, such as the United States or the EU, and issuance of a Certificate of Pharmaceutical Product from that market before initiating their local review process.
+Research and Development Update
+The Company currently has several candidates under regulatory review in the United States and internationally or in late-stage clinical development.
+MK-7655A is combination of relebactum, a beta-lactamase inhibitor, and imipenem/cilastatin (a carbapenem antibiotic) under review in Japan for the treatment of bacterial infection. MK-7655A was approved by the FDA in 2019 and is marketed in the United States as Recarbrio.
+MK-1242, vericiguat, is an orally administered soluble guanylate cyclase (sGC) stimulator under review in the EU and in Japan to reduce the risk of cardiovascular death and heart failure hospitalization following a worsening heart failure event in patients with symptomatic chronic heart failure with reduced ejection fraction, in combination with other heart failure therapies. The applications are based on results from the Phase 3 VICTORIA trial. Vericiguat was approved by the FDA in January 2021 and will be marketed in the United States as Verquvo. Vericiguat is being jointly developed with Bayer. Bayer will commercialize vericiguat in territories outside the United States, if approved.
+MK-5618, selumetinib, is under review in the EU for the treatment of pediatric patients two years of age and older with neurofibromatosis type 1 (NF1) who have symptomatic, inoperable plexiform neurofibromas (PN) based on positive results from the National Cancer Institute Cancer Therapy Evaluation Program-sponsored Phase 2 SPRINT Stratum 1 trial. Selumetinib was approved by the FDA in April 2020 and is marketed in the United States as Koselugo. Selumetinib is being jointly developed and commercialized with AstraZeneca globally.
+V114 is an investigational 15-valent pneumococcal conjugate vaccine under priority review by the FDA for the prevention of invasive pneumococcal disease in adults 18 years of age and older. The FDA set a PDUFA date of July 18, 2021. The EMA is also reviewing an application for licensure of V114 in adults. Additionally, the Company has several ongoing Phase 3 trials evaluating V114 in pediatric patients. V114 previously received Breakthrough Therapy designation from the FDA for the prevention of invasive pneumococcal disease in pediatric patients 6 weeks to 18 years of age and adults 18 years of age and older. The Company is involved in litigation challenging the validity of several Pfizer Inc. patents that relate to pneumococcal vaccine technology in the United States and several foreign jurisdictions.
+Keytruda is an anti-PD-1 therapy approved for the treatment of many cancers that is in clinical development for expanded indications. These approvals were the result of a broad clinical development program that currently consists of more than 1,400 clinical trials, including more than 1,000 trials that combine Keytruda with other cancer treatments. These studies encompass more than 30 cancer types including: biliary tract, cervical, colorectal, cutaneous squamous cell, endometrial, esophageal, estrogen receptor positive breast cancer, gastric, glioblastoma, head and neck, hepatocellular, Hodgkin lymphoma, non-Hodgkin lymphoma, non-small-cell lung, small-cell lung, melanoma, mesothelioma, ovarian, prostate, renal, triple-negative breast, and urothelial, many of which are currently in Phase 3 clinical development. Further trials are being planned for other cancers.
+18
+Table of Contents
+Keytruda in combination with chemotherapy is under review in the EU for the treatment of locally recurrent unresectable or metastatic triple negative breast cancer (TNBC) in adults whose tumors express PD-L1 with a CPS ≥ 10 and who have not received prior chemotherapy for metastatic disease based on the results of the KEYNOTE-355 trial. Keytruda was approved for this indication under accelerated approval based on progression-free survival (PFS) by the FDA in November 2020. Keytruda in combination with chemotherapy is also under review in Japan for the treatment of patients with locally recurrent unresectable or metastatic TNBC based on data from the KEYNOTE-355 trial.
+In July 2020, the FDA accepted for standard review a supplemental BLA for Keytruda for the treatment of patients with high-risk, early-stage TNBC in combination with chemotherapy as neoadjuvant (pre-operative) treatment, and then as a single agent as adjuvant (post-operative) treatment after surgery. The application was based on data from the first and second interim analyses of the KEYNOTE-522 trial. In February 2021, the FDA’s Oncologic Drugs Advisory Committee (ODAC), which discussed the Company’s supplemental BLA for Keytruda, voted that a regulatory decision should be deferred until further data are available from the Phase 3 KEYNOTE-522 trial. The study met one of the dual primary endpoints of pathological complete response and is continuing to evaluate event-free survival. The ODAC provides the FDA with independent, expert advice and recommendations on marketed and investigational medicines for use in the treatment of cancer. The FDA is not bound by the committee’s guidance but takes its advice into consideration. The PDUFA date for this application is March 29, 2021. The next interim analysis is calendar-driven, and data is expected in the third quarter of 2021.
+In February 2021, Merck announced that the Committee for Medicinal Products for Human Use (CHMP) of the EMA adopted a positive opinion recommending approval of an expanded label for Keytruda as monotherapy for the treatment of adult and pediatric patients aged 3 years and older with relapsed or refractory cHL who have failed an earlier line of therapy. This recommendation is based on results from the pivotal Phase 3 KEYNOTE-204 trial, in which Keytruda monotherapy demonstrated a significant improvement in PFS compared with brentuximab vedotin, a commonly used treatment. The recommendation is also based on supportive data from an updated analysis of the KEYNOTE-087 trial, which supported EC approval of Keytruda for the treatment of adult patients with relapsed or refractory cHL. The CHMP’s recommendation will now be reviewed by the EC for marketing authorization in the EU. Keytruda was approved for this indication by the FDA in October 2020.
+Keytruda is also under review as monotherapy for the first-line treatment of adult patients with metastatic MSI-H or dMMR colorectal cancer in Japan based on the result of the KEYNOTE-177 trial. Keytruda was approved for this indication by the FDA in June 2020 and by the EU in January 2021.
+In January 2021, the FDA accepted a supplemental BLA seeking use of Keytruda for the treatment of patients with locally advanced cSCC that is not curable by surgery or radiation based on the results of the KEYNOTE-629 trial. The FDA set a PDUFA date of September 9, 2021.
+In December 2020, the FDA accepted and granted priority review for a supplemental BLA for Keytruda in combination with chemotherapy for the first-line treatment of patients with locally advanced unresectable or metastatic carcinoma of the esophagus and gastroesophageal junction. This supplemental BLA is based on data from the pivotal Phase 3 KEYNOTE-590 trial, in which Keytruda plus chemotherapy demonstrated significant improvements in the primary endpoints of overall survival (OS) and PFS versus chemotherapy in these patients regardless of PD-L1 expression status and tumor histology. These data were presented at the European Society of Medical Oncology (ESMO) Virtual Congress 2020. The FDA set a PDUFA date of April 13, 2021. In December 2020, the CHMP of the EMA announced the start of a procedure to extend the indication to include in combination with chemotherapy, first-line treatment of locally advanced unresectable or metastatic carcinoma of the esophagus or HER-2 negative gastroesophageal junction adenocarcinoma in adults for Keytruda, based on the results from KEYNOTE-590. Keytruda is also under review for this indication in Japan.
+Keytruda also received Breakthrough Therapy designation from the FDA in February 2020 for the combination of Keytruda with Padcev (enfortumab vedotin-ejfv), in the first-line setting for the treatment of patients with unresectable locally advanced or metastatic urothelial cancer who are not eligible for cisplatin-containing chemotherapy. The FDA’s Breakthrough Therapy designation is intended to expedite the development and review of a candidate that is planned for use, alone or in combination, to treat a serious or life-threatening disease or condition when preliminary clinical evidence indicates that the drug may demonstrate substantial improvement over existing therapies on one or more clinically significant endpoints.
+19
+Table of Contents
+In January 2021, Merck announced first-time data from the Phase 3 KEYNOTE-598 study evaluating Keytruda in combination with ipilimumab (Yervoy) compared with Keytruda monotherapy as first-line treatment for patients with metastatic NSCLC without EGFR or ALK genomic tumor aberrations and whose tumors express PD-L1 (tumor proportion score ≥50%). Results of the study showed that the addition of ipilimumab to Keytruda did not improve OS or PFS but added toxicity compared with Keytruda monotherapy in these patients. These results were presented in the Presidential Symposium at the IASLC 2020 World Conference on Lung Cancer hosted by the International Association for the Study of Lung Cancer in January 2021 and published in the Journal of Clinical Oncology. As previously announced in November 2020, the study was discontinued due to futility based on the recommendation of an independent Data Monitoring Committee (DMC), which determined the benefit/risk profile of Keytruda in combination with ipilimumab did not support continuing the trial. The DMC also advised that patients in the study discontinue treatment with ipilimumab/placebo.
+In February 2021, Merck’s announced that the Phase 3 KEYNOTE-122 trial evaluating Keytruda versus standard of care treatment (capecitabine, gemcitabine, or docetaxel) for the treatment of recurrent or metastatic nasopharyngeal cancer did not meet its primary endpoint of OS. Full results will be presented at a future medical meeting.
+In May 2020, Merck and Eisai presented data from analyses of two Phase 2 trials evaluating Keytruda plus Lenvima at the 2020 American Society of Clinical Oncology (ASCO) Annual Meeting in which the Keytruda plus Lenvima combination demonstrated clinically meaningful objective response rates (ORR): the KEYNOTE-524/Study 116 trial in patients with unresectable HCC with no prior systemic therapy; and the KEYNOTE-146/Study 111 trial in patients with metastatic clear cell renal cell carcinoma (ccRCC) who progressed following immune checkpoint inhibitor therapy.
+In July 2020, Merck and Eisai announced that the FDA issued a CRL regarding Merck’s and Eisai’s applications seeking accelerated approval for the first-line treatment of patients with unresectable HCC based on this trial, which showed clinically meaningful efficacy in the single-arm setting. These data supported a Breakthrough Therapy designation granted by the FDA in July 2019. Ahead of the PDUFA action dates of Merck’s and Eisai’s applications, another combination therapy was approved based on a randomized, controlled trial that demonstrated improvement in OS versus standard-of-care treatment. Consequently, the CRL stated that Merck’s and Eisai’s applications do not provide evidence that Keytruda in combination with Lenvima represents a meaningful advantage over available therapies for the treatment of unresectable or metastatic HCC with no prior systemic therapy for advanced disease. Since the applications for KEYNOTE-524/Study 116 no longer meet the criteria for accelerated approval, both companies plan to work with the FDA to take appropriate next steps, which include conducting a well-controlled clinical trial that demonstrates substantial evidence of effectiveness and the clinical benefit of the combination. As such, LEAP-002, the Phase 3 trial evaluating the Keytruda plus Lenvima combination as a first-line treatment for advanced HCC, is currently underway and fully enrolled. The CRL does not impact the current approved indications for Keytruda or for Lenvima.
+In February 2021, Merck and Eisai announced the first presentation of new investigational data from the pivotal Phase 3 CLEAR study (KEYNOTE-581/Study 307) at the 2021 Genitourinary Cancers Symposium (ASCO GU) and published simultaneously in the New England Journal of Medicine. The trial evaluated the combinations of Keytruda plus Lenvima, and Lenvima plus everolimus versus sunitinib for the first-line treatment of patients with advanced RCC. Keytruda plus Lenvima demonstrated statistically significant and clinically meaningful improvements in PFS, OS and ORR versus sunitinib. Lenvima plus everolimus also showed significant improvements in PFS and ORR versus sunitinib. Merck and Eisai will discuss these data with regulatory authorities worldwide, with the intent to submit marketing authorization applications based on these results.
+In December 2020, Merck and Eisai announced that the pivotal Phase 3 KEYNOTE-775/Study 309 trial evaluating the investigational use of Keytruda plus Lenvima met its dual primary endpoints of OS and PFS and its secondary efficacy endpoint of ORR in patients with advanced endometrial cancer following at least one prior platinum-based regimen. These positive results were observed in the mismatch repair proficient (pMMR) subgroup and the ITT study population, which includes both patients with endometrial carcinoma that is pMMR as well as patients whose disease is MSI-H/dMMR. Based on an analysis conducted by an independent DMC, Keytruda plus Lenvima demonstrated a statistically significant and clinically meaningful improvement in OS, PFS and ORR versus chemotherapy. Merck and Eisai will discuss these data with regulatory authorities worldwide, with the intent to
+20
+Table of Contents
+submit marketing authorization applications based on these results, and plan to present these results at an upcoming medical meeting. KEYNOTE-775/Study 309 is the confirmatory trial for KEYNOTE-146/Study 111, which supported accelerated approval by the FDA in 2019 of the Keytruda plus Lenvima combination for the treatment of patients with advanced endometrial carcinoma that is not MSI-H or dMMR, who have disease progression following prior systemic therapy and are not candidates for curative surgery or radiation.
+Merck and Eisai are continuing to study the Keytruda plus Lenvima combination through the LEAP (LEnvatinib And Pembrolizumab) clinical program across 19 trials in 13 different tumor types (endometrial carcinoma, HCC, melanoma, NSCLC, RCC, squamous cell carcinoma of the head and neck, urothelial cancer, biliary tract cancer, colorectal cancer, gastric cancer, glioblastoma, ovarian cancer, and TNBC).
+MK-6482, belzutifan, is an investigational hypoxia-inducible factor-2α (HIF-2α) inhibitor being evaluated for the treatment of patients with von Hippel-Lindau (VHL) disease-associated RCC with nonmetastatic RCC tumors less than three centimeters in size, unless immediate surgery is required. In July 2020, the FDA granted Breakthrough Therapy designation to belzutifan and has also granted orphan drug designation to belzutifan for VHL disease. These designations are based on data from a Phase 2 trial evaluating belzutifan in patients with VHL-associated ccRCC, which were presented at the 2020 ASCO Annual Meeting. Additionally, Phase 2 data showing anti-tumor responses in VHL disease patients with ccRCC and other tumors were presented at the ESMO Virtual Congress 2020.
+In February 2021, Merck and Eisai began a Phase 3 trial examining Lenvima in combination with belzutifan in previously treated patients with metastatic RCC.
+MK-7119, Tukysa, is a small molecule tyrosine kinase inhibitor, for the treatment of HER2-positive cancers. In September 2020, Seagen granted Merck an exclusive license and entered into a co-development agreement with Merck to accelerate the global reach of Tukysa. Merck and Seagen also announced a collaboration to globally develop and commercialize Seagen’s ladiratuzumab vedotin (MK-6440), an investigational antibody-drug conjugate targeting LIV-1, which is currently in Phase 2 clinical trials for breast cancer and other solid tumors. The collaboration will pursue a broad joint development program evaluating ladiratuzumab vedotin as monotherapy and in combination with Keytruda in TNBC, hormone receptor-positive breast cancer and other LIV-1-expressing solid tumors.
+MK-7339, Lynparza, is an oral PARP inhibitor currently approved for certain types of advanced ovarian, breast, pancreatic and prostate cancers being co-developed for multiple cancer types as part of a collaboration with AstraZeneca.
+MK-7264, gefapixant, is an investigational, orally administered, selective P2X3 receptor antagonist, for the treatment of refractory or unexplained chronic cough. In September 2020, Merck announced the results from two ongoing pivotal Phase 3 trials (COUGH-1 and COUGH-2) evaluating the efficacy and safety of gefapixant. In these studies, adult patients treated with gefapixant 45 mg twice daily demonstrated a statistically significant reduction in 24-hour cough frequency versus placebo at 12 weeks (COUGH-1) and 24 weeks (COUGH-2). The gefapixant 15 mg twice daily treatment arms did not meet the primary efficacy endpoint in either Phase 3 study. These results were presented at the Virtual European Respiratory Society International Congress 2020. Merck plans to share data from COUGH-1 and COUGH-2 with regulatory authorities worldwide.
+MK-7110 (also known as CD24Fc) is an investigational treatment for patients hospitalized with COVID-19. Merck obtained MK-7110 through the acquisition of OncoImmune. In September 2020, OncoImmune reported topline findings from an interim efficacy analysis of a Phase 3 study evaluating MK-7110. An interim analysis of data from 203 participants (75% of the planned enrollment) indicated that selected hospitalized patients with COVID-19 treated with a single dose of MK-7110 showed a 60% higher probability of improvement in clinical status compared to placebo, as defined by the protocol. The risk of death or respiratory failure was reduced by more than 50%. Full results from this Phase 3 study, which were consistent with the topline results, were received in February 2021 and will be submitted for publication in the future. MK-7110 is also being studied in a Phase 3 trial for the treatment of graft versus host disease.
+Molnupiravir (also known as MK-4482) is an orally available antiviral candidate for the treatment of COVID-19 being developed in collaboration with Ridgeback Biotherapeutics LP. It is currently being evaluated in
+21
+Table of Contents
+Phase 2/3 clinical trials in both the hospital and outpatient settings. The primary completion date for the Phase 2/3 studies is June 2021. The Company anticipates interim efficacy data in the first quarter of 2021.
+MK-8591A is a combination of islatravir, the company’s investigational oral nucleoside reverse transcriptase translocation inhibitor (NRTTI), and doravirine (Pifeltro) being evaluated for the treatment of HIV-1 infection. In October 2020, Merck announced Week 96 data from the Phase 2b trial (NCT03272347) evaluating the efficacy and safety of MK-8591A in treatment-naïve adults with HIV-1 infection. Week 96 findings demonstrated that the combination of islatravir and doravirine maintained virologic suppression similar to Delstrigo (doravirine/lamivudine/tenofovir disoproxil fumarate), and the findings were consistent with Week 48 results. Additional Week 96 data from the study show low rates of participants meeting the definition of protocol-defined virologic failure in both the islatravir plus doravirine and the Delstrigo treatment arms, and no participants in either arm met the criteria for resistance testing. These data were presented at the virtual 2020 International Congress on Drug Therapy in HIV Infection (HIV Glasgow).
+In November 2020, Merck announced a collaboration with the Bill & Melinda Gates Foundation (the foundation) where the foundation is committing to provide funding to support a pivotal Phase 3 study investigating a once-monthly oral pre-exposure prophylaxis (PrEP) option in women and adolescent girls at high risk for acquiring HIV-1 infection in sub-Saharan Africa. The study, IMPOWER 22, will evaluate the efficacy and safety of once-monthly islatravir and is anticipated to begin in early 2021. Merck will be funding the IMPOWER 22 clinical trial in the United States. Merck also plans to conduct additional studies in HIV prevention with islatravir in once-monthly oral PrEP. These studies will include IMPOWER 24, a global Phase 3 clinical trial to evaluate islatravir as a once-monthly oral agent for PrEP at sites across the world and among other key populations impacted by the epidemic, including men who have sex with men and transgender women.
+In January 2021, the FDA accepted for standard review a supplemental NDA for Steglatro (ertugliflozin) to incorporate the results of the Phase 3 VERTIS cardiovascular (CV) outcomes trial in the product labeling. The VERTIS CV trial evaluated Steglatro, an oral sodium-glucose cotransporter 2 (SGLT2) inhibitor, versus placebo, added to background standard of care treatment, in patients with type 2 diabetes and atherosclerotic CV disease. The study met the primary endpoint of non-inferiority on major adverse CV events (MACE), which is a composite of CV death, nonfatal myocardial infarction or nonfatal stroke, compared to placebo. The key secondary endpoints of superiority for Steglatro versus placebo for time to the first occurrence of the composite of CV death or hospitalization for heart failure, time to CV death alone and time to the first occurrence of the composite of renal death, dialysis/transplant or doubling of serum creatinine from baseline were not met. While not a pre-specified hypothesis for statistical testing, a reduction in hospitalization for heart failure was observed with Steglatro. A supplemental application was also submitted to the EMA and is currently under review.
+In January 2021, the Company announced the discontinuation of the clinical development programs for its COVID-19 vaccine candidates, V590 and V591, following Merck’s review of findings from Phase 1 clinical studies for the vaccines. In these studies, both V590 and V591 were generally well tolerated, but the immune responses were inferior to those seen following natural infection and those reported for other SARS-CoV-2/COVID-19 vaccines.
+The chart below reflects the Company’s research pipeline as of February 22, 2021. Candidates shown in Phase 3 include specific products and the date such candidate entered into Phase 3 development. Candidates shown in Phase 2 include the most advanced compound with a specific mechanism or, if listed compounds have the same mechanism, they are each currently intended for commercialization in a given therapeutic area. Small molecules and biologics are given MK-number designations and vaccine candidates are given V-number designations. Except as otherwise noted, candidates in Phase 1, additional indications in the same therapeutic area (other than with respect to cancer) and additional claims, line extensions or formulations for in-line products are not shown.
+22
+Table of Contents
+								
+Phase 2	Phase 3 (Phase 3 entry date)	Under Review
+Antiviral COVID-19
+MK-4482 (molnupiravir)(1)
+Cancer
+MK-1026
+     Hematological Malignancies
+MK-1308 (quavonlimab)(2)
+Melanoma
+Non-Small-Cell Lung
+Solid Tumors
+MK-1454(2)
+Head and Neck
+MK-2140
+Advanced Solid Tumors
+MK-3475 Keytruda
+Advanced Solid Tumors
+MK-4280(2)
+     Hematological Malignancies
+     Non-Small-Cell Lung
+MK-4830
+Non-Small-Cell Lung
+MK-5890(2)
+     Non-Small-Cell Lung
+MK-6440 (ladiratuzumab vedotin)(1)(3)
+Advanced Solid Tumors
+Breast
+MK-7119 Tukysa(1)
+Advanced Solid Tumors
+Colorectal
+Gastric
+MK-7339 Lynparza(1)(3)
+Advanced Solid Tumors
+MK-7684 (vibostolimab)(2)
+Melanoma
+Non-Small-Cell Lung
+MK-7902 Lenvima(1)(2)
+Advanced Solid Tumors
+Biliary Tract
+Colorectal
+Glioblastoma
+V937
+Breast
+Cutaneous Squamous Cell
+Head and Neck
+Melanoma
+Solid Tumors
+Chikungunya virus
+V184
+Cytomegalovirus
+V160
+HIV-1 Prevention
+MK-8591 (islatravir)
+Nonalcoholic Steatohepatitis NASH
+MK-3655
+Overgrowth Syndrome
+MK-7075 (miransertib)
+Pneumococcal Vaccine Adult
+V116
+Respiratory Syncytial Virus
+MK-1654
+Schizophrenia
+MK-8189
+
+	
+Cancer
+MK-3475 Keytruda
+Biliary Tract (September 2019)
+Cervical (October 2018) (EU)
+Cutaneous Squamous Cell (August 2019) (EU)
+Endometrial (August 2019) (EU)
+Gastric (May 2015) (EU)
+Hepatocellular (May 2016) (EU)
+Mesothelioma (May 2018)
+Ovarian (December 2018)
+Prostate (May 2019)
+Small-Cell Lung (May 2017) (EU)
+MK-6482 (belzutifan)
+Renal Cell (February 2020)
+MK-7119 Tukysa(1)
+Breast (October 2019)
+MK-7339 Lynparza(1)(2)
+Colorectal(1) (August 2020)
+Non-Small-Cell Lung(2) (June 2019)
+Small-Cell Lung(2) (December 2020)
+MK-7902 Lenvima(1)(2)
+Bladder (May 2019)
+Endometrial (June 2018) (EU)
+Gastric (December 2020)
+Head and Neck (February 2020)
+Melanoma (March 2019)
+Non-Small-Cell Lung (March 2019)
+Cough
+MK-7264 (gefapixant) (March 2018)
+COVID-19
+MK-7110 (December 2020)
+HIV-1 Infection
+     MK-8591A (doravirine/islatravir) (February 2020)
+
+	
+New Molecular Entities/Vaccines
+Bacterial Infection
+MK-7655A (relebactam+imipenem/cilastatin) (JPN)
+Heart Failure
+MK-1242 (vericiguat)(1) (EU) (JPN)
+Pediatric Neurofibromatosis Type 1
+MK-5618 (selumetinib)(1) (EU)
+Pneumococcal Infection Adult
+V-114 (U.S.) (EU)
+
+
+Certain Supplemental Filings
+Cancer
+MK-3475 Keytruda
+• Metastatic Triple-Negative Breast Cancer
+         (KEYNOTE-355) (EU) (JPN)
+• Early-Stage Triple-Negative Breast Cancer
+         (KEYNOTE-522) (U.S.)
+• Refractory Classical Hodgkin Lymphoma
+         (KEYNOTE-204) (EU)
+• Unresectable or Metastatic MSI-H or dMMR Colorectal Cancer
+(KEYNOTE-177) (JPN)
+• Cutaneous Squamous Cell Cancer
+         (KEYNOTE-629) (U.S.)
+• Advanced Unresectable Metastatic
+         Esophageal Cancer (KEYNOTE-590)
+         (U.S.) (EU) (JPN)
+• First-Line Metastatic HER2+ Gastric Cancer
+         (KEYNOTE-811) (U.S.)
+MK-7902 Lenvima(1)
+• First-Line Metastatic Hepatocellular Carcinoma
+(KEYNOTE-524) (U.S.)(2)(4)
+• Thymic Carcinoma (NCCH1508/REMORA) (JPN)
+Footnotes:
+(1) Being developed in a collaboration.
+(2) Being developed in combination with Keytruda.
+(3) Being developed as monotherapy and in combination with Keytruda.
+(4) In July 2020, the FDA issued a CRL for Merck’s and Eisai’s applications. Merck and Eisai intend to submit additional data when available to the FDA.
+
+Human Capital
+As of December 31, 2020, the Company had approximately 74,000 employees worldwide, with approximately 27,000 employed in the United States, including Puerto Rico, and approximately 26,000 third-party contractors globally. Approximately 73,000 of the Company’s employees are full time-employees. Women and individuals with ethnically diverse backgrounds comprise approximately 50% and 31% of its workforce in the United States, respectively. Women comprise 46% of the members of the Board of Directors. Additionally, the Company’s executive team, which includes individuals up to two structural levels below the Chief Executive
+23
+Table of Contents
+Officer, is made up of 34% women. Approximately 30% of the Company’s employees are represented by various collective bargaining groups.
+The Company recognizes that its employees are critical to meet the needs of its patients and customers and that its ability to excel depends on the integrity, skill, and diversity of its employees.
+Talent Acquisition
+The Company uses a comprehensive approach to ensure recruiting, retention and leadership development goals are systematically executed throughout the Company and that it hires talented leaders to achieve improved gender parity and representation across all dimensions of diversity. The Company provides training to its managers and external recruiting organizations on strategies to mitigate unconscious bias in the candidate selection and hiring process. In addition, the Company utilizes a comprehensive communications strategy, marketing outreach, social media and strategic alliance partnerships to reach a broad pool of talent in its critical business areas. In 2020, the Company hired approximately 10,000 employees across the globe through various channels including the Company’s external career site, diversity partnerships, employee referrals, universities and other external sources.
+Global Diversity and Inclusion
+Diversity and inclusion are fundamental to the Company’s success and core to future innovation. The Company fosters a globally diverse and inclusive workforce for its employees by creating an environment of belonging, engagement, equity, and empowerment. The Company is proactive and intentional about diversity hiring and development programs to advance talent. The Company creates competitive advantages by leveraging diversity and inclusion to accelerate business performance. This includes fostering global supplier diversity, integrating diversity and inclusion into the Company’s commercialization strategies and leveraging employee insights to improve performance. In addition to these efforts, the Company has ten Employee Business Resource Groups, that provide opportunities for employees to take an active part in contributing to the Company’s inclusive culture through their work in talent acquisition and development, business and customer insights and social and community outreach.
+											
+Gender and Ethnicity Performance Data(1)
+	2020	2019	2018
+Women in the workforce	49%	49%	49%
+Women in the workforce in the U.S.	50%	50%	NR
+Women on the Board of Directors	46%	33%	23%
+Women in executive roles(2)
+	34%	36%	32%
+Women in management roles(3)
+	43%	43%	41%
+Members of underrepresented ethnic groups on the Board of Directors	23%	17%	15%
+Members of underrepresented ethnic groups in executive roles (U.S.)	22%	26%	21%
+Members of underrepresented ethnic groups in the workforce (U.S.)	31%	29%	27%
+Members of underrepresented ethnic groups in management roles (U.S.)	29%	27%	25%
+New hires that were female	50%	50%	51%
+New hires that were members of underrepresented ethnic groups (U.S.)	42%	33%	36%
+NR: Not reported.
+(1) As of 12/31.
+(2) “Executive” is defined as the chief executive officer and two structural levels below.
+(3) “Management role” is defined as all managers with direct reports other than executives defined in note 2.
+Compensation and Benefits
+The Company provides a valuable total rewards package reflecting its commitment to attract, retain and motivate its talent, and to supporting its employees and their families in every stage of life. The Company continuously monitors and adjusts its compensation and benefit programs to ensure they are competitive, contemporary, helpful and engaging, and that they support strategic imperatives such as diversity and inclusion, equity, flexibility, quality, security and affordability. For example, in 2020, the Company added a personal health care concierge service to assist U.S. employees participating in the Company medical plan with their health care
+24
+Table of Contents
+needs. Aligned with its business and in support of its cancer care strategy, the Company also improved cancer screening benefits, added resources and provided immediate access to a leading cancer center of excellence for U.S. employees. Globally, the Company implemented a minimum standard of 12 weeks of paid parental leave, which inclusively applies to all parents. In the United States, the Company’s benefits rank in the top quartile of Fortune 100 companies under the Aon Hewitt 2019 Benefits Index. The Company has been included in the Working Mother 100 Best Companies ranking for 34 consecutive years and was named a Working Mother Best Company for Dads in 2020.
+Employee Wellbeing
+The Company is committed to helping its employees and their families improve their own health and wellbeing. The Company’s culture of wellbeing is referred to as “Live it”, which includes programs to support preventive health, emotional and financial wellbeing, physical fitness and nutrition. It is designed to inspire all employees to pursue, enjoy, and share healthy lifestyles. Live it was launched in the United States in 2011 and today is available in every country in which the Company has employees. In addition, many of the Company’s larger sites offer onsite health clinics that provide an array of services to help its employees stay or get well, including vaccinations, cancer and biometric screenings, travel medicine and advice, diagnosis and treatment of non-occupational illnesses or injuries, health counseling and referrals. The Company’s overall employee wellbeing program was recognized for excellence in health and wellbeing by receiving the highest-level awards from the Business Group on Health (2019 and 2020), and the American Heart Association (2018-2020).
+COVID-19 Response
+The Company recognizes that it has a unique responsibility to help in response to the COVID-19 pandemic and is committed to supporting and protecting its employees and their families, ensuring that its supply of medicines and vaccines reaches its patients, contributing its scientific expertise to the development of antiviral approaches and supporting its health care providers and the communities in which they serve. The Company continues to provide employees with easy and regular access to information, including details regarding the Company’s tracking process, guidance around hygiene measures and travel and best practices for working from home. Examples of pandemic support resources and programs available to the Company’s employees include pay continuation for workers who have been sick or exposed, volunteer policy adjustment to enable employees with medical backgrounds to volunteer in SARS-CoV-2-related activities, resources to prioritize physical and mental wellness, adjustments to medical plans to cover 100% of a COVID-19-related diagnosis, testing and treatment, backup childcare and more.
+Engaging Employees
+The Company strives to foster employee engagement by promoting a safe, positive, diverse and inclusive work environment that provides numerous opportunities for two-way communication with employees. Some of the Company’s key programs and initiatives include promoting global employee engagement surveys, ongoing pulse checks to the organization for interim feedback on specific topics, fostering professional networking and collaboration, identifying and providing opportunities for volunteering and establishing positive, cooperative business relations with designated employee representatives.
+Talent Management and Development
+As the Company pursues its goal of becoming the world’s premier research-based biopharmaceutical company, it needs to continuously develop its diverse and talented people. The Company’s current talent management system supports company-wide performance management, development, talent reviews and succession planning. Annual performance reviews help further the professional development of the Company’s employees and ensure that the Company’s workforce is aligned with the Company’s objectives. The Company seeks to continuously build the skills and capabilities of its workforce to accelerate talent, improve performance and mitigate risk through relevant continuous learning experiences. This includes, but is not limited to, building leadership and management skills, as well as providing technical and functional training to all employees.
+Environmental Matters
+The Company believes that there are no compliance issues associated with applicable environmental laws and regulations that would have a material adverse effect on the Company. The Company is also remediating environmental contamination resulting from past industrial activity at certain of its sites. Expenditures for
+25
+Table of Contents
+remediation and environmental liabilities were $11 million in 2020 and are estimated at $46 million in the aggregate for the years 2021 through 2025. These amounts do not consider potential recoveries from other parties. The Company has taken an active role in identifying and accruing for these costs and, in management’s opinion, the liabilities for all environmental matters that are probable and reasonably estimable have been accrued and totaled $67 million at both December 31, 2020 and 2019. Although it is not possible to predict with certainty the outcome of these matters, or the ultimate costs of remediation, management does not believe that any reasonably possible expenditures that may be incurred in excess of the liabilities accrued should exceed approximately $65 million in the aggregate. Management also does not believe that these expenditures should have a material adverse effect on the Company’s financial condition, results of operations, liquidity or capital resources for any year.
+Merck believes that climate change could present risks to its business. Some of the potential impacts of climate change to its business include increased operating costs due to additional regulatory requirements, physical risks to the Company’s facilities, water limitations and disruptions to its supply chain. These potential risks are integrated into the Company’s business planning including investment in reducing energy usage, water use and greenhouse gas emissions. The Company does not believe these risks are material to its business at this time.
+Geographic Area Information
+The Company’s operations outside the United States are conducted primarily through subsidiaries. Sales worldwide by subsidiaries outside the United States as a percentage of total Company sales were 56% in both 2020 and 2019 and were 57% in 2018.
+The Company’s worldwide business is subject to risks of currency fluctuations, governmental actions and other governmental proceedings abroad. The Company does not regard these risks as a deterrent to further expansion of its operations abroad. However, the Company closely reviews its methods of operations and adopts strategies responsive to changing economic and political conditions.
+Merck has operations in countries located in Latin America, the Middle East, Africa, Eastern Europe and Asia Pacific. Business in these developing areas, while sometimes less stable, offers important opportunities for growth over time.
+Available Information
+The Company’s Internet website address is www.merck.com. The Company will make available, free of charge at the “Investors” portion of its website, its Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and all amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, as soon as reasonably practicable after such reports are electronically filed with, or furnished to, the U.S. Securities and Exchange Commission (SEC). The address of that website is www.sec.gov. In addition, the Company will provide without charge a copy of its Annual Report on Form 10-K, including financial statements and schedules, upon the written request of any shareholder to the Office of the Secretary, Merck & Co., Inc., 2000 Galloping Hill Road, K1-4157, Kenilworth, NJ 07033 U.S.A.
+The Company’s corporate governance guidelines and the charters of the Board of Directors’ four standing committees are available on the Company’s website at www.merck.com/company-overview/leadership and all such information is available in print to any shareholder who requests it from the Company.

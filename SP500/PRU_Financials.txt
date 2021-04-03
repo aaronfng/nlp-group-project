@@ -1,0 +1,982 @@
+Prudential Financial, Inc. (“Prudential Financial” or “PFI”), a financial wellness leader and premier global investment manager with approximately $1.721 trillion of assets under management as of December 31, 2020, has operations in the United States, Asia, Europe and Latin America. Through our subsidiaries and affiliates, we offer a wide array of financial products and services, including life insurance, annuities, retirement-related products and services, mutual funds and investment management. We offer these products and services to individual and institutional customers through proprietary and third-party distribution networks. Our principal executive offices are located in Newark, New Jersey, and Prudential Financial’s Common Stock is publicly traded on the New York Stock Exchange under the ticker symbol “PRU”.
+ 
+On December 18, 2001, PICA converted from a mutual life insurance company owned by its policyholders to a stock life insurance company and became a wholly-owned subsidiary of Prudential Financial. The demutualization was carried out under PICA’s Plan of Reorganization, which required us to establish and operate a regulatory mechanism known as the “Closed Block.” The Closed Block includes certain in-force participating insurance and annuity products and corresponding assets that are used for the payment of benefits and policyholders’ dividends on these products, as well as certain related assets and liabilities.
+
+Our principal operations consist of PGIM (our global investment management business), our U.S. Businesses (consisting of our U.S. Workplace Solutions, U.S. Individual Solutions, and Assurance IQ divisions), our International Businesses, the Closed Block division and our Corporate and Other operations. The U.S. Workplace Solutions division consists of our Retirement and Group Insurance businesses; the U.S. Individual Solutions division consists of our Individual Annuities and Individual Life businesses; and the Assurance IQ division consists of our Assurance IQ business, which we acquired in October 2019. See Note 1 to the Consolidated Financial Statements for additional information related to this acquisition. The Closed Block division is accounted for as a divested business that is reported separately from the Divested and Run-off Businesses that are included in Corporate and Other. Divested and Run-off Businesses are composed of businesses that have been, or will be, sold or exited, including businesses that have been placed in wind-down status that do not qualify for “discontinued operations” accounting treatment under generally accepted accounting principles in the United States of America (“U.S. GAAP”). Our Corporate and Other operations include corporate items and initiatives that are not allocated to business segments, and the Divested and Run-off Businesses as described above. See Note 22 to the Consolidated Financial Statements for revenues, income and loss, and total assets by segment.
+
+Our strategy centers on our mix of high-quality protection, retirement and investment management businesses which creates growth potential due to earnings diversification and the opportunity to provide customers with integrated cross-business solutions, as well as capital benefits from a balanced risk profile. We are well-positioned to meet the needs of customers and tap into significant market opportunities through PGIM, our U.S. Businesses and our International Businesses. See “Management’s Discussion and Analysis of Financial Condition and Results of Operations” for additional information.
+
+2
+Table of Contents
+
+PGIM
+
+Provides investment management services and solutions related to public fixed income, public equity, real estate debt and equity, private credit and other alternatives, and multi-asset class strategies, to institutional and retail clients globally, as well as our general account.
+					
+Products
+
+Our products and services are offered through the following seven businesses: 
+
+•PGIM Fixed Income - provides global active asset management services across public fixed income markets.
+•Jennison Associates - provides active fundamental public equity and fixed income asset management services across an array of growth, value, global and specialty equity strategies, as well as long-duration fixed income strategies.
+•QMA - provides systematic quantitative equity and global multi-asset strategies as well as customized client solutions.
+•PGIM Private Capital - provides private credit solutions across the risk spectrum including investment grade, high yield, direct lending and mezzanine financing.
+•PGIM Real Estate - provides a broad range of public and private real estate debt and equity strategies.
+•PGIM Investments - manufactures and services retail investment management products primarily utilizing PGIM’s asset managers across U.S. and European retail markets.
+•PGIM Global Partners - operates local asset management businesses in Taiwan and India, and has interests in asset management operating joint ventures in China and Italy. Each of these businesses serves both individual and institutional clients.
+ 
+We hold co- and seed investments in some of our investment products for regulatory purposes to co-invest alongside clients or to seed new products or investment strategies to develop a track record.
+
+	
+Marketing and Distribution
+
+We primarily distribute products through the following channels:
+
+•Institutional
+◦Proprietary sales force for each PGIM business with independent marketing and client service teams.
+◦PGIM’s Institutional Relationship Group, which develops relationships with, and introduces PGIM’s broad capabilities to, large institutions globally.
+
+•Retail
+◦Third-party intermediaries and product manufacturers/distributors globally who include our investment options in their products and platforms.
+◦Distribution channels associated with other Prudential business segments.
+◦Licensed sales professionals within Prudential Advisors, Prudential’s proprietary nationwide sales organization.
+
+•General Account
+◦Provide investment management services across a broad array of asset classes for our general account.
+
+
+
+
+
+
+3
+Table of Contents
+PGIM (Continued)
+					
+Revenues and Profitability
+Our revenues primarily come from:
+•Asset management fees which are typically calculated based upon a percentage of assets under management. In certain asset management arrangements, we also receive performance-based incentive fees when the return on the managed assets exceeds certain benchmark returns or other performance targets.
+•Transaction fees earned in connection with the structuring, sale or purchase of assets, primarily related to real estate and private fixed income.
+•Investment returns from co- and seed investing.
+•Revenues from commercial mortgage origination and servicing.
+
+Our profitability is substantially impacted by:
+•Macro market movements (e.g., interest rates, credit spreads and equity market performance).
+•Our ability to achieve investment returns above the target benchmarks.
+•Our ability to attract and retain client investments.
+
+
+
+
+	
+Competition
+We compete with numerous asset managers and other financial institutions. For our investment management products, we compete based on a number of factors, including investment performance, strategy and process, talent, organizational stability and client relationships.
+
+We offer products across multiple asset classes, with specialized investment teams that employ approaches designed to add value in each product area or asset class. Our organizational stability and robust institutional and retail businesses have helped attract and retain talent critical to delivering investment results for clients. Our private credit and commercial real estate lending businesses compete based on price, terms, execution and the strength of our relationship with the borrower.
+
+
+
+
+
+
+
+
+4
+Table of Contents
+U.S. Businesses—U.S. Workplace Solutions Division
+Retirement
+Develops and distributes retirement investment and income products and services to retirement plan sponsors in the public, private and not-for-profit sectors.
+					
+Products
+We offer a variety of products and services through the following two businesses:
+Full Service
+•A broad range of products and services to assist in the design, delivery and administration of defined contribution, defined benefit and non-qualified retirement plans, and retail Individual Retirement Accounts (“IRA”).
+•Recordkeeping and administrative services, actuarial consulting services, tailored participant education and communication services, comprehensive investment offerings and consulting services to assist retirement plan sponsors in managing fiduciary obligations.
+•General Account and Separate Account Stable Value products - generally contain an obligation to credit interest at a specified rate for a specified period of time and to repay account balances over time, or market value upon contract termination. These products are either fully or partially participating with annual or semi-annual rate resets subject to certain contractual minimums, giving effect to previous investment experience and other factors depending on the products.
+•Other investment products - include fee-based products through which customer funds are held in separate accounts, retail mutual funds, institutional funds or bank collective trusts advised by affiliated and non-affiliated investment managers, as well as synthetic guaranteed investment contracts, and guaranteed minimum withdrawal benefit products.
+
+Institutional Investment Products
+•Payout Annuities: products that provide a predictable source of monthly income, generally for the life of the annuitant.
+◦Pension risk transfer - non-participating group annuity insurance and reinsurance contracts issued to pension plan sponsors and intermediaries, under which we assume all investment and actuarial risk associated with a group of specified participants within a plan in return for a premium typically paid as a lump-sum at inception.
+◦Pension risk transfer - longevity reinsurance contracts with counterparties from which we earn a fee for assuming the longevity risk of pension plans that have been insured by third-parties. Premiums for these products are typically paid over the duration of the contract as opposed to a lump-sum at inception.
+	
+Products (continued)
+•Stable Value: products where our obligations are backed by our general account, where we bear some or all of the investment and asset-liability management risk, depending on the product.
+◦Investment-only products - for use in institutional capital markets and qualified plans primarily including fee-based wraps through which customers’ funds are held in a client-owned trust and investment results pass through to the customer. We earn fee revenue for providing a guaranteed minimum interest rate backed by the general account.
+◦Guaranteed Investment Contracts and Funding Agreements - contain an obligation to pay interest at a specified rate and to repay principal at maturity or following contract termination.
+•Other products: include structured settlements and other group annuities.
+
+Marketing and Distribution
+We primarily distribute products through the following channels for the two businesses:
+Full Service
+•Proprietary sales and support teams.
+•Third-party financial advisors, brokers, benefits consultants, and investment consultants.
+•Directly to plan sponsors.
+
+Institutional Investment Products
+•Pension risk transfer through actuarial consultants and third-party brokers.
+•Structured settlements through third-party specialized brokers.
+•Voluntary income products and other group annuities through the defined contribution portion of our full service business and directly to plan sponsors.
+•Stable value products through our proprietary sales force and third-party intermediaries.
+
+
+5
+Table of Contents
+Retirement (Continued)
+					
+Revenues and Profitability
+
+Our revenues primarily come in the form of:
+•Premiums associated with insurance and reinsurance contracts and our payout annuities.
+•Policy charges and fee income associated with recordkeeping and other administrative services, and investment products (including fee-based stable value) that we offer. Policy charges and fee income are primarily based on account values and/or number of participants.
+•Investment income (which contributes to the net spread over interest credited on our products and related expenses).
+
+Our profitability is substantially impacted by our ability to appropriately price our products. We price our products based on pricing models that consider the investment environment and our risk, fees, expenses, profitability targets, and assumptions for mortality and potential for early retirement. These assumptions may be less predictable in certain markets.
+	
+Competition
+We compete with other large, well-established insurance companies, asset managers, recordkeepers and diversified financial institutions.
+Full Service - we compete primarily based on:
+•Pricing
+•Breadth of our service and investment offerings
+•Expertise of our employees
+•Investment performance
+•Technology
+•Our ability to offer product features to meet the retirement income needs of our clients
+While we continue to have heightened pricing pressures (driven by competition, contractual limits on fee income, the influence of both intermediaries and regulations requiring more standard and consistent fee disclosures across industry providers), this business has experienced strong persistency in recent years.
+
+Institutional Investment Products - we compete primarily based on:
+•Pricing
+•Structuring capabilities
+•Our ability to offer innovative product solutions and successfully execute large-scale transactions
+We are a leader in providing innovative pension risk management solutions to plan sponsors and in the stable value market. We believe the pension risk transfer market continues to offer attractive opportunities that are aligned with our expertise.
+
+
+6
+Table of Contents
+U.S. Businesses—U.S. Workplace Solutions Division
+Group Insurance
+ 
+Develops and distributes a full range of group life, long-term and short-term group disability, and group corporate-, bank- and trust-owned life insurance in the U.S. primarily to institutional clients for use in connection with employee and membership benefits plans. Also sells accidental death and dismemberment and other supplemental health solutions and provides plan administration services in connection with its insurance coverages.
+					
+Products
+
+We offer a variety of products and services through the following two businesses:
+
+Group Life Insurance
+
+•Employer-paid and employee-paid coverages for term life insurance, group universal life, group variable universal life, basic and optional accidental death and dismemberment insurance. Many of our employee-paid coverages allow employees to retain their coverage when they change employers or retire, and we offer waiver of premium coverage where required premiums are waived in the event the insured suffers a qualifying disability.
+ 
+•Group corporate-, bank- and trust-owned life insurance in the form of group variable life insurance contracts utilizing separate accounts. These products are typically used by large corporations to fund deferred compensation plans and benefit plans for retired employees.
+
+Group Disability Insurance
+
+•Short-term and long-term group disability insurance, which protect against loss of wages due to illness or injury. Short-term disability generally provides weekly benefits for three to six months while long-term disability benefits are typically paid monthly, following a waiting period, and generally continue until the insured returns to work or reaches normal retirement age.
+ 
+•Plan administration and absence management services.
+
+	
+Marketing and Distribution
+
+We primarily distribute products through a proprietary sales force organized around market segments in conjunction with employee benefit brokers and consultants.
+
+7
+Table of Contents
+Group Insurance (Continued)
+
+					
+Revenues and Profitability
+
+Our revenues primarily come in the form of:
+
+•Premiums and policy charges for our group life and group disability products.
+
+•Investment income (which contributes to the net spread over interest credited on our products and related expenses).
+
+Our profitability is substantially impacted by our ability to appropriately price our products, many of which include multiple year premium rate guarantees. We price our products based on:
+
+•Underwriting practices and rating systems that consider company, industry and/or other experience.
+ 
+•The expected pay-out of benefits and other costs that we calculate using assumptions for mortality and morbidity rates, interest rates and expenses, depending upon the specific product features.
+
+	
+Competition
+
+We compete with other large, well-established life and health insurance providers in mature markets. We compete primarily based on brand recognition, service capabilities, customer relationships, financial strength, our range of product offerings and price. Our pricing of group insurance products is reflective of the large number of competitors in the marketplace. The majority of our premiums are derived from the National segment, which consists of large corporations, affinity groups and other organizations having over 5,000 insured individuals. We are seeking to grow our client base within the Premier segment, which consists of corporations, affinity groups and other organizations that have between 100 and 5,000 individuals. Employee-paid coverage is important as employers attempt to control costs and shift benefit decisions and funding to employees who continue to value workplace benefits. Our profitability is dependent, in part, on the voluntary coverage marketplace, which will be affected by future employment and compensation rates.
+8
+Table of Contents
+U.S. Businesses—U.S. Individual Solutions Division
+Individual Annuities
+
+Develops and distributes individual variable and fixed annuity products, primarily to U.S. mass affluent (households with investable assets or annual income in excess of $100,000) and affluent (households with investable assets in excess of $250,000) customers with a focus on innovative product design and risk management strategies.
+					
+Products
+We offer a variety of products to serve different retirement needs and goals:
+Variable Annuities
+•The Prudential Premier® Investment Variable Annuity (“PPI”) offers tax-deferred asset accumulation, annuitization options and an optional death benefit that guarantees the contractholder’s beneficiary a return of total purchase payments made to the contract, adjusted for any partial withdrawals, upon death.
+•MyRockSM Advisors, a fee-based variable annuity launched in August 2019. In April of 2020, an optional Dynamic Income Benefit (“IB”) rider was added that provides longevity protection through a preset withdrawal percentage applied to a variable income base. In addition, the product offers either a basic death benefit, or a Return of Purchase Payment (“ROP”) death benefit. Both the IB and the ROP are available for an additional fee.
+Indexed Variable Annuities
+•The Prudential FlexGuardSM indexed variable annuity, launched in May 2020, offers the contractholder an opportunity to allocate funds to variable subaccounts and index-based strategies. The strategies provide interest or an interest component linked to, but not an investment in, the selected index, and its performance over the elected term, subject to certain contractual minimums and maximums, and also provides varying levels of downside protection at pre-determined levels and durations. The product also allows for additional deposits and provides an ROP death benefit at no additional charge.
+Discontinued Variable Annuities
+•The Prudential Premier® Retirement Variable Annuity with Highest Daily Lifetime Income (“HDI”) offers lifetime income based on the highest daily account value plus a compounded deferral credit. Sales of this product have been discontinued as of December 31, 2020.
+•The Prudential Premier® Retirement Variable Annuity with Legacy Protection Plus (“LPP”) provides an optional enhanced death benefit based on the purchase payments rolling up at a preset rate on an annual basis until certain events occur, such as the death of the first owner (or annuitant if entity-owned) or the roll-up cap is reached. Sales of this product have been discontinued as of December 31, 2020.
+•The Prudential Defined Income® (“PDI”) Variable Annuity provides for guaranteed lifetime withdrawal payments but restricts contractholder investment to a single bond sub-account within the separate accounts. PDI includes a living benefit rider which provides for a specified lifetime income withdrawal rate applied to total purchase payments made to the contract, subject to annual roll-up increases until lifetime withdrawals commence, but does not have a highest daily benefit feature as discussed above. Sales of this product have been discontinued as of December 31, 2020.
+	
+Products (continued)
+Fixed Annuities
+•PruSecure®, and SurePathSM and SurePathSM Income, all single premium fixed index annuities, offer flexibility to allocate account balances between an index-based strategy and a fixed rate strategy. The index-based strategy provides interest or an interest component linked to, but not an investment in, the selected index, and its performance over the elected term (i.e., 1, 3 or 5 years for PruSecure® and 1 or 3 years for SurePathSM and SurePathSM Income), subject to certain contractual minimums and maximums. The fixed rate strategy, not associated with an index, offers a guaranteed growth at a set interest rate for one year and can be renewed annually. Additionally, SurePathSM Income offers a benefit that provides for guaranteed lifetime withdrawal payments.
+•The Prudential Fixed Annuity with Daily Advantage Income BenefitSM (“DAI”), a single premium fixed annuity launched in May 2020, provides principal protection as well as a guaranteed lifetime withdrawal income payment for an additional fee. The lifetime income amount increases daily without exposure to the equity market until the contractholder begins taking withdrawals.
+•The Prudential Immediate Income Annuity (“PIIA”), a single premium immediate annuity, provides a regular stream of benefit payments. The payments are guaranteed, cannot be changed and are higher than those guaranteed on products that provide liquidity.
+
+Marketing and Distribution
+Our distribution efforts, which are supported by a network of internal and external wholesalers, are executed through a diverse group of distributors including:
+•Third-party broker-dealers
+•Banks and wirehouses
+•Independent financial planners
+•Financial professionals, including those associated with Prudential Advisors, Prudential’s proprietary nationwide sales organization
+•Independent Marketing Organizations (“IMO”) (specifically for SurePathSM and SurePathSM Income)
+•LINK by Prudential, a personalized digital platform that connects customers to insurance professionals, through various channels (online, phone, video chat, or in person)
+9
+Table of Contents
+Individual Annuities (Continued)
+					
+Revenues and Profitability
+Our revenues primarily come in the form of:
+•Fee income from asset management fees and service fees, which represent administrative service and distribution fees from many of our proprietary and non-proprietary mutual funds. The asset management fees are determined as a percentage of the average assets of our proprietary mutual funds in our variable annuity products (net of sub-advisory expenses related to non-proprietary sub-advisors).
+•Policy charges and fee income representing mortality, expense and other fees for various insurance-related options and features based on the average daily net asset value of the annuity separate accounts, account value, premium, or guaranteed value, as applicable.
+•Investment income (which contributes to the net spread over interest credited on certain products and related expenses).
+
+Our profitability is substantially impacted by our ability to appropriately price our products. We price our products based on:
+•An evaluation of the risks assumed and consideration of applicable risk management strategies, including hedging and reinsurance costs.
+•Assumptions regarding investment returns and contractholder behavior, including persistency, benefit utilization and the timing and efficiency of withdrawals for contracts with living benefit features, as well as other assumptions.
+	
+Competition
+We are among the industry’s largest providers of individual annuities and we compete with other providers of retirement savings and accumulation products, including large, well-established insurance and financial services companies. We believe our competitive advantage lies primarily in our innovative product features and our risk management strategies as well as brand recognition, financial strength, the breadth of our distribution platform and our customer service capabilities.
+10
+Table of Contents
+U.S. Businesses—U.S. Individual Solutions Division
+Individual Life
+ 
+Develops and distributes variable life, universal life and term life insurance products primarily to U.S. mass middle (households with investable assets in excess of $25,000 or annual income in excess of $50,000), mass affluent (households with investable assets or annual income in excess of $100,000) and affluent (households with investable assets in excess of $250,000) customers with a focus on providing life insurance solutions to protect individuals, families and businesses and to support estate and wealth transfer planning.
+					
+Products
+
+We offer a variety of products that serve different protection needs and goals:
+
+Variable Life - permanent coverage for life with potential to accumulate policy cash value based on underlying investment options
+
+•Our variable life policies offer flexibility in payment options and the potential to accumulate cash value through a suite of underlying investment options or a fixed rate option.
+ 
+•We offer different types of variable life policies that, in addition to the death benefit, are tailored to prioritize different goals, such as protection with moderate risk, growth with higher risk or legacy giving.
+
+Term Life - coverage for a specified number of years with a guaranteed tax-advantaged death benefit
+
+•Most of our term life policies offer an income tax-free death benefit, guaranteed premiums that will stay the same during the level-premium period and access to the death benefit while the policyholder is still alive to help them if they become terminally ill.
+
+•Most of our term life policies also offer a conversion option that allows the policyholder to convert the policy into a permanent policy that can potentially cover the insured for life.
+
+Universal Life - permanent coverage for life with the potential to accumulate policy cash value
+
+•Our universal life policies offer flexibility in payment options and the potential to accumulate cash value in an account that earns interest based on a crediting rate determined by the Company, subject to contractual minimums.
+ 
+•Indexed universal life policies provide interest credited to the cash value that is linked to, but not an investment in, the performance of an external index over a 1-year period, subject to certain cap and participation rates and contractual minimums/maximums.
+	
+Marketing and Distribution
+
+Our distribution efforts, which are supported by a network of internal and external wholesalers, are executed through a diverse group of distributors, including:
+ 
+•Third-party distribution
+ 
+◦Independent brokers
+◦Banks and wirehouses
+◦General agencies and producer groups
+
+•Prudential Advisors (Prudential’s proprietary nationwide sales organization)
+
+◦Distributes Prudential life insurance, annuities and investment products with proprietary and non-proprietary investment options as well as select insurance, annuities and investment products from other carriers.
+ 
+◦Offers certain retail brokerage and retail investment advisory services (through our dually-registered broker-dealer and investment advisor, Pruco Securities, LLC) including brokerage accounts, discretionary and non-discretionary investment advisory programs and financial planning services.
+ 
+◦Continues to execute a solutions-oriented business model centered around client relationships while strengthening and driving Prudential’s brand promise.
+ 
+◦Receives a market-based allowance from other Prudential business segments for distributing their products, which is eliminated between the segments in consolidation.
+
+•Direct-to-Consumer
+
+◦LINK by Prudential, a personalized digital platform that connects customers to insurance professionals, through various channels (online, phone, video chat, or in person).
+
+◦Assurance IQ, a wholly-owned consumer solutions platform that leverages data science and technology to distribute a proprietary term life product (as well as other third-party health and financial wellness solutions) directly to retail shoppers primarily through its digital and agent channels.
+11
+Table of Contents
+Individual Life (Continued)
+					
+Revenues and Profitability
+
+Our revenues primarily come in the form of:
+
+•Premiums that are fixed in accordance with the terms of the policies.
+ 
+•Policy charges and fee income consisting of in-force policy- and/or asset-based fees.
+ 
+•Investment income (which contributes to the net spread over interest credited on our products and related expenses).
+
+Our profitability is substantially impacted by our ability to appropriately price our products. We price our products based on:
+
+•Our assumptions of mortality and morbidity, persistency, interest rates, expenses, premium payment patterns, separate account fund performance and product generated tax deductions.
+	
+Competition
+
+We compete with other large, well-established life insurance companies in a mature market. We compete primarily based on price, service (including the speed and ease of underwriting), distribution channel relationships, brand recognition and financial strength. Due to the large number of competitors, pricing is competitive. We periodically adjust product offerings, prices and features based on the market and our strategy, with a goal of achieving customer and enterprise value across a balanced product portfolio and consistent sales growth.
+12
+Table of Contents
+U.S. Businesses—Assurance IQ Division
+Assurance IQ 
+Leverages data science and technology to primarily distribute third-party products (such as Medicare, health, life, property and casualty, and personal finance products) and a proprietary term life product directly to retail shoppers, primarily through its digital and agent channels. Additionally, Assurance IQ may help customers fulfill financial wellness needs by matching them with other product providers or intermediaries.
+					
+Products
+
+Assurance IQ primarily distributes the following products:
+
+•Medicare - third-party Medicare Supplement and Medicare Advantage for qualifying Medicare beneficiaries.
+
+•Health Under 65 - third-party primary and supplemental health insurance that cover an individual’s medical and prescription expenses, including product coverage provided under the Affordable Care Act.
+
+•Life - third-party life insurance products, including term life, final expense, and whole life protection, as well as a proprietary term life product. Some carriers’ products allow for accelerated underwriting to enable faster policy placement.
+
+•Property and Casualty - third-party auto and home insurance coverage that indemnifies customers for loss caused by accidents, theft, natural disasters and other events where property damage or financial loss may occur.
+
+•Personal Finance - third-party residential mortgage products for retail borrowers.
+	
+Marketing and Distribution
+
+The Assurance IQ business model relies primarily on digital marketing and data science to reach prospective customers (“shoppers”) to, in turn, drive traffic to its distribution platform. Digital marketing includes traffic from various sources such as search, email, and social media. To a lesser extent, we also use traditional forms of marketing such as print and TV.
+
+We primarily distribute products through the following channels:
+ 
+•On Demand Agents - Commission-based, independent agents that are located across the United States. They work remotely, and collectively are licensed to sell various products in all 50 states.
+
+•Hub Agents - Licensed agents employed by Assurance IQ who work in certain strategic locations across the U.S. or via work-at-home arrangements. Agents are compensated through a combination of base and incentive pay.
+
+•Third-Party Agent Call Centers - Assurance IQ may contract with licensed agent call centers as a means of serving shoppers, especially during periods of peak shopper demand (e.g., Medicare annual election period in the fourth quarter).
+
+•Digital - Shoppers can price and purchase many of Assurance IQ’s offerings completely online, without the involvement of an agent.
+
+•Third-Party Case Referrals - Assurance IQ transfers shoppers in the form of calls, clicks and leads to selected marketing partners who may be able to alternatively serve a shopper’s specific needs for life, health, Medicare, property and casualty insurance, and various personal finance products.
+13
+Table of Contents
+Assurance IQ (Continued)
+					
+Revenue
+
+Our revenues primarily come in the form of:
+
+•Commissions received from product manufacturers.
+
+•Case referral revenues earned from marketing partners related to the transfer of calls, clicks or leads.
+	
+Competition
+
+We compete with large and small life, health and property and casualty retail distributors, third-party brokers, and other fintech and insurtech companies. We compete based on several factors, including: marketing reach and effectiveness; the ability to effectively match shoppers to the right products and solutions using data science; our capacity to meet shoppers’ demands; and the quality of our technology platform, which optimizes the customer experience and enables agents to efficiently service shoppers.
+14
+Table of Contents
+International Businesses
+ 
+Develops and distributes life insurance, retirement products and certain accident and health products with fixed benefits to mass affluent and affluent customers through our Life Planner operations in Japan, Brazil, Argentina and Mexico. Also provides similar products through our Gibraltar Life and Other operations to broad middle income and mass affluent customers across Japan, our joint ventures in Chile, China, India and Indonesia, and our strategic investment in Ghana through multiple distribution channels (including banks, independent agencies and Life Consultants).
+					
+Products
+
+Our products are classified into the following four categories:
+
+Life Insurance Protection Products - include various traditional whole life products that provide either level or increasing coverage, and that offer limited or lifetime premium payment options. We also offer increasing, decreasing and level benefit term insurance products that provide coverage for a specified time period, as well as protection-oriented variable life products. Some of these protection products are denominated in U.S. dollars and some are sold as bundled products that, in addition to death protection, include health benefits or savings elements.
+
+Retirement Products - include retirement income products that combine insurance protection similar to term life with a lifetime income stream that commences at a predefined age, savings-oriented variable life products that provide a non-guaranteed return linked to an underlying investment portfolio of equity and fixed income funds selected by the customer, and endowments that provide payment of the face amount on the earlier of death or policy maturity.
+
+Annuity Products - primarily represented by U.S. dollar-denominated fixed annuities sold by our Gibraltar Life operations in Japan. Sales and surrenders of non-yen denominated products in Japan can be sensitive to foreign currency relationships which are impacted by, among other things, the comparative interest rates in their respective countries. Most of our fixed annuity products impose a market value adjustment if the contract is not held to maturity.
+
+Accident and Health Products - provide benefits to cover accidental death and dismemberment, hospitalization, surgeries, and cancer and other dread diseases, often sold as supplementary riders and not as stand-alone products. We also offer waiver of premium coverage where required premiums are waived in the event the customer suffers a qualifying disability.
+	
+Marketing and Distribution
+
+Our marketing and distribution efforts are conducted through the following proprietary agent models and third-party channels:
+
+Proprietary agent models:
+
+•Life Planners - focuses on selling protection-oriented life insurance products on a needs basis to mass affluent and affluent customers, as well as retirement-oriented products to small businesses. We believe that our recruiting and selection process, training programs and compensation packages are key to the Life Planner model and have helped our Life Planner operations achieve higher levels of agent retention, agent productivity and policy persistency.
+
+•Life Consultants - is a proprietary distribution force for products offered by our Gibraltar Life operations. Their focus is to provide individual protection products to the broad middle income market, primarily in Japan, particularly through relationships with affinity groups. Our Life Consultant operation is based on a variable compensation plan designed to improve productivity and persistency that is similar to compensation plans in our Life Planner operations.
+
+Third-party channels:
+
+•Bank Distribution Channel - sells primarily life insurance products intended to provide savings features, premature death protection and estate planning benefits as well as fixed annuity products primarily denominated in U.S. dollars. We view the bank distribution channel as an adjunct to our core Life Planner and Life Consultant distribution channels. A significant portion of our sales in Japan through our bank distribution channel are derived through a single Japanese mega-bank; however, we have relationships with each of Japan’s four largest banks as well as many regional banks, and we continue to explore opportunities to expand our distribution capabilities through this channel, as appropriate.
+
+•Independent Agency Distribution Channel - sells protection products and high cash value products for retirement benefits through the corporate market and a variety of other products including protection and fixed annuity products through the individual market. Our focus is to maintain a diverse mix of independent agency relationships including corporate agencies and other independent agencies with a balanced focus on individual and corporate markets.
+15
+Table of Contents
+International Businesses (Continued)
+					
+Revenues and Profitability
+Our revenues primarily come in the form of:
+•Premiums that are fixed or flexible in accordance with the terms of the policies.
+
+•Policy charges and fee income consisting of in-force policy- and/or asset-based fees.
+ 
+•Investment income (which contributes to the net spread over interest credited on our products and related expenses).
+
+Our profitability is substantially impacted by our ability to appropriately price our products. We price our products based on:
+•Local regulation, which is generally more restrictive for product offerings, pricing and structure than U.S. insurance regulation. Each international insurance operation has its own underwriting department that employs variations of U.S. practices in underwriting individual policy risks. To the extent permitted by local regulation, we base premiums and policy charges for our products on expected death and morbidity benefits, surrender benefits, expenses, required reserves, interest rates, policy persistency and premium payment patterns. In setting underwriting limits, we also consider local industry standards to prevent adverse selection and to stay abreast of industry trends. In addition, we set underwriting limits together with each operation’s reinsurers.
+ 
+•Achieving a targeted rate of return for each operation, taking into account the country-specific costs of capital, risks, and competitive environment. The profitability of our products is impacted by differences between actual mortality, morbidity, expense, and investment experience and the related assumptions used in pricing these policies. As a result, the profitability of our products can fluctuate from period to period. Changes in local tax laws may also affect profitability.
+	
+Competition
+The life insurance market in Japan is mature and pricing is competitive. Rather than competing primarily based on price, we generally compete on the basis of customer service, including our needs-based approach to selling, the quality and diversity of our distribution capabilities, and our financial strength. Demographic trends in Japan suggest an increasing opportunity for product innovation, introducing insurance products that allow for savings and income as a growing portion of the population prepares for retirement. The ability to sell through multiple and complementary distribution channels is also a competitive advantage; however, competition for sales personnel, as well as access to third-party distribution channels, is intense.
+16
+Table of Contents
+
+Corporate and Other
+ 
+Includes corporate items and initiatives that are not allocated to our business segments as well as businesses that have been or will be divested or placed in wind-down status, except for the Closed Block. Results of the Closed Block, along with certain related assets and liabilities, are reported separately from the Divested and Run-off Businesses included in Corporate and Other.
+
+Corporate Operations - consist primarily of: (1) capital that is not deployed in any business segment; (2) investments not allocated to business segments, including debt-financed investment portfolios, and tax credit and other tax-enhanced investments financed by business segments; (3) capital debt, including any related interest expense and financing costs, that is used or will be used to meet the capital requirements of the Company; (4) our qualified and non-qualified pension and other employee benefit plans, after allocations to business segments; (5) corporate-level activities, after allocations to business segments, including strategic expenditures, acquisition and disposition costs, corporate governance, corporate advertising, philanthropic activities, deferred compensation, costs related to certain contingencies and legal matters; (6) expenses associated with the multi-year plan of programs that span across our businesses and the functional areas that support those businesses; (7) certain retained obligations relating to pre-demutualization policyholders; (8) impacts of risk management activities pursuant to our Risk Appetite Framework; (9) the foreign currency income hedging program used to hedge certain non-U.S. dollar denominated earnings in our International Businesses segment; (10) intercompany arrangements with our International Businesses and PGIM segments to translate non-U.S. dollar-denominated earnings at fixed currency exchange rates; and (11) transactions with and between other segments, including the elimination of intercompany transactions for consolidation purposes.
+
+Divested and Run-off Businesses - reflect the results of businesses that have been, or will be, sold or exited, including businesses that have been placed in wind-down status that do not qualify for “discontinued operations” accounting treatment under U.S. GAAP. We exclude these results from our adjusted operating income. Divested and Run-off Businesses include: 
+ 
+•Long-Term Care - in 2012, we discontinued sales of our individual and group long-term care insurance products. We establish reserves for these products in accordance with U.S. GAAP. We use best estimate assumptions as of the most recent loss recognition date when establishing reserves for future policyholder benefits and expenses, including assumptions for morbidity, mortality, mortality improvement, persistency, expenses and investment returns. Our assumptions also include our estimate of the timing and amount of anticipated future premium rate increases and policyholder benefit reductions which will require approval by state regulatory authorities.
+
+•Other - recent transactions include: (1) in 2020, we sold our Korean insurance business and entered into an agreement to sell our Taiwanese insurance business, subject to regulatory approvals and customary closing conditions; (2) in 2019, we sold our Pramerica of Italy subsidiary; and (3) in 2018, we sold our Pramerica of Poland subsidiary and exited our PGIM Brazil operations, including the sale of our minority interest in a Brazilian asset management joint venture.
+ 
+17
+Table of Contents
+
+Closed Block Division
+ 
+In connection with the demutualization in 2001, we ceased offering domestic participating individual life insurance and annuity products under which policyholders are eligible to receive policyholder dividends reflecting experience. The liabilities for our individual in-force participating products were segregated, together with assets to be used exclusively for the payment of benefits and policyholder dividends, expenses and taxes with respect to these products, in the Closed Block. We selected the amount of assets that were expected to generate sufficient cash flow, together with anticipated revenues from the Closed Block policies, over the life of the Closed Block to fund payments of all policyholder benefits, expenses and taxes, and to provide for the continuation of the policyholder dividend scales that were in effect in 2000, assuming experience underlying such scales continued. No policies sold after demutualization have been added to the Closed Block, and its in-force business is expected to decline as we pay policyholder benefits in full.
+
+The results of the Closed Block, along with certain related assets and liabilities, comprise the Closed Block division, which is treated as a divested business under our definition of adjusted operating income and reported separately from the other Divested and Run-off Businesses that are included in our Corporate and Other.
+ 
+As discussed in Note 15 to the Consolidated Financial Statements, if the performance of the Closed Block is more or less favorable than we originally assumed in funding, total dividends paid to Closed Block policyholders in the future may be greater or less than the total dividends that would have been paid to these policyholders if the policyholder dividend scales that were in effect in 2000 had been continued. Any experience in excess of amounts assumed may be available for distribution over time to Closed Block policyholders as part of policyholder dividends unless offset by future Closed Block experience that is less favorable than expected. This excess experience will not be available to shareholders. If the Closed Block has insufficient funds to make guaranteed policy benefit payments, such payments will be made from PICA’s assets outside of the Closed Block. A policyholder dividend obligation liability is established for any excess experience. Each year, the Board of Directors of PICA determines the dividends payable on participating policies for the following year based on the experience of the Closed Block, including investment income, net realized and unrealized investment gains and losses, mortality experience and other factors. See Note 22 to the Consolidated Financial Statements for revenues, income and loss, and total assets of the Closed Block division.
+ 
+Our strategy is to maintain the Closed Block as required by our Plan of Reorganization over the time period of its gradual diminution as policyholder benefits are paid in full. We are permitted under the Plan of Reorganization, with the prior consent of the Commissioner of Banking and Insurance for the State of New Jersey, to enter into agreements to transfer all or any part of the risks underlying the Closed Block policies.
+
+ 
+18
+Table of Contents
+
+Seasonality of Key Financial Items
+
+The following chart summarizes our key areas of seasonality in our results of operations:
+														
+	First Quarter	Second Quarter	Third Quarter	Fourth Quarter
+				
+PGIM	Higher compensation expense(1)			Other related revenues tend to be higher(2)
+Retirement	Reserve gains higher(3)	Reserve gains higher(3)	Reserve gains lower(3)	Reserve gains lower(3)
+Individual
+Life	Lowest underwriting gains		Highest underwriting gains	
+Assurance IQ	Lowest revenue			Higher revenue driven by annual Medicare enrollment
+International Businesses	Highest premiums	Lowest premiums		
+Corporate &
+Other	Higher compensation expense(1)			
+All
+Businesses		Impact of annual assumption update(4)		Higher expenses(5)
+__________
+(1)Long-term compensation expense for retirement eligible employees is recognized when awards are granted, typically in the first quarter of each year.
+(2)Other related revenues include incentive fees, transaction fees, co- and seed investing results and commercial mortgage revenues.
+(3)Reserve gains are typically higher/lower than the quarterly average. Excludes the impact of annual reviews and update of assumptions and other refinements and market experience updates.
+(4)Impact of annual reviews and update of assumptions and other refinements. Excludes PGIM and Assurance IQ.
+(5)Expenses are typically higher than the quarterly average in the fourth quarter.
+
+19
+Table of Contents
+Reinsurance
+
+We regularly enter into reinsurance agreements as either the ceding entity or the assuming entity. As a ceding entity, exposure to the risks reinsured is reduced by transferring certain rights and obligations of the underlying insurance product to a counterparty. Conversely, as an assuming entity, exposure to the risks reinsured is increased by assuming certain rights and obligations of the underlying insurance products from a counterparty. We enter into reinsurance agreements as the ceding entity for a variety of reasons but primarily do so to reduce exposure to loss, reduce risk volatility, provide additional capacity for future growth and for capital management purposes. Under ceded reinsurance, we remain liable to the underlying policyholder if a third-party reinsurer is unable to meet its obligations. On a Company-wide basis, we evaluate the financial condition of reinsurers, monitor the concentration of counterparty risk and maintain collateral, as appropriate, to mitigate this exposure. We enter into reinsurance agreements as the assuming entity as part of our normal product offering process (e.g., certain pension risk transfer products in the Retirement segment) or in order to facilitate an acquisition of a block of business.
+
+The following table summarizes our use of reinsurance in each of our insurance reporting segments.
+								
+Segment	Primary Type
+of Reinsurance	Purpose
+Retirement	Assumed	Assumed reinsurance as part of our reinsurance pension risk transfer products and in conjunction with our 2004 acquisition of CIGNA’s defined benefit and defined contribution business.
+Group Insurance	Ceded	Ceded reinsurance on most products to limit losses from large claims (in response to client requests and for capital management purposes).
+Individual Annuities	Ceded/Assumed	
+Ceded reinsurance with both third-party reinsurers and affiliates. The third-party reinsurance includes the following products:
+•A portion of HDI v.3.0 variable annuity business issued between April 1, 2015 to December 31, 2016; and
+•Certain fixed indexed annuity business (specifically for PruSecure® and SurePathSM) issued effective October 15, 2019. Under U.S. GAAP, this agreement is accounted for under deposit accounting.
+
+Assumed reinsurance in conjunction with our 2006 acquisition of The Allstate Corporation (“Allstate”) variable annuity business as well as internally ceded and assumed reinsurance as part of our risk and capital management activities.
+Individual Life	Ceded/Assumed	Ceded reinsurance with both third-party reinsurers and affiliates covering a variety of products to mitigate mortality risk and for capital management purposes. On policies sold since 2000, we have reinsured a significant portion of our mortality risk externally, with that portion varying over time depending on market factors and strategic objectives.
+
+Assumed reinsurance in conjunction with our 2013 acquisition of The Hartford’s individual life insurance business.
+International Businesses	Ceded	Ceded reinsurance with both third-party reinsurers and affiliates to mitigate mortality and morbidity risk for certain products and for capital management purposes.
+Closed Block	Ceded	PICA cedes substantially all of the outstanding liabilities of the Closed Block into a statutory guaranteed separate account of a wholly-owned subsidiary, Prudential Legacy Insurance Company of New Jersey, primarily on a coinsurance basis. The reinsurance transaction provides a long-term and comprehensive capital framework for the Closed Block.
+
+Intangible and Intellectual Property
+ 
+We capture and protect the innovation in our financial services products by applying for federal business method patents and implementing trade secret controls, as appropriate. We also use numerous federal, state, common law and foreign service marks, including in particular “Prudential”, the “Prudential logo”, our “Rock” symbol and “PGIM”. We believe that the value associated with many of our patents and trade secrets, and the goodwill associated with many of our service marks, are significant competitive assets.
+
+Since 2004, we have had an agreement with Prudential plc of the United Kingdom (“U.K.”), with whom we have no affiliation, concerning the parties’ respective rights worldwide to use the names “Prudential” and “Pru.” Since 2019, the agreement has also included M&G plc of the U.K., the parent of The Prudential Assurance Company Limited, following its
+20
+Table of Contents
+demerger from Prudential plc. The agreement restricts use of the “Prudential” and “Pru” names and marks in a number of countries outside the Americas, including Europe and most parts of Asia. Where these limitations apply, we combine our “Rock” symbol with alternative word marks. We believe that these limitations do not materially affect our ability to operate or expand internationally.
+ 
+Regulation
+ 
+Overview
+ 
+Our businesses are subject to comprehensive regulation and supervision. The purpose of these regulations is primarily to protect our customers and the overall financial system and not necessarily our shareholders or debt holders. Many of the laws and regulations to which we are subject are regularly re-examined. Existing or future laws and regulations may become more restrictive or otherwise adversely affect our operations or profitability, increase compliance costs, or increase potential regulatory exposure. In recent years we have experienced, and expect to continue to experience, extensive changes in the laws and regulations, and regulatory frameworks applicable to our businesses in the U.S. and internationally. Such changes may be accelerated or otherwise impacted by the new presidential administration in the United States. We cannot predict how current or future initiatives will further impact existing laws, regulations and regulatory frameworks.
+
+In our international businesses, regulations may apply heightened requirements to non-domestic companies, which can reduce our flexibility as to intercompany transactions, investments and other aspects of business operations and adversely affect our liquidity and profitability. In some instances, regulators of a particular country may impose different, or more rigorous laws and requirements than in the U.S. or other countries to protect customers or their financial system from perceived systemic risk, including regulations governing privacy, consumer protection, employee protection, corporate governance and capital adequacy. In addition, certain of our international operations face political, legal, operational and other risks that we may not face in the U.S., including the risk of discriminatory regulation, labor issues in connection with independent contractor or franchisee status, workers’ associations and trade unions, nationalization or expropriation of assets, price controls and currency exchange controls or other restrictions that limit our ability to transfer funds from these operations out of the countries in which they operate or to convert local currencies we hold into U.S. dollars or other currencies. Some jurisdictions in which we operate joint ventures restrict our maximum percentage of ownership, which exposes us to additional operational, compliance, legal and joint venture partner risks and limits our array of potential remedies in the event of a breach by a partner.
+
+The primary regulatory frameworks applicable to the Company are described further below under the following section headings:
+
+•Dodd-Frank Wall Street Reform and Consumer Protection Act
+◦Rescission of Designation
+◦Initiatives Regarding Dodd-Frank and Financial Regulation
+•ERISA
+•Fiduciary Rules and other Standards of Care
+•U.S. State Insurance Holding Company Regulation
+•U.S. Insurance Operations
+◦State Insurance Regulation
+◦U.S. Federal and State Securities Regulation Affecting Insurance Operations
+◦U.S. Federal and State Health Insurance Plan Regulation
+◦Other Consumer Protection Regulation
+•International Insurance Regulation
+•U.S. Investment and Retirement Products and Investment Management Operations
+•U.S. Securities and Commodity Operations
+•International Investment and Retirement Products and Investment Management Operations
+•Derivatives Regulation
+•Privacy and Cybersecurity Regulation
+•Anti-Money Laundering and Anti-Bribery Laws
+•Environmental Laws and Regulations
+•Unclaimed Property Laws
+•Taxation
+◦U.S. Taxation
+◦International Taxation
+•International and Global Regulatory Initiatives
+•Regulatory Response to the COVID-19 Pandemic
+21
+Table of Contents
+
+Several of our domestic and foreign regulators participate in an annual supervisory college facilitated by the New Jersey Department of Banking and Insurance (“NJDOBI”). The purpose of the supervisory college is to promote ongoing supervisory coordination, facilitate the sharing of information among regulators and enhance each regulator’s understanding of the Company’s risk profile. The most recent supervisory college was held in October 2020.
+
+Existing and future accounting rules may also impact our results of operations or financial condition. For a discussion of accounting pronouncements and their potential impact on our business, including Accounting Standards Update (“ASU”) 2018-12, Financial Services - Insurance (Topic 944): Targeted Improvements to the Accounting for Long-Duration Contracts, see Note 2 to the Consolidated Financial Statements.
+
+ Dodd-Frank Wall Street Reform and Consumer Protection Act
+ 
+Rescission of Designation
+
+In October 2018, the Financial Stability Oversight Council (“FSOC” or the “Council”) rescinded the Company’s designation as a non-bank financial company (a “Designated Financial Company”) subject to supervision by the Board of Governors of the Federal Reserve System (“FRB”) under the Dodd-Frank Wall Street Reform and Consumer Protection Act (“Dodd-Frank”). As a result of the Council’s rescission of the Company’s Designated Financial Company status, the Company is no longer subject to supervision and examination by the FRB or to the prudential standards applicable to Designated Financial Companies under Dodd-Frank.
+
+The Council maintains the authority to designate entities, including the Company, for FRB supervision if it determines that either (i) material financial distress at the entity, or (ii) the nature, scope, size, scale, concentration, interconnectedness, or mix of the entity’s activities, could pose a threat to domestic financial stability. The Company continues to believe it does not meet the standards for designation.
+
+Initiatives Regarding Dodd-Frank and Financial Regulation
+
+In November 2017, the U.S. Department of the Treasury released a report titled “Financial Stability Oversight Council Designations,” with recommendations on the Council’s standards and processes for the designation and continued designation of Designated Financial Companies. In addition, in October 2017, the U.S. Department of the Treasury released a report titled “A Financial System That Creates Economic Opportunities - Asset Management and Insurance” which recommended, among other things, that primary federal and state regulators should focus on potential systemic risks arising from products and activities, and on implementing regulations that strengthen the asset management and insurance industries as a whole, rather than focus on an entity-based regulatory regime. The report also affirmed the role of the U.S. state-based system of insurance regulation. In December 2019, FSOC revised its interpretive guidance regarding Designated Financial Company determinations. The guidance describes the approach FSOC intends to take in prioritizing its work to identify and address potential risks to U.S. financial stability using an activities-based approach, and enhancing the analytical rigor and transparency in the processes FSOC intends to follow if it were to consider making a Designated Financial Company determination. From time to time Congress has also introduced legislation which, if enacted, would amend certain provisions of Dodd-Frank, including by requiring the Council to prioritize the use of an activities-based approach to mitigate identified systemic risks.
+
+We cannot predict whether the Treasury reports, interpretive guidance, new legislation or other initiatives aimed at revising Dodd-Frank and regulation of the financial system will ultimately form the basis for changes to laws or regulations impacting the Company.
+
+ERISA
+ 
+The Employee Retirement Income Security Act (“ERISA”) is a comprehensive federal statute that applies to U.S. employee benefit plans sponsored by private employers and labor unions. Plans subject to ERISA include pension and profit sharing plans and welfare plans, including health, life and disability plans. ERISA provisions include reporting and disclosure rules, standards of conduct that apply to plan fiduciaries and prohibitions on transactions known as “prohibited transactions,” such as conflict-of-interest transactions and certain transactions between a benefit plan and a party in interest. ERISA also provides for civil and criminal penalties and enforcement. Our insurance, investment management and retirement businesses provide services to employee benefit plans subject to ERISA, including services where we may act as an ERISA fiduciary. In addition to ERISA regulation of businesses providing products and services to ERISA plans, we become subject to ERISA’s prohibited transaction rules for transactions with those plans, which may affect our ability to enter transactions, or the terms on which transactions may be entered, with those plans, even in businesses unrelated to those giving rise to party in interest status.
+22
+Table of Contents
+ 
+Fiduciary Rules and Other Standards of Care
+
+The Company and our distributors are subject to rules regarding the standard of care applicable to sales of our products and the provision of advice to our customers. In recent years, many of these rules have been revised or reexamined, as described below. We cannot predict whether any proposed or new amendments to the existing regulatory framework will ultimately become applicable to our businesses. Any new standards issued by the U.S. Department of Labor (“DOL”), the Securities and Exchange Commission (“SEC”), the National Association of Insurance Commissioners (“NAIC”) or state regulators may affect our businesses, results of operations, cash flows and financial condition. 
+
+DOL Fiduciary Rules
+
+In June 2018, a Fifth Circuit Court of Appeals decision became effective that vacated rules issued by the DOL that redefined who would be considered a “fiduciary” for purposes of transactions with qualified plans, plan participants and Individual Retirement Accounts (“IRAs”), and generally provided that investment advice to a plan participant or IRA owner would be treated as a fiduciary activity. Prior to being vacated, the rules adversely impacted sales in our annuities and retirement businesses and resulted in increased compliance costs. In December 2020, the DOL finalized a new prohibited transaction exemption that became effective on February 16, 2021, which replaces the previously vacated “best interest contract exemption,” and extended its non-enforcement relief to December 2021. The new exemption will allow fiduciaries meeting the requirements of the exemption to receive compensation, including as a result of advice to rollover assets from a tax-qualified plan to an IRA, and to purchase from or sell certain investments to qualified plans and IRAs. The DOL also reinstated the pre-2016 investment advice regulation and provided its current interpretation of that regulation, which could result in rollover recommendations being fiduciary investment advice if certain conditions are met. We are continuing to assess the implications of the final prohibited transaction exemption and accompanying interpretive guidance for our businesses.
+
+SEC Best Interest Regulation
+
+In June 2019, the SEC adopted a package of rulemakings and interpretative guidance that, among other things, requires broker-dealers to act in the best interest of retail customers when recommending securities transactions or investment strategies to them. The guidance also clarifies the SEC’s views of the fiduciary duty that investment advisers owe to their clients. The new best interest standards became effective on June 30, 2020. The new standards apply to recommendations to purchase certain products offered by our PGIM, Retirement, Individual Annuities and Individual Life businesses, and have resulted in increased compliance costs, in particular in our Prudential Advisors distribution system, which we include in the results of our Individual Life segment.
+
+U.S. State Standard of Care Regulation
+
+In February 2020, the NAIC adopted revisions to the model suitability rule applicable to the sale of annuities. The revised model regulation states the insurance salesperson must act “without placing the producer’s or the insurer’s financial interest ahead of the consumer’s interest.” The model rule will become applicable to us as it is adopted in each state. In addition, certain state regulators and legislatures have adopted or are considering adopting best interest standards. For example, in July 2018, the New York State Department of Financial Services (“NY DFS”) issued an amendment to its suitability regulations which imposes a best-interest standard on the sale of annuity and life insurance products in New York. The amendments became effective for annuity products on August 1, 2019 and for life insurance products on February 1, 2020, and the Company has taken steps we believe are necessary to comply with the rules. In addition, in October 2018, the New Jersey Bureau of Securities issued a proposal that would impose a fiduciary standard on all New Jersey investment professionals. Also, the Massachusetts Securities Division adopted a fiduciary standard of conduct which applies to broker-dealers and its agents, which has been enforced since September 1, 2020.
+
+Japan Standard of Care Regulation
+
+Outside the U.S., in 2017 the Japanese Financial Services Agency (“FSA”) announced the “Principles of Fiduciary Duty,” a set of recommended general principles for businesses to adopt when performing client related financial services. The principles have been adopted by The Prudential Life Insurance Company Ltd. (“Prudential of Japan”), Gibraltar Life, and Prudential Gibraltar Financial Life Insurance Company, Ltd. (“PGFL”). The FSA encourages voluntary adoption of these fiduciary principles as a best practice, but adoption is not required by regulation. Companies’ policies regarding their fiduciary duties can be tailored based on their specific business, such as target clients and complexity of products. Once companies adopt the principles and establish a policy, they are required to implement measures to ensure their employees fulfill their fiduciary duties, and periodically assess the measures’ effectiveness.
+23
+Table of Contents
+
+U.S. State Insurance Holding Company Regulation
+ 
+We are subject to the insurance holding company laws in the states where our insurance subsidiaries are domiciled, which currently include New Jersey, Arizona, Connecticut and Indiana, or are treated as commercially domiciled, such as New York. These laws generally require each insurance company directly or indirectly owned by the holding company to register with the insurance department in the insurance company’s state of domicile and to furnish annually financial and other information about the operations of companies within the holding company system, including an assessment of the group’s risk management and current and future solvency position. Generally, all transactions affecting the insurers in the holding company system must be fair and reasonable and, if material, require prior notice and approval or non-disapproval by the state’s insurance department.
+ 
+Change of Control
+
+Most states, including the states in which our U.S. insurance companies are domiciled, have insurance laws that require regulatory approval of a direct or indirect change of control of an insurer or an insurer’s holding company. Laws such as these that apply to us prevent any person from acquiring control of Prudential Financial or of our insurance subsidiaries unless that person has filed a statement with specified information with the insurance regulators and has obtained their prior approval. Under most states’ statutes, acquiring 10% or more of the voting stock of an insurance company or its parent company is presumptively considered a change of control, although such presumption may be rebutted. Accordingly, any person who acquires 10% or more of the voting securities of Prudential Financial without the prior approval of the insurance regulators of the states in which our U.S. insurance companies are domiciled will be in violation of these states’ laws and may be subject to injunctive action requiring the disposition or seizure of those securities by the relevant insurance regulator or prohibiting the voting of those securities and to other actions determined by the relevant insurance regulator. In addition, many state insurance laws require prior notification to state insurance departments of a change in control of a non-domiciliary insurance company doing business in that state.
+ 
+Group-Wide Supervision
+ 
+NJDOBI acts as the group-wide supervisor of Prudential Financial pursuant to New Jersey legislation that authorizes group-wide supervision of internationally active insurance groups (“IAIGs”). The law, among other provisions, authorizes NJDOBI to examine Prudential Financial and its subsidiaries, including by ascertaining the financial condition of the insurance companies for purposes of assessing enterprise risk. In accordance with this authority, NJDOBI receives information about the Company’s operations beyond those of its New Jersey domiciled insurance subsidiaries.
+  
+Additional areas of focus regarding group-wide supervision of insurance holding companies include the following:
+
+•Group Capital Calculation. The NAIC is developing a U.S. group capital calculation that uses a risk-based capital (“RBC”) aggregation methodology. The calculation is intended to serve as an additional tool to help state regulators assess potential risks within and across insurance groups. A final version of the calculation is expected to be adopted in 2021, followed by implementation in 2022.
+
+•Macroprudential Framework. The NAIC is developing a macroprudential framework intended to: (1) improve state insurance regulators’ ability to monitor and respond to the impact of external financial and economic risks on insurers; (2) better monitor and respond to risk emanating from or amplified by insurers that might be transmitted externally; and (3) increase public awareness of NAIC/state monitoring capabilities regarding macroprudential trends. As part of this initiative, the areas identified by the NAIC for potential enhancement include liquidity reporting and stress testing, resolution and recovery, capital stress testing, and counterparty exposure and concentration. The NAIC is currently developing a liquidity stress testing framework and is updating its models and policies to enhance regulators’ resolution and recovery abilities.
+
+•Examination. State insurance departments conduct periodic examinations of the books and records, financial reporting, policy filings and market conduct of insurance companies domiciled in their states, generally once every three to five years under guidelines promulgated by the NAIC. As group-wide supervisor, NJDOBI, along with our other insurance regulators, has expanded the periodic examinations to cover Prudential and all of its subsidiaries. In June 2018, NJDOBI, along with the insurance regulators of Arizona, Connecticut and Indiana, completed their first global consolidated group-wide examination of Prudential and its subsidiaries for the five-year period ended December 31, 2016 and had no reportable findings.
+
+24
+Table of Contents
+We cannot predict what, if any, additional requirements and compliance costs any new group-wide standards will impose on Prudential Financial.
+
+U.S. Insurance Operations
+ 
+State insurance laws regulate all aspects of our U.S. insurance businesses. State insurance departments in the fifty states, the District of Columbia and various U.S. territories and possessions monitor our insurance operations. PICA is domiciled in New Jersey and its principal insurance regulatory authority is the NJDOBI. Our other U.S. insurance companies are principally regulated by the insurance departments of the states in which they are domiciled. Generally, our insurance products must be approved by the insurance regulators in the state in which they are sold. Our insurance products are substantially affected by federal and state tax laws.
+ 
+State Insurance Regulation
+ 
+State insurance authorities have broad administrative powers with respect to all aspects of the insurance business including: (1) licensing to transact business; (2) licensing agents; (3) admittance of assets to statutory surplus; (4) regulating premium rates for certain insurance products; (5) approving policy forms; (6) regulating unfair trade and claims practices; (7) establishing reserve requirements and solvency standards; (8) fixing maximum interest rates on life insurance policy loans and minimum accumulation or surrender values; (9) regulating the type, amounts and valuations of investments permitted; (10) regulating reinsurance transactions, including the role of captive reinsurers; and (11) other matters.
+ 
+State insurance laws and regulations require our U.S. insurance companies to file financial statements with state insurance departments everywhere they do business in accordance with accounting practices and procedures prescribed or permitted by these departments. The operations of our U.S. insurance companies and accounts are subject to examination by those departments at any time.
+  
+Financial Regulation
+ 
+Dividend Payment Limitations. New Jersey insurance law and the insurance laws of the other states in which our insurance companies are domiciled regulate the amount of dividends that may be paid by PICA and our other U.S. insurance companies. See Note 16 to the Consolidated Financial Statements for additional information.
+ 
+Risk-Based Capital. We are subject to RBC requirements that are designed to enhance regulation of insurers’ solvency. The RBC calculation, which regulators use to assess the sufficiency of an insurer’s statutory capital, measures the risk characteristics of a company’s assets, liabilities and certain off-balance sheet items. In general, RBC is calculated by applying factors to various asset, premium, claim, expense and reserve items. Within a given risk category, these factors are higher for those items with greater underlying risk and lower for items with lower underlying risk. Insurers that have less statutory capital than required are considered to have inadequate capital and are subject to varying degrees of regulatory action depending upon the level of capital inadequacy.
+  
+Areas of the RBC framework that have recently been subject to reexamination or revision include the following:
+
+•Bond Factors. The NAIC’s Life Risk-Based Capital Working Group is developing updates to the RBC factors for invested assets. In April 2020, the NAIC adopted changes to expand current NAIC designations into the RBC calculation from six bond structures to twenty in order to conduct an impact analysis for 2020 year-end reporting.
+
+•Longevity/Mortality Risk. The NAIC’s Longevity Risk Subgroup of the Life Insurance and Annuities Committee and Financial Condition Committee is developing recommendations to recognize longevity risk in risk-based capital related to annuities. Statutory reporting requirements on longevity risk were added in 2020 to allow the NAIC to understand the potential impact of risk-based capital changes being considered. The Company assumes this longevity risk primarily in its Retirement and Individual Annuities businesses. The NAIC is also developing updates to the existing mortality risk factors in RBC.
+
+•Operational Risk. In 2018, the NAIC adopted operational risk charges that became effective for the year-end 2018 RBC calculation. The operational risk charges did not materially impact our 2018 RBC ratios given that we hold statutory capital consistent with or in excess of the thresholds established through these new charges. The NAIC is continuing to explore further guidance to improve regulators’ analysis and assessment of
+25
+Table of Contents
+operational risks.
+
+•Economic Scenario Generator (“ESG”). In 2017, the American Academy of Actuaries notified the NAIC that it did not have the resources to maintain its ESGs used in regulatory reserve and capital calculations. In 2020, the NAIC selected a third-party vendor to provide, maintain, and support the economic scenario generator prescribed for life and annuity statutory reserve and capital calculations. The NAIC is evaluating the vendor’s economic scenarios and other modifications. We cannot predict what impact a new ESG may ultimately have on our businesses.
+
+Due to the ongoing nature of the NAIC’s activities regarding RBC, we cannot determine the ultimate timing of the proposed changes or their impact on RBC or on our financial position.
+ 
+Insurance Reserves and Regulatory Capital. State insurance laws require us to analyze the adequacy of our reserves annually. The respective appointed actuaries for each of our life insurance companies must each submit an opinion that our reserves, when considered in light of the assets we hold with respect to those reserves, make adequate provision for our contractual obligations and related expenses.
+ 
+The reserving framework for certain of our products and the regulatory capital requirements applicable to our business have undergone reexamination and revision in recent years, including in the following areas:
+
+•Principle-Based Reserving for Life Insurance Products. In 2016, the NAIC adopted a principle-based reserving (“PBR”) approach for life insurance products. Principle-based reserving replaces the reserving methods for life insurance products for which the former formulaic basis for reserves may not accurately reflect the risks or costs of the liability or obligations of the insurer. The principle-based reserving approach had a three-year phase-in period. Principle-based reserving will not affect reserves for policies in force prior to January 1, 2017.
+
+The Company has introduced updated versions of its individual life products in conjunction with the requirement to adopt principle-based reserving by January 1, 2020. These updated products are currently priced to support the principle-based statutory reserve level without the need for reserve financing. Certain elements of the implementation of principle-based reserving are yet to be finalized by the NAIC and may have a material impact on statutory reserves. The Company continues to assess the impact of the implementation of principle-based reserving on projected statutory reserve levels, product pricing and the use of financing.
+
+•Variable Annuities Framework for Change. In 2019, the NAIC adopted final revisions to the Valuation Manual (VM-21), Actuarial Guideline 43 (“AG 43”), and risk-based capital instructions to implement a new variable annuity statutory framework for 2020. Changes include: (i) aligning economically-focused hedge assets with liability valuations; (ii) eliminating the Standard Scenario and replacing it with the Standard Projection for AG 43 and C3 Phase II; and (iii) standardizing capital market assumptions and aligning total asset requirements and reserves. There was no material impact to our target capital levels from the revised framework. The NAIC is considering further changes to the Valuation Manual for future years.
+
+•New York Variable Annuity and Life Insurance Product Reserves. As a result of an agreement with the NY DFS regarding our reserving methodologies for certain variable annuity and life insurance products, certain of our New York licensed insurance subsidiaries hold additional statutory reserves on a New York basis, which reduces their New York statutory surplus. None of our U.S. operating insurance companies are domiciled in New York, and these changes do not impact statutory reserves reported in our insurance subsidiaries’ states of domicile, or any states other than New York, and therefore do not impact RBC ratios; however, the agreed reserve methodologies may require us to increase our additional New York statutory reserves in the future. New York’s version of PBR, which became effective in January 2020, allows for modifications to the NAIC valuation model and New York’s modifications might require us to increase our New York statutory reserves. If we were required to establish material additional reserves on a New York statutory accounting basis or post material amounts of additional collateral with respect to annuity or insurance products, our ability to deploy capital held within our U.S. domestic insurance subsidiaries for other purposes could be affected.
+
+•Principle-Based Reserving (“PBR”) for Non-Variable Annuities. The NAIC is developing a principle-based reserving framework for non-variable (fixed) annuity products in the accumulation and payout phases. We cannot predict what impact a new fixed annuity PBR framework may ultimately have on our businesses.
+
+26
+Table of Contents
+•Reinsurance. In 2019, the NAIC’s Statutory Accounting Principles Working Group revised the statutory accounting rules regarding reinsurance credit with respect to the risk transfer requirements for group life yearly renewable term reinsurance agreements, effective January 1, 2021. The Company has amended the relevant applicable agreements such that the revisions will not have a material impact on the reinsurance credit we receive for yearly renewable term reinsurance, including in the group life insurance business.
+
+•Yearly Renewable Term Reinsurance Reserve Credit. The NAIC’s Life Actuarial Task Force is also evaluating changes to its Valuation Manual relating to yearly renewable term reinsurance. The NAIC adopted interim changes effective in 2020 that adversely impact statutory reserve credit for yearly renewable term reinsurance related to our individual life insurance products being reserved using a principle-based approach. Field testing has been conducted and discussions are currently underway to develop a long-term solution. We cannot predict what impact a long-term solution may ultimately have on our businesses.
+
+•Credit for Reinsurance Model. During 2019, the NAIC approved revisions to the Credit for Reinsurance Model Law and Credit for Reinsurance Model Regulation to make the models consistent with the provisions of the U.S.’s bilateral covered agreements with the European Union (“E.U.”) and the U.K. with respect to reinsurance collateral requirements. The revisions eliminate reinsurance collateral requirements applicable to E.U. and U.S. reinsurers meeting certain minimum requirements. The revisions also eliminate the requirements to maintain a local presence to do business in the E.U. or U.K. or post collateral in any E.U. jurisdiction or the U.K. The amended model law will become applicable to the Company as it is adopted by each domiciliary state. Each E.U. jurisdiction and the U.K. must also enact the provisions of the covered agreements into local law/regulation.
+ 
+•Surplus Notes. The NAIC’s Statutory Accounting Principles Working Group is evaluating changes to the accounting rules regarding surplus notes with linked assets. These changes could result in the classification of the surplus notes as debt instead of surplus and require linked assets to be treated as non-admitted assets. These changes would materially adversely impact the statutory financial position of the Company’s captive reinsurance subsidiaries that use credit-linked note structures to finance Regulation XXX and Guideline AXXX reserves. Also, in May 2020, the NAIC adopted enhanced disclosures on surplus notes that became effective for year-end 2020 reporting.
+
+Captive Reinsurance Companies.
+
+We use captive reinsurance subsidiaries to finance the portion of the statutory reserves for term and universal life policies that we consider to be non-economic for policies written prior to the implementation of principle-based reserving. See “Management’s Discussion and Analysis of Financial Condition and Results of Operations—Liquidity and Capital Resources—Capital—Financing Activities—Term and Universal Life Reserve Financing” for a discussion of our life product reserves and reserve financing.
+Market Conduct Regulation
+ 
+State insurance laws and regulations include numerous provisions governing the marketplace activities of insurers, including provisions governing the form and content of disclosure to consumers, illustrations, advertising, sales practices and complaint handling. State regulatory authorities generally enforce these provisions through periodic market conduct examinations. We have been subject to market conduct examinations relating to our marketplace activities, including with respect to the policies and procedures we use to locate guaranteed group annuity customers and establish related reserves. Market conduct examinations by state regulatory authorities have resulted and may in the future result in us increasing statutory reserves, changing operational processes and procedures, and could result in the imposition of fines or other discipline.
+
+Long-Term Care Rate Regulation
+
+During 2019, the NAIC established a new Long-Term Care Insurance Task Force under the Executive Committee. It is charged with (1) developing a consistent national approach for reviewing long-term care insurance rates that result in actuarially appropriate increases being granted by the states in a timely manner and eliminates cross-state rate subsidization, and (2) ensuring consumers are provided with meaningful options to modify their contract benefits in situations where the premiums are no longer affordable due to rate increases. The task force has in turn established several workstreams regarding these and other related issues, including guaranty funds and reserving. We cannot predict whether this initiative will ultimately result in changes to the regulations applicable to our long-term care business, or how those changes will impact the Company.
+
+27
+Table of Contents
+Data and Underwriting
+
+During 2020, the NAIC Accelerated Underwriting Working Group evaluated insurers’ use of external data and data analytics in accelerated life insurance underwriting and is considering, if appropriate, drafting guidance for states.
+ 
+Insurance Guaranty Association Assessments
+ 
+Each state has insurance guaranty association laws under which insurers doing business in the state are members and may be assessed by state insurance guaranty associations for certain obligations of insolvent insurance companies to policyholders and claimants. Typically, states assess each member insurer in an amount related to the member insurer’s proportionate share of the business written by all member insurers in the state. The majority of state guaranty association laws provide a tax offset for a percentage of the assessment against future years’ premium taxes. For the years ended December 31, 2020, 2019 and 2018, we paid $1 million, $2 million and $2.3 million, respectively, in assessments pursuant to state insurance guaranty association laws. While we cannot predict the amount and timing of future assessments on our U.S. insurance companies under these laws, we have established estimated reserves totaling approximately $30 million as of December 31, 2020, for future assessments relating to insurance companies that are currently subject to insolvency proceedings, including Penn Treaty Network America Insurance Company, Executive Life of California and Lincoln Memorial Life Insurance Company.
+
+In 2017, the NAIC approved amendments to the Life and Health Insurance Guaranty Association Model Act to address issues relating to long-term care insurance-related insolvencies. The amendments will spread costs from future long-term care insurance-related insolvencies across the entire health and life insurance industry, resulting in increased assessments for life insurers. The amended model law will become applicable to us as it is adopted by each state. Prior insolvencies will not be included under these amendments. Given our current market share of the impacted lines of business, we expect our cost related to future insolvencies, net of premium tax offsets available under current state laws, would be a small percentage of the gross industry liability.
+ 
+U.S. Federal and State Securities Regulation Affecting Insurance Operations
+ 
+Our variable life insurance, variable annuity and mutual fund products generally are “securities” within the meaning of federal securities laws and may be required to be registered under the federal securities laws and subject to regulation by the SEC and the Financial Industry Regulatory Authority (“FINRA”). Certain of our insurance subsidiaries are subject to SEC public reporting and disclosure requirements based on offerings of these products. Federal and some state securities regulation similar to that discussed below under “—U.S. Investment and Retirement Products and Investment Management Operations” and “—U.S. Securities and Commodities Regulation” affect investment advice, sales and related activities with respect to these products.
+ 
+Our mutual funds, and in certain states our variable life insurance and variable annuity products, are also “securities” within the meaning of state securities laws. As securities, these products are subject to filing and certain other requirements. Also, sales activities with respect to these products generally are subject to state securities regulation. Such regulation may affect investment advice, sales and related activities for these products.
+  
+Federal Insurance Office
+ 
+Dodd-Frank established a Federal Insurance Office (“FIO”) within the Department of the Treasury headed by a director appointed by the Secretary of the Treasury. While the FIO does not have general supervisory or regulatory authority over the business of insurance, the FIO director performs various functions with respect to insurance, including serving as a non-voting member of the Council, monitoring the insurance sector and representing the U.S. on prudential aspects of international insurance matters, including at the International Association of Insurance Supervisors (“IAIS”).
+
+U.S. Federal and State Health Insurance Plan Regulation
+
+The Patient Protection and Affordable Care Act (“PPACA”) and The Health Care and Education Reconciliation Act (together, the “Affordable Care Act”), as well as state insurance laws, include numerous provisions governing the marketing and sale of health insurance plans. Congress from time to time considers health care reform that could decrease or increase the attractiveness of health insurance products sold by Assurance IQ, or have an unfavorable or favorable effect on our ability to earn revenues from sales of these products. In addition, the marketing and sale of Medicare Advantage products by Assurance IQ is subject to federal laws, regulations and guidelines issued by the U.S. Centers for Medicare and Medicaid Services.
+
+Other Consumer Protection Regulation
+28
+Table of Contents
+
+Assurance IQ engages in certain marketing activities and sales of third-party insurance products and residential mortgage loan products that are subject to a variety of federal and state consumer protection laws and regulations, including the Real Estate Settlement Procedures Act, the Truth in Lending Act, the Federal Trade Commission Act, and other laws and regulations enforced by the Federal Trade Commission, Consumer Financial Protection Bureau, state Attorneys General, and/or state Departments of Banking.
+
+International Insurance Regulation
+ 
+Our international insurance operations are principally supervised by regulatory authorities in the jurisdictions in which they operate, including the Japanese Ministry of Finance and the Japanese FSA, the financial services regulator in Japan. In addition to Japan, we operate insurance companies in Argentina, Bermuda, Brazil, Mexico and Taiwan, and have insurance operations in China, India, Indonesia and Malaysia through joint ventures, and in Ghana through a strategic investment. The insurance regulatory bodies for these businesses typically oversee such issues as: (1) company licensing; (2) the licensing of insurance sales staff; (3) insurance product approvals; (4) sales practices; (5) claims payment practices; (6) permissible investments; (7) solvency and capital adequacy; and (8) insurance reserves, among other items. In some jurisdictions, for certain products, regulators will also mandate premium rates (or components of pricing) or minimum guaranteed interest rates. Periodic examinations of insurance company books and records, financial reporting requirements, market conduct examinations and policy filing requirements are among the techniques used by these regulators to supervise our non-U.S. insurance businesses. Finally, insurance regulatory authorities in the various jurisdictions in which our insurance companies are domiciled, including Japan, must approve any change of control of Prudential Financial or the insurance companies organized under their laws.
+ 
+Solvency Regulation
+
+In order to monitor insurers’ solvency, regulatory authorities in the jurisdictions in which we operate outside the U.S. generally establish some form of minimum solvency requirements for insurance companies, similar in concept to the RBC ratios that are employed by U.S. insurance regulators. These solvency ratios are used by regulators to assess the sufficiency of an insurer’s capital and claims-paying ability and include the impact of transactions with affiliated entities. Certain jurisdictions require the disclosure of solvency ratios to the public. Insurers that have lower solvency ratios than the regulators require are considered to have inadequate capital and are subject to varying degrees of regulatory action depending upon the level of capital inadequacy.
+
+Japan Capital and Solvency Regulation. Our Japan insurance operations are currently subject to a capital standard known as the Solvency Margin Ratio framework (“SMR”). This standard prescribes the manner in which an insurance company’s capital is calculated and is meant to respond to changes in financial markets, improve risk management practices of insurers and consider risks associated with the insurer’s subsidiaries. The Japan FSA has in recent years asked insurance market participants to engage in a series of annual field tests of a new market based alternative to the SMR framework called the Economic Solvency Ratio (ESR) that follows the IAIS’ Risk-based Global Insurance Capital Standard (“ICS”), which is described below under “—Other International and Global Regulatory Initiatives.” We anticipate that the ESR will be implemented by 2025 which aligns with the ICS timeline. The IAIS established 2020 –2024 as the five-year monitoring period for observing how the ICS performs over an economic cycle. It is possible that adjustments to the ICS may be made during this time period. Therefore, the Company will conduct field tests for ICS while the Japan insurance operations will conduct field tests for ESR.
+
+Dividend Payment Limitations
+
+The insurance regulatory bodies in some of the countries where our international insurance businesses are located regulate the amount of dividends that our subsidiaries can pay to shareholders. See Note 16 to the Consolidated Financial Statements for additional information regarding the ability of our international subsidiaries to pay dividends to Prudential Financial.
+ 
+Insurance Guaranty Fund Assessments
+
+Certain of our international insurance operations, including those in Japan, may be subject to assessments, generally based on their proportionate share of business written in the relevant jurisdiction, for certain obligations of insolvent insurance companies to policyholders and claimants. As we cannot predict the timing of future assessments, they may materially affect the results of operations of our international insurance operations in particular quarterly or annual periods. Under the Japanese insurance guaranty law, all licensed life insurers in Japan are required to be members of and are assessed, on a pre-funded basis, by the Japan Policyholders Protection Corporation (“PPC”). These assessments generate a collective fund which is used to satisfy certain obligations of insolvent insurance companies to policyholders and claimants. The PPC assesses each member in
+29
+Table of Contents
+an amount related to its proportionate share of new business written by all member insurers. For the years ended December 31, 2020, 2019 and 2018, we paid approximately $24 million, $23 million and $22 million, respectively, based on fixed currency exchange rates, in assessments pursuant to Japanese insurance guaranty association laws.
+
+U.S. Investment and Retirement Products and Investment Management Operations
+ 
+Our retirement and investment products and services are subject to federal and state securities and fiduciary laws, ERISA, and other laws and regulations. The SEC, FINRA, the Commodity Futures Trading Commission (“CFTC”), National Futures Association (“NFA”), state securities commissions, state banking and insurance departments, DOL and the Department of the Treasury are the principal U.S. regulators that regulate our retirement and investment management operations. In some cases, our domestic U.S. investment operations are also subject to non-U.S. securities laws and regulations.
+  
+Some of the separate account, mutual fund and other pooled investment products offered by our businesses, in addition to being registered under the Securities Act, are registered as investment companies under the Investment Company Act of 1940, as amended, and the shares of certain of these entities are qualified for sale in some states and the District of Columbia. Separate account investment products are also subject to state insurance regulation as described above. We also have several subsidiaries that are registered as broker-dealers under the Securities Exchange Act of 1934 (“Exchange Act”), as amended, and are subject to federal and state regulation. In addition, we have subsidiaries that are investment advisers registered under the Investment Advisers Act of 1940, as amended. Our third-party advisors and licensed sales professionals within Prudential Advisors and other employees, insofar as they sell products that are securities, are subject to the Exchange Act and to examination requirements and regulation by the SEC, FINRA and state securities commissioners. Regulation and examination requirements also extend to various Prudential entities that employ or control those individuals.
+ 
+Congress from time to time considers or enacts legislation that could decrease or increase the attractiveness of certain of our retirement products and services to retirement plan sponsors and administrators, or have an unfavorable or favorable effect on our ability to earn revenues from these products and services. Over time, these changes could limit our sales of defined benefit and defined contribution pension products and services and cause sponsors to discontinue existing plans for which we provide investment management, administrative, or other services; conversely, these changes could also increase the attractiveness of certain products and services we offer in connection with such plans.
+
+In December 2019, Congress enacted the Setting Every Community up for Retirement Enhancement (“SECURE”) Act. The SECURE Act is expected to help promote retirement plan coverage and increase retirement plan savings, as well as facilitate access to guaranteed lifetime income solutions. The Act addresses coverage issues by making it easier for small businesses to participate in pooled employer plans and requires coverage of certain long-term, part-time workers. The Act addresses savings issues by raising the cap on amounts contributed through auto-enrollment, increasing the maximum age for required minimum withdrawals to 72 and removing the age cap (70 1/2) for making IRA contributions. The Act also made it easier for employers to include guaranteed lifetime income as part of their plan by providing an annuity provider selection safe harbor, as well as providing for the portability of participant investments in annuity products. In addition, the SECURE Act included provisions that enable participants to withdraw, penalty-free, up to $5,000 for expenses attendant to the birth or adoption of a child and limit the ability of certain IRA beneficiaries to defer tax recognition of their inheritance beyond ten years.
+
+Implementation of the SECURE Act provisions and the issuance of related regulatory guidance is still ongoing and under consideration by plan sponsors and providers; therefore, it is difficult to assess its impact on our businesses at this time.
+
+In March 2020, in response to the COVID-19 pandemic, Congress enacted the Coronavirus Aid, Relief, and Economic Security (“CARES”) Act, which waived Required Minimum Distributions for 2020, increased the amount qualified individuals may borrow from defined contribution plans from $50,000 to $100,000, and allowed qualified individuals to withdraw from defined contribution plans and individual retirement arrangements up to $100,000 penalty-free through December 31, 2020, with the withdrawal taxed over a three-year period (unless otherwise elected by the individual). The CARES Act also permits the Company to suspend troubled debt restructuring (“TDR”) accounting under GAAP in certain circumstances for a period extending until December 31, 2021.
+
+On December 27, 2020, in response to the COVID-19 pandemic, Congress enacted the Consolidated Appropriations Act of 2021 (“CAA”). The CAA includes a provision that changes the floor interest rates used for Definition of Life Insurance (“DOLI”) testing under Section 7702 of the Internal Revenue Code of 1986, as amended (the “Code”), and Modified Endowment Contract (“MEC”) testing under Section 7702A of the Code. The change is intended to better reflect the current low interest rate environment and, for contracts issued on or after January 1, 2021, may increase the DOLI and MEC limits and
+30
+Table of Contents
+allow more premium payments relative to the death benefit. We are currently evaluating the impacts that this change will have on our products.
+ 
+U.S. Securities and Commodity Operations
+ 
+We have subsidiaries that are broker-dealers, investment advisers, commodity pool operators or commodity trading advisers. The SEC, the CFTC, state securities authorities, FINRA, the NFA, the Municipal Securities Rulemaking Board, and similar authorities are the principal regulators of these subsidiaries.
+ 
+Our broker-dealer and commodities affiliates are members of, and are subject to regulation by, “self-regulatory organizations,” including FINRA and the NFA. Self-regulatory organizations conduct examinations of, and have adopted rules governing, their members. In addition, state securities and certain other regulators have regulatory and oversight authority over our registered broker-dealers. Broker-dealers and their sales forces in the U.S. and in certain other jurisdictions are subject to regulations that cover many aspects of the securities business, including sales methods and trading practices. The regulations cover the suitability of investments for individual customers, use and safekeeping of customers’ funds and securities, capital adequacy, recordkeeping, financial reporting and the conduct of directors, officers and employees. The SEC, CFTC and other governmental agencies and self-regulatory organizations, as well as state securities commissions in the U.S. and non-U.S. regulatory agencies, have the power to conduct administrative proceedings that can result in censure, fine, the issuance of cease-and-desist orders or suspension, termination or limitation of the activities of a broker-dealer, an investment adviser or commodities firm or its employees. Our U.S. registered broker-dealer subsidiaries are subject to federal net capital requirements that may limit the ability of these subsidiaries to pay dividends to Prudential Financial.
+
+International Investment and Retirement Products and Investment Management Operations
+
+Our non-insurance international operations are supervised primarily by regulatory authorities in the countries in which they operate. We operate investment-related businesses in, among other jurisdictions, Japan, Taiwan, the U.K., Ireland, India, Hong Kong, Mexico, Germany, Luxembourg, the Netherlands, China and Singapore, and participate in investment-related joint ventures in Italy and China and a retirement related joint venture in Chile. These businesses may provide products such as investment management products and services, mutual funds, separately managed accounts and retirement products. The regulatory authorities for these businesses typically oversee such issues as: (1) company licensing; (2) the licensing of investment product sales staff; (3) sales practices; (4) solvency and capital adequacy; (5) mutual fund product approvals and related disclosures; and (6) securities, commodities and related laws, among other items. In some cases, our international investment operations are also subject to U.S. securities laws and regulations.
+ 
+On January 31, 2020, the U.K. exited the E.U. following a non-binding referendum in June 2016, with a transition period in relation to existing laws and regulations which ended on December 31, 2020. The U.K. and E.U. have entered into a new trading relationship under the E.U.-U.K. Cooperation Agreement; however, discussions in relation to financial services remain ongoing. The outcome of the negotiations will determine the ultimate impact of the exit on our operations and investments in those jurisdictions and may lead to volatility in currency exchange rates and asset prices, as well as changes in regulation. In the event the exit results in future restrictions on cross-border trade in financial services and products between the U.K. and the E.U., PGIM may incur additional expenses and operational burdens in order to ensure compliance with such restrictions. In anticipation of the exit, PGIM has implemented a number of steps to minimize disruption to its existing business, including forming new legal entities and securing licenses and permissions in certain E.U. countries, and engaging in client communications.
+
+Derivatives Regulation
+ 
+Prudential Financial and our subsidiaries use derivatives for various purposes, including hedging interest rate, foreign currency and equity market exposures. Dodd-Frank established a framework for regulation of the over-the-counter derivatives markets. This framework sets out requirements regarding the clearing and reporting of derivatives transactions, as well as collateral posting requirements for uncleared swaps. Affiliated swaps entered into between our subsidiaries are generally exempt from most of these requirements.
+ 
+We continue to monitor the potential hedging cost impacts of new initial margin requirements that we will be required to comply with in 2021, and increased capital requirements for derivatives transactions that may be imposed on banks that are our counterparties. Additionally, the increased need to post cash collateral in connection with mandatorily cleared swaps may also require the liquidation of higher yielding assets for cash, resulting in a negative impact on investment income.
+
+Privacy and Cybersecurity Regulation
+31
+Table of Contents
+ 
+We are subject to laws, regulations and directives that require financial institutions and other businesses to protect the security and confidentiality of personal information, including health-related and customer information, and to notify their customers and other individuals of their policies and practices relating to the collection and disclosure of health-related and customer information. In addition, we must comply with international privacy laws, regulations, and directives concerning the cross border transfer or use of employee and customer personal information. These laws, regulations and directives also:
+ 
+•provide additional protections regarding the use and disclosure of certain information such as national identifier numbers (e.g., social security numbers);
+•require notice to affected individuals, regulators and others if there is a breach of the security of certain personal information;
+•require financial institutions and creditors to implement effective programs to detect, prevent, and mitigate identity theft;
+•regulate the process by which financial institutions make telemarketing calls and send e-mail, text, or fax messages to consumers and customers;
+•require oversight of third parties that have access to, and handle, personal information; and
+•prescribe the permissible uses of certain personal information, including customer information and consumer report information.
+
+Some countries have also instituted laws requiring in-country data processing and/or in-country storage of the personal data of its citizens. Compliance with such laws could result in higher technology, administrative and other costs for us and could affect how products and services are offered or require us to structure our businesses, operations and systems in less efficient ways.
+
+Regulatory and legislative activity in the areas of privacy, data protection and information and cybersecurity continues to increase worldwide. Financial regulators in the U.S. and international jurisdictions in which we operate continue to focus on data privacy and cybersecurity, including in proposed rulemaking, and have communicated heightened expectations and have increased emphasis in this area in their examinations of regulated entities. For example, the E.U.’s General Data Protection Regulation (“GDPR”), which became effective in May 2018, confers additional privacy rights on individuals in the E.U. and establishes significant penalties for violations. In addition, in the U.S., the Federal government has proposed a number of sweeping privacy laws. In California, the California Consumer Privacy Act became effective in 2020 and confers numerous privacy rights on individuals and corresponding obligations on businesses. Additional rights and obligations will be imposed by the California Privacy Rights Act, which we expect to largely become effective in 2023. Internationally, a number of countries such as Brazil and Argentina have enacted or are considering enacting GDPR-like regulations.
+ 
+In October 2017, the NAIC adopted the Insurance Data Security Model Law. The model law requires that insurance companies establish a cybersecurity program and includes specific technical safeguards as well as requirements regarding governance, incident planning, data management, system testing, vendor oversight and regulator notification. The NY DFS adopted a similar regulation effective March 2017 and other states have either implemented the Model Law or are anticipated to implement it in the near future.
+ 
+The Company is monitoring regulatory guidance and rulemaking in these areas, and may be subject to increased compliance costs and regulatory requirements. In order to respond to the threat of security breaches and cyber-attacks, we have developed a program overseen by the Chief Information Security Officer and the Information Security Office that is designed to protect and preserve the confidentiality, integrity, and continued availability of all information owned by, or in the care of the Company. As part of this program, we also maintain an incident response plan. The program provides for the coordination of various corporate functions and governance groups and serves as a framework for the execution of responsibilities across businesses and operational roles. The program establishes security standards for our technological resources and includes training for employees, contractors and third parties. As part of the program, we conduct periodic exercises and a response readiness assessment with outside advisors to gain a third-party independent assessment of our technical program and our internal response preparedness. We regularly engage with the outside security community and monitor cyber threat information.
+ 
+Anti-Money Laundering and Anti-Bribery Laws
+ 
+Our businesses are subject to various anti-money laundering and financial transparency laws and regulations that seek to promote cooperation among financial institutions, regulators and law enforcement entities in identifying parties that may be involved in terrorism or money laundering. In addition, under current U.S. law and regulations we may be prohibited from dealing with certain individuals or entities in certain circumstances and we may be required to monitor customer activities, which may affect our ability to attract and retain customers. We are also subject to various laws and regulations relating to
+32
+Table of Contents
+corrupt and illegal payments to government officials and others, including the U.S. Foreign Corrupt Practices Act and the U.K.’s Anti-Bribery Law. The obligation of financial institutions, including the Company, to identify their clients, to monitor for and report suspicious transactions, to monitor dealings with government officials, to respond to requests for information by regulatory authorities and law enforcement agencies, and to share information with other financial institutions, has required the implementation and maintenance of internal practices, procedures and controls. 
+
+Environmental Laws and Regulations
+ 
+Federal, state and local environmental laws and regulations apply to our ownership and operation of real property. Inherent in owning and operating real property are the risks of hidden environmental liabilities and the costs of any required clean-up. Although unexpected environmental liabilities can always arise, we seek to minimize this risk by undertaking environmental assessments, among other measures prior to taking title to real estate.
+ 
+Unclaimed Property Laws
+ 
+We are subject to the laws and regulations of states and other jurisdictions concerning the identification, reporting and escheatment of unclaimed or abandoned funds, and we are subject to audit and examination for compliance with these requirements. For additional discussion of these matters, see Note 23 to the Consolidated Financial Statements.
+ 
+Taxation
+
+U.S. Taxation
+ 
+The Company and certain domestic subsidiaries file a consolidated federal income tax return that includes both life insurance companies and non-life insurance companies. Certain other domestic subsidiaries file separate tax returns. The principal differences between the Company’s actual income tax expense and the applicable statutory federal income tax rate are generally deductions for non-taxable investment income, including the Dividends Received Deduction (“DRD”), foreign taxes applied at a different tax rate than the U.S. rate and certain tax credits. For tax years prior to 2018, the applicable statutory federal income tax rate was 35%. For tax years starting in 2018, the applicable statutory federal income tax rate is 21%. A future increase in the applicable statutory federal income tax rate above 21% would adversely impact the Company’s tax position. In addition, as discussed further below, the tax attributes of our products may impact both the Company’s and our customers’ tax positions. See “Income Taxes” in Note 2 to the Consolidated Financial Statements and Note 16 to the Consolidated Financial Statements for a description of the Company’s tax position. As discussed further below, new tax legislation and other potential changes to the tax law may impact the Company’s tax position and the attractiveness of our products.
+
+The Tax Act of 2017 was enacted into law on December 22, 2017 and was generally effective starting in 2018. The Tax Act of 2017 changed the taxation of businesses and individuals by lowering tax rates and broadening the tax base through the acceleration of taxable income and the deferral or elimination of certain deductions, as well as changing the system of taxation of earnings of foreign subsidiaries. The most significant changes for the Company were: (1) the reduction of the corporate tax rate from 35% to 21%; (2) revised methodologies for determining deductions for tax reserves and the DRD; (3) an increased capitalization and amortization period for acquisition costs related to certain products; and (4) the change from a worldwide deferred taxation system to a modified territorial system of taxation on applicable earnings of foreign subsidiaries, which includes (a) a new tax on earnings of foreign subsidiaries (the Global Intangible Low-Taxed Income (“GILTI”) provision ) and (b) a new alternative tax with respect to payments to non-U.S. affiliates that are at least 25% owned (the Base Erosion Anti-Abuse Tax (“BEAT”)).
+
+The GILTI provision applies a minimum U.S. tax to earnings of foreign subsidiaries in excess of a 10% deemed return on tangible assets of consolidated foreign subsidiaries by imposing the U.S. tax rate to 50% of earnings of such foreign affiliates and provides for a partial foreign tax credit for foreign income taxes. The amount of tax in any period on GILTI can depend on annual differences between U.S. taxable income recognition rules and taxable income recognition rules in the country of operations and the overall taxable income of U.S. operations, as well as U.S. expense allocation rules which limit the amount of foreign tax credits that can be applied to reduce the U.S. tax on the GILTI. Under certain circumstances, the taxable income of U.S. operations may cause more than 50% of earnings of foreign affiliates to be subject to the GILTI provision. In years that the U.S. consolidated PFI group incurs a net operating loss or has a loss from domestic businesses, the GILTI provision would operate to cause a loss of U.S. tax benefits for some or all of those losses, effectively increasing the tax on foreign earnings.
+
+The BEAT provision could, under certain conditions, increase our tax expense. The BEAT is an alternative tax implicated if tax deductible payments from U.S. companies to foreign affiliates that are at least 25% owned exceed 3% of total U.S. tax
+33
+Table of Contents
+deductions. If implicated, the BEAT taxes modified taxable income at a rate of 10% in 2019, increasing to 12.5% in 2026 and is due if the calculated BEAT tax amount that is determined without the benefit of foreign and certain other tax credits is greater than the regular corporate tax in any given year. In general, modified taxable income is calculated by adding back to a taxpayer’s regular taxable income the amount of certain “base erosion tax benefits” with respect to payments to foreign affiliates, as well as the “base erosion percentage” of any net operating loss deductions.
+
+Since the enactment of the Tax Act of 2017, the Treasury Department and the Internal Revenue Service (“IRS”) promulgated Proposed and Final Regulations on a number of provisions within or impacted by the Tax Act of 2017, including GILTI, foreign tax credits, net interest deductibility and the BEAT. Regulations were issued making it clear that benefit and claim payments made by our U.S. insurance businesses to our foreign affiliates on reinsurance assumed by the U.S. affiliates should not be considered to be base erosion payments. During 2020, regulations were issued that allow taxpayers to elect to exclude income of foreign subsidiaries from being subject to tax under the GILTI provision if the income of the foreign subsidiary is subject to local tax in excess of 18.9%. Other life insurance and financial services companies may benefit more or less from these tax law changes, which could impact the Company’s overall competitive position. Notwithstanding the enactment of the Tax Act of 2017, the President, and Congress, as well as state and local governments, may continue to consider from time to time legislation that could increase the amount of corporate taxes we pay, thereby reducing earnings.
+
+The U.S. federal tax law provides that an election may be made pursuant to Internal Revenue Code Section 952 (the “952 election”) to subject earnings from certain insurance operations to tax in the U.S. in the tax year earned, net of related foreign tax credits. The Company made the 952 election effective for the 2017 and later tax years with respect to its affiliates incorporated in Brazil. In October 2019, the IRS issued a legal memorandum applicable to all taxpayers in which the IRS argues that the election became inoperable in 1998. The Company disagrees with the IRS’s position and intends to defend its position. If the Company is ultimately not successful, it will not be able to claim a U.S. tax credit for the Brazil taxes in excess of the U.S. tax rate, and thus will have a higher tax expense over time. For additional information on the 952 Election, see Note 16 to the Consolidated Financial Statements.
+
+The Company has a number of subsidiaries incorporated under the laws of non-U.S. jurisdictions. Those non-U.S. subsidiaries intend to operate in a manner that will not cause any to be treated as being engaged in a trade or business within the U.S. or subject to current U.S. federal income taxation on their net income. However, because there is uncertainty as to when a foreign corporation is engaged in a trade or business within the United States, as the determination is highly factual and must be made annually, there can be no assurance that the IRS will not assert that a non-U.S. Company is engaged in a trade or business in the U.S. If a non-U.S. Company were considered to be engaged in a trade or business in the U.S., it could be subject to U.S. federal income taxation and possible state taxation on a net basis on its income that is effectively connected with such U.S. trade or business (including branch profits tax on the portion of its earnings and profits that is attributable to such income). Any such taxation could result in substantial tax liabilities.
+
+U.S. federal tax law generally permits tax deferral on the inside build-up of investment value of certain retirement savings, annuities and life insurance products until there is a contract distribution and, in general, excludes from taxation the death benefit paid under a life insurance contract. The Tax Act of 2017 did not change these rules, though it is possible that some individuals with overall lower effective tax rates could be less attracted to the tax deferral aspect of the Company’s products. The general reduction in individual tax rates and elimination of certain individual deductions may also impact the Company, depending on whether current and potential customers have more or less after-tax income to save for retirement and manage their mortality and longevity risk through the purchase of the Company’s products. Congress from time to time may enact other changes to the tax law that could make our products less attractive to consumers, including legislation that would modify the tax favored treatment of retirement savings, life insurance and annuities products.
+
+The products we sell have different tax characteristics and, in some cases, generate tax deductions and credits for the Company. Changes in either the U.S. or foreign tax laws may negatively impact the deductions and credits available to the Company, including the ability of the Company to claim foreign tax credits with respect to taxes withheld on our investments supporting separate account products. These changes would increase the Company’s actual tax expense and reduce its consolidated net income.
+
+The profitability of certain products is significantly dependent on these characteristics and our ability to continue to generate taxable income, which is taken into consideration when pricing products and is a component of our capital management strategies. Accordingly, changes in tax law, our ability to generate taxable income, or other factors impacting the availability or value of the tax characteristics generated by our products, could impact product pricing, increase our tax expense or require us to reduce our sales of these products or implement other actions that could be disruptive to our businesses.
+
+In March 2020, in response to the COVID-19 pandemic, Congress enacted the CARES Act. One provision of the CARES
+34
+Table of Contents
+Act amends the Tax Act of 2017 and allows companies with net operating losses (“NOLs”) originating in 2018, 2019 or 2020 to carry back those losses for up to five years. See “Income Taxes” in Note 2 to the Consolidated Financial Statements for more information.
+
+International Taxation
+
+Our international businesses are subject to the tax laws and regulations of the countries in which they are organized and in which they operate. Foreign governments from time to time consider legislation that could impact the amount of taxes that we pay or impact the sales of our products. For example, the Organization of Economic Cooperation and Development (“OECD”) continues to study model global base erosion tax options that may be considered and adopted by foreign governments. Among the possible recommendations being considered by the OECD is a global minimum tax and the disallowance of a tax deduction for certain payments made to affiliates. Such changes could negatively impact sales of our products or reduce our profits if those items are adopted by countries in which our international businesses operate.
+
+The Japan national corporate tax rate is 23.2% for tax years beginning on or after April 1, 2018. In addition, there are local income taxes that are applied to our income earned in Japan. The Japanese consumption tax rate was increased from 8% to 10% on October 1, 2019. Insurance commissions paid to our Life Planners and Life Consultants are subject to consumption tax for individuals exceeding certain earnings thresholds; however, the tax is not charged on employee compensation (other than commissions) or insurance premiums.
+
+In July 2019, the Japan National Tax Authority issued rules limiting policyholders’ tax deductions for premiums paid on certain corporate insurance products. For information on sales of corporate insurance products within our international insurance operations, see “Management’s Discussion and Analysis of Financial Condition and Results of Operations—Results of Operations by Segment—International Businesses.”
+ 
+International and Global Regulatory Initiatives
+ 
+In addition to the adoption of Dodd-Frank in the United States, lawmakers around the world are actively exploring steps to avoid future financial crises. In many respects, this work is being led by the Financial Stability Board (“FSB”), which consists of representatives of national financial authorities of the G20 nations. The G20, the FSB and related bodies have developed proposals to address such issues as financial group supervision, capital and solvency standards, systemic economic risk, corporate governance including executive compensation, and a host of related issues.
+
+In July 2013, we, along with eight other global insurers, were designated by the FSB as a global systemically important insurer (“G-SII”) through a quantitative methodology developed and implemented by the IAIS. We remained designated as a G-SII until November 2018, at which point the FSB announced that it would not engage in an identification of G-SIIs based on the IAIS’ progress with development of the Holistic Framework for Systemic Risk in the Insurance Sector (“Holistic Framework”). The Holistic Framework, which was adopted by the IAIS in November 2019, focuses on employing an Activities Based approach (“ABA”) to assessing and managing potential sources of systemic risk through enhancements to IAIS policy measures pertaining to macroprudential surveillance, enterprise risk management, liquidity management, crisis management and recovery planning. In addition to the ABA elements, the Holistic Framework preserves the IAIS’ annual data collection and monitoring process. Upon the IAIS’ adoption of the Holistic Framework, the FSB announced that it has suspended the annual identification of G-SIIs until November 2022, when it will review the need to either discontinue or re-establish the annual process based on the initial years of implementation of the Holistic Framework.
+
+In addition to its post financial crisis work on systemic risk, the IAIS developed the Common Framework for the Supervision of Internationally Active Insurance Groups (“ComFrame”). Through ComFrame, the IAIS seeks to promote effective and globally consistent supervision of the insurance industry through uniform standards for insurer corporate governance, enterprise risk management and other control functions, group-wide supervision and group capital adequacy. The non-capital related components of ComFrame were adopted by the IAIS in November 2019. The ICS, which is the capital adequacy component of ComFrame, entered a five-year monitoring phase beginning in 2020. During the monitoring phase, IAIGs are encouraged to report ICS results to their group supervisory authorities to support the IAIS’ efforts to obtain feedback on the appropriateness of the framework. The IAIS will use input from supervisory authorities and IAIGs as well as stakeholder feedback on a public consultation and the results of an economic impact assessment to further improve the ICS. The IAIS is scheduled to adopt a final version of the ICS, which it expects its member supervisory authorities to implement, in 2025.
+
+As a standard setting body, the IAIS does not have direct authority to require insurance companies to comply with the policy measures it develops, including the ICS and proposed policy measures within the Holistic Framework. However, we could become subject to these policy measures if they were adopted by either our group supervisor or supervisors of our
+35
+Table of Contents
+international operations or companies, which could impact the manner in which we deploy our capital, structure and manage our businesses, and otherwise operate both within the U.S. and abroad.
+
+Regulatory Response to the COVID-19 Pandemic
+
+In March 2020, in response to the COVID-19 pandemic, Congress enacted the CARES Act, which provides $2 trillion in economic stimulus to taxpayers, small businesses, and corporations through various grant and loan programs, tax provisions and regulatory relief.
+
+See “U.S. Investment and Retirement Products and Investment Management Operations” and “Taxation - U.S. Taxation” above for more information about how specific provisions of the CARES Act impact our business.
+
+Other governments and regulators, including the Japan FSA, the NAIC and state insurance regulators, have implemented, or are considering, a number of actions in response to the crisis, including delaying implementation of certain regulatory changes, temporarily waiving certain regulatory requirements and requiring or requesting insurers to waive premium payments and policy provisions and exclusions for certain periods of time. We do not know whether such changes will be temporary or permanent and we cannot predict what other actions governments will take in response to the COVID-19 pandemic, and how any new laws, regulations, or state-sponsored programs may impact our business.
+
+Human Capital Resources
+ 
+As of December 31, 2020, our employee population was comprised as set forth in the tables below:
+
+								
+Global Employee Profile
+Region		
+Number of Employees(1)
+U.S.		16,196 	
+Non-U.S.		25,475 	
+Total		41,671 	
+ __________
+(1)Presented on a full-time equivalent basis. Excludes independent contractors and other individuals classified as non-employees in their respective jurisdictions.
+
+														
+U.S. Employee Profile
+Job Function		Women		People of Color
+Executive		35 	%		24 	%
+Management		48 	%		31 	%
+Non-management		64 	%		37 	%
+Total		50 	%		32 	%
+
+Prudential’s Board of Directors, including its Corporate Governance and Business Ethics Committee, has oversight responsibility for our human capital resources, diversity and inclusion practices and corporate culture. Human capital is discussed by management at every Board meeting and, at least once per year, the Board devotes time to discuss human capital at each business and functional leadership level across the Company.
+
+Attracting Employees
+
+We believe that our success depends on our ability to attract, develop and retain talented, skilled, and motivated employees. We aim to attract individuals who share our commitment to creating accessible financial solutions that meet the long-term objectives of our global customers. Building a diverse and inclusive organization is a component of our strategic business initiative.
+
+Developing Employees
+
+Cultivating talent is a Company-wide priority. Our employee resources foster career development and offer learning and training opportunities for all employees along the career spectrum, such as:
+36
+Table of Contents
+
+•Our “Skills Accelerator,” a personalized platform that helps employees discover and develop future skills, explore new opportunities, and build a successful career at Prudential; and
+•Our “Leadership Essentials” program that is designed to support leaders in building the skills needed to transition into and function effectively in a leadership role, enhance the impact of those currently in such roles, and enable notable increases in employee performance.
+
+Also, we require U.S. employees to attend training programs addressing core issues such as understanding racism and everyday bias, building cultural intelligence, and using tools and techniques to support an inclusive culture. The goal of these training programs is for all employees to develop a baseline understanding of these concepts, which we expect will better equip us to solve the financial challenges of our increasingly diverse customers.
+
+Retaining Employees
+
+We believe that our rigorous talent acquisition process, provision of opportunities for professional enrichment and advancement throughout our employees’ careers, and our inclusive culture will enhance our ability to retain employees.
+
+Prudential conducts a global employee engagement survey, entitled the “EQ Survey”. The EQ Survey solicits employee feedback addressing our culture, management, career opportunities, compensation and benefits. The results of the EQ Survey influence how we strengthen our culture and implement change within the Company. In 2020, over 83% of our global employees responded to the EQ Survey.
+
+Protecting and supporting our employees is a priority at Prudential. At the outset of the COVID-19 pandemic, we quickly transitioned more than 97% of our U.S. workforce to remote working in a matter of days. Prudential continues to address the challenges our employees and their families face in maintaining balance and well-being during the ongoing pandemic.
+
+Diversity and Inclusion at Prudential
+
+We view inclusion, diversity and racial equity as a moral and business imperative. Our inclusive approach to human capital management starts with our Board of Directors. Our Board embodies diversity: 82 percent of Prudential’s independent directors are diverse. Our commitment to advance racial equity spans our talent practices, how we design and deliver our products, our investments and public policy work, and our support of community institutions.
+
+To reinforce our commitment to diversity and inclusion in practice, in 2018, we instituted a long-term incentive compensation modifier for employees at the senior vice president level and above that is subject to a performance objective intended to improve the representation of diversity among senior management over the 2018 through 2020 performance period. We will report the results of this program in our 2021 proxy statement.
+ 
+Available Information
+ 
+Prudential Financial files periodic and current reports, proxy statements and other information with the SEC. Such reports, proxy statements and other information may be obtained through the SEC’s website (www.sec.gov).
+ 
+You may also access our press releases, financial information and reports filed with the SEC (for example, our Annual Report on Form 10-K, our Quarterly Reports on Form 10-Q, our Current Reports on Form 8-K and any amendments to those Forms) online at www.investor.prudential.com. Copies of any documents on our website are available without charge, and reports filed with or furnished to the SEC will be available as soon as reasonably practicable after they are filed with or furnished to the SEC. The information found on our website is not part of this or any other report filed with or furnished to the SEC.
+
+Information About our Executive Officers
+ 
+The names of the executive officers of Prudential Financial and their respective ages and positions, as of February 19, 2021, were as follows:
+37
+Table of Contents
+																				
+Name		Age		Title		Other Public Directorships
+Charles F. Lowrey		63		Chairman, Chief Executive Officer and President		None
+Robert M. Falzon		61		Vice Chair		None
+Ann M. Kappler		63		Executive Vice President and General Counsel		None
+Kenneth Y. Tanji		54		Executive Vice President and Chief Financial Officer		None
+Scott G. Sleyster		61		Executive Vice President and Head of International Businesses		None
+Andrew F. Sullivan		50		Executive Vice President and Head of U.S. Businesses		None
+Lucien A. Alziari		61		Executive Vice President and Chief Human Resources Officer		None
+Stacey Goodman		58		Executive Vice President and Chief Information Officer		None
+Candace J. Woods		60		Senior Vice President and Chief Actuary		None
+Nicholas C. Silitch		59		Senior Vice President and Chief Risk Officer		None
+Timothy L. Schmidt		62		Senior Vice President and Chief Investment Officer		None
+
+Biographical information about Prudential Financial’s executive officers is as follows:
+
+Charles F. Lowrey was elected Chairman of Prudential Financial in April 2019 and Chief Executive Officer, President and Director of Prudential Financial and PICA in December 2018. Previously, he served as Executive Vice President and Chief Operating Officer, International Businesses, of Prudential Financial and PICA from March 2014 to November 2018. He served as Executive Vice President and Chief Operating Officer, U.S. Businesses, of Prudential Financial and PICA from February 2011 to March 2014. He also served as Chief Executive Officer and President of Prudential Investment Management, Inc. from January 2008 to February 2011, and as Chief Executive Officer of Prudential Real Estate Investors (“PREI”) (now known as PGIM Real Estate), our real estate investment management and advisory business from February 2002 to January 2008. He joined the Company in March 2001, after serving as a managing director and Head of the Americas for J.P. Morgan’s Real Estate and Lodging Investment Banking group, where he began his investment banking career in 1988. He also spent four years as a managing partner of an architecture and development firm he founded in New York City.
+ 
+Robert M. Falzon was elected Director of Prudential Financial in August 2019 and has served as Vice Chair of Prudential Financial and PICA since December 2018. Previously, he served as Executive Vice President and Chief Financial Officer of Prudential Financial and PICA from March 2013 to November 2018. Mr. Falzon has been with Prudential since 1983, serving in various positions. He served as Senior Vice President and Treasurer of Prudential Financial and PICA from 2010 to 2013. Previously he had been a managing director at PREI, Head of PREI’s Global Merchant Banking Group and Chief Executive Officer of its European business; a managing director at Prudential Securities; and regional vice president at Prudential Capital Group (now known as PGIM Private Capital).
+ 
+Ann M. Kappler was elected Executive Vice President and General Counsel for Prudential Financial and PICA in September 2020. She served as Senior Vice President, Deputy General Counsel and Head of External Affairs from 2015 to 2020. She had served in various supervisory positions since 2009, including Deputy General Counsel and Head of External Affairs from 2014 to 2015, Chief Legal Officer for Litigation and Regulation from 2012 to 2014 and Chief Legal Officer for Corporate Services from 2009 to 2012. Prior to joining Prudential in 2009, she was a Partner at Wilmer Cutler Pickering Hale and Dorr, General Counsel at Fannie Mae, and a Litigation Partner at Jenner & Block. She started her career as a Judicial Law Clerk at the U.S. Supreme Court and the U.S. Court of Appeals, D.C. Circuit.
+ 
+Kenneth Y. Tanji was elected Executive Vice President and Chief Financial Officer of Prudential Financial and PICA in December 2018. Prior to this role, he was Senior Vice President and Treasurer of Prudential Financial and PICA from March 2013 to November 2018. In 2013, he served as Chief Financial Officer of Prudential’s International Businesses. Previously, he was Senior Financial Officer of Prudential Annuities and was Prudential’s business representative for its retail brokerage joint venture with Wachovia Securities from 2003 through 2009. He also served as Vice President of Finance for Prudential’s asset management business and held various positions with Prudential Securities’ Private Client and Debt Capital Markets Groups. Mr. Tanji joined Prudential in 1988.
+ 
+Scott G. Sleyster was elected Executive Vice President and Head of International Businesses of Prudential Financial and PICA in December 2018. Previously, he served as Senior Vice President and Chief Investment Officer of PICA and Prudential Financial. Mr. Sleyster has been with Prudential since 1987, serving in a variety of positions, including Head of Prudential’s Full Service Retirement business, President of Prudential’s Guaranteed Products business, Chief Financial Officer for Prudential’s Employee Benefits Division, and has held roles in Prudential’s Treasury, Derivatives and Investment Management units.
+
+38
+Table of Contents
+Andrew F. Sullivan was elected Executive Vice President and Head of U.S. Businesses in December 2019. Previously, he served as CEO of Prudential’s Workplace Solutions Group, which consists of Prudential Retirement and Prudential Group Insurance. Before joining Prudential in 2011, he served as Senior Vice President at CareFirst BlueCross BlueShield. Previously, he spent eight years at Cigna where he held of a number of senior leadership positions. He also held management roles at Diamond Technology Partners and DaimlerChrysler.
+ 
+Lucien A. Alziari is Executive Vice President and Chief Human Resources Officer for Prudential Financial and PICA. Starting in June 2017, he served as Senior Vice President and Chief Human Resources Officer for Prudential Financial and PICA. From 2012 to 2017, Mr. Alziari served as Executive Vice President and Chief Human Resources Officer of A.P. Moller-Maersk. From 2004 to 2012, he was the Chief Human Resources Officer and Head of Corporate Responsibility for Avon Products, Inc. Prior to Avon Products, Inc., Mr. Alziari held roles with Mars Confectionary in the United Kingdom and PepsiCo Inc. in New York, Vienna and Dubai.
+
+Stacey Goodman was elected Executive Vice President and Chief Information Officer of Prudential Financial and Prudential Insurance in July 2019. Previously, she served as the Chief Information Officer at Freddie Mac, where she was responsible for the technology division, and served as a member of the Senior Operating Committee. Prior to Freddie Mac, Ms. Goodman was Executive Vice President and Chief Information and Operations Officer for CIT Group, Inc., where she was a member of the Executive Management Committee. Previously, Ms. Goodman was the Divisional Chief Information Officer of Global Technology and Operations at Bank of America. She also held global leadership positions at UBS and PaineWebber. Ms. Goodman began her career at Salomon Brothers.
+
+Candace J. Woods was elected Senior Vice President and Chief Actuary of Prudential Financial and PICA in November 2017. Prior to her current role, Ms. Woods served as Vice President and Chief Actuary for the Actuarial Center of Excellence within PICA. Also, Ms. Woods served as Vice President and Actuary from 2012 to 2013 and Vice President and Chief Actuary from 2013 to 2017 for Prudential’s International Businesses. From 2010 to 2012, Ms. Woods was Vice President and Actuary in Corporate Actuarial, and the appointed actuary for Pruco Life Insurance Company and Pruco Reinsurance. Ms. Woods joined Prudential in 1982.
+ 
+Nicholas C. Silitch was elected Senior Vice President and Chief Risk Officer of Prudential Financial and PICA in May 2012. He is Chairman of the organization’s Enterprise Risk Committee and is a member of Prudential’s Senior Management Council. He joined Prudential in 2010 as Chief Credit Officer and Head of Investment Risk Management. Prior to joining Prudential, Mr. Silitch held the position of Chief Risk Officer of the Alternative Investment Services, Broker Dealer Services and Pershing businesses within Bank of New York Mellon.
+
+Timothy L. Schmidt was elected Senior Vice President and Chief Investment Officer of Prudential Financial and PICA in December 2018. He chairs the Senior Asset Liability Committee and serves as Prudential’s representative to the Institute of International Finance’s Committee on Asset and Investment Management. Previously, Mr. Schmidt was the Head of Global Portfolio Management for Prudential from 2012 to 2018 and he was responsible for the overall asset/liability management for Prudential’s Retirement and Group Insurance businesses from 2010 to 2012. Prior to joining Prudential in July 2010, he served as Chief Financial Officer for MetLife’s Individual Business and had headed MetLife’s Wealth Strategy Group. Earlier in his 25-year tenure at MetLife, Schmidt held various positions in the investment organization, including Head of MetLife’s Portfolio Management Unit, as well as its Structured Finance and Government Securities unit.

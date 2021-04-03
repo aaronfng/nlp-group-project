@@ -1,0 +1,623 @@
+OVERVIEW
+The Mosaic Company is the world’s leading producer and marketer of concentrated phosphate and potash crop nutrients. Through our broad product offering, we are a single source supplier of phosphate- and potash-based crop nutrients and animal feed ingredients. We serve customers in approximately 40 countries. We are the second largest integrated phosphate producer in the world and one of the largest producers and marketers of phosphate-based animal feed ingredients in North America and Brazil. Following our January 8, 2018 acquisition (the “Acquisition”) of the global phosphate and potash operations of Vale S.A. conducted through Mosaic Fertilizantes P&K S.A. (formerly Vale Fertilizantes S.A.), we are the leading fertilizer production and distribution company in Brazil. We mine phosphate rock in Florida, Brazil and Peru. We process rock into finished phosphate products at facilities in Florida, Louisiana and Brazil. Upon completion of the Acquisition, we became the majority owner of an entity operating a phosphate rock mine in the Bayovar region in Peru, in which we previously held a minority equity interest. We are one of the four largest potash producers in the world. We mine potash in Saskatchewan, New Mexico and Brazil. We have other production, blending or distribution operations in Brazil, China, India and Paraguay, as well as a strategic equity investment in a joint venture that operates a phosphate rock mine and chemical complexes in the Kingdom of Saudi Arabia. Our distribution operations serve the top four nutrient-consuming countries in the world: China, India, the United States and Brazil.
+The Mosaic Company is a Delaware corporation that was incorporated in March 2004 and serves as the parent company of the business that was formed through the October 2004 combination of IMC Global Inc. and the fertilizer businesses of Cargill, Incorporated. We are publicly traded on the New York Stock Exchange under the ticker symbol “MOS” and are headquartered in Tampa, Florida.
+We conduct our business through wholly and majority-owned subsidiaries as well as businesses in which we own less than a majority or a non-controlling interest. We are organized into three reportable business segments: Phosphates, Potash and Mosaic Fertilizantes. Intersegment eliminations, unrealized mark-to-market gains/losses on derivatives, debt expenses, Streamsong Resort® results of operations, and the results of the China and India distribution businesses are included within Corporate, Eliminations and Other. As of January 1, 2019, certain selling, general and administrative costs that are not controllable by the business segments were no longer allocated to segments and are included within Corporate, Eliminations and Other. Our operating results for the year ended December 31, 2018, were recast to reflect this change.
+The following charts show the respective contributions to 2020 sales volumes, net sales and gross margin for each of our business segments in effect at December 31, 2020:
+mos-20201231_g1.jpg
+We account for approximately 13% of estimated global annual phosphate production. We also account for approximately 11% of estimated global annual potash production.
+1
+Table of Contents
+Phosphates Segment — We sell phosphate-based crop nutrients and animal feed ingredients throughout North America and internationally. We account for approximately 73% of estimated North American annual production of concentrated phosphate crop nutrients.
+Potash Segment — We sell potash throughout North America and internationally, principally as fertilizer, but also for use in industrial applications and, to a lesser degree, as animal feed ingredients. We account for approximately 34% of estimated North American annual potash production.
+Mosaic Fertilizantes Segment — We produce and sell phosphate and potash-based crop nutrients, and animal feed ingredients, in Brazil. In addition to five phosphate rock mines, four chemical plants and a potash mine in Brazil, this segment consists of sales offices, crop nutrient blending and bagging facilities, port terminals and warehouses in Brazil and Paraguay. The Mosaic Fertilizantes segment also serves as a distribution outlet for our Phosphates and Potash segments. We account for approximately 70% of estimated annual production of concentrated phosphate crop nutrients in Brazil and 100% of estimated annual potash production in Brazil.
+As used in this report: 
+•“Mosaic” means The Mosaic Company;
+•“we”, “us”, and “our” refer to Mosaic and its direct and indirect subsidiaries, individually or in any combination;
+•“Cargill” means Cargill, Incorporated and its direct and indirect subsidiaries, individually or in any combination;
+•“Cargill Crop Nutrition” means the crop nutrient business we acquired from Cargill in the Combination;
+•“Combination” means the October 22, 2004 combination of IMC and Cargill Crop Nutrition; and
+statements as to our industry position reflect information from the most recent period available.
+Business Developments during 2020
+•We continue to transform our cost structure. Mosaic Fertilizantes exceeded the previously announced $50 million of transformational savings targeted for 2020. The Esterhazy K3 mine development project continues to progress, with the sixth automated miner commissioned during the year. We produced 1.3 million tonnes of MOP from the Esterhazy K3 mine in 2020. After achieving five of seven 2021 company cost targets in the second quarter of 2020, we announced new targets for 2023 in September.
+•During the second quarter, Ma'aden Wa'ad Al Shamal Phosphate Company (“MWSPC”), a subsidiary of Saudi Arabian Mining Company, in which Mosaic holds a 25 percent interest, refinanced its project level debt. The refinancing removes recourse to Mosaic by all lenders to MWSPC, and defers principal paydown until June 30, 2022, enhancing expected free cash flow. Mosaic's contractual commitment to make future cash contributions to MWSPC has also been eliminated.
+•On June 26, 2020, we filed petitions with the U.S. Department of Commerce (“DOC”) and the U.S. International Trade Commission (“ITC”) that requested the initiation of countervailing duty investigations into imports of phosphate fertilizers from Morocco and Russia. The purpose of the petitions is to remedy the distortions that we believe foreign subsidies have caused or are causing in the U.S. market for phosphate fertilizers, and thereby restore fair competition. On August 7, 2020, the ITC preliminarily determined that there is a reasonable indication that the U.S. phosphate industry is materially injured by reason of imports of phosphate fertilizers that are allegedly subsidized by the governments of Morocco and Russia. On November 23, 2020, the DOC preliminarily determined that counteravailable subsidies were being provided by those governments and on February 9, 2021 the DOC determined final counteravailable subsidy rates. A final determination by the ITC as to whether these subsidized imports has harmed or threatens to harm the U.S. phosphate industry is expected in March 2021.
+•In July, 2020, we extended the term and increased the limit of our revolving credit facility. As of December 31, 2020, we held a liquidity position in excess of $3.3 billion, including cash and available committed and uncommitted lines of credit, of $574 million, $2.2 billion and $600 million , respectively.
+•In response to Covid-19, we implemented measures in 2020 that were intended to provide for the immediate health and safety of our employees, including working remotely and alternating work schedules, in order to minimize the number of employees at a single location. In an effort to contain the spread of the virus, many government authorities, at locations where we do business, issued “social distancing or shelter-in-place” orders. In accordance with such orders, operations at our Miski Mayo mine in Peru were closed on March 16, 2020 and resumed on May
+2
+Table of Contents
+13, 2020. Our Patrocino operations in Brazil were also closed for ten days, restarting operations on April 7, 2020. We also delayed planned maintenance at certain locations until the fourth quarter of 2020 which resulted in increased costs. These events resulted in minimal disruptions to our operations. Our response to the pandemic was effective throughout the year in limiting the impacts on our operating facilities, employees, supply chain and logistics.
+We have included additional information about these and other developments in our business during 2020 in our Management’s Discussion and Analysis of Financial Condition and Results of Operations (“Management’s Analysis”) and in the Notes to our Consolidated Financial Statements.
+Throughout the discussion below, we measure units of production, sales and raw materials in metric tonnes which are the equivalent of 2,205 pounds, unless we specifically state that we mean short or long ton(s), which are the equivalent of 2,000 pounds and 2,240 pounds, respectively. In addition, we measure natural gas, a raw material used in the production of our products, in MMBTU, which stands for one million British Thermal Units (BTU). One BTU is equivalent to 1.06 Joules.
+BUSINESS SEGMENT INFORMATION
+The discussion below of our business segment operations should be read in conjunction with the following information that we have included in this report: 
+•The risk factors discussed in this report in Part I, Item 1A, “Risk Factors.”
+•Our Management’s Analysis.
+•The financial statements and supplementary financial information in our Consolidated Financial Statements (“Consolidated Financial Statements”).
+This information is incorporated by reference in this report in Part II, Item 8, “Financial Statements and Supplementary Data.” 
+Phosphates Segment
+Our Phosphates business segment owns and operates mines and production facilities in Florida which produce concentrated phosphate crop nutrients and phosphate-based animal feed ingredients, and processing plants in Louisiana which produce concentrated phosphate crop nutrients. We have a 75% economic interest in the Miski Mayo Phosphate Mine in Peru, which is included in the results of our Phosphates segment. On June 18, 2019, we permanently closed our Plant City, Florida production facility. On September 24, 2019, Mosaic entered into a long-term lease agreement with Anuvia Plant Nutrition to lease certain assets at that location.
+The following map shows the locations of each of our phosphate concentrates plants in the United States and each of our active, temporarily idled, and planned phosphate mine locations, including beneficiation plants, in Florida. The reserves associated with our Ona location have been allocated to other active mines based on our future mining plans:
+
+3
+Table of Contents
+mos-20201231_g2.jpg
+4
+Table of Contents
+The following map shows the location of the Miski Mayo phosphate mine in Peru:
+mos-20201231_g3.jpg
+U.S. Phosphate Crop Nutrients and Animal Feed Ingredients
+Our U.S. phosphates operations have capacity to produce approximately 4.5 million tonnes of phosphoric acid (“P2O5”) per year, or about 7% of world annual capacity and about 59% of North American annual capacity. Phosphoric acid is produced by reacting finely ground phosphate rock with sulfuric acid. Phosphoric acid is the key building block for the production of high analysis or concentrated phosphate crop nutrients and animal feed products, and is the most comprehensive measure of phosphate capacity and production and a commonly used benchmark in our industry. Our U.S. phosphoric acid production totaled approximately 4.1 million tonnes during 2020. Our U.S. operations account for approximately 8% of estimated global annual production and 57% of estimated North American annual output.
+Our phosphate crop nutrient products are marketed worldwide to crop nutrient manufacturers, distributors, retailers and farmers. Our principal phosphate crop nutrient products are: 
+•Diammonium Phosphate (18-46-0) Diammonium Phosphate (“DAP”) is the most widely used high-analysis phosphate crop nutrient worldwide. DAP is produced by first combining phosphoric acid with anhydrous ammonia in a reaction vessel. This initial reaction creates a slurry that is then pumped into a granulation plant where it is reacted with additional ammonia to produce DAP. DAP is a solid granular product that is applied directly or blended with other solid plant nutrient products such as urea and potash.
+•Monoammonium Phosphate (11-52-0) Monoammonium Phosphate (“MAP”) is the second most widely used high-analysis phosphate crop nutrient and the fastest growing phosphate product worldwide. MAP is also produced by first combining phosphoric acid with anhydrous ammonia in a reaction vessel. The resulting slurry is then pumped into the granulation plant where it is reacted with additional phosphoric acid to produce MAP. MAP is a solid granular product that is applied directly or blended with other solid plant nutrient products.
+•MicroEssentials® is a value-added ammoniated phosphate product that is enhanced through a patented process that creates very thin platelets of sulfur and other micronutrients, such as zinc, on the granulated product. The patented process incorporates both the sulfate and elemental forms of sulfur, providing season-long availability to crops.
+5
+Table of Contents
+Production of our animal feed ingredients products is located at our New Wales, Florida facility. We market our feed phosphate primarily under the leading brand names of Biofos® and Nexfos®.
+Annual capacity by plant as of December 31, 2020 and production volumes by plant for 2020 are listed below: 
+																										
+(tonnes in millions)		Phosphoric Acid		
+Processed Phosphate(a)/DAP/MAP/ MicroEssentials®/Feed Phosphate
+ 		
+Operational Capacity(b)
+				
+Operational Capacity(b)
+		
+Facility		
+Production(c)
+		
+Production(c)
+Florida:								
+Bartow(d)
+		1.1 			0.9 			2.5 			1.6 	
+New Wales		1.7 			1.5 			4.0 			3.1 	
+Riverview		0.9 			0.9 			1.8 			1.6 	
+		3.7 			3.3 			8.3 			6.3 	
+Louisiana:								
+Faustina		— 			— 			1.6 			1.5 	
+Uncle Sam		0.8 			0.8 			— 			— 	
+		0.8 			0.8 			1.6 			1.5 	
+Total		4.5 			4.1 			9.9 			7.8 	
+______________________________
+(a)Our ability to produce processed phosphates has been less than our annual operational capacity stated in the table above, except to the extent we purchase phosphoric acid. Factors affecting actual production are described in note (c) below.
+(b)Operational capacity is our estimated long-term capacity based on an average amount of scheduled down time, including maintenance and scheduled turnaround time, and product mix, and no significant modifications to operating conditions, equipment or facilities.
+(c)Actual production varies from annual operational capacity shown in the above table due to factors that include, among others, the level of demand for our products, maintenance and turnaround time, accidents, mechanical failure, product mix, and other operating conditions.
+(d)On December 19, 2019, we temporarily idled our Bartow, Florida phosphates operations facility to help rebalance the global supply and demand during down-market conditions. Operations resumed on February 24, 2020.
+The phosphoric acid produced at Uncle Sam is shipped to Faustina, where it is used to produce DAP, MAP and MicroEssentials®. Our Faustina plant also manufactures ammonia that is mostly consumed in our concentrate plants.
+We produced approximately 7.2 million tonnes of concentrated phosphate crop nutrients during 2020 and accounted for approximately 73% of estimated North American annual production.
+Phosphate Rock
+Phosphate rock is the key mineral used to produce phosphate crop nutrients and feed phosphate. Our Florida phosphate rock mines produced approximately 12.8 million tonnes in 2020 and accounted for approximately 61% of estimated North American annual production. We are the world’s second largest miner of phosphate rock (excluding China) and currently operate four mines in North America with a combined annual capacity of approximately 17.2 million tonnes. Additionally, we own 75% of the Miski Mayo Mine in Peru, which has an annual capacity of 4.0 million tonnes. Production of one tonne of DAP requires between 1.6 and 1.7 tonnes of phosphate rock.
+All of our wholly owned phosphate mines and related mining operations in North America are located in central Florida. During 2020, we operated three active mines in Florida: Four Corners, South Fort Meade and Wingate. On August 31, 2018, we temporarily idled our South Pasture, Florida phosphates mine. We plan to develop the DeSoto reserves to replace reserves that will be depleted at various times in the future. As part of the Acquisition, we acquired an additional 40% economic interest in the Miski Mayo Mine in Peru, which increased our aggregate interest to 75%. Our investment in the Miski Mayo Mine allows us to supplement our other produced rock to meet our overall fertilizer production needs and is the primarily source of rock for our Louisiana operations. Effective with the closing of the Acquisition, we have the right to use or sell to third parties 75% of Miski Mayo's annual production.
+6
+Table of Contents
+The phosphate deposits of Florida are of sedimentary origin and are part of a phosphate-bearing province that extends from southern Florida north along the Atlantic coast into southern Virginia. Our active Florida phosphate mines are primarily located in what is known as the Bone Valley Member of the Peace River Formation in the Central Florida Phosphate District. The southern portions of the Four Corners and Wingate mines are in what is referred to as the Undifferentiated Peace River Formation, in which the DeSoto reserves we plan to develop are also located. Phosphate mining has been conducted in the Central Florida Phosphate District since the late 1800’s. The potentially mineable portion of the district encompasses an area approximately 80 miles in length in a north-south direction and approximately 40 miles in width.
+In Florida, we extract phosphate ore using large surface mining machines that we own called “draglines.” Prior to extracting the ore, the draglines must first remove a 10 to 50 foot layer of sandy overburden. At our Wingate mine, we also utilize dredges to remove the overburden and mine the ore. We then process the ore at beneficiation plants that we own at each active mine, where the ore goes through washing, screening, sizing and flotation processes designed to separate the phosphate rock from sands, clays and other foreign materials. Prior to commencing operations at any of our planned future mines, we may need to acquire new draglines or move existing draglines to the mines and, unless the beneficiation plant at an existing mine were used, construct a beneficiation plant.
+The phosphate deposits of Peru are located within the shallow north-trending Sechura Basin, in the Piura region, hosting successive inter-layered marine sediments of Phosphate. We extract phosphate ore from the Miski Mayo mine using excavators. The ore is then transported by truck to the feeding platform for supply to the feeder-breakers, which feed the conveyor belt for the beneficiation plant that we own. The ore is then processed with successive stages of washing and gravimetric separations of seawater. The final stage of the process is washing with desalinated water to remove salts from the concentrate. The concentrate is then shipped to North America for use in our own production or sold to third parties.
+The following table shows, for each of our phosphate mines, annual capacity as of December 31, 2020, and rock production volume and grade for the years 2020, 2019, and 2018:
+																																																											
+(tonnes in
+millions)	
+Annual
+Operational
+Capacity(a)(b)
+		2020		2019		2018
+Facility	
+Production(b)
+		
+Average
+BPL(c)
+		
+% P2O5(d)
+		
+Production(b)
+		
+Average
+BPL(c)
+		
+%
+P2O5(d)
+		
+Production(b)
+		
+Average
+BPL(c)
+		
+%
+P2O5(d)
+																			
+Four Corners(e)
+	7.0 			7.7 			62.1 			28.4 			6.5 			62.8 			28.7 			6.9 			62.2 			28.5 	
+South Fort Meade	5.5 			3.7 			62.0 			28.4 			4.2 			61.6 			28.2 			4.2 			63.1 			28.9 	
+South Pasture(f)
+	3.2 			— 			— 			— 			— 			— 			— 			1.5 			62.5 			28.6 	
+Wingate	1.5 			1.4 			62.0 			28.4 			1.5 			63.5 			29.1 			1.6 			61.3 			28.1 	
+North America	17.2 			12.8 			62.1 			28.4 			12.2 			62.5 			28.6 			14.2 			62.4 			28.6 	
+																			
+Miski Mayo(g)
+	4.0 			3.3 			64.6 			29.6 			4.0 			64.7 			29.6 			4.1 			64.9 			29.7 	
+Total	21.2 			16.1 			62.6 			28.6 			16.2 			63.0 			28.8 			18.3 			62.9 			28.8 	
+______________________________
+(a)Annual operational capacity is the expected average long-term annual capacity considering constraints represented by the grade, quality and quantity of the reserves being mined as well as equipment performance and other operational factors.
+(b)Actual production varies from annual operational capacity shown in the above table due to factors that include, among others, the level of demand for our products, the quality of the reserves, the nature of the geologic formations we are mining at any particular time, maintenance and turnaround time, accidents, mechanical failure, weather conditions, and other operating conditions, as well as the effect of recent initiatives intended to improve operational excellence.
+(c)Bone Phosphate of Lime (“BPL”) is a traditional reference to the amount (by weight percentage) of calcium phosphate contained in phosphate rock or a phosphate ore body. A higher BPL corresponds to a higher percentage of calcium phosphate.
+(d)The percent of P2O5 in the above table represents a measure of the phosphate content in phosphate rock or a phosphate ore body. A higher percentage corresponds to a higher percentage of phosphate content in phosphate rock or a phosphate ore body.
+7
+Table of Contents
+(e)Production at the Four Corners mine includes rock mined at the South Pasture Extension Mine in Hardee County from September 2018 to December 2018.
+(f)On August 31, 2018, we temporarily idled our South Pasture, Florida beneficiation plant for an indefinite period of time.
+(g)Annual operational capacity and production tonnes for Miski Mayo are presented on a wet tonne basis based on average moisture levels of 3.5% to 4.5% as it exits the drying process and is prepared for shipping. Operational capacity and production on a dry tonne basis would be 3.8 million tonnes and 3.9 million tonnes respectively.
+Reserves
+We estimate our phosphate rock reserves based upon exploration core drilling as well as technical and economic analyses to determine that reserves can be economically mined. Proven (measured) reserves are those resources of sufficient concentration to meet minimum physical, chemical and economic criteria related to our current product standards and mining and production practices. Our estimates of probable (indicated) reserves are based on information similar to that used for proven reserves, but sites for drilling are farther apart or are otherwise less adequately spaced than for proven reserves, although the degree of assurance is high enough to assume continuity between such sites. Proven reserves are determined using a minimum drill hole spacing in two locations per 40 acre block. Probable reserves have less than two drill holes per 40 acre block, but geological data provides a high degree of assurance that continuity exists between sites.
+The following table sets forth our proven and probable phosphate reserves as of December 31, 2020:																	
+(tonnes in millions)	
+Reserve Tonnes (a)(b)(c)
+	 	
+Average
+BPL(d)
+		
+%
+P2O5
+Active Mines					
+Four Corners(f)
+	78.9 			61.4 			28.1 	
+South Fort Meade	14.7 			60.9 			27.8 	
+Wingate	25.0 			61.4 			28.1 	
+Miski Mayo(g)
+	88.2 			65.7 			30.1 	
+Total Active Mines	206.8 			63.2 			28.9 	
+Temporarily Idled					
+       South Pasture	136.7 			63.2 			28.9 	
+Planned Mining					
+East Ona(h)
+	110.9 			64.5 			29.5 	
+DeSoto	149.2 		
+(e)
+	63.8 			29.2 	
+Total Planned Mining	260.1 			64.1 			29.3 	
+Total Mining	603.6 			63.6 			29.1 	
+______________________________
+(a)Reserves are in areas that are fully accessible for mining; free of surface or subsurface encumbrance, legal setbacks, wetland preserves and other legal restrictions that preclude permittable access for mining; believed by us to be permittable; and meet specified minimum physical, economic and chemical criteria related to current mining and production practices. Phosphate rock mineral reserve estimates are based on in place material after adjustments for depletion, mining and beneficiation recoveries.
+(b)Reserve estimates are generally established by our personnel without a third party review. There has been no third party review of reserve estimates within the last five years. The reserve estimates have been prepared in accordance with the standards set forth in Industry Guide 7 promulgated by the United States Securities and Exchange Commission (“SEC”).
+(c)Of the reserves shown, 526.3 million tonnes are proven reserves, while probable reserves totaled 77.3 million tonnes.
+(d)Average product BPL ranges from approximately 62% to 66%.
+(e)In connection with the purchase in 1996 of approximately 111.1 million tonnes of the reported DeSoto reserves, we agreed to (i) pay royalties of between $0.50 and $0.90 per ton of rock mined based on future levels of DAP margins, and (ii) pay to the seller lost income from the loss of surface use to the extent we use the property for mining related purposes.
+(f)The Four Corners reserves include the Ona West reserve tonnes.
+(g)We pay royalties to the government of Peru based on a percentage of net sales and final determined price. These royalty payments average approximately $6 million annually.
+(h)The East Ona reserves are expected to be mined through our South Pasture mine location.
+8
+Table of Contents
+We generally own the reserves shown for active mines in the table above, with the only significant exceptions being further described below: 
+•We own the above-ground assets of the South Fort Meade mine, including the beneficiation plant, rail track and the initial clay settling areas. A limited partnership, South Ft. Meade Partnership, L.P. (“SFMP”), owns the majority of the mineable acres shown in the table for the South Fort Meade mine.
+•We currently have a 95% economic interest in the profits and losses of SFMP. SFMP is included as a consolidated subsidiary in our financial statements.
+•We have a long-term mineral lease with SFMP. This lease expires on the earlier of December 31, 2025 or on the date that we have completed mining and reclamation obligations associated with the leased property. Lease provisions include royalty payments and a commitment to give mining priority to the South Fort Meade phosphate reserves. We pay the partnership a royalty on each BPL short ton mined and shipped from the areas that we lease from it. Royalty payments to SFMP normally average approximately $11 million annually.
+•Through its arrangements with us, SFMP also earns income from mineral lease payments, agricultural lease payments and interest income, and uses those proceeds primarily to pay dividends to its equity owners.
+•The surface rights to approximately 942 acres for the South Fort Meade Mine are owned by SFMP, while the U.S. government owns the mineral rights beneath. We control the rights to mine these reserves under a mining lease agreement and pay royalties on the tonnage extracted. Under the lease, we paid an immaterial amount of royalties to the U.S. government in 2020.
+In light of the long-term nature of our rights to our reserves, we expect to be able to mine all reported reserves that are not currently owned prior to termination or expiration of our rights. Additional information regarding permitting is included in Part I, Item 1A, “Risk Factors”, and under “Environmental, Health, Safety and Security Matters—Operating Requirements and Impacts—Permitting” in our Management’s Analysis.
+Investments in MWSPC
+We own a 25% interest in MWSPC and, in connection with our equity share, we are entitled to market approximately 25% of MWSPC’s production. MWSPC consists of a mine and two chemical complexes (the “Project”) that produce phosphate fertilizers and other downstream phosphates products in the Kingdom of Saudi Arabia. The greenfield project was built in the northern region of Saudi Arabia at Wa’ad Al Shamal Minerals Industrial City, and included further expansion of processing plants in Ras Al Khair Minerals Industrial City, which is located on the east coast of Saudi Arabia. Ammonia operations commenced in late 2016 and on December 1, 2018, MWSPC commenced commercial operations of the phosphate plant, thereby bringing the entire project to the commercial production phase. Phosphate production will gradually ramp-up until it reaches an expected 3.0 million tonnes in annual production capacity. Actual phosphate production was 2.1 million tonnes in 2020. The Project is expected to benefit from the availability of key raw nutrients from sources within Saudi Arabia.
+Our cash investment in the Project was $770 million at December 31, 2020. Our obligation to contribute additional equity was eliminated as part of the project debt refinancing in 2020.
+Sulfur
+We use molten sulfur at our phosphates concentrates plants to produce sulfuric acid, primarily for use in our production of phosphoric acid. We purchased approximately 3.6 million long tons of sulfur during 2020. We purchase the majority of this sulfur from North American oil and natural gas refiners who are required to remove or recover sulfur during the refining process. Production of one tonne of DAP requires approximately 0.40 long tons of sulfur. We procure our sulfur from multiple sources and receive it by truck, rail, barge and vessel, either directly at our phosphate plants or have it sent for gathering to terminals that are located on the U.S. gulf coast. In addition, we use formed sulfur received through Tampa ports, which are delivered by truck to our New Wales facility and melted through our sulfur melter.
+We own and operate a sulfur terminal in Riverview, Florida. We also lease terminal space in Tampa, Florida and Galveston and Beaumont, Texas. We have long-term time charters on two ocean-going tugs/barges and one ocean-going vessel that transports molten sulfur from the Texas terminals to Tampa. We then further transport by truck to our Florida phosphate plants. In addition, we own a 50% equity interest in Gulf Sulphur Services Ltd., LLLP (“Gulf Sulphur Services”), which is
+9
+Table of Contents
+operated by our joint venture partner. Gulf Sulphur Services has a sulfur transportation and terminaling business in the Gulf of Mexico, and handles these functions for a substantial portion of our Florida sulfur volume. Our sulfur logistic assets also include a large fleet of leased railcars that supplement our marine sulfur logistic system. Our Louisiana operations are served by truck from nearby refineries.
+Although sulfur is readily available from many different suppliers and can be transported to our phosphate facilities by a variety of means, sulfur is an important raw material used in our business that has in the past been and may in the future be the subject of volatile pricing and availability. Alternative transportation and terminaling facilities might not have sufficient capacity to fully serve all of our facilities in the event of a disruption to current transportation or terminaling facilities. Changes in the price of sulfur or disruptions to sulfur transportation or terminaling facilities could have a material impact on our business. We have included a discussion of sulfur prices in our Management’s Analysis.
+Ammonia
+We use ammonia together with phosphoric acid to produce DAP, MAP and MicroEssentials®. We consumed approximately 1.2 million tonnes of ammonia during 2020. Production of one tonne of DAP requires approximately 0.23 tonnes of ammonia. We purchase approximately one-third of our ammonia from various suppliers in the spot market with the remaining two-thirds either purchased through our ammonia supply agreement (the “CF Ammonia Supply Agreement”) with an affiliate of CF Industries Inc. (“CF”) or produced internally at our Faustina, Louisiana location.
+Our Florida ammonia needs are currently supplied under multi-year contracts with both domestic and offshore producers. Ammonia for our Bartow and Riverview plants is terminaled through owned ammonia facilities at the Port of Tampa and Port Sutton, Florida. Ammonia for our New Wales plant is terminaled through another ammonia facility owned and operated by a third party at Port Sutton, Florida pursuant to an agreement that provides for service through 2022, with automatic renewal for an additional two-year period unless either party terminates, as provided in the agreement. Ammonia is transported by pipeline from the terminals to our production facilities. We have service agreements with the operators of the pipelines for Bartow, New Wales, and Riverview, which provided service through June 30, 2022 with an annual auto-renewal provision unless either party objects.
+Under the CF Ammonia Supply Agreement, Mosaic agreed to purchase approximately 523,000 to 725,000 metric tonnes of ammonia per year during a term that commenced in 2017 and may extend until December 31, 2032, at a price tied to the prevailing price of U.S. natural gas. The contract provides for early termination at certain dates. For 2020, our minimum purchase obligation was approximately 523,000 metric tonnes, and actual purchases were 527,000 metric tonnes. A specialized tug and barge unit transports ammonia for us between a load location at Donaldsonville, Louisiana and a discharge location at Tampa, Florida. Additional information about this chartered unit and its financing is provided in Note 25 of our Consolidated Financial Statements. We expect a majority of the ammonia purchased under the CF Ammonia Supply Agreement to be received by barge at the port of Tampa and delivered to our Florida facilities as described in the preceding paragraph. While the market prices of natural gas and ammonia have changed since we executed this agreement in 2013 and will continue to change, we expect that the agreement will provide us a competitive advantage over its term, including by providing a reliable long-term ammonia supply.
+We produce ammonia at Faustina, Louisiana primarily for our own consumption. Our annual capacity is approximately 530,000 tonnes. From time to time, we sell surplus ammonia to unrelated parties and/or may transport surplus ammonia to the port of Tampa. In addition, under certain circumstances we are permitted to receive ammonia at Faustina under the CF Ammonia Supply Agreement.
+Although ammonia is readily available from many different suppliers and can be transported to our phosphates facilities by a variety of means, ammonia is an important raw material used in our business that has in the past been and may in the future be the subject of volatile pricing. In addition, alternative transportation and terminaling facilities might not have sufficient capacity to fully serve all of our facilities in the event of a disruption to existing transportation or terminaling facilities. Changes in the price of ammonia or disruptions to ammonia transportation or terminaling could have a material impact on our business. We have included a discussion of ammonia prices in our Management’s Analysis.
+Natural Gas for Phosphates
+Natural gas is the primary raw material used to manufacture ammonia. At our Faustina facility, ammonia is manufactured on site. The majority of natural gas is purchased through firm delivery contracts based on published index-based prices and is
+10
+Table of Contents
+sourced from Texas and Louisiana via pipelines interconnected to the Henry Hub. We use over-the-counter swap and/or option contracts to forward price portions of future gas purchases. We typically purchase approximately 16 million MMbtu of natural gas per year for use in ammonia production at Faustina.
+Our ammonia requirements for our Florida operations are purchased rather than manufactured on site. Therefore, while we typically purchase approximately two million MMbtu of natural gas per year in Florida, it is only used as a thermal fuel for various phosphate production processes.
+Florida Land Holdings
+We are a significant landowner in the State of Florida, which has in the past been considered one of the fastest areas of population growth in the United States. We own land comprising over 290,000 acres held in fee simple title in central Florida, and have the right to mine additional properties which contain phosphate rock reserves. Some of our land holdings are needed to operate our Phosphates business, while a portion of our land assets, such as certain reclaimed properties, are no longer required for our ongoing operations. As a general matter, more of our reclaimed property becomes available for uses other than for phosphate operations each year. Our real property assets are generally comprised of concentrates plants, port facilities, phosphate mines and other property which we have acquired through our presence in Florida. Our long-term future land use strategy is to optimize the value of our land assets. For example, we developed Streamsong Resort® (the “Resort”), a destination resort and conference center, in an area of previously mined land as part of our long-term business strategy to maximize the value and utility of our extensive land holdings in Florida. In addition to the hotel and conference center, the Resort includes three golf courses, a clubhouse and ancillary facilities.
+Potash Segment
+We are one of the leading potash producers in the world. We mine and process potash in Canada and the United States and sell potash in North America and internationally. The term “potash” applies generally to the common salts of potassium. Muriate of potash (“MOP”) is the primary source of potassium for the crop nutrient industry. Red MOP has traces of iron oxide. The granular and standard grade Red MOP products are well suited for direct fertilizer application and bulk blending. White MOP has a higher percent potassium oxide (“K2O”). White MOP, besides being well suited for the agricultural market, is used in many industrial applications. We also produce a double sulfate of potash magnesia product, which we market under our brand name K-Mag®, at our Carlsbad, New Mexico facility.
+Our potash products are marketed worldwide to crop nutrient manufacturers, distributors and retailers and are also used in the manufacturing of mixed crop nutrients and, to a lesser extent, in animal feed ingredients. We also sell potash to customers for industrial use. In addition, our potash products are used for de-icing and as a water softener regenerant.
+In 2020, we operated two potash mines in Canada, including one shaft mine with a total of three production shafts and one solution mine, as well as one potash shaft mine in the United States. We own related mills or refineries at our mines. In December 2020, we indefinitely idled our potash mine in Colonsay, Saskatchewan. Also, as part of the Acquisition, we acquired a potash project in Kronau, Saskatchewan.
+We continue the expansion of capacity in our Potash segment with the K3 shafts at our Esterhazy mine. These shafts added 0.9 million tonnes to our annual potash operational capacity. This includes infrastructure to move ore from K3 to the K1 and K2 mills, which was fully commissioned during the year. In 2020, K3 has transported 4.3 million raw ore tonnes to the K1 and K2 mills. As K3 production ramps up, we plan to cease underground mining at K1 and K2 by mid-2022. We expect to eliminate our brine inflow costs at these two mine shafts by the end of 2021. While we expect brine management costs to be eliminated once K3 is fully operational, an increase in inflow levels could cause us to change our mining processes or abandon those mine shafts prior to completion of K3.
+See “Key Factors that can Affect Results of Operations and Financial Condition” and “Potash Net Sales and Gross Margin” in our Management’s Analysis and “Our Esterhazy mine has had an inflow of salt saturated brine for more than 30 years” in Part I, Item 1A, “Risk Factors” in this report, which are incorporated herein by reference, for a discussion of costs, risks and other information relating to the brine inflows.
+11
+Table of Contents
+The map below shows the location of each of our potash mines.
+mos-20201231_g4.jpg
+Our North American potash annualized operational capacity totals 11.2 million tonnes of product per year and accounts for approximately 12% of world annual capacity and 32% of North American annual capacity. Production during 2020 totaled 8.4 million tonnes. We account for approximately 11% of estimated world annual production and 34% of estimated North American annual production.
+The following table shows, for each of our potash mines, annual capacity as of December 31, 2020 and volume of mined ore, average grade and finished product output for years 2020, 2019 and 2018:																																																																	
+(tonnes in millions)	 		 		2020		2019		2018
+Facility	Annualized
+Proven
+Peaking
+Capacity
+(a)(c)(d)		Annual
+Operational
+Capacity
+(a)(b)(d)(e)		Ore
+Mined		
+Grade
+%
+K2O(f)
+		
+Finished
+Product(b)
+		Ore
+Mined		
+Grade
+%
+K2O(f)
+		
+Finished
+Product(b)
+		Ore
+Mined		
+Grade
+%
+K2O(f)
+		
+Finished
+Product(b)
+Canada																					
+Belle Plaine—MOP	3.9 			3.0 			12.6 			18.0 			2.8 			11.9 			18.0 			2.7 			10.6 			18.0 			2.8 	
+Colonsay—MOP(g) (h)
+	2.6 			1.5 			— 			— 			— 			1.9 			26.5 			0.7 			3.4 			26.8 			1.2 	
+Esterhazy—MOP(i)
+	6.3 			6.0 			14.5 			24.1 			5.0 			11.9 			23.6 			3.9 			13.9 			23.7 			4.6 	
+Canadian Total	12.8 			10.5 			27.1 			21.3 			7.8 			25.7 			21.2 			7.3 			27.9 			21.9 			8.6 	
+United States																					
+Carlsbad—K-Mag®(j)
+	0.9 			0.7 			3.4 			5.7 			0.6 			3.0 			6.0 			0.6 			3.0 			6.1 			0.6 	
+United States Total	0.9 			0.7 			3.4 			5.7 			0.6 			3.0 			6.0 			0.6 			3.0 			6.1 			0.6 	
+Totals	13.7 			11.2 			30.5 			19.5 			8.4 			28.7 			19.6 			7.9 			30.9 			20.4 			9.2 	
+																					
+______________________________
+(a)Finished product.
+(b)Actual production varies from annual operational capacity shown in the above table due to factors that include, among others,the level of demand for our products, maintenance and turnaround time, the quality of the reserves and the nature of the geologic formations we are mining at any particular time, accidents, mechanical failure, product mix, and other operating conditions.
+12
+Table of Contents
+(c)Represents full capacity assuming no turnaround or maintenance time.
+(d)The annualized proven peaking capacity shown above is the capacity currently used to determine our share of Canpotex, Limited (“Canpotex”) sales. Canpotex members’ respective shares of Canpotex sales are based upon the members’ respective proven peaking capacities for producing potash. When a Canpotex member expands its production capacity, the new capacity is added to that member’s proven peaking capacity based on a proving run at the maximum production level. Alternatively, after January 2017, Canpotex members may elect to rely on an independent engineering firm and approved protocols to calculate their proven peaking capacity. The annual operational capacity reported in the table above can exceed the annualized proven peaking capacity until the proving run has been completed. Our share of Canpotex is 36.2%. It has remained at that level through December 31, 2020.
+(e)Annual operational capacity is our estimated long term potash capacity based on the quality of reserves and the nature of the geologic formations expected to be mined, milled and/or processed over the long term, average amount of scheduled down time, including maintenance and scheduled turnaround time, and product mix, and no significant modifications to operating conditions, equipment or facilities. Operational capacities will continue to be updated to the extent new production results impact ore grades assumptions.
+(f)Grade % K2O is a traditional reference to the percentage (by weight) of potassium oxide contained in the ore. A higher percentage corresponds to a higher percentage of potassium oxide in the ore.
+(g)In August 2019, we temporarily idled our Colonsay, Saskatchewan potash mine for the remainder of 2019 in light of reduced customer demand. On January 28, 2020, we announced that we intend to keep it idled for the foreseeable future. The Colonsay operating capacity will not be included in our operating rate calculation until it resumes operation.
+(h)We have the ability to reach an annual operating capacity of 2.1 million tonnes over time by increasing our staffing levels and investment in mine development activities.
+(i)The annual operational capacity of Esterhazy increased by 0.7 million tonnes in 2019 reflecting the ramp-up in capacity from the K3 shaft.
+(j)K-Mag® is a specialty product that we produce at our Carlsbad facility.
+Canadian Mines
+We operate two Canadian potash facilities, located in the southern half of the Province of Saskatchewan. They are our solution mine at Belle Plaine and two interconnected mine shafts at our Esterhazy shaft mine. Our shaft mine at Colonsay was indefinitely idled in December 2019. In addition, we are expanding our Esterhazy mine for the K3 shaft.
+Extensive potash deposits are found in the southern half of the Province of Saskatchewan. The potash ore is contained in a predominantly rock salt formation known as the Prairie Evaporites. The Prairie Evaporites deposits are bounded by limestone formations and contain the potash beds. Three potash deposits of economic importance occur in Saskatchewan: the Esterhazy, Belle Plaine and Patience Lake members. The Patience Lake member is mined at Colonsay, and the Esterhazy member at Esterhazy. At Belle Plaine all three members are mined. Each of the major potash members contains several potash beds of different thicknesses and grades. The particular beds mined at Colonsay and Esterhazy have a mining height of 11 and 8 feet, respectively. At Belle Plaine several beds of different thicknesses are mined.
+Our potash mines in Canada produce MOP exclusively. Esterhazy and Colonsay utilize shaft mining while Belle Plaine utilizes solution mining technology. Traditional potash shaft mining takes place underground at depths of over 1,000 meters where continuous mining machines cut out the ore face and load it onto conveyor belts. The ore is then crushed, moved to storage bins and hoisted to refineries above ground. In contrast, our solution mining process involves heated brine, which is pumped through a “cluster” to dissolve the potash in the ore beds at a depth of approximately 1,500 meters. A cluster consists of a series of boreholes drilled into the potash ore. A separate distribution center at each cluster controls the brine flow. The solution containing dissolved potash and salt is pumped to a refinery where sodium chloride, a co-product of this process, is separated from the potash through the use of evaporation and crystallization techniques. Concurrently, the solution is pumped into a cooling pond where additional crystallization occurs and the resulting product is recovered via a floating dredge. Refined potash is dewatered, dried and sized. Our Canadian operations produce 14 different MOP products, including industrial grades, many through proprietary processes.
+13
+Table of Contents
+Our potash mineral rights in the Province of Saskatchewan consist of the following:																							
+	Belle Plaine		Colonsay		Esterhazy		Total
+Acres under control							
+Owned in fee	18,229 			10,524 			117,299 			146,052 	
+Leased from Province	51,250 			120,511 			197,814 			369,575 	
+Leased from others	— 			3,826 			87,726 			91,552 	
+Total under control	69,479 			134,861 			402,839 			607,179 	
+We believe that our mineral rights in Saskatchewan are sufficient to support current operations for more than a century. Leases are generally renewable at our option for successive terms, generally 21 years each, except that certain of the acres shown above as “Leased from others” are leased under long-term leases with terms (including renewals at our option) that expire from 2023 to 2170.
+As part of the Acquisition, Mosaic acquired the assets of Vale Potash Canada Ltd. and its greenfield potash project in the Kronau area approximately 27 kilometers southeast of Regina, Saskatchewan.  In addition, Mosaic leases approximately 294,000 acres of mineral rights from the government of Saskatchewan, and approximately 99,700 acres of freehold mineral rights in the Kronau/Regina area, which have not been developed and are not included in the table above.
+We pay Canadian resource taxes consisting of the Potash Production Tax and resource surcharge. The Potash Production Tax is a Saskatchewan provincial tax on potash production and consists of a base payment and a profits tax. We also pay a percentage of the value of resource sales from our Saskatchewan mines. In addition to the Canadian resource taxes, royalties are payable to the mineral owners in respect of potash reserves or production of potash. We have included a further discussion of the Canadian resource taxes and royalties in our Management’s Analysis.
+Since December 1985, we have effectively managed an inflow of salt saturated brine into our Esterhazy mine. At various times since then, we have experienced changing amounts and patterns of brine inflows at Esterhazy. To date, the brine inflow, including our remediation efforts to control it, has not had a material impact on our production processes or volumes. The volume of the net brine inflow (the rate of inflow less the amount we are pumping out of the mine) or net outflow (when we are pumping more brine out of the mine than the rate of inflow) fluctuates and is dependent on a number of variables, such as the location of the source of the inflow; the magnitude of the inflow; available pumping, surface and underground brine storage capacities; underground injection well capacities, and the effectiveness of calcium chloride and cementatious grout used to reduce or prevent the inflows, among other factors. As a result of these brine inflows, we incur expenditures, certain of which have been capitalized and others that have been charged to expense.
+While we expect future brine management costs to be eliminated once K3 is fully operational, it is possible that inflow levels at Esterhazy may increase before the shutdown of K1 and K2 mining which could lead us to change our mining processes or abandon those mine shafts. See “Key Factors that can Affect Results of Operations and Financial Condition” and “Potash Net Sales and Gross Margin” in our Management’s Analysis and “Our Esterhazy mine has had an inflow of salt saturated brine for more than 30 years” in Part I, Item 1A, “Risk Factors” in this report, which are incorporated herein by reference, for a discussion of costs, risks and other information relating to the brine inflows. The K3 shafts at our Esterhazy mine are part of our potash expansion plan, which is also designed to mitigate risk from current and future inflows.
+Due to the ongoing brine inflow at Esterhazy, subject to exceptions that are limited in scope and amount, we are unable to obtain insurance coverage for underground operations for water incursion problems for the K1 and K2 shafts. Like other potash producers’ shaft mines, our Colonsay, Saskatchewan, and Carlsbad, New Mexico, mines are also subject to the risks of inflow of water as a result of their shaft mining operations, but water inflow risks at these mines are included in our insurance coverage subject to deductibles, limited coverage terms and lower sub-limits negotiated with our insurers.
+United States Mine
+In the United States, we have a shaft mine located in Carlsbad, New Mexico. The ore reserves at our Carlsbad mine are made up of langbeinite, a double sulfate of potassium and magnesium. This type of potash reserve occurs in a predominantly rock salt formation known as the Salado Formation. The McNutt Member of this formation consists of eleven units of economic importance, of which we currently mine one. The McNutt Member’s evaporite deposits are interlayered with anhydrite, polyhalite, potassium salts, clay, and minor amounts of sandstone and siltstone.
+14
+Table of Contents
+Continuous underground mining methods are utilized to extract the ore. Drum type mining machines are used to cut the langbeinite ore from the face. Mined ore is then loaded onto conveyors, transported to storage areas, and then hoisted to the surface for further processing at our refinery.
+We produce a double sulfate of potash magnesia product, which we market under our brand name K-Mag®, at our Carlsbad facility.
+At the Carlsbad facility, we mine and refine potash from 77,221 acres of mineral rights. We control these reserves pursuant to either (i) leases from the U.S. government that, in general, continue in effect at our option (subject to readjustment by the U.S. government every 20 years) or (ii) leases from the State of New Mexico that continue as long as we continue to produce from them. These reserves contain an estimated total of 176 million tonnes of potash mineralization (calculated after estimated extraction losses) in one mining bed evaluated at thicknesses ranging from 6.5 feet to 10 feet. At average refinery rates, these ore reserves are estimated to be sufficient to yield 32 million tonnes of langbeinite concentrates with an average grade of approximately 22% K2O. At projected rates of production, we estimate that Carlsbad’s reserves of langbeinite are sufficient to support operations for approximately 46.4 years.
+Royalties for the U.S. operations amounted to approximately $7.1 million in 2020. These royalties are established by the U.S. Department of the Interior, Bureau of Land Management, in the case of the Carlsbad leases from the U.S. government, and pursuant to provisions set forth in the leases, in the case of the Carlsbad state leases.
+Reserves
+Our estimates below of our potash reserves and non-reserve potash mineralization are based on exploration drill hole data, seismic data and actual mining results over more than 35 years. Proven reserves are estimated by identifying material in place that is delineated on at least two sides and material in place within a half-mile radius or distance from an existing sampled mine entry or exploration core hole. Probable reserves are estimated by identifying material in place within a one mile radius from an existing sampled mine entry or exploration core hole. Historical extraction ratios from the many years of mining results are then applied to both types of material to estimate the proven and probable reserves. We believe that all reserves and non-reserve potash mineralization reported below are potentially recoverable using existing production shaft and refinery locations.
+Our estimated recoverable potash ore reserves and non-reserve potash mineralization as of December 31, 2020 for each of our mines are as follows:																				
+(tonnes of ore in millions)		
+Reserves(a)(b)
+		
+Potash
+Mineralization(a)(c)
+Facility		Recoverable
+Tonnes		Average
+Grade
+(% K2O)		Potentially
+Recoverable
+Tonnes
+Canada						
+Belle Plaine		829 			18.0 			2,331 	
+Colonsay		295 			26.3 			432 	
+Esterhazy		875 			23.4 			688 	
+sub-totals		1,999 			21.6 			3,451 	
+United States						
+Carlsbad		167 			5.4 			— 	
+Totals		2,166 			20.3 			3,451 	
+______________________________
+(a)There has been no third party review of reserve estimates within the last five years. The reserve estimates have been prepared in accordance with the standards set forth in Industry Guide 7 promulgated by the SEC.
+(b)Includes 1.3 billion tonnes of proven reserves and 0.8 billion tonnes of probable reserves.
+(c)The non-reserve potash mineralization reported in the table in some cases extends to the boundaries of the mineral rights we own or lease. Such boundaries are up to 16 miles from the closest existing sampled mine entry or exploration core hole. Based on available geologic data, the non-reserve potash mineralization represents potash that we expect to mine in the future, but it may not meet all of the technical requirements for categorization as proven or probable reserves under Industry Guide 7.
+15
+Table of Contents
+As discussed more fully above, we either own the reserves and mineralization shown above or lease them pursuant to mineral leases that generally remain in effect or are renewable at our option, or are long-term leases. Accordingly, we expect to be able to mine all reported reserves that are leased prior to termination or expiration of the existing leases.
+Natural Gas
+Natural gas is used at our Belle Plaine solution mine as a fuel to produce steam and to dry potash products. The steam is used to generate electricity and provide thermal energy to the evaporation, crystallization and solution mining processes. The Belle Plaine solution mine typically accounts for approximately 80% of our Potash segment’s total natural gas requirements for potash production. At our shaft mines, natural gas is used as a fuel to heat fresh air supplied to the shaft mines and for drying potash products. Combined natural gas usage for both the solution and shaft mines totaled 16 million MMbtu during 2020. We purchase our natural gas requirements on firm delivery index price-based physical contracts and on short term spot-priced physical contracts. Our Canadian operations purchase physical natural gas from Alberta and Saskatchewan using AECO price indices references and transport the gas to our plants via the TransGas pipeline system. The U.S. potash operation in New Mexico purchases physical gas in the southwest respective regional market using the El Paso San Juan Basin market pricing reference. We use financial derivative contracts to manage the pricing on portions of our natural gas requirements.
+Mosaic Fertilizantes Segment
+Our Mosaic Fertilizantes segment owns and operates mines, chemical plants, crop nutrient blending and bagging facilities, port terminals and warehouses in Brazil and Paraguay, which produce and sell concentrated phosphates crop nutrients, phosphate-based animal feed ingredients and potash fertilizer. The following map shows the locations of our operations in Brazil and Paraguay.
+16
+Table of Contents
+mos-20201231_g5.jpg
+We are the largest producer and one of the largest distributors of blended crop nutrients for agricultural use in Brazil. We produce and sell phosphate and potash-based crop nutrients, and animal feed ingredients through our operations. Our operations in Brazil include five phosphate mines; four chemical plants and a potash mine. We own and operate ten blending plants in Brazil and one blending plant and port in Paraguay. In addition, we lease several other warehouses and blending units depending on sales and production levels. We also have a 62% ownership interest in Fospar, S.A. (“Fospar”). Fospar owns and operates an SSP (defined below) granulation plant, which produces approximately 0.5 million tonnes of SSP per year, and a deep-water port and throughput warehouse terminal facility in Paranagua, Brazil. The port facility at Paranagua handles approximately 3.0 million tonnes of imported crop nutrients. In 2020, Mosaic Fertilizantes sold approximately 10.6 million tonnes of crop nutrient products and accounted for approximately 25% of fertilizer shipments in Brazil.
+We have the capability to annually produce approximately 4.0 million tonnes of phosphate and potash-based crop nutrients and animal feed ingredients. Crop nutrient products produced are marketed to crop nutrient manufacturers, distributors, retailers and farmers.
+In addition to producing crop nutrients, Mosaic Fertilizantes purchases phosphates, potash and nitrogen products which are either used to produce blended crop nutrients (“Blends”) or for resale. In 2020, Mosaic Fertilizantes purchased 1.7 million tonnes of phosphate-based products, primarily MicroEssentials®, from our Phosphates segment, and 2.1 million tonnes of potash products from our Potash segment and Canpotex.
+Phosphate Crop Nutrients and Animal Feed Ingredients
+Our Brazilian phosphates operations have capacity to produce approximately 1.1 million tonnes of phosphoric acid (“P2O5”) per year, or about 76% of Brazilian annual capacity. Phosphoric acid is produced by reacting ground phosphate rock with sulfuric acid. Phosphoric acid is the key building block for the production of high analysis or concentrated phosphate crop
+17
+Table of Contents
+nutrients and animal feed products, and is the most comprehensive measure of phosphate capacity and production and a commonly used benchmark in our industry. Our Brazilian phosphoric acid production totaled approximately 1.1 million tonnes in 2020 and accounted for approximately 91% of Brazilian annual output.
+Our principal phosphate crop nutrient products are:
+•Monoammonium Phosphate (11-52-0) (MAP) MAP is a crop nutrient composed of two macronutrients, nitrogen and phosphoric acid. This slurry is added inside a rotary drum type granulator with ammonia to complete the neutralization reaction and produce MAP.
+•Triple superphosphate (TSP) TSP is a highly concentrated phosphate crop nutrient. TSP is produced from the phosphate rock reaction with phosphoric acid in a kuhlmann type reactor. The process for the production of TSP in Brazil is run of pile where the product undergoes a curing process of approximately seven days for later granulation.
+•Single superphosphate (SSP) SSP is a crop nutrient with a low concentration of phosphorus that is used in agriculture because of the sulfur content in its formulation. SSP is produced from mixing phosphate rock with sulfuric acid in a kuhlmann or malaxador type reactor. After the reaction, the product goes to the curing process and then feeds the granulation units.
+•Dicalcium phosphate (DCP) Dicalcium phosphate is produced by the reaction of desulphurized phosphoric acid with limestone. At Uberaba, it is produced from the reaction of concentrated phosphoric acid with limestone slurry. At Cajati the phosphoric acid is diluted with dry limestone. The reaction of the DCP occurs in a kuhlmann or spinden type reactor.
+Our primary mines and chemical plants are located in the states of Minas Gerais, Sao Paulo, and Goias. Production of our animal feed ingredients products is located at our Uberaba, Minas Gerais, and Cajati, Sao Paulo facilities. We market our feed phosphate primarily under the brand name Foscálcio.
+Annual capacity by plant as of December 31, 2020 and production volumes by plant for 2020 are listed below:																							
+(tonnes of ore in millions)		Phosphoric acid		
+Processed Phosphate(a) (MAP/TSP/SSP/DCP/Feed)
+Facility		
+Capacity(b)
+		
+Production(c)
+		
+Capacity(b)
+	
+Production(c)
+Phosphate							
+Uberaba		0.9 			0.9 			1.9 		1.9 	
+Cajati		0.2 			0.2 			0.6 		0.4 	
+Araxá 		— 			— 			1.0 		0.8 	
+Catalao		— 			— 			0.4 		0.4 	
+Total		1.1 			1.1 			3.9 		3.5 	
+______________________________
+(a)Our ability to produce processed phosphates has been less than our annual operational capacity as stated in the table above, except to the extent we purchase phosphoric acid. Factors affecting actual production are described in note (c) below.
+(b)The annual production capacity was calculated using the hourly capacity, days stopped for annual maintenance and OEE (historical utilization factor and capacity factor).
+(c)Actual production varies from annual operational capacity shown in the table above due to factors that include, among others, the level of demand for our products, maintenance and turnaround time, accidents, mechanical failure.
+The phosphoric acid produced at Cajati is used to produce DCP. The phosphoric acid produced at Uberaba is used to produce MAP, TSP and DCP.
+We produced approximately 3.0 million tonnes of concentrated phosphate crop nutrients during 2020 which accounted for approximately 70% of estimated Brazilian annual production.
+Phosphate Rock
+Phosphate rock is the key mineral used to produce phosphate crop nutrients and animal feed product. Our phosphate rock production in Brazil totaled approximately 4.3 million tonnes in 2020, which accounted for approximately 82% of estimated
+18
+Table of Contents
+Brazilian annual production. We are the largest producer of phosphate rock in Brazil and currently operate five mines with a combined annual capacity of approximately 5.0 million tonnes. Production of one tonne of MAP requires 1.6 to 1.7 tonnes of phosphate rock. Production of one tonne of SSP requires between 0.6 to 0.7 tonnes of phosphate rock. Production of one tonne of TSP requires 1.4 tonnes of phosphate rock.
+Our wholly owned phosphate mines and related mining operations in Brazil are located in the states of Minas Gerais, Goiás and São Paulo. During 2020, we operated five active mines; Araxá, Patrocínio and Tapira, in the state of Minas Gerais; Catalão, in the state of Goiás; and Cajati, in the state of São Paulo.
+All of our Brazilian phosphate rock mines are open pit mines. The phosphate ore is extracted by drilling and blasting, loaded by backhoe into trucks and transported to the processing plants at each mine, with the exception of Patrocínio which does not have its own processing plant. The ore extracted at Patrocínio is transported by rail to Araxá for processing. We process the ore at beneficiation plants that we own.
+The following table shows the annual capacity of rock production volume and grade for each of our phosphate mines as of December 31, 2020 and 2019: 																																									
+			2020		2019
+(tonnes in millions)	
+Capacity(a)
+	 	
+Production(b)
+		
+Average BPL(c)
+		
+%
+P2O5(d)
+		
+Production(b)
+		
+Average BPL(c)
+		
+%
+P2O5(d)
+Facility													
+Catalão	1.0 		  	1.1 			75.3 			34.5 			0.9 			74.8 			34.2 	
+Tapira	2.1 		  	1.9 			77.1 			35.3 			1.3 			77.4 			35.4 	
+Araxá/Patrocínio	1.3 			0.9 			76.5 			35.0 			0.4 			76.5 			35.0 	
+Cajati	0.6 		  	0.4 			73.8 			33.8 			0.3 			75.6 			34.6 	
+Total	5.0 		  	4.3 			75.7 			34.7 			2.9 			76.5 			35.0 	
+______________________________
+(a)Annual operational capacity is the expected average long-term annual capacity considering constraints represented by the grade, quality and quantity of the reserves being mined as well as equipment performance and other operational factors.
+(b)Actual production varies from annual operational capacity shown in the above table due to factors that include, among others, the level of demand for our products, the quality of the reserves, the nature of the geologic formations we are mining at any particular time, maintenance and turnaround time, accidents, mechanical failure, weather conditions, and other operating conditions, as well as the effect of recent initiatives intended to improve operational excellence. In 2019, our actual production was negatively impacted by downtime to comply with new standards implemented by Brazil's National Mining Agency.
+(c)BPL is a traditional reference to the amount (by weight percentage) of calcium phosphate contained in phosphate rock or a phosphate ore body. A higher BPL corresponds to a higher percentage of calcium phosphate.
+(d)The percent of P2O5 in the above table represents a measure of the phosphate content in phosphate rock or a phosphate ore body. A higher percentage corresponds to a higher percentage of phosphate content in phosphate rock or a phosphate ore body.
+Phosphate Reserves
+The evaluation of mineral reserves is based upon exploration core drilling as well as technical and economic analyses to determine that reserves can be economically mined. Proven (measured) reserves are those resources of sufficient concentration to meet minimum physical, chemical and economic criteria related to our current product standards and mining and production practices. Our estimates or probable (indicated) reserves are based on information similar to that used for proven reserves, but sites for drilling are farther apart or are otherwise less adequately spaced than for proven reserves, although the degree of assurance is high enough to assume continuity between such sites.
+19
+Table of Contents
+The following table sets forth our proven and probable phosphates reserves as of December 31, 2020:											
+(tonnes in millions)	
+Reserve Tonnes (a)(b)(c)(d)
+	 	
+ %
+P2O5
+Active Mines			
+Catalão	69.9 		  	11.1 	
+Tapira	610.5 		  	7.6 	
+Araxá	15.4 		
+  
+	11.8 	
+Patrocínio(e)
+	473.2 			12.1 	
+Cajati	68.2 			5.1 	
+Total Mines	1,237.2 		  	9.4 	
+______________________________
+(a)Tonnage is stated in millions of run of mine dry metric tons and Grade is % P205, after adjustments for depletion, mining dilution and recovery.
+(b)Mineral reserves were reviewed by external consulting firms.
+(c)Of the reserves shown, 492.0 million tonnes are proven reserves, while probable reserves totaled 745.2 million tonnes.
+(d)The cutoff grade for mineral reserves for each deposit is: Araxá - 5.0% P2O5; Cajati - 3.0% P2O5; Catalão - 7.0% P2O5; Patrocínio - 5.0% P2O5; and Tapira - 5.0% P2O5.
+(e)The declared reserves correspond to the original scope of the Patrocínio project.
+
+We are required to pay royalties to mineral owners and resource taxes to the Brazilian government for phosphate and potash production. The resource taxes, known as Compensação Financeira pela Exploração de Recursos Minerais or CFEM, are regulated by the National Mining Agency. In 2020, we paid royalties and resource taxes of approximately $8 million.
+Sulfur
+We use molten sulfur at our phosphates concentrates plants to produce sulfuric acid, one of the key components used in our production of phosphoric acid. We consumed approximately 1.2 million long tons of sulfur for our own production during 2020. We purchase approximately 25% of the volume under annual supply agreements from oil and natural gas refiners, who are required to remove or recover sulfur during the refining process. The remaining 75% is purchased in the spot market. Sulfur is imported through the Tiplam port and transported by rail to the Uberaba plant and by truck to the Araxá and Cajati locations.
+Although sulfur is readily available from many different suppliers and can be transported to our phosphate facilities by a variety of means, sulfur is an important raw material used in our business that has in the past been and could in the future be subject to volatile pricing and availability. Alternative transportation and terminaling facilities might not have sufficient capacity to fully serve all of our facilities in the event of a disruption to current transportation or terminaling facilities. Changes in the price of sulfur or disruptions or sulfur transportation or terminaling facilities could have a material impact on our business.
+Ammonia
+We use ammonia, together with phosphoric acid, to produce MAP, and to a lesser extent for SSP production. We consumed approximately 169,334 tonnes of ammonia during 2020. Production of one tonne of MAP requires approximately 0.137 tonnes of ammonia. We purchase all of our ammonia under a long-term supply agreement with two suppliers. Ammonia is imported through the Tiplam port and transported by truck to Uberaba, Araxá and Catalão.
+We own approximately 1% of the Tiplam terminal in Santos, Sao Paulo. Our ownership percentage, along with a contractual agreement, guarantee us unloading priority for ammonia and also provide us unloading capacity for rock, sulfur and crop nutrients.
+Although ammonia is readily available from many different suppliers and can be transported to our phosphates facilities by a variety of means, ammonia is an important raw material used in our business that has in the past been, and in the future could be, subject to volatile pricing. Alternative transportation and terminaling facilities might not have sufficient capacity to fully serve all of our facilities in the event of a disruption to existing transportation or terminaling facilities. Changes in the price
+20
+Table of Contents
+of ammonia or disruptions to ammonia transportation of terminaling could have a material impact on our business. We have included a discussion of ammonia prices in our Management's Analysis.
+Brazilian Potash
+We conduct potash operations through the leased Taquari-Vassouras shaft mine, which is the only potash mine in Brazil, located in Rosário do Catete, in the Brazilian state of Sergipe. We also own a related refinery at the site. We produce and sell potash product domestically. MOP is the primary source of potassium for the crop nutrient industry in Brazil. Red MOP has traces of iron oxide. The granular and standard grade Red MOP products are well-suited for direct fertilizer application and bulk blending. Our potash product is marketed in Brazil to crop nutrient manufacturers, distributors and retailers and is also used in the manufacturing of crop nutrients.
+Potash Mine
+The potash deposit is in the Taquari-Vassouras sub-basin and the Taquari-Vassouras Industrial Complex is in Rosário do Catete. It can be reached by road and is also served by rail about 9km from the site and a port facility about 40 km from the mine site. The underground mining operations comprises three municipalities: Rosário do Catete, Capela and Carmópolis.
+The ore is sylvinite (KCL, NaCL) containing sylvite (KCl) and halite (NaCl). It is mined at a depth of 500 to 740 meters by room and pillar methods using six continuous miners. Room and pillar is a mining system in which the mined material is extracted across a horizontal plane, creating horizontal arrays of rooms and pillars. The ore is extracted in two phases. In the first, "pillars" of untouched material are left to support the roof overburden, and open areas or "rooms" are extracted underground; the pillars are then partially extracted in the same manner. The technique is usually used for relatively flat-lying deposits.
+The beneficiation process operation begins at the run-of-mine stockpile. The material is conveyed to the processing circuit where it is divided into seven major units: crushing, concentration, dissolution, drying, compaction, storage and shipping.
+Our current potash annualized operational capacity totals 520,000 tonnes of product per year and accounts for 100% of Brazilian annual capacity. Production totaled 438,000 tonnes in 2020, with a K20 grade of 58%. Production during 2020 was negatively impacted by an area of challenging geology, which affected the mine's operating rates.
+In 2020, we paid royalties of approximately $5 million related to the leasing of potash assets and mining rights for Taquari.
+Reserves
+Our estimate of potash reserves is based on exploration drill hole data, seismic data and actual mining results. We believe that all reserves are potentially recoverable using existing production and refinery locations. As of December 31, 2020, we had proven reserves of 5.7 million tonnes and probable reserves of 4.2 million tonnes with an average KCL grade of 23.88%. The cutoff grade is 20% KCI. Based on current estimates, we believe the reserves will be exhausted in 2024.
+Land Holdings
+Mosaic Fertilizantes owns properties and the surface rights of certain additional rural lands comprising over 32,000 hectares (79,000 acres) in the States of São Paulo, Minas Gerais, Goiás, Paraná, Mato Grosso, Santa Catarina, Bahia and Sergipe, and has the right to mine additional properties which contain phosphate rock or potash reserves. Most of our land holdings are needed to operate our phosphate and potash production and fertilizer distribution businesses. A portion of our land assets may no longer be required for our current operations and may be leased to third parties, for agricultural or other purposes, or may be set aside for mineral or environmental conservation. Our real property assets are generally comprised of concentrates plants, port facilities and phosphate and potash mines, crop nutrient blending and bagging facilities and other properties which we have acquired through our presence in Brazil.
+India and China Distribution Businesses
+Our China and India distribution businesses market phosphate-, potash- and nitrogen-based crop nutrients and provide other ancillary services to wholesalers, cooperatives, independent retailers, and farmers in the Asia-Pacific regions. These operations provide our Phosphates and Potash segments access to key markets outside of North and South America and serve as a marketing agent for our Phosphates segment. In 2020, the India and China operations purchased 127,737 tonnes of phosphate-based products from our Phosphates segment and MWSPC, and 1,387,743 tonnes of potash products from our
+21
+Table of Contents
+Potash segment and Canpotex. They also purchase phosphates, potash and nitrogen products from unrelated third parties, which we either use to produce blended crop nutrients or for resale.
+
+In China, we own two 300,000-tonne per year capacity blending plants. In 2020, we sold approximately 233,000 tonnes of Blends and distributed another 973,000 tonnes of phosphate and potash crop nutrients in China.
+
+In India, we have distribution facilities to import and sell crop nutrients. In 2020, we distributed approximately 793,000 tonnes of phosphate and potash crop nutrient products in India.
+SALES AND DISTRIBUTION ACTIVITIES
+United States and Canada
+We have a United States and Canada sales and marketing team that serves our business segments. We sell to wholesale distributors, retail chains, cooperatives, independent retailers and national accounts.
+Customer service and the ability to effectively minimize the overall supply chain costs are key competitive factors in the crop nutrient and animal feed ingredients businesses. In addition to our production facilities, to service the needs of our customers, we own or have contractual throughput or other arrangements at strategically located distribution warehouses along or near the Mississippi and Ohio Rivers as well as in other key agricultural regions of the United States and Canada. From these facilities, we distribute Mosaic-produced phosphate and potash products for customers who in turn resell the product into the distribution channel or directly to farmers in the United States and Canada.
+We own port facilities in Tampa, Florida and Houston, Texas, which have deep water berth capabilities providing access to the Gulf of Mexico. We discontinued operations at the Houston, Texas facility in 2017. We also own warehouse distribution facilities in Savage, Minnesota; Rosemount, Minnesota; Pekin, Illinois; and Henderson, Kentucky. We anticipate idling of the Savage, Minnesota facility in the first quarter of 2021.
+In addition to the facilities that we own, our U.S. distribution operations also include leased distribution space or contractual throughput agreements in other key geographical areas including California, Florida, Illinois, Indiana, Iowa, Kentucky, Louisiana, Minnesota, Missouri, Nebraska, North Dakota, Ohio, Oklahoma, Texas and Wisconsin.
+Our Canadian customers include independent dealers and national accounts. We also lease and own warehouse facilities in Saskatchewan, Ontario, Quebec and Manitoba in Canada.
+International
+Outside of the United States and Canada, we market our Phosphates segment’s products through our Mosaic Fertilizantes segment and our China and India distribution businesses, as well as a salesforce focused on geographies outside of North America. The countries that account for the largest amount of our phosphates sales outside the United States, by volume, are Brazil, Canada, Australia and Argentina.
+Our sales outside of the United States and Canada of potash products are made through Canpotex. Canpotex sales are allocated between its members based on peaking capacity. In 2020, our share of Canpotex sales remained at 36.2%.
+Our potash exports from Carlsbad are sold through our own sales force. We also market our Potash segment’s products through our Mosaic Fertilizantes segment and our China and India distribution businesses, which acquire potash primarily through Canpotex. The countries that account for the largest amount of international potash sales, by volume, are Brazil, China, Indonesia, India and Malaysia.
+To service the needs of our customers, our Mosaic Fertilizantes segment includes a network of strategically located sales offices, crop nutrient blending and bagging facilities, port terminals and warehouse distribution facilities that we own and operate. The blending and bagging facilities primarily produce Blends from phosphate, potash and nitrogen. The average product mix in our Blends (by volume) contains approximately 18% nitrogen, 50% phosphate, and 32% potash, although this mix differs based on seasonal and other factors. All of our production in Brazil is consumed within the country.
+Our India and China distribution businesses also includes a network of strategically located sales offices, crop nutrient blending and bagging facilities, port terminals and warehouse distribution facilities. These businesses serve primarily as a
+22
+Table of Contents
+sales outlet for our North American phosphates production, as well as additional phosphate production we market from our MWSPC joint venture, both for resale and as an input for Blends. Our Potash segment also has historically furnished the majority of the raw materials needs for the production of Blends, primarily via Canpotex, and is expected to continue to do so in the future.
+Other Products
+With a strong brand position in a multi-billion dollar animal feed ingredients global market, our Phosphates segment supplies animal feed ingredients for poultry and livestock to customers in North America, Latin America and Asia. Our potash sales to non-agricultural users are primarily to large industrial accounts and the animal feed industry. Additionally, in North America, we sell potash for de-icing and as a water softener regenerant. In Brazil, we also sell phosphogypsum.
+COMPETITION
+Because crop nutrients are global commodities available from numerous sources, crop nutrition companies compete primarily on the basis of delivered price. Other competitive factors include product quality, cost and availability of raw materials, customer service, plant efficiency and availability of product. As a result, markets for our products are highly competitive. We compete with a broad range of domestic and international producers, including farmer cooperatives, subsidiaries of larger companies, and independent crop nutrient companies. Foreign competitors may have access to cheaper raw materials, may not have to comply with as stringent regulatory requirements or are owned or subsidized by governments and, as a result, may have cost advantages over North American companies. We believe that our extensive North American and international production and distribution system provides us with a competitive advantage by allowing us to achieve economies of scale, transportation and storage efficiencies, and obtain market intelligence. Also, we believe our performance products, such as MicroEssentials®, provide us a competitive advantage with customers in North and South America.
+Unlike many of our competitors, we have our own distribution system to sell phosphate- and potash-based crop nutrients and animal feed ingredients, whether produced by us or by other third parties, around the globe. In North America, we have one of the largest and most strategically located distribution systems for crop nutrients, including warehouse facilities in key agricultural regions. We also have an extensive network of distribution facilities internationally, including in the key growth regions of South America and Asia, with port terminals, warehouses, and blending plants in Brazil, Paraguay, China, and India. Our global presence allows us to efficiently serve customers in approximately 40 countries.
+Phosphates Segment
+Our Phosphates segment operates in a highly competitive global market. Among the competitors in the global phosphate industry are domestic and foreign companies, as well as foreign government-supported producers in Asia and North Africa. Phosphate producers compete primarily based on price, as well as product quality, service and innovation. Major integrated producers of feed phosphates are located in the United States, Europe and China. Many smaller producers are located in emerging markets around the world. Many of these smaller producers are not miners of phosphate rock or manufacturers of phosphoric acid and are required to purchase this material on the open market.
+We believe that we are a low-cost integrated producer of phosphate-based crop nutrients, due in part to our scale, vertical integration and strategic network of production and distribution facilities. As the world’s second largest producer of concentrated phosphates, as well as the second largest miner of phosphate rock in the world and the largest in the United States, we maintain an advantage over some competitors as the scale of operations effectively reduces production costs per unit. We are also vertically integrated to captively supply one of our key inputs, phosphate rock, to our phosphate production facilities. We believe that our position as an integrated producer of phosphate rock provides us with a significant cost advantage over competitors that are non-integrated phosphate producers. In addition, our ownership in the Miski Mayo Mine allows us to supplement our overall phosphate rock needs. We also sell a portion of Miski Mayo production to third parties. MWSPC enables us to not only further diversify our sources of phosphates but also improve our access to key agricultural countries in Asia and the Middle East.
+We produce ammonia at our Faustina, Louisiana concentrates plant in quantities sufficient to meet approximately one third of our total ammonia needs in North America. We do not have ammonia production capacity within Florida to serve our Florida operations, but we have capacity to supply a portion of our requirements by transporting produced ammonia from Louisiana to Florida. We purchase additional ammonia from world markets and thus are subject to significant volatility in our purchase
+23
+Table of Contents
+price of ammonia. The CF Ammonia Supply Agreement provides us with a long-term supply of a substantial volume of ammonia at prices based on the price of natural gas.
+With our dedicated sulfur transportation barges and tugs, and our 50% ownership interest in Gulf Sulphur Services, we are also well-positioned to source an adequate, flexible and cost-effective supply of sulfur, our third key input, to our Florida and Louisiana phosphate production facilities. We believe that our investments in sulfur logistical and melting assets continue to afford us a competitive advantage compared to other producers in cost and access to sulfur.
+With facilities in both central Florida and Louisiana, we are logistically well positioned to fulfill our material needs at very competitive prices. Those multiple production points also afford us the flexibility to optimally balance supply and demand.
+Potash Segment
+Potash is a commodity available from several geographical regions around the world and, consequently, the market is highly competitive. Through our participation in Canpotex, we compete outside of North America against various independent and state-owned potash producers. Canpotex has substantial expertise and logistical resources for the international distribution of potash, including strategically located export assets in Portland, Oregon, St. John, New Brunswick, and Vancouver, British Columbia. Our principal methods of competition with respect to the sale of potash include product pricing, and offering consistent, high-quality products and superior service. We believe that our potash cost structure is competitive in the industry and should improve as we continue to complete our potash expansion projects.
+Mosaic Fertilizantes
+The Mosaic Fertilizantes segment operates in a highly competitive market in Brazil. We compete with a broad range of domestic and international producers, including farmer cooperatives, subsidiaries of larger companies, and independent crop nutrient companies. We believe that having a vertically integrated business, internationally but also in Brazil, provides us with a competitive advantage by allowing us to achieve economies of scale, transportation and storage efficiencies, and obtain market intelligence.
+Mosaic Fertilizantes has a wide variety of customers including farmers, blenders, and other local distributors. We compete with local businesses that offer a wide variety of products that are available from many sources. We believe the strategic location of our mines and chemical plants, in close proximity to our customers, and the benefit of our own distribution network, gives us an advantage over most of our competitors. The vertical integration of our wholly-owned production, along with our distribution network, as well as our focus on product innovation and customer solutions, position us with an advantage over many of our competitors. We have a strong brand in Brazil. In addition to having access to our own production, our distribution activities have the capability to supply a wide variety of crop nutrients to our dealer/farmer customer base.
+FACTORS AFFECTING DEMAND
+Our results of operations historically have reflected the effects of several external factors which are beyond our control and have in the past produced significant downward and upward swings in operating results. Revenues are highly dependent upon conditions in the agriculture industry and can be affected by, among other factors: crop conditions; changes in agricultural production practices; worldwide economic conditions, including the increasing world population, household incomes, and demand for more protein-rich food, particularly in developing regions such as China, India and Latin America; changing demand for biofuels; variability in commodity pricing; governmental policies; the level of inventories in the crop nutrient distribution channels; customer expectations about farmer economics, future crop nutrient prices and availability, and transportation costs, among other matters; market trends in raw material costs; market prices for crop nutrients; and weather. Furthermore, our crop nutrients business is seasonal to the extent farmers and agricultural enterprises in the markets in which we compete purchase more crop nutrient products during the spring and fall. The international scope of our business, spanning the northern and southern hemispheres, reduces to some extent the seasonal impact on our business. The degree of seasonality of our business can change significantly from year to year due to conditions in the agricultural industry and other factors. The seasonal nature of our businesses requires significant working capital for inventory in advance of the planting seasons.
+We sell products throughout the world. Unfavorable changes in trade protection laws, policies and measures, government policies and other regulatory requirements affecting trade; unexpected changes in tax and trade treaties; strengthening or
+24
+Table of Contents
+weakening of foreign economies as well as political relations with the United States may cause sales trends to customers in one or more foreign countries to differ from sales trends in the United States.
+Our international operations are subject to risks from changes in foreign currencies, or government policy, which can affect local farmer economics.
+OTHER MATTERS
+Employees
+We had 12,617 employees as of December 31, 2020, consisting of approximately 9,200 salaried and 3,400 hourly employees. There are also approximately 700 hourly employees at the Miski Mayo mine, of which we own 75% and its results are consolidated within our results of operations.
+Labor Relations
+As of December 31, 2020: 
+•We had nine collective bargaining agreements with unions covering certain hourly employees in the U.S. and Canada. Of these employees, approximately 66% are covered under collective bargaining agreements which expire in 2021.
+•We had agreements with 27 unions covering all employees in Brazil. More than one agreement may govern our relations with each of these unions. In general, the agreements are renewable on an annual basis.
+Failure to renew any of our union agreements could result in a strike or labor stoppage that could have a material adverse effect on our operations. However, we have not experienced significant work stoppage in many years and historically have had good labor relations.
+Information Available on our Website
+Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments thereto, filed with the SEC pursuant to Section 13(a) of the Securities Exchange Act of 1934, as amended, and the rules and regulations thereunder are made available free of charge on our website, (www.mosaicco.com), as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. These reports are also available on the SEC's website (www.sec.gov). The information contained on our website and the SEC's website is not being incorporated in this report.
+
+25
+Table of Contents
+HUMAN CAPITAL
+
+Our employees are the foundation of our Company. Our 12,617 colleagues embody Mosaic's core values of innovation, collaboration, drive and responsibility; and are the key to enabling us to execute our mission to help the world grow the food it needs.
+As of December 31, 2020, our regular employee base was made up of the following:
+
+																	
+Country
+	
+Male
+		
+Female
+		
+Total
+Australia
+	
+1
+		
+0
+		1 	
+Brazil
+	5,591 			910 			6,501 	
+Canada
+	1,691 			288 			1,979 	
+China
+	106 			49 			155 	
+India
+	58 			
+8
+		66 	
+Paraguay
+	43 			12 			55 	
+United States
+	3,263 			596 			3,859 	
+Saudi Arabia	1 			— 			1 	
+Total
+	10,754 			1,863 			12,617 	
+Mosaic is committed to the well-being and development of our employees by creating and cultivating an innovative and collaborative workplace that welcomes, values and respects diversity of people, thoughts, and perspectives; a workplace free of discrimination and intolerant of bias. As part of Mosaic’s strategic priorities, we are committed to prioritizing our internal culture and external partnerships to meet our commitments to our employees and stakeholders and to be an employer of choice for all generations.
+•Employee Health and Safety – safety is non-negotiable. We strive for zero harm to people and zero environmental incidents. Through the implementation of the Mosaic Management System, we have established a structured approach to effectively manage and control risk for the safety and well-being of our colleagues, the environment and our shareholders. The management system defines processes that help support a safe work environment and establishes a continuous improvement cycle to adjust for changing conditions and identified risks.
+•Global Worker Wellness – extending beyond safety, our wellness programs seek to improve the well-being of our employees – and their families – in the areas of physical and psychological health, and financial security. These programs include health screenings, insurance plans and mental health resources, as well as our EHS Risk Reduction Program, various trainings and flexible schedules.
+◦In 2020, we implemented more flexibility into our pay and leave policies and medical plans to help our employees with any potential or confirmed exposure to COVID-19. We limited the number of employees to those who critically needed to be on site and allowed others to work remotely. We also reduced the exposure risk to our employees and contractors. We also put a significant amount of preventative measures in place globally, including mask requirements, social distancing policies, virtual audits, ultraviolet (UV) light installation, filter upgrades and much more.
+•Development – Mosaic believes in continually investing in people and their lifelong learning. Mosaic holds training events throughout the year across all of our locations, and hosts an online education platform, GrowingU, which all employees are encouraged to access. Mosaic offers companywide educational reimbursement programs to help employees in each of our operating companies acquire new skills and capabilities to better meet their job responsibilities and provide for future career opportunities within the company. Mosaic supports membership in numerous professional associations and encourages participation in work-related external networking groups. In 2020, Mosaic ran pilot programs to help employees gain the knowledge and skills that we believe will be necessary for the next evolution of our business.
+•Community – Mosaic is an active contributor to the communities in which we operate. In addition to philanthropic grants and sponsorships of local programs, we also support and facilitate volunteerism by our employees. We also participate on local committees and associations focused on contributing to the vitality of the people and communities around us.
+
+Like any company, Mosaic experiences turnover and the need to replace talent related to retirement and succession, and most recently, relocation of our headquarters to Tampa, Florida. Mosaic seeks to minimize unwanted turnover through its talent review, succession management, performance management, and compensation processes. For certain roles critical to our
+26
+Table of Contents
+operations, such as engineering, operations, and employee health and safety professionals, we maintain specific talent programs, internal development strategies, and recruitment pipelines.
+Looking ahead to 2021, Mosaic has established a Diversity and Inclusion Task Force. Its objective is to develop and drive a cohesive, global strategy to advance Mosaic’s commitments to our employees and stakeholders through awareness, education and sustainable action plans. The Task Force plans to continue and build upon current initiatives to ensure equity, inclusion and diversity across our global operations.
+
+
+
+
+27
+Table of Contents
+INFORMATION ABOUT OUR EXECUTIVE OFFICERS
+Information regarding our executive officers as of February 22, 2021 is set forth below:
+														
+Name		Age		Position
+Bruce M. Bodine Jr.		49 			Senior Vice President - North America
+Clint C. Freeland		52 			Senior Vice President and Chief Financial Officer
+Mark J. Isaacson		58 			Senior Vice President, General Counsel and Corporate Secretary
+Christopher A. Lewis		58 			Senior Vice President - Human Resources
+Richard N. McLellan		64 			Senior Vice President - Commercial
+James “Joc” C. O’Rourke		60 			Chief Executive Officer, President and Director
+Benjamin J. Pratt		54 			Senior Vice President - Government and Public Affairs
+Walter F. Precourt III		56 			Senior Vice President - Strategy and Growth
+Corrine D. Ricard		57 			Senior Vice President - Mosaic Fertilizantes
+Karen A. Swager		50 			Senior Vice President - Supply Chain
+Bruce M. Bodine Jr. Mr. Bodine was named Senior Vice President - North America effective April 1, 2020. From January 1, 2019 until his appointment as Senior Vice President - North America, Mr. Bodine served as our Senior Vice President - Phosphates and, also provided executive oversight for the corporate procurement organization. Prior to that, he served as our Senior Vice President - Potash (from June 2016 to December 31, 2018); as our Vice President - Potash (from April to May 2016); as our Vice President - Supply Chain (from August 2015 to March 2016); as our Vice President - Operations Business Development (from October 2014 to August 2015); as Vice President - Operations for our Esterhazy and Colonsay potash production facilities (from July 2013 to October 2014); as the General Manager, Esterhazy (from September 2012 to June 2013); and as the General Manager, Four Corners (from March 2010 to August 2012). Before that, Mr. Bodine held various plant and mine development management positions in the Phosphates segment beginning with Mosaic’s formation in 2004. Mr. Bodine serves as a director of MVM Resources International, B.V., the general partner of Compañia Minera Miski Mayo S.R.L., the joint venture that operates the mines in Peru.
+Clint C. Freeland. Mr. Freeland was named Senior Vice President and Chief Financial Officer in June 2018. Prior to joining Mosaic, Mr. Freeland served as Executive Vice President and Chief Financial Officer of Dynegy Inc. from July 2011 until Dynegy’s merger with Vistra Energy Corp. in April 2018. Mr. Freeland was responsible for Dynegy’s financial affairs, including finance and accounting, treasury, tax and banking and credit agency relationships. In November 2011, as part of a reorganization of its subsidiaries, certain of Dynegy’s affiliates filed voluntary petitions for reorganization under Chapter 11 of the U.S. Bankruptcy Code (the “Code”) and, in July 2012, Dynegy filed a voluntary petition for reorganization under Chapter 11 of the Code. Dynegy emerged from Bankruptcy in October 2012. Prior to joining Dynegy, Mr. Freeland served as Senior Vice President, Strategy & Financial Structure of NRG Energy, Inc. from February 2009 to July 2011. Mr. Freeland served as NRG’s Senior Vice President and Chief Financial Officer from February 2008 to February 2009 and its Vice President and Treasurer from April 2006 to February 2008. Prior to joining NRG, Mr. Freeland held various key financial roles within the energy sector.
+Mark J. Isaacson. Mr. Isaacson was named Senior Vice President, General Counsel and Corporate Secretary in August 2015 and previously served as our Vice President, General Counsel and Corporate Secretary since August 2014. Mr. Isaacson joined Mosaic upon its formation in 2004 as its Chief Phosphates Counsel before being promoted to Vice President, Associate General Counsel and Chief Compliance Officer in 2011 and to Vice President, Acting General Counsel and Corporate Secretary in June 2014. Prior to joining Mosaic, Mr. Isaacson worked for 15 years at Cargill, Inc., where he served as Senior Attorney for a number of its business units.
+Christopher A. Lewis. Mr. Lewis was named Senior Vice President—Human Resources in June 2019. Prior to joining Mosaic, Mr. Lewis held the role of Vice President, Project Execution for Spectra Energy Corporation’s merger into Calgary, Alberta, Canada-based Enbridge, Inc. where he led construction of the companies’ energy assets throughout North America, as well as a synergy capture program post acquisition. Prior to that role, Lewis held roles at DCP Midstream, LLC, a natural gas company based in Denver, where he started as the head of Human Resources while the company was formed as a spinoff from Duke Energy in 2007. From 2010 to 2016, he was DCP’s Chief Corporate Officer, a multi-functional role that included
+28
+Table of Contents
+leadership of the human resources function. Earlier in his career, Lewis held regional and global senior human resources positions at Thomson Multimedia (formerly RCA, GE consumer electronics) and DHL, Inc.
+Richard N. McLellan. Mr. McLellan was appointed Senior Vice President - Commercial effective November 15, 2019. Prior to that time, he served as Senior Vice President - Mosaic Fertilizantes since May 2018, Senior Vice President - Brazil from February 2017 to May 2018, Senior Vice President - Commercial from April 2007 to February 2017, and before that as our Vice President - North American Sales since December 2005 and as Country Manager for our (and, prior to the Combination, Cargill’s) Brazilian crop nutrient business since November 2002. Mr. McLellan joined Cargill in 1989 and held various roles in its Canadian and U.S. operations, including grain, retail and wholesale crop nutrient distribution.
+James “Joc” C. O’Rourke. Mr. O’Rourke was promoted to President and Chief Executive Officer effective in August 2015. Previously, he served as Executive Vice President - Operations and Chief Operating Officer since August 2012 and before that as Executive Vice President - Operations since January 2009. Prior to joining Mosaic, Mr. O’Rourke was President, Australia Pacific for Barrick Gold Corporation, the largest gold producer in Australia, since May 2006, where he was responsible for the Australia Pacific Business Unit, consisting of ten gold and copper mines in Australia and Papua New Guinea. Before that, Mr. O’Rourke was Executive General Manager in Australia and Managing Director of Placer Dome Asia Pacific Ltd., the second largest gold producer in Australia, from December 2004, where he was responsible for the Australia Business Unit, consisting of five gold and copper mines; and General Manager of Western Australia Operations for Iluka Resources Ltd., the world’s largest zircon and second largest titanium producer, from September 2003, where he was responsible for six mining and concentrating operations and two mineral separation/synthetic rutile refineries. Mr. O’Rourke had previously held various management, engineering and other roles in the mining industry in Canada and Australia since 1984. Mr. O’Rourke has served on our Board of Directors since May 2015 and is also a director of The Toro Company.
+Benjamin J. Pratt. Ben Pratt was named Senior Vice President - Government and Public Affairs in April 2020. Previously, Mr. Pratt held the position of Vice President - Corporate Public Affairs, leading corporate communications and U.S. Federal Government relations, as well as Mosaic's corporate social responsibility activities. In addition, Mr. Prat serves as Owner's Representative to Streamsong Resort. Prior to joining Mosaic in February 2012, Mr. Pratt was Senior Vice President, Corporate Communications at Ameriprise Financial, Inc., in Minneapolis. Earlier in his career, he worked in a variety of communications and investor relations capacities at The PNC Financial Services Group in Pittsburgh, and at Lehman Brothers and Bear Stearns, both in New York.
+Walter F. Precourt III. Mr. Precourt was named Senior Vice President - Strategy and Growth effective January 1, 2019. From June 2016 through March 2020 he also provided executive oversight for the Environmental, Health and Safety ("EHS") organization. He previously served as Senior Vice President - Phosphates and provided executive oversight for the corporate procurement organization from June 2016 until January 1, 2019, as our Senior Vice President - Potash Operations from May 2012 to June 2016, and before that he led our Environment, Health and Safety organization since joining Mosaic in 2009. Prior to joining Mosaic, Mr. Precourt was employed by cement and mineral component producer Holcim (U.S.) where he initially led its safety transformation and later became Vice President of Environment and Government Affairs. Mr. Precourt started his career at The Dow Chemical Company where he served in a variety of roles in Operations, Technology, Capital Project Management, and Environmental, Health and Safety. Mr. Precourt served as a director and was the past Chairman of the Board of the Saskatchewan Potash Producers Association and was a director of Fertilizer Canada.
+Corrine D. Ricard. Ms. Ricard was appointed Senior Vice President - Mosaic Fertilizantes effective November 15, 2019. Prior to that she served as Senior Vice President - Commercial since February 2017, Senior Vice President - Human Resources from April 2012 to February 2017, and before that she held a number of other leadership positions at Mosaic, including Vice President - International Distribution, Vice President - Business Development and Vice President - Supply Chain. Prior to Mosaic’s formation, Ms. Ricard worked for Cargill in various roles, including risk management, supply chain and commodity trading.
+Karen A. Swager. Ms. Swager was named Senior Vice President - Supply Chain effective April 1, 2020, and also provides executive oversite for the Procurement and corporate EHS teams. From January 1, 2019 until her appointment as Senior Vice President - Supply Chain, she served as Senior Vice President - Potash. Previously, Ms. Swager held leadership positions at Mosaic, including Vice President - Minerals, Vice President - Mining Operations and General Manager in our Phosphates business. She also led the mine planning and strategy group for the Phosphates business.
+29
+Table of Contents
+Our executive officers are generally elected to serve until their respective successors are elected and qualified or until their earlier death, resignation or removal. No “family relationships,” as that term is defined in Item 401(d) of Regulation S-K, exist among any of the listed officers or between any such officer and any member of our board of directors.

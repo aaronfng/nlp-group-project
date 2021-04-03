@@ -1,0 +1,463 @@
+We are one of the largest energy infrastructure companies in North America. We own an interest in or operate approximately 83,000 miles of pipelines and 144 terminals. Our pipelines transport natural gas, refined petroleum products, crude oil, condensate, CO2 and other products, and our terminals store and handle various commodities including gasoline, diesel fuel, chemicals, biodiesel, ethanol, metals and petroleum coke.
+
+4
+
+General Development of Business
+
+Recent Developments
+
+The following is a listing of significant developments and updates related to our major projects and financing transactions. “Capital Scope” is estimated for our share of the described project which may include portions not yet completed.
+																				
+Asset or project		Description		Activity		Approx. Capital Scope (KMI Share)
+Placed in service
+ELC and SLNG Expansion		Building of new natural gas liquefaction and export facilities at our SLNG natural gas terminal on Elba Island, near Savannah, Georgia, with a total capacity of 2.5 MMtons per year of LNG, equivalent to approximately 357,000 Dth/d of natural gas. Supported by a long-term firm contract with Shell.		SLNG facilities and three of 10 liquefaction units were placed in service in the later part of 2019. The remaining seven units were placed in service during January through August 2020.		$1.2
+billion
+Permian Highway Pipeline (PHP) Project		Joint venture pipeline project (KMTP 26.67%, BCP PHP, LLC (BCP) 26.67%, Altus Midstream Processing LP 26.67% and an affiliate of an anchor shipper has a 20% ownership interest) is designed to transport up to 2.1 Bcf/d of natural gas through approximately 430 miles of 42-inch pipeline from the Waha, Texas area to the U.S. Gulf Coast and Mexico markets. Subscribed under long-term firm transportation contracts.		Initial commissioning in-service date November 2020. Placed in full commercial service on January 1, 2021.		$652 million
+KMI’s Crossover II Project		Expansion project that increases the delivery capacity on the Texas intrastate system by 1.4 Bcf/d. This expansion capacity serves LNG, industrial, electric generation and local distribution company expansions along the Texas Gulf Coast.		Placed in service November 2020		$257 million
+EPNG South Mainline Expansion		Expansion project that provides 471,000 Dth/d of firm transportation capacity with a first phase of system improvements to deliver volumes to the Sierrita pipeline and the second phase for incremental deliveries of natural gas to Arizona and California. Subscribed under long-term firm transportation contracts.		Phase 1 is already in service. Phase 2 was placed in service July 2020.		$134 million
+Other Announcements						
+Natural Gas Pipelines
+TGP East 300 Upgrade		Expansion project involves upgrading compression facilities upstream on TGP’s system in order to provide 115,000 Dth/d of capacity to Con Edison’s distribution system in Westchester County, New York. Supported by a long-term contract with Con Edison.		Expected in-service date is November 2022, pending regulatory approvals. 		$246 million
+KMLP Acadiana Expansion		Expansion project that will provide 945,000 Dth/d of capacity to serve Train 6 at Cheniere’s Sabine pass LNG terminal. Project supported by long-term contracts.		Expected to be placed in service as early as the second quarter 2022, regulatory approvals have been received.		$145 million
+NGPL Gulf Coast Southbound Expansion (second phase)		Expansion project to increase southbound capacity on NGPL’s Gulf Coast System by approximately 300,000 Dth/d to serve Corpus Christi Liquefaction. Subscribed under a long-term firm transportation contract.		In mid-December 2020, compressor stations 300 and 301 were placed into service. Full project expected in-service date is the first half of 2021. 		$101 million
+
+Financings
+
+During 2020, we and our subsidiaries issued approximately $2.25 billion of new senior notes and repaid approximately $2.2 billion of maturing senior notes. We utilized after-tax proceeds from the sale of Pembina stock received from the sale of KML to partially pay down debt that matured in February 2020, and in early January 2021, utilized a portion of proceeds from our August 2020 offerings to repay $750 million of senior notes that were scheduled to mature in March 2021.
+
+5
+
+Narrative Description of Business
+
+Business Strategy
+
+Our business strategy is to:
+
+•focus on stable, fee-based energy transportation and storage assets that are central to the energy infrastructure and energy transition of growing markets within North America or served by U.S. exports;
+•increase utilization of our existing assets while controlling costs, operating safely, and employing environmentally sound operating practices;
+•exercise discipline in capital allocation and in evaluating expansion projects and acquisition opportunities;
+•leverage economies of scale from expansions of assets and acquisitions that fit within our strategy; and
+•maintain a strong financial profile and enhance and return value to our stockholders.
+
+It is our intention to carry out the above business strategy, modified as necessary to reflect changing economic conditions and other circumstances. However, as discussed under Item 1A. “Risk Factors” below and at the beginning of this report in “Information Regarding Forward-Looking Statements,” there are factors that could affect our ability to carry out our strategy or affect its level of success even if carried out.
+
+We regularly consider and enter into discussions regarding potential acquisitions and divestitures, and we are currently contemplating potential transactions. Any such transaction would be subject to negotiation of mutually agreeable terms and conditions, and, as applicable, receipt of fairness opinions, and approval of our board of directors. While there are currently no unannounced purchase or sale agreements for the acquisition or sale of any material business or assets, such transactions can be effected quickly, may occur at any time and may be significant in size relative to our existing assets or operations.
+
+Business Segments
+
+For financial information on our reportable business segments, see Note 16 “Reportable Segments” to our consolidated financial statements.
+
+Natural Gas Pipelines
+
+Our Natural Gas Pipelines business segment includes interstate and intrastate pipelines, underground storage facilities and our LNG liquefaction and terminal facilities, and includes both FERC regulated and non-FERC regulated assets.
+
+Our primary businesses in this segment consist of natural gas transportation, storage, sales, gathering, processing and treating, and various LNG services.  Within this segment are: (i) approximately 44,000 miles of wholly owned natural gas pipelines and (ii) our equity interests in entities that have approximately 27,000 miles of natural gas pipelines, along with associated storage and supply lines for these transportation networks, which are strategically located throughout the North American natural gas pipeline grid.  Our transportation network provides access to the major natural gas supply areas and consumers in the western U.S., Louisiana, Texas, Northeast, Rocky Mountain, Midwest and Southeastern regions. Our LNG terminal facilities also serve natural gas market areas in the southeast. The following tables summarize our significant Natural Gas Pipelines business segment assets, as of December 31, 2020. The design capacity represents transmission, gathering, regasification or liquefaction capacity, depending on the nature of the asset.
+
+																										
+Asset (KMI ownership shown if not 100%)		 Miles of Pipeline 		Design (Bcf/d) [(MBbl/d)] Capacity		Storage (Bcf) [Processing (Bcf/d)] Capacity		Supply and Market Region
+								
+East Region
+TGP		11,760 			12.14 			80 			Marcellus, Utica, Gulf Coast, Haynesville, and Eagle Ford shale supply basins; Northeast, Southeast, Gulf Coast and U.S.-Mexico border markets
+NGPL (50%)		9,100 			7.60 			288 			Chicago and other Midwest markets and all central U.S. supply basins; north to south deliveries, including deliveries to LNG facilities and to the U.S.-Mexico border markets
+6
+
+																										
+Asset (KMI ownership shown if not 100%)		 Miles of Pipeline 		Design (Bcf/d) [(MBbl/d)] Capacity		Storage (Bcf) [Processing (Bcf/d)] Capacity		Supply and Market Region
+KMLP		140 			3.00 			— 			Columbia Gulf, ANR Pipeline Company and various other pipeline interconnects; Cheniere Sabine Pass LNG and industrial markets
+SNG (50%)		6,930 			4.40 			66 			Louisiana, Mississippi, Alabama, Florida, Georgia, South Carolina and Tennessee markets; basins in Texas, Oklahoma, Louisiana, Mississippi and Alabama
+Florida Gas Transmission (Citrus) (50%)		5,360 			3.90 			— 			Texas to Florida; basins along Louisiana and Texas Gulf Coast, Mobile Bay and offshore Gulf of Mexico
+MEP (50%)		515 			1.81 			— 			Oklahoma and north Texas supply with interconnects to Transco, Columbia Gulf, SNG and various other pipelines
+Elba Express		190 			1.10 			— 			South Carolina to Georgia; connects to SNG, Transco, SLNG, ELC and Dominion Energy Carolina Gas Transmission
+FEP (50%)		185 			2.00 			— 			Arkansas to Mississippi; connects to NGPL, Trunkline Gas Company, Texas Gas Transmission and ANR Pipeline Company
+Gulf LNG Holdings (50%)		5 			1.50 			7 			Near Pascagoula, Mississippi; connects to four interstate pipelines and a natural gas processing plant
+Bear Creek Storage (75%)		— 			— 			59 			Located in Louisiana; provides storage capacity to SNG and TGP
+SLNG		— 			1.76 			12 			Located on Elba Island in Georgia; connects to Elba Express, SNG and Dominion Energy Carolina Gas Transmission
+ELC (51%)		— 			0.35 			— 			Located on Elba Island; connects to Elba Express delivering to SLNG for LNG storage and ship loading.
+								
+West Region
+EPNG/Mojave		10,685 			6.39 			44 			Permian, San Juan and Anadarko Basins; interconnects and demand locations in California, Arizona, New Mexico, Texas, Oklahoma and Mexico
+CIG		4,295 			6.00 			38 			Rocky Mountain and Anadarko Basins; interconnects and demand locations in Colorado, Wyoming, Utah, Montana, Kansas, Oklahoma and Texas
+WIC		850 			3.61 			— 			Rocky Mountain Basins; interconnects and demand locations in Colorado, Utah and Wyoming
+Ruby (50%)(a)		685 			1.53 			— 			Rocky Mountain Basins; interconnects and demand locations in Utah, Nevada, Oregon and California
+CPGPL		415 			1.20 			— 			Rocky Mountain Basins; interconnects and demand locations in Colorado and Kansas
+TransColorado		310 			0.80 			— 			San Juan, Permian, Paradox and Piceance Basins; interconnects and demand locations in Colorado and New Mexico
+WYCO (50%)		235 			1.20 			7 			Denver Julesburg Basin; interconnects with CIG, WIC, Rockies Express Pipeline, Young Gas Storage and PSCo’s pipeline systems
+Sierrita (35%)		60 			0.52 			— 			Connects with EPNG near Tucson, Arizona, to the U.S.-Mexico international border crossing near Sasabe, Arizona to supply a third-party natural gas pipeline in Mexico
+Young Gas Storage (48%)		15 			— 			6 			
+Located in Morgan County, Colorado in the Denver Julesburg Basin; capacity is committed to CIG and Colorado Springs Utilities
+Keystone Gas Storage		15 			— 			6 			Located in the Permian Basin near the Waha natural gas trading hub in West Texas
+								
+Midstream
+KM Texas and Tejas pipelines(b)		5,920		8.30 			132
+[0.52]		Texas Gulf Coast supply and markets
+7
+
+																										
+Asset (KMI ownership shown if not 100%)		 Miles of Pipeline 		Design (Bcf/d) [(MBbl/d)] Capacity		Storage (Bcf) [Processing (Bcf/d)] Capacity		Supply and Market Region
+Mier-Monterrey pipeline(b)		90		0.65 			— 			Starr County, Texas to Monterrey, Mexico; connects to CENEGAS national system and multiple power plants in Monterrey
+KM North Texas pipeline(b)		80		0.33 			— 			Interconnect from NGPL; connects to a 1,750-megawatt Forney, Texas, power plant and a 1,000-megawatt Paris, Texas, power plant
+Gulf Coast Express pipeline (34%)		530		2.00 			— 			Permian Basin to the Agua Dulce, Texas area
+PHP (27%)(c)		430		2.10 			— 			
+Permian Basin to the Texas Gulf Coast and Mexico markets
+Oklahoma								
+Oklahoma system		3,580		0.73 			[0.09]		Hunton Dewatering, Woodford Shale, Anadarko Basin and Mississippi Lime, Arkoma Basin
+Cedar Cove (70%)		115		0.03 			— 			Oklahoma STACK, capacity excludes third-party offloads
+South Texas								
+South Texas system		1,160		1.93 			[1.02]		Eagle Ford shale, Woodbine and Eaglebine formations
+Webb/Duval gas gathering system (91%)		145		0.15 			— 			South Texas
+Camino Real 		75		0.15 			— 			South Texas, Eagle Ford shale formation
+EagleHawk (25%)		530		1.20 			— 			South Texas, Eagle Ford shale formation
+KM Altamont		1,515		0.10 			[0.1]		Utah, Uinta Basin
+Red Cedar (49%)		900		0.33 			— 			La Plata County, Colorado, Ignacio Blanco Field
+Rocky Mountain								
+Fort Union (42.595%)		315 			1.25 			— 			Powder River Basin (Wyoming)
+Bighorn (51%)		265 			0.60 			— 			Powder River Basin (Wyoming)
+KinderHawk		525 			2.35 			— 			Northwest Louisiana, Haynesville and Bossier shale formations
+North Texas		545 			0.14 			— 			North Barnett Shale Combo
+KM Treating		— 			— 			— 			Odessa, Texas, other locations in Tyler and Victoria, Texas
+Hiland - Williston - gas 		2,175 			0.62 			[0.33]		Bakken/Three Forks shale formations - natural gas gathering and processing
+Liberty pipeline (50%)		85 			
+[140]
+		— 			Y-grade pipeline from Houston Central complex to the Texas Gulf Coast
+South Texas NGL pipelines		340 			
+[115]
+		— 			Ethane and propane pipelines from Houston Central complex to the Texas Gulf Coast
+Utopia pipeline (50%)		265 			
+[50]
+		— 			Harrison County, Ohio extending to Windsor, Ontario
+Cypress pipeline (50%)		105 			
+[56]
+		— 			Mont Belvieu, Texas to Lake Charles, Louisiana
+EagleHawk - Condensate (25%)(d)		400 			
+[220]
+		— 			South Texas, Eagle Ford shale formation
+(a)We operate Ruby and own the common interest in Ruby. Pembina owns the remaining interest in Ruby in the form of a convertible preferred interest and has 50% voting rights. If Pembina converted its preferred interest into common interest, we and Pembina would each own a 50% common interest in Ruby.
+(b)Collectively referred to as Texas intrastate natural gas pipeline operations.
+(c)Initial commissioning during November 2020.
+(d)Asset also has storage capacity 60 MBbl.
+
+8
+
+Competition
+
+The market for natural gas infrastructure is highly competitive, and new pipelines, storage facilities, treating facilities, and facilities for related services are currently being built to serve demand for natural gas in the markets served by the pipelines in our Natural Gas Pipelines business segment.  We compete with interstate and intrastate pipelines for connections to new markets and supplies and for transportation, processing, storage and treating services.  We believe the principal elements of competition in our various markets are location, rates, terms of service, flexibility, availability of alternative forms of energy and reliability of service.  From time to time, projects are proposed that compete with our existing assets. Whether or when any such projects would be built, or the extent of their impact on our operations or profitability is typically not known.
+
+Shippers on our natural gas pipelines compete with other forms of energy available to their natural gas customers and end users, including oil, coal, nuclear and renewables such as hydro, wind and solar power, along with other evolving forms of renewable energy.  Several factors influence the demand for natural gas, including price changes, the availability of supply, other forms of energy, the level of business activity, conservation, legislation and governmental regulations, the ability to convert to alternative fuels and weather.
+
+9
+
+Products Pipelines
+
+Our Products Pipelines business segment consists of our refined petroleum products, crude oil and condensate pipelines, and associated terminals, Southeast terminals, our condensate processing facility and our transmix processing facilities. The following summarizes the significant Products Pipelines business segment assets that we own and operate as of December 31, 2020:
+																										
+Asset (KMI ownership shown if not 100%)		Miles of Pipeline		Number of Terminals (a) or locations		Terminal Capacity
+(MMBbl)		Supply and Market Region
+								
+Crude & Condensate								
+KM Crude & Condensate pipeline		266 			5 			2.6 			Eagle Ford shale field in South Texas (Dewitt, Karnes, and Gonzales Counties) to the Houston ship channel refining complex
+Camino Real Gathering		66 			1 			0.1 			South Texas, Eagle Ford shale formation
+Hiland - Williston Basin - oil(b)		1,595 			7 			0.9 			Bakken/Three Forks shale formations - crude oil gathering and transporting
+Double H pipeline(b)		512 			— 			— 			Bakken shale in Montana and North Dakota to Guernsey, Wyoming
+Double Eagle pipeline (50%)		204 			2 			0.6 			Live Oak County, Texas; Corpus Christi, Texas; Karnes County, Texas; and LaSalle County
+KM Condensate Processing Facility (KMCC - Splitter)		— 			1 			2.0 			Houston Ship Channel, Galena Park, Texas
+								
+Southeast Refined Products								
+PPL pipeline (51%)(c)		3,183 			— 			— 			Louisiana to Washington D.C.
+Central Florida pipeline		206 			2 			2.5 			Tampa to Orlando
+Southeast Terminals		— 			25 			8.9 			From Mississippi through Virginia, including Tennessee
+Transmix Operations		— 			5 			0.6 			Colton, California; Richmond, Virginia; Dorsey Junction, Maryland; St. Louis, Missouri; and Greensboro, North Carolina
+								
+West Coast Refined Products								
+Pacific (SFPP) (99.5%)		2,845 			13 			15.2 			Six western states
+Calnev		566 			2 			2.0 			Colton, California to Las Vegas, Nevada; Mojave region
+West Coast Terminals		38 			8 			9.9 			Seattle, Portland, San Francisco and Los Angeles areas
+(a)The terminals provide services including short-term product storage, truck loading, vapor handling, additive injection, dye injection and ethanol blending.
+(b)Collectively referred to as Bakken Crude assets.
+(c)Previously known as Plantation pipeline.
+
+Competition
+
+Our Products Pipelines’ pipeline and terminal operations compete against proprietary pipelines and terminals owned and operated by major oil companies, other independent products pipelines and terminals, trucking and marine transportation firms (for short-haul movements of products). Our railcars and our transmix operations compete with refineries owned by major oil companies and independent transmix facilities.
+
+Terminals
+
+Our Terminals business segment includes the operations of our refined petroleum product, chemical, ethanol and other liquid terminal facilities (other than those included in the Products Pipelines business segment) and all of our petroleum coke, metal and ores facilities.  Our terminals are located primarily near large U.S. urban centers.  We believe the location of our facilities and our ability to provide flexibility to customers help attract new and retain existing customers at our terminals and provide expansion opportunities. We often classify our terminal operations based on the handling of either liquids or dry-bulk material products. In addition, our Terminals’ marine operations include Jones Act-qualified product tankers that provide
+10
+
+marine transportation of crude oil, condensate and refined petroleum products between U.S. ports. The following summarizes our Terminals business segment assets, as of December 31, 2020:
+											
+	Number		Capacity
+(MMBbl)
+Liquids terminals	50		79.7
+Bulk terminals	29		— 	
+Jones Act-qualified tankers	16		5.3
+
+Competition
+
+We are one of the largest independent operators of liquids terminals in the U.S., based on barrels of liquids terminaling capacity.  Our liquids terminals compete with other publicly or privately held independent liquids terminals, and terminals owned by oil, chemical, pipeline, and refining companies.  Our bulk terminals compete with numerous independent terminal operators, terminals owned by producers and distributors of bulk commodities, stevedoring companies and other industrial companies opting not to outsource terminaling services.  In some locations, competitors are smaller, independent operators with lower cost structures.  Our Jones Act-qualified product tankers compete with other Jones Act-qualified vessel fleets.
+
+CO2
+
+Our CO2 business segment produces, transports, and markets CO2 for use in enhanced oil recovery projects as a flooding medium for recovering crude oil from mature oil fields.  Our CO2 pipelines and related assets allow us to market a complete package of CO2 supply and transportation services to our customers. We also hold ownership interests in several oil-producing fields and own a crude oil pipeline, all located in the Permian Basin region of West Texas.
+
+Source and Transportation Activities
+
+CO2 Resource Interests
+
+Our principal market for CO2 is for injection into mature oil fields in the Permian Basin. Our ownership of CO2 resources as of December 31, 2020 includes:
+																	
+	Ownership
+Interest		Compression
+Capacity (Bcf/d)		Location
+McElmo Dome unit	45 	%		1.5 			Colorado
+Doe Canyon Deep unit	87 	%		0.2 			Colorado
+Bravo Dome unit(a)	11 	%		0.3 			New Mexico
+(a)We do not operate this unit.
+
+CO2 and Crude Oil Pipelines
+
+The principal market for transportation on our CO2 pipelines is to customers, including ourselves, using CO2 for enhanced recovery operations in mature oil fields in the Permian Basin, where industry demand is expected to remain stable in the foreseeable future. The tariffs charged on (i) the Wink crude oil pipeline system are regulated by both the FERC and the Texas Railroad Commission; (ii) the Pecos Carbon Dioxide Pipeline are regulated by the Texas Railroad Commission; and (iii) the Cortez pipeline are based on a consent decree. Our other CO2 pipelines are not regulated.
+
+11
+
+Our ownership of CO2 and crude oil pipelines as of December 31, 2020 includes:
+																				
+Asset (KMI ownership shown if not 100%)		Miles of Pipeline		Transport Capacity (Bcf/d)		Supply and Market Region
+CO2 pipelines
+						
+Cortez pipeline (53%)		569		1.5		McElmo Dome and Doe Canyon source fields to the Denver City, Texas hub
+Central Basin pipeline		337		0.7		Cortez, Bravo, Sheep Mountain, Canyon Reef Carriers, and Pecos pipelines
+Bravo pipeline (13%)(a)		218		0.4		Bravo Dome to the Denver City, Texas hub
+Canyon Reef Carriers pipeline (98%)		163		0.3		McCamey, Texas, to the SACROC, Sharon Ridge, Cogdell and Reinecke units
+Centerline CO2 pipeline
+		113		0.3		between Denver City, Texas and Snyder, Texas
+Eastern Shelf CO2 pipeline
+		98		0.1		between Snyder, Texas and Knox City, Texas
+Pecos pipeline (95%)		25		0.1		McCamey, Texas, to Iraan, Texas, delivers to the Yates unit
+				(Bbls/d)		
+Crude oil pipeline						
+Wink pipeline		434		145,000		West Texas to Western Refining’s refinery in El Paso, Texas
+(a)We do not operate Bravo pipeline.
+
+Oil and Gas Producing Activities
+
+Oil and Gas Producing Interests
+
+Our ownership interests in oil and gas producing fields located in the Permian Basin of West Texas as of December 31, 2020 include the following:
+											
+			KMI Gross
+	Working		Developed
+	Interest		Acres
+SACROC	97 	%		49,156 	
+Yates	50 	%		9,576 	
+Goldsmith Landreth San Andres	99 	%		6,166 	
+Katz Strawn	99 	%		7,194 	
+Reinecke	70 	%		3,793 	
+Sharon Ridge(a)	14 	%		2,619 	
+Tall Cotton	100 	%		641
+MidCross(a)	13 	%		320
+(a)We do not operate these fields.
+
+Our oil and gas producing activities are not significant to KMI as a whole; therefore, we do not include the supplemental information on oil and gas producing activities under Accounting Standards Codification Topic 932, Extractive Activities - Oil and Gas.
+
+12
+
+Gas and Gasoline Plant Interests
+
+Owned and operated gas plants in the Permian Basin of West Texas as of December 31, 2020 include:
+											
+	Ownership		
+	Interest		Source
+Snyder gasoline plant(a)	22 	%		
+The SACROC unit and neighboring CO2 projects, specifically the Sharon Ridge and Cogdell units
+Diamond M gas plant	51 	%		Snyder gasoline plant
+North Snyder plant	100 	%		Snyder gasoline plant
+(a)This is a working interest, in addition, we have a 28% net profits interest.
+
+Competition
+
+Our primary competitors for the sale of CO2 include suppliers that have an ownership interest in McElmo Dome, Bravo Dome and Sheep Mountain CO2 resources.  Our ownership interests in the Central Basin, Cortez and Bravo pipelines are in direct competition with other CO2 pipelines.  We also compete with other interest owners in the McElmo Dome unit and the Bravo Dome unit for transportation of CO2 to the Denver City, Texas market area.
+
+Major Customers
+
+Our revenue is derived from a wide customer base. For each of the years ended December 31, 2020, 2019 and 2018, no revenues from transactions with a single external customer accounted for 10% or more of our total consolidated revenues. We do not believe that a loss of revenues from any single customer would have a material adverse effect on our business, financial position, results of operations or cash flows.
+
+Industry Regulation
+
+Interstate Natural Gas Transportation and Storage Regulation
+
+As an owner and operator of natural gas companies subject to the Natural Gas Act of 1938, we are required to provide service to shippers on our interstate natural gas pipelines and storage facilities at regulated rates that have been determined by the FERC to be just and reasonable. Recourse rates and general terms and conditions for service are set forth in posted tariffs approved by the FERC for each pipeline (including storage facilities or companies as used herein). Generally, recourse rates are based on our cost of service, including recovery of, and a return on, our investment. Posted tariff rates are deemed just and reasonable and cannot be changed without FERC authorization following an evidentiary hearing or settlement. The FERC can initiate proceedings, on its own initiative or in response to a shipper complaint, that could result in a rate change or confirm existing rates.
+
+Posted tariff rates set the general range of maximum and minimum rates we charge shippers on our interstate natural gas pipelines. Within that range, each pipeline is permitted to charge discounted rates, so long as such discounts are offered to all similarly situated shippers and granted without undue discrimination. Apart from discounted rates, upon mutual agreement, the pipeline is permitted to charge negotiated rates that are not bound by and are irrespective of changes that may occur to the range of tariff-based maximum and minimum rate levels. Negotiated rates provide certainty to the pipeline and the shipper of agreed-upon rates during the term of the transportation agreement, regardless of changes to the posted tariff rates. The actual negotiated rate agreement or a summary of such agreement must be posted as part of the pipelines’ tariffs. While pipelines and their shippers may agree to a variety of negotiated rate structures depending on the shipper and circumstance, pipelines generally must use for all shippers the form of service agreement that is contained within their FERC-approved tariff. Any deviation from the pro forma service agreements must be filed with the FERC and only certain types of deviations in the terms and conditions of service are acceptable to the FERC.
+
+The FERC regulates the rates, terms and conditions of service, construction and abandonment of facilities by companies performing interstate natural gas transportation services, including storage services, under the Natural Gas Act of 1938. To a lesser extent, the FERC regulates interstate transportation rates, terms and conditions of service under the Natural Gas Policy Act of 1978. Beginning in the mid-1980s, the FERC adopted a number of regulatory changes to ensure that interstate natural gas pipelines operated on a not unduly discriminatory basis and to create a more competitive and transparent environment in the natural gas marketplace. Examples include FERC regulations requiring interstate natural gas pipelines to separate their traditional merchant sales services from their transportation and storage services and provide comparable transportation and
+13
+
+storage services with respect to all natural gas customers. Also, natural gas pipelines must separately state the applicable rates for each unbundled service they provide (i.e., for transportation services and storage services for natural gas). To ensure a competitive transportation market, these pipelines must adhere to certain scheduling procedures, accept capacity segmentation in certain circumstances and abide by FERC-established standards of conduct when communicating with marketing affiliates.
+
+In addition to regulatory changes initiated by the FERC, the U.S. Congress passed the Energy Policy Act of 2005. Among other things, the Energy Policy Act amended the Natural Gas Act to: (i) prohibit market manipulation by any entity; (ii) direct the FERC to facilitate market transparency in the market for sale or transportation of physical natural gas in interstate commerce; and (iii) significantly increase the penalties for violations of the Natural Gas Act, the Natural Gas Policy Act of 1978, or FERC rules, regulations or orders thereunder.
+
+Interstate Common Carrier Refined Petroleum Products and Oil Pipeline Rate Regulation
+
+Some of our U.S. refined petroleum products and crude oil gathering and transmission pipelines are interstate common carrier pipelines, subject to regulation by the FERC under the Interstate Commerce Act, or ICA. The ICA requires that we maintain our tariffs on file with the FERC. Those tariffs set forth the rates we charge for providing gathering or transportation services on our interstate common liquids carrier pipelines as well as the rules and regulations governing these services. The ICA requires, among other things, that such rates on interstate common liquids carrier pipelines be “just and reasonable” and nondiscriminatory. The ICA permits interested persons to challenge newly proposed or changed rates and authorizes the FERC to suspend the effectiveness of such rates for a period of up to seven months and to investigate such rates. If, upon completion of an investigation, the FERC finds that the new or changed rate is unlawful, it is authorized to require the carrier to refund the revenues in excess of the prior tariff collected during the pendency of the investigation. The FERC also may investigate, upon complaint or on its own motion, rates that are already in effect and may order a carrier to change its rates prospectively. Upon an appropriate showing, a shipper may obtain reparations for damages sustained during the two years prior to the filing of a complaint.
+
+The Energy Policy Act of 1992 deemed petroleum products pipeline tariff rates that were in effect for the 365-day period ending on the date of enactment or that were in effect on the 365th day preceding enactment and had not been subject to complaint, protest or investigation during the 365-day period to be just and reasonable or “grandfathered” under the ICA. The Energy Policy Act also limited the circumstances under which a complaint can be made against such grandfathered rates. Certain rates on our SFPP operations’ pipeline system were subject to protest during the 365-day period established by the Energy Policy Act. Accordingly, certain of the SFPP pipelines’ rates have been, and continue to be, the subject of complaints with the FERC, as is more fully described in Note 18 “Litigation and Environmental” to our consolidated financial statements.
+
+Petroleum products and crude oil pipelines may change their rates within prescribed ceiling levels that are tied to an inflation index. Shippers may protest rate increases made within the ceiling levels, but such protests must show that the portion of the rate increase resulting from application of the index is substantially in excess of the pipeline’s increase in costs from the previous year. A petroleum products or crude oil pipeline must, as a general rule, utilize the indexing methodology to change its rates. Cost-of-service ratemaking, market-based rates and settlement rates are alternatives to the indexing approach and may be used in certain specified circumstances to change rates.
+
+CPUC Rate Regulation
+
+The intrastate common carrier operations of our West Coast Refined Products operations’ pipelines in California are subject to regulation by the CPUC under a “depreciated book plant” methodology, which is based on an original cost measure of investment. Intrastate tariffs filed by us with the CPUC have been established on the basis of revenues, expenses and investments allocated as applicable to the California intrastate portion of the West Coast Refined Products operations’ business. Tariff rates with respect to intrastate pipeline service in California are subject to challenge by complaint by interested parties or by independent action of the CPUC. A variety of factors can affect the rates of return permitted by the CPUC, and certain other issues similar to those which have arisen with respect to our FERC regulated rates also could arise with respect to its intrastate rates. The intrastate rates for movements in California on our SFPP and Calnev systems have been, and may in the future be, subject to complaints before the CPUC.
+
+Railroad Commission of Texas (RCT) Rate Regulation
+
+The intrastate operations of our crude oil and liquids pipelines and natural gas pipelines and storage facilities in Texas are subject to regulation with respect to such intrastate transportation by the RCT. The RCT has the authority to regulate our rates, though it generally has not investigated the rates or practices of our intrastate pipelines in the absence of shipper complaints.
+
+14
+
+Mexico - Energy Regulatory Commission
+
+The Mier-Monterrey Pipeline has a natural gas transportation permit granted by the Energy Regulatory Commission of Mexico (the Commission) that defines the conditions for the pipeline to carry out activity and provide natural gas transportation service. This permit expires in 2026.
+
+This permit establishes certain restrictive conditions, including without limitation: (i) compliance with the general conditions for the provision of natural gas transportation service; (ii) compliance with certain safety measures, contingency plans, maintenance plans and the official standards of Mexico regarding safety; (iii) compliance with the technical and economic specifications of the natural gas transportation system authorized by the Commission; (iv) compliance with certain technical studies established by the Commission; and (v) compliance with a minimum contributed capital not entitled to withdrawal of at least the equivalent of 10% of the investment proposed in the project.
+
+Mexico - National Agency for Industrial Safety and Environmental Protection (ASEA)
+
+ASEA regulates environmental compliance and industrial and operational safety. The Mier-Monterrey Pipeline must satisfy and maintain ASEA’s requirements, including compliance with certain safety measures, contingency plans, maintenance plans and the official standards of Mexico regarding safety, including a Safety Administration Program.
+
+Safety Regulation
+
+We are also subject to safety regulations issued by PHMSA, including those requiring us to develop and maintain pipeline integrity management programs to evaluate areas along our pipelines and take additional measures to protect pipeline segments located in what are referred to as High Consequence Areas, or HCAs, and Moderate Consequence Areas, or MCAs, where a leak or rupture could potentially do the most harm.
+
+During September 2019, PHMSA finalized rules to be effective July 1, 2020 to expand integrity management program requirements to hazardous liquids pipelines outside of HCAs (with some exceptions) and  to make certain other changes to those program requirements, including data integration and  emphasis on the use of in-line inspection technology.  During October 2019, PHMSA finalized rules to require operators of natural gas pipelines to (i) expand integrity management program requirements outside of HCAs (with some exceptions), and (ii) reconfirm maximum allowable operating pressure (MAOP) on certain pipelines in populated areas including HCAs.  The MAOP reconfirmations must be completed by 2035. Changes in technology such as advances of in-line inspection tools, identification of additional integrity threats and changes to PHMSA regulations can have a significant impact on costs to perform integrity assessments, testing and repairs. We will continue our pipeline integrity management programs to assess and maintain the integrity of our existing and future pipelines as required by PHMSA regulations. The costs to comply with integrity management program requirements are difficult to predict.  Assessments performed as part of our program could result in significant capital and operating expenditures for upgrades and/or repairs deemed necessary to continue the safe and reliable operation of our pipelines. We expect to increase expenditures in the future to comply with these PHMSA regulations.
+
+The Protecting our Infrastructure of Pipelines and Enhancing Safety Act of 2016 or “PIPES Act of 2016” requires PHMSA, among other regulators, to set minimum safety standards for underground natural gas storage facilities and allows states to set more stringent standards for intrastate pipelines. In compliance with the PIPES Act of 2016, we have implemented procedures for underground natural gas storage facilities.
+
+The Pipeline Safety, Regulatory Certainty, and Job Creation Act of 2011, which was signed into law in 2012, increased penalties for violations of safety laws and rules and may result in the imposition of more stringent regulations in the future. Regulations, changes to regulations or an increase in public expectations for pipeline safety may require additional reporting, the replacement of some of our pipeline segments, addition of monitoring equipment and more frequent inspection or testing of our pipeline facilities. Repair, remediation, and preventative or mitigating actions may require significant capital and operating expenditures.
+
+From time to time, our pipelines or facilities may experience leaks and ruptures. These leaks and ruptures may cause explosions, fire, damage to the environment, damage to property and/or personal injury or death. In connection with these incidents, we may be sued for damages. Depending upon the facts and circumstances of a particular incident, state and federal regulatory authorities may seek civil and/or criminal fines and penalties.
+
+We are also subject to the requirements of the Occupational Safety and Health Administration (OSHA) and other federal and state agencies that address employee health, including from infectious diseases such as COVID-19, and safety.  In general,
+15
+
+we believe we are fulfilling the OSHA requirements and protecting the health and safety of our employees.  Based on new or revised regulatory developments, we may be required to increase expenditures in the future to comply with higher industry and regulatory safety standards.  However, there are no known new or revised regulations which will require a material increase in our expenditures.
+
+State and Local Regulation
+
+Certain of our activities are subject to various state and local laws and regulations, as well as orders of regulatory bodies, governing a wide variety of matters, including marketing, production, pricing, pollution, protection of the environment, and human health and safety.
+
+Marine Operations
+
+The operation of tankers and marine equipment create maritime obligations involving property, personnel and cargo under General Maritime Law. These obligations create a variety of risks including, among other things, the risk of collision, which may result in claims for personal injury, cargo, contract, pollution, third-party claims and property damages to vessels and facilities.
+
+We are subject to the Jones Act and other federal laws that restrict maritime transportation (between U.S. departure and destination points) to vessels built and registered in the U.S. and owned and crewed by U.S. citizens. As a result, we monitor the foreign ownership of our common stock and under certain circumstances consistent with our certificate of incorporation, we have the right to redeem shares of our common stock owned by non-U.S. citizens. If we do not comply with such requirements, we would be prohibited from operating our vessels in U.S. coastwise trade, and under certain circumstances we would be deemed to have undertaken an unapproved foreign transfer, resulting in severe penalties, including permanent loss of U.S. coastwise trading rights for our vessels, fines or forfeiture of the vessels. Furthermore, from time to time, legislation has been introduced unsuccessfully in the U.S. Congress to amend the Jones Act to ease or remove the requirement that vessels operating between U.S. ports be built and registered in the U.S. and owned and crewed by U.S. citizens.  If the Jones Act were amended in such fashion, we could face competition from foreign-flagged vessels.
+
+In addition, the U.S. Coast Guard and the American Bureau of Shipping maintain the most stringent regime of vessel inspection in the world, which tends to result in higher regulatory compliance costs for U.S.-flag operators than for owners of vessels registered under foreign flags of convenience. The Jones Act and General Maritime Law also provide damage remedies for crew members injured in the service of the vessel arising from employer negligence or vessel unseaworthiness.
+
+The Merchant Marine Act of 1936 is a federal law that provides the U.S. Secretary of Transportation, upon proclamation by the U.S. President of a national emergency or a threat to the national security, the authority to requisition or purchase any vessel or other watercraft owned by U.S. citizens (including us, provided that we are considered a U.S. citizen for this purpose). If one of our vessels were purchased or requisitioned by the U.S. government under this law, we would be entitled to be paid the fair market value of the vessel in the case of a purchase or, in the case of a requisition, the fair market value of charter hire. However, we would not be entitled to compensation for any consequential damages suffered as a result of such purchase or requisition.
+
+Canadian Regulation
+
+The Utopia Pipeline System, owned by a joint venture that we operate and in which we own a 50% interest, originates in Ohio and terminates in Windsor, Ontario, Canada and is therefore subject to U.S. regulation as described in this section and below under the heading “—Environmental Matters,” as well as similar regulations promulgated by Canadian authorities with respect to natural gas liquids pipelines.
+
+Derivatives Regulation
+
+We use energy commodity derivative contracts as part of our strategy to hedge our exposure to energy commodity market risk and other external risks in the ordinary course of business. The derivative contracts that we use include exchange-traded and OTC commodity financial instruments such as, futures and options contracts, fixed price swaps and basis swaps. The Dodd-Frank Act requires the U.S. Commodity Futures Trading Commission (CFTC) and the SEC to promulgate rules and regulations establishing federal oversight and regulation of the OTC derivatives market and entities that participate in that market. In October 2020, the CFTC finalized one of the last remaining new rules pursuant to the Dodd-Frank Act that institutes broad new aggregate position limits for OTC swaps and futures and options traded on regulated exchanges. As finalized, these
+16
+
+rules include exemptions for hedging positions, and while we cannot yet predict the full impact of the rules when they take effect in 2022 and 2023, we do not expect that the rules will have a material adverse effect on our business. We cannot predict how new leadership at the CFTC as a result of the change in the U.S. presidential administration may impact us.
+
+Environmental Matters
+
+Our business operations are subject to federal, state and local laws and regulations relating to environmental protection and human health and safety. For example, if an accidental leak, release or spill of liquid petroleum products, chemicals or other hazardous substances occurs at or from our pipelines, storage or other facilities, we may experience significant operational disruptions, and we may have to pay a significant amount to clean up the leak, release or spill, pay for government penalties, address natural resource damages, compensate for human exposure or property damage, install costly pollution control equipment or a combination of these and other measures. Furthermore, new projects may require approvals and environmental analysis under federal and state laws, including the Clean Water Act, the National Environmental Policy Act and the Endangered Species Act. The resulting costs and liabilities could materially and negatively affect our business, financial condition, results of operations and cash flows. In addition, emission controls required under federal and state environmental laws for both new and existing facilities could require significant capital expenditures at our facilities. In general, the cost of environmental control at facilities is increasing and limiting the return on capital projects and the number of capital projects that are viable.
+
+Environmental and human health and safety laws and regulations are subject to change. The long term trend in environmental regulation is to place more restrictions and limitations on activities that may be perceived to affect the environment, wildlife, natural resources and human health. There can be no assurance as to the amount or timing of future expenditures for environmental regulation compliance or remediation, and actual future expenditures may be different from the amounts we currently anticipate. Revised or additional regulations that result in increased compliance costs or additional operating restrictions, particularly if those costs are not fully recoverable from our customers, could have a material adverse effect on our business, financial position, results of operations and cash flows.
+
+In accordance with GAAP, we record liabilities for environmental matters when it is probable that obligations have been incurred and the amounts can be reasonably estimated. This policy applies to assets or businesses currently owned or previously disposed. We have accrued liabilities for estimable and probable environmental remediation obligations at various sites, including multi-party sites where the EPA or a similar state agency has identified us as one of the potentially responsible parties. The involvement of other financially responsible companies at these multi-party sites could increase or mitigate our actual joint and several liability exposures.
+
+We believe that the ultimate resolution of these environmental matters will not have a material adverse effect on our business, financial position, results of operations or cash flows. However, it is possible that our ultimate liability with respect to these environmental matters could exceed the amounts accrued in an amount that could be material to our business, financial position, results of operations or cash flows in any particular reporting period. We have accrued an environmental reserve in the amount of $250 million as of December 31, 2020. For additional information related to environmental matters, see Note 18 “Litigation and Environmental” to our consolidated financial statements.
+
+Hazardous and Non-Hazardous Waste
+
+We generate both hazardous and non-hazardous wastes that are subject to the requirements of the Federal Resource Conservation and Recovery Act and comparable state statutes. From time to time, the EPA, as well as other U.S. federal and state regulators, consider the adoption of stricter disposal standards for non‑hazardous waste. Furthermore, it is possible that some wastes that are currently classified as non-hazardous, which could include wastes currently generated during our pipeline or liquids or bulk terminal operations or wastes from oil and gas facilities that are currently exempt as exploration and production waste, may in the future be designated as hazardous wastes. Hazardous wastes are subject to more rigorous and costly handling and disposal requirements than non-hazardous wastes. Such changes in the regulations may result in additional capital expenditures or operating expenses for us.
+
+Superfund
+
+The CERCLA or the Superfund law, and analogous state laws, impose joint and several liability, without regard to fault or the legality of the original conduct, on certain classes of potentially responsible persons for releases of hazardous substances into the environment. These persons include the owner or operator of a site and companies that disposed or arranged for the disposal of the hazardous substances found at the site. CERCLA authorizes the EPA and, in some cases, third parties to take actions in response to threats to public health or the environment and to seek to recover from the responsible classes of persons
+17
+
+the costs they incur, in addition to compensation for natural resource damages, if any. Although petroleum is excluded from CERCLA’s definition of a hazardous substance, in the course of our ordinary operations, we have and will generate materials that may fall within the definition of “hazardous substance.” By operation of law, if we are determined to be a potentially responsible person, we may be responsible under CERCLA for all or part of the costs required to clean up sites at which such materials are present, in addition to compensation for natural resource damages, if any.
+
+Clean Air Act
+
+Our operations are subject to the Clean Air Act, its implementing regulations, and analogous state statutes and regulations. The EPA regulations under the Clean Air Act contain requirements for the monitoring, reporting, and control of greenhouse gas (GHG) emissions from stationary sources. For further information, see “—Climate Change” below.
+
+Clean Water Act
+
+Our operations can result in the discharge of pollutants. The Federal Water Pollution Control Act of 1972, as amended, also known as the Clean Water Act, and analogous state laws impose restrictions and controls regarding the discharge of fills and pollutants into waters of the U.S. The discharge of fills and pollutants into regulated waters is prohibited, except in accordance with the terms of a permit issued by applicable federal or state authorities. The Oil Pollution Act was enacted in 1990 and amends provisions of the Clean Water Act pertaining to prevention of and response to oil spills. Spill prevention, control and countermeasure requirements of the Clean Water Act and some state laws require containment and similar structures to help prevent contamination of navigable waters in the event of an overflow or release of oil.
+
+EPA Revisions to Ozone National Ambient Air Quality Standard (NAAQS)
+
+As required by the Clean Air Act, the EPA establishes National Ambient Air Quality Standards (NAAQS) for how much pollution is permissible, and the states then have to adopt rules so their air quality meets the NAAQS.  In October 2015, the EPA published a rule lowering the ground level ozone NAAQS from 75 ppb to a more stringent 70 ppb standard.  This change triggered a process under which the EPA designated the areas of the country in or out of compliance with the new NAAQS standard.  Now, certain states will have to adopt more stringent air quality regulations to meet the new NAAQS standard.  These new state rules, which are expected in 2020 or 2021, will likely require the installation of more stringent air pollution controls on newly-installed equipment and possibly require the retrofitting of existing KMI facilities with air pollution controls.  Given the nationwide implications of the new rule, it is expected that it will have financial impacts for each of our business units.
+
+Climate Change
+
+Due to concern over climate change, numerous proposals to monitor and limit emissions of GHGs have been made and are likely to continue to be made at the federal, state and local levels of government. Methane, a primary component of natural gas, and CO2, which is naturally occurring and also a byproduct of the burning of natural gas, are examples of GHGs. Various laws and regulations exist or are under development to regulate the emission of such GHGs, including the EPA programs to report GHG emissions and state actions to develop statewide or regional programs. The U.S. Congress has in the past considered legislation to reduce emissions of GHGs. Climate-related laws and regulation could lead to reduced demand for hydrocarbon products that are deemed to contribute to GHGs, which in turn could adversely affect demand for our products and services.
+
+Beginning in December 2009, EPA published several findings and rulemakings under the Clean Air Act requiring the permitting and reporting of certain GHGs, including CO2 and methane. Our facilities are subject to these requirements. Operational and/or regulatory changes could require additional facilities to comply with requirements for reducing, reporting and permitting GHG emissions.
+
+On October 23, 2015, the EPA published as a final rule the Clean Power Plan, which sets interim and final CO2 emission performance rates for power generating units that are fueled by coal, oil or natural gas. The rule has been the focus of legislative discussion in the U.S. Congress and litigation in federal court. On February 10, 2016, the U.S. Supreme Court stayed the final rule, effectively suspending the duty to comply with the rule until certain legal challenges are resolved.  In October 2017, the EPA proposed to repeal the Clean Power Plan. In June 2019, the EPA replaced the Clean Power Plan with the Affordable Clean Energy rule. In January 2021, the U.S. Court of Appeals for the District of Columbia Circuit vacated the Affordable Clean Energy rule and remanded the question to the EPA to consider a new regulatory framework to replace the Affordable Clean Energy rule thereby allowing the incoming administration to implement standards for emissions from the power sector. While we do not operate power plants, it remains unclear what effect new standards might have on the anticipated demand for natural gas, including natural gas that we gather, process, store and transport.
+18
+
+
+At the state level, more than one-third of the states, either individually or through multi-state regional initiatives, already have begun implementing legal measures to reduce emissions of GHGs, primarily through the planned development of emission inventories or regional GHG “cap and trade” programs. Although many of the state-level initiatives have to date been focused on large sources of GHG emissions, such as electric power plants, it is possible that sources such as our gas-fueled compressors and processing plants could become subject to related state regulations. Various states are also proposing or have implemented stricter regulations for GHGs that go beyond the requirements of the EPA. Some of the states have implemented regulations that require additional reductions monitoring and reporting of methane emissions. Depending on the state programs pending implementation, we could be required to further reduce emissions, conduct additional monitoring, do additional emissions reporting, install additional emission controls and/or purchase and surrender emission allowances.
+
+Because our operations, including the compressor stations and processing plants, emit various types of GHGs, primarily methane and CO2, such new legislation or regulation could increase the costs related to operating and maintaining the facilities. Depending on the particular law, regulation or program, we or our subsidiaries could be required to incur capital expenditures for installing new monitoring equipment or emission controls on the facilities, acquire and surrender allowances for the GHG emissions, pay taxes related to the GHG emissions and administer and manage a more comprehensive GHG emissions program. We are not able at this time to estimate such increased costs; however, as is the case with similarly situated companies in our industry, they could be significant to us. While we may be able to include some or all of such increased costs in the rates charged by our or our subsidiaries’ pipelines, recovery of costs is uncertain in all cases and may depend on events beyond their control, including the outcome of future rate proceedings before the FERC or other regulatory bodies, and the provisions of any final legislation or other regulations. Any of the foregoing could have an adverse effect on our business, financial position, results of operations and prospects.
+
+Many climate models indicate that global warming is likely to result in rising sea levels, increased intensity of hurricanes and tropical storms, and increased frequency of extreme precipitation and flooding. We may experience increased insurance premiums and deductibles, or a decrease in available coverage, for our assets in areas subject to severe weather. These climate-related changes could damage our physical assets, especially operations located in low-lying areas near coasts and river banks, and facilities situated in hurricane-prone and rain-susceptible regions. However, the timing, severity and location of these climate change impacts are not known with certainty and, these impacts are expected to manifest themselves over varying time horizons.
+
+Because the combustion of natural gas produces lower GHG emissions per unit of energy than competing fossil fuels, cap-and-trade legislation or EPA regulatory initiatives such as the Clean Power Plan or Affordable Clean Energy rule could stimulate demand for natural gas by increasing the relative cost of competing fuels such as coal and oil.  In addition, we anticipate that GHG regulations will increase demand for carbon sequestration technologies, such as the techniques we have successfully demonstrated in our enhanced oil recovery operations within our CO2 business segment.  However, these potential positive effects on our markets may be offset if these same regulations also cause the cost of natural gas to increase relative to competing non-fossil fuels.  Although we currently cannot predict the magnitude and direction of these impacts, GHG regulations could have material adverse effects on our business, financial position, results of operations or cash flows.
+
+Department of Homeland Security
+
+The Department of Homeland Security, referred to in this report as the DHS, has regulatory authority over security at certain high-risk chemical facilities. The DHS has promulgated the Chemical Facility Anti-Terrorism Standards and required all high-risk chemical and industrial facilities, including oil and gas facilities, to comply with the regulatory requirements of these standards. This process includes completing security vulnerability assessments, developing site security plans, and implementing protective measures necessary to meet DHS-defined, risk-based performance standards. The DHS has not provided final notice to all facilities that it determines to be high risk and subject to the rule; therefore, neither the extent to which our facilities may be subject to coverage by the rules nor the associated costs to comply can currently be determined, but it is possible that such costs could be substantial.
+
+Human Capital
+
+In managing our human capital resources, we use a strategic approach to building a diverse, inclusive, and respectful workplace. Our human resources department provides expertise and tools to attract, develop, and retain diverse talent and support our employees’ career and development goals. We value our employees’ opinions and encourage them to engage with management and ask questions on topics such as our goals, challenges, and employee concerns.
+
+19
+
+We employed 10,524 full-time personnel at December 31, 2020, including approximately 929 full-time hourly personnel at certain terminals and pipelines covered by collective bargaining agreements that expire between 2021 and 2024. We consider relations with our employees to be good.
+
+We value the safety of our workforce and integrate a culture of safety, emergency preparedness, and environmental responsibility through our operations management system (OMS). Our OMS conforms to common industry standards and establishes a framework that helps us: (i) provide employees and contractors with a safe work environment; (ii) comply with laws, rules, regulations, policies, and procedures; and (iii) identify opportunities to improve. Although our ultimate target is zero incidents, we also have three non-zero employee safety performance targets. The first is to outperform the annual industry average total recordable incident rate (TRIR). The second is to outperform our own three-year TRIR average. The third is a longer-term target to improve our company-wide employee TRIR from 1.0 in the baseline year 2019 to 0.7 by 2024. We seek to constantly improve our contractor TRIR performance through initiatives to address recent incident trends and new best practices.
+
+Our board of directors’ nominating and governance committee is responsible for planning for succession in the senior management ranks of the Company, including the office of chief executive officer. The chief executive officer shall report to the Committee, generally at the time of the regularly scheduled third quarter board of directors meeting in each year, regarding the processes in place to identify talent within and outside the Company to succeed to senior management positions and the information developed during the current calendar year pursuant to those processes.
+
+We consider employee diversity an asset and support equal opportunity employment. We take affirmative action to employ and advance in employment all persons without regard to their race/ethnicity; sex; sexual orientation; gender, including gender identity and expression; veteran status; disability; or other protected categories, and base employment decisions solely on valid job requirements.
+
+We prohibit discrimination or harassment against any employee or applicant on the basis of race/ethnicity, sex, or other protected categories listed within our code of business conduct and ethics. We are committed to a harassment free workplace, supported with online and face-to-face workplace harassment and discrimination prevention training for our employees. In 2019, renewal training on our harassment and discrimination prevention policy was provided to our supervisors and employees. This renewal training highlighted supervisor’s and employee’s responsibilities for maintaining a workplace free of harassment. We continued to provide this training to newly hired or promoted supervisors and employees in 2020.
+
+As part of the 2020 annual succession planning efforts, we focused on identifying minority and female candidates for senior positions. Management reviewed its succession plan, including a discussion on development opportunities for potential successors, with the nominating and governance committee of our board of directors at its meeting in July 2020.
+
+Our employees are an integral part of our success and we value their career development. We encourage and support professional development and learning for our employees by offering workforce training, tuition reimbursement, leadership and other development programs. These programs help improve recruitment, development, and retention. We support our employees’ ongoing career goals and development through several programs. These programs help maximize our employees’ potential and give them the skills they need to further enhance their careers.
+
+Our compensation program is linked to long and short-term strategic financial and operational objectives, including environmental, safety, and compliance targets. Compensation includes competitive base salaries in the markets in which we operate and competitive benefits, including retirement plans, opportunities for annual bonuses, and, for eligible employees, long-term incentives and an employee stock purchase plan.
+
+Refer to “COVID-19” included in Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” for information on actions taken by the Company in response to the COVID-19 pandemic.
+
+Properties and Rights of Way
+
+We believe that we generally have satisfactory title to the properties we own and use in our businesses, subject to liens for current taxes, liens incident to minor encumbrances, and easements and restrictions, which do not materially detract from the value of such property, the interests in those properties or the use of such properties in our businesses.  Our terminals, storage facilities, treating and processing plants, regulator and compressor stations, oil and gas wells, offices and related facilities are located on real property owned or leased by us.  In some cases, the real property we lease is on federal, state or local government land.
+
+20
+
+We generally do not own the land on which our pipelines are constructed.  Instead, we obtain and maintain rights to construct and operate the pipelines on other people’s land generally under agreements that are perpetual or provide for renewal rights.  Substantially all of our pipelines are constructed on rights-of-way granted by the apparent record owners of such property.  In many instances, lands over which rights-of-way have been obtained are subject to prior liens that have not been subordinated to the right-of-way grants.  In some cases, not all of the apparent record owners have joined in the right-of-way grants, but in substantially all such cases, signatures of the owners of a majority of the interests have been obtained.  Permits have been obtained from public authorities to cross over or under, or to lay facilities in or along, water courses, county roads, municipal streets and state highways, and in some instances, such permits are revocable at the election of the grantor, or, the pipeline may be required to move its facilities at its own expense.  Permits also have been obtained from railroad companies to run along or cross over or under lands or rights-of-way, many of which are also revocable at the grantor’s election.  Some such permits require annual or other periodic payments.  In a few minor cases, property for pipeline purposes was purchased by the Company.
+
+Financial Information about Geographic Areas
+
+For geographic information concerning our assets and operations, see Note 16 “Reportable Segments” to our consolidated financial statements.
+
+Available Information
+
+We make available free of charge on or through our internet website, at www.kindermorgan.com, our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. The information contained on or connected to our internet website is not incorporated by reference into this Form 10-K and should not be considered part of this or any other report that we file with or furnish to the SEC.

@@ -1,0 +1,394 @@
+Business Overview and Purpose
+
+We are an international facilities-based technology and communications company focused on providing our business and residential customers with a broad array of integrated services and solutions necessary to fully participate in our rapidly evolving digital world, which we believe is undergoing the “Fourth Industrial Revolution” or simply the “4IR”. We believe we are the world’s most inter-connected network and our platform empowers our customers to rapidly adjust digital programs to meet immediate demands, create efficiencies, accelerate market access, and reduce costs – allowing customers to rapidly evolve their information, communications and technology ("ICT") programs to address dynamic changes without distraction from their core competencies. By empowering our customers to rapidly acquire, analyze and act on data, we are furthering human progress through technology and enabling our customers to thrive in the 4IR. Our specific products and services are detailed below under the heading “Segments and Products & Services.”
+
+As part of the recent Lumen rebranding, we refined our marketing approach to better align with our customer base. Lumen is the name of our company and our flagship brand for serving the enterprise and wholesale markets. We also launched our Quantum Fiber brand and reconfirmed the importance of our expansive CenturyLink platform name. Quantum Fiber is our brand for providing fiber-based services to small business and residential customers. Our CenturyLink brand covers our mass-marketed legacy copper-based services, managed for optimal cost and efficiency.
+
+With approximately 450,000 route miles of fiber optic cable globally, we are among the largest providers of communications services to domestic and global enterprise customers. Our terrestrial and subsea fiber optic long-haul network throughout North America, Europe, Latin America and Asia Pacific connects to metropolitan fiber networks that we operate. We provide services in over 60 countries, with most of our revenue being derived in the United States ("U.S."). We believe our secure global platform plays a central role in facilitating communications worldwide.
+
+    In the last year, the COVID-19 pandemic forced a seismic shift in how the world communicates with colleagues, family and friends, how children learn and how we conduct business. From multi-national global enterprises to small businesses, our integrated solutions portfolio enables our customers to accelerate digital transformation, improve operational performance and manage risk.
+
+For a discussion of certain risks applicable to our business, see “Risk Factors” in Item 1A of Part I of this report.
+
+7
+
+Financial Highlights
+
+The following table summarizes the results of our consolidated operations:
+																	
+ 	Years Ended December 31,
+ 	
+2020(1)(2)
+		
+2019(1)(2)
+		
+2018(1)(2)(3)
+	(Dollars in millions)
+Operating revenue	$	20,712 			21,458 			22,580 	
+Operating expenses	19,750 			24,184 			22,010 	
+Operating income (loss)	$	962 			(2,726)			570 	
+Net loss	$	(1,232)			(5,269)			(1,733)	
+_______________________________________________________________________________
+(1)During 2020, 2019 and 2018, we incurred Level 3 integration and transformation expenses of $375 million, $234 million and $393 million, respectively.
+(2)During 2020, 2019 and 2018, we recorded non-cash, non-tax-deductible goodwill impairment charges of $2.6 billion, $6.5 billion and $2.7 billion, respectively. For additional information, see Note 2—Goodwill, Customer Relationships and Other Intangible Assets to our consolidated financial statements in Item 8 of Part II of this report.
+(3)The enactment of the Tax Cuts and Jobs Act in December 2017 resulted in a remeasurement of our deferred tax assets and liabilities at the new federal corporate tax rate of 21%. The remeasurement resulted in tax expense of $92 million for 2018.
+
+We estimate that during 2020, 2019 and 2018, approximately 8.7%, 8.5% and 8.2%, respectively, of our consolidated revenue was derived from providing telecommunications, colocation and hosting services outside the U.S.
+
+The following table summarizes certain selected financial information from our consolidated balance sheets:
+											
+ 	As of December 31,
+ 	2020		2019
+ 	(Dollars in millions)
+Total assets 	$	59,394 			64,742 	
+Total long-term debt(1)
+	31,837 			34,694 	
+Total stockholders' equity	11,162 			13,470 	
+_______________________________________________________________________________
+(1)For additional information on our total long-term debt, see Note 6—Long-Term Debt and Credit Facilities to our consolidated financial statements in Item 8 of Part II of this report. For information on our total obligations, see "Management's Discussion and Analysis of Financial Condition and Results of Operations—Liquidity and Capital Resources—Future Contractual Obligations" in Item 7 of Part II of this report.
+
+The summary financial information appearing above should be read in conjunction with, and is qualified by reference to, our consolidated financial statements and notes thereto in Item 8 of Part II of this report and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Item 7 of Part II of this report.
+
+Strategy
+
+Our business combination with Level 3 was driven in part by a vision to provide enhanced services to our business and residential customers by transforming our infrastructure into an adaptive fiber network delivering high bandwidth and low latency on a secure platform. Over the last three years, we have diligently pursued that vision through a deliberative strategy to attain our goals.
+
+•2018 – Integration – focused on efficiently combining the two companies into one;
+
+•2019 – Transformation – focused on improving the customer experience by strengthening our suite of products and services;
+
+8
+
+•2020 – Operation – centered on the “Lumen” brand launch, highlighting the Company’s vision for future services;
+
+•2021 – Platform Expansion and Innovation – build and enhance the capabilities of our platform and use those enhancements to drive profitable growth.
+
+Platform Expansion and Innovation
+
+In September 2020, we launched our “Lumen” brand signaling our heightened focus on delivering digital experiences to our customers designed to drive their success. We believe the 4IR will usher in unprecedented opportunity to leverage digital interactions to enhance business outcomes. The demands brought on by the COVID-19 pandemic underscored the urgency for digital transformation across our customer base, and further highlighted the need for reliable, secure digital services. Our new brand communicates our commitment to support our customers' needs and reflects a fiber platform that is secure, reliable and fast.
+
+Although our Lumen, Quantum and CenturyLink brands are focused on specific customers and related services, our collective Lumen strategy remains driven by our fundamental objectives of:
+
+•Portfolio Progression – meeting the dynamic needs of our broad range of customers for enhancing productivity
+
+◦Serving the business market at light speed to deliver applications globally, where and how they are needed to meet business outcomes
+
+◦Serving mass market customers with the reliable, secure and high-performance connectivity and the related services they require
+
+◦Enabling all customers – businesses and consumers – access to secure, fast and reliable connectivity required to thrive in the 4IR
+
+•Stakeholder Success and Value Creation – understanding the value and perspective each stakeholder contributes to our overall success; and
+
+•Cost Transformation – diligently pursuing our deleveraging and capital allocation strategies to enhance our return on capital and reward our investors.
+
+We plan to continue to pursue our long-term Lumen vision through disciplined focus on these objectives, which are discussed further below.
+
+Portfolio Progression
+
+Our portfolio progression plans focus on continuing to integrate our global network, cloud, edge, security, voice and collaboration assets and technologies into an advanced, all-in-one delivery architecture. Capability enhancements such as edge computing and software-defined wide area networks ("SD WAN") are critical to meeting our customers’ needs and drive our growth strategy. Our capabilities are grounded in our extensive global fiber infrastructure and our innovation efforts are centered around accelerating our platform’s capabilities to anticipate and address those needs. We believe our Lumen platform provides the flexibility to create compelling, bespoke network services to enhance the efficiency and utility of our core network services. Our design has the potential to create value for our customers by simplifying application delivery on a high-performance, secure, worldwide digital platform.
+
+The Lumen platform is designed to address each layer of a digital business model through (i) high performance dynamic connections that are interoperable with a range of on-net enterprise locations, multi-tenant data centers and public cloud on-ramps; (ii) hybrid cloud infrastructure integrated with computing and storage options across public cloud, network edge and customer premises, and compatible with a wide range of data centers using different software; and (iii) service orchestration and automation which supports software-defined managed services frameworks capable of deploying workloads to a range of infrastructure venues and network connections. We believe this platform design can help customers, and our Lumen team, control costs by increasing operational efficiencies and driving forward the next generation of our product and services portfolio.
+9
+
+
+Stakeholder Success and Value Creation
+
+Employees, Customers, Partners and Vendors
+
+We believe realizing the Lumen promise depends on regular, informed communications with our stakeholders, including shareholders, employees, customers, vendors, lenders, partners and our global community. Understanding stakeholder goals and priorities enables strategic decisions focused on building long-term value.
+
+Employees and Human Capital Resources
+
+Lumen’s highly competitive business requires attracting, developing and retaining a motivated team inspired by leadership, engaged in meaningful work, motivated by growth opportunities and thriving in a culture that embraces diversity, inclusion and belonging. Understanding and anticipating the priorities of our current and future employees is important to realizing our purpose to “further human progress through technology.” At December 31, 2020, we had approximately 39,000 employees world-wide, including approximately 7,000 outside the U.S.
+
+Attracting, Developing and Retaining Talent
+
+Our recruiting, development and retention objectives focus on attracting skilled, engaged employees who contribute the talent and diverse perspectives critical to our innovative, forward-looking and inclusive workforce. Our recruiting process actively sources diverse talent and is designed to eliminate bias, supporting our ability to hire candidates with professional qualifications, personal potential and differing perspectives. Fostering career progression by encouraging regular professional education empowers our employees to pursue their professional goals, which is critical to developing and retaining our employees. We invest in broad-based development for all of our employees in various ways such as skills-building programs, on-demand learning options, tuition reimbursement, tailored mentoring programs and a suite of leadership development courses. In an effort to create more development opportunities for all employees, we are currently expanding our intern, mentoring and leadership development programs, with added focus on development for diverse employees. We gauge progress and efficacy, identify opportunities for change, and pursue solutions through tracking and analyzing data from various sources such as annual talent reviews and our progress toward hiring/promotion goals in our development, diversity and inclusion plans.
+
+Diversity, Inclusion & Belonging
+
+We believe that understanding and respecting another’s perspective, experience, background and beliefs provide an opportunity to expand horizons, challenge complacency and foster empathy. For Lumen, diversity of perspective, experience, background and beliefs fuel our innovative, collaborative, and engaged workplace. Realizing greater ethnic, racial and gender diversity across all levels of an organization is, and will continue to be, an ongoing journey. Our Diversity & Inclusion Steering Committee comprised of a cross-functional team of senior executives and led by our Chief Diversity & Inclusion Officer, regularly evaluates and seeks to define our diversity, inclusion and belonging strategy. We aim for the highest standards of fairness and equal opportunity, in recruitment, hiring, promotions, job assignments and compensation (including undertaking periodic gender and race/ethnicity pay equity studies of our U.S., non-represented employees and making pay adjustments when warranted). Inclusive recruiting and outreach programs for diverse candidates, employee resource groups, and management-led listening circles are among some of Lumen’s initiatives to create greater diversity and belonging among our employees.
+
+Positive Corporate Culture
+
+Our employees are critical to Lumen’s success and we believe creating a positive, inclusive culture is essential to attracting and retaining engaged employees. Lumen’s company culture program incorporates a wide variety of communication and training activities encouraging collaboration among our colleagues around the world. We measure the program’s efficacy and identify opportunities for improvements through an engagement survey distributed approximately every six months.
+
+10
+
+Health & Wellness
+
+We believe a healthy, engaged and high performing workforce is part of our competitive advantage. We want all of our employees to thrive, and we regularly re-evaluate how to best support our employees’ wellness, health and safety through benefits and resources. Our current benefit and wellness programs drive engagement that positively impacts our culture, job satisfaction, recruiting and retention programs. In response to the COVID-19 pandemic, we expanded our physical, mental, and family health programs and informational outreach. Additional information about our COVID-19 response is located under Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Item 7 of Part II of this report.
+
+Labor Relations
+
+Approximately 23% of our U.S. workforce is represented by a union, either the Communications Workers of America or the International Brotherhood of Electrical Workers. Employees in four countries in Europe are represented by works councils or a representative body. We recognize the critical role that our supervisors and managers play in fostering a productive and respectful work environment, and we encourage employees to work directly with their supervisors, where possible, to efficiently and effectively resolve workplace concerns. We also respect our employees’ rights to voluntarily establish and join unions and similar associations without unlawful interference. We strive to work collaboratively with the unions, councils and associations that represent our workers.
+
+Customer Success
+
+Our customers range from individual households to global enterprises. Whether our network supports remote education or a multi-national work-from-home environment, all customers are impacted by the quality and reliability of our products and services. Understanding how each customer accesses and uses our products and services informs the type of customer engagement to best meet their expectations. Our Customer Success organization includes dedicated teams focused on building deeper relationships and providing us the opportunity to continually improve our customers’ Lumen experience, including their interactions with our employees and systems. We believe a strong experience leads to satisfied customers and engaged employees who are encouraged to recommend creative solutions. We have a dedicated team responsible for evaluating the best approach to the customer experience from our largest enterprise customers to our residential customers, coupled with frequent, transparent and informative communication processes.
+
+We value both customer and employee suggestions. We offer our customers several channels for communicating with us, including voice, text, email, chat and social media, among others. We are driving a digital-first culture that allows our customers to configure, order, and rapidly deploy our services through an all-digital, self-service set of tools. In 2019, we launched Lumen’s inaugural customer experience (CX) event, during which we invited customers to collaborate directly with us.
+
+While careful listening to customers is the best source of customer experience feedback, we believe overlaying it with employee feedback is the most effective way to continuously improve. We regularly invite our front-line employees to provide feedback on opportunities to improve our capabilities.
+
+Partners and Vendors
+
+Understanding how our customers access and use our products and services is an important element of evaluating which partners and vendors may best contribute to our customers’ success. Consequently, understanding the opportunities any future or existing partners or vendors may bring is also an element of customer success. Lumen leverages our relationships and by co-innovating with a comprehensive group of strategic partners to create solutions focused exclusively on our customers' business and IT requirements. Through our open and interoperable approach, we seek to implement the best execution venue available for all our solutions – whether ours or a third party’s. When necessary, Lumen incorporates market-leading technologies to optimize application performance and streamline integration throughout the IT stack to ensure seamless integration and interoperability. Lumen has collaborated with a host of technology partners, giving us the capability to tailor and fully manage scalable solutions that customers control, so they can maximize applications. Lumen, by working with our network of technology partners, can integrate different partners and technologies, shifting the IT burden from our customers.
+
+11
+
+In light of these efforts to better serve our customers, we are materially reliant on a wide range of vendors to support our organization and partners to support our strategy. We work with, and rely on, other communications companies that lease us transmission capacity or sell us various services necessary for our current operations, as well as a wide range of software, hardware and equipment suppliers. We believe that co-innovating with other companies provides the flexibility to rapidly evolve our strategy to effectively support our customers.
+
+Cost Transformation
+
+We believe that diligently pursuing our deleveraging strategy, responsible capital allocation and our ongoing commitment to reinvest the savings in growing our Lumen platform contributes to our long-term goal to create value. Our investments in infrastructure, expanding fiber, and deploying in-building technology are part of our foundation for future growth.
+
+Our Network
+
+Our network, through which we provide most of our products and services consists of fiber-optic and copper cables, high-speed transport equipment, electronics, voice switches, data switches and routers, and various other equipment. We operate part of our network with leased assets, and a substantial portion of our equipment with licensed software.
+
+At December 31, 2020, our network (both owned and leased) included:
+
+•Approximately 450,000 route miles of fiber optic plant globally;
+
+•Approximately 916,000 miles of copper plant;
+
+•Approximately 310 colocation facilities and data centers globally;
+
+•Approximately 37,500 route miles of subsea fiber optic cable systems;
+
+•Approximately 180,000 buildings directly connected to our network, which we refer to as "Fiber On-net" buildings;
+
+•Multiple gateway and transmission facilities used in connection with operating our network throughout North America, Europe and Latin America; and
+
+•Central office and other equipment that enables us to provide telephone service as an incumbent local telephone company ("ILEC") in 37 states.
+
+As noted elsewhere in this report, we view our network as one of our most critical assets. We have devoted, and plan to continue to devote, substantial resources to (i) simplify and modernize our network and legacy systems and (ii) expand our network to address demand for enhanced or new products.
+
+Although we own most of our network, we lease a substantial portion of our core fiber network from several other communication companies under arrangements that will periodically need to be renewed or replaced to support our current network operations.
+
+Like other large communications companies, we are a constant target of cyber-attacks of various degrees, and, from time to time in the ordinary course of our business, we experience disruption in our services.
+
+For additional information regarding our systems, network assets, network risks, capital expenditure requirements and reliance upon third parties, see “Risk Factors” in Item 1A of Part I of this report.
+
+12
+
+Competition and Market Overview
+
+Organizations across the globe are competing to capitalize on opportunities created by emerging technologies. The need for data-intensive and latency-sensitive emerging technologies continues to grow. Helping businesses address these needs requires a platform that integrates essential technology services such as hybrid networking, connected security services that monitor, prevent and remediate threats, and edge computing services ranging from compute and storage to hosting and collocation services on the cloud edge.
+
+Competition
+
+We compete in a dynamic and highly competitive market, and we expect continued intense competition from a wide variety of sources under these evolving market conditions. In addition to competition from large international communications providers, we are increasingly facing competition from systems integrators, cloud service providers, software companies, infrastructure companies, cable companies, device providers, resellers and smaller niche providers, among others.
+
+Our ability to compete hinges upon effectively enhancing and better integrating our existing products, introducing new products on a timely and cost-effective basis, meeting changing customer needs, providing high-quality information security to build customer confidence and combat cyber-attacks, extending our core technology into new applications and anticipating emerging standards, business models, software delivery methods and other technological changes. Depending on the applicable market and requested services, competition can be intense, especially if competitors in the market have network assets better suited to customer needs, faster transmission speeds or lower prices, or, in certain overseas markets, are national or regional incumbent communications providers that have a longer history of providing service in the market.
+
+For our traditional voice services, providers of wireless voice, social networking and electronic messaging services are significant competitors as many customers are increasingly relying on these providers to communicate, resulting in the long-term systemic decline we have seen in our legacy, traditional voice services. Other potential sources of competition include non-carrier systems that are capable of bypassing our local networks, either partially or completely, through various means. Developments in software have permitted new competitors to offer affordable networking products that historically required more expensive hardware investment. We anticipate that all these trends will continue to place downward pressures on the use of our network.
+
+Additionally, the Telecommunications Act of 1996 obligates the ILECs to permit competitors to interconnect their facilities to the ILEC’s network and to take various other steps that are designed to promote competition, including obligations to (i) negotiate interconnection agreements in good faith, (ii) provide nondiscriminatory “unbundled” access to specific portions of the ILEC’s network and (iii) permit competitors to physically or virtually colocate their plant on the ILEC’s property. As a result of these regulatory, consumer and technological developments, we also face competition from competitive local exchange carriers ("CLECs"), particularly in densely populated areas. CLECs provide competing services through (i) reselling an ILEC’s local services, (ii) using an ILEC’s unbundled network elements, (iii) operating their own facilities or (iv) a combination thereof.
+
+Competition for higher margin, legacy services remains high. However, our platform expansion and innovation strategy is focused largely on addressing these competitive pressures. As both residential and business customers increasingly demand high-speed connections for entertainment, communications and productivity, we expect the demands on our network will continue to increase over the next several years. To remain competitive and successful, we are continuing to invest in network security, reliability and flexibility and design innovations to deliver competitive services to meet increasing customer bandwidth and speed requirements.
+
+Additional information about competitive pressures is located under the heading “Risk Factors—Business Risks” in Item 1A of Part I of this report.
+
+13
+
+Market Overview
+
+Understanding and anticipating market trends drives our investment in developing the products and services we believe will be well received by our customers. We expect edge computing services demand to significantly increase over the next several years, serving multiple verticals, including finance, healthcare, retail, manufacturing and other industries. As these use cases continue to emerge, we expect secure network services will increase in importance as consumers require holistic solutions with the flexibility necessary to help accelerate the convergence of computing and communications capabilities with digital content. We believe we have a world-class set of global fiber assets that positions us to deliver a highly-competitive suite of cloud connectivity, low latency edge computing, and integrated network services.
+
+We generally market our business services to members of in-house IT departments or other highly-sophisticated customers with deep technological experience. These individuals typically satisfy their IT requirements by contracting with us or a rapidly evolving group of competitors, or by deploying in-house solutions. We expect our market competition to continue to increase as technology evolves and enables our customers to seek solutions from multiple sources. We compete to provide services to business customers based on a variety of factors, including the comprehensiveness and reliability of our network, our data transmission speeds, price, the latency of our available intercity and metro routes, the scope of our integrated offerings, the reach and peering capacity of our IP network, and customer service.
+
+As noted above, technological and competitive factors have led to new products and services that have reduced the demand for certain of our traditional network services, especially our traditional ILEC services. Also, market demand for our broadband services could be adversely affected by advanced wireless data transmission technologies and other systems delivering generally faster average broadband transmission speeds than ours.
+
+Sales and Marketing
+
+Our enterprise sales and marketing approach revolves around solving complex customer problems with advanced technology and network solutions - striving to make core networks services compatible with digital tools. We also rely on our call center personnel and a variety of channel partners to promote sales of services that meet the needs of our customers. To meet the needs of different customers, our offerings include both stand-alone services and bundled services designed to provide a complete offering of integrated services.
+
+Our sales and marketing approach to our business customers includes a commitment to provide comprehensive communications and IT solutions for business, wholesale and government customers of all sizes, ranging from small business offices to the world’s largest global enterprise customers. Our marketing plans include marketing our products and services primarily through direct sales representatives, inbound call centers, telemarketing and third parties, including telecommunications agents, system integrators, value-added resellers and other telecommunications firms. We support our distribution through digital advertising, events, television advertising, website promotions and public relations. We maintain local offices in most major and secondary markets within the U.S. and many of the primary markets of the more than 60 countries in which we provide services.
+
+Similarly, our sales and marketing approach to our mass market customers emphasizes customer-oriented sales, marketing and service with a local presence. Our approach includes marketing our products and services primarily through direct sales representatives, inbound call centers, telemarketing and third parties, including retailers, satellite television providers, door to door sales agents and digital marketing firms.
+
+Segments and Products & Services
+
+On February 10, 2021, we announced plans to adjust our reporting segments and customer-facing sales channels in 2021 to better align with operational changes designed to better support our customers. We believe the changes will provide greater transparency into how we are performing against our strategy, including focusing on growth opportunities and managing declining legacy services. For fiscal year 2020, our products and services were reported by segments as described below.
+
+14
+
+Segments
+
+In 2020, we reported our financial performance using five segments, as described below:
+
+•International and Global Accounts Management ("IGAM") Segment - provided products and services to approximately 200 global enterprise customers and three operating regions: Europe Middle East and Africa, Latin America and Asia Pacific;
+
+•Enterprise Segment - provided products and services to large and regional domestic and global enterprises, as well as the public sector, which includes the U.S. federal government, state and local governments and research and education institutions;
+
+•Small and Medium Business ("SMB") Segment - provided products and services to small and medium businesses directly and indirectly through our channel partners;
+
+•Wholesale Segment - provided products and services to a wide range of other communication providers across the wireline, wireless, cable, voice and data center sectors. Our wholesale customers range from large global telecom providers to small regional providers; and
+
+•Consumer Segment - provided products and services to residential customers. Additionally, certain state support payments, Connect America Fund (“CAF”) federal support revenue, and other revenue from leasing and subleasing, including 2018 rental income associated with the 2017 failed-sale-leaseback, are reported in our consumer segment as regulatory revenue.
+
+The following table shows the composition of our operating revenue by segment for the years ended December 31, 2020, 2019 and 2018:
+																													
+ 	Years Ended December 31,		Percent Change
+ 	2020		2019		2018		2020 vs 2019		2019 vs 2018
+Percentage of revenue:	 		 		 		 		 
+International and Global Accounts	16 	%		16 	%		16 	%		— 	%		— 	%
+Enterprise	29 	%		26 	%		25 	%		3 	%		1 	%
+Small and Medium Business	12 	%		13 	%		13 	%		(1)	%		— 	%
+Wholesale	18 	%		19 	%		19 	%		(1)	%		— 	%
+Consumer	25 	%		26 	%		27 	%		(1)	%		(1)	%
+Total operating revenue	100 	%		100 	%		100 	%				 
+
+For additional information on our segment data, including information on certain centrally-managed assets and expenses not reflected in our segment results, see Note 16—Segment Information to our consolidated financial statements in Item 8 of Part II of this report and "Management's Discussion and Analysis of Financial Condition and Results of Operations—Reporting Segments" in Item 7 of Part II of this report.
+
+Products & Services
+
+At December 31, 2020, we reported our products and services revenue among four categories for our International and Global Accounts Management, Enterprise, Small and Medium Business and Wholesale segments.
+
+IP and Data Services
+
+•VPN Data Network. Built on our extensive fiber-optic network, we create private networks tailored to our customers’ needs. These technologies enable service providers, enterprises and government entities to streamline multiple networks into a single, cost-effective solution that simplifies the transmission of voice, video, and data over a single secure network;
+
+15
+
+•Ethernet. We deliver a robust array of networking services built on Ethernet technology. Ethernet services include point-to-point and multi-point equipment configurations that facilitate data transmissions across metropolitan areas and larger enterprise-class wide area networks. Our Ethernet technology is also used by wireless service providers for data transmission via our fiber-optic cables connected to their towers;
+
+•Internet Protocol ("IP"). Our IP services provide global internet access over a high performance, diverse network with connectivity in more than 60 countries. Our network spans approximately 450,000 route miles globally with extensive off-net access solutions across North America, Europe, Latin America and Asia Pacific; and
+
+•Content Delivery. Our content delivery services provide our customers with the ability to meet their streaming video and far-reaching digital content distribution needs through our Content Delivery Network ("CDN") services and our Vyvx Broadcast Solutions.
+
+Transport and Infrastructure
+
+•Wavelength. We deliver high bandwidth optical networks to firms requiring an end-to-end transport solution with Ethernet technology by contracting for a scalable amount of bandwidth connecting sites or providing high-speed access to cloud computing resources;
+
+•Dark Fiber. We possess an extensive array of unlit optical fiber, known as “dark fiber.” Many large enterprises are interested in building their networks with this high-bandwidth, highly secure optical technology. Lumen Technologies provides professional services to engineer these networks, and in some cases, manage them for customers;
+
+•Private Line. We deliver private line services, a direct circuit or channel specifically dedicated for connecting two or more organizational sites. Private line service offers a high-speed, secure solution for frequent transmission of large amounts of data between sites, including wireless backhaul transmissions;
+
+•Colocation and Data Center Services. We provide different options for organizations’ data center needs. Our data center services range from dedicated hosting and cloud services to more complex managed solutions, including disaster recovery, business continuity, applications management support and security services to manage mission critical applications; and
+
+•Professional Services. Our experts deliver a robust array of consulting services to organizations either as part of a larger engagement or as stand-alone services. This category includes network management, installation and maintenance of data equipment and the building of proprietary fiber-optic broadband networks for government and business customers.
+
+Voice and Collaboration
+
+•Voice. We offer our customers a complete portfolio of traditional Time Division Multiplexing ("TDM") voice services including Primary Rate Interface service, local inbound service, switched one-plus, toll free, long distance and international services; and
+
+•Voice Over Internet Protocol ("VoIP"). We deliver a broad range of local and enterprise voice and data services built on VoIP (Voice over Internet Protocol) technology, including VoIP enhanced local service, national and multinational SIP Trunking, Hosted VoIP, support of Primary Rate Interface service, long distance service and toll-free service.
+
+IT and Managed Services
+
+•We craft technology solutions for our customers and often manage those solutions on an ongoing basis. Managed services represent a blend of network, hosting, cloud (public and private), and IT services that typically require ongoing support such as managing applications, operating systems and hardware. This product line includes intuitive management tools that optimize efficiencies in companies’ technology infrastructure. These services frequently enhance equipment or networks owned, acquired or controlled by the customer and often include our consulting or software development.
+
+16
+
+At December 31, 2020, we reported our products and services revenue among the following four categories for the Consumer segment:
+
+•Broadband, which includes high speed, fiber-based and lower speed DSL broadband services;
+
+•Voice, which include local and long-distance services;
+
+•Regulatory Revenue, which consist of (i) CAF and other support payments designed to reimburse us for various costs related to certain telecommunications services and (ii) other operating revenue from the leasing and subleasing of space; and
+
+•Other, which include retail video services (including our linear TV services), professional services and other ancillary services.
+
+Research, Development & Intellectual Property
+
+Due to the dynamic nature of our industry, we prioritize investing in developing new products, improving existing products and licensing third party intellectual property rights to anticipate and meet our customers’ evolving needs. As of December 31, 2020, we had approximately 2,700 patents and patent applications in the U.S. and other countries. We have also received licenses to use patents held by others. Patent licenses give us the freedom to operate our business without the risk of interruption from the holder of the patented technology. We plan to continue to file new patent applications as we enhance and develop products and services, and we plan to continue to seek opportunities to expand our patent portfolio through strategic acquisitions and licensing.
+
+In addition to our patent rights, we have rights in various trade names, trademarks, copyrights and other intellectual property that we use to conduct our business. Our services often use the intellectual property of others, including licensed software. We also occasionally license our intellectual property to others as we deem appropriate.
+
+For information on various litigation risks associated with owning and using intellectual property rights, see “Risk Factors—Business Risks” in Item 1A of Part I of this report, and Note 17—Commitments, Contingencies and Other Items to our consolidated financial statements in Item 8 of Part II of this report.
+
+Regulations
+
+Our domestic operations are regulated by the Federal Communications Commission (the “FCC”), by various state utility commissions and occasionally by local agencies. Our non-domestic operations are regulated by supranational groups (such as the European Union, or EU), national agencies and frequently state, provincial or local bodies. Generally, we must obtain and maintain operating licenses from these bodies in most areas where we offer regulated services. For information on the risks associated with the regulations discussed below, see “Risk Factors—Risks Relating to Legal and Regulatory Matters” in Item 1A of Part I of this report.
+
+Changes in the composition and leadership of the FCC, state commissions and other agencies that regulate our business could have significant impacts on our revenue, expenses, competitive position and prospects. Changes in the composition and leadership of these agencies are often difficult to predict, which makes future planning more difficult. The following description discusses some of the major regulations affecting our operations, but others could have a substantial impact on us as well. For additional information, see “Risk Factors” in Item 1A of Part I of this report.
+
+Federal Regulation of Domestic Operations
+
+General
+
+The FCC regulates the interstate services we provide, including the business data service charges we bill for wholesale network transmission and intercarrier compensation, including the interstate access charges that we bill other communications companies in connection with the origination and termination of interstate phone calls. Additionally, the FCC regulates several aspects of our business related to international communications services, privacy, public safety and network infrastructure, including our access to and use of local telephone numbers and our provision of emergency 911 services.
+17
+
+
+Many of the FCC’s regulations adopted in recent years remain subject to judicial review and additional rulemakings, thus increasing the difficulty of determining the ultimate impact of these changes on us and our competitors.
+
+Universal Service
+
+In 2015, we accepted Connect America Fund or "CAF" funding from the FCC of approximately $500 million per year for six years to fund the deployment of voice and broadband capable infrastructure for approximately 1.2 million rural households and businesses in 33 of the 37 states in which we are an ILEC under the CAF Phase II high-cost support program. As a result of accepting CAF Phase II support payments for 33 states, as well as existing merger-related commitments, we are obligated to make substantial capital expenditures to build infrastructure by certain specified milestone deadlines. In accordance with the FCC’s January 2020 order, we elected to receive an additional year of CAF Phase II funding in 2021.
+
+In early 2020, the FCC created the Rural Digital Opportunity Fund (the “RDOF”), which is a new federal support program designed to replace the CAF Phase II program. On December 7, 2020, the FCC allocated in its RDOF Phase I auction $9.2 billion in support payments over 10 years to deploy high speed broadband to over 5.2 million unserved locations. We won bids for RDOF Phase I support payments of $26 million annually. These RDOF Phase I support payments are expected to begin January 1, 2022.
+
+For additional information about the potential financial impact of the CAF Phase II program, see "Management's Discussion and Analysis of Financial Condition and Results of Operations" in Item 7 of Part II of this report.
+
+Broadband Regulation
+
+In February 2015, the FCC adopted an order classifying Broadband Internet Access Services (“BIAS”) under Title II of the Communications Act of 1934 and applying new regulations. In December 2017, the FCC voted to repeal most of those regulations and the classification of BIAS as a Title II service to preempt states from imposing substantial regulations on broadband. Opponents of this change appealed this action in federal court. Several states have also opposed the change and have initiated state executive orders or introduced legislation focused on state-specific Internet service regulation. In October 2019, the federal court upheld the FCC’s classification decision but vacated a part of its preemption ruling. The court also requested the FCC to make further findings relating to its classification decision. Numerous parties have appealed this decision, which remain pending. In addition, members of the Biden Administration and various consumer interest groups have advocated in favor of reclassifying BIAS under Title II. The ultimate impact of these pending judicial appeals and calls for additional regulation are currently unknown to us, although the imposition of heightened regulation of our Internet operations could potentially hamper our ability to operate our data networks efficiently, restrict our ability to implement network management practices necessary to ensure quality service, increase the cost of operating, maintaining and upgrading our network and otherwise negatively impact our current operations.
+
+State Regulation of Domestic Operations
+
+In recent years, most states have reduced their regulation of ILECs, including ours. Nonetheless, state regulatory commissions generally continue to (i) set the rates that telecommunication companies charge each other for exchanging traffic, (ii) administer support programs designed to subsidize the provision of services to high-cost rural areas, (iii) regulate the purchase and sale of ILECs, (iv) require ILECs to provide service under publicly-filed tariffs setting forth the terms, conditions and prices of regulated services, (v) limit ILECs’ ability to borrow and pledge their assets, (vi) regulate transactions between ILECs and their affiliates and (vii) impose various other service standards. In most states, switched and business data services and interconnection services are subject to price regulation, although the extent of regulation varies by type of service and geographic region.
+
+Data Privacy Regulations
+
+Various foreign, federal and state laws govern our storage, maintenance and use of customer data, including a wide range of consumer protection, data protection, privacy, intellectual property and similar laws. Data privacy regulations are complex and vary across jurisdictions. As a global company, we must comply with various jurisdictional data privacy regulations, including the General Data Protection Regulation (“GDPR”) in the EU and
+18
+
+similar laws adopted by various other jurisdictions in certain of our domestic and overseas markets. The application, interpretation and enforcement of these laws are often uncertain, and may be interpreted and applied inconsistently from jurisdiction to jurisdiction. These regulations require careful handling of personal and customer data. We have data handling policies and practices to comply with global data privacy requirements, including GDPR and similar regulations, and have resources dedicated to complying with changing data privacy regulations.
+
+Anti-Bribery and Corruption Regulations
+
+As a global company we must comply with complex foreign and U.S. laws and regulations governing business ethics and practices, such as the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act and other local laws prohibiting corrupt payments to governmental officials and anti-competition regulations. We have compliance policies, programs and training to prevent non-compliance with such anti-corruption regulations in the U.S. and other jurisdictions. We monitor pending and proposed legislation and regulatory changes that may impact our business and develop strategies to address the changes and incorporate them into existing compliance programs.
+
+International Regulations
+
+Our subsidiaries operating outside of the U.S. are subject to various regulations in the markets where service is provided. The scope of regulation varies from country to country. The communications regulatory regimes in certain of our non-domestic markets are in the process of development. Many issues, including the pricing of services, have not been addressed fully, or even at all.
+
+The United Kingdom (“UK”) recently terminated its membership in the EU (“Brexit”), subject to the negotiation of additional separation agreements with the EU regarding data sharing, financial services and other matters. Several factors which are currently unknown will influence Brexit’s ultimate impact on our business. We operate a staging facility in the UK, where certain core network elements and customer premises equipment is configured before being shipped to both UK and EU locations. The UK is currently also a central repository of our spare parts for use in our European operations. However, we have also established a third party sparing facility in Amsterdam which we believe will help mitigate potential disruptions resulting from any impediments to the free movement of goods between the EU and the UK. Given the small percentage of our global personnel that are UK or EU nationals, we do not anticipate any adverse impact from Brexit on our workforce. We are currently monitoring Brexit developments, reviewing our supply chain alternatives, and assessing the short and long-term implications of Brexit on our operations. Nonetheless, based on current information, we do not anticipate Brexit will have a substantial impact on our business.
+
+Our overseas operations are subject to various U.S. export and sanctions laws and regulations. Our deconsolidated Venezuelan affiliate conducts operations in Venezuela, which is currently subject to certain U.S. sanctions.
+
+Other Regulations
+
+Our networks and properties are subject to numerous federal, state and local regulations, including environmental compliance and remediation expenses. We are also subject to codes that regulate our trenching and construction operations or that require us to obtain permits, licenses or franchises to operate. Such regulations are enacted by municipalities, counties, state, federal or other regional governmental bodies, and can vary widely from jurisdiction to jurisdiction as a result. Such regulations may also require us to pay substantial fees.
+
+Acquisitions and Dispositions
+
+Since being incorporated in 1968, we have grown principally through acquisitions. By 2008, we had become one of the largest providers of rural telephone services in the United States. Since then, we acquired Embarq Corporation in mid-2009, Qwest Communications International Inc. in early 2011 and Level 3 Communications, Inc. in late 2017. These acquisitions have substantially changed our customer base, geographic footprint, business strategies and mix of products and services.
+
+We regularly evaluate the possibility of acquiring additional assets or disposing of assets in exchange for cash, securities or other properties, and at any given time may be engaged in discussions or negotiations regarding additional acquisitions or dispositions. We generally do not announce our acquisitions or dispositions until we have entered into a preliminary or definitive agreement.
+19
+
+See Note 2—Goodwill, Customer Relationships and Other Intangible Assets to our consolidated financial statements in Item 8 of Part II of this report for additional information on these acquisitions.
+
+Seasonality
+
+Overall, our business is not materially impacted by seasonality. Our network-related operating expenses are, however, generally higher in the second and third quarters of the year. From time to time, weather related problems have resulted in increased costs to repair our network and respond to service calls in some of our markets. The amount and timing of these costs are subject to the weather patterns of any given year, but have generally been highest during the third quarter and have been related to damage from severe storms, including hurricanes, tropical storms and tornadoes in our markets along the Atlantic and Gulf of Mexico coastlines.
+
+Additional Information
+
+From time to time, we may make investments in other communications or technology companies. For further information on regulatory, technological and competitive factors that could impact our revenue, see "Regulation" under this Item 1, above, and "Competition" under this Item 1, above, and "Risk Factors" under Item 1A, below. For more information on the financial contributions of our various services, see "Management's Discussion and Analysis of Financial Condition and Results of Operations" in Item 7 of Part II of this report.
+
+Website Access and Important Investor Information
+
+We were incorporated in Louisiana in 1968. Our website is www.lumen.com. We routinely post important investor information in the “Investor Relations” section of our website at ir.lumen.com. The information contained on, or that may be accessed through, our website is not part of this report or any other periodic reports that we file with the SEC. You may obtain free electronic copies of annual reports on Form 10-K, quarterly reports on Form 10-Q, and current reports on Form 8-K of us and two of our principal subsidiaries, and amendments to those reports, in the “Investor Relations” section of our website (ir.lumen.com) under the heading “FINANCIALS” and subheading “SEC Filings.” These reports are also available on the SEC’s website at www.sec.gov. From time to time, we also use our website to webcast our earnings calls and certain of our meetings with investors or other members of the investment community.
+
+We have adopted a written code of conduct that serves as the code of ethics applicable to our directors, officers and employees, in accordance with applicable laws and rules promulgated by the SEC and the New York Stock Exchange. In the event that we make any changes (other than by a technical, administrative or non-substantive amendment) to, or provide any waivers from, the provisions of our code of conduct applicable to our directors or executive officers, we intend to disclose these events on our website or in a report on Form 8-K filed with the SEC. The code of conduct, as well as copies of our guidelines on significant governance issues and the charters of our key board committees, are also available in the “Governance” section of our website at www.lumen.com/en-us/about/governance or in print to any shareholder who requests them by sending a written request to our Corporate Secretary at Lumen Technologies, Inc., 100 CenturyLink Drive, Monroe, Louisiana, 71203.
+
+In connection with filing this report, our chief executive officer and chief financial officer made the certifications regarding our financial disclosures required under the Sarbanes-Oxley Act of 2002, and its related regulations. In addition, during 2020, our chief executive officer certified to the New York Stock Exchange that he was unaware of any violations by us of the New York Stock Exchange’s corporate governance listing standards.
+
+As a large complex organization, we are from time to time subject to litigation, disputes, governmental or internal investigations, consent decrees, service outages, security breaches or other adverse events. We typically publicly disclose these occurrences (and their ultimate outcomes) only when we determine these disclosures to be material to investors or otherwise required by applicable law.
+
+We typically disclose material non-public information by disseminating press releases, making public filings with the SEC, or disclosing information during publicly accessible meetings or conference calls. Nonetheless, from time to time we have used, and intend to continue to use, our website and social media accounts to augment our disclosures.
+
+20
+
+Investors should also be aware that while we do, at various times, answer questions raised by securities analysts, it is against our policy to disclose to them selectively any material non-public information or other confidential information. Accordingly, investors should not assume that we agree with any statement or report issued by an analyst with respect to our past or projected performance. To the extent that reports issued by securities analysts contain any projections, forecasts or opinions, such reports are not our responsibility.
+
+Unless otherwise indicated, information contained in this report and other documents filed by us under the federal securities laws concerning our views and expectations regarding the technology or communications industries are based on estimates made by us using data from industry sources, and on assumptions made by us based on our management’s knowledge and experience in the markets in which we operate and our industry generally. You should be aware that we have not independently verified data from industry or other third-party sources and cannot guarantee its accuracy or completeness.
+
+Our principal executive offices and telephone number are listed on the cover page of this report.

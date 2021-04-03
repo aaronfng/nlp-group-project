@@ -1,0 +1,682 @@
+Principal Financial Group, Inc. (“PFG”) is a leader in global investment management offering businesses, individuals and institutional clients a wide range of financial products and services, including retirement, asset management and insurance through our diverse family of financial services companies. We had $806.6 billion in assets under management (“AUM”) as of December 31, 2020.
+
+Our global asset management businesses serve a broad range of investors worldwide. We provide long-term investment strategies to institutional, retirement, high net worth and retail clients by offering a range of capabilities including equity, fixed income, real estate and other alternative investments, as well as fund offerings.
+
+In the U.S.,we offer a broad array of retirement and employee benefit solutions and individual insurance solutions to meet the needs of the business owner and their employees. We are a leading provider of defined contribution plans. We are also a leading employee stock ownership plan (“ESOP”) consultant. In addition, we are a leading provider of nonqualified plans, defined benefit plans and pension risk transfer services. We are also one of the largest providers of specialty benefits insurance product solutions. We believe small and medium-sized businesses are an underserved market, offering attractive growth opportunities in the retirement and employee benefit markets.
+
+Additionally, we believe we have a significant opportunity to leverage our U.S. retirement expertise in select international markets that have adopted or are moving toward private sector defined contribution pension systems. Our international asset management and accumulation businesses focus on the opportunities created as aging populations around the world drive increased demand for retirement accumulation, retirement asset management and retirement income management solutions.
+
+Our Reportable Segments
+
+We organize our businesses into the following reportable segments:
+	●	Retirement and Income Solutions;
+	●	Principal Global Investors;
+	●	Principal International and
+	●	U.S. Insurance Solutions.
+
+We also have a Corporate segment, which consists of the assets and activities that have not been allocated to any other segment.
+
+See Item 8. ‘‘Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 16, Segment Information’’ for financial results of our segments.
+
+Retirement and Income Solutions Segment
+
+Our asset accumulation activities in the U.S. date back to the 1940s when we first began providing pension plan products and services. We now offer a comprehensive portfolio of products and services for retirement savings and retirement income:
+	●	To businesses of all sizes, we offer products and services for defined contribution plans, including 401(k) and 403(b) plans; defined benefit plans; nonqualified executive benefit plans; stock services, including ESOPs and equity compensation; and pension risk transfer services;
+	●	To large institutional clients, we also offer investment only products, including guaranteed investment contracts (“GICs”);
+	●	To employees of businesses and other individuals, we offer the ability to accumulate savings and provide an income stream for retirement and other purposes through mutual funds, individual annuities and bank products; and
+	●	Through our recent acquisition of the Institutional Retirement & Trust (“IRT”) business of Wells Fargo Bank, N.A. (“Acquired Business”), we now offer trust and custody services for non-retirement businesses.
+
+We organize our Retirement and Income Solutions operations into two business groupings:
+	●	Retirement and Income Solutions — Fee: includes full service accumulation, trust services, individual variable annuities and the Acquired Business, including related acquisition and integration expenses; and
+
+4
+
+Table of Contents
+	●	Retirement and Income Solutions — Spread: includes individual fixed annuities, investment only, pension risk transfer and banking services.
+
+Retirement and Income Solutions — Fee
+
+Full Service Accumulation
+
+We offer a wide variety of investment and administrative products and services for defined contribution plans, including 401(k) and 403(b) plans; defined benefit plans; nonqualified executive benefit plans and stock services, including ESOPs and equity compensation.
+
+Products
+
+Full service accumulation products respond to the needs of plan sponsors seeking both administrative and investment services for defined contribution plans or defined benefit plans. The investment component of both the defined contribution and defined benefit plans may be in the form of a guaranteed account, separate account, a mutual fund offering or a collective investment trust. In addition, defined contribution plan sponsors may also offer their own employer securities as an investment option under the plan.
+
+We deliver both administrative and investment services to our defined contribution plan and defined benefit plan customers through annuity contracts, collective investment trusts and mutual funds. Group annuity contracts and collective investment trusts used to fund qualified plans are not required to be registered with the United States Securities and Exchange Commission (“SEC”). Our mutual fund service platform is called Principal Advantage. It is a qualified plan service package based on our series mutual fund, Principal Funds, Inc. (“PFI”). We offer investments covering the full range of stable value, equity, fixed income, real estate and international investment options managed by our Principal Global Investors segment as well as third party asset managers. In addition, full service accumulation offers plan sponsors trust services through an affiliated trust company.
+
+As of December 31, 2020, excluding the Acquired Business that has not migrated, we provided full service accumulation products to (a) over 39,100 defined contribution plans including $280.3 billion in assets and covering over 6.0 million eligible plan participants, and (b) to over 1,900 defined benefit plans, including $23.3 billion in assets and covering over 344,000 eligible plan participants. As of December 31, 2020, approximately 46% of our full service accumulation account values were managed by our Principal Global Investors segment, 43% were managed entirely by the third party asset managers that were not under contract to sub-advise a PFG product, 4% were sub-advised and 7% represented employer securities.
+
+Markets and Distribution
+
+We offer our full service accumulation products and services to plans, including qualified and nonqualified defined contribution plans and defined benefit plans. These products and services are offered to businesses of all sizes including plans sponsored by small and medium-sized businesses, which we believe remains under-penetrated. We distribute our full service accumulation products and services nationally, primarily through a captive retirement services sales force. As of December 31, 2020, 105 retirement services sales representatives in 40 offices, operating as a wholesale distribution network, maintained relationships with over 12,500 independent advisors, consultants and agents. Retirement services sales representatives are an integral part of the sales process alongside the referring consultant or independent advisor. We compensate retirement services sales representatives through a blend of salary and production-based incentives. We administer, on behalf of the plan, commission or fee payments to independent advisors, consultants and agents.
+
+As of December 31, 2020, we had a staff of over 250 service and education specialists located across the U.S. These specialists play a key role in the ongoing servicing of plans by providing local services to our customers, such as reviewing plan performance, investment options and plan design; communicating the customers' needs and feedback to us and helping employees understand the benefits of their plans. The following summarizes our distribution channels:
+	●	We distribute our annuity-based products through intermediaries who are primarily state licensed individuals.
+	●	Principal Advantage platform is targeted at defined contribution plans through broker-dealer distribution channels. Principal Advantage gives us access to Financial Industry Regulatory Authority (“FINRA”)-registered distributors who are not traditional sellers of annuity-based products and broadens opportunities for us in the investment advisor and broker-dealer distribution channels.
+	●	Through our Retire Secure strategy we provide financial education and other assistance to individual investors who are participants/members of employer-based accumulation solutions to help them achieve financial security.
+
+5
+
+Table of Contents
+
+We believe our approach to full service accumulation plan services distribution, which gives us a local sales and service presence, along with our offering of Principal (R) Total Retirement Solutions differentiates us from many of our competitors. We have also established a number of marketing and distribution relationships to increase the sales of our products and services.
+
+Institutional Retirement & Trust
+
+Acquired July 1, 2019, the IRT business includes defined contribution, defined benefit, nonqualified executive benefit plans, ESOPs, institutional trust and custody and institutional asset advisory businesses. As of December 31, 2020, the IRT business had $685.7 billion in assets under administration and covered over 3,100 total plans and over 2.3 million recordkeeping participants. We, along with Wells Fargo Bank, N.A., have been working together to integrate staff and systems to support the migration of the IRT customers. Migration of the IRT customers began in late 2020 and will continue in 2021. As these plans transition, the retirement assets move out of assets under administration and into account values and AUM, reducing assets under administration and increasing account values and AUM. Until the migration is complete, Wells Fargo Bank, N.A. will continue to service the customer base that has not migrated and operate under a transition services agreement. Once combined we will offer a range of capabilities to meet the needs of a broad array of customer segments with comprehensive retirement, trust and custody and discretionary asset allocation offerings.
+
+Individual Variable Annuities
+
+Individual variable annuities, which are savings vehicles through which the customer makes one or more deposits of varying amounts and intervals, are offered to individuals.
+
+Products
+
+Our individual variable deferred annuities provide customers with the flexibility to allocate their deposits to mutual funds managed by the Principal Global Investors segment or unaffiliated third party asset managers, with variable and guaranteed options. Generally speaking, the customers bear the investment risk for the variable options and have the right to allocate their assets among various separate mutual funds. The value of the annuity fluctuates in accordance with the experience of the mutual funds chosen by the customer. Customers have the option to allocate all or a portion of their account to our guaranteed option, in which case we credit interest at rates we determine, subject to contractual minimums. As of December 31, 2020, 93% of our $10.7 billion in variable annuity account balances was allocated to mutual funds managed by the Principal Global Investors segment and our guaranteed option. The remaining 7% was allocated to mutual funds managed by unaffiliated third party asset managers.
+
+Customers may elect a living benefit guarantee (commonly known in the industry as a guaranteed minimum withdrawal benefit, or “GMWB”). We bear the GMWB investment risk. Our goal is to hedge the GMWB investment risk through the use of sophisticated risk management techniques. As of December 31, 2020, $7.4 billion of the $10.3 billion of variable annuity separate account values had the GMWB rider. Our major source of revenue from individual variable annuities is mortality and expense fees we charge to the customer, generally determined as a percentage of the market value of the assets held in a separate investment sub-account. Account balances of variable annuity contracts with the GMWB rider were invested in separate account investment options as follows:
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+    
+	
+
+December 31, 2020
+	
+
+    
+	
+
+December 31, 2019
+	
+
+ 
+
+	
+
+ 
+	
+
+(in millions)
+	
+
+Balanced funds
+	
+
+	
+
+$
+	
+
+ 7,131.3
+	
+
+	
+
+$
+	
+
+ 6,739.5
+	
+
+Equity funds
+	
+
+	
+
+ 
+	
+
+ 173.7
+	
+
+	
+
+ 
+	
+
+ 179.3
+	
+
+Bond funds
+	
+
+	
+
+ 
+	
+
+ 96.9
+	
+
+	
+
+ 
+	
+
+ 99.7
+	
+
+Money market funds
+	
+
+	
+
+ 
+	
+
+ 6.6
+	
+
+	
+
+ 
+	
+
+ 4.6
+	
+
+Specialty funds
+	
+
+	
+
+ 
+	
+
+ 0.9
+	
+
+	
+
+ 
+	
+
+ 1.0
+	
+
+Total
+	
+
+	
+
+$
+	
+
+ 7,409.4
+	
+
+	
+
+$
+	
+
+ 7,024.1
+	
+
+Percent of total variable annuity separate account values
+	
+
+	
+
+ 
+	
+
+ 72
+	
+
+%  
+	
+
+ 
+	
+
+ 72
+	
+
+%
+
+Markets and Distribution
+
+Our target markets for individual variable annuities include owners, executives and employees of small and medium-sized businesses and individuals seeking to accumulate and/or eventually receive distributions of assets for retirement. We market variable annuities to individuals for both qualified and nonqualified retirement savings.
+
+6
+
+Table of Contents
+
+We sell our individual variable annuity products primarily through our affiliated financial representatives, including Principal Connection, who collectively accounted for 93%, 96% and 97% of annuity sales for the years ended December 31, 2020, 2019 and 2018, respectively. The remaining sales were made primarily through unaffiliated broker-dealer firms. Principal Connection is our direct distribution channel for retail financial services products to individuals. Principal Connection's services are available by phone, email or mail.
+
+Retirement and Income Solutions – Spread
+
+Individual Fixed Annuities
+
+Individual fixed annuities may be categorized in two ways: (1) deferred, in which case assets accumulate until the contract is surrendered, the customer dies or the customer begins receiving benefits under an annuity payout option, or (2) payout, in which case payments are made for a fixed period of time or for life.
+
+Products
+
+Fixed Deferred Annuities.  Our individual fixed deferred annuities consist of both single premium deferred annuity contracts and flexible premium deferred annuity contracts (“FPDAs”). The majority of FPDA contracts limit the period of time deposits are allowed to one year. For certain contracts, the principal amount is guaranteed. We credit the customer’s account with a fixed interest rate for a specified number of years. Thereafter, we reset the interest rate credited to the contract based upon our discretion, subject to contractual minimums, by taking into account market and other conditions. We also offer a fixed deferred annuity where the interest credited is linked to an external equity index, subject to maximum and minimum values. One source of income from fixed deferred annuities is the difference between the investment income earned on the underlying general account assets and the interest rate credited to the contracts. We bear the investment risk because, while we credit customers’ accounts with a stated interest rate, we cannot be certain the investment income we earn on our general account assets will exceed that rate. The Principal Global Investors segment manages the assets supporting these contracts.
+
+Fixed Income Annuities.  Our individual fixed income annuities consist of single premium immediate annuity contracts (“SPIAs”) and deferred income annuity contracts (“DIAs”). SPIAs and DIAs are products where the customer pays a premium in return for periodic benefit payments. SPIA payments begin immediately and DIA payments begin after a deferral period, during which a return-of-premium death benefit is included. Payments may be contingent upon the survival of one or two individuals or payments may be fixed, meaning payments are contractually guaranteed and do not depend on the continuing survival of any individual. Our major source of income from fixed immediate annuities is the difference between the investment income earned on the underlying general account assets and the interest rate implied in the calculation of annuity benefit payments. We bear the investment risk because we cannot be certain the investment income we earn on our general account assets will exceed the rate implied in the SPIA and DIA contracts. The Principal Global Investors segment manages the assets supporting these contracts.
+
+Markets and Distribution
+
+Our target markets for individual fixed annuities include owners, executives and employees of all sizes of businesses and individuals seeking to accumulate and/or eventually receive distributions of assets for retirement. We market fixed annuities to individuals for both qualified and nonqualified retirement savings.
+
+We primarily sell our individual fixed annuity products through unaffiliated distribution channels including banks, brokerage general agencies, mutual fund companies and broker-dealer firms, as a result of focused efforts to increase fixed annuity sales through these channels. The remaining sales were made through our affiliated financial representatives, including Principal Connection.
+
+Investment Only
+
+Products
+
+The two primary products for which we provide investment only services are GICs and funding agreements.
+
+GICs and funding agreements pay a specified rate of return. The rate of return can be a floating rate based on an external market index or a fixed rate. Our investment only products contain provisions disallowing or limiting early surrenders, including penalties for early surrenders and minimum notice requirements.
+
+7
+
+Table of Contents
+
+Deposits to investment only products are predominantly in the form of single payments. As a result, the level of new deposits can fluctuate from one fiscal quarter to another. The amounts earned by us are derived in part from the difference between the investment income earned by us and the amount credited to the customer. The Principal Global Investors segment manages the assets supporting the contractual promises.
+
+Markets and Distribution
+
+Funding agreements are issued directly to non-qualified institutions, the Federal Home Loan Bank of Des Moines (“FHLB Des Moines”) and unconsolidated special purpose entities. As part of our funding agreement-backed note programs, U.S. and foreign institutional investors purchase debt obligations from the special purpose entity which, in turn, purchases the funding agreement from us with terms similar to those of the debt obligations. The strength of this market is dependent on debt capital market conditions. As a result, our sales through this channel can vary widely from one quarter to another.
+
+Pension Risk Transfer
+
+Products
+
+Pension risk transfer products respond primarily to the needs of pension plan sponsors in the form of single premium group annuities, which are immediate or deferred annuities that provide a current or future specific income amount, fully guaranteed by us. The majority of our business originates from defined benefit plans that are being terminated. In these situations, the plan sponsor transfers all its obligations under the plan to an insurer by paying a single premium. Generally, plan sponsors restrict their purchases to insurance companies with superior or excellent financial quality ratings because the Department of Labor (“DOL”) has mandated that annuities be purchased only from the “safest available” insurers.
+
+Since premium received from pension risk transfer products is generally in the form of single payments, the level of premiums can fluctuate depending on the number of large-scale annuity sales in a particular quarter. The Principal Global Investors segment manages the assets supporting pension risk transfer account values.
+
+Markets and Distribution
+
+Our primary distribution channel for pension risk transfer products is comprised of several specialized home office sales consultants working through consultants and brokers that specialize in this type of business. Our sales consultants also make sales directly to institutions. Our nationally dispersed retirement services sales representatives act as a secondary distribution channel for these products.
+
+Banking Services
+
+Individual retirement accounts (“IRAs”) are provided by Principal Bank, primarily funded by retirement savings rolled over from qualified retirement plans. Principal Bank is a U.S. federal savings bank that was formed in February 1998. As of December 31, 2020, Principal Bank had nearly 506,000 customers and approximately $4.5 billion in assets. Principal Bank operates under a limited purpose charter and may only accept deposits held in a fiduciary capacity; however, it may not hold demand deposits. It also may not own commercial loans or originate loans.
+
+Products
+
+The IRAs offered by Principal Bank provide Federal Deposit Insurance Corporation (“FDIC”) insured retirement solutions for its customers. The IRAs are held in savings accounts, money market accounts and certificates of deposit. The deposit products provide a relatively stable source of funding and liquidity for Principal Bank and are backed by purchases of investment securities and residential mortgage loans.
+
+Markets and Distribution
+
+Principal Bank offers bank products and services to participants rolling out of qualified retirement plans primarily serviced by affiliates of PFG. Principal Bank services customers by telephone, mail and internet and offers digital advice services through its subsidiary, Principal Advised Services.
+
+8
+
+Table of Contents
+
+Principal Global Investors Segment
+
+Our Principal Global Investors segment manages assets for sophisticated investors around the world using focused investment teams that provide diverse investment capabilities including equity, fixed income, real estate and other alternative investments. We also have experience in asset allocation, stable value management and other structured investment strategies. We focus on providing services to our other segments in addition to our retail mutual fund and third party institutional clients. We maintain offices in Australia, Brazil, China, France, Germany, Hong Kong, Ireland, Italy, Japan, Luxembourg, the Netherlands, Portugal, Singapore, Spain, Sweden, Switzerland, the United Arab Emirates, the United Kingdom and the United States.
+
+We deliver our products and services through our network of focused investment teams including Principal Global Equities; Principal Global Fixed Income (including Finisterre emerging market debt teams); Aligned Investors; Principal Real Estate Investors, LLC; Principal Real Estate Europe Limited; Spectrum Asset Management, Inc.; Post Advisory Group, LLC; Columbus Circle Investors; Edge Asset Management; Claritas Administração de Recursos Ltda. (“Claritas”); Origin Asset Management LLP and Principal Global Asset Allocation. The Principal Global Investors focused investment teams managed $502.1 billion in assets as of December 31, 2020.
+
+We have been providing mutual funds to customers since 1969. We offer mutual funds to individuals, businesses and institutional investors for use within variable life contracts, variable annuity contracts and employer-sponsored pension plans; as a rollover investment option and for general investment purposes. We plan to grow into a top advisor-sold mutual fund company with a sales force focused on multiple channels. As of December 31, 2020, as reported by Morningstar, we ranked 19th in terms of U.S. mutual fund AUM and 30th in terms of exchange traded fund AUM.
+
+We also maintain various other domestic and global fund platforms, separately managed accounts and segregated accounts for some larger institutional and retail investors.
+
+Our products and services are provided for a fee as defined by client mandates. Our fees are generally driven by AUM.
+
+Focused Investment Teams
+
+Our focused investment team strategy is diversified across the following primary asset classes and service delivery options.
+
+Equity Investments. As of December 31, 2020, Principal Global Equities, Aligned Investors and Principal Real Estate Investors, LLC along with Columbus Circle Investors, Edge Asset Management, Origin Asset Management LLP and Claritas managed $209.4 billion in global equity assets. Our equity capabilities encompass large-cap stocks, mid-cap stocks, small-cap stocks and real estate investment trusts in developed and emerging markets worldwide.
+
+Fixed Income Investments.  As of December 31, 2020, Principal Global Fixed Income and Principal Real Estate Investors, LLC along with Spectrum Asset Management, Inc. and Post Advisory Group, LLC managed $226.0 billion in global fixed income assets. Collectively, our experience in fixed income management spans multiple economic and credit market cycles and encompasses all major fixed income security types and sectors, including commercial mortgage-backed securities (“CMBS”). Our research and risk management capabilities in worldwide debt markets provide a strong foundation for broadly diversified "multi-sector" portfolios, tailored to specific client objectives.
+
+Real Estate and Other Alternative Investments.  We offer products and services through other alternative asset classes including managing private real estate equity through Principal Real Estate Investors, LLC and Principal Real Estate Europe Limited; managing commercial mortgages and bridge/mezzanine loans through Principal Real Estate Investors, LLC and managing real estate and timber investments through Claritas. As of December 31, 2020, we managed $62.2 billion in alternative asset classes.
+
+Principal Global Asset Allocation. Principal Global Asset Allocation is a specialized asset allocation investment team offering multi-asset and/or multi-manager portfolio construction services that aim to deliver reliable, risk-adjusted investment outcomes to individual investors, institutional investors and participants in employer-sponsored plans.
+
+Products and Services
+
+Products offered by the Principal Global Investors segment include individually managed accounts, separately managed accounts for high net worth individuals and several fund platforms for retail and institutional investors, as described below.
+
+Principal Funds, Inc.  PFI is a series mutual fund that offers investment options for defined contribution plans, individuals, institutional investors, adviser fee-based programs and other retirement plan clients. We report the results for this fund in the Retirement and Income Solutions segment or Principal Global Investors segment based on the distribution channel associated with the AUM.
+
+9
+
+Table of Contents
+
+Principal Variable Contracts Funds, Inc.  Principal Variable Contracts Funds, Inc. is a series mutual fund that provides investment options for variable annuity and variable life insurance contracts issued by the Principal Life Insurance Company (“Principal Life”) and other insurance companies not affiliated with Principal Life. AUM backing our variable annuity contracts is reported in the Retirement and Income Solutions segment. AUM backing our variable life insurance contracts is reported in the U.S. Insurance Solutions segment.
+
+Other Principal Global Investors Funds. Principal Global Investors maintains various fund platforms including Qualifying Investor Alternative Investment Fund and Undertaking for Collective Investment in Transferable Securities (“UCITS”) funds domiciled in Dublin, collective investment trusts, exchange traded funds and other focused investment team sponsored funds. These funds are generally managed by our focused investment teams.
+
+Markets and Distribution
+
+Our products and services are distributed through various channels to reach and meet the needs of a broad investor base. We distribute our services through institutional and retail sales representatives, relationship management and client service professionals who work with consultants and directly with investors to acquire and retain institutional clients, retail clients and other investors.  We also maintain relationships with independent broker-dealers to distribute our products and services, maintaining relationships with over 84,000 independent brokers, consultants and agents. As of December 31, 2020, Principal Global Investors and its focused investment teams had over 740 third party institutional clients in 40 countries with $109.2 billion of AUM.
+
+Principal International Segment
+
+Our Principal International segment has operations in Latin America and Asia. We focus on locations with growing middle classes, favorable demographics and increasing long-term savings, ideally with defined contribution retirement markets. We entered these locations through acquisitions, start-up operations and joint ventures.
+
+The activities of our Principal International segment reflect our efforts to provide long-term savings and retirement solutions to individuals in the ten locations in which we operate. We offer pension accumulation products and services, mutual funds, asset management, income annuities and life insurance accumulation products.
+
+Markets, Products and Distribution
+
+Latin America
+
+Brazil.  We offer pension accumulation and income annuity products through a co-managed joint venture, Brasilprev Seguros e Previdencia S.A. (“Brasilprev”). We owned 25.005% of the economic interest and 50.01% of the voting shares as of December 31, 2020. The partner is Banco do Brasil (“Banco”), which had 4,370 Brazilian branches as of September 30, 2020.
+
+Brasilprev has the exclusive distribution rights of its pension accumulation and income annuity products through the Banco network until October 2032. Our joint venture provides products for the retirement needs of individuals and employers. Banco's employees sell these products directly to individual clients through its bank branches. In addition, our joint venture reaches corporate clients through two wholesale distribution channels: (1) a network of independent brokers who sell to the public and (2) Banco's corporate account executives who sell to existing and prospective corporate clients. As of December 31, 2020, Brasilprev had $61.0 billion of AUM.
+
+We also distribute pension and other protection products through a digital insurance brokerage company, Ciclic Corretora de Seguros S.A (“Ciclic”). Our partner is BB Corretora De Seguros e Administradora De Bens S.A. (a subsidiary of Banco). We owned 25.005% of the economic and 50.01% of the voting shares of Ciclic as of December 31, 2020.
+
+Chile.  We offer a complete array of pension accumulation and income annuity products. We also offer mutual fund, asset management services and life insurance accumulation products. Our subsidiaries in Chile had $49.1 billion of AUM as of December 31, 2020.
+
+We offer mandatory employee-funded pension and voluntary savings plans through Administradora de Fondos de Pensiones Cuprum S.A. (“Cuprum”). We owned 97.97% of Cuprum as of December 31, 2020, and the rest is publicly floated. Cuprum’s products are sold through digital means and via a proprietary sales network of approximately 1,000 sales employees as of December 31, 2020.
+
+We offer income annuity and life insurance accumulation products through Principal Compañía de Seguros de Vida Chile S.A., our wholly owned life insurance company. The annuity products are distributed directly by our sales teams and through a network of brokers and independent agents. Life insurance accumulation products are offered to individuals through brokers and financial advisors.
+
+10
+
+Table of Contents
+
+We offer voluntary savings plans and mutual funds through Principal Administradora General de Fondos S.A., our wholly owned mutual fund company. Products are distributed to retail and institutional clients through our proprietary sales force, financial advisors, brokerage houses and alliances with financial institutions.
+
+Mexico.  We offer pension accumulation, mutual funds and asset management services through our wholly owned companies with $17.0 billion of AUM as of December 31, 2020.
+
+We offer mandatory pension plans through Principal Afore, S.A. de C.V., Principal Grupo Financiero. We manage and administer individual retirement accounts under the mandatory privatized social security system for all employees in Mexico. As of December 31, 2020, we had approximately 2.6 million individual retirement accounts. We distribute products and services through a proprietary sales force of approximately 1,100 sales representatives as of December 31, 2020, as well as independent brokers who sell directly to individuals.
+
+We offer mutual funds and asset management services through Principal Fondos de Inversión, S.A. de C.V., Operadora de Fondos de Inversión, Principal Grupo Financiero. We distribute products and services through a sales force of approximately 60 employees as of December 31, 2020, and through distribution agreements with other financial entities. We offer both domestic and international products, typically sold directly to clients.
+
+Asia
+
+China. We offer mutual funds and asset management services to individuals and institutions through a joint venture, CCB Principal Asset Management Co., Ltd. (“CCB PAM”). We owned 25% of CCB PAM as of December 31, 2020. China Construction Bank (“CCB”) is the majority partner with 65% ownership. CCB PAM distributes its mutual funds through CCB and third-party distributors such as banks, securities brokers and e-channels. CCB provides widespread distribution support for the joint venture via its extensive network of approximately 15,000 bank branches as of December 31, 2019, and brand awareness activities. Although not included in our reported AUM, the joint venture had $118.4 billion of AUM as of December 31, 2020.
+
+Hong Kong Special Administrative Region.We offer both pension saving and mutual fund products to corporate and individual clients through wholly owned companies with $13.6 billion in AUM as of December 31, 2020.
+
+We offer two types of pension saving schemes, Mandatory Provident Fund and Occupational Retirement Schemes Ordinance, which we distribute through third party intermediaries such as insurance companies, independent financial advisors, brokers and employee benefit consultants. Our most significant partnership is with AXA Hong Kong with whom we have a 15-year distribution partnership through 2030. We serviced approximately 630,000 accounts as of December 31, 2020. To help Hong Kong customers save for retirement beyond the mandatory pension schemes, Principal also offers mutual funds to retail customers through third party intermediaries, the most significant being banks.
+
+India. We offer mutual funds and asset management services to both retail and corporate customers through Principal Asset Management Private Limited. Mutual funds are sold through independent distributors, including banks, and directly through proprietary sales offices. Digital platforms are being developed to enhance customer experience. Principal Retirement Advisors Private Limited focuses on long-term and retirement investments. As of December 31, 2020, our subsidiaries in India had $1.0 billion of AUM.
+
+On January 28, 2021, we signed an agreement of our intention to sell our Principal International India investment and retirement operations, including Principal Asset Management Private Limited, Principal Trustee Company Private Limited and Principal Retirement Advisors Private Limited to Sundaram Mutual, pending regulatory approval.
+
+Southeast Asia. We offer mutual funds, asset management services and retirement solutions through our joint ventures in Malaysia, Principal Asset Management Berhad (“PAM”) and Principal Islamic Asset Management Sdn. Bhd. (“PIAM”). The partner is CIMB Group (“CIMB”), a leading ASEAN universal bank that has strong presence in the region. The joint ventures had $23.3 billion of AUM as of December 31, 2020.
+
+PAM offers conventional and Islamic mutual funds, retirement solutions through the branches of CIMB (over 700 bank branches throughout ASEAN and beyond) and through its agency sales force of over 2,400 agents selling to retail customers as of December 31, 2020. PAM also distributes its mutual funds and retirement solutions through third party institutions including banks, security houses and digital platforms such as digital wallet and online marketplaces. PAM has subsidiaries in Singapore (Principal Asset Management (S) Pte. Ltd.), Indonesia (PT Principal Asset Management) and Thailand (Principal Asset Management Company Limited).
+
+PIAM offers Islamic asset management services to clients across Southeast Asia and the Middle East. PIAM also offers Islamic mutual funds in Southeast Asia, the Middle East and Europe via Principal Global Investors’ UCITS platform in Dublin.
+
+11
+
+Table of Contents
+
+U.S. Insurance Solutions Segment
+
+Our U.S. Insurance Solutions segment activities date back to 1879 when we first began selling individual life insurance products. We expanded our offering to include group insurance products in the 1940s and have continued to expand our product portfolio over time. We help businesses and individuals by offering solutions that grow and protect their assets:
+	●	To small and medium-sized businesses, we offer employer paid and voluntary group benefits, multi-life individual disability insurance and solutions to protect the business and personal insurance needs of owners and executives.
+	●	To individuals, we offer individual life and individual disability insurance solutions.
+
+We organize our operations into two divisions: Specialty Benefits insurance and Individual Life insurance. However, we share key resources in our core areas such as strategic leadership, distribution and marketing.
+
+Specialty Benefits Insurance
+
+Specialty Benefits insurance, which includes group dental, vision, life, critical illness, accident and disability insurance and individual disability insurance, is an important component of the employee benefit offering at small and medium-sized businesses.
+
+Products and Services
+
+Group Dental and Vision Insurance.  Our plans provide partial reimbursement for dental and vision expenses. As of December 31, 2020, we had over 84,000 group dental and vision insurance policies in force covering over 2.1 million employees. According to Life Insurance and Market Research Association (“LIMRA”), we were the 4th largest group dental insurer in terms of number of contracts/employer groups in force in 2019. In addition to indemnity and preferred provider organization dental offered on both an employer paid and voluntary basis, we offer a prepaid dental plan in Arizona through our Employers Dental Services, Inc. subsidiary. We also offer a discount dental product nationally. Our indemnity vision and our managed care vision products are offered on both an employer paid and voluntary basis.
+
+Group Life and Other Insurance.  Our group life insurance provides coverage to employees and their dependents for a specified period. As of December 31, 2020, we had over 75,000 group policies providing nearly $149.0 billion of group life insurance in force to approximately 2.5 million employee lives. According to LIMRA, in 2019 we were ranked 1st in the U.S. in terms of the number of group life insurance contracts in force. We currently sell traditional group life insurance that does not provide for accumulation of cash values on both an employer paid and voluntary basis. Our group life insurance business remains focused on the traditional, annually renewable term product. Group term life and group universal life accounted for 99% and 1%, respectively, of our total group life insurance in force as of December 31, 2020. We no longer market group universal life insurance to new employer groups.
+
+Group Disability Insurance.  Our group disability insurance provides a benefit to insured employees who become disabled. In most instances, this benefit is in the form of a monthly income. Our group disability products include both short-term and long-term disability, offered on both an employer paid and voluntary basis. As of December 31, 2020, long-term disability represented 60% of total group disability premium, while short-term disability represented 40% of total group disability premium. We also provide disability management services, called rehabilitation services, to assist individuals in returning to work as quickly as possible following disability. We work with disability claimants to improve the approval rate of Social Security benefits, thereby reducing payment of benefits by the amount of Social Security payments received. As of December 31, 2020, we served approximately 1.9 million employee lives through over 54,000 contracts. According to LIMRA, our group short-term disability business was ranked 4th and our group long-term disability business was ranked 3rd in the U.S. as of December 31, 2019, in terms of number of contracts/employer groups in force. We also offer voluntary critical illness insurance, which provides a lump-sum cash benefit to pay for additional expenses associated with the five most common critical illnesses, and voluntary accident insurance, which pays a lump sum when covered injuries occur because of an accident.
+
+Individual Disability Insurance.  Individual disability insurance has been sold since the early 1950s. Our individual disability insurance products provide income protection to the insured member and/or business in the event of disability. In most instances, this benefit is in the form of a monthly income. In addition to income replacement, we offer products to pay business-related costs such as overhead expenses for a disabled business owner, buy-out costs for business owners purchasing a disabled owner’s interest in the business, expenditures for replacement of a key person and business loan payments. We also offer a product to protect retirement savings in the event of disability. As of December 31, 2020, we served approximately 210,000 individual disability policyholders. According to LIMRA, our individual disability business was ranked 4th in the U.S. in terms of premium in force in the non-cancellable segment of the market and 4th overall, as of December 31, 2019.
+
+Fee-for-Service.  We offer administration of group dental, disability and vision benefits on a fee-for-service basis.
+
+12
+
+Table of Contents
+
+Individual Life Insurance
+
+We specialize in providing solutions for small to medium-sized businesses to protect against risk and loss, assist with succession planning and wealth transfer and to build and protect wealth for retirement. We also provide solutions to meet the personal needs of business owners, executives, key employees and affluent individuals. Our U.S. operations administered approximately 712,000 individual life insurance policies with over $476.0 billion of individual life insurance in force as of December 31, 2020.
+
+Products and Services
+
+Our Business Owner and Executive Solutions platform as well as our nonqualified deferred compensation offering combines administration and consulting to service our clients’ needs. We target the business and personal insurance needs of owners, executives and key employees of small and medium-sized businesses with an increasing focus on providing insurance solutions for nonqualified executive benefits. In addition, we market our products to meet traditional retail insurance needs. We offer a variety of individual life insurance products, both interest sensitive (including universal life, variable universal life and indexed universal life insurance) and traditional.
+
+Interest Sensitive.  We offer universal life, variable universal life and indexed universal life insurance products. These products offer the policyholder the option of adjusting both the premium and the death benefit amounts of the insurance contract. Universal life insurance typically includes a cash value account that accumulates at a credited interest rate based on the investment returns of the block of business. Variable universal life insurance is credited with the investment returns of the various investment options selected by the policyholder. Indexed universal life is credited with investment returns tied to an external index, subject to a contractual minimum and maximum. For the year ended December 31, 2020, interest sensitive products represented 20% of individual life insurance in force and generated 54% of individual life insurance annualized first year premium sales.
+
+After a deduction for policy level expenses, we credit net deposits to an account maintained for the policyholder. For universal life contracts, the entire account balance is invested in the general account. Interest is credited to the policyholder's account based on the earnings on general account investments, subject to contractual minimums. For variable universal life contracts, the policyholder may allocate the account balance among our general account and a variety of mutual funds underlying the contract. Interest is credited on amounts allocated to the general account in the same manner as for universal life. Net investment performance on mutual funds is allocated directly to the policyholder accounts; the policyholder bears the investment risk. For indexed universal life, the policyholder may allocate the account balance among our general account and two index accounts. Interest is credited on amounts allocated to the general account in the same manner as for universal life. Net investment performance on the index accounts is allocated directly to the policyholder accounts, subject to the contractual minimum and maximum. Some of our interest sensitive contracts contain what are commonly referred to as “secondary” or “no-lapse” guarantee provisions. These no-lapse guarantees keep the contract in force, even if the policyholder's account balance is insufficient to cover all of the contract charges, provided that the policyholder has continually paid a specified minimum premium. Starting in January 2021, we no longer market universal life insurance with lifetime secondary guarantee provisions.
+
+Traditional Life Insurance.  Traditional life insurance includes term, whole and adjustable life insurance products. Term insurance products provide a guaranteed death benefit for a specified period of time in return for the payment of a fixed premium. Term life insurance products represented 46% of our individual life insurance annualized first year premium sales for the year ended December 31, 2020, and 77% of individual life insurance in force as of December 31, 2020. Whole life policies provide a guaranteed death benefit and a cash surrender value in return for payment of fixed premiums. Adjustable life insurance products provide a guaranteed benefit in return for the payment of a fixed premium while allowing the policyholder to set the coverage period, premium and face amount combination.
+
+U.S. Insurance Solutions Markets and Distribution
+
+For each of our products, administration and distribution channels are customized to meet customer needs and expectations for that product.
+
+We market our group insurance products to small and medium-sized businesses, primarily targeting our sales toward owners and human resources professionals. We sell our group insurance products in all 50 states and the District of Columbia. We continually adapt our products and pricing to meet local market conditions. We market our fee-for-service capabilities to employers that self-insure their employees' dental, disability and vision benefits. We market our fee-for-service businesses in all 50 states and the District of Columbia.
+
+13
+
+Table of Contents
+
+The group insurance market continues to see a shift to voluntary/worksite products due to various pressures on employers. In keeping with this market change, which shifts the funding of such products from the employer to the employee, we continue to place an enhanced focus on our voluntary benefits platform. We believe the voluntary/worksite market presents growth opportunities and we will continue to develop strategies to capitalize on this expanding market.
+
+As of December 31, 2020, we had 138 sales representatives and 157 service representatives in 26 local markets. Our sales representatives accounted for 99% of our group insurance sales for the year ended December 31, 2020. The service representatives play a key role in servicing the case by providing local, responsive services to our customers and their brokers, such as renewing contracts, revising plans, solving administrative issues and communicating the customers’ needs and feedback to us.
+
+We sell our individual life and individual disability insurance products in all 50 states and the District of Columbia, primarily targeting owners, executives and key employees of small and medium-sized businesses. Small and medium-sized business sales represented 50% of individual life sales and 67% of individual disability sales for the year ended December 31, 2020. Much of our life insurance sales efforts focus on the Business Owner and Executive Solutions market. This strategy offers solutions to address business owner financial challenges such as exiting the business, business transition, retaining key employees and retirement planning. Key employees also have needs to supplement retirement income, survivor income and business protection. We believe the Business Owner and Executive Solutions segment offers growth opportunities and we will continue to develop strategies to capitalize on this expanding market.
+
+We distribute our individual life and individual disability insurance products through our affiliated financial representatives and independent brokers, as well as other marketing and distribution alliances. Affiliated financial representatives were responsible for 10% of individual life insurance sales based on first year annualized premium and 8% of individual disability sales for the year ended December 31, 2020. We had 1,122 affiliated financial representatives in 26 offices as of December 31, 2020. Although they are independent contractors, we have a close tie with affiliated financial representatives and we offer them benefits, training and access to tools and expertise. To meet the needs of the various marketing channels, particularly the independent brokers, we employ wholesale distributors — Regional Vice Presidents for individual life and Regional Vice Presidents for individual disability. A key differentiator in the nonqualified executive benefit sale is our Regional Vice Presidents-Nonqualified Plans, who are not only wholesalers but also consultants and subject-matter experts providing point-of-sale support in closing cases.
+
+Corporate Segment
+
+Our Corporate segment manages the assets representing capital that has not been allocated to any other segment. Financial results of the Corporate segment primarily reflect our financing activities (including financing costs), income on capital not allocated to other segments, inter-segment eliminations, income tax risks and certain income, expenses and other adjustments not allocated to the segments based on the nature of such items. Results of Principal Securities, Inc., our retail broker-dealer and registered investment advisor; RobustWealth, Inc. (“RobustWealth”), our financial technology company; and our exited group medical and long-term care insurance businesses are reported in this segment.
+
+Competition
+
+Competition in our segments is based on a number of factors including: scale, service, product features, price, investment performance, commission structure, distribution capacity, financial strength ratings and name recognition. We compete with a large number of financial services companies such as banks, mutual funds, institutional trust companies, broker-dealers, insurers and asset managers. Some of these companies offer a broader array of products, more competitive pricing, greater diversity of distribution sources, better brand recognition or, with respect to insurers, higher financial strength ratings. Some may also have greater financial resources with which to compete or may have better investment performance at various times. We believe we distinguish ourselves from our competitors through our:
+	●	full service platform;
+	●	strong customer relationships;
+	●	focus on investment performance and
+	●	expansive product portfolio.
+
+14
+
+Table of Contents
+
+Ratings
+
+Insurance companies are assigned financial strength ratings by rating agencies based upon factors relevant to policyholders. Financial strength ratings are generally defined as opinions as to an insurer’s financial strength and ability to meet ongoing obligations to policyholders. Information about ratings provides both industry participants and insurance consumers meaningful insights on specific insurance companies. Higher ratings generally indicate financial stability and a stronger ability to pay claims.
+
+Principal Life and Principal National Life Insurance Company (“PNLIC”) have been assigned the following insurer financial strength ratings:
+
+	
+	
+	
+	
+	
+
+Rating Agency
+	
+
+    
+	
+
+Financial Strength Rating
+	
+
+    
+	
+
+Rating Structure
+	
+
+ 
+
+A.M. Best Company, Inc.
+	
+
+	
+
+A+ (“Superior”) with a stable outlook
+	
+
+	
+
+Second highest of 13 rating levels
+	
+
+Fitch Ratings Ltd.
+	
+
+	
+
+AA− (“Very Strong”) with a negative outlook
+	
+
+	
+
+Fourth highest of 19 rating levels
+	
+
+Moody’s Investors Service
+	
+
+	
+
+A1 (“Good”) with a positive outlook
+	
+
+	
+
+Fifth highest of 21 rating levels
+	
+
+S&P Global Ratings
+	
+
+	
+
+A+ (“Strong”) with a negative outlook
+	
+
+	
+
+Fifth highest of 20 rating levels
+	
+
+A.M. Best Company, Inc. (“A.M. Best”) ratings for insurance companies range from “A++” to “S”. A.M. Best indicates that “A++” and “A+” ratings are assigned to those companies that in A.M. Best’s opinion have superior ability to meet ongoing insurance obligations. Fitch Ratings Ltd. (“Fitch”) ratings for insurance companies range from “AAA” to “C”. Fitch “AA” ratings indicate very strong capacity to meet policyholder and contract obligations. Moody’s Investors Service (“Moody’s”) ratings for insurance companies range from “Aaa” to “C”. Moody’s indicates that “A” ratings are assigned to those companies that offer good financial security. S&P Global Ratings (“S&P”) has ratings that range from “AAA” to “D” for insurance companies. S&P indicates that “A” ratings are assigned to those companies that have strong financial security characteristics. In evaluating a company’s financial and operating performance, these rating agencies review its profitability, leverage and liquidity, as well as its book of business, the adequacy and soundness of its reinsurance, the quality and estimated market value of its assets, the adequacy of its policy reserves, the soundness of its risk management programs, the experience and competency of its management and other factors.
+
+We believe our strong ratings are an important factor in marketing our products to our distributors and customers, as ratings information is broadly disseminated and generally used throughout the industry. Our ratings reflect each rating agency's opinion of our financial strength, operating performance and ability to meet our obligations to policyholders and are not evaluations directed toward the protection of investors. Such ratings are neither a rating of securities nor a recommendation to buy, hold or sell any security, including our common stock. For more information on ratings, see Item 7. “Management’s Discussion and Analysis of Financial Condition and Results of Operations – Liquidity and Capital Resources – Financial Strength and Credit Ratings.”
+
+Regulation
+
+Our businesses are subject to regulation and supervision by U.S. federal and state regulatory authorities as well as non-U.S. regulatory authorities for our operations and customers outside the U.S., which can have a significant effect on our business. Our businesses are also affected by U.S. federal, state and local tax laws as well as tax laws for jurisdictions outside the U.S.
+
+PFG, our parent holding company, is not licensed as an insurer, investment advisor, broker-dealer, bank or other regulated entity. However, because it is the holding company for all of our operations, it is subject to regulation in connection with our regulated entities, including as an insurance holding company. We are subject to legal and regulatory requirements applicable to public companies, including public reporting and disclosure, securities trading, accounting and financial reporting and corporate governance.
+
+U.S. Insurance Laws and Regulations
+
+We are subject to the insurance holding company laws in the states where our insurance companies are domiciled. Principal Life and PNLIC are domiciled in Iowa and their principal insurance regulatory authority is the Insurance Division of the Department of Commerce of the State of Iowa. Our other U.S. insurance companies are principally regulated by the insurance departments of the states in which they are domiciled. These laws generally require each insurance company directly or indirectly owned by the holding company to register with the insurance department in the insurance company’s state of domicile and to furnish financial and other information about the operations of the companies within the holding company system. Transactions affecting the insurers in the holding company system must be fair and at arm’s length. Most states have insurance laws that require regulatory approval of a direct or indirect change in control of an insurer or an insurer’s holding company and laws that require prior notification to state insurance departments of a change in control of a non-domiciliary insurance company doing business in that state.
+
+15
+
+Table of Contents
+
+Annually, our U.S. insurance companies must submit an opinion from a board-appointed qualified actuary to state insurance regulators, where licensed, on whether the statutory assets held backing statutory reserves are sufficient to meet contractual obligations and related expenses of the insurer. If such an opinion cannot be rendered noting the sufficiency of assets, the insurance company must set up additional statutory reserves drawing from available statutory surplus until such an opinion can be given.
+
+State insurance departments have broad administrative powers over the insurance business, including insurance company licensing and examination, agent licensing, establishment of reserve requirements and solvency standards, premium rate regulation, admittance of assets to statutory surplus, policy form approval, unfair trade and claims practices regulation and other matters. State insurance statutes also typically place restrictions and limitations on the amount of dividends or other distributions payable by insurance company subsidiaries to their parent companies. See Item 7. “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Liquidity and Capital Resources” for further details.
+
+In order to enhance the regulation of insurer solvency, the National Association of Insurance Commissioners (“NAIC”) has established risk-based capital (“RBC”) standards. The standards require life insurers to submit a report to state regulators on an annual basis regarding their RBC based upon categories of risk including the following: asset risk, insurance risk, interest rate risk and business and operational risk. As of December 31, 2020, the statutory surplus of each of our U.S. life insurance companies exceeded the minimum RBC requirements.
+
+State and federal insurance and securities regulatory authorities and other state law enforcement agencies and attorneys general regularly make inquiries and conduct examinations or investigations regarding our compliance with, among other things, insurance laws and securities laws.
+
+Each state has insurance guaranty association laws under which insurers doing business in a state can be assessed, up to prescribed limits, in order to cover contractual benefit obligations of insolvent insurance companies. The guaranty associations levy assessments on each member insurer in a jurisdiction on the basis of the proportionate share of the premiums written by such insurer in the lines of business in which the insolvent insurer is engaged. Some jurisdictions permit the member insurers to recover the assessments paid through full or partial premium tax offsets.
+
+Securities Regulation
+
+Insurance and investment products such as variable annuities, variable life insurance and some funding agreements that constitute securities and mutual fund products are subject to securities laws and regulations, including U.S. state securities regulation as well as U.S. federal regulation under the SEC, FINRA and other regulatory authorities. These regulations affect investment advice, sales and related activities for these products.
+
+We also have entities that are registered as investment advisers with the SEC under, and are therefore subject to, the Investment Advisers Act of 1940.
+
+Employee Retirement Income Security Act
+
+As we provide products and services for U.S. and Puerto Rico employee benefit plans, we are subject to regulation under the Employee Retirement Income Security Act (“ERISA”). ERISA provisions include reporting and disclosure requirements and standards of conduct.
+
+Banking Regulation
+
+Principal Bank, a wholly owned subsidiary, is a U.S. federal savings bank regulated by the Office of the Comptroller of the Currency. Principal Bank’s depositors are insured by the FDIC up to specified limits, making Principal Bank subject to certain of the FDIC’s regulations.
+
+Trust Regulation
+
+Delaware Charter Guarantee & Trust Company conducting business as Principal Trust Company, a wholly owned subsidiary, is a Delaware state chartered trust company regulated by the State of Delaware Office of the State Bank Commissioner. Principal Trust Company is subject to Delaware banking and trust law.
+
+Principal Global Investors Trust Company, a wholly owned subsidiary, is an Oregon state registered banking corporation with trust powers regulated by the State of Oregon Division of Financial Regulations. Principal Global Investors Trust Company is subject to Oregon banking regulations.
+
+16
+
+Table of Contents
+
+Environmental Regulation
+
+As we own and operate real property, we are subject to U.S. federal, state and local environmental laws, as well as international environmental laws and could be subject to environmental liabilities and costs associated with required remediation of our properties. We routinely have environmental assessments performed for real estate being acquired or used as collateral for commercial mortgages we use for investment.
+
+Regulation of International Businesses
+
+Our international businesses are supervised by regulatory authorities in the jurisdictions in which they operate, including regulation and supervision by insurance, securities, tax and privacy regulatory authorities. The purpose of these regulations is similar to the U.S., to protect our customers and the overall financial system. Regulations such as the revised Markets in Financial Instruments Directive and the General Data Protection Regulation (“GDPR”) have a global impact on our businesses.
+
+Risk Management
+
+Like all financial services companies, we are exposed to a wide variety of financial, operational and other risks, as described in Item 1A. “Risk Factors.” Effective enterprise risk management is, therefore, a key component of our business model.
+
+Enterprise risk management helps us to manage risk to meet our customer obligations, satisfy regulatory requirements, adequately provide for contingencies in case of stress, optimize shareholder returns, support our core values and maintain our reputation.
+
+We utilize an integrated risk management framework to help us identify, assess, monitor, report, manage and aggregate our material risks within established risk appetites and risk tolerances. The framework delivers important perspective that is used in strategic and tactical decision making and is adaptable to changes in our businesses and in the external environments in which we operate. Our approach also requires a commitment to continuous improvement and periodic validation.
+
+Our governance structure includes Board of Directors oversight, internal risk committees, a corporate risk management function and embedded risk professionals in our business units and functional areas. Our Board of Directors, Audit Committee, Finance Committee, Human Resource Committee and Nominating and Governance Committee provide oversight no less frequently than quarterly, addressing relevant aspects of our risk profile.
+
+Our internal risk committees meet on a regular and frequent basis to discuss various issues and review profile status. Each business unit has its own committee that is responsible for oversight of the material risks within the unit or area. These committees may include corporate leaders. We also have internal committees that provide oversight around a certain risk or group of related risks across the organization. This matrix approach helps us maintain comprehensive risk coverage and preserve an integrated view of risks. The Enterprise Risk Management Committee, comprised of members from the executive management team, exercises enterprise-wide oversight for our most significant risk profiles.
+
+The business units and functional areas are responsible for identifying, assessing, monitoring, reporting and managing their own risks. Chief Risk Officers embedded within each business unit or risk professionals in functional areas help align risk management practice with the strategies of the unit as well as with enterprise-wide objectives. The enterprise Chief Risk Officer and supporting staff are separate from the business units and provide objective oversight, framework enablement and aggregated risk analysis. Internal Audit provides independent and timely assurance around the effectiveness of governance, risk management and controls that mitigate current and evolving risks. The Chief Internal Auditor reports functionally to the Audit Committee and administratively to the Chief Risk Officer. Internal Audit's responsibilities are independently performed under the oversight of the audit committees of PFG and its member companies.
+
+Risk appetites, tolerances and limits have been established from an enterprise-wide and business unit perspective for specific risk categories, where appropriate. We monitor a variety of risk metrics on an ongoing basis and take the appropriate steps to manage our established risk appetites and tolerances. Quarterly risk reporting provides a feedback loop between business units, functional areas, our internal risk committees and the corporate risk management function. This reporting also includes perspectives on emerging risk. To the extent potentially significant business activities or operational initiatives are considered, analysis of the possible impact on our risk profile takes place. This analysis includes, but is not limited to, the capital implications; the impact on near term and long-term earnings; the ability to meet our targets with respect to return on equity, liquidity, debt/capital, cash coverage, business risk and operational risk; and the impact to our reputation.
+
+17
+
+Table of Contents
+
+Human Capital
+
+As of December 31, 2020, we employed approximately 17,400 people across the globe. Our employees work from many locations and across multiple business units and are united by a common purpose: to foster a world in which financial security is accessible to all. We start by listening to our customers to understand their needs, goals and barriers. From there, we leverage our deep global expertise to provide the guidance, products and experiences that create opportunities for more people to save, invest and protect their financial futures. Our purpose inspires our approach to attracting, retaining and developing our workforce.
+
+We encourage employee growth and development in a variety of ways, including through experiential learning, relationships with colleagues, formal programming and just-in-time resources. New in 2020, we began offering a global mentoring program, connecting colleagues from across the world to strengthen inclusive capabilities, transfer institutional knowledge and build relationships. We also began offering employees the opportunity to apply for short-term growth assignments through which participants diversify their skill sets. Additional, targeted development opportunities exist for leaders and employees identified as high potential talent.
+
+We recognize that a culture of inclusion makes us stronger. To that end, we strive to provide a work environment in which every employee feels welcomed, respected and has an opportunity to thrive. In 2020 we offered unconscious bias training to leaders across the globe, enabling them to make more informed, effective and confident decisions.
+
+Our employees routinely report that the culture of our workforce is highly collaborative in nature. In 2020, we were included by Forbes in its lists of Best Employers for Women (July 2020) and Best Employers for Diversity (January 2020). We also earned a perfect score on the Human Rights Campaign Foundation’s 2020 Corporate Equality Index (January 2020) and Disability:IN Disability Equality Index (July 2020). At the same time, we know we can do better; as such, we continuously strive for greater equity in our human capital processes and track our progress, including through a diversity index that is one of twelve equally weighted measures included in our corporate balanced scorecard. The measures included on our corporate balanced scorecard are the most critical in understanding company-wide performance and informing business decisions.
+
+We are proud of our track record when it comes to retaining employees. As of December 31, 2020, the average tenure of our U.S. employees was 13.6 years and our U.S. employee turnover rate was 7.6%. Retention strategies are woven into all our compensation and retirement programs. The programs for the broader employee population include our Employee Stock Purchase Plan, our annual incentive program and, for employees outside our asset management business, a cash balance defined benefit retirement plan. For select employees, we offer our Long-Term Incentive Plan, which is an equity-based compensation plan. In addition to providing competitive total rewards, leadership at all levels of the organization actively listen to employees to track engagement and any meaningful changes in sentiment. In 2020, employee engagement, as measured by an annual survey, increased over 2019 despite the challenge of managing human capital during a global pandemic.
+
+Due to the novel coronavirus (“COVID-19”) pandemic most of our employees worked remotely beginning mid-March 2020. For essential workers and the small number of other employees who continued to work on site, we implemented safety protocols to mitigate risk. We continued to pay employees who missed work for COVID-19-related reasons and avoided role reductions as a direct result of COVID-19. In addition, we expanded the scope of our Employee Assistance Program and regularly provided wellness resources to employees.
+
+As of December 31, 2020, about 55% of our global employee workforce was comprised of women and 45% was comprised of men. Approximately 10,500 of our employees worked in the U.S. The ethnicity of our U.S. employee workforce was as follows: approximately 88% White, 4% Latino, 4% Asian, 3% Black and 1% Other. Our 12-person Executive Management Group (“EMG”) was comprised of 5 women and 7 men. The ethnicity of the EMG was 92% White and 8% Latino. Of the independent Directors on our Board of Directors, 5 were women and 6 were men. Their ethnicity was 73% White, 18% Black and 9% Latino.
+
+Internet Website
+
+Our internet website can be found at www.principal.com. We make available free of charge, on or through our internet website, access to our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 as soon as reasonably practicable after such material is filed with or furnished to the SEC. These reports are also available on the SEC’s website at www.sec.gov. Also available free of charge on our internet website is our code of business conduct and ethics, corporate governance guidelines and charters for the Audit, Finance, Human Resources and Nominating and Governance committees of our Board of Directors. Also see Item 10. “Directors, Executive Officers and Corporate Governance.”
+

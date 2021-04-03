@@ -1,0 +1,380 @@
+Overview
+
+Maxim Integrated Products, Inc. (“Maxim Integrated” or the “Company” and also referred to as “we,” “our” or “us”) designs, develops, manufactures and markets a broad range of linear and mixed-signal integrated circuits, commonly referred to as analog circuits, for a large number of customers in diverse geographical locations. The analog market is fragmented and characterized by many diverse applications, a great number of product variations and, with respect to many circuit types, relatively long product life cycles. We are a global company with a wafer manufacturing facility in the U.S., test facilities in the Philippines and Thailand, and sales and circuit design offices around the world. We also utilize third parties for manufacturing and assembly of our products. The major end-markets in which our products are sold are the Automotive, Communications & Data Center, Consumer, and Industrial markets.
+
+We are a Delaware corporation originally incorporated in California in 1983. The mailing address for our headquarters is 160 Rio Robles, San Jose, California 95134, and our telephone number is (408) 601-1000. Additional information about us is available on our website at www.maximintegrated.com. The contents of our website are not incorporated into this Annual Report.
+
+We have a 52-to-53-week fiscal year that ends on the last Saturday in June. Accordingly, every fifth or sixth fiscal year will be a 53-week fiscal year. Fiscal years 2020 and 2019 were 52-week fiscal years. Fiscal year 2018 was a 53-week fiscal year. Fiscal year 2021 will be a 52-week fiscal year.
+
+We make available through our website, free of charge, our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, proxy statements and any amendments to those reports or statements filed or furnished pursuant to the Exchange Act, as soon as reasonably practicable after they are electronically filed with or furnished to the SEC. The SEC also maintains an internet site at www.sec.gov that contains such reports and statements filed electronically with the SEC by the Company. We also use our Investor Relations website at investor.maximintegrated.com as a routine channel for distribution of other important information, such as news releases, analyst presentations and financial information. We assume no obligation to update or revise any forward-looking statements in this Annual Report, whether as a result of new information, future events or otherwise, unless we are required to do so by applicable laws. A copy of this Annual Report is available without charge and can be accessed at our website at investor.maximintegrated.com.
+
+Impact of COVID-19
+
+The ongoing novel coronavirus ("COVID-19") pandemic and the mitigation efforts by governments to attempt to control its spread are impacting and will likely continue to impact our operations, customers, and suppliers for an indefinite period of time. While we have implemented safeguards and procedures to counter the impact of the COVID-19 pandemic, the full extent to which the COVID-19 pandemic has and will directly or indirectly impact us, including our business, financial condition, and results of operations, will depend on future developments that are highly uncertain and cannot be accurately predicted, including the further mitigation efforts taken to contain it or treat its impact and the economic impact on local, regional, national and international markets. We will continue to actively monitor the situation and may take further actions that alter our business operations as may be required by federal, state, local, or foreign authorities or that we determine are in the best interests of our employees, customers, suppliers, and stockholders.
+
+For additional information regarding the impact of COVID-19 on the Company’s business, results of operations, financial condition and other associated risks and uncertainties see Part II, Item 7 - Management’s Discussion and Analysis of Financial Condition and Results of Operations and Part I, Item 1A - Risk Factors in this Annual Report.
+
+Recent Developments
+
+On July 13, 2020, the Company announced that it had entered into an Agreement and Plan of Merger, dated July 12, 2020 (as it may be amended from time to time, the “ADI Merger Agreement”) with Analog Devices, Inc., a Massachusetts corporation (“Analog Devices” or "ADI"), and Magneto Corp., a wholly-owned subsidiary of Analog Devices (“Acquisition Sub”), under which, subject to the satisfaction or (to the extent permissible) waiver of the conditions set forth therein, Acquisition Sub will merge with and into the Company, and the Company will survive the merger as a wholly-owned subsidiary of Analog Devices (the “ADI Merger”). Under the terms of the ADI Merger Agreement, at the effective time of the ADI Merger (the “Effective Time”), each share of common stock, par value $0.001 per share, of the Company (the “Company Common Stock”), issued and outstanding
+
+4
+
+
+immediately prior to the Effective Time (other than treasury shares and any shares of Company Common Stock held by Analog Devices or Acquisition Sub) will be converted into the right to receive 0.6300 of a fully paid and non-assessable share of common stock, par value $0.16 2/3 per share, of Analog Devices (with cash being paid (without interest and less applicable withholding taxes) in lieu of any fraction of a share of Analog Devices common stock). Analog Devices shareholders will continue to own their existing Analog Devices shares, and the combined company will be named Analog Devices.
+
+The ADI Merger has been approved by both the Company’s Board of Directors and the Board of Directors of Analog Devices. The completion of the ADI Merger is subject to customary closing conditions, including, among others, the required approvals of Maxim Integrated’s stockholders, the approval of ADI’s shareholders and the receipt of various regulatory approvals. Subject to the satisfaction or (to the extent permissible) waiver of such conditions, the transaction is expected to close in the summer of 2021. For additional information on the ADI Merger Agreement and the ADI Merger, please refer to the Company’s Current Report on Form 8-K, filed with the Securities and Exchange Commission on July 13, 2020. The Company cannot guarantee that the ADI Merger will be completed on a timely basis or at all or that, if completed, it will be completed on the terms set forth in the ADI Merger Agreement.
+
+For additional information regarding the ADI Merger, including associated risks and uncertainties, see Part I, Item 1A - Risk Factors, Part II, Item 7 - Management’s Discussion and Analysis of Financial Condition and Results of Operations and Note 20 “Subsequent Events” in in the Notes to Consolidated Financial Statements in Part IV, Item 15(a) this Annual Report.
+
+The Linear and Mixed-Signal Analog Integrated Circuit Market
+
+All electronic signals generally fall into one of two categories, linear or digital. Linear or analog signals represent real world phenomena, such as temperature, pressure, sound or speed, and are continuously variable over a wide range of values. Digital signals represent the “ones” and “zeros” of binary arithmetic and are either on or off.
+
+Three general classes of semiconductor products arise from this distinction between linear and digital signals:
+
+	
+•
+	
+digital devices, such as memories and microprocessors that operate primarily in the digital domain;
+	
+•
+	
+linear devices, such as amplifiers, references, analog multiplexers, and switches that operate primarily in the analog domain; and
+	
+•
+	
+mixed-signal devices such as data converter devices that combine linear and digital functions on the same integrated circuit and interface between the analog and digital domains.
+
+Our strategy has been to target both the linear and mixed-signal markets, often collectively referred to as the analog market. However, some of our products are exclusively or principally digital. While our focus continues to be on the linear and mixed-signal market, our capabilities in the digital domain enable development of new mixed-signal and other products with highly sophisticated digital characteristics.
+
+At the beginning of fiscal year 2020, we combined our Computing Major End-Market category with our Communications and Data Center Major End-Market category. Our former Computing Major End-Market category focused on Desktop Computers, Notebook Computers, and Peripherals and Other Computer markets.
+
+
+5
+
+
+Our linear and mixed-signal products now serve four major end-markets: (i) Automotive, (ii) Communications & Data Center, (iii) Consumer and (iv) Industrial. These major end-markets and their corresponding markets are noted in the table below:
+
+			
+MAJOR END-MARKET
+	
+ 
+	
+MARKET
+	
+ 
+ 
+	
+ 
+	
+ 
+	
+ 
+AUTOMOTIVE
+	
+Infotainment
+	
+ 
+ 
+	
+Powertrain
+	
+ 
+ 
+	
+Body Electronics
+	
+ 
+ 
+	
+Safety and Security
+	
+ 
+ 
+	
+ 
+	
+ 
+COMMUNICATIONS & DATA CENTER
+	
+Base Stations
+	
+ 
+ 
+	
+Data Center
+	
+ 
+ 
+	
+Data Storage
+	
+ 
+ 
+	
+Desktop Computers
+	
+ 
+ 
+	
+Network & Datacom
+	
+ 
+ 
+	
+Notebook Computers
+	
+ 
+ 
+	
+Peripherals & Other Computer
+	
+ 
+ 
+	
+Server
+	
+ 
+ 
+	
+Telecom
+	
+ 
+ 
+	
+Other Communications
+	
+ 
+ 
+	
+ 
+	
+ 
+CONSUMER
+	
+Smartphones
+	
+ 
+ 
+	
+Digital Cameras
+	
+ 
+ 
+	
+Handheld Computers
+	
+ 
+ 
+	
+Home Entertainment & Appliances
+	
+ 
+ 
+	
+Wearables
+	
+ 
+ 
+	
+Other Consumer
+	
+ 
+ 
+	
+ 
+	
+ 
+INDUSTRIAL
+	
+Automatic Test Equipment
+	
+ 
+ 
+	
+Control & Automation
+	
+ 
+ 
+	
+Electrical Instrumentation
+	
+ 
+ 
+	
+Financial Terminals
+	
+ 
+ 
+	
+Medical
+	
+ 
+ 
+	
+Security
+	
+ 
+ 
+	
+USB Extension
+	
+ 
+ 
+	
+Other Industrial
+	
+ 
+
+Product Quality
+
+We employ a system addressing quality and reliability of our products from initial design through wafer fabrication, assembly, testing and final shipment. We have received ISO 9001, IATF16949 and ISO 14001 certifications for all wafer fabrication, assembly, final test and shipping facilities. Based on industry standard requirements, we conduct reliability stress testing on the products we manufacture and sell. Through this testing, we can detect and accelerate the presence of defects that may arise over the life of a product.
+
+Manufacturing
+
+We primarily utilize third party foundries as well as our own wafer fabrication facility for the production of our wafers. The broad range of products demanded by the analog integrated circuit market requires multiple manufacturing process technologies. As a
+
+6
+
+
+result, many different process technologies are currently used for wafer fabrication of our products. The majority of processed wafers are also subject to parametric and functional testing at either our facilities or third-party vendors.
+ 
+In fiscal year 2007, we entered into a supply agreement with Seiko Epson Corporation (“Epson”). In fiscal year 2010, we entered into a supply agreement with Powerchip Semiconductor Manufacturing Corp. (“Powerchip”) to provide 300mm wafer capacity. In fiscal year 2014, we entered into a supply agreement with UMC Corporation (“UMC”). In fiscal year 2016, we entered into a supply agreement with TowerJazz Texas, Inc. (formerly known as TJ Texas, Inc.) ("TowerJazz"), an indirect wholly-owned subsidiary of Tower Semiconductor Ltd. In fiscal year 2018, we ramped production at our most recently added partner foundry, Mie Fujitsu Semiconductor Limited (“MIFS”). MIFS was a joint venture between Fujitsu Semiconductor Ltd. and UMC that was wholly acquired by UMC and renamed United Semiconductor Japan Co., Ltd. (“USJC”) in 2019. Epson and USJC in Japan and UMC and Powerchip in Taiwan manufacture products for us under rights and licenses using our proprietary technology. In fiscal years 2020, 2019 and 2018, wafers manufactured by our partner foundries and merchant foundries (e.g., Taiwan Semiconductor Manufacturing Company Limited) represented 70%, 65% and 73% respectively, of our total wafer manufacturing.
+
+Once wafer manufacturing has been completed, wafers are sorted in order to determine which integrated circuits on each wafer are functional and which are defective. We currently perform the majority of wafer sorting, final testing and shipping activities at two company-owned facilities, located in Cavite, the Philippines and Chonburi Province, Thailand, although we also utilize independent subcontractors for some wafer sorting.
+
+We process wafers for products that utilize chip scale packaging (“CSP”), also known as wafer level packaging (“WLP”). CSP, or WLP, enables integrated circuits to be attached directly to a printed circuit board without the use of a traditional plastic package. Currently, all WLP processes are done externally.
+ 
+Integrated circuit assembly is performed by foreign assembly subcontractors, located in China, Japan, Malaysia, the Philippines, Taiwan, Thailand, Singapore, and South Korea, where wafers are separated into individual integrated circuits and assembled into a variety of packages.
+
+After assembly has been completed, a majority of the assembled products are shipped to our facilities located in Cavite, the Philippines or Chonburi Province, Thailand, where the packaged integrated circuits undergo final testing and preparation for customer shipment. In addition, we also utilize independent subcontractors to perform final testing.
+
+The majority of our finished products ship directly from either Cavite, the Philippines or Chonburi Province, Thailand to customers worldwide or to other Company locations for sale to end-customers or distributors.
+
+Customers, Sales and Marketing
+
+We market our products worldwide through a direct-sales and applications organization and through our own and other unaffiliated distribution channels to a broad range of customers in diverse industries. Our products typically require a sophisticated technical sales and marketing effort. Our sales organization is divided into domestic and international regions. Distributors and direct customers generally buy on an individual purchase order basis, rather than pursuant to long-term agreements.
+
+Certain distributors have agreements with us which allow for certain sales price rebates or price adjustments on certain inventory if we change the price of those products. Certain distributor agreements also permit distributors to exchange a portion of certain purchases on a periodic basis. As is customary in the semiconductor industry, our distributors may also market other products that compete with our products.
+
+We derived approximately 52% of our fiscal year 2020 revenue from sales made through distributors which includes distribution sales to Samsung and catalog distributors. Our primary distributor is Avnet Electronics ("Avnet") which accounted for 22%, 22% and 25% of our revenues in fiscal years 2020, 2019 and 2018, respectively. Avnet, like our other distributors, is not an end customer, but rather serves as a channel of sale to many end users of our products. Sales to Samsung, our largest single end customer (through direct sales and distributors), accounted for approximately 10% of net revenues in fiscal years 2019 and 2018. No single customer (other than Avnet and Samsung) nor single product accounted for 10% or more of net revenues in fiscal years 2020, 2019 and 2018. Based on customers’ ship-to locations, international sales accounted for approximately 89%, 89% and 88% of our net revenues in fiscal years 2020, 2019 and 2018, respectively. See Note 12: “Segment Information” in the Notes to Consolidated Financial Statements in Part IV, Item 15(a) of this Annual Report.
+
+
+7
+
+
+Seasonality
+ 
+
+Our revenue is generally influenced on a quarterly basis by customer demand patterns and new product introductions. A large number of our products have been incorporated into consumer electronic products, which are subject to seasonality and fluctuations in demand.
+
+Foreign Operations
+ 
+
+We conduct business in numerous countries outside of the United States (“U.S.”). Our international business is subject to numerous risks, including fluctuations in foreign currency exchange rates and controls, import and export controls, and other laws, policies, and regulations of foreign governments. Refer to our discussion of risks related to our foreign operations as included in Item 1A, Risk Factors and our discussion of foreign income included in Item 7 under “Results of Operations” included in this Annual Report. Refer to net revenues from unaffiliated customers by geographic region included in Note 12: “Segment Information” in the Notes to Consolidated Financial Statements in Part IV, Item 15(a) of this Annual Report.
+ 
+Backlog
+
+On June 27, 2020 and June 29, 2019, our current quarter backlog was approximately $496.4 million and $391.3 million, respectively. Our current quarter backlog includes customer request dates to be filled within the next three months. As is customary in the semiconductor industry, these orders may be canceled in most cases without penalty to customers. Accordingly, we believe that our backlog is not a reliable measure for predicting future revenues. All backlog amounts have been adjusted for estimated future distribution ship and debit pricing adjustments.
+
+Research and Development
+
+We believe that research and development is critical to our future competitiveness. Objectives for the research and development function include:
+
+	
+•
+	
+new product definition and development of differentiated products;
+	
+•
+	
+design of products with performance differentiation that achieve high manufacturing yield and reliability;
+	
+•
+	
+development of, and access to, manufacturing processes and advanced packaging;
+	
+•
+	
+development of hardware, software, and algorithms to support the acceptance and design-in of our products in the end customer's system; and
+	
+•
+	
+development of high-integration products across multiple end markets.
+
+Our research and development plans require engineering talent and tools for product definition, electronic design automation (“EDA”), circuit design, process technologies, test development, test technology, packaging development, software development and applications support. Research and development expenses were $440.2 million, $435.2 million and $450.9 million in fiscal years 2020, 2019 and 2018, respectively. See “Research and Development” under Item 7, Management's Discussion and Analysis of Financial Condition and Results of Operations, for more information.
+
+Competition
+
+The linear and mixed-signal analog integrated circuit industry is intensely competitive, and virtually all major semiconductor companies presently compete with, or conceivably could compete with, some portion of our business.
+
+We believe the principal elements of competition include:
+	
+•
+	
+technical innovation;
+	
+•
+	
+service and support;
+	
+•
+	
+time to market;
+	
+•
+	
+business, operational, marketing, and financial strategy;
+	
+•
+	
+differentiated product performance and features;
+	
+•
+	
+quality and reliability;
+	
+•
+	
+product pricing and delivery capabilities;
+	
+•
+	
+customized design and applications;
+	
+•
+	
+business relationship with customers;
+	
+•
+	
+experience, skill and productivity of employees and management; and
+	
+•
+	
+manufacturing competence and inventory management.
+
+8
+
+
+
+Our principal competitors include, but are not limited to, Analog Devices, Inc., Cirrus Logic, Inc., Monolithic Power Systems, Inc., NXP Semiconductors N.V., Semtech Corporation, Silicon Laboratories, and Texas Instruments Inc. We expect increased competition in the future from other emerging and established companies as well as through consolidation of our competitors within the semiconductor industry.
+
+Patents, Licenses and Other Intellectual Property Rights
+
+We rely upon both know-how and patents to develop and maintain our competitive position.
+
+It is our policy to seek patent protection for significant inventions that may be patented, though we may elect, in certain cases, not to seek patent protection even for significant inventions if other protection, such as maintaining the invention as a trade secret, is considered by us to be more advantageous. We hold a number of patents worldwide with expiration dates ranging from calendar year 2020 to 2039. We have also registered several of our trademarks and copyrights in the United States and other countries.
+
+Employees
+
+As of June 27, 2020, we employed 7,115 persons.
+
+Environmental Regulations
+
+Our compliance with foreign, federal, state, and local laws and regulations that have been enacted to regulate the environment has not had a material adverse effect on our capital expenditures, earnings, or competitive or financial position.
+
+Executive Officers
+
+For information regarding our current executive officers, see Part III, Item 10 of this Annual Report.
