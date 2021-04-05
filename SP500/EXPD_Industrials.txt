@@ -1,0 +1,657 @@
+Overview
+
+Expeditors International of Washington, Inc. (herein referred to as "Expeditors,” the "Company," "we," "us," "our") provides a full suite of global logistics services, offering customers a seamless international network of people and integrated information systems to support the movement and strategic positioning of goods. As a third party logistics provider, we purchase cargo space from carriers (such as airlines, ocean shipping lines, and trucking lines) on a volume basis and resell that space to our customers. We do not compete for overnight courier or small parcel business and do not own aircraft or ships.
+
+We provide a broad range of transportation services and customer solutions, such as customs brokerage, order management, time-definite transportation, warehousing and distribution, temperature-controlled transit, cargo insurance, specialized cargo monitoring and tracking, and other customized logistics and consulting solutions. In addition, our Project Cargo unit handles special project shipments that move via a single method or combination of air, ocean, and/or ground transportation and generally requires a high level of specialized attention because of the unusual size or nature of what is being shipped.
+
+Expeditors' primary services include:
+
+ 
+
+•
+
+Airfreight Services
+
+ 
+
+•
+
+Ocean Freight and Ocean Services
+
+ 
+
+•
+
+Customs Brokerage and Other Services
+
+Airfreight Services: Within airfreight, Expeditors typically acts either as a freight consolidator or as an agent for the airline that carries the shipment. Whether acting as a consolidator or agent, we offer our customers routing expertise, familiarity with local business practices, knowledge of export and import documentation and procedures, the ability to arrange for ancillary services and to assist with securing capacity during periods of high demand.
+
+Solutions within Airfreight Services include:
+
+Airfreight Consolidation: as an airfreight consolidator, Expeditors purchases cargo capacity from airlines on a volume basis and resells that space to our customers at lower rates than what those customers could negotiate directly from the airlines on an individual shipment. Expeditors determines the routing, consolidates shipments bound for a particular airport distribution point, and then selects the airline for transportation to the distribution point, where either we or one of our agents then arranges for the consolidated lot to be broken down into its component shipments and for the transportation of each individual shipment to its final destination.
+
+Airfreight Forwarding: as a freight forwarder, Expeditors receives and forwards individual, unconsolidated shipments, and arranges the transportation with the airline that carries the shipment.
+
+Ocean Freight and Ocean Services: Within ocean services, Expeditors offers three basic services: ocean freight consolidation, direct ocean forwarding, and order management:
+
+Ocean Freight Consolidation: as an ocean freight consolidator, Expeditors contracts with ocean shipping carriers to obtain transportation for a fixed number of containers between various points during a specified time period at agreed-upon rates. We handle both full container loads as well as Less-than Container Load (LCL) freight, offering a wider range of shipping options and rates than available with the
+
+3.
+
+ 
+
+carriers directly. We also generate fees for ancillary origin services such as the preparation of documentation to comply with local export and import laws.
+
+Direct Ocean Forwarding: when a customer contracts directly with the ocean carrier, Expeditors acts as that customer’s agent and we may receive a commission from the carrier in addition to customer handling fees and ancillary services.
+
+Order Management: Expeditors provides a range of order management services including consolidation of cargo from many suppliers in a particular origin into the fewest possible number of containers, putting more product into larger and fewer containers in order to maximize space, minimize cost and help our customers reduce their carbon footprint.
+
+Customs Brokerage and Other Services: Expeditors offers a range of custom solutions, including:
+
+Customs Brokerage Services: Expeditors helps importers clear shipments through customs by preparing required documentation, calculating and paying duties and other taxes on behalf of the importer, arranging for any required inspections by governmental agencies, and arranging for local pickup, storage and delivery. Such services can include review of commercial documentation, assessment of information regarding value, country of origin, special trade programs, and classification. Our target market is primarily comprised of customers looking to reduce the number of brokers utilized globally; those looking to improve compliance and reporting; and those seeking opportunities to participate in special trade-incentive programs.
+
+Transcon: Expeditors' Transcon consists of multi-modal, intra-continental ground transportation and delivery services and includes value-added, white glove, and time-definite services.
+
+Warehousing and Distribution Services: Expeditors’ distribution and warehousing services include distribution center management, inventory management, order fulfillment, returns programs, and other value-added services. Our warehousing services are offered primarily in leased facilities utilized by multiple customers. Customers benefit from cost savings related to space, labor, equipment and other efficiencies delivered in a transactional pricing model.
+
+Coronavirus (COVID-19) impact on our business
+
+The COVID-19 pandemic has significantly affected our business operations for the year ended December 31, 2020, and we expect these disruptive conditions to continue into 2021. At this time, the main elements of its impact on our business are summarized below:
+
+ 
+
+•
+
+Governments have designated our operations as essential business in all regions where we operate because of our important role in supply chains operations worldwide. As such, our districts continue to serve our customers while operating within the regulations established in those countries.
+
+ 
+
+•
+
+We activated our global business continuity plan in the first quarter of 2020 and are continuing to operate under this plan. Our business continuity plan includes measures to protect and safeguard the health of our employees and service providers, such as sanitization of our facilities, providing protective equipment to employees, restricting travel and requiring all employees to work remotely if they are able to. Our plan includes measures to minimize adverse impacts to our operations and those of our customers’ businesses. We have identified areas of the supply chain process that can be supported remotely and through automation, and those that require physical operations and handling. We continue to monitor the continuously rapidly changing situation and adjust our actions, as needed, based on recommendations from governments and local and national health authorities. Subsequent to the first quarter of 2020, we deployed a global recovery plan regionally following local regulations. Our recovery plan is intended to allow employees to gradually and safely move back into offices when health risks subside and governments around the world lift restrictions. Our districts around the world are at different phases of the recovery plan depending on local conditions.
+
+ 
+
+•
+
+Travel restrictions, government mandated lockdowns and additional precautionary measures resulted in business and supply chain disruption, and limited operations in China in the first quarter of 2020, and worldwide starting in March 2020, resulting in sharp decreases in international trade. We have also seen a shift in the goods we handle with a substantial portion of shipments comprising of technology products to support social distancing and working remotely, and to a lesser degree, medical equipment and supplies. In contrast, we have seen significant declines in shipments from our customers in the aerospace, automotive, oil and energy and certain portions of the retail sectors. With the exception of airfreight exports out of North Asia and ocean exports from South Asia, declines in freight volumes have negatively impacted our results of operations for the year ended December 31, 2020, especially in the first three quarters of the year.
+
+ 
+
+•
+
+The above disruptions are threatening the financial stability of our service providers and our ability to efficiently route customer freight. Reduced passenger flight schedules and cancellations have significantly impacted available belly space, limiting our ability to utilize space under our existing capacity agreements with carriers and requiring us to buy space in a tight airfreight market and utilize chartered planes. Subsequent to the first quarter of 2020, there was limited airfreight space capacity, combined with high global demand for shipping Personal Protective Equipment (PPE), medical equipment and supplies and technology products, which created such an imbalance that buy rates increased to unprecedented levels, in particular on
+
+4.
+
+ 
+
+ 
+
+exports out of North Asia. Most ocean carriers continued to manage their capacity according to market demand through most of the year and experienced excess demand compared to available capacity in the fourth quarter. These freight market conditions create pricing volatility that further challenges Expeditors’ ability to maintain historical unitary profitability.
+
+ 
+
+•
+
+Many of our customers are experiencing disruptions in their revenue and cash flow, including an increased number of bankruptcies, prompting these customers to attempt to renegotiate contractual terms and increasing our accounts receivable collection risk. The growth in our accounts receivable and consequently customer credit exposure have also increased as a result of historically high freight rates. We have continued to apply our established credit control procedures and collection monitoring that have historically been effective in limiting credit losses. These conditions could result in the loss of business and additional bad debt allowances in the future if our customers’ ability to pay further deteriorates.
+
+ 
+
+These conditions are expected to continue into 2021. We are unable to predict how these uncertainties and any future disruptions, such as the urgent distribution of COVID-19 vaccines, will affect our future operations or financial results. A prolonged recession in the global economy and slowdown in trade would negatively affect our operations in the future.
+
+ 
+
+Revenues
+
+The following chart shows our 2020 revenues by service type:
+
+
+
+ 
+
+The Expeditors Network
+
+Beginning in 1981, Expeditors’ primary business focus was on airfreight shipments from Asia to the United States and related customs brokerage and other services. In the mid-1980’s, we began to expand our service capabilities in airfreight, ocean freight and distribution services. Today Expeditors has approximately 17,500 employees and provides a complete range of global logistics services to a diversified group of customers, both in terms of industry specialization and geographic location. As opportunities for profitable growth arise, we plan to
+
+5.
+
+ 
+
+open new offices. While Expeditors has historically expanded through organic growth, we have also been open to growth through acquisition of, or establishing joint ventures with existing agents or others within the industry.
+
+At January 31, 2021, Expeditors, including its majority-owned subsidiaries, is organized functionally in geographic operating segments and operates district offices in the regions identified below. Our district offices have been established in locations where Expeditors maintains unilateral control over assets and operations and where the existence of the parent-subsidiary relationship is maintained by means other than record ownership of voting stock.
+
+Expeditors operates 176 district offices in the following geographic areas of responsibility:
+
+ 
+
+•
+
+Americas (70)
+
+ 
+
+•
+
+North Asia (21)
+
+ 
+
+•
+
+South Asia (16)
+
+ 
+
+•
+
+Europe (45)
+
+ 
+
+•
+
+Middle East, Africa and India (24)
+
+We also maintain branch offices, which are aligned with and dependent on one district office. Additionally, we contract with independent agents to provide required services and have established 38 such relationships worldwide.
+
+Our Strategy
+
+Expeditor’s strategic plan is to achieve long-term, sustainable and profitable growth by focusing on the right markets and, within each market, on the right customers. Our teams are aligned on the specific markets of these focused priorities; on the targeted accounts within those markets; and on ways that we can continue to differentiate ourselves from our competitors. In 2020, in light of recent market disruptions, including the impact of the COVID-19, we reviewed and refreshed our strategy to focus on four key strategic initiatives going forward:
+
+ 
+
+1.
+
+Ensure that base-line strategies for air, ocean and customs services for every district office and region lead to growth at the relevant market rates, profits and volumes by services.
+
+ 
+
+2.
+
+Grow our business services into and out of Europe, with particular focus on certain defined markets beyond our base-line growth expectations.
+
+ 
+
+3.
+
+Continue to leverage our long and deeply entrenched presence in China - as well as the reputation that we have with the strategic carriers servicing China - to build a stronger customs brokerage and in-country presence. Our main focus remains on developing and integrating our customs systems, expertise and talent, and making investments that enhance and improve our import brokerage infrastructure and our ability to provide local delivery and support services in China.
+
+ 
+
+4.
+
+Grow our customs brokerage offering in South Asia and India by leveraging our strength and expertise in customs brokerage services and developing critical talent, processes and tools.
+
+Our Chief Strategy Officer continues to oversee all strategy within Expeditors, with a deep focus on exploring new avenues for innovation, differentiation and expansion.
+
+Global Logistics and Supply Chain Technology
+
+Expeditors has long believed that it is a competitive advantage to focus on organic growth and to utilize a single enterprise technology platform designed and built by logistics technology professionals for logistics professionals. Our technology platform is built on principles of innovation, agility, collaboration, performance and consistency across the Expeditors global network to meet diverse and complex global logistics and supply chain needs. The platform is comprised of proprietary, third party and open source technologies. We utilize a globally consistent infrastructure supporting both centralized and distributed technology strategies that incorporate security, disaster recovery and high availability.
+
+Expeditors’ technology platform is designed, coded, tested and implemented by the collaborative efforts of our logistics industry and information technology professionals. Internally developing, maintaining and enhancing technology capabilities is in keeping with Expeditors' long-held belief that it not outsource core functions, with information systems being one of those core functions.
+
+We are not dependent on third parties for developing or enhancing our core technology platforms to address our needs or those of our customers. We continuously monitor emerging technologies for potential applicability to our business. Expeditors also believes that having a single, uniform, globally-connected platform driving logistics operations and providing comprehensive visibility and advanced analytics creates greater efficiency and value, particularly as the value of timely data and insights into that data are increasingly important. We are continually enhancing our systems, including significant upgrades to core operating and accounting systems.
+
+6.
+
+ 
+
+Organic Versus Acquired Growth
+
+As a knowledge-based global provider of logistics services, we have often concluded over the course of our history that it is better to grow organically rather than by acquisition. However, when we have made acquisitions, it has generally been to obtain technology, geographic coverage or specialized industry expertise that could be leveraged to benefit our entire network. In May 2020, we acquired a less-than-truckload digital online shipping platform that aligns with our focus on enhancing our digital solutions.
+
+Tailored Solutions
+
+As a non-asset based logistics services provider, we have considerable flexibility to tailor customer-specific solutions. By understanding a customer's logistics and supply chain processes, strategies, and objectives, we identify targeted areas of opportunity for improvement, and deploy the right services and solutions for that customer. These services include our core offerings of transportation, customs clearance, warehousing and distribution, and order management, along with expertise in supply chain analysis and optimization, trade compliance consulting, cargo insurance, cargo security, and solutions for oversized and heavy-lift freight. We offer these services across the globe on a single technology platform, in conjunction with consistent and efficient operational processes that adhere to the highest standards of compliance while focusing on the individual needs of each customer.
+
+Because Expeditors is in the business of optimizing customer logistics and supply chains, we focus our sales strategies and efforts on professionals in logistics and supply chain management roles. While we drive our sales strategies at a global level, district management of each office is responsible for its own business development, operations, and service execution. All employees are responsible for customer service and retention.
+
+Leveraging Global, Regional and Local Expertise
+
+At Expeditors, we create strategy, process, technology and compliance programs at the corporate level, in order to drive consistency across all levels of the organization. We leverage regional and local expertise by staffing our districts principally with local managers and personnel who are from the regions in which they operate and who have extensive experience in logistics, coupled with a deep understanding of their local market. District offices are responsible for selling and executing Expeditors' services directly to customers and prospects and are involved in the selection of logistics service providers, in addition to ensuring that customers receive timely and effective services. Defining our strategy at a global level while executing it at a regional and local level with customized supply chain solutions enables us to drive consistency and efficiency. We believe that focus on hiring and developing a diverse and talented workforce with an emphasis on exceptional customer service, along with our incentive-based compensation program, enables us to provide exceptional service and superior financial results.
+
+What Expeditors Ships
+
+The goods that Expeditors handles are generally a function of the products that dominate international trade between any particular origin and destination. These goods include products from multiple industries, including electronics, high technology, healthcare, aerospace and aviation, manufacturing, oil and energy, automotive, retail and fashion. In order to meet customers' complex and industry-specific demands, we utilize industry vertical teams throughout our network that focus on providing tailored solutions to different industries. Industry vertical teams work closely with our regional and district resources to grow our business. No single customer accounts for five percent or more of our revenues.
+
+Expeditors' Services in Detail
+
+The following describes in more detail the operations of each of Expeditors’ services:
+
+Airfreight Services
+
+Airfreight services accounted for approximately 47, 36 and 40 percent of Expeditors' total revenues in 2020, 2019 and 2018, respectively. When performing airfreight services, we typically act either as a freight consolidator or as an agent for the airline that carries the shipment. When acting as a freight consolidator, we purchase cargo capacity from airlines on a volume basis and resell that space to our customers at lower rates than they could obtain directly from airlines on an individual shipment. We then issue a House Airway Bill (HAWB) to our customers as the contract of carriage and, separately, we receive a Master Airway Bill from the airline when the freight is physically tendered. When moving shipments between points where the nature or volume of business does not facilitate consolidation, we receive and forward individual shipments as the agent of the airline that carries the shipment. Whether acting as a consolidator or agent, we offer our customers expertise for optimum routing, familiarity with local business practices, knowledge of export and import documentation and procedures, the ability to arrange for ancillary services, and assistance with securing capacity during periods of high demand.
+
+In our airfreight operations, we receive shipments from our customers, determine the routing, consolidate shipments bound for a particular airport distribution point, and select the airline for transportation to the distribution point. At the distribution point, either we or an Expeditors'
+
+7.
+
+ 
+
+agent arranges for the consolidated lot to be broken down into its component shipments and for the transportation of the individual shipments to their final destinations.
+
+We estimate that our average airfreight consolidation weighs approximately 3,500 pounds and that a typical consolidation includes merchandise from several shippers. Because shipment by air is relatively expensive compared with ocean transportation, air shipments are generally characterized by a high value-to-weight ratio, the need for rapid delivery, or both.
+
+At the origin, Expeditors typically delivers shipments from one of our warehouses to the airline after consolidating the freight into containers or onto pallets. Normally that shipment will then arrive at the destination distribution point within 48 hours from the point of origin. During periods of high demand, available cargo capacity from the scheduled air carriers can be limited and backlogs of freight shipments may occur. When these conditions exist, we may charter aircraft to meet customer demand. In 2020, as a result of the decline in passenger aircraft capacity availability we have greatly increased our usage of chartered aircrafts. We expect to continue to utilize charted aircrafts until such time as passenger air traffic returns to historic levels.
+
+Expeditors consolidates individual shipments based on weight and volume characteristics in cost-effective combinations. Typically, as the weight or volume of a shipment increases, the cost that we charge per pound/kilo or cubic inch/centimeter decreases. The rates charged by airlines also generally decrease as the weight or volume of the shipment increases. As a result, by aggregating shipments and presenting them to an airline as a single shipment, we are able to obtain a lower rate per pound/kilo or cubic inch/centimeter than what is charged for an individual shipment, while generally offering the customer a lower rate than could be obtained directly from the airline for an unconsolidated shipment.
+
+Our airfreight revenues less directly related costs of transportation and other expenses for a consolidated shipment include the differential between the rate that the airline charges Expeditors and the rate that we, in turn, charge our customers, in addition to commissions that the airline pays us and fees that we charge our customers for ancillary services. Such ancillary services we provide include preparation of shipping and customs documentation, packing, crating, insurance services, negotiation of letters of credit, and the preparation of documentation to comply with local export laws.
+
+Expeditors' management believes that owning aircraft would subject us to undue business risks, including large capital outlays, increased fixed operating expenses, exposure to volatile fuel prices, problems of fully utilizing aircraft and competition with our service providers - the airlines. Because we rely on commercial airlines to transport our shipments, our business may be adversely affected by changes in carrier financial stability, policies and practices such as pricing, payment terms, scheduling, capacity and frequency of service.
+
+Many air carriers remain highly leveraged with debt and incurred historic operating losses in 2020. As a result, carriers are facing liquidity challenges exacerbated by the global pandemic and are seeking relief under various government support programs. In particular air carriers are experiencing significant cash flow challenges as a result of passenger flights cancellations. Uncertainty over recovery of demand for passenger air travel compared to pre-pandemic levels may impact air carriers’ operations and financial stability long term. This environment requires that we be selective in determining which carriers to utilize. Carriers' financial results will continue to drive their asset acquisition and deployment strategies, which will impact airfreight pricing and capacity. Most of Expeditors' customers are focused on improving supply-chain efficiency, reducing overall logistics costs by negotiating lower rates and utilizing ocean freight whenever possible. Certain customers are increasingly utilizing airfreight to improve speed to market. We expect these trends to continue in conjunction with carriers' efforts to manage available capacity and the evolution of consumer purchasing behavior, such as online shopping. Changes in available capacity, periods of high demand, or other market disruptions could impact our buy and sell rates and challenge our ability to maintain historical unitary profitability.
+
+Ocean Freight and Ocean Services
+
+Ocean freight services accounted for approximately 23, 27 and 28 percent of Expeditors' total revenues in 2020, 2019 and 2018, respectively. We operate Expeditors International Ocean, Inc. (EIO), an Ocean Transportation Intermediary, sometimes referred to as a Non-Vessel Operating Common Carrier (NVOCC), which specializes in ocean freight services in most major trade lanes in the world. EIO also provides service, on a smaller scale, to and from any location where we have an office or an agent. Ocean freight services are comprised of three basic services: ocean freight consolidation (EIO), direct ocean forwarding and order management.
+
+Ocean freight consolidation: As an NVOCC, EIO contracts with ocean shipping lines to obtain transportation for a fixed number of containers between various points during a specified time period at an agreed rate. EIO provides full container load services to companies that need flexibility and access to vessel capacity that they may not necessarily achieve by dealing directly with the shipping lines. Additionally, EIO supports customers that prefer to supplement their carrier strategy with an NVOCC. EIO also leverages the Expeditors global gateway network for the movement of LCL freight for customers needing to ship smaller consignments via ocean. EIO issues a House Ocean Bill of Lading (HOBL) or a House Seaway Bill to customers as the contract of carriage and receives a separate Master Ocean Bill of Lading (MOBL) when freight is physically tendered. Revenues from fees charged to customers for ancillary services that EIO may provide include the preparation of
+
+8.
+
+ 
+
+shipping and customs documentation, packing, crating, insurance services, and the preparation of documentation to comply with local export and import laws.
+
+Direct ocean forwarding: When the customer contracts directly with the ocean carrier, EIO acts as an agent of the customer and derives its revenues from commissions paid by the ocean carrier and handling fees paid by the customer. In such arrangements, EIO does not issue a HOBL or House Seaway Bill. Rather, the carrier issues a MOBL directly to the customer who employs EIO to create documentation, manage shipment information and arrange various services to facilitate the shipment of goods. The MOBL shows the customer as the shipper.
+
+Order management: Order management provides services that manage origin consolidation, supplier performance, carrier allocation, carrier performance, container management, document management, delivery management and Order/SKU visibility through our web-based portal. Customers have the ability to monitor and report against near real-time status of orders from the date of creation through final delivery. Item quantities, required ship dates, required delivery dates, commodity descriptions, estimated vs. actual ex-factory dates, container utilization, document creation and visibility are many of the managed functions that are visible and reportable via our web-based portal. Order management is available for various modes of transportation, including ocean, air, truck and rail. Order management revenues are derived from services provided to the shipper, as well as management fees associated with managing order execution against customer specific rules. One basic function of order management involves arranging cargo from many suppliers in a particular origin and “consolidating” these shipments into the fewest possible number of containers to maximize space utilization and minimize cost. Through origin consolidation, customers can reduce the number of containers shipped by putting more product in larger and fewer containers.
+
+Prior to 2020, many ocean carriers incurred substantial operating losses, and are still highly leveraged with debt. Multiple carrier acquisitions and alliances have occurred and certain carriers are entering into traditional freight forwarding services as they pursue scale and additional market share in an effort to improve profitability. Ocean carriers have improved their management of capacity relative to demand in recent years. Currently, demand exceeds capacity in certain lanes. Demand for ocean transportation increased sharply in the second half of 2020, resulting in severe ports congestion, in particular on transpacific lanes. This has created new operational challenges for carriers including their ability to maintain sailing schedules. Carriers also face new regulatory requirements that became effective in 2020, requiring reductions in the sulfur in marine fuel, which are increasing their operating and capital costs. Consequently, when the market goes through seasonal peaks or any sort of disruption and demand exceeds supply, the carriers react by increasing their pricing as quickly as possible to offset their previous losses. This carrier behavior, along with fluctuations in demand, creates pricing volatility that could impact Expeditors' ability to maintain historical unitary profitability.
+
+Expeditors’ pricing is based on contract negotiations each year with our global carrier partners. Our pricing model is flexible. We purchase based on customer needs, and our carrier strategy determines our volume and pricing commitments. Fixed pricing arrangements are entered into for a portion of our forecasted commitments, while spot market pricing arrangements are typically negotiated at the regional and local levels.
+
+We offer our customers a wide carrier footprint globally to meet their changing needs. With fewer global carriers than in the past, maintaining close relationships with our carrier partners allows us to meet our customers’ space requirements throughout the year, including during peak periods.
+
+Customs Brokerage and Other Services
+
+Customs brokerage and other services accounted for approximately 30, 37 and 32 percent of Expeditors' total revenues in 2020, 2019 and 2018, respectively. As a customs broker, we assist our customers in clearing shipments through customs by preparing and transmitting required information and documentation, calculating and providing for payment of duties and other taxes on behalf of the importer, arranging required inspections by governmental agencies, and providing delivery services. We provide customs brokerage services in conjunction with transportation services or independently. Expeditors supports regulatory compliance and visibility to the supply chain through process and system controls, technology and oversight by licensed and trained professionals. We offer a customized, solutions-based approach to our customers, based on the complexity of their business. Our pricing reflects this complexity and scope, in addition to the number of declarations filed.
+
+We also provide other value added services within our network, such as warehousing and distribution, Transcon and consulting services. Expeditors' distribution and warehousing services include distribution center management, inventory management, order fulfillment, returns programs and industry-specific, value-added services. Our warehousing services are offered primarily in leased facilities utilized by multiple customers. Customers benefit from cost savings related to space, labor, equipment and other efficiencies delivered in a transactional pricing model. Expeditors' Transcon consists of multi-modal, intra-continental ground transportation and delivery services and includes value-added, white glove, and time-definite services. Expeditors responds to customer-driven requests for trade compliance consulting services, primarily through Tradewin. Fees for these non-transactional services are based upon hourly billing rates and bids for mutually agreed projects.
+
+9.
+
+ 
+
+Human Capital
+
+Opportunities for employees and positive work environment
+
+Expeditors’ most important asset is its employees. The cornerstone of our company culture is the professional growth and development of our employees. From the inception of our company, management has inherently understood that the elements required for a successful global service organization can only be assured through recruiting, training and ultimately retaining knowledgeable and experienced personnel. We believe that our greatest challenge is now, and always has been, perpetuating a consistent global corporate culture that requires:
+
+ 
+
+•
+
+Total dedication to providing superior customer service;
+
+ 
+
+•
+
+Compliance with our policies and procedures and government regulations;
+
+ 
+
+•
+
+A positive, safe work environment that is diverse, inclusive and free from discrimination and harassment;
+
+ 
+
+•
+
+Ongoing mentoring and development of key employees and management personnel;
+
+ 
+
+•
+
+Creation of unlimited advancement opportunities for employees dedicated to hard work, personal growth and continuous improvement with a focus on promotion from within;
+
+ 
+
+•
+
+Individual commitment to the identification and mentoring of successors for every key position so that when change occurs, a qualified and well-trained internal candidate is ready to step forward;
+
+ 
+
+•
+
+Continuous identification, design and implementation of system solutions and differentiated service offerings, both technological and otherwise, that place employees in a position to be successful in meeting and exceeding the needs of customers; and
+
+ 
+
+•
+
+Focus on developing processes and technological solutions that maximize the engagement, efficiency and effectiveness of our employees.
+
+We believe in creating and maintaining a positive work environment for employees. That commitment is supported by policies designed to promote fairness and equitable treatment and our supervisors and managers are charged with the responsibility of setting positive examples and providing mentoring with a focus on the importance of compliance. We promote equal employment opportunity and have policies that expressly prohibit unacceptable behaviors, including harassment, intimidation or discrimination of any kind based on race, sex, sexual orientation, gender identity, gender expression, marital status, age, color, religion, creed, national origin, disability, veteran status or any other characteristic protected under applicable law.
+
+To protect our employees we are committed to maintaining secure business operations globally by following our well-established security standards, maintained and deployed by our Health and Safety team, as well as applicable health and safety laws and regulation. We have mechanisms in place to report accidents, injuries and unsafe working conditions.
+
+As a knowledge-based organization we focus on employees’ professional development through regular performance reviews and training, including mandatory trainings related to compliance; ethics, health and security; specific certifications where required to perform certain duties; supervising skills and development of succession plans of key employees.
+
+Compensation and retention
+
+We reinforce these values with a compensation system that rewards employees for profitably managing the things they can control. This incentive-based compensation system has been in place since we became a publicly traded company. There is no limit to how much a key employee can earn for success. We believe in a “real world” environment where the employees of our operating units are held accountable for the profit implications of their decisions. If these decisions result in operating losses, management generally must make up these losses with future operating profits, in the aggregate, before any cash incentive compensation can be earned. Executive management, in limited circumstances, makes exceptions at the branch operating unit level. At the same time, our policies, processes and relevant training focus on such things as cargo management, risk mitigation, compliance, sound business decisions, accounts receivable collection, cash flow and credit soundness in an attempt to help managers avoid the kinds of errors that might end a career. To retain the services of highly qualified, experienced, and motivated employees, we place considerable emphasis on our incentive based compensation programs.
+
+Since our business is service-based, we believe that employee retention remains critical to our long-term success. To that end and true to our company culture, we have traditionally not laid off employees when we have encountered challenging downturns or economic uncertainty. For example, in 2008-2009, the last time we witnessed a significant downturn in our industry, we adopted a “no lay off” policy because we knew business would come back at some point in the future and that we would need these employees to execute and grow our business. Looking back on that decision, we know it was the right thing to do for both our employees and our business. During that time, we redeployed employees to analyze and improve our operational processes and work on strategic projects. In 2020 during the early stages of the pandemic, we again adopted a “no lay off” policy for many of the same reasons as in 2008-2009.
+
+10.
+
+ 
+
+We evaluate our ability to engage and retain employees by monitoring turnover rates, percentage of positions filled internally, and by regularly conducting employee satisfaction surveys to identify opportunities where we can improve.
+
+Geographically diverse workforce
+
+At December 31, 2020, Expeditors employed approximately 17,500 people, of which approximately 11,300 were employed in international locations. We believe that focus on hiring and developing a diverse and talented workforce coupled with our incentive-based compensation program, enables us to provide exceptional service and superior financial results. We need to leverage regional and local expertise by staffing our districts principally with local managers and personnel who are from the regions in which they operate and who have extensive experience in logistics, coupled with a deep understanding of their local market. This results in a highly talented, inclusive and multi-cultural global workforce that reflects the diverse regions that we serve. Because our business involves shipments between districts and typically touches more than one geographic area, our success requires a high degree of communication and cooperation among our employees globally. District Managers are key individuals in our Company as sales, operational execution and business and expenditure decisions necessary to service our customers are the responsibility of management at each district. The vast majority of our employees are based in our operational districts, geographically distributed as shown below. We have summarized the number of employees based on individual headcount as of December 31, 2020 as follows:
+
+ 
+
+ 
+
+ 
+
+Employee Count as of December 31,
+
+ 
+
+ 
+
+ 
+
+2020
+
+ 
+
+North America
+
+ 
+
+ 
+
+6,490
+
+ 
+
+Europe
+
+ 
+
+ 
+
+3,460
+
+ 
+
+North Asia
+
+ 
+
+ 
+
+2,360
+
+ 
+
+South Asia
+
+ 
+
+ 
+
+1,540
+
+ 
+
+Middle East, Africa and India
+
+ 
+
+ 
+
+1,490
+
+ 
+
+Latin America
+
+ 
+
+ 
+
+760
+
+ 
+
+Information Systems
+
+ 
+
+ 
+
+1,010
+
+ 
+
+Corporate
+
+ 
+
+ 
+
+370
+
+ 
+
+Total
+
+ 
+
+ 
+
+17,480
+
+ 
+
+ 
+
+Competition
+
+The global logistics services industry is intensely competitive and is expected to remain so for the foreseeable future. There are a large number of companies competing in one or more segments of the industry, but the number of firms with a global network that offer a full complement of logistics services is more limited. Certain ocean carriers are entering into traditional freight forwarding services as they pursue scale and additional market share in an effort to reduce operating costs and regain their financial footing. Further, there are new technology-based competitors entering the industry. Some of our competitors have significantly more resources than Expeditors. Depending on the location of the shipper and the importer, Expeditors must compete against both the niche players and larger entities. The industry continues to experience consolidations into larger firms striving for stronger and more complete multinational and multi-service networks. However, regional and local competitors still maintain a strong presence in certain markets.
+
+The primary competitive factors in the global logistics services industry continue to be price and quality of service, including reliability, responsiveness, expertise, convenience and scope of operations. Expeditors emphasizes quality customer service, underscored by a strong commitment to compliance, and believes that our prices are competitive with the prices of others in the industry.
+
+Larger customers utilize the services of multiple logistics providers and implement sophisticated and efficient procedures for the management of their logistics and supply chains by embracing strategies such as just-in-time delivery, network optimization, transportation flow optimization, and process improvement. Accordingly, timely and accurate information integrated into customer service capabilities is a significant factor in attracting and retaining customers. This information integrated into customer service capabilities includes customized Electronic Data Interchange (EDI) and Application Program Interfaces (API), online freight tracing and tracking applications, customized reporting, data analytics, and solution modeling/simulation/optimization.
+
+Furthermore, COVID-19 has had a profound impact on a large number of customers across different industries, and many companies are now exploring options to build a strategy around supply chain resiliency, agility, sourcing, and inventory optimization.
+
+11.
+
+ 
+
+Expeditors' management believes that the ability to develop and deliver innovative solutions to meet our customers’ increasingly sophisticated supply chain requirements is a critical factor in our ongoing success. We devote a significant amount of resources towards the maintenance and enhancement of technology and digital solutions in order to meet these customer demands. Management believes that our existing systems are competitive with the systems currently in use by other logistics services companies with which we compete.
+
+Unlike many of our competitors, who have tended to grow by merger and acquisition, Expeditors operates the same transportation and accounting systems, running on a common hardware platform, in all of our full-service locations. Small and middle-tier competitors, in general, do not have the resources available to develop these customized systems. Historically, growth through aggressive acquisition has proven to be a challenge for many of our competitors and typically involves the purchase of significant “goodwill.” As a result, Expeditors has pursued a strategy emphasizing organic growth supplemented by certain strategic acquisitions.
+
+Our ability to attract, retain, and motivate highly qualified personnel with experience in global logistics services is an essential, if not the most important, element of Expeditors' ability to compete in the industry. To this end, we have adopted incentive compensation programs that make percentages of an operating unit's revenues and operating income available to managers for distribution among key personnel. We believe that these incentive compensation programs, combined with our experienced personnel and our ability to coordinate global marketing and business development efforts, provide a distinct competitive advantage.
+
+Currency and Dependence on Service Providers
+
+Our worldwide operations require that we transact in a multitude of currencies other than the U.S. dollar. That exposes us to the inherent risks of volatile international currency markets and governmental interference. Some of the countries where we maintain offices and/or have agency relationships maintain strict currency control regulations that influence our ability to hedge foreign currency exposure. We try to compensate for these exposures by accelerating international currency settlements among our offices or agents.
+
+In addition, our ability to provide services to our customers is highly dependent on good working relationships with a variety of entities, including airlines, ocean carrier lines, ground transportation providers and governmental agencies. The significance of maintaining acceptable working relationships with these entities has gained increased importance as a result of the effect of the pandemic, ongoing concern over terrorism, security, changes in governmental regulation and oversight of international trade. We use a consistent approach in selecting and managing service providers across all of our product offerings, beginning with a rigorous qualification and risk-based diligence process. We select and engage with best-in-class, compliance-focused, efficiently run, growth-oriented partners, based upon defined value elements and are intentional in our relationship and performance management activity, reinforcing success by awarding service providers who consistently achieve at the highest levels with additional business. We consider our current working relationships with these entities to be satisfactory. However, changes in the financial stability and operating capabilities and capacity of asset-based carriers, capacity allotments available from carriers, governmental regulation or deregulation efforts, modernization of the regulations governing customs brokerage, and/or changes in governmental restrictions, quota restrictions or trade accords could affect our business in unpredictable ways.
+
+Seasonality
+
+Historically, our operating results have been subject to seasonal demand trends, with the first quarter being the weakest and the third and fourth quarters being the strongest; however, there is no assurance that this seasonal trend will occur in the future or to what degree it will continue to be impacted by the pandemic. This historical pattern has been the result of, or influenced by, numerous factors, including weather patterns, national holidays, consumer demand, new product launches, economic conditions, pandemics, governmental policies, and inter-governmental disputes and a myriad of other similar and subtle forces. We cannot accurately forecast many of these factors, nor can we estimate accurately the relative influence of any particular factor and, as a result, there can be no assurance that historical patterns will continue in future periods.
+
+12.
+
+ 
+
+Information about our Executive Officers
+
+The following table sets forth the names, ages, and positions of current executive officers of our company.
+
+ 
+
+Name
+
+ 
+
+Age
+
+ 
+
+Position
+
+Jeffrey S. Musser
+
+ 
+
+55
+
+ 
+
+President, Chief Executive Officer and Director
+
+Eugene K. Alger
+
+ 
+
+60
+
+ 
+
+President, Global Services
+
+Daniel R. Wall
+
+ 
+
+52
+
+ 
+
+President, Global Products
+
+Richard H. Rostan
+
+ 
+
+64
+
+ 
+
+President, Global Geographies and Operations
+
+Bradley S. Powell
+
+ 
+
+60
+
+ 
+
+Senior Vice President and Chief Financial Officer
+
+Christopher J. McClincy
+
+ 
+
+46
+
+ 
+
+Senior Vice President and Chief Information Officer
+
+Benjamin G. Clark
+
+ 
+
+52
+
+ 
+
+Senior Vice President, Chief Strategy Officer
+
+Jeffrey F. Dickerman
+
+ 
+
+45
+
+ 
+
+Senior Vice President, General Counsel and Corporate Secretary
+
+ 
+
+Jeffrey S. Musser joined Expeditors in February 1983 and was promoted to District Manager in October 1989. Mr. Musser was elected to Regional Vice President in September 1999, Senior Vice President - Chief Information Officer in January 2005 and to Executive Vice President and Chief Information Officer in May 2009. On December 19, 2013, Mr. Musser was appointed as President and Chief Executive Officer and was elected by the Board of Directors as a director, effective March 1, 2014.
+
+Eugene K. Alger joined Expeditors in October 1981 and was promoted to District Manager in May 1982. Mr. Alger was elected Regional Vice President in January 1992, Senior Vice President of North America in September 1999 and Executive Vice President - North America in March 2008. In June 2014, Mr. Alger was promoted to Executive Vice President - Global Services. In August 2015, Mr. Alger was promoted to President, Global Services.
+
+Daniel R. Wall joined Expeditors in March 1987 and was promoted to District Manager in May 1992 and Global Director-Account Management in March 2002. Mr. Wall was elected Vice President - ECMS in January 2004 and Senior Vice President - Ocean Services in September 2004. In June 2015, Mr. Wall was appointed as President, Global Products.
+
+Richard H. Rostan joined Expeditors in August 1985 and was promoted to District Manager in March 1987, Regional Vice President in January 1993, Senior Vice President of Global Distribution in July 2012 and Senior Vice President, Americas in January 2015. Mr. Rostan was promoted to Executive Vice President, Americas in July 2015. Mr. Rostan was promoted to President of Global Geographies and Operations, effective February 28, 2017.
+
+Bradley S. Powell joined Expeditors as Chief Financial Officer in October 2008 and was elected Senior Vice President and Chief Financial Officer in February 2012. Prior to joining Expeditors, Mr. Powell served as President and Chief Financial Officer of Eden Bioscience Corporation, a publicly-traded biotechnology company, from December 2006 to September 2008 and as Vice President and Chief Financial Officer from July 1998 to December 2006.
+
+Christopher J. McClincy joined Expeditors in July 1998 and was promoted to Vice President - Information Services in April 2009. In February 2014, Mr. McClincy was promoted to Senior Vice President and Chief Information Officer.
+
+Benjamin G. Clark joined Expeditors in February 2015 as Senior Vice President and General Counsel, was appointed Corporate Secretary in May 2015 and was appointed to Chief Strategy Officer in January 2020. From January 2014 until joining Expeditors, Mr. Clark served as Executive Vice President and General Counsel of the Dematic Group, a global provider of intelligent intralogistics and materials handling solutions. Prior to his experience with Dematic, Mr. Clark spent four years as the Vice President and Deputy General Counsel for the publicly traded Celanese Corporation, a global technologies and specialty materials company. From 2002 to 2009 Mr. Clark worked for Honeywell International, Inc., where he held progressively responsible roles concluding as the Vice President and General Counsel, Aerospace Global Operations.
+
+Jeffrey F. Dickerman joined Expeditors in October 2004 as Associate Corporate Counsel and became Corporate Counsel in 2007. Mr. Dickerman became Director, Global Legal Services in 2011 and Vice President and Associate General Counsel in 2015. In 2019, Mr. Dickerman became Vice President, Deputy General Counsel. In January 2020, Mr. Dickerman was appointed to Senior Vice President, General Counsel and was appointed Corporate Secretary in May 2020. Prior to joining Expeditors, Mr. Dickerman was an Associate Attorney at Stoel Rives LLP.   
+
+13.
+
+ 
+
+Government Regulations
+
+Transportation and Customs Brokerage
+
+With respect to activities in the air transportation industry in the United States, Expeditors is subject to regulation by the Transportation Security Administration (TSA) of the Department of Homeland Security (DHS) as an indirect air carrier. All United States indirect air carriers are required to maintain prescribed security procedures and are subject to periodic audits by TSA. Our overseas offices and agents are licensed as airfreight forwarders in their respective countries of operation. Each Expeditors office is licensed, or, in the case of our newer offices, has applied for a license as an airfreight forwarder from the International Air Transport Association (IATA), a voluntary association of airlines and air transport related entities that prescribes certain operating procedures for airfreight forwarders acting as agents for its members. The majority of our airfreight forwarding business is conducted with airlines that are IATA members.
+
+Expeditors is licensed as an Ocean Transportation Intermediary (OTI) (sometimes referred to as an NVOCC) by the Federal Maritime Commission (FMC). The FMC has established certain qualifications for shipping agents, including certain surety bonding requirements. The FMC is also responsible for the economic regulation of OTI/NVOCC activity originating or terminating in the United States. To comply with these economic regulations, vessel operators and NVOCCs, such as EIO, are required to file tariffs electronically, establishing the rates to be charged for the movement of specified commodities into and out of the United States. The FMC has the power to enforce these regulations by assessing penalties. Expeditors is licensed as a customs broker by the Customs and Border Protection (CBP) agency of DHS, nationally and in each U.S. customs district in which we do business. All United States customs brokers are required to maintain prescribed records and are subject to periodic audits by CBP. In other jurisdictions in which Expeditors performs customs clearance services, we are licensed by the appropriate governmental authority where such license is required to perform these services. Expeditors participates in various governmental supply chain security programs, such as the Customs Trade Partnership Against Terrorism (CTPAT) in the United States, as well as other security initiatives, such as Authorized Economic Operator (AEO) programs, in various other countries. Additionally, Expeditors is subject to additional regulatory and licensing requirements in the countries where we operate.
+
+Business operations
+
+We do not believe that current United States and foreign governmental regulations impose significant economic restraint upon our business operations. In general, Expeditors conducts business activities in each country through a wholly or majority-owned subsidiary corporation that is organized and existing under the laws of that country. However, the regulations of foreign governments can impose barriers to our ability to provide the full range of our business activities in a wholly or majority United States-owned subsidiary. For example, foreign ownership of a customs brokerage business is prohibited in some jurisdictions and, less frequently, the ownership of the licenses required for freight forwarding and/or freight consolidation is restricted to local entities. When we encounter this sort of governmental restriction, we work to establish a legal structure that meets the requirements of the local regulations, while also providing the substantive operating and economic advantages that would be available in the absence of such regulation. This can be accomplished by creating a joint venture or exclusive agency relationship with a qualified local entity that holds the required license.
+
+The continuing global threats from pandemics, terrorism, cyberattacks, smuggling and wars, and governments’ overriding concern for the safety of passengers and citizens who import and/or export goods into and out of their respective countries, have resulted in a proliferation of cargo security and other regulations. Many of these regulations are complex and require varying degrees of interpretation. While these regulations have already created a marked difference in the security and other arrangements required to move shipments around the globe, regulations are expected to become more stringent in the future. As governments look for ways to tighten border controls and minimize the exposure of their citizens to contagious diseases, criminal elements and potential terror-related incidents, we and our competitors in the transportation business may be required to incorporate security and other procedures within our respective scope of services to a far greater degree than has been required in the past. We believe that increased security and other requirements may involve further investments in technology and more sophisticated screening procedures being applied to cargo, customers, vendors and employees. Expeditors' position is that any increased cost of compliance with security regulations will be passed through to those who are beneficiaries of our services.
+
+Environmental
+
+In the United States, we are subject to Federal, state and local provisions regulating the discharge of materials and emissions into the environment or otherwise for the protection of the environment. Similar laws apply in many other jurisdictions in which we operate. Although our current operations have not been significantly affected by compliance with these environmental laws, governments, service providers and customers are becoming increasingly sensitive to environmental issues, and we cannot predict what impact future environmental regulations may have on our business.
+
+While government regulation related to climate change is under consideration by various level of governments internationally and in the United States, Expeditors is committed to continual improvement in reducing the impact of our operations on the environment and assisting our
+
+14.
+
+ 
+
+customers in their efforts to reduce their carbon footprint. We have employee-led Green Teams which cover each of our local district offices and are responsible for projects focused on reducing Expeditors' Scope 1 and Scope 2 emissions (as defined by the Greenhouse Gas Protocol, Scope 1 emissions include all direct greenhouse gas emissions; Scope 2 includes indirect greenhouse gas emission from purchased electricity, heat or steam). We have voluntarily disclosed our Scope 1 and Scope 2 emissions data to CDP since 2010. We are also attentive to our Scope 3 emissions (as defined by the Greenhouse Gas Protocol, Scope 3 emissions include all other indirect emissions that occur in a company’s value chain) therefore, we are currently a member of both SmartWay and Transporte Limpio in North America. SmartWay is a voluntary public-private program sponsored by the EPA for tracking, documenting and sharing information about fuel use and freight emissions across supply chains. Transporte Limpio is a similar, voluntary program sponsored by the Mexican government.
+
+Cargo Liability
+
+When acting as an airfreight consolidator, Expeditors assumes a carrier’s liability for lost or damaged shipments. This legal liability is typically limited by contract to the lower of the value of the goods or the released value (22 Special Drawing Rights [SDRs] per kilo unless the customer declares a higher value and pays a surcharge), except in the absence of an appropriate airway bill. The airline that we utilize to make the actual shipment is generally liable to us in the same manner and to the same extent. Generally, when acting solely as the agent of the shipper, we do not assume any contractual liability for loss or damage to shipments tendered to the carrier.
+
+When acting as an ocean freight consolidator, Expeditors assumes a carrier’s liability for lost or damaged shipments. This liability is typically limited by contract to the lower of the value of the goods or the released value (generally between $500 and 667 SDRs per package or customary freight unit unless the customer declares a higher value and pays a surcharge). The ocean carrier that we utilize to make the actual shipment is generally liable to us in the same manner and to the same extent. We do not assume liability for lost or damaged shipments in our ocean freight forwarding and customs clearance operations.
+
+When providing ground transportation services as a carrier, Expeditors assumes a carrier’s liability for lost or damaged shipments. This liability is typically limited by contract to the lower of the value of the goods or the released value (generally between $0.50 per pound and 8.33 SDRs per kilo, although the released value can vary from country to country) unless the customer declares a higher value and pays a surcharge. The ground carrier that we utilize to make the actual shipment is generally liable to us in the same manner and to the same extent.
+
+When providing warehousing and distribution services, our legal liability is limited by contract and tariff to an amount generally equal to the lower of the value of the goods or $0.50 per pound with a maximum of $50 per “lot” — which is defined as the smallest unit that the warehouse is required to track.
+
+In certain circumstances, Expeditors will assume additional limited liability. We maintain cargo legal liability insurance covering claims for losses attributable to missing or damaged shipments for which we are legally liable. Expeditors also maintains insurance coverage for the property of others that is stored in our warehouse facilities. This insurance coverage is provided by a Vermont, U.S.-based insurance entity wholly-owned by Expeditors. The coverage is fronted and re-insured by a global insurance company. The total risk retained by Expeditors in 2020 was $5 million. In addition, we are licensed as an insurance broker through our subsidiary, Expeditors Cargo Insurance Brokers, Inc., and place insurance coverage for other customers.
+
+Available Information
+
+Our Internet address is http://www.expeditors.com. We make available free of charge through our Internet website Expeditors' annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and all amendments to those reports as soon as reasonably practicable after such material is electronically filed with or furnished to the Securities and Exchange Commission (SEC). These reports are also available on the SEC's website at https://www.sec.gov. The information contained on or accessible through Expeditors' website is not a part of this Annual Report on Form 10-K.

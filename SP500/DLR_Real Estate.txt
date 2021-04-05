@@ -1,0 +1,817 @@
+The Company
+
+Digital Realty Trust, Inc., through its controlling interest in Digital Realty Trust, L.P. (the Operating Partnership) and the subsidiaries of the Operating Partnership, (collectively, we, our, us or the Company) is a leading global provider of data center, colocation and interconnection solutions for customers across a variety of industry verticals ranging from cloud and information technology services, communications and social networking to financial services, manufacturing, energy, healthcare, and consumer products. Digital Realty Trust, L.P., a Maryland limited partnership, is the entity through which Digital Realty Trust, Inc., a Maryland corporation, conducts its business of owning, acquiring, developing and operating data centers.  Digital Realty Trust, Inc. operates as a REIT for federal income tax purposes.
+
+As of December 31, 2020, our portfolio consisted of 291 data centers (including 43 data centers held as investments in unconsolidated joint ventures), of which 139 are located in the United States, 107 are located in Europe, 22 are located in Latin America, 12 are located in Asia, six are located in Australia, three are located in Africa and two are located in Canada.
+
+Digital Realty Trust, Inc. was incorporated in the state of Maryland on March 9, 2004. Digital Realty Trust, L.P. was organized in the state of Maryland on July 21, 2004. Our principal executive offices are located at 5707 Southwest Parkway, Building 1, Suite 275, Austin, Texas 78735. Our telephone number is (737) 281-0101. Our website is www.digitalrealty.com.  The information found on, or otherwise accessible through, our website is not incorporated by reference into, nor does it form a part of, this Annual Report on Form 10-K.
+
+Recent Acquisitions
+
+On October 29, 2019, Digital Realty Trust, Inc., Digital Intrepid Holding B.V., an indirect subsidiary of Digital Realty Trust, Inc., and Interxion Holding N.V., which we refer to as Interxion, entered into a purchase agreement, or the Purchase Agreement, pursuant to which, subject to the terms and conditions of the Purchase Agreement, the Buyer commenced an exchange offer to purchase all of the outstanding ordinary shares of Interxion in exchange for shares of common stock of Digital Realty Trust, Inc.. We refer to the transactions contemplated by the Purchase Agreement as the Interxion Combination. We obtained control of Interxion on March 9, 2020 and completed the Interxion Combination on March 12, 2020 for total equity consideration of approximately $7.0 billion, including cash assumed.  The Interxion Combination has expanded the combined company’s presence across Europe and Africa.
+
+On November 1, 2019, we closed the joint venture with Mapletree Investments and Mapletree Industrial Trust, which we refer to collectively as Mapletree, on three existing Turn-Key Flex® data centers located in Ashburn, Virginia. The Company retained a 20% ownership interest in the joint venture, and Mapletree acquired the remaining 80% stake for approximately $0.8 billion. We will continue to operate and manage these facilities. The second tranche of the Mapletree transaction, the sale of 10 fully-leased Powered Base Building® properties for $557 million, closed in January 2020.
+
+On December 20, 2018, the Operating Partnership and Stellar Participações S.A. (formerly Stellar Participações Ltda.), a Brazilian subsidiary of the Operating Partnership, completed the acquisition of Ascenty, a leading data center provider in Brazil, for cash and equity consideration of approximately $2.0 billion, including cash assumed. We refer to this transaction as the Ascenty Acquisition. In March 2019, we formed a joint venture with Brookfield Infrastructure, an affiliate of Brookfield Asset Management, one of the largest owners and operators of infrastructure assets globally. Brookfield invested approximately $702 million in exchange for approximately 49% of the total equity interests in the joint venture which owns and operates Ascenty. A subsidiary of the Operating Partnership retained the remaining equity interest in the Ascenty joint venture. As of March 27, 2019, we deconsolidated Ascenty and recorded our retained interest as an investment in unconsolidated joint ventures due to shared control with Brookfield.
+
+1
+
+Table of Contents
+
+
+Index to Financial Statements
+
+
+On September 14, 2017, we completed the acquisition of DuPont Fabros Technology, Inc., or DFT, in an all-stock merger, which we refer to as the DFT Merger, for equity consideration of approximately $6.2 billion. We believe this transaction expanded our reach with a complementary portfolio in top U.S. metropolitan areas while enhancing our ability to meet the growing demand for hyper-scale and public cloud solutions and solidifying our blue-chip customer base.
+
+Industry Background
+
+The digital economy continues to grow and change how enterprises across all industries create and deliver value. Companies increasingly need to operate ubiquitously, on-demand and with real-time intelligence serving customers, partners and employees across multiple channels, business functions and points of business presence. Computational processing power requirements continue to advance, data traffic is growing, and the volume of data that enterprises generate, transmit, process, analyze, monitor and manage is expanding dramatically. The Internet of Things, 5G, autonomous vehicles and artificial intelligence, among other technological advancements, are driving this digital transformation.
+
+Further, we believe that enterprise data growth is accelerating due to the growing digital economy and emerging technological advances.  As enterprises analyze and process this accelerating data mass, they create more data.  As this data mass builds and continues to be analyzed and processed, we believe it becomes increasingly challenging to replicate and relocate, a phenomenon called increasing data gravity.  We believe that enterprise decision makers will need to increasingly consider the impact of how data gravity impacts their enterprise IT architectures and, accordingly, we have developed the Data Gravity Index™.  The Data Gravity Index™ is a global forecast that measures the intensity and gravitational force of enterprise data growth.
+
+As a global infrastructure provider for this growing digital economy, we believe the data center industry is poised for sustainable growth. The demand for data center infrastructure is being driven by this digital transformation which is contributing to the explosive growth of data, rapid growth of cloud adoption and greater demand for IT outsourcing. The power requirements and financial costs to support this growth in data, traffic and storage are substantial and growing accordingly. We believe that data centers will continue to play a critical role in the digital economy and enabling business transformation strategies.
+
+We believe cloud solutions and, in particular, hybrid cloud solutions will remain significant drivers of demand for data center infrastructure. The hybrid cloud, which combines public and private cloud solutions, has gained traction because it enables corporate enterprises to achieve efficiencies and contain costs as well as scale and secure their most sensitive information. In addition, the leading cloud service providers are generally mature, well-capitalized technology companies, and cloud platforms are among their fastest growing business segments. Data center providers that can solve global coverage, capacity and communities of interest connectivity needs, and coordinate and aggregate diverse customer and application demand, are poised to benefit from these cloud-specific industry drivers.
+
+These diverse and secular industry dynamics are driving greater demand for data center capacity not only from global cloud service providers, but also from businesses across other industries, including IT service firms, social media, content providers and the financial services sector. As companies focus on their core competencies and rely on outsourcing to meet their IT infrastructure needs, they are prioritizing colocation for their data center solutions for various reasons, including to reduce latency in data transfer and increase global presence and connectivity. New technologies need a fast, reliable and flexible foundation to operate, and the importance of offering a full spectrum of power, space and connectivity solutions continues to grow.
+
+Our Business
+
+We provide a global data center platform that supports our customers’ digital infrastructure and enables our customers to interconnect with their customers and partners. We solve global coverage, capacity, and communities of interest connectivity needs for companies of all sizes, including the world’s leading enterprises and services providers, through PlatformDIGITAL®, our fit-for-purpose platform that simplifies access to data center capacity and
+
+2
+
+Table of Contents
+
+
+Index to Financial Statements
+
+
+interconnection through a single data center provider with tailored infrastructure deployments and controls. PlatformDIGITAL® combines our global presence with our Pervasive Data Center Architecture (PDx™) solution methodology for scaling digital business and efficiently managing data gravity challenges.  Our global data center footprint gives customers access to the connected communities that matter to them with 291 facilities in 49 metros across 24 countries on six continents.  
+
+Fundamentally, we bring together foundational real estate and innovative technology expertise around the world to deliver a comprehensive, dedicated product suite to meet customers’ data and connectivity needs. We represent an important part of the digital economy that we believe will benefit from powerful, long-term growth drivers.
+
+We believe that the growth trends in the data center market, technology, the cloud, Internet traffic and Internet-based services, combined with cost advantages in outsourcing data center requirements, provide attractive growth opportunities for us as a data center solutions provider. Leveraging deep expertise in technology and real estate, we have an expansive global footprint, impressive scale and a full-spectrum fit-for-purpose product offering in key metropolitan areas around the world. These advantages simplify the contracting process for multinational enterprises, eliminating their need to negotiate with multiple local data center solutions providers. In addition, in areas where high data center construction and operating costs and long time-to-market prohibit many of our customers from building their own data centers, our global footprint and scale allow us to quickly and efficiently meet our customers' needs.
+
+Digital Realty Pillars
+
+We are one of the leading data center providers in the world.  Our business and operations are aligned with the following key pillars:
+
+
+Resilient Foundations
+
+
+Our record of resiliency, 14 consecutive years of “five-nines” (99.999%) uptime for facilities owned and operated by us, and our award-winning sustainability program ensure our customers’ high-performance networks are effective and environmentally conscious. We design, own and manage data centers and are trusted with the critical IT infrastructures of companies globally, from small businesses to large multinational enterprises. We provide the critical digital foundations for our customers to store, manage, and connect their data when, where and how they need it.
+
+
+Global, Local and Interconnected
+
+
+Our data centers are hyper-connected hubs, strategically located in 49 key metro areas across the world. Our global strength is matched by the expertise of our local teams on the ground. Our data centers provide high-performance access to one of the largest communities of interest of interconnected networks, critical data center and cloud services, customers and partners. Our global footprint and network enable our customers to connect with other parties in the way they need.
+
+
+Trusted Partner
+
+
+We are a trusted partner for our customers, which include many of the most digitally ambitious companies in the world, helping to safeguard their digital capital and drive their growth. Whether designing and delivering dedicated data center facilities or solving cloud connectivity issues, our dedicated team of technical experts strives to ensure customer success through consistency in operations, customer care and ease of doing business.
+
+Our Data Center Portfolio
+
+Our portfolio of high-quality data centers provides secure, highly connected and continuously available environments for the exchange, processing and storage of critical data. Data centers are used for digital communication, disaster recovery purposes, transaction processing and housing mission-critical corporate IT applications. Our internet
+
+3
+
+Table of Contents
+
+
+Index to Financial Statements
+
+
+gateway data centers are highly interconnected, network-dense facilities that serve as hubs for internet and data communications within and between major metropolitan areas. We believe internet gateways are extremely valuable and a high-quality, highly interconnected global portfolio such as ours could not be easily replicated today on a cost-competitive basis.
+
+Our global platform provides access to a network of 291 state-of-the-art, interconnected data centers, concentrated in 49 major metropolitan areas across 24 countries on six continents. We are diversified across major metropolitan areas characterized by a high concentration of connected end-users and technology companies. Northern Virginia represented 19% of total revenue for the year ended December 31, 2020, followed by Chicago with 11% of total revenue.
+
+
+
+Graphic
+
+
+Through strategic investments, we have grown our presence in key metropolitan areas throughout North America, Europe, Latin America, Asia, Australia and Africa. Recent acquisitions have expanded our footprint into Latin America, enhanced our data center offerings in strategic and complementary U.S. metropolitan areas, established our colocation and interconnection platform in the U.S. and expanded our colocation and interconnection platform in Europe and Africa, each transaction enhancing our presence in top-tier locations throughout North America, Europe, Latin America and Africa.
+
+The locations of and improvements to our data centers, the network density, interconnection infrastructure and connectivity-centric customers in certain of our facilities, and our comprehensive product offerings are critical to our customers’ businesses, which we believe results in high occupancy levels, longer average lease terms and customer relationships, as well as lower turnover. In addition, many of our data centers contain significant improvements that have been installed at our customers’ expense. The tenant improvements in our data centers are generally readily adaptable for use by similar customers.
+
+Our data centers are physically secure, network-rich and equipped to meet the power and cooling requirements of smaller footprints up to the most demanding IT applications. Many of our data centers are located on major aggregation points formed by the physical presence of multiple major telecommunications service providers, which reduces our customers’ costs and operational risks and enhances the attractiveness of our properties. In addition, our strategically located global data center campuses offer our customers the ability to expand their global footprint as their businesses grow, while our connectivity offerings on our campuses enhance the capabilities and attractiveness of these facilities. Further, the network density, interconnection infrastructure and connectivity-centric customers in certain of our data
+
+4
+
+Table of Contents
+
+
+Index to Financial Statements
+
+
+centers has led to the organic formation of densely interconnected communities of interest that are difficult for competitors to replicate and deliver added value to our customers.
+
+Our portfolio contains a total of approximately 43.6 million square feet, including approximately 5.4 million square feet of space under active development and approximately 2.3 million square feet of space held for future development. The 43 data centers held as investments in unconsolidated joint ventures have an aggregate of approximately 4.7 million rentable square feet. The 34 parcels of developable land we own comprise approximately 927 acres. A significant component of our current and future growth is expected to be generated through the development of our existing space held for development and acquisition of new properties. As of December 31, 2020, our portfolio, including the 43 data centers held as investments in unconsolidated joint ventures and excluding space under active development and space held for future development, was approximately 86.3% leased. From time to time we may look to sell individual assets or portfolios of assets that we do not consider to be core to our ongoing business strategy.
+
+Our Diversified Product Offerings
+
+We provide a flexible, global data center platform that allows our customers to tailor infrastructure deployments and controls matched to their business needs. Our data centers and comprehensive suite of product offerings are scalable to meet our customers’ needs, from a single rack or cabinet up to multi-megawatt deployments, along with connectivity, interconnection and solutions to support their hybrid cloud architecture requirements. Over the past few years, we have expanded our product mix to appeal to a broader spectrum of data center customers, especially those seeking to support a greater portion of their data center requirements through a single provider. Our Critical Facilities Management® services and team of technical engineers and data center operations experts provide 24/7 support for these mission-critical facilities.
+
+5
+
+Table of Contents
+
+
+Index to Financial Statements
+
+
+PlatformDIGITAL Solution Model.  The PlatformDIGITAL® solution model is based on our Pervasive Datacenter™ architecture strategy, which brings users, networks, clouds, controls and systems to the data, removing barriers, creating centers of data exchange to accommodate distributed workflows and scaling digital business.
+
+
+Network Hub
+
+ 
+
+Consolidates and localizes traffic into ingress/egress points to optimize network performance and cost
+
+Control Hub
+
+ 
+
+Hosts adjacent security and IT controls to improve security posture and Hybrid-IT operations
+
+Data Hub
+
+
+ 
+
+Localizes data aggregation, staging, analytics, streaming and data management to optimize data exchange
+
+SX Fabric
+
+
+Adds SDN overlay to service chain multi-cloud and B2B application ecosystems
+
+Connects hubs across metros and regions to enable secure and performant distributed workflows
+
+Capacity
+
+
+Product
+
+ 
+
+Description
+
+Colocation
+
+(0 to 1 MW)
+
+ 
+
+Small (one cabinet) to medium (75 cabinets) deployments
+
+Provides agility to quickly deploy in days
+
+Contract length generally 2-5 years
+
+Consistent designs, operational environment, power expenses
+
+Scale & Hyperscale
+
+Powered Base Building®
+
+Turn-Key Flex®
+
+(> 1 MW)
+
+
+ 
+
+Scale from medium (300+ kW) to very large deployments
+
+Solution can be executed in weeks
+
+Contract length generally 5-10+ years
+
+Customized data center environment for specific deployment needs
+
+
+The PlatformDIGITAL® solution model is available in our colocation and Turn-Key Flex® data centers, which are move-in ready, physically secure facilities with the power and cooling capabilities to support customers requiring a single rack or cabinet up to multi-megawatt deployments. We believe our colocation and Turn-Key Flex® facilities are effective solutions for customers who may lack the bandwidth, capital budget, expertise or desire to provide their own extensive data center infrastructure, management and security. We believe our offerings are also well-suited for those customers who seek to efficiently exchange data with others in our communities, lowering their costs and creating value for their business.  For customers who possess the ability to build and operate their own facility, our Powered Base Building® solution provides the physical location, requisite power and network access necessary to support a state-of-the-art data center.
+
+
+6
+
+Table of Contents
+
+
+Index to Financial Statements
+
+
+Additionally, our data center campuses offer our customers the opportunity to expand in or near their existing deployments within our data center campuses.
+
+
+Connectivity
+
+Product
+
+ 
+
+Description
+
+Cross Connect
+
+ 
+
+A physical connection between two customer defined end points in a Digital Realty facility enabling customers to directly exchange data traffic
+
+Campus Connect
+
+ 
+
+Local, dedicated connectivity solution within Digital Realty campus environments located in hyperconnected metros around the world enabling multiple facilities on a single campus to exchange data traffic and therefore operate as a virtual single data center
+
+Metro Connect
+
+ 
+
+Dedicated connection between multiple Digital Realty facilities located in the same metro area enabling fast connectivity for data traffic between them
+
+Interxion Cloud Connect
+
+
+Provides secure and high-performance VLAN interconnections to multiple cloud service providers from one physical connection
+
+Internet Exchange
+
+ 
+
+Peering with major carrier, content, and wireless networks on a single, high-availability service platform enabling broad distribution of data traffic
+
+Service Exchange
+
+ 
+
+Access to multiple connections through multiple service providers all from one portal enabling simplified, direct, private, and secure connections
+
+IP Bandwidth
+
+ 
+
+Blended bandwidth upstream connectivity with routing to provide a fast, resilient, dedicated Internet connection
+
+Pathway
+
+ 
+
+Point-of-entry access for carriers, terminating into the POP or Meet Me Room within a given facility
+
+
+Through our recent investments and strategic partnerships, we have significantly expanded our capabilities as a leading provider of interconnection and cloud-enablement services globally. We believe interconnection is an attractive line of business that would be difficult to build organically and enhances the overall value proposition of our data center product offerings. Furthermore, through product offerings such as our Service Exchange and Interxion Cloud Connect and partnerships with cloud service providers, we are able to support our customers’ hybrid cloud architecture requirements.
+
+Our Global Customers
+
+Our portfolio has attracted a high-quality, diversified mix of customers. We have more than 4,000 customers, and no single customer represented more than approximately 9.5% of the aggregate annualized rent of our portfolio as of December 31, 2020. We provide each customer access to a choice of highly customized solutions based on their scale, colocation, and interconnection needs.
+
+7
+
+Table of Contents
+
+
+Index to Financial Statements
+
+
+Global Customer Base across a Wide Variety of Industry Sectors. We use our in-depth knowledge of requirements for and trends impacting cloud and information technology service providers, content providers, network and communications providers, and other data center users, including enterprise customers, to market our data centers to meet these customers’ specific technology needs. Our customers are increasingly launching multi-regional deployments and growing with us globally. Our largest customer, accounted for approximately 9.5% of the aggregate annualized rent as of December 31, 2020 and no other single customer accounted for more than approximately 4.7% of the aggregate annualized rent of our portfolio. At December 31, 2020, our customers represented a variety of industry verticals, ranging from cloud and information technology services, communications and social networking to financial services, manufacturing, energy, gaming, life sciences and consumer products.
+
+
+
+
+
+
+
+Cloud and IT Services
+
+
+Digital Content Providers and
+Financial Companies
+
+
+Network and Mobile Services
+
+Fortune 50 Software Company
+
+
+Facebook, Inc.
+
+
+CenturyLink, Inc.
+
+IBM
+
+
+Fortune 25 Investment Grade-Rated Company
+
+
+Verizon
+
+Oracle America, Inc.
+
+
+LinkedIn
+
+
+Comcast Corporation
+
+Equinix
+
+
+JPMorgan Chase & Co.
+
+
+AT&T
+
+
+Proven Experience Attracting and Retaining Customers. Our specialized data center salesforce, which is aligned to meet our customers’ needs for global, enterprise and network solutions, provides a robust pipeline of new customers, while existing customers continue to grow and expand their utilization of our technology-enabled services to support a greater portion of their IT needs.
+
+Below is a summary of our leasing activity for the year ended December 31, 2020 (in millions):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+    
+
+
+    
+
+Annualized 
+
+
+
+
+Square Feet
+
+
+GAAP Rent
+
+
+New leases signed
+
+ 
+
+ 3.4
+
+ (1)
+
+$
+
+ 391
+
+ (1)
+
+
+
+
+
+
+
+
+Renewals signed
+
+ 
+
+ 2.6
+
+
+$
+
+ 547
+
+
+(1)	Includes signed new leases with existing customers totaling approximately 3.2 million square feet, which represent approximately $371 million in annualized GAAP rent.
+Our Design and Construction Program
+
+Our extensive development activity, operating scale and process-based approach to data center design and construction result in significant cost savings and added value for our customers. We have leveraged our purchasing power by securing global purchasing agreements and developing relationships with major equipment manufacturers, reducing costs and shortening delivery timeframes on key components, including major mechanical and electrical equipment. Utilizing our innovative modular data center design, we deliver what we believe to be a technically superior data center environment at significant cost savings. In addition, by utilizing our modular design architecture to develop new distributed redundant solutions  in our existing Powered Base Building® facilities, on average we can deliver a fully commissioned facility in under 30 weeks. Finally, our access to capital and investment-grade ratings allow us to provide data center solutions for customers who do not want to invest their own capital.
+
+Our Investment Approach
+
+We have developed detailed, standardized procedures for evaluating acquisitions and investments, including income-producing properties as well as vacant buildings and land suitable for development, to ensure that they meet our strategic, financial, technical and other criteria. These procedures, together with our in-depth knowledge of the
+
+8
+
+Table of Contents
+
+
+Index to Financial Statements
+
+
+technology, data center and real estate industries, allow us to identify strategically located properties and evaluate investment opportunities efficiently and, as appropriate, commit and close quickly. Our investment-grade ratings, along with our broad network of contacts within the data center industry, enable us to effectively capitalize on acquisition and investment opportunities.
+
+Our Management Team and Organization
+
+Our senior management team has many years of experience in the technology and/or real estate industries, including experience as investors in and advisors to technology companies. We believe that our senior management team’s extensive knowledge of both the technology and the real estate industries provides us with a key competitive advantage. Further, a significant portion of compensation for our senior management team and directors is in the form of common equity interests in our Company. We also maintain minimum stock ownership requirements for our senior management team and directors, further aligning their interests with those of external stockholders, as well as an employee stock purchase plan, which encourages our employees to increase their ownership in the Company.
+
+Our Business and Growth Strategies
+
+Our primary business objectives are to maximize: (i) sustainable long-term growth in earnings and funds from operations per share and unit, (ii) cash flow and returns to our stockholders and our Operating Partnership’s unitholders through the payment of dividends and distributions and (iii) return on invested capital. We expect to accomplish these objectives by achieving superior risk-adjusted returns, prudently allocating capital, diversifying our product offerings, accelerating our global reach and scale, and driving revenue growth and operating efficiencies.
+
+Superior Risk-Adjusted Returns. We believe that achieving appropriate risk-adjusted returns on our business, including on our development pipeline and leasing transactions, will deliver superior stockholder returns. At December 31, 2020, we had approximately 5.4 million square feet of space under active development. We may continue to build out our development pipeline when justified by anticipated returns. We have established robust internal guidelines for reviewing and approving leasing transactions, which we believe will drive risk-adjusted returns. We also believe that providing an even stronger value proposition to our customers, including new and more comprehensive product offerings, as well as continuing to improve operational efficiencies, will further drive improved returns for our business.
+
+Prudently Allocate Capital. We believe that the strategic deployment of capital at sufficiently positive spreads above our cost of capital enables us to increase cash flow and create long-term stockholder value.
+
+Strategic and Complementary Investments. We have developed significant expertise at underwriting, financing and executing data center investment opportunities. We employ a collaborative approach to deal analysis, risk management and asset allocation, focusing on key elements, such as market fundamentals, accessibility to fiber and power, and the local regulatory environment. In addition, the specialized nature of data centers makes these investment opportunities more difficult for traditional real estate investors to underwrite, resulting in reduced competition for investments relative to other property types. We believe this dynamic creates an opportunity for us to generate attractive risk-adjusted returns on our capital.
+
+Preserve the Flexibility of Our Balance Sheet. We are committed to maintaining a conservative capital structure. We target a debt-to-adjusted EBITDA ratio at or less than 5.5x, fixed charge coverage of greater than three times, and floating rate debt at less than 20% of total outstanding debt. In addition, we strive to maintain a well-laddered debt maturity schedule, and we seek to maximize the menu of our available sources of capital, while minimizing the related cost. Since Digital Realty Trust, Inc.’s initial public offering in 2004, we have raised approximately $48.1 billion of capital through common (excluding forward contracts), preferred and convertible preferred equity offerings, exchangeable debt offerings, non-exchangeable bond offerings, our global revolving credit facilities, our term loan facility, a senior notes shelf facility, secured mortgage financings and re-financings, joint venture partnerships and the sale of non-core assets. We endeavor to maintain financial flexibility while using our liquidity and access to capital to support operations, our acquisition, investment, leasing and development programs and global campus expansion, which are important sources of our growth.
+
+9
+
+Table of Contents
+
+
+Index to Financial Statements
+
+
+Leverage Technology to Develop Comprehensive and Diverse Products. We have diversified our product offering, through acquisitions and organically through leveraging innovative technologies, and believe that we have one of the most comprehensive suites of global data center solutions available to customers from a single provider.
+
+Global Service Infrastructure Platform. With our recent acquisitions, which extend our footprint further across Latin America, Europe and Africa, enhanced our portfolio of scale and hyper-scale data centers in the U.S. and furthers our position as a leading provider of colocation, interconnection and cloud-enablement services globally, we are able to offer one of the industry’s broadest range of data center solutions to meet our customers’ needs, from a single rack or cabinet to multi-megawatt deployments. We believe our products like Service Exchange and our partnerships with managed services and cloud service providers further enhance the attractiveness of our data centers.
+
+Provide Foundational Services to Enable Customers and Partners. We believe that the platform, through which we offer the foundational services of space, power and connectivity, will enable our customers and partners to serve their customers and grow their businesses. We believe our Internet gateway data centers, individual data centers and data center campuses are attractive to a wide variety of customers and partners of all sizes. Furthermore, we believe our colocation and interconnection offerings, as well as the densely connected communities of interest that have developed within our facilities, and the availability and scalability of our comprehensive suite of products are valuable and critical to our customers and partners.
+
+Accelerate Global Reach and Scale. We have strategically pursued international expansion since our IPO in 2004 and now operate across six continents. We believe that our global multi-product data center portfolio is a foundational element of our strategy and our scale and global platform represent key competitive advantages difficult to replicate. Customers and competitors are recognizing the value of interconnected scale, which aligns with our connected campus strategy that enables customers to “land and expand” with us. We expect to continue to source and execute strategic and complementary transactions to strengthen our data center portfolio, expand our global footprint and product mix, and enhance our scale. In March 2019, we formed a joint venture with an affiliate of Brookfield Asset Management, and we retained a 51% equity interest in the joint venture which owns and operates Ascenty, a leading data center provider in Brazil, establishing Digital Realty as the premier data center solutions provider in the Latin America region. In March 2020, we completed the combination with Interxion, which expanded the combined company’s presence across Europe and Africa. As part of our global footprint, Interxion: A Digital Realty Company significantly strengthens our ability to connect businesses to clouds, ISPs, partners and customers, including more than 700 connectivity providers, around the world.
+
+Drive Revenue Growth and Operating Efficiencies. We aggressively manage our properties to maximize cash flow and control costs by leveraging our scale to drive operating efficiencies.
+
+Leverage Strong Industry Relationships. We use our strong industry relationships with international, national and regional corporate enterprise information technology groups and technology-intensive companies to identify and solve their data center needs. Our sales professionals are technology and real estate industry specialists who can develop complex facility solutions for the most demanding data center and other technology customers.
+
+Maximize Cash Flow. We often acquire properties with substantial in-place cash flow and some vacancy, which enables us to create upside through lease-up. We control our costs by negotiating expense pass-through provisions in customer agreements for operating expenses, including power costs and certain capital expenditure. We have also focused on centralizing functions and optimizing operations as well as improving processes and technologies. We believe that expanding our global data center campuses will also contribute to operating efficiencies because we expect to achieve economies of scale on our campus environments.
+
+Sustainability
+
+We believe that addressing sustainability by driving environmental efficiency through the implementation of cost- effective design and use of carbon-free and renewable energy serves as a key differentiator enabling us to deliver products that help attract and retain customers, generate cash flow, and manage operational risks. In 2020, for the fourth
+
+10
+
+Table of Contents
+
+
+Index to Financial Statements
+
+
+consecutive year, we received the Nareit “Leader in the Light” award for data centers, recognizing our sustainability and energy-efficiency achievements. In 2020, we allocated €1.08 billion in net proceeds from our second green bond and also issued an additional €2.15 billion in green bonds to further our efforts to invest in green buildings, energy efficiency improvements, and renewable energy.
+
+The Real Estate Sustainability Accounting Standard guidance, issued by the Sustainability Accounting Standards Board (“SASB”), outlines proposed disclosure topics and accounting metrics for the real estate industry. We provide data on energy and water management metrics that we believe best correlate with our business and industry as indicated in the following sections. Energy and water data receive third party assurance as part of our annual environmental, social, and governance (“ESG”) report development process.
+
+
+Energy Management
+
+
+a)	2019 Energy Data(1)
+Energy Consumption Data Coverage as % of Floor Area
+
+Total Energy Consumed by Portfolio Area with Data Coverage (MWh)(2)
+
+Grid electricity consumption as a % of Energy Consumption
+
+Renewable Energy as a % of Energy Consumption(3)
+
+Like-for-Like Change in Energy Consumption for Portfolio Area with Data Coverage(4)
+
+87%
+
+7,276,225
+
+96%
+
+19%
+
+2%
+
+
+
+(1)	The most recent full year for which energy data is available is 2019. The scope of data coverage includes managed and non-managed assets. In 2019, 95% of the Company’s portfolio consisted of data center space along with limited accessory uses, predominantly office space. These secondary space types are not broken out by subsector.
+(2)	The scope of energy includes energy purchased from sources external to the Company and its customers; energy produced by the Company and its customers (i.e., self-generated); and energy from all other sources, including direct fuel usage, purchased electricity, and purchased chilled water.
+(3)	Provided as a percent of energy consumption for managed assets. Excludes renewable energy delivered as part of the standard utility fuel mix. Includes above-baseline utility renewables (e.g., green tariffs), Renewable Energy Credit (“REC”) and Guaranty-of-Origin (“GO”) purchases and RECs generated by the Company.
+(4)	Scope of data is aligned with the 2019 GRESB Real Estate Assessment Reference Guide (“Like-for-like Comparison”).
+
+
+11
+
+Table of Contents
+
+
+Index to Financial Statements
+
+
+b)	Sustainable Data Center Ratings
+
+We seek to certify all major new construction and redevelopment projects under US Green Building Council LEED Silver rating or equivalent certification. Our data center space receiving third-party sustainable ratings in 2020 totaled approximately 1.9 million square feet. We received the following sustainable data center ratings for all, or a portion of, the following sites:
+
+
+Data Center
+
+Metropolitan Area
+
+Rating System
+
+Level Achieved
+
+1 Century Place
+
+Toronto
+
+LEED (1)
+
+Silver
+
+Cloud House
+
+London
+
+BREEAM (2)
+
+Gold
+
+Digital Loyang 2
+
+Singapore
+
+BCA (3) Green Mark
+
+Platinum
+
+Building P
+
+Ashburn
+
+LEED
+
+Silver
+
+
+(1)	LEEDTM: Leadership in Energy and Environmental Design
+(2)	BREEAM: Building Research Establishment Environmental Assessment Method
+(3)	BCA: Building and Construction Authority of Singapore
+
+For existing buildings, we seek to benchmark 100% of properties in ENERGY STAR Portfolio Manager and pursue EPA ENERGY STAR certification for eligible U.S. properties. In 2020, we achieved ENERGY STAR for Data Centers recognition for 31 data centers, representing 54% of our U.S. stabilized and managed data center portfolio by square feet. In total, 46% of our total global stabilized and managed portfolio by square feet has an energy rating as of December 31, 2019.(1)
+
+
+(1)	Excludes non-stabilized assets, Powered Base Building space, space under active development, space held for development, non-managed assets, and space held in unconsolidated joint ventures.
+
+c)	Energy management considerations
+
+Energy and resource management considerations are integrated into our business decisions and strategy. For our operating portfolio, annual capital expense investment planning identifies and evaluates resource efficiency project opportunities in a parallel track alongside non-resource-impacting capital investments. For acquisitions and new development activity, resiliency risks, resource availability, and renewable energy access are considered. Our design and construction process is intended to incorporate sustainable features that support resource efficiency during construction as well as during eventual operational activity at the sites.
+
+
+We seek to proactively identify and support opportunities to efficiently utilize resources, such as energy and water, throughout our operating portfolio. We have a colocation power usage effectiveness (PUE) improvement goal of 10% by 2022 against a 2017 baseline and UK Climate Change Agreement energy reduction goals for our UK properties. Our EMEA colocation portfolio participates in the European Union’s Code of Conduct for Energy Efficiency in Data Centers, a voluntary initiative which addresses airflow management, cooling system efficiency and capital plant replacement. Globally, we conduct external technical building assessments as well as utilize ENERGY STAR Portfolio Manager scores to prioritize efficiency opportunities. Energy efficiency measures implemented typically involve HVAC and lighting-related improvements and building commissioning. In 2019, more than 40 energy efficiency measures were implemented, totaling over 14,100 MWh in projected energy savings.  
+
+
+In 2020, our Company set a global carbon reduction target with the Science-Based Target Initiative (SBTi). We have committed to reducing our Scope 1 and 2 emissions 68% per square foot and Scope 3 emissions from purchased goods and services and fuel- and energy-related activities 24% per square foot by 2030. We continue to match 100% of our EMEA portfolio and US colocation business units with renewable energy. In 2020, we entered into an 89 MW retail supply agreement and a 65 MW solar power purchase agreement, both to support our Dallas portfolio. Our Texas and Illinois wind and Virginia and North Carolina solar power purchase agreements produced 698,960 MWh of renewable energy credits in 2020.
+
+12
+
+Table of Contents
+
+
+Index to Financial Statements
+
+
+
+We implement ISO 14001 (Environmental Management) and ISO 50001 (Energy Management) to measure, manage and improve the energy and environmental performance of our data centers. In 2019, 94% of our EMEA portfolio and 32% of our global portfolio had ISO 14001 certifications and 100% of our EMEA portfolio and 10% of our global portfolio was covered under ISO 50001. Additionally, 100% of our Singapore portfolio was certified under the SS564 Green Data Centres standard for Energy and Environmental Management Systems.
+
+
+
+Water Management
+
+
+a)	2019 Water Data (1)
+
+Water Withdrawal Data Coverage as % of Floor Area
+
+% of Floor Area with 40% or Greater Baseline Water Stress (2)
+
+Total Water Withdrawn by Portfolio Area with Data Coverage (cubic meters, in thousands) (3)
+
+% of Water Withdrawn with 40% or Greater Baseline Water Stress (2)
+
+Like-for-Like Change in Water Withdrawals (4)
+
+84%
+
+
+36%
+
+5,880
+
+51%
+
+2%
+
+
+
+(1)	The most recent full year for which water data is available is 2019. The scope of data coverage involves managed and non-managed assets. The scope of water withdrawals is aligned with the 2018 GRESB Real Estate Assessment Reference Guide. In 2019, 95% of the Company’s portfolio consisted of data center space along with limited accessory uses, predominantly office. These secondary space types are not broken out by subsector.
+(2)	Based on properties classified as High or Extremely High Baseline Water Stress determined by the World Resources Institute’s (WRI) Water Risk Atlas tool, Aqueduct. Includes properties that have complete water withdrawal data coverage.
+(3)	The scope of water consumed includes potable and non-potable water purchased from third-party suppliers.
+(4)	Scope of data is aligned with the 2019 GRESB Real Estate Assessment Reference Guide (“Like-for-like Comparison”).
+
+
+b)	Water Management Risks and Mitigation Strategies
+
+Some of our assets are in regions of high or extremely high baseline water stress and may face future risk of water scarcity, higher water costs, and regulatory constraints on water consumption. We consider water availability, cost, and alternate supply solutions to potable water such as municipally supplied non-potable reclaimed water, which accounted for 43% of our total water usage in 2019. We also consider cooling system designs to maximize ‘free cooling’ and reduce or eliminate reliance on access to water for cooling. In 2019, we announced a program that would expand the Company’s efforts to optimize water use through water reduction, reuse and recycling projects.
+
+
+13
+
+Table of Contents
+
+
+Index to Financial Statements
+
+
+Management of Tenant Sustainability Impacts
+
+
+a)	2020 Tenant Sustainability
+
+4
+
+
+% of New Leases with Cost Recovery Clause for Efficiency Improvements (1)
+
+Leased Floor Area of New Leases with Cost Recovery Clause (Square Feet)
+
+% of Total Leased Floor Area with Cost Recovery Clauses (2)
+
+% of Leased Floor Area that is Separately Metered for Electricity Consumption (3)
+
+25%
+
+
+6,394
+
+41%
+
+84%
+
+
+(1)	Data provided for new data center scale leases signed and excludes colocation and Powered Base Building agreements.
+(2)	Total leased floor area excludes non-managed unconsolidated joint ventures, vacant space, space held for development, space under active development, Powered Base Building, colocation, and non-technical space.  
+(3)	Excludes unconsolidated joint ventures, vacant space, space held for development, space under active development, and non-technical space. Water use is predominantly driven by shared cooling  infrastructure, common areas, and exterior landscape irrigation and is not separately metered. 
+
+b)	Approach to measuring, incentivizing and improving sustainability impacts of tenants
+
+We seek to incorporate “green lease” language into agreements with new customers where energy is separately metered, and we endeavor to incorporate green lease language into renewals. We launched our green lease program for applicable contract types to better align interests between landlord and tenants to incentivize energy and resource efficiency investments, share energy and water usage data, streamline renewable energy procurement and support sustainable building certifications.
+
+
+
+Climate Change Adaptation
+
+
+a)	Properties located in 100-Year Flood Zones
+
+Nine U.S. data centers totaling about 990,900 square feet are located in 100-year flood zones designated by the U.S. Federal Emergency Management Agency (“FEMA”) as special flood hazard areas (“SFHA”). No other non-U.S. sites are in 100-year flood zones or similar high hazard locations.
+
+
+b)	Climate Change Risks and Mitigation Strategies
+
+We evaluate potential risks and opportunities as a result of climate change and have implemented strategies to mitigate risks and utilize opportunities. Climate change risks that we have identified include acute and chronic physical risks, as well as transition risks such as market, policy, reputational, and technology risks. Management of climate-related risks and opportunities is a company-wide priority, delivered through an interdisciplinary effort with contributions from our global operations team, risk management, environmental occupational health and safety, compliance, information security, physical security and other functions, with oversight by our Executive Leadership Team and governed by our Board of Directors. We manage potential risks first via our siting and design standards, then by implementing recommendations to proactively mitigate losses related to short-term acute weather events as well as long-term climate-related events. Climate resilience measures include maintaining appropriate levels of insurance for each asset, performing climate risk scenario analyses for a sample selection of our global portfolio, and implementing operational risk reduction measures at the site level. We continue to align our ESG Report with the recommendations of the Financial Stability Board’s Task Force on Climate-related Financial Disclosures (“TCFD”) to disclose specific climate-related financial risks and opportunities, mitigation strategies, and associated metrics and targets.
+
+
+14
+
+Table of Contents
+
+
+Index to Financial Statements
+
+
+Competition
+
+We compete with numerous data center providers globally, many of whom own or operate properties similar to ours in some of the same metropolitan areas where our data centers are located, including Equinix, Inc. and NTT; CoreSite Realty Corporation, CyrusOne Inc., QTS Realty Trust, Inc., Switch, Inc. and various local developers in the U.S.; as well as Global Switch Holdings Limited and various regional operators in Europe, Asia, Latin America and Australia. See "We face significant competition, which may adversely affect the occupancy and rental rates of our data centers." in Item 1A. Risk Factors.
+
+Regulation
+
+General
+
+Our properties are subject to various laws, ordinances and regulations, including regulations relating to common areas. We believe each of our properties as of December 31, 2020 has the necessary permits and approvals to operate.
+
+Americans with Disabilities Act
+
+Our properties must comply with Title III of the Americans with Disabilities Act of 1990, or the ADA, to the extent that such properties are “public accommodations” as defined by the ADA. We believe our properties are in substantial compliance with the ADA and that we will not be required to make substantial capital expenditures to address the requirements of the ADA. However, non-compliance with the ADA could result in imposition of fines or an award of damages to private litigants. The obligation to make accommodations in accordance with the ADA, as well as other applicable laws and regulations is an ongoing one, and we will continue to assess our properties and make alterations as appropriate in this respect.  See “We may incur significant costs complying with applicable laws and governmental regulations, including the Americans with Disabilities Act.” in Item 1A. Risk Factors.
+
+Environmental Matters
+
+We are exposed to various environmental risks that may result in unanticipated losses and could affect our operating results and financial condition. Either the previous owners or we have conducted environmental reviews on a majority of the properties we have acquired, including land. While some of these assessments have led to further investigation and sampling, none of the environmental assessments have revealed an environmental liability that we believe would have a material adverse effect on our business, financial condition or results of operations. See "We could incur significant costs related to environmental matters, including from government regulation, private litigation, and existing conditions at some of our properties." in Item 1A. Risk Factors for further discussion.
+
+Insurance
+
+We carry commercial general liability, property, and business interruption insurance, including rental income loss coverage on all of the properties in our portfolio under a blanket program. We select policy specifications and insured limits which we believe to be appropriate given the relative risk of loss, the cost of coverage, and industry practice. We believe the properties in our portfolio are adequately insured. We do not carry insurance for generally uninsured exposures such as loss from war or nuclear reaction. In addition, we carry earthquake insurance on our properties in an amount and with deductibles we believe are commercially reasonable. We intend to partially fund the earthquake insurance deductibles through a captive insurance company we established. Certain of the properties in our portfolio are located in areas known to be seismically active. See “Potential losses may not be covered by insurance.” in Item 1A. Risk Factors.
+
+15
+
+Table of Contents
+
+
+Index to Financial Statements
+
+
+Human Capital Resource Management
+
+
+As of December 31, 2020, we had 2,878 full-time employees. The geographic distribution of our global employee base as of December 31, 2020 is summarized in the following table.
+
+
+
+
+
+Region
+
+    
+
+Number of Employees
+
+North America
+
+ 
+
+ 1,317
+
+Europe
+
+ 
+
+ 1,426
+
+Asia Pacific
+
+ 
+
+ 135
+
+Total
+
+ 
+
+ 2,878
+
+
+Compensation, Benefits and Employee Wellbeing
+
+
+To attract and retain the best-qualified talent and to help our employees stay healthy, balance their work and personal lives, and meet their financial and retirement goals, we offer competitive benefits, including market-competitive compensation, healthcare, flexible vacation, parental leave, 401(k) company match, an employee stock purchase plan, fitness reimbursement program, commuter benefits, tuition reimbursement, employee skills development and leadership development. Employee surveys are conducted annually to solicit feedback and to help prioritize and improve employee engagement.
+
+
+We also encourage our employees to give back to the community by matching their contributions to eligible charitable organizations through our Matching Gifts Program. Additionally, our Donate 8 Program grants paid time off each year to employees for the purpose of volunteering for eligible organizations. We also sponsor and support the Women’s Leadership Forum and the Veterans Employee Group, which promote a diverse and inclusive network to grow and deliver the next wave of digital innovation.
+
+
+We prioritize providing programs and benefits that promote healthy and productive lifestyles. We offer a company-wide wellness program, Wellness@Digital, that serves to invest in the health, fitness, financial wellness and overall quality of life for our employees. We implement wellness challenges that promote physical activity and an active lifestyle, with additional price incentivizes for winners of the challenges.
+
+
+During the COVID-19 pandemic, we augmented our mental-health offerings for employees through our company-provided Employee Assistance Program. In recognition of the unique challenges that we faced in 2020, all employees, other than our Senior Vice Presidents and more senior officers received a special bonus of $1,000. We also doubled our corporate match under our Matching Gifts Program.  Additionally and amidst the pandemic globally and civil unrest in the U.S., we sought to play an active role in supporting the communities we operate in.  This included a $1 million global philanthropic commitment to charitable organizations including The International Red Cross and Red Crescent Movement’s COVID-19 relief fund, and a gift to the Equal Justice Initiative.
+
+
+Diversity and Inclusion
+
+
+It is our Company’s policy to recruit talent based on skill, knowledge, attitude and experience, without discrimination on the basis of gender, sexual orientation, age, family status, ethnic origin, nationality, disability or religious belief. In 2020, we formally launched our DEI Employee Leadership Council to assess the current state of our diversity, equity and inclusion (“DEI”) initiatives beyond the Women’s Leadership Forum and Veteran’s employee resource groups. The Council will identify future opportunities for progress, formulate a cohesive strategy, and ultimately lead our global DEI effort. The DEI Council is led by employees spanning various management levels and global regions with program support from our executive management team. Additionally, our Chief Executive Officer A. William Stein has signed the CEO Action Pledge for Diversity & Inclusion, the largest CEO-driven business commitment to advance diversity and inclusion in the workplace. Mr. Stein is Co-Chair of Nareit’s Dividends through Diversity, Equity & Inclusion CEO Council, seeking to advance diversity and inclusion throughout our industry. We disclose our DEI strategy and initiatives annually in our ESG Report.
+
+
+16
+
+Table of Contents
+
+
+Index to Financial Statements
+
+
+COVID-19 Health and Safety
+
+
+As a result of the COVID-19 pandemic, we have put into place a number of health and safety measures to enable our operations teams to continue to work from our data centers and construction sites. We require social distancing in accordance with the Centers for Disease Control and Prevention (“CDC”) and local health agency guidelines, have made modifications to our facilities, including posting signage detailing health and safety protocols, engage in regular sanitation, and require all visitors and employees to wear facial coverings. We have also modified staffing levels to avoid potential cross contamination among teams, and have instituted customer, employee and visitor screening. Together with our operations teams, we have implemented innovative approaches to maintain our high standards of customer service, including virtual data center tours to ensure that activities typically accomplished on-site or in-person continued throughout periods of reduced travel. Our non-essential and corporate personnel adopted a work-from-home approach beginning in March 2020, which has continued past the end of the year without significant impacts to productivity. We expect our corporate offices to remain largely closed through at least mid-year 2021. Refer to the discussion in Item 7. Management’s Discussion and Analysis for further information related to the impact of the pandemic on our business.
+
+
+Available Information
+
+All reports we file with the SEC are available free of charge via EDGAR through the SEC website at www.sec.gov. We will also provide copies of our Forms 8-K, Forms 10-K, Forms 10-Q, Proxy Statements and amendments to those documents at no charge to investors upon request and make electronic copies of such reports available through our website at www.digitalrealty.com as soon as reasonably practicable after filing such material with the SEC. The information found on, or otherwise accessible through, our website is not incorporated by reference into, nor does it form a part of, this report or any other document that we file with the SEC.
+
+Offices
+
+Our headquarters are located in Austin, Texas. We have regional U.S. offices in Boston, Chicago, Dallas, Los Angeles, New York, Northern Virginia, Phoenix and San Francisco and regional international offices in Amsterdam, Dublin, London, São Paulo, Singapore, Sydney, Tokyo and Hong Kong.
+
+Reports to Security Holders
+
+Digital Realty Trust, Inc. is required to send an annual report to its securityholders and to our Operating Partnership’s unitholders.

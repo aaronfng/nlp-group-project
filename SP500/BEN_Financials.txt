@@ -1,0 +1,395 @@
+GENERAL
+Franklin Resources, Inc. (“Franklin”) is a holding company with subsidiaries operating under our Franklin Templeton® and/or subsidiary brand names. Franklin’s common stock is traded on the New York Stock Exchange (the “NYSE”) under the ticker symbol “BEN” and is included in the Standard & Poor’s 500 Index. In this Annual Report, Franklin and its subsidiaries are collectively referred to as the “Company,” and words such as “we,” “us,” “our” and similar terms refer to the Company.
+We offer our services and products under our various distinct brand names, including, but not limited to, Franklin®, Templeton®, Legg Mason®, Balanced Equity Management®, Benefit Street Partners®, Darby®, Edinburgh Partners™, Fiduciary Trust™, Franklin Bissett®, Franklin Mutual Series®, K2® and LibertyShares®. In addition, pursuant to our acquisition of Legg Mason, Inc. (“Legg Mason”) on July 31, 2020, as described further below, we acquired certain additional brand names including Brandywine Global Investment Management®, Clarion Partners®, ClearBridge Investments®, Martin Currie®, QS Investors®, Royce® Investment Partners and Western Asset Management Company®. Unless otherwise indicated, our “funds” means the funds offered under our various brand names.
+We are a global investment management organization with $1,418.9 billion in assets under management (“AUM”) as of September 30, 2020. Our mission is to help clients achieve better outcomes through investment management expertise, wealth management and technology solutions. Through our investment adviser subsidiaries (“specialist investment managers”), including those acquired through our Legg Mason acquisition, we bring extensive capabilities in fixed income, equity, custom multi-asset solutions and alternatives. With more than 70 years of investment experience, we are committed to providing clients with exceptional investment management services and have developed a globally diversified business, including through strategic acquisitions. Our specialist investment managers offer diverse perspectives and specialized expertise across asset classes and strategies, distributed to both institutional and retail clients.
+
+
+3
+Table of Contents
+
+Through our investment products, we provide investment management and related services to retail, institutional and high-net-worth investors in jurisdictions worldwide. We deliver our investment capabilities through a variety of products and vehicles and via multiple points of access, including directly to investors and through financial intermediaries. Our investment products include our sponsored funds, as well as institutional and high-net-worth separate accounts, retail separately managed account programs, sub-advised products, and other investment vehicles. Our sponsored funds include registered funds (including exchange-traded funds, or “ETFs”) and unregistered funds. We offer a broad product mix of fixed income, equity, multi-asset, alternative and cash management asset classes and solutions that meet a variety of investment goals and needs for investors. In addition to investment management, our services include fund administration, sales and distribution, and shareholder servicing. We may perform services directly or through third parties. We also provide sub-advisory services to certain investment products sponsored by other companies that may be sold to investors under the brand names of those other companies or on a co-branded basis.
+We offer our clients the combined experience of our investment professionals with expertise across asset classes and a sharp focus on managing risk. We aim to deliver strong investment performance for our clients by offering a broad range of strategies and drawing on the extensive experience and perspective gained through our long history in the investment management business.
+We know that success demands smart and effective business innovation, solutions and technologies, and we remain focused on investment excellence, innovating to meet evolving client goals, and building strong partnerships by delivering superior client service. We continue to focus on the long-term investment performance of our investment products and on providing high quality customer service to our clients.
+The business and regulatory environments in which we operate globally remain complex, uncertain and subject to change. We are subject to various laws, rules and regulations globally that impose restrictions, limitations, registration, reporting and disclosure requirements on our business, and add complexity to our global compliance operations.
+Acquisition of Legg Mason
+On July 31, 2020, we completed our acquisition of Legg Mason pursuant to the terms and conditions of the Agreement and Plan of Merger, dated as of February 17, 2020, by and among Franklin, Legg Mason and Alpha Sub, Inc., a wholly-owned subsidiary of Franklin (the “Merger Agreement”), pursuant to which Legg Mason became a wholly-owned subsidiary of Franklin. Under the Merger Agreement, at the effective time of the acquisition, we acquired all of the outstanding common stock of Legg Mason for a purchase consideration of $4.5 billion in cash and $0.2 billion related to the settlement of historical compensation arrangements. Legg Mason has outstanding debt with an aggregate maturity value of $2.0 billion. The transaction increased our assets under management by $797.4 billion as of the date of the acquisition. The acquisition significantly deepens our presence in key geographies and creates an expansive investment platform that is well balanced between institutional and retail client AUM.
+Other Recent Development
+Effective October 1, 2020, the capabilities of QS Investors, which became one of our specialist investment managers through the Legg Mason acquisition, were combined with our Franklin Templeton Multi-Asset Solutions group to form Franklin Templeton Investment Solutions, a solutions platform designed to deliver an expanded range of investment capabilities to clients. Our combined teams of investment professionals oversee various multi-asset strategies, leveraging a broad spectrum of investment capabilities from fundamental to quantitative.
+Company History
+Since 1947, the Company and its predecessors have been engaged in the investment management and related services business. Franklin was incorporated in the State of Delaware in November 1969, and originated our mutual fund business with the initial Franklin family of funds, known for its fixed income funds and growth and value-oriented equity funds. Over the years, we have expanded and developed our business to meet evolving investor needs, in part, by acquiring companies engaged in investment management and related services. We have added, among others: (i) the Templeton family of funds, known for its global investing strategies and value style of investing, in 1992, (ii) the Franklin Mutual Series family of funds, known for its value-oriented equity funds, in 1996, (iii) the Franklin Bissett family of funds, known for its Canadian taxable fixed income funds and growth-oriented equity funds, in 2000, (iv) the Fiduciary Trust investment management, trust and fiduciary services firm, in 2001, (v) the Darby family of funds, known for its emerging markets investing strategies, in 2003, (vi) the Balanced Equity Management Pty. Limited specialty Australian equity manager, in 2011, (vii) the K2 Advisors hedge funds solutions provider, in 2012, (viii) the Edinburgh Partners global value investment manager based in the United Kingdom (the “U.K.”), in 2018, (ix) the Benefit Street Partners U.S. alternative credit manager, in 2019, (x) the Athena Capital Advisors investment and wealth management firm, in March 2020, (xi) The Pennsylvania Trust Company investment management,
+
+
+4
+Table of Contents
+
+trust and fiduciary services firm, in May 2020, and (xii) the Legg Mason global investment management organization, including certain specialist investment managers, on July 31, 2020.
+OUR BUSINESS STRUCTURE
+We believe in the value of active investment management. Through our subsidiaries, we are committed to helping investors navigate global markets, as well as continuing to evolve and build on our strengths to meet the needs of our clients. Through our investment products, including our expanded products acquired through the Legg Mason transaction, we serve a variety of clients including retail, institutional and high-net-worth investors in regions and jurisdictions worldwide. We generally derive our revenues and net income from providing investment management and related services to our products and sub-advised products. Our investment management fees, which represent the majority of our revenues, depend to a large extent on the level and relative mix of our AUM and the types of services provided. These fees and arrangements change from time to time.
+Our business is conducted through our subsidiaries, including those specialist investment managers registered with the U.S. Securities and Exchange Commission (the “SEC”) as investment advisers under the Investment Advisers Act of 1940 (the “Advisers Act”), those registered as investment adviser equivalents in jurisdictions including Australia, Brazil, Canada, China, Hong Kong, Ireland, India, Japan, Luxembourg, Malaysia, Mexico, Singapore, Switzerland, South Korea, Commonwealth of The Bahamas, the United Arab Emirates, the U.K., and certain other subsidiaries.
+Our U.S.-registered funds and most of our non-U.S.-registered funds operate as independent companies subject to the supervision and oversight of the funds’ own boards of directors or trustees. Most of our funds are registered open-end funds that continuously offer their shares to investors. We also offer registered closed-end funds that issue a set number of shares to investors in a public offering which shares are then traded on a public stock exchange. Our specialist investment managers manage a fund’s portfolio of securities in accordance with the fund’s stated objectives. The funds themselves do not have employees. To support the funds’ operations, our subsidiaries either provide or arrange for the investment and other management, shareholder servicing and administrative services required by the funds. We have outsourced certain administration services for our funds to third-party providers. An investor may purchase shares of an open-end fund through a broker-dealer, financial adviser, bank or other similar financial intermediary that provides investment advice to the investor, or an investor may purchase shares of a closed-end fund on the stock exchange where the fund is traded. Financial intermediaries may earn fees and commissions and receive other compensation with respect to fund shares sold to investors.
+Our AUM by Asset Class
+We offer a broad product mix under our fixed income, equity, multi-asset, alternative and cash management asset classes and solutions to meet a variety of investment goals. Our fees for providing investment management services are generally based on a percentage of AUM in the accounts that we advise, the asset classes of the accounts, and the types of services that we provide for the accounts. As of September 30, 2020, our total AUM by asset class on a worldwide basis was as follows:
+Asset Class
+ 
+Value in
+Billions
+ 
+Percentage
+of Total
+AUM
+Fixed Income
+ 
+$
+656.7
+
+ 
+46
+%
+Equity
+ 
+432.0
+
+ 
+31
+%
+Multi-Asset
+ 
+133.8
+
+ 
+9
+%
+Alternative
+ 
+124.0
+
+ 
+9
+%
+Cash Management
+ 
+72.4
+
+ 
+5
+%
+Total
+ 
+$
+1,418.9
+
+ 
+100
+%
+See “Assets under Management” under Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations, of this Annual Report for additional information.
+
+
+5
+Table of Contents
+
+Broadly speaking, other than changes in net assets due to acquisitions or dispositions by us (such as our acquisition of Legg Mason), the change in the net assets of our products depends primarily upon two factors: (i) the increase or decrease in the market value of the securities and instruments held in the portfolio of investments, and (ii) the level of inflows as compared to the level of outflows. We are subject to the risk of asset volatility resulting from changes in the global capital markets. In addition, changing market conditions and the evolving needs of our clients may cause a shift in our asset mix, potentially resulting in an increase or decrease in our revenues and income depending upon the nature of our AUM and the level of management fees we earn based on our AUM.
+Our AUM by Product Type
+We believe, despite market risks, that we have a competitive advantage as a result of the economic and geographic diversity of our products available to our clients. As of September 30, 2020, our total AUM by product type was as follows:
+(in billions)
+Asset Class
+ 
+U.S. Funds
+ 
+Non-U.S. Funds
+ 
+Institutional Separate Accounts
+ 
+Retail Separately Managed Accounts
+ 
+Other Accounts,
+Alternative Investment
+Products and Trusts
+ 
+Total
+Fixed Income
+ 
+$
+199.1
+
+ 
+$
+69.0
+
+ 
+$
+342.8
+
+ 
+$
+30.1
+
+ 
+$
+15.7
+
+ 
+$
+656.7
+
+Equity
+ 
+215.4
+
+ 
+71.2
+
+ 
+57.2
+
+ 
+65.4
+
+ 
+22.8
+
+ 
+432.0
+
+Multi-Asset
+ 
+81.9
+
+ 
+8.0
+
+ 
+6.4
+
+ 
+7.8
+
+ 
+29.7
+
+ 
+133.8
+
+Alternative
+ 
+6.0
+
+ 
+9.0
+
+ 
+33.1
+
+ 
+—
+
+ 
+75.9
+
+ 
+124.0
+
+Cash Management
+ 
+36.4
+
+ 
+35.0
+
+ 
+1.0
+
+ 
+—
+
+ 
+—
+
+ 
+72.4
+
+Total
+ 
+$
+538.8
+
+ 
+$
+192.2
+
+ 
+$
+440.5
+
+ 
+$
+103.3
+
+ 
+$
+144.1
+
+ 
+$
+1,418.9
+
+U.S. Funds. Our U.S. funds include U.S.-registered open-end and closed-end funds, ETFs and other products. As of September 30, 2020, our five largest U.S. funds represented, in the aggregate, 11% of total AUM.
+Non-U.S. Funds. Our non-U.S. funds include a variety of funds principally domiciled in Luxembourg or Ireland, registered for sale to non-U.S. investors in certain other countries, and products for the particular local market.
+Institutional Separate Accounts. Our institutional separate accounts are for various institutions for which we serve as an investment adviser.
+Retail Separately Managed Accounts. Our retail separately managed accounts, commonly known as managed accounts or wrap programs, are sponsored by various financial institutions.
+Other Accounts, Alternative Investment Products and Trusts. We also offer and serve as investment adviser to other accounts, alternative investment products and trusts.
+Certain Specialist Investment Managers Acquired Through the Legg Mason Transaction
+We acquired certain specialist investment managers through the Legg Mason transaction. Our specialist investment managers generally focus on a portion of the asset management industry in terms of the types of assets managed (primarily fixed income, equity or alternatives) and each differs in the types of products and services offered, the investment styles utilized, the distribution channels used, and the types and geographic locations of its clients. Each typically markets its products and services under its own brand name, with certain distribution functions provided by our corporate distribution subsidiaries. We have in place revenue sharing arrangements with certain of our specialist investment managers acquired through the Legg Mason transaction. Below is a brief overview of our specialist investment managers acquired through the Legg Mason transaction.
+Brandywine Global Investment Management is a global asset manager based in Philadelphia, with additional offices in the U.K., Canada and Singapore. It provides investment advisory services primarily to separately managed accounts for institutional clients in a range of fixed income, including global and international fixed income, and equity investment strategies. It also provides investment advisory services to U.S. mutual funds, international locally domiciled funds, cross-border funds, privately offered funds, and separately managed account programs sponsored by third parties.
+
+
+6
+Table of Contents
+
+Clarion Partners is a manager of real estate investment funds based in New York, with additional offices in Dallas, Los Angeles, Boston, Washington, DC, the U.K. and Germany. It provides a broad range of equity and debt real estate strategies across the risk/return spectrum through separate accounts as well as private funds primarily aimed at institutional investors and acts as sub-adviser to a publicly offered Franklin Templeton real estate income fund aimed at retail investors.
+ClearBridge Investments is an equity asset manager based in New York, with additional offices in Baltimore, Wilmington and Australia. It provides asset management services to certain equity funds (including balanced funds and closed-end funds), retail separately managed account programs, and to institutional clients primarily through separate accounts. In addition, the capabilities of RARE® Infrastructure, a specialist investment manager acquired through the Legg Mason transaction based in Australia, have been integrated into ClearBridge.
+Martin Currie is an international equity specialist based in Scotland, with additional offices in other locations in the U.K., Australia and Singapore. It manages U.S. and international equity portfolios for a global client base of financial institutions, foundations, endowments, pension funds, family offices, government agencies and investment funds.
+QS Investors is a customized solutions and global quantitative equities investment manager based in New York, with an additional office in Boston. It provides asset management and advisory services to a diverse array of institutional clients. Effective October 1, 2020, the capabilities of QS Investors were combined with our multi-asset solutions group to form our Franklin Templeton Investment Solutions platform. QS Investors remains an indirect subsidiary of Franklin.
+Royce Investment Partners is the investment adviser to The Royce Funds, a proprietary range of equity U.S. mutual funds, and to certain of our international funds. In addition, it manages other pooled and separately managed accounts, primarily for institutional clients. Based in New York, Royce generally invests in smaller company stocks using a value approach.
+Western Asset Management Company is a fixed income asset manager based in Pasadena with additional offices and operations around the globe. Its focus is on long-term value investing across a range of fixed income sectors. Western Asset offers fixed income strategies across the liquidity, maturity and risk spectrums.
+Our Range of Services and Capabilities
+1.    Investment Management Services
+We are committed to providing active investment management and strategic advice for our clients. Our specialist investment managers offer fixed income, equity, multi-asset and alternative strategies through various investment products. Through our investment products, we provide a broad array of investment management services to retail, institutional and high-net-worth clients. Our investment products include registered open-end and closed-end funds, private funds, institutional separate accounts, retail separately managed accounts, and other accounts, alternative investment products and trusts. Our clients include institutions, corporations, endowments, charitable foundations, pension and defined contribution plans, and individuals.
+We distribute and market globally our different capabilities under our brand names through various subsidiaries. We primarily attract new institutional business through our relationships with pension, defined contribution and management consultants, direct sales efforts and additional mandates from our existing client relationships, as well as from our responses to requests for proposals. We also market and distribute our products through various subsidiaries to institutional investors with separate accounts. A few of our subsidiaries also serve as direct marketing broker-dealers for institutional investors for certain of our private funds, and some of our private funds may utilize third-party placement agents.
+Our services also include management of our ETF platforms. Our ETF platforms include smart beta and actively managed ETFs, as well as additional lower fee passive ETF products. ETFs trade like stocks, fluctuate in market value and may trade at prices above or below the ETF’s net asset value.
+Our specialist investment managers provide investment management services pursuant to agreements in effect with each of our investment products and the products for which we provide sub-advisory services. Investment management fees are generally determined as a percentage of AUM pursuant to such contractual arrangements. Our investment management services include services to accounts for which we have full investment discretion and to accounts for which we have no investment discretion. Our services include fundamental investment research and valuation analyses, including original economic, political, industry and company research, and analyses of suppliers, customers and competitors. Our management fee on an account varies with the types of services that we provide for the account, among other things.
+
+
+7
+Table of Contents
+
+Our subsidiaries that provide discretionary investment management services for our products and sub-advised products either perform or obtain investment research, and determine which securities the products will purchase, hold or sell under the supervision and oversight of the funds’ boards of directors or trustees, as applicable. In addition, these subsidiaries may take all appropriate steps to implement such decisions, including arranging for the selection of broker-dealers and the execution and settlement of trades in accordance with applicable criteria set forth in the management agreements, internal policies, and applicable law and practice. Our subsidiaries that provide non-discretionary investment management services perform investment research for our clients and make recommendations as to which securities the clients purchase, hold or sell, and may or may not perform trading activities for the products.
+For our U.S.-registered funds, the board of directors or trustees of each fund and our management personnel regularly review the investment management fee structures for the funds in light of fund performance, the level and range of services provided, industry conditions and other relevant factors. Most of our investment management agreements between our subsidiaries and our funds must be renewed each year (after an initial two-year term), and must be specifically approved at least annually by a vote of each fund’s board of directors or trustees as a whole and separately by a majority of its directors or trustees who are not interested persons of the fund under the Investment Company Act of 1940 (the “Investment Company Act”), or by a vote of the holders of a majority of the fund’s outstanding voting securities. Our U.S. agreements automatically terminate in the event of their “assignment,” as defined in the Investment Company Act. In addition, either party may terminate such agreement without penalty after prior written notice. If agreements representing a significant portion of our AUM were terminated, it would have a material adverse impact on us.
+Under our investment management agreements with our funds and accounts, our monthly and annual fee rates may vary by asset class and type of services provided. Our agreements generally permit us to provide services to more than one fund or account and to other clients so long as our ability to render services to each fund/account is not impaired, and so long as purchases and sales of portfolio securities for various advised funds/accounts are made on an equitable basis.
+We use a “master/feeder” fund structure in certain situations. This structure allows an investment adviser to manage a single portfolio of securities at the “master fund” level and have multiple “feeder funds” that invest substantially all of their respective assets into the master fund. Individual and institutional shareholders generally invest in the “feeder funds,” which can offer a variety of tax, service and distribution options.
+Our non-U.S.-registered funds, private funds, institutional and high-net-worth separate accounts, and the products for which we provide sub-advisory services are typically subject to various termination rights and/or renewal provisions. Investment management fees are at times waived or voluntarily reduced when a new fund/account is established, and then increased to contractual levels within an established timeline or as net asset values reach certain levels.
+2.    Retail Separately Managed Account Programs
+Certain of our specialist investment managers provide asset management services to certain retail separately managed account programs sponsored by various financial institutions. These programs typically allow securities brokers or other financial intermediaries to offer their clients the opportunity to choose from a number of asset management services pursuing different investment strategies provided by one or more asset managers, and generally charge an all-inclusive fee that covers asset management, trade execution, asset allocation and custodial and administrative services.
+3.    Alternative Strategies
+Certain of our specialist investment managers manage alternative investment strategies. These strategies provide our clients with alternatives to traditional equity and fixed income products and services. Our alternative products include private credit funds and structured products, business development companies, hedge funds (funds of funds and custom advisory solutions), private equity funds, venture capital funds and real estate funds. These products employ various investment strategies and approaches, including loan origination, collateralized loan obligations, high-yield credit, hedge fund advisory, private equity and infrastructure transactions in emerging markets, global macro, financial technology, consumer loans, direct real estate investments, and custom-tailored investment programs.
+
+
+8
+Table of Contents
+
+4.    High-Net-Worth Investment Management, Trust and Custody
+Through our subsidiary Fiduciary Trust Company International (“Fiduciary Trust”), including its trust company and investment adviser subsidiaries, and through certain other of our subsidiaries, we provide investment management and related services to, among others, high-net-worth individuals and families, family offices, foundations and institutional clients. Fiduciary Trust offers investment management and advisory services across different investment styles and asset classes. The majority of these client assets are actively managed by individual portfolio managers, while a significant number of clients also seek multi-manager, multi-asset class solutions. Through our trust company subsidiaries, including Fiduciary Trust, we also may provide separately managed accounts, private funds, and trust, custody and related services, including administration, performance measurement, estate planning and tax planning. In addition, through our subsidiary Fiduciary Trust Company of Canada (“FTCC”), we provide investment management, wealth planning, and trust and estate services, and offer products to high-net-worth individuals and families and institutional clients in Canada.
+5.    Sales and Distribution
+Our sales and distribution capabilities and related efforts are critical components of our business and may be impacted by global distribution trends and changes within the financial services industry. In the U.S., our corporate distribution subsidiaries generally serve as the principal underwriters and distributors of shares of most of our sponsored U.S.-registered open-end funds, or U.S. mutual funds. Outside the U.S., certain of our non-U.S. subsidiaries provide sales, distribution and marketing services to our non-U.S.-registered funds. Some of our non-U.S.-registered funds, particularly our Luxembourg and Irish domiciled fund ranges, are distributed globally on a cross-border basis, while others are distributed exclusively in local markets.
+We earn sales and distribution fees primarily by distributing our funds pursuant to distribution agreements with the funds. Our U.S. mutual funds generally pay us distribution fees in return for sales, marketing and distribution efforts on their behalf. Under our distribution agreements with our U.S. mutual funds, we offer and sell the fund shares on a continuous basis and pay certain costs associated with selling, marketing and distributing the fund shares, including the costs of developing and producing sales literature, shareholder reports and prospectuses. Sales and distribution fees primarily consist of upfront sales commissions and ongoing distribution fees. Sales commissions are earned from the sale of certain classes of sponsored funds at the time of purchase, and may be reduced or eliminated depending on the amount invested and the type of investor. Therefore, sales fees generally will change with the overall level of gross sales, the size of individual transactions, and the relative mix of sales between different share classes and types of investors. Our sales and marketing teams generally are housed in separate subsidiaries from our asset manager subsidiaries.
+The majority of our U.S. mutual funds, with the exception of certain money market funds and certain other funds specifically designed for purchase through separately managed account programs, have adopted distribution plans under Rule 12b-1 (the “Rule 12b-1 Plans”) promulgated under the Investment Company Act. The Rule 12b-1 Plans permit the funds to pay us for marketing, marketing support, advertising, printing and sales promotion services relating to the distribution of their shares, subject to the Rule 12b-1 Plans’ limitations on amounts based on daily average AUM. Similar arrangements exist for the distribution of non-U.S.-registered funds. The Rule 12b-1 Plans are established for one-year terms and must be approved annually by a vote of each fund’s board of directors or trustees as a whole and separately by a majority of its directors or trustees who are not interested persons of the fund under the Investment Company Act. The Rule 12b-1 Plans are subject to termination at any time by a majority vote of the disinterested fund directors or trustees or by the particular fund’s shareholders.
+We pay substantially all of our sales and distribution fees earned as revenues, including fees earned under the Rule 12b-1 Plans, to the financial advisers and other intermediaries that sell our funds on our behalf. The distribution agreements with our U.S. mutual funds generally provide for us to pay commission expenses for sales of fund shares to qualifying broker-dealers and other independent financial intermediaries. These financial intermediaries receive various sales commissions and other fees for services in matching investors with funds whose asset classes match such investors’ goals and risk profiles. Such intermediaries also may receive fees for their assistance in explaining the operations of the funds and in servicing and maintaining investors’ accounts, and for reporting and various other distribution services. We are heavily dependent upon these third-party distribution and sales channels and business relationships. There is increasing competition for access to these channels, which has caused our distribution costs to rise and could cause further increases in the future as competition continues and service expectations increase.
+
+
+9
+Table of Contents
+
+Similar arrangements exist with the distribution of our non-U.S.-registered funds where, generally, our subsidiary that distributes the funds receives maintenance fees from the funds and pays commissions and certain other fees to financial advisers, banks and other intermediaries.
+In addition, our distribution subsidiaries may make additional payments to broker-dealers or other intermediaries that sell or arrange for the sale of shares of our U.S. mutual funds, including for marketing support. We also may make payments for other ancillary services, such as setting up funds on a broker-dealer’s fund trading system. Our non-U.S. subsidiaries may make similar marketing support and other payments to third-party intermediaries located outside the U.S. with respect to investments in, or the distribution of, our non-U.S.-registered funds.
+Other compensation may be offered to the extent not prohibited by federal or state laws or any self-regulatory agency, such as the Financial Industry Regulatory Authority (“FINRA”).
+6.    Shareholder Servicing
+We perform our shareholder servicing services directly or through third parties. Substantially all shareholder servicing fees are earned from our sponsored funds for providing transfer agency services, which include providing shareholder statements, transaction processing, customer service and tax reporting. Fees for U.S. funds are based on the level of AUM and the number of transactions in shareholder accounts, while outside of the U.S., the fees are based on the level of AUM and/or the number of shareholder accounts.
+Our subsidiary Franklin Templeton Investor Services, LLC (“FTIS”) serves as our primary shareholder servicing and dividend-paying agent for certain of our U.S.-registered open-end funds. FTIS is registered with the SEC as a transfer agent under the Securities Exchange Act of 1934 (the “Exchange Act”). FTIS may pay servicing fees to third-party intermediaries primarily to help offset costs associated with client account maintenance support, statement preparation and transaction processing. Such third parties maintain omnibus accounts with funds in the institution’s name on behalf of numerous beneficial owners of fund shares, or provide support for fund shareholder accounts. The funds reimburse FTIS for these third-party payments, subject to certain limitations, as well as other out-of-pocket expenses.
+Our Range of Investment Products
+Through our specialist investment managers, we offer active, passive and smart beta strategies and a broad range of products under our fixed income, equity, multi-asset, alternative and cash management asset classes and solutions. Our investment products are offered globally to retail, institutional and high-net-worth investors, which include individual investors, qualified groups, trustees, tax-deferred plans (such as individual retirement accounts, or IRAs, in the U.S. and registered retirement saving plans, or RRSPs, in Canada) or money purchase plans, employee benefit and profit sharing plans, trust companies, bank trust departments and institutional investors. Our products include portfolios managed for some of the world’s largest corporations, endowments, charitable foundations, pension funds and sovereign wealth funds, as well as wealthy individuals and other institutions. We use various investment techniques to focus on specific client objectives for these specialized portfolios.
+The products and capabilities that we offer accommodate a variety of investment goals, spanning the spectrum of our clients’ risk tolerance from capital appreciation (with our more growth-oriented products) to capital preservation (with our fixed income offerings). In seeking to achieve such objectives, each portfolio emphasizes different strategies and invests in different types of instruments.
+Our equity investment products include some that are considered value-oriented, others that are considered growth-oriented, and some that use a combination of growth and value characteristics, generally identified as blend or core products. Value investing focuses on identifying companies that our research analysts and portfolio managers believe are undervalued based on a number of different factors, usually put in the context of historical ratios such as price-to-earnings or price-to-book value; however, we also consider the future earnings potential of each individual company on a multi-year basis. Growth investing focuses on identifying companies that our research analysts and portfolio managers believe have sustainable growth characteristics, meeting our criteria for sustainable growth potential, quality and valuation. In this effort, the key variables we examine include: (i) market opportunity (overall size and growth), (ii) competitive positioning of the company, (iii) assessment of management (strength, breadth, depth, and integrity) and execution of plans, and (iv) the general financial strength and profitability of the enterprise, to determine whether the growth and quality aspects are properly reflected in the current share price. Paramount to all of our different equity products is the incorporation of independent, fundamental research through our own collaborative in-house group of investment professionals. Our approach across the variety of equity products we manage
+
+
+10
+Table of Contents
+
+emphasizes bottom-up stock selection within a disciplined portfolio construction process, and is complemented by our ongoing assessment of risk at both the security and portfolio levels.
+Portfolios seeking income generally focus on one or more of the following securities: (i) taxable and tax-exempt money market instruments, (ii) tax-exempt municipal bonds, (iii) global or regional fixed income securities, and (iv) fixed income debt securities of corporations, of the U.S. government and its sponsored agencies and instrumentalities, or of the various states in the U.S. Others focus on investments in particular countries and regions.
+In addition, our alternative investment strategies provide our clients with alternatives to traditional equity and fixed income products and services.
+COMPETITION
+The financial services industry is a highly competitive global industry. Competition is based on various factors, including, among others, business reputation, investment performance, product mix and offerings, service quality and innovation, distribution relationships, and fees charged. We face strong competition from numerous investment management companies, securities brokerage and investment banking firms, insurance companies, banks and other financial institutions, which offer a wide range of financial and investment management services and products to the same retail, institutional and high-net-worth investors and accounts that we are seeking to attract. We offer a broad product mix that meets a variety of investment goals and needs for different investors, and we may periodically introduce new products to provide investors with additional investment options.
+Due to our international presence and varied product mix, it is difficult to assess our market position relative to other investment managers on a worldwide basis, but we believe that we are one of the more widely diversified asset managers based in the U.S. We believe that our fixed income and equity asset mix, coupled with our global presence, will serve our competitive needs well over the long term. We continue to focus on the long-term performance of our investment products, service to clients and extensive marketing activities through our strong broker-dealer and other financial institution distribution network as well as with high-net-worth and institutional clients.
+The establishment of new investment management firms and continuous development of investment products increases the competition that we face. Many of our competitors have long-standing and established relationships with broker-dealers, investment advisers and their clients, and some have affiliated brokerage businesses. Others have focused on, offer and market specific product lines that provide strong competition to certain of our asset classes. In addition, consolidation in the financial services industry has created stronger competitors, some with greater financial resources and broader distribution channels than our own.
+FINANCIAL INFORMATION ABOUT SEGMENT AND GEOGRAPHIC AREAS
+Incorporated herein by reference is certain financial information about our business segment and geographic areas contained in Note 19 – Segment and Geographic Information in the notes to consolidated financial statements in Item 8 of Part II of this Annual Report.
+REGULATION
+General
+We are subject to extensive regulation. Virtually all aspects of our business are subject to various U.S. federal and state, and/or international regulation and supervision. Our regulators have broad authority with respect to the regulation of investment management and other financial services, including among other things, the authority to grant or cancel required licenses or registrations, impose net capital and other financial or operational requirements on us, and other enforcement powers described below. The regulations to which we are subject continue to change and evolve over time. Consequently, there is uncertainty associated with the regulatory environments in which we operate. The rules and regulations applicable to investment management organizations are very detailed and technical. Accordingly, the discussion below is general in nature, does not purport to be complete and is current only as of the date of this Annual Report.
+With our global operations, certain of our subsidiaries are registered with or licensed by various U.S. and/or non-U.S. regulators, and our funds are subject to various U.S. and/or non-U.S. laws. In particular, we are subject to various securities, compliance, corporate governance, disclosure, privacy, anti-bribery and anti-corruption, anti-money laundering, anti-terrorist financing, and economic, trade and sanctions laws and regulations, both domestically and internationally, as well as to various cross-border rules and regulations, such as the data protection rules under the General Data Protection Regulation (“GDPR”)
+
+
+11
+Table of Contents
+
+of the European Union (“EU”). We are subject to sanctions programs administered by the Office of Foreign Assets Control of the U.S. Department of Treasury (“USDT”), as well as sanctions programs adopted and administered by non-U.S. jurisdictions where our services and products are offered. Our subsidiaries with custody of client assets or accounts are also subject to the applicable laws and regulations of U.S. states and other non-U.S. jurisdictions regarding the reporting and escheatment of unclaimed or abandoned property. We must also comply with complex tax regimes in the jurisdictions where we operate our business.
+Failure to comply with applicable U.S. and non-U.S. laws, regulations, rules, codes, notices, directives, guidelines, orders, circulars and/or conditions in the various jurisdictions where we operate could result in a wide range of disciplinary actions against us, our subsidiaries and/or our business. Breaches of applicable laws and rules could result in the imposition of various sanctions and penalties, including, among other things, fines, disgorgements, cease and desist orders, censures, reprimands and the revocation, cancellation, suspension or restriction of licenses, registration status or approvals held by us or our business.
+See Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations, of this Annual Report, for financial information about our business, including certain regulatory financial impacts disclosed therein.
+U.S. Regulation
+U.S. Regulatory Framework. As a U.S. reporting company, we are subject to U.S. federal securities laws, state securities and corporate laws, state escheatment laws and regulations, and the rules and regulations of certain U.S. regulatory and self-regulatory organizations, such as the SEC and the NYSE. In particular, we are subject to various securities, compliance, corporate governance and disclosure rules adopted by the SEC. We are also subject to various other U.S. federal and state laws, including those affecting corporate governance and disclosure, such as the Securities Act of 1933, the Exchange Act, the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (“Dodd-Frank”), the Sarbanes-Oxley Act of 2002 and the USA PATRIOT Act of 2001. As a NYSE-listed company, we are also subject to NYSE listing and disclosure requirements.
+As a global investment management organization, certain of our subsidiaries are also subject to the rules and regulations of various U.S. regulatory and self-regulatory organizations, including the SEC, FINRA, the U.S. Commodity Futures Trading Commission (“CFTC”), the National Futures Association, the U.S. Department of Justice (“DOJ”), the U.S. Department of Labor, and the USDT. Our non-U.S. operations also may be subject to regulation by U.S. regulators, including the SEC, the CFTC and the DOJ (for example with respect to the Foreign Corrupt Practices Act of 1977).
+Certain of our subsidiaries are registered with the SEC under the Advisers Act and/or the CFTC, and many of our funds are registered with the SEC under the Investment Company Act. These registrations, licenses and authorizations impose numerous obligations, as well as detailed operational requirements, on such subsidiaries and funds. The Advisers Act imposes numerous obligations on our registered investment adviser subsidiaries, including record keeping, operating and marketing requirements, disclosure obligations and prohibitions against fraudulent activities. The Investment Company Act imposes similar obligations on the registered investment companies advised by our subsidiaries.
+U.S. Regulatory Reforms. Over the years, the U.S. federal corporate governance and securities laws have been augmented substantially and made significantly more complex by various legislation. As we continue to address our legal and regulatory requirements or focus on meeting new or expanded requirements, we may need to expend a substantial amount of additional time, costs and resources. Regulatory reforms may add further complexity to our business and operations and could require us to alter our investment management services and related activities, which could be costly, impede our growth and adversely impact our AUM, revenues and income. Certain key regulatory reforms in the U.S. that impact or relate to our business, and may cause, or continue to cause, us to incur additional obligations, include:
+Dodd-Frank. In July 2010, Dodd-Frank was adopted in the U.S. Dodd-Frank is expansive in scope and has required the adoption of extensive regulations and the issuance of numerous regulatory decisions.
+Systemically Important Financial Institutions. Dodd-Frank authorized the establishment of the Financial Stability Oversight Council (“FSOC”), the mandate of which is to identify and respond to threats to U.S. financial stability. Similarly, the U.S. and other members of the G-20 group of nations have empowered the Financial Stability Board (“FSB”) to identify and respond, in a coordinated manner, to threats to global financial stability. The FSOC may designate certain non-bank financial companies as systemically important financial institutions (“SIFIs”), which are subject to supervision and regulation by the Board of Governors of the Federal Reserve System. The FSB may designate certain non-bank financial companies as
+
+
+12
+Table of Contents
+
+global systemically important financial institutions (“G-SIFIs”); the additional regulatory requirements triggered by any such designation are not yet established. The FSOC and the FSB, as well as other global regulators, are considering what threats to U.S. and global financial stability, if any, arise from asset management companies and/or the funds that they sponsor or manage, and whether such threats can be mitigated by treating such entities as SIFIs or G-SIFIs and/or subjecting them to additional regulation. To the extent that we or any of our funds are designated as a SIFI or G-SIFI, such designations add additional supervision and/or regulation, which could include requirements related to risk-based capital, leverage, liquidity, credit exposure, stress testing, resolution plans, early remediation, and certain risk management requirements, that could impact our business.
+Derivatives and Other Financial Products. Dodd-Frank, as well as other legislation and regulations, impose restrictions and limitations on us related to our financial services and products, resulting in increased scrutiny and oversight. Under such regulations governing derivative transactions, certain categories of swaps are subject to the exchange of margin, while others are required to be submitted for clearing by a regulated clearing organization. In both cases, swaps must be reported on a swap execution facility. The EU and other countries have implemented, or are in the process of implementing, similar requirements. There is some risk that full mutual recognition may not be achieved between the various regulators, which may cause us to incur duplicate regulation and transaction costs. The SEC has also proposed a rule that would impose restrictions on the use of derivatives by registered funds.
+In addition, SEC rules have changed the structure and operation for certain types of money market funds, and certain U.S.-registered funds are required to adopt liquidity management programs.
+Privacy and Data Protection. There also has been increased regulation with respect to the protection of customer privacy and data, and the need to secure sensitive customer, personnel and others’ information. A majority of the jurisdictions where we operate are covered, or we expect will be soon covered, by privacy and data protection laws and regulations. As the regulatory focus on privacy continues to intensify and laws and regulations concerning the management of personal data continue to expand, risks related to privacy and data collection within our business will increase. In addition to the EU’s GDPR data protection rules (discussed below), we also are or may become subject to or affected by additional country, federal and state laws, regulations and guidance impacting consumer privacy, such as the California Consumer Privacy Act (“CCPA”) that took effect in January 2020, and provides for enhanced consumer protections for California residents, enforcement authority by the California Attorney General for CCPA violations, and the potential for private litigation, including statutory damages for data security breaches. There are also new laws that have been adopted this year, including, for example, Brazil’s Lei Geral de Proteção de Dados with regulatory enforcement commencing in August 2021, and the California Privacy Rights Act with an effective date of January 1, 2023. Noncompliance with our legal obligations relating to privacy and data protection could result in fines, penalties, legal proceedings by governmental entities or affected individuals, prohibitions on our use of personal data in one or more countries, and other significant legal and financial exposure.
+SEC Regulation Best Interest. In June 2019, the SEC adopted a package of new rules, amendments and interpretations, including Regulation Best Interest and a new form of relationship summary, designed to enhance investor protections for all retail customers. Effective June 30, 2020, such rules, among other things: (i) require broker-dealers to act in the best interest of their retail customers when recommending securities and account types, (ii) raise the broker-dealer standard of conduct beyond existing suitability obligations, and (iii) require broker-dealers and registered investment advisers to provide their retail clients with a new relationship summary disclosure document to inform such clients of the nature of their relationships with the clients’ investment professionals, including a description of services offered, the legal standards of conduct that apply to such services, the fees a client might pay, and conflicts of interest that may exist.
+U.S. and Global Tax Compliance. The U.S. Tax Cuts and Jobs Act includes various changes to the tax law, including a permanent reduction in the corporate income tax rate and one-time transition tax on certain non-U.S. earnings. See Note 14 – Taxes on Income in the notes to consolidated financial statements in Item 8 of Part II of this Annual Report for more information. Further, pursuant to ongoing efforts to encourage global tax compliance, the Organization for Economic Co-operation and Development (“OECD”) has adopted a global common reporting standard for the automatic exchange of financial information among participating countries (“CRS”), aimed at ensuring that persons with financial assets located outside of their tax residence country pay required taxes. In many cases, intergovernmental agreements between the participating countries will govern implementation of the new CRS rules. CRS is being implemented over a multi-year period and we will continue to monitor the implementing regulations and corresponding intergovernmental agreements to determine our requirements. CRS may subject us to additional reporting, compliance and administrative costs, and burdens in jurisdictions where we operate as a qualifying financial institution.
+
+
+13
+Table of Contents
+
+The OECD has also undertaken a new project focused on “Addressing the Tax Challenges of the Digitalization of the Economy.” This project may impact all multinational businesses by allocating a greater share of taxing rights to countries where consumers are located regardless of the current physical presence of a business, and by implementing a global minimum tax. There is significant uncertainty regarding such proposal and any unfavorable resolution could have an adverse effect on our effective tax rate.
+Non-U.S. Regulation
+Our operations outside the U.S. are subject to the laws and regulations of various non-U.S. jurisdictions and non-U.S. regulatory agencies and bodies. Our international operations are subject to regulatory systems in various jurisdictions, comparable to those covering our operations in the U.S.
+European Markets and Regulation. In Luxembourg, the Commission de Surveillance du Secteur Financier (“CSSF”) currently regulates our substantial activities in Luxembourg, including our subsidiary Franklin Templeton International Services S.à r.l. (“FTIS Lux”). FTIS Lux is licensed as a management company for both the Undertakings for Collective Investment in Transferable Securities Directive (“UCITS”) and alternative investment funds (“AIFs”) and, as such, it manages our Luxembourg-domiciled UCITS and our EU-domiciled AIFs. FTIS Lux’s license also covers certain MiFID (as defined below) investment services, such as discretionary portfolio management, investment advice and reception and transmission of orders in relation to financial instruments. The CSSF’s rules include capital resource, governance and risk management requirements, business conduct rules, remuneration rules and oversight of systems and controls.
+In Ireland, the Central Bank of Ireland (“CBI”) currently regulates our Irish business activities, including our Irish- licensed UCITS and AIF management company and our Irish-domiciled UCITS range. The CBI’s rules include capital resource, governance and risk management requirements, business conduct rules, remuneration rules and oversight of systems and controls.
+Our international funds include two broad ranges of cross-border UCITS that are domiciled in Luxembourg and Ireland, respectively, and thereby subject to regulation by the CSSF and CBI. Both UCITS are also registered for public sale in many countries around the world, both in the EU and beyond, and thus are also subject to the laws of, and certain supervision by, the governmental authorities of those countries.
+In the U.K., the Financial Conduct Authority (the “FCA”) and the Prudential Regulation Authority (the “PRA”) currently regulate certain of our subsidiaries. Authorization by the FCA and the PRA is required to conduct any financial services-related business in the U.K. pursuant to the Financial Services and Markets Act 2000. The FCA’s and PRA’s rules under that act govern a firm’s capital resources requirements, senior management arrangements, business conduct, interaction with clients, and systems and controls.
+In addition to the above, certain of our other European subsidiaries and branches, must comply with the pan-European regime established by the EU Markets in Financial Instruments Directive (“MiFID”), which regulates the provision of investment services and conduct of investment activities throughout the European Economic Area (“EEA”). MiFID sets out detailed requirements governing the organization and business conduct of investment firms and regulated markets. It also includes pre- and post-trade transparency requirements for equity markets and extensive transaction reporting requirements. Luxembourg and the U.K. have adopted the MiFID rules into national legislation, as have those other EU member states in which we have a presence.
+A review of MiFID by the European Commission led to the creation of a replacement directive and a new regulation (together “MiFID II”) that extend the scope of the original MiFID in response to issues raised by the financial crisis. Changes apply to pre- and post-trade reporting obligations and there is an expansion of the types of instruments subject to these requirements, such as bonds, structured products and derivatives. A new concept of trading venue has been created and algorithmic trading is subject to specific regulations. There are also changes to business conduct requirements, including selling practices, intermediary inducements and client categorization, as well as the provision of investment advice and management within the EU by non-EU advisers, including ours. Powers have also been given to EU national regulators to ban certain services and products and to the European Securities and Markets Authority to restrict temporarily certain financial activities within the EU.
+
+
+14
+Table of Contents
+
+One of the most significant developments in MiFID II is the ban on commission and other payments (“inducements”) to independent advisers and discretionary managers, which has changed the commercial relationships between fund providers and distributors. Arrangements with non-independent advisers have also been affected, as narrower rules around the requirement that any commission reflect an enhancement of the service to customers come into effect, along with a prescriptive list of permissible non-monetary benefits. The interpretation of the inducements rules has also resulted in major changes to how fund managers finance investment research with many firms, including ours, opting to pay for third-party investment research for client accounts covered by MiFID II.
+The European Market Infrastructure Regulation sets out rules in relation to the central clearing of specified derivatives. Mutual recognition of central counterparties has been achieved between the EU regulatory authorities and other important jurisdictions including the U.S. In addition, there are rules relating to margin requirements for uncleared over-the-counter derivatives. Future regulatory policy reviews will decide whether these rules are extended to other types of derivative instruments, which could increase operational costs for our business and transactional costs for our clients.
+The EU’s Alternative Investment Fund Managers Directive (“AIFMD”) regulates managers of, and service providers to, AIFs that are domiciled and offered in the EU and that are not authorized as retail funds under UCITS. The AIFMD also regulates the marketing within the EU of all AIFs, including those domiciled outside the EU. The introduction of a third-country passport to non-EU AIFs/AIF managers has been delayed until further positive advice is delivered to the European Commission regarding a sufficient number of non-EU countries to better evaluate the impact, including with respect to the proposed withdrawal of the U.K. from the EU. Compliance with the AIFMD’s requirements may restrict AIF marketing and imposes compliance obligations in the form of remuneration policies, capital requirements, reporting requirements, leverage oversight, valuation, stakes in EU companies, the domicile, duties and liability of custodians and liquidity management.
+The EU’s Market Abuse Regulation’s (“MAR”) primary aim is to increase market integrity and investor protection, enhancing the attractiveness of securities markets for raising capital. Under MAR, EU market abuse rules become extra-territorial as long as the instrument has a listing on an EEA regulated market.
+The EU regulation on packaged retail investment and insurance products (“PRIIPs”) imposed new pre-contractual disclosure requirements under the form of a Key Information Document (“KID”) for the benefit of retail investors when they are considering the purchase of packaged retail investment products or insurance-based products. It requires PRIIP manufacturers to draw up a KID that can be no longer than three pages in length and must be written in simple language. The regulation allows UCITS providers, who are already required to produce the UCITS Key Investor Information Document, a transitional period until December 2021, during which they will be exempt from its terms.
+The EU’s GDPR strengthened and unified data protection rules for individuals within the EU. GDPR also addresses export of personal data outside the EU. The primary objectives of GDPR are to give citizens control of their personal data and to simplify the regulatory environment for international business by unifying data protection regulation within the EU. Compliance with the stringent data protection rules under GDPR requires an extensive review of all of our global data processing systems. The failure to comply properly with GDPR rules on a timely basis and to maintain ongoing compliance with such rules may subject us to enforcement proceedings and significant fines and costs. For example, a failure to comply with GDPR could result in fines of up to 20 million Euros or 4% of our annual global revenues, whichever is higher.
+British Exit from the EU (“Brexit”). The U.K. withdrew from the EU on January 31, 2020. The timeline to conclude a new U.K./EU trade agreement by December 31, 2020 has been challenged in recent months by the global economic and health crisis caused by the coronavirus disease 2019 (“COVID-19”), and the final terms and implementation date of a new trade agreement remain uncertain. While we are monitoring the consequences very closely for our clients from an investment perspective, we believe that Brexit will not have a material impact on the way our firm operates in the U.K. or within the EU. Our long-standing U.K. businesses are expected to continue to provide their services to U.K. and certain non-EU customers. Furthermore, we have regulated subsidiaries and branch offices across continental Europe such that, in the event of a future restriction on cross-border trade in financial services and products between the U.K. and the EU, Brexit would be likely to have a limited effect on our EU business. Moreover, our primary cross-border UCITS, the Franklin Templeton Investment Funds Société d’Investissement à Capital Variable, or SICAV, investment fund range, which is the most widely-distributed such range in the world, is based in Luxembourg, and a smaller cross-border UCITS, also distributed throughout the EU and beyond, is based in Ireland. We have separate, U.K.-domiciled fund ranges that are, and will continue to be, distributed mainly in the U.K.
+
+
+15
+Table of Contents
+
+Australia. In Australia, our subsidiaries are subject to various Australian federal and state laws and are regulated by the Australian Securities and Investments Commission (“ASIC”). ASIC regulates companies, financial markets and financial services in Australia. ASIC imposes certain conditions on licensed financial services organizations that apply to our subsidiaries, including requirements relating to capital resources, operational capability and controls.
+Canada. In Canada, our subsidiaries are subject to provincial and territorial laws and are registered with and regulated by provincial and territorial securities regulatory authorities. The mandate of Canadian securities regulatory authorities is generally to protect investors and to foster fair and efficient capital markets. Securities regulatory authorities impose certain requirements on registrants, including a standard of conduct, capital and insurance, record keeping, regulatory financial reporting, conflict of interest management, compliance systems and security holder reporting. In addition, as a federally licensed trust company, FTCC is subject to regulation and supervision by the Office of the Superintendent of Financial Institutions Canada and another subsidiary, FTC Investor Services Inc., is a member of and regulated by the Mutual Fund Dealers Association of Canada. These regulatory bodies have similar requirements to those of the securities regulatory authorities with a view to ensuring the capital adequacy and sound business practices of the subsidiaries and the appropriate treatment of their clients.
+In December 2019, rule amendments to implement the client focused reforms initiative of the Canadian Securities Administrators (“CSA”), the umbrella organization of provincial and territorial securities regulatory authorities, became effective and will be phased in during a two-year transition period. These rule amendments, among other things, enhance current registrant requirements in the areas of know your client, know your product, suitability, conflicts of interest and relationship disclosure information. The purposes of such amendments are to better align the interests of Canadian registrants with the interests of their clients, to improve outcomes for clients and to make clearer to clients the nature and the terms of their relationship with registrants. In addition, in 2020, the CSA published final rule amendments regarding certain of its previously proposed policy changes from June 2018 in connection with its mutual fund fee reform project. The final amendments prohibit: (i) all forms of deferred sales charges (“DSC”) in connection with the purchase of mutual fund securities (except in Ontario which is proposing restrictions on the use of DSC), and (ii) the payment of trailing commissions to discount brokers in respect of their distribution of mutual fund securities. These rule amendments will become effective in June 2022.
+Cayman Islands. In the Cayman Islands, the Cayman Islands Monetary Authority (“CIMA”) is responsible for the regulation and supervision of financial services, the monitoring of compliance with anti-money laundering regulations, and the issuance of statements of principle and guidance. In February 2020, the Cayman Islands enacted the Private Funds Law 2020 (the “Private Funds Law”), which requires private funds that engage in business in or from the Cayman Islands to register with CIMA, unless an exemption applies. The Private Funds Law applies to any Cayman Islands closed-end fund. Open-end funds such as hedge funds continue to be regulated by the Mutual Funds Law in the Cayman Islands. The new registration requirements applicable to our private funds domiciled in the Cayman Islands have posed, and may continue to pose, additional compliance costs and burdens on our business.
+Hong Kong. In Hong Kong, our subsidiary is subject to the Securities and Futures Ordinance (“SFO”) and its subsidiary legislation, which governs the securities and futures markets and regulates, among others, offers of investments to the public and provides for the licensing of dealing in securities and asset management activities and intermediaries. This legislation is administered by the Securities and Futures Commission (“SFC”). The SFC is also empowered under the SFO to establish standards for compliance as well as codes and guidelines. Our subsidiary and its employees conducting any of the regulated activities specified in the SFO are required to be licensed with the SFC, and are subject to the rules, codes and guidelines issued by the SFC from time to time.
+India. The Securities and Exchange Board of India, Reserve Bank of India, the Ministry of Corporate Affairs and the Department of Industrial Policy and Promotion are the major regulatory authorities that are capable of issuing directions of a binding nature to our subsidiaries in India.
+Japan. In Japan, our subsidiaries are subject to the Financial Instruments and Exchange Act and the Act on Investment Trusts and Investment Corporations. These laws are administered and enforced by the Japanese Financial Services Agency, which establishes standards for compliance, including capital adequacy and financial soundness requirements, customer protection requirements, and business conduct rules.
+Singapore. In Singapore, our subsidiaries are subject to, among others, the Securities and Futures Act (“SFA”), the Financial Advisers Act (“FAA”) and the subsidiary legislation promulgated pursuant to these Acts, which are administered by the Monetary Authority of Singapore (“MAS”). Our asset management subsidiaries and their employees conducting regulated activities specified in the SFA and/or the FAA are required to be licensed with the MAS.
+
+
+16
+Table of Contents
+
+Other Non-U.S. Jurisdictions. There are similar legal and regulatory arrangements in effect in many other non-U.S. jurisdictions where our subsidiaries, branches and representative offices, as well as certain joint ventures or companies in which we own minority stakes, are authorized to conduct business. We are also subject to regulation and supervision by, among others, the Securities Commission of The Bahamas, the Central Bank of Brazil and the Comissão de Valores Mobiliários in Brazil, the China Securities Regulatory Commission in the People’s Republic of China, the Financial Services Commission and the Financial Supervisory Service in South Korea, the Securities Commission in Malaysia, the Comision Nacional Bancaria y de Valores in Mexico, the Polish Securities and Exchange Commission, the Romanian Financial Services Authority, the Swiss Federal Banking Commission, the Financial Supervisory Commission in the Republic of China, the Dubai Financial Services Authority in the United Arab Emirates, and the State Securities Commission of Vietnam.
+INTELLECTUAL PROPERTY
+We have used, registered, and/or applied to register certain trademarks, service marks and trade names to distinguish our sponsored products and services from those of our competitors in the U.S. and in other countries and jurisdictions, including, but not limited to, Franklin®, Templeton®, Legg Mason®, Balanced Equity Management®, Benefit Street Partners®, Darby®, Edinburgh Partners™, Fiduciary Trust™, Franklin Bissett®, Franklin Mutual Series®, K2® and LibertyShares®. In addition, pursuant to our Legg Mason acquisition, our additional brand names include Brandywine Global Investment Management®, Clarion Partners®, ClearBridge Investments®, Martin Currie®, QS Investors®, Royce® Investment Partners and Western Asset Management Company®. Our trademarks, service marks and trade names are important to us and, accordingly, we enforce our trademark, service mark and trade name rights. The Franklin Templeton® brand has been, and continues to be, extremely well received both in our industry and with our clients, reflecting the fact that our brand, like our business, is based in part on trust and confidence. If our brand is harmed, our future business prospects may be adversely affected.
+HUMAN CAPITAL RESOURCES
+As of September 30, 2020, we employed approximately 11,800 employees and operated offices in over 30 countries. We depend upon our key personnel to manage our business, including our portfolio managers, investment analysts, investment advisers, sales and management personnel and other professionals as well as our executive officers and business unit heads. The retention of our key investment personnel is material to the management of our business. The departure of our key investment personnel could cause us to lose clients, which could adversely affect our business.
+AVAILABLE INFORMATION
+The SEC maintains a website that contains current and periodic reports, proxy and information statements, and other information regarding issuers, including Franklin, that file electronically with the SEC, at www.sec.gov. Additional information about Franklin’s filings can also be obtained through our website at www.franklinresources.com under “Investor Relations.” We make available free of charge on our website Franklin’s Annual Report on Form 10‑K, Quarterly Reports on Form 10‑Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. Franklin periodically provides other information for investors on its website, such as press releases, presentations and other information about financial performance. The information on our website is not incorporated by reference into, and is not a part of, this Annual Report.

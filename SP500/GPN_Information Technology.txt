@@ -1,0 +1,242 @@
+Introduction
+
+We are a leading pure play payments technology company providing cutting edge payments and software solutions to approximately 3.5 million merchant locations and more than 1,300 financial institutions across more than 100 countries throughout North America, Europe, Asia-Pacific and Latin America. Our technologies, services and employee expertise enable us to provide a broad range of solutions that allow our customers to operate their businesses more efficiently across a variety of channels around the world. Headquartered in Georgia with approximately 24,000 employees worldwide, Global Payments is a member of the S&P 500. Our common stock is traded on the New York Stock Exchange under the symbol "GPN."
+
+Merger with Total System Services, Inc.
+
+On September 18, 2019, we consummated our merger with Total System Services, Inc. ("TSYS") (the "Merger") for total purchase consideration of $24.5 billion, primarily funded with shares of our common stock. Prior to the Merger, TSYS was a leading global payments provider, offering seamless, secure and innovative solutions to issuers, merchants and consumers. See "Note 2—Acquisitions" in the notes to the accompanying consolidated financial statements for further discussion of the Merger.
+
+Industry Overview
+
+The payments technology industry provides financial institutions, businesses and consumers with payment processing services, merchant acceptance solutions and related information and other value-added services. The industry continues to grow as a result of wider merchant acceptance and increased use of credit and debit cards, advances in payment processing technology and migration to ecommerce, omnichannel and contactless payment solutions. The proliferation of credit and debit cards, as well as other digital payment solutions, has made the acceptance of electronic payments a necessity for many businesses, regardless of size, in order to remain competitive. The outbreak of the COVID-19 virus in 2020 has further accelerated the use of electronic payments, the need for development of technologies and electronic-based solutions and expansion of ecommerce, omnichannel and contactless payment solutions. This increased use of cards and the availability of more sophisticated technology services to all market segments has resulted in an increasingly competitive and specialized industry.
+
+Strategy
+
+We seek to leverage the adoption of, and transition to, card, electronic and digital-based payments by expanding our share in our existing markets through our distribution channels and service innovation, as well as through acquisitions to improve our offerings and scale. We also seek to enter new markets through acquisitions, alliances and joint ventures around the world. We intend to continue to invest in and leverage our technology infrastructure and our people to increase our penetration in existing markets.
+
+The key tenets of our strategy include the following:
+
+•Deepen our competitive advantage through our pure play payments strategy;
+
+•Continue to scale the three pillars of our strategy: software-driven focus, omnichannel expansion and exposure to faster growth markets;
+
+•Further expand our leadership position in our technology-enabled businesses;
+
+•Enhance and expand our offerings as a product-led, sales-driven company;
+
+•Deliver operational excellence and outstanding customer experiences;
+
+4
+Table of Contents
+•Continue to develop seamless multinational solutions for leading global customers; and
+
+•Pursue potential domestic and international acquisitions of, investments in and alliances with companies that have high growth potential, significant market presence, sustainable distribution platforms and/or key technological capabilities.
+
+Competitive Strengths
+
+We believe that our competitive strengths include the following:
+
+•Global Footprint and Distribution - Our worldwide presence allows us to focus our investments on markets with promising gross domestic product fundamentals and favorable secular trends, makes us more attractive to customers with international operations and exposes us to emerging innovations that we can adopt globally, while diversifying our economic risk.
+
+•Technology Solutions - We provide innovative technology-based solutions, including enterprise software solutions, that enable our customers to operate their business more efficiently and simplify the payments process, regardless of the channel through which the transaction occurs. We believe our robust technology solutions will continue to differentiate us in the marketplace and will position us for continued growth.
+•Scalable Operating Environment and Technology Infrastructure - We operate with a multi-channel, global technology infrastructure, which provides scalable and innovative service offerings and a consistent service experience to our merchants, customers, financial institutions and other partners worldwide, while also driving sustainable operating efficiencies.
+
+•Strong, Long-lasting Partner Relationships - We have established strong, long-lasting relationships with many financial institutions, enterprise software providers, value-added resellers and other technology-based payment service providers, which enable us to deliver a set of diverse solutions to our customers.
+
+•Disciplined Acquisition Approach - Our proven track record for selectively and successfully sourcing, completing and integrating acquired businesses in existing and new markets positions us well for future growth and as an attractive partner for potential acquisition targets.
+
+Business Segments
+
+We operate in three reportable segments: Merchant Solutions, Issuer Solutions and Business and Consumer Solutions. See "Note 16—Segment Information" in the notes to the accompanying consolidated financial statements for additional information about our segments, including revenues, operating income and depreciation and amortization by segment as well as financial information about geographic areas in which we operate.
+
+Our foreign operations subject us to various risks, including, without limitation, currency exchange risks and political, economic and regulatory risks. See "Item 1A - Risk Factors" for additional information about these risks.
+
+Merchant Solutions Segment
+
+Through our Merchant Solutions segment, we provide payments technology and software solutions to customers globally. Our payment technology solutions are similar around the world in that we enable our customers to accept card, electronic, check and digital-based payments. Our comprehensive offerings include, but are not limited to, authorization services, settlement and funding services, customer support and help-desk functions, chargeback resolution, terminal rental, sales and deployment, payment security services, consolidated billing and statements and on-line reporting.
+
+In addition, we offer a wide array of enterprise software solutions that streamline business operations to customers in numerous vertical markets. We also provide a variety of value-added services, including specialty point-of-sale solutions, analytic and customer engagement tools, payroll and human capital management services and reporting that assist our customers with driving demand and operating their businesses more efficiently.
+
+Our value proposition is to provide distinctive high-quality, responsive and secure services to all of our customers. We distribute our Merchant Solutions services globally through multiple relationship-led and technology-enabled distribution channels and target customers in many vertical markets located throughout North America, Europe, Asia-Pacific and Latin
+5
+Table of Contents
+America. The majority of our revenues is generated by services priced as a percentage of transaction value or a specified fee per transaction, depending on the payment type or the market. We also earn software subscription and licensing fees, as well as other fees based on specific value-added services that may be unrelated to the number or value of transactions.
+
+Distribution Channels
+
+In the Merchant Solutions segment, we actively market and provide our payment services, enterprise software solutions and other value-added services directly to our customers through a variety of relationship-led and technology-enabled distribution channels.
+
+Through our relationship-led direct sales force worldwide, as well as bank and other referral partnerships, we offer our payments technology services, software and other value-added solutions directly to customers across numerous verticals in the markets we serve. We offer high-touch services that provide our customers with reliable and secure solutions coupled with high quality and responsive support services. Although our primary focus is on building high quality direct relationships with merchants, we also provide our services to merchants through independent sales organizations ("ISOs") and financial institutions.
+
+Many of our payment solutions are technology-enabled in that they incorporate or are incorporated into innovative, technology-driven solutions, including enterprise software solutions, designed to enable merchants to better manage their businesses. Our technology-enabled solutions represent a substantial component of our revenues. Our technology-enabled distribution includes integrated and vertical market software solutions and ecommerce and omnichannel solutions, each as described below.
+
+Global Payments Integrated Solutions. Our integrated solutions provide advanced payments technology that is deeply embedded into business management software solutions owned by our technology partners who operate in numerous vertical markets, primarily in North America. We grow our integrated solutions business when new or existing merchants enable payments services through enterprise software solutions sold by our partners, including existing and new partners.
+
+Vertical Markets Software Solutions. Our vertical markets software solutions provide advanced payments technology that is deeply integrated into business enterprise software solutions that we own. We distribute our vertical markets software solutions primarily through the following businesses:
+
+•ACTIVE Network. Through ACTIVE Network, we deliver cloud-based enterprise software, including payment technology solutions, to event organizers in the communities, government services and health and fitness markets.
+
+•AdvancedMD. Through AdvancedMD, we provide cloud-based enterprise solutions to small-to-medium sized ambulatory physician practices in the United States.
+
+•Education Solutions. We offer integrated payment solutions specifically designed for all levels of educational institutions. At the university level, we offer integrated commerce solutions, payment services, higher education loan services, credentialing services and open- and closed-loop payment solutions. For kindergarten through 12th grade, we provide ecommerce and in-person payments, cafeteria POS solutions and back-office management software, hardware, technical support and training.
+
+•Gaming. We offer a comprehensive suite of solutions to the gaming market in North America. These solutions include credit and debit card cash advance, cashless advance, iGaming solutions, traditional and electronic check processing and other services specific to this market.
+
+•Xenial. Through Xenial, we offer leading-edge enterprise software solutions, integrated with our payment services and other adjacent business service applications, to the restaurant and hospitality and retail vertical markets.
+
+Ecommerce and Omnichannel. We offer ecommerce and omnichannel solutions to our customers that seamlessly blend payment gateway services, retail payment acceptance infrastructure and payment technology service capabilities through a unified commerce platform to allow merchants to accept various payment methods through any channel across our geographical footprint. We sell ecommerce and omnichannel solutions to customers of all sizes, from small businesses accepting payments in a single country, to enterprise and multinational businesses that have complex payment needs and operate retail and online businesses in multiple countries.
+
+6
+Table of Contents
+Credit and Debit Card Transaction Processing
+
+Credit and debit card transaction processing includes the processing of the world's major international card brands, including American Express, Discover Card ("Discover"), JCB, Mastercard, UnionPay International ("UPI") and Visa, as well as certain domestic debit networks, such as Interac in Canada. Credit and debit networks establish uniform regulations that govern much of the payment card industry. During a typical payment transaction, the merchant and the card issuer do not interface directly with each other, but instead rely on payments technology companies, such as Global Payments, to facilitate transaction processing services, including authorization, electronic draft capture, file transfers to facilitate funds settlement and certain exception-based, back office support services such as chargeback and retrieval resolution.
+
+We process funds settlement under two models: a sponsorship model and a direct membership model. Under the sponsorship model, member clearing financial institutions ("Members") sponsor us and require our adherence to the standards of the networks. In these markets, we have sponsorship or depository and clearing agreements with financial institution sponsors. These agreements allow us to route transactions under the Members' control and identification numbers to clear card transactions through Mastercard and Visa. In this model, the standards of the card networks restrict us from performing funds settlement or accessing merchant settlement funds, and, instead, require that these funds be in the possession of the Member until the merchant has been funded.
+
+Under the direct membership model, we are direct members in various payment networks, allowing us to process and fund transactions without third-party sponsorship. Under this model, we route and clear transactions directly through the card brand’s network and are not restricted from performing funds settlement. Otherwise, we process these transactions similarly to how we process transactions in the sponsorship model. We are required to adhere to the standards of the various networks in which we are direct members. We maintain relationships with financial institutions, which may also serve as our Member sponsors for other card brands or in other markets, to assist with funds settlement.
+
+How a Card Transaction Works
+
+A typical payment transaction begins when a cardholder presents a card for payment at a merchant location where the card information is captured by a point-of-sale ("POS") terminal card reader or mobile device card reader, which may be sold or leased to the merchant and serviced by us. Alternatively, card and transaction information may be captured and transmitted to our network through a POS device or ecommerce portal by one of a number of services that we offer directly or through a value-added reseller. The card reader electronically records sales draft information, such as the card identification number, transaction date and transaction amount.
+
+After the card and transaction information is captured, the POS device automatically connects to our network through the internet or other communication channel in order to receive authorization of the transaction. For a credit card transaction, authorization services generally refer to the process in which the card issuer indicates whether a particular credit card is authentic and whether the impending transaction amount will cause the cardholder to exceed defined credit limits. In a debit card transaction, we obtain authorization for the transaction from the card issuer through the payment network verifying that the cardholder has access to sufficient funds for the transaction amount.
+
+As an illustration, shown below in the sponsorship model, on a $100.00 card transaction, the card issuer may fund the Member, our sponsor, (indirectly through the card network) $98.50 after retaining approximately $1.50 referred to as an interchange fee. The card issuer seeks reimbursement of $100.00 from the cardholder in the cardholder's monthly credit card statement. The Member would, in turn, pay the merchant $100.00. The net settlement after this transaction would require us to advance the Member $1.50. After the end of the month, we would bill the merchant a percentage of the transaction amount, or merchant discount, to cover the full amount of the interchange fee and our fee from the transaction. If our discount rate for the merchant in the above example was 2.00%, we would bill the merchant $2.00 after the end of the month for the transaction, reimburse ourselves for $1.50 in interchange fees and retain $0.50 as our fees for the transaction. Under some arrangements, we remit the net amount of $98.00 to the merchant, rather than funding the full $100.00 and subsequently billing the merchant at the end of the month. Discount rates vary based on negotiations with merchants and the economic characteristics of transactions. Interchange rates also vary based on the economic characteristics of individual transactions. Accordingly, our fee per transaction varies across our merchant base and is subject to change based on changes in discount rates and interchange rates. Our profit on the transaction reflects the fee received less payment network fees and operating expenses, including systems cost to process the transaction and commissions paid to our sales force or ISO. Payment network fees are charged by the card brands, in part, based on the value of transactions processed through their networks.
+
+7
+Table of Contents
+gpn-20201231_g2.jpg
+
+Issuer Solutions Segment
+
+Through our Issuer Solutions segment, we provide solutions that enable financial institutions and other financial service providers to manage their card portfolios, reduce technical complexity and overhead and offer a seamless experience for cardholders on a single platform. In addition, we provide flexible commercial payments and ePayables solutions that support business-to-business payment processes for businesses and governments. We also offer complementary services, including account management and servicing, fraud solution services, analytics and business intelligence, cards, statements and correspondence, customer contact solutions and risk management solutions.
+
+Issuer Solutions segment revenues are derived from long-term processing contracts with financial institutions and other financial services providers. Payment processing services revenues are generated primarily from charges based on the number of accounts on file, transactions and authorizations processed, statements generated and/or mailed, managed services, cards embossed and mailed, and other processing services for cardholder accounts on file. Most of these contracts have prescribed annual minimums, penalties for early termination, and service level agreements that may affect contractual fees if specific service levels are not achieved. Issuer Solutions revenues also include loyalty redemption services and professional services.
+
+Business and Consumer Solutions Segment
+
+Our Business and Consumer Solutions segment provides general purpose reloadable ("GPR") prepaid debit and payroll cards, demand deposit accounts and other financial service solutions to the underbanked and other consumers and businesses in the United States through our Netspend® and other brands. Through our Business and Consumer Solutions segment, we provide customers with access to depository accounts insured by the Federal Deposit Insurance Corporation ("FDIC") with a menu of features specifically tailored to their needs. The Business and Consumer Solutions segment has an extensive distribution and reload network comprised of financial service centers and other retail locations throughout the United States, and is a program manager for FDIC-insured depository institutions that provide the services that the Business and Consumer Solutions segment develops, promotes and distributes. Business and Consumer Solutions currently has active agreements with four card issuing banks.
+
+8
+Table of Contents
+The Business and Consumer Solutions segment markets its services through multiple distribution channels, including alternative financial service providers, traditional retailers, direct-to-consumer and online marketing programs and contractual relationships with corporate employers. Business and Consumer Solutions segment revenues principally consist of fees collected from cardholders and fees generated by cardholder activity in connection with the programs that we manage. Customers are typically charged a fee for each purchase transaction made using their cards, unless the customer is on a monthly or annual service plan, in which case the customer is instead charged a monthly or annual subscription fee, as applicable. Customers are also charged a monthly maintenance fee after a specified period of inactivity. We also charge fees associated with additional services offered in connection with our accounts, including the use of overdraft features, a variety of bill payment options, card replacement, foreign exchange and card-to-card transfers of funds initiated through our call centers. Revenues are recognized net of fees charged by the payment networks for services they provide in processing transactions routed through them.
+
+Competition
+
+Our Merchant Solutions segment competes with financial institutions and merchant acquirers who provide businesses with merchant acquiring services and related services. We believe that as of December 31, 2020, we were one of the largest merchant acquirers in the small and medium-sized business segment (merchants who have less than $5 million in annual bankcard sales volume) in the United States. In the United States, we compete primarily with Fiserv, Inc. (and its alliances) ("Fiserv"), Fidelity National Information Services, Inc. ("FIS"), Chase Paymentech Solutions, LLC, Elavon, Inc., a subsidiary of U.S. Bancorp, Wells Fargo Bank, N.A and Square, Inc. While these are our primary competitors, our vertically focused business in the United States compete with other organizations.
+
+Internationally, financial institutions remain the primary providers of payment technology services to merchants, although the outsourcing of these services to third-party service providers is becoming more prevalent. In addition to financial institutions, competitors in Europe include Ayden N.V. and FIS.
+
+Our Issuer Solutions segment encounters competition from third-party payment card issuer processors, core banking platform providers, independent software vendors and various other firms that provide products and services to payment card issuers in the markets we serve. The United States market for third-party issuer processing is primarily serviced by three vendors, including TSYS, with our largest competitor being a subsidiary of Fiserv. We believe that as of December 31, 2020, we were the largest third-party processor for credit card issuers in North America and one of the largest in Europe based on net revenue from solutions provided to credit card issuers.
+
+Our Business and Consumer Solutions segment primarily competes with other demand deposit account and prepaid debit account program managers to provide financial service solutions to the underbanked and other consumers and businesses. Our primary competitors in this space include Green Dot Corporation, InComm and Fiserv. As of December 31, 2020, we believe that we were one of the two largest prepaid program managers in the United States based on gross dollar volume (total spending on the accounts we manage) processed.
+
+Safeguarding Our Business
+
+In order to provide our services, we process and store sensitive business information and personal information, which may include credit and debit card numbers, bank account numbers, social security numbers, driver’s license numbers, names and addresses, and other types of personal information or sensitive business information. Some of this information is also processed and stored by financial institutions, merchants and other entities, as well as third-party service providers to whom we outsource certain functions and other agents, which we refer to collectively as our associated third parties. We may have responsibility to the card networks, financial institutions, and in some instances, our merchants, ISOs and/or individuals, for our failure or the failure of our associated third parties (as applicable) to protect this information.
+
+We are subject to cyber security and information theft risks in our operations, which we seek to manage through cyber and information security programs, training and insurance coverage. To strengthen our security and cyber defenses, we continue to deploy multiple methods at different layers to defend our systems against misuse, intrusions and cyberattacks and to protect the data we collect. Further, we work with information security and forensics firms and employ advanced technologies to help prevent, investigate and address issues relating to processing system security and availability. We also collaborate with third parties, regulators and law enforcement, when appropriate, to resolve security incidents and assist in efforts to prevent unauthorized access to our processing systems.
+
+9
+Table of Contents
+Intellectual Property
+
+Our intellectual property is an important part of our strategy to be a leading provider of payment technology and software solutions. We use a combination of internal policies, intellectual property laws and contractual provisions to protect our proprietary technologies and brands. In addition, to protect our various brands, we seek and maintain registration of U.S. and international patents, trademarks, service marks and domain names that align with our brand strategy. We also enforce our trademarks against potential sources of confusion that could harm our brand and ability to compete. In addition to using our intellectual property in our own operations, we grant licenses to certain of our customers to use our intellectual property.
+
+Human Capital Management
+
+Our company currently does business in over 100 countries around the world, with team members living and working in 38 of them. As of December 31, 2020, our approximately 24,000-employee workforce represented approximately 80 nationalities and 16 natively spoken languages, with approximately 68% residing in the Americas, 12.5% residing in Europe and 19.5% residing in Asia Pacific. Many of our employees are highly skilled in technical areas specific to payment technology and software solutions.
+
+Growth and Development
+
+Our strategy to develop and retain the best talent includes an emphasis on employee development and training. Our online training platform provides a vast array of tools and application resources for all team members to build learning experiences and skills. In order to help our employees strengthen the skills and behaviors needed for career advancement, the enhanced curriculum has been mapped to each of our defined leadership capabilities. Mandatory annual unconscious bias training is also required for all team members.
+
+Well-being and Safety during COVID-19 Pandemic
+
+The success of our business is connected to the well-being of our team members. Accordingly, we are committed to the health, safety and wellness of our team members worldwide. In response to the COVID-19 pandemic, we implemented significant changes that we determined were in the best interest of our team members as well as the communities in which we operate. This included enabling the vast majority of our worldwide employees to seamlessly shift to work from home. Over the past several years, we have made significant investments in our operating environments and technology that support day-to-day execution. The largely cloud-based systems and collaboration tools we use globally facilitated this smooth transition of operations to business continuity mode. Additional health and safety measures have been implemented for team members continuing critical work within office locations, such as:
+
+•Increasing cleaning protocols across all our locations;
+
+•Initiating regular communication regarding effects of the COVID-19 pandemic on our operations, including health and safety protocols and procedures;
+
+•Adjusting attendance policies to encourage those who are sick to stay home; and
+
+•Implementing protocols to address actual and suspected COVID-19 cases and potential exposure.
+
+Inclusion and Diversity
+
+Our inclusion and diversity program focuses on workforce (our people), workplace (culture, tools and programs) and community. We believe that our business is strengthened by a diverse workforce that reflects the communities in which we operate. We believe all of our employees should be treated with respect and equality, regardless of gender, ethnicity, sexual orientation, gender identity, religious beliefs, or other characteristics and to further this goal, we formally launched an inclusion and diversity initiative in 2018. As part of this initiative, we became a signatory to the CEO Action for Diversity and Inclusion, the largest CEO-driven business commitment to advance inclusion and diversity in the workplace. We have worked to make inclusion and diversity a common thread in all of our human resource practices so that we can attract, develop, and retain the best talent for our workforce. Our focus on these efforts includes:
+
+•Establishing an Inclusion and Diversity Advisory Council, consisting of team members worldwide who provide insight and input on our inclusion and diversity initiative;
+
+•Launching employee resource groups whose mission is to foster support, professional development, and cultural inclusivity for LGBTQIA, women, veterans, and Black team members;
+10
+Table of Contents
+
+•Creating a sponsorship program to ensure that women and people of color are represented in succession planning for key leadership roles; and
+
+•Establishing the Social Justice and Equality fund as a part of our pre-established philanthropic giving, which is used to advocate for or support education, health and wellness, financial empowerment and social equality in underserved communities.
+
+For more information on certain of our human capital practices, including inclusion and diversity, refer to the Proxy Statement Summary section of our 2021 Proxy Statement.
+
+Regulation
+
+Various aspects of our business are subject to regulation and supervision under federal, state and local laws in the United States, and foreign laws, regulations and rules, as well as local escheat laws and privacy and information security regulations. In addition, we are subject to rules promulgated by the various payment networks, including American Express, Discover, Interac, Mastercard and Visa. Set forth below is a brief summary of some of the significant laws and regulations that apply to us. These descriptions are not exhaustive, and these laws, regulations and rules frequently change and are increasing in number.
+
+We are currently in compliance with existing legal and regulatory requirements and do not expect that maintaining compliance with these regulations will have a material adverse effect on our capital expenditures, earnings or competitive and financial positions. See "Item 1A - Risk Factors" for additional discussion of the potential risks associated with future changes in laws or regulations.
+
+Dodd-Frank Act
+
+The Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (the "Dodd-Frank Act") restricts the amounts of debit card fees that certain institutions can charge merchants. Pursuant to regulations promulgated by the Federal Reserve Board, debit interchange rates for card issuers with assets of $10 billion or more are capped at $0.21 per transaction and an ad valorem component of 5 basis points to reflect a portion of the issuer's fraud losses plus, for qualifying issuers, an additional $0.01 per transaction in debit interchange for fraud prevention costs.
+
+In addition, the Dodd-Frank Act limits the ability of payment card networks to impose certain restrictions because it allows merchants to: (i) set minimum dollar amounts (not to exceed $10) for the acceptance of a credit card (and allows federal governmental entities and institutions of higher education to set maximum amounts for the acceptance of credit cards) and (ii) provide discounts or incentives to encourage consumers to pay with cash, checks, debit cards or credit cards.
+
+The rules also contain prohibitions on network exclusivity and merchant routing restrictions that require a card issuer to enable at least two unaffiliated networks on each debit card, prohibit card networks from entering into exclusivity arrangements and restrict the ability of issuers or networks to mandate transaction routing requirements. The prohibition on network exclusivity has not significantly affected our ability to pass on network fees and other costs to our customers, nor do we expect it to in the future.
+
+The Dodd-Frank Act also created the Consumer Financial Protection Bureau ("CFPB"), which has assumed responsibility for enforcing federal consumer protection laws, and the Financial Stability Oversight Council, which has the authority to determine whether any nonbank financial company, such as us, should be supervised by the Board of Governors of the Federal Reserve System (the "Federal Reserve") on the ground that it is "systemically important" to the U.S. financial system. Accordingly, we may be subject to additional systemic risk-related oversight.
+
+Money Transmission, Sale of Checks and Payment Instrument Laws and Regulations
+
+Our Business and Consumer Solutions segment is subject to money transfer and payment instrument licensing regulations. We have obtained licenses to operate as a money transmitter, seller of checks and/or provider of payment instruments in 49 states and the District of Columbia.
+
+Our Business and Consumer Solutions segment is subject to direct supervision and regulation by the relevant state banking departments or similar agencies charged with enforcement of the relevant statutes and we must comply with various requirements, such as those related to the maintenance of a certain level of net worth, surety bonding, selection and oversight
+11
+Table of Contents
+of our authorized agents, maintaining permissible investments in an amount equal to or in excess of our outstanding payment obligations, recordkeeping and reporting and disclosures to consumers. Our Business and Consumer Solutions segment is also subject to periodic examinations by the relevant licensing authorities, which may include reviews of our compliance practices, policies and procedures, financial position and related records, various agreements that we have with our issuing banks, distributors and other third parties, privacy and data security policies and procedures and other matters related to our business.
+
+Banking Laws and Regulations
+
+Because we provide electronic payment processing services to banks and other financial institutions, we are subject to examination by the Federal Financial Institutions Examination Counsel (the "FFIEC"), an interagency body comprised primarily of federal banking regulators, and also subject to examination by the various state financial regulatory agencies that supervise and regulate the financial institutions for which we provide electronic payment processing and other payment related services. The FFIEC examines large data processors in order to identify and mitigate risks associated with systemically significant service providers, including specifically the risks they may pose to the banking industry.
+
+Privacy, Information Security and Other Business Practices Regulation
+
+Aspects of our business are also subject, directly or indirectly, to business and trade practices regulation in the United States, the United Kingdom, the European Union and elsewhere. For example, in the United States, we and our financial institution customers are, respectively, subject to the Federal Trade Commission’s and the federal banking regulators’ privacy and information safeguarding requirements under the Gramm-Leach-Bliley Act. These requirements limit the manner in which personal information may be collected, stored, used and disclosed. The Federal Trade Commission’s information safeguarding rules require us to develop, implement and maintain a written, comprehensive information security program containing safeguards that are appropriate for our size and complexity, the nature and scope of our activities and the sensitivity of any customer information at issue. In many jurisdictions, including every U.S. State, consumers must be notified in the event of a data breach, and such notification requirements continue to increase in scope and cost. The changing privacy laws in the United States, Europe and elsewhere, including the adoption by the European Union of the General Data Protection Regulation, and the California Consumer Privacy Act, which became effective in January 2020, create new individual privacy rights and impose increased obligations on companies handling personal data. In addition, multiple states, Congress and regulators outside the United States are considering similar laws or regulations which could create new individual privacy rights and impose increased obligations on companies handling personal data. See "Item 1A - Risk Factors" for additional discussion of the potential risks associated with future changes in laws or regulations.
+
+Anti-Money Laundering and Counter Terrorist Requirements
+
+In many countries, we are legally or contractually required to comply with the anti-money laundering laws and regulations, such as, in the United States, the Bank Secrecy Act, as amended by the USA PATRIOT Act (collectively, the "Bank Secrecy Act"), and similar laws of other countries, which require that customer identifying information be obtained and verified. In some countries, we are directly subject to these requirements; in other countries, we have contractually agreed to assist our sponsor financial institutions with their obligation to comply with anti-money laundering requirements that apply to them. In addition, we and our sponsor financial institutions are subject to the laws and regulations enforced by the Office of Foreign Assets Control ("OFAC"), which prohibit U.S. persons from engaging in transactions with certain prohibited persons or entities. Similar requirements apply in other countries. We have developed procedures and controls that are designed to monitor and address legal and regulatory requirements and developments and that allow our customers to protect against having direct business dealings with such prohibited countries, individuals or entities.
+
+The Financial Crimes Enforcement Network of the U.S. Department of the Treasury ("FinCEN") has issued a rule regarding the applicability of the Bank Secrecy Act's anti-money laundering provisions to "prepaid access programs." This rulemaking clarifies the anti-money laundering obligations for entities, such as our Business and Consumer Solutions business and its distributors, engaged in the provision and sale of prepaid access devices like our GPR prepaid cards. Certain of our operating subsidiaries have registered with FinCEN as a money services business. This registration results in our having direct responsibility to maintain and implement an anti-money laundering compliance program for such subsidiaries.
+
+12
+Table of Contents
+State Wage Payment Laws and Regulations
+
+The use of payroll card programs as a means for an employer to remit wages or other compensation to its employees or independent contractors is governed by state labor laws related to wage payments, which laws are subject to change. The paycard portion of our Business and Consumer Solutions segment includes payroll cards and convenience checks and is designed to allow employers to comply with applicable state wage and hour laws. Most states permit the use of payroll cards as a method of paying wages to employees, either through statutory provisions allowing such use or, in the absence of specific statutory guidance, the adoption by state labor departments of formal or informal policies allowing for their use. Nearly every state allowing payroll cards places certain requirements and/or restrictions on their use as a wage payment method, the most common of which involve obtaining the prior written consent of the employee, limitations on fees and disclosure requirements.
+
+Escheat Laws
+
+We are subject to unclaimed or abandoned property state laws in the United States and in certain foreign countries that require us to transfer to certain government authorities the unclaimed property of others that we hold when that property has been unclaimed for a certain period of time. Moreover, we are subject to audit by state and foreign regulatory authorities with regard to our escheatment practices.
+
+Debt Collection and Credit Reporting Laws
+
+Portions of our business may be subject to the Fair Debt Collection Practices Act ("FDCPA"), the Fair Credit Reporting Act ("FCRA") and similar state laws. These debt collection laws are designed to eliminate abusive, deceptive and unfair debt collection practices and may require licensing at the state level. The FCRA regulates the use and reporting of consumer credit information and also imposes disclosure requirements on entities that take adverse action based on information obtained from credit reporting agencies.
+
+Telephone Consumer Protection Act
+
+We are subject to the Telephone Consumer Protection Act ("TCPA") and various state laws to the extent we place telephone calls and short message service ("SMS") messages to customers and consumers. The TCPA regulates certain telephone calls and SMS messages placed using automatic telephone dialing systems or artificial or prerecorded voices.
+
+Where to Find More Information
+
+We file annual and quarterly reports, proxy statements and other information with the U.S. Securities and Exchange Commission ("SEC"). You may read and print materials that we have filed with the SEC from its website at www.sec.gov. In addition, certain of our SEC filings, including our annual reports on Form 10-K, our quarterly reports on Form 10-Q, our current reports on Form 8-K and amendments to them can be viewed and printed, free of charge, from the investor relations section of our website at www.globalpaymentsinc.com as soon as reasonably practicable after such material is electronically filed with or furnished to the SEC. Certain materials relating to our corporate governance, including our codes of ethics applicable to our directors, senior financial officers and other employees, are also available in the investor relations section of our website. Copies of our filings, specified exhibits and corporate governance materials are also available, free of charge, by writing us using the address on the cover of this Annual Report on Form 10-K. You may also telephone our investor relations office directly at (770) 829-8478. We are not including the information on our website as a part of, or incorporating it by reference into, this Annual Report on Form 10-K.

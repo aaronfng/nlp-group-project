@@ -1,0 +1,67 @@
+Eaton Corporation plc (Eaton or the Company) is a power management company with 2020 net sales of $17.9 billion. Eaton’s mission is to improve the quality of life and the environment through the use of power management technologies and services. We provide sustainable solutions that help our customers effectively manage electrical, hydraulic and mechanical power – more safely, more efficiently and more reliably. Eaton has approximately 92,000 employees in 60 countries and sells products to customers in more than 175 countries.
+Eaton electronically files or furnishes reports pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (Exchange Act) to the United States Securities and Exchange Commission (SEC), including annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and proxy and information statements, as well as any amendments to those reports. As soon as reasonably practicable, these reports are available free of charge through the Company's website at www.eaton.com. These filings are also accessible on the SEC's website at www.sec.gov.
+COVID-19
+Information related to the impact of the COVID-19 pandemic on the Company is presented in “Management's Discussion and Analysis of Financial Condition and Results of Operations” of this Form 10-K.
+Acquisitions and Divestitures of Businesses
+Information regarding the Company's acquisitions and divestitures is presented in Note 2 of the Notes to the Consolidated Financial Statements.
+Business Segment Information
+Information by business segment regarding principal products, principal markets, methods of distribution and net sales is presented in Note 17 of the Notes to the Consolidated Financial Statements. Additional information regarding Eaton's segments and business is presented below.
+Electrical Americas and Electrical Global
+Principal methods of competition in these segments are performance of products and systems, technology, customer service and support, and price. Eaton has a strong competitive position in these segments and, with respect to many products, is considered among the market leaders. In normal economic cycles, sales of these segments are historically lower in the first quarter and higher in the third and fourth quarters of a year. In 2020, 20% of these segments' sales were made to six large distributors of electrical products and electrical systems and services.
+Hydraulics
+Principal methods of competition in this segment are product performance, geographic coverage, service, and price. Eaton has a strong competitive position in this segment and, with respect to many products, is considered among the market leaders. In 2020, 18% of this segment's sales were made to six large original equipment manufacturers or distributors of agricultural, construction, and industrial equipment and parts.
+Aerospace
+Principal methods of competition in this segment are total cost of ownership, product and system performance, quality, design engineering capabilities, and timely delivery. Eaton has a strong competitive position in this segment and, with respect to many products and platforms, is considered among the market leaders. In 2020, 22% of this segment's sales were made to four large original equipment manufacturers of aircraft.
+Vehicle
+Principal methods of competition in this segment are product performance, technology, global service, and price. Eaton has a strong competitive position in this segment and, with respect to many products, is considered among the market leaders. In 2020, 38% of this segment's sales were made to four large original equipment manufacturers of vehicles and related components.
+eMobility
+Principal methods of competition in this segment are product performance, technology, global service, and price. Eaton has a strong competitive position in this segment. In 2020, 25% of this segment's sales were made to five large original equipment manufacturers of vehicles, construction equipment and related components.
+2
+Table of Contents
+Information Concerning Eaton's Business in General
+Raw Materials
+Eaton's major requirements for raw materials include iron, steel, copper, nickel, aluminum, brass, tin, silver, lead, titanium, rubber, plastic, electronic components, chemicals, and fluids. Materials are purchased in various forms, such as extrusions, castings, powder metal, metal sheets and strips, forging billets, bar stock, and plastic pellets. Raw materials, as well as parts and other components, are purchased from many suppliers. Under normal circumstances, the Company has no difficulty obtaining its raw materials. In 2020, Eaton maintained appropriate levels of inventory to prevent shortages and stayed in close contact with its suppliers to manage the impact of the COVID-19 pandemic on the supply chain.
+Patents and Trademarks
+Eaton considers its intellectual property, including without limitation patents, trade names, domain names, trademarks, confidential information, and trade secrets to be of significant value to its business as a whole. The Company's products are manufactured, marketed and sold using a portfolio of patents, trademarks, licenses, and other forms of intellectual property, some of which expire in the future. Eaton develops and acquires new intellectual property on an ongoing basis and considers all of its intellectual property to be valuable. Based on the broad scope of the Company's product lines, management believes that the loss or expiration of any single intellectual property right would not have a material effect on Eaton's consolidated financial statements or its business segments. The Company's policy is to file applications and obtain patents for the majority of its novel and innovative new products including product modifications and improvements.
+Environmental Contingencies
+Operations of the Company involve the use and disposal of certain substances regulated under environmental protection laws. Eaton continues to modify processes on an ongoing, regular basis in order to reduce the impact on the environment, including the reduction or elimination of certain chemicals used in, and wastes generated from, operations. Compliance with laws that have been enacted or adopted regulating the discharge of materials into the environment, or otherwise relating to the protection of the environment, are not expected to have a material adverse effect upon earnings or the competitive position of the Company. Eaton's estimated capital expenditures for environmental control facilities are not expected to be material for 2021 and 2022. Information regarding the Company's liabilities related to environmental matters is presented in Note 10 of the Notes to the Consolidated Financial Statements.
+Human Capital Management
+Eaton has approximately 92,000 employees globally. The number of persons employed by our reportable segments and corporate in 2020 was as follows:
+(In thousands)	2020	
+Electrical Americas
+27 		Electrical Global	25 		Hydraulics	10 		Aerospace	10 		Vehicle	11 		eMobility	1 		Corporate	8 		Total number of persons employed	92 	 
+3
+Table of Contents
+
+Eaton uses and monitors a variety of metrics to ensure our objectives related to employee attraction, development, and retention are met. Most notably, Eaton tracks the following:
+Diversity
+Eaton is committed to having a workforce that is diverse and inclusive at all levels, reflecting the diversity of our customers and communities. Our success depends on our ability to attract and retain the best employees without regard to race, color, social or economic status, religion, national origin, marital status, age, veteran status, sexual orientation, gender identity, or any protected status. It is the policy of the Company to make all decisions regarding employment, including hiring, compensation, training, promotions, transfers, or lay-offs, based on the principle of equal employment opportunity and without discrimination. At December 31, 2020, Eaton’s distribution by gender, and United States distribution by minority status, was as follows:
+
+(As of December 31, 2020)
+Total Global		Number of women		Percentage of women		U.S. total		Number of minorities (U.S. only)		Percentage of minorities (U.S. only)	
+Board of directors
+12 			4 			33.3 	%		9 			2 			22.2 	%	Global leadership team		26 			5 			19.2 	%		24 			13 			54.2 	%	Executives		594 			126 			21.2 	%		412 			73 			17.7 	%	Managers		7,479 			1,705 			22.8 	%		3,877 			698 			18.0 	%	All other employees		83,888 			27,722 			33.0 	%		21,522 			7,276 			33.8 	%	All employees		91,987 			29,558 			32.1 	%		25,835 			8,060 			31.2 	% 
+At Eaton, one of our aspirational goals is to be a model of inclusion and diversity among our peers. Our plan to achieve this goal encompasses a number of actions, including a detailed examination into our programs, practices, processes, and policies to look for opportunities to strengthen our support of underrepresented individuals, groups and businesses across our operations.
+Compensation
+A key component of Eaton’s attraction and retention strategy is competitive compensation. Eaton regularly benchmarks its compensation strategies with industry peers to maintain a top performing workforce. Eaton’s 2020 total employee costs was $5.2 billion. The total compensation of our median employee on October 1, 2019, as reported in our 2020 Proxy Statement filed in March 2020, and as calculated in accordance with Item 402(u) of Regulation S-K, was $57,712.
+Safety
+Throughout our operations, our goal is to have no safety incidents. In 2019 we reduced our Total Recordable Case Rate (TRCR) by 16% (0.54) and our Days Away Case Rate (DACR) by 4% (0.23) compared to 2018. Our TRCR of 0.54 approaches our long-term goal of 0.50, which we believe is a world-class safety rate.
+Further, in 2020, the Company took a number of measures to protect our workforce from the COVID-19 pandemic, including the following:
+•Training our employees at sites around the world in cleaning and disinfecting protocols
+•Enacting social distancing procedures, staggered shifts, a rotating office work schedule, and modified workspace and meeting space layouts
+•Requiring employees to stay at home if they are feeling ill, and encouraging increased hand washing and hygiene practices across all sites
+•Advising employees to take advantage of flexible work options
+•Restricting visitors to all sites
+•Consulting regularly with doctors and health care organizations
+•Updating the Company's response plan as new information became available
+4
+Table of Contents
+In the event an employee suspects they have been exposed to COVID-19, or testing confirms it, sites will implement a response plan that includes:
+•Communication with all who may have been exposed
+•Disinfecting work stations and common areas
+•Shutting down the facility if warranted
+These actions are aligned with preventive health protocols of governmental authorities and health organizations including the Centers for Disease Control (U.S.) and the World Health Organization.
+Achieving work-life balance
+Achieving work-life balance is a common concern of today's employees. Flexible work solutions and inclusive programs will help us remain competitive in attracting and retaining the best talent and make it possible for employees in varied situations to be able to remain at Eaton. Flexible solutions include compressed work weeks, remote working, job sharing, part-time work, flextime, and telework.
+Engagement
+Fully engaged employees are more productive, innovative, and satisfied in their work. Examples of how we engage our employees include enterprise-wide town halls, hosting informal listening meetings and surveying groups of employees on specific subjects. In addition, we have programs focused on career development of employees at all levels. Our 2018 survey on employee engagement showed a favorable response from 81 percent of employees who completed it. This group reported that they were proud to work at Eaton, felt personal accomplishment from their work, and would recommend Eaton as a place to work. We are committed to a wide range of strategies designed to improve and sustain employee engagement over the long-term.

@@ -1,0 +1,902 @@
+Overview
+
+FedEx Corporation (“FedEx”) was incorporated in Delaware on October 2, 1997 to serve as the parent holding company and provide strategic direction to the FedEx portfolio of companies. FedEx provides a broad portfolio of transportation, e-commerce and business services through companies competing collectively, operating independently and managed collaboratively, under the respected FedEx brand. These companies are included in the following reportable business segments:
+
+ 
+
+•
+
+FedEx Express: Federal Express Corporation (“FedEx Express”), including TNT Express B.V. (“TNT Express”), is the world’s largest express transportation company, offering time-definite delivery to more than 220 countries and territories, connecting markets that comprise more than 99% of the world’s gross domestic product.
+
+ 
+
+•
+
+FedEx Ground: FedEx Ground Package System, Inc. (“FedEx Ground”) is a leading North American provider of small-package ground delivery services. FedEx Ground provides low-cost, day-certain service to any business address in the U.S. and Canada, as well as residential delivery to 100% of U.S. residences through its FedEx Home Delivery service. FedEx SmartPost is a FedEx Ground service that specializes in the consolidation and delivery of high volumes of low-weight, less time-sensitive business-to-consumer packages.
+
+ 
+
+•
+
+FedEx Freight: FedEx Freight Corporation (“FedEx Freight”) is a leading North American provider of less-than-truckload (“LTL”) freight services across all lengths of haul, offering: FedEx Freight Priority, when speed is critical to meet a customer’s supply chain needs; and FedEx Freight Economy, when a customer can trade time for cost savings. FedEx Freight also offers freight delivery service to most points in Puerto Rico and the U.S. Virgin Islands.
+
+ 
+
+•
+
+FedEx Services: FedEx Corporate Services, Inc. (“FedEx Services”) provides sales, marketing, information technology, communications, customer service, technical support, billing and collection services, and certain back-office functions that support our transportation segments. 
+
+The FedEx Office and Print Services, Inc. (“FedEx Office”) operating segment provides document and business services and retail access to our package transportation businesses. Additionally, the FedEx Logistics, Inc. (“FedEx Logistics”) operating segment provides customs brokerage and global ocean and air freight forwarding through FedEx Trade Networks Transport & Brokerage, Inc. (“FedEx Trade Networks Transport & Brokerage”); integrated supply chain management solutions through FedEx Supply Chain Distribution System, Inc. (“FedEx Supply Chain”); and critical inventory and service parts logistics and technology repair through FedEx Forward Depots, Inc. (“FedEx Forward Depots”). FedEx Office and FedEx Logistics are included in “Corporate, other and eliminations” in our segment reporting. For more information about FedEx Office and FedEx Logistics, please see “FedEx Office Operating Segment” and “FedEx Logistics Operating Segment.”
+
+For more information about our reportable segments, please see “Business Segments.” For financial information concerning our reportable segments, refer to the accompanying financial section, which includes management’s discussion and analysis of results of operations and financial condition and our consolidated financial statements.
+
+Our website is located at fedex.com. Detailed information about our services, e-commerce tools and solutions, and citizenship efforts can be found on our website. In addition, we make our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and all amendments to such reports available, free of charge, through our website, as soon as reasonably practicable after they are filed with or furnished to the Securities and Exchange Commission (“SEC”). The Investor Relations section of our website, investors.fedex.com, contains a significant amount of information about FedEx, including our SEC filings and financial and other information for investors. The information that we post on our Investor Relations website could be deemed to be material information. We encourage investors, the media and others interested in FedEx to visit this website from time to time, as information is updated and new information is posted. The information on our website, however, is not incorporated by reference in, and does not form part of, this Annual Report on Form 10-K (“Annual Report”).
+
+Except as otherwise specified, any reference to a year indicates our fiscal year ended May 31 of the year referenced. References to our transportation segments include, collectively, the FedEx Express segment, the FedEx Ground segment, and the FedEx Freight segment.
+
+ 
+
+- 3 -
+
+ 
+
+COVID-19 Pandemic
+
+ 
+
+During 2020, an outbreak of a new strain of coronavirus (“COVID-19”) was declared a pandemic by the World Health Organization. We began to experience business impacts from the COVID-19 pandemic as early as January 2020 when transpacific traffic was affected by the shutdowns in China and curtailment of commercial air flights. While commercial volumes were down due to business closures across the world, FedEx Ground residential delivery volumes increased to seasonal peak levels during the fourth quarter of 2020 due to stay-at-home orders and other pandemic responsive measures. Additionally, we experienced a surge in transpacific and charter flight demand at FedEx Express in the fourth quarter of 2020, as airfreight capacity was limited due to restrictions on commercial activities.
+
+Due to the crucial role we play in moving supply chains and delivering critical relief, FedEx is considered an essential business and is continuing to operate under state-of-emergency and stay-at-home orders issued in the U.S. and globally. FedEx remains committed to assisting our customers as they work to manage their supply chains and inventories. We are flexing our networks and making adjustments as needed to align with volumes and operating conditions, such as:
+
+ 
+
+ 
+
+•
+
+Launching the Air Operations Coordination Center to effectively match capacity to demand at FedEx Express. Through this coordinated approach, we reduced U.S. domestic flight hours in the fourth quarter of 2020 and redeployed flight hours to international regions.
+
+ 
+
+ 
+
+•
+
+Repurposing FedEx SmartPost facilities for small or large package sortation to keep pace with demand for residential services, and adding new, low-cost regional FedEx Ground sort facilities designed to handle shorter zone residential volumes into certain key markets.
+
+ 
+
+ 
+
+•
+
+Implementing temporary surcharges on FedEx Express international package and airfreight shipments, effective April 6, 2020, and on all oversized and residential U.S. domestic packages at FedEx Express and FedEx Ground, effective June 8, 2020.
+
+ 
+
+ 
+
+•
+
+Temporarily suspending money-back guarantees for all FedEx Express, FedEx Ground, FedEx Freight and same-day FedEx Office services.
+
+ 
+
+ 
+
+•
+
+Increasing hiring at FedEx Ground, and making temporary reductions in certain other workforces.
+
+ 
+
+As we focus on managing our business and operations in response to the COVID-19 pandemic, the safety of our team members, our customers and the communities in which we operate is our top priority. We are taking measures to adhere to all regulations and guidelines from government authorities related to the containment of COVID-19 and to protect and promote health and safety, including:
+
+ 
+
+ 
+
+•
+
+Providing gloves, masks and other personal protective equipment (“PPE”), as well as hand sanitizer and disinfectant wipes, to our team members.
+
+ 
+
+ 
+
+•
+
+Suspending signature requirements for most deliveries to help team members and customers maintain a safe social distance.
+
+ 
+
+ 
+
+•
+
+Working with customers to accommodate special requests around modified store hours, closings, and delivery alternatives to comply with applicable government restrictions and safety guidance.
+
+ 
+
+ 
+
+•
+
+Diverting traffic away from hubs and stations in severely affected locations to decrease the number of people in our facilities.
+
+ 
+
+ 
+
+•
+
+Promoting social distancing on the job, including measures on employee shuttles and in common areas.
+
+ 
+
+ 
+
+•
+
+Increasing the frequency and intensity of janitorial cleaning.
+
+ 
+
+ 
+
+•
+
+Educating team members about prevention, including hygiene and cleaning.
+
+ 
+
+ 
+
+•
+
+Launching symptom screening processes, including temperature testing, and implementing free voluntary COVID-19 testing for eligible employees and vendors in Memphis, Tennessee and the surrounding areas at the FedEx Express World Headquarters.
+
+ 
+
+ 
+
+•
+
+Devoting extensive resources to assisting employees diagnosed with COVID-19, and providing paid leave to employees who are diagnosed with COVID-19 or have been quarantined due to being in close contact with a diagnosed individual.
+
+ 
+
+- 4 -
+
+ 
+
+ 
+
+•
+
+Temporarily closing a small number of FedEx Office stores, and operating other FedEx Office stores at reduced hours.
+
+ 
+
+ 
+
+•
+
+Implementing a work-from-home policy for most staff positions and suspending non-critical business travel.
+
+ 
+
+We are committing transportation and logistics support to humanitarian relief agencies as they respond to the COVID-19 pandemic. For example, we have contracted with the U.S. Department of Health and Human Services (“HHS”) to provide expedited shipping of PPE and other supplies critical to COVID-19 relief efforts from manufacturers around the world to the United States. The operation aims to accelerate delivery of PPE and other medical supplies, moving them via air instead of ocean. We have also provided shipping support in a collaborative effort among retailers and healthcare companies led by the White House, the HHS and the Federal Emergency Management Agency to enable quick processing of COVID-19 test specimens to help prevent spread of the virus.
+
+ 
+
+For more information about the COVID-19 pandemic and its effect on FedEx’s business, results of operations and financial condition, see Item 1A (“Risk Factors”) and Item 7 (“Management’s Discussion and Analysis of Results of Operations and Financial Condition”) of this Annual Report.
+
+Strategy
+
+FedEx has developed a unique business strategy whereby our companies compete collectively, operate independently and manage collaboratively, which allows us to provide a broad portfolio of transportation, e-commerce and business services to our customers. Our companies compete collectively by standing as one brand worldwide and speaking with one voice; they operate independently by focusing on our independent networks to meet distinct customer needs; and they manage collaboratively by working together to sustain loyal relationships with our workforce, customers and investors.  
+
+Our “compete collectively, operate independently, manage collaboratively” strategy allows us to manage our business as a portfolio, in the long-term best interest of the enterprise, not a particular operating company. As a result, we base decisions on capital investment, expansion of delivery, information technology and retail networks, and service additions or enhancements upon achieving the highest overall long-term return on capital for our business as a whole. For each FedEx company, we focus on making appropriate investments in the technology and assets necessary to optimize our long-term earnings performance and cash flow. Our business strategy also provides flexibility in sizing our operating companies to align with varying macroeconomic conditions and customer demand for the market segments in which they operate, allowing us to leverage and manage change. Volatility, uncertainty and evolution have become the norms in the global transportation market, and we are able to use our flexibility to accommodate changing conditions in the global economy, including the continued growth of e-commerce. To that end, we continue to modernize our aircraft fleet with more fuel efficient and lower-emission aircraft, expand our operations at FedEx Ground where we continue to see growing package volumes, realign our systems and develop innovative service offerings.
+
+We believe that operating independent networks, each focused on its own respective markets, enhances service quality and reliability from each business unit. Each FedEx company focuses on the market sectors in which it has the most expertise and can be independently enhanced and managed to provide outstanding service to our customers. Each company’s operations, cost structure and culture are designed to serve the unique customer demands of a particular market segment and as a result, we are able to adapt our networks in response to changing needs. While our companies operate independently, we continually look for ways to leverage our unique strengths in key areas across the FedEx enterprise. For example, in 2020 we began directing certain U.S. day-definite, residential FedEx Express shipments into the FedEx Ground network in order to optimize the cost of last-mile residential deliveries. We expect last-mile optimization will allow us to increase efficiency and lower our cost-to-serve as e-commerce growth continues. FedEx Ground and FedEx Freight are also collaborating to handle the significant increases in e-commerce and large package volume caused by the COVID-19 pandemic.
+
+Additionally, by focusing on the following five key areas, we believe we will continue to uniquely position FedEx for long-term success:
+
+ 
+
+•
+
+E-commerce: Residential e-commerce is the fastest growing area of our business, as the internet is increasingly being used to purchase goods and services. Through our global transportation and technology networks, we contribute to and benefit from the growth of e-commerce. We are investing in new technologies, optimizing deliveries and using innovative solutions to make delivery to consumers more flexible, convenient, efficient and cost-effective. The COVID-19 pandemic has accelerated e-commerce adoption globally and forced us to accelerate many of these enhancements, which has made us more competitive and positions us for future success.
+
+ 
+
+•
+
+Business-to-business shipping: Business-to-business shipping accounts for the majority of FedEx revenues. As the global economy recovers from the effects of the COVID-19 pandemic, we will continue to help our business customers obtain more visibility into their supply chains and near real-time information to manage inventory in motion, and refine our unique menu of services to fit virtually all shipping needs of high-tech and high-value-added industries.
+
+- 5 -
+
+ 
+
+ 
+
+•
+
+Operational Excellence: Our business strategy allows us to respond to our current and potential customers’ evolving needs in a cost-effective manner. Operational excellence in today’s world must be enabled by best-in-class technology, which we are using in a number of ways to increase efficiency across FedEx.
+
+ 
+
+•
+
+International Profitability: With customers in more than 220 countries and territories, we are establishing a foundation for increased international profitability through our aircraft fleet modernization program, integration of TNT Express and streamlined regional organizational structure at FedEx Express. Despite the recent trade tensions, we continue to believe that globalization will drive international volume growth over the long term.
+
+ 
+
+•
+
+Revenue Quality: We are working to improve revenue quality by renewing focus on small and medium-sized businesses and strategically managing our large business-to-business customer portfolio so that yields are compensatory for the comprehensive services we provide.
+
+Through our global transportation, information technology and retail networks, we help to facilitate an ongoing and unprecedented expansion of customer access — to goods, services and information. We believe it would be extremely difficult, costly and time-consuming to replicate our global network, which includes the world’s largest all-cargo air fleet and connects more than 99% of the world’s gross domestic product. We continue to position our companies to facilitate and capitalize on this access and to achieve stronger long-term growth, productivity and profitability.
+
+During 2020 and early 2021, we have introduced a number of innovative solutions, advanced important long-term business initiatives and made other important investments that benefit our customers, employees and communities, including:
+
+ 
+
+•
+
+Expanding FedEx Ground residential delivery operations to seven days per week year-round for the majority of the U.S. population.
+
+ 
+
+•
+
+Optimizing last-mile residential deliveries by beginning to use the FedEx Ground network for the transport and delivery of certain U.S. day-definite, residential FedEx Express shipments.
+
+ 
+
+•
+
+Committing transportation and logistics support to humanitarian relief agencies as they respond to the COVID-19 pandemic. For example, we have contracted with the HHS to provide expedited shipping of PPE and other supplies critical to COVID-19 relief efforts from manufacturers around the world to the United States.
+
+ 
+
+•
+
+Investing in technology to further enhance our networks and reduce costs. For example, in 2020 FedEx Ground began offering dynamic route optimization technology, near real-time data that can be used by service providers to plan efficient delivery routes and make decisions about vehicle mix and workforce to accommodate the volume associated with e-commerce growth.
+
+ 
+
+•
+
+Announcing a new, multi-year collaboration with Microsoft to transform commerce and enhance FedEx’s global supply chain and logistics network.
+
+ 
+
+•
+
+Progressing the FedEx Express/TNT Express integration by substantially completing projects that allow for European ground network interoperability.
+
+ 
+
+•
+
+Continuing the integration of FedEx SmartPost packages given to the U.S. Postal Service (“USPS”) into FedEx Ground standard operations, which allows us to increase the efficiency and density of our last-mile residential deliveries.
+
+ 
+
+•
+
+Addressing the needs of the growing e-commerce market for delivery of heavy, bulky products to residences and businesses by continuing to make operational changes at FedEx Ground and introducing FedEx Freight Direct, the first standardized FedEx service to make deliveries through the door and into homes.
+
+ 
+
+•
+
+Beginning testing of Roxo, the FedEx SameDay Bot, in select markets and collaborating with two business partners to launch a pilot drone delivery service to explore methods of enhancing last-mile residential delivery.
+
+ 
+
+•
+
+Advancing our multi-year investments to significantly expand the FedEx Express hub in Indianapolis and modernize the FedEx Express World Hub in Memphis.
+
+ 
+
+•
+
+Continuing our successful aircraft fleet modernization strategy by replacing our oldest and least efficient aircraft with Boeing 777 Freighter (“B777F”) aircraft and Boeing 767-300 Freighter (“B767F”) aircraft, which has helped us improve fuel efficiency and fleet reliability in recent years.
+
+ 
+
+•
+
+Progressing the nationwide expansion of the FedEx retail channel with companies such as Walgreens, Dollar General, Walmart, Albertsons and Kroger, and expanding FedEx Returns Technology to the Walgreens retail network.
+
+- 6 -
+
+ 
+
+ 
+
+•
+
+Launching FedEx Cares 50 by 50, the next stage of our global community engagement program, with the goal of positively impacting 50 million people around the world by our 50th anniversary in 2023.
+
+Reputation and Responsibility
+
+By competing collectively under the FedEx brand, our operating companies benefit from one of the world’s most recognized brands. FedEx is one of the most trusted and respected companies in the world, and the FedEx brand name is a powerful sales and marketing tool. Among the many reputation awards we received during 2020, FedEx ranked 14th in FORTUNE magazine’s “World’s Most Admired Companies” list — the 20th consecutive year FedEx has ranked among the top 20 in the FORTUNE Most Admired Companies list, with 15 of those years ranking among the top 10. FedEx was also named one of “America’s Most Responsible Companies” by Newsweek in 2020, ranking higher than any other “Travel, Transport & Logistics” company included on the list. Additionally, FedEx was included on the Forbes/Reputation Institute 2019 “World’s Most Reputable Companies” list, which measures the reputations of thousands of the world’s most prestigious companies, and was named to Forbes 2019 list of the “World’s Most Valuable Brands.”
+
+FedEx is well recognized as a leader, not only in the transportation industry and for technological innovation, but also in global citizenship. We understand that a sustainable global business is tied to our global citizenship, and we are committed to connecting the world responsibly and resourcefully. Our latest published update to our global citizenship report is available at sustainability.fedex.com. This report describes how we think about our responsibilities in the area of global citizenship and includes important goals and metrics that demonstrate our commitment to fulfilling these responsibilities.
+
+Our People
+
+Along with a strong reputation among customers and the general public, FedEx is widely acknowledged as a great place to work. For example, FedEx was named to FORTUNE magazine’s list of the “100 Best Companies to Work For” in the U.S. and listed as one of the “World’s Best Employers” by Forbes in 2019.
+
+At FedEx, it is our people — our greatest asset — that give us our strong reputation. In addition to superior physical and information networks, FedEx has an exemplary human network, with more than 500,000 team members united by our People-Service-Profit corporate principles. We are committed to providing a safe, healthy and alcohol- and drug-free workplace consistent with our longstanding “Safety Above All” philosophy, which is backed by strict policies, robust team member education and safety recognition awards, along with continued investments in technology. Our retirement plan strategy continues to evolve to remain competitive while continuing to provide employees an opportunity to plan for their future. Additionally, we support the physical and behavioral health and well-being of our team members and their families by providing an array of programs that help our people and their loved ones stay at their best level of health.
+
+The FedEx workforce is as diverse as the world we serve, and we believe that everyone deserves respect. We are committed to the education, recruitment, development and advancement of diverse team members worldwide, and are recognized for our commitment to those efforts. For instance, in 2020 FedEx was named one of the “Best Workplaces for Diversity” by global research and consulting firm Great Place to Work and FORTUNE magazine, and one of the “Best Employers for Diversity” in the U.S. by Forbes. Additionally, in 2019 FedEx was named a “Best-of-the-Best Corporation for Inclusion” by the National Gay and Lesbian Chamber of Commerce and the National Business Inclusion Consortium, one of Black Enterprise magazine’s “50 Best Companies for Diversity” and one of “America’s Top Corporations for Women’s Business Enterprises” by the Women’s Business Enterprise National Council. FedEx was also included on FORTUNE magazine’s “100 Best Workplaces for Millennials” list for 2018.
+
+Fostering acceptance, promoting anti-biases and encouraging a more inclusive society are core values to who we are and how we operate. A key driver of our commitment to diversity and inclusion is the FedEx Corporate Diversity Council, in which members collaborate across the enterprise to motivate and inspire each other, share best practices and support multicultural programs within the company and communities we serve. We are also proud of our long-standing history of supporting and fostering relationships with organizations that are working to make our society more equitable and just, such as the National Association for the Advancement of Colored People and the National Civil Rights Museum. For additional information on our diversity and inclusion initiatives, see sustainability.fedex.com.
+
+FedEx Express has created Purple Runway—A FedEx Pathways Program, an industry-leading pilot-development program, as well as a related aviation scholarship program. FedEx Express has also partnered with the University of Memphis to provide FedEx Express team members in Memphis, Indianapolis, Oakland, Los Angeles and Newark the chance to earn a tuition-free online degree. Additionally, through our internal Purple Promise and Humanitarian Award programs, we recognize and reward employees who enhance customer service and promote human welfare. For additional information on our people-first philosophy and workplace initiatives, see sustainability.fedex.com.
+
+- 7 -
+
+ 
+
+Our Community
+
+FedEx is committed to actively supporting the communities we serve worldwide through the strategic investment of our people, resources and network. FedEx Cares, our global community engagement program, is one way we work to connect people and possibilities. We provide financial contributions, in-kind charitable shipping services and team member volunteering to help non-profit organizations achieve their goals and make a measurable impact on the world. We focus our effort in the following three focus areas:
+
+ 
+
+•
+
+Global Entrepreneurship: Providing women and minority entrepreneurs everywhere with the tools they need to succeed.
+
+ 
+
+•
+
+Delivering for Good: Lending our global network and our unparalleled logistics expertise to organizations with mission-critical needs, especially in times of disaster, and to help communities heal, learn and thrive.
+
+ 
+
+•
+
+Sustainable Logistics: Sharing our global logistics expertise to improve urban mobility and accelerate progress toward more sustainable fleets in order to restore and protect the natural environment.
+
+After exceeding our goal to invest $200 million in 200 global communities by 2020 six months early, we launched FedEx Cares 50 by 50 with the goal of positively impacting 50 million people around the world by our 50th anniversary in 2023. FedEx also supports communities throughout the U.S. with its annual FedEx Cares United Way giving campaign. Additionally, FedEx team members provided over 105,000 volunteer hours during 2019.
+
+For additional information on our community involvement and our FedEx Cares strategy, visit fedexcares.com.
+
+Additionally, we help to lift economies by investing in people and communities where we live and work. This includes seeking diverse suppliers and strengthening our supply chain by sourcing from small, minority- and women-owned businesses. See sustainability.fedex.com for more information.
+
+The Environment
+
+Our “Reduce, Replace, Revolutionize” approach guides environmental efforts to drive the responsible and efficient use of resources, optimize our business, lower costs and deliver value in four key areas: aircraft efficiency, vehicle efficiency, sustainable facilities and sustainable manufacturing and recycling. Collectively, our sustainability efforts have contributed to an approximately 40% reduction in CO2 emissions intensity (on a revenue basis) at FedEx from 2009 to 2019.
+
+We continue to work towards our goal to reduce aircraft emissions intensity by 30% from a 2005 baseline by calendar 2020. In 2019, we achieved a 24% reduction in aircraft emissions intensity since 2005 through a combination of our aircraft fleet modernization and operational programs. We have also established a goal of obtaining 30% of our jet fuel from alternative fuels by calendar 2030. To reduce the cost of fuel use and associated greenhouse gas (“GHG”) emissions, we are replacing many of our older airplanes with more fuel-efficient models, and we have implemented efficiencies in flight operations through our global FedEx Fuel Sense program. These two initiatives saved more than 250 million gallons of jet fuel and avoided more than 2.4 million metric tons of CO2e emissions in 2019. Additionally, our first delivery of alternative jet fuel is anticipated in the second half of fiscal 2021.
+
+FedEx Express has also established a goal to increase vehicle fuel efficiency by 50% from a 2005 baseline by 2025. Through 2019, our efforts collectively resulted in a 41% improvement in FedEx Express vehicle fuel efficiency from our 2005 baseline. Additionally, FedEx Ground has recently achieved several ambitious sustainability goals focused on renewable energy, alternative fuels, energy efficiency and waste diversion.
+
+We are committed to revolutionizing our vehicle fleet with alternative fuels and innovative technologies. We have an impressive global alternative fuel fleet with more than 4,000 alternative fuel vehicles, including hybrid, electric, compressed or liquefied natural gas, liquefied petroleum gas and hydrogen fuel cell vehicles. In 2018 we placed a reservation for 20 fully electric semi trucks which will be operated by FedEx Freight, and FedEx Express is adding 1,000 Chanje V8100 electric delivery vehicles to its fleet. We are developing innovative charging infrastructures to support the continued rollout of our electric vehicle fleet. Further, innovative approaches such as vehicle platooning offer the potential to increase truck fuel efficiency while improving safety.
+
+Our zero-emission FedEx SameDay Bot and pilot drone delivery service, which are discussed in more detail below under “FedEx Services Segment — Customer-Driven Technology,” have potential to serve as environmentally friendly alternatives for last-mile residential package deliveries. We also continue to leverage the efficiency of intermodal rail transport for long-haul shipping at FedEx Ground and FedEx Freight, and promote the use of electric vehicles and alternative fuels by independent service providers in our shipping network.
+
+- 8 -
+
+ 
+
+The efficient operation of our air and ground hubs, local stations, freight service centers and retail locations is critical to achieving our business and sustainability goals. At 26 FedEx facilities around the world, renewable and alternative energy systems, including on- and off-site solar, as well as fuel cell technologies, generated over 36 million kilowatt-hours of clean energy in 2019. In addition, 22 FedEx Express facilities in the U.S. have received certification in Leadership in Energy and Environmental Design (LEED®), the U.S. Green Building Council’s system for rating the environmental performance of buildings. FedEx Express has made LEED certification the standard for newly built U.S. facilities. In addition, FedEx Express also has three LEED-certified facilities outside the U.S., while FedEx Ground has six LEED-certified facilities and FedEx Freight and FedEx Office each have one, all of which are in the U.S. Over 600 FedEx facilities are certified to the ISO 14001 environmental management system standard.
+
+We also continue to evaluate the environmental impacts of our packaging and copy and print services, and minimize waste generation through efforts that include recycling, the use of copy paper with recycled content and working with customers to optimize package size and design, among other environmentally responsible available choices. We purchase the vast majority of our paper from suppliers who are certified by sustainable forest programs, such as the Forest Stewardship Council. During 2019, 99.8% of all paper purchased by FedEx Office was third-party certified. We also use FedEx-branded cardboard packaging at FedEx Express and FedEx Ground, which is 100% recyclable and made from 45% recycled content. The longstanding paper shredding and recycling service at FedEx Office allows customers to bring any documents, including sensitive items such as tax returns, to a FedEx Office location and have them securely and confidentially shredded, then recycled. During 2019, almost ten million pounds of paper were shredded and recycled through the service.
+
+As our business grows to meet the accelerating demands of e-commerce and other shipping needs, our waste management strategies help ensure we recycle more of our own waste and encourage customers to recycle our packaging. In 2019, 59% of the waste generated in our operations was sent to recyclers. One example of our environmentally responsible activities is the Sustainable Purchasing Leadership Council, a U.S. nonprofit organization that supports and recognizes sustainable procurement of which we are a founding member. We continue to support the Council by participating in technical advisory groups and applying best practice guidance to our own supply chain sustainability initiatives. For additional information on the ways we are minimizing our impact on the environment, see sustainability.fedex.com.
+
+Governance
+
+The FedEx Board of Directors is comprised of a majority of independent directors and is committed to the highest quality corporate governance and accountability to stockholders. Our Board of Directors periodically reviews all aspects of our governance policies and practices, including our Corporate Governance Guidelines and our Code of Conduct, in light of best practices and makes whatever changes it deems appropriate to further our longstanding commitment to the highest standards of corporate governance. The Guidelines and the Code of Conduct, which apply to all of our directors, officers and employees, including our principal executive officer and senior financial officers, are available on the Governance & Citizenship page of the Investor Relations section of our website at investors.fedex.com. We will post on the Governance & Citizenship page of the Investor Relations section of our website information regarding any amendment to, or waiver from, the provisions of the Code of Conduct to the extent such disclosure is required.
+
+Business Segments
+
+The following describes in more detail the operations of each of our principal operating segments:
+
+FedEx Express Segment
+
+FedEx Express and TNT Express
+
+Overview
+
+FedEx Express invented express distribution over 45 years ago in 1973 and remains the industry leader, providing rapid, reliable, time-definite delivery of packages and freight to more than 220 countries and territories through an integrated global network. In 2016, we acquired TNT Express, a leading international express transportation, small-package ground delivery and freight transportation company.
+
+- 9 -
+
+ 
+
+FedEx Express offers a wide range of U.S. domestic and international shipping services for delivery of packages and freight, connecting markets that generate more than 99% of the world’s gross domestic product through door-to-door, customs-cleared service, historically with a money-back guarantee. In response to the COVID-19 pandemic, in March 2020 we temporarily suspended our money-back guarantee for all FedEx Express services. FedEx Express’s unmatched air route authorities and extensive transportation infrastructure, combined with leading-edge information technologies, make it the world’s largest express transportation company. As of May 31, 2020, FedEx Express employed approximately 245,000 employees (including approximately 43,000 employees at TNT Express) and had approximately 98,000 drop-off locations (including FedEx Office stores and FedEx OnSite locations, such as approximately 14,000 Walgreens, Dollar General, Albertsons and Kroger stores), 679 aircraft and approximately 79,000 vehicles (including approximately 11,000 owner-operated vehicles that support TNT Express) in its global network.
+
+FedEx Express also provides time-critical shipment services through FedEx Custom Critical, Inc. (“FedEx Custom Critical”) and, effective June 1, 2020, cross-border enablement and technology solutions and e-commerce transportation solutions through FedEx Cross Border Holdings, Inc. (“FedEx Cross Border”) and its subsidiary P2P Mailing Limited.
+
+Services
+
+FedEx Express offers a wide range of U.S. domestic and international shipping services for delivery of packages and freight. FedEx Express offers three U.S. domestic overnight package delivery services: FedEx First Overnight, FedEx Priority Overnight and FedEx Standard Overnight. FedEx SameDay service is available 365 days a year throughout all 50 states for urgent shipments up to 150 pounds. FedEx Express also offers U.S. express overnight and deferred freight services to handle the needs of the time-definite freight market.
+
+International express and deferred package delivery is available to more than 220 countries and territories, with a variety of time-definite services to meet distinct customer needs. FedEx International Priority provides time-definite delivery typically in one, two or three business days. FedEx International Economy provides time-definite delivery typically in two to five business days. FedEx International First provides time-definite delivery to select postal codes in more than 25 countries and territories, with delivery to select U.S. ZIP Codes as early as 8:00 a.m. from nearly 200 countries and territories in one or two business days, delivery by 10:00 a.m. in one business day from the U.S. to Canada and by 11:00 a.m. in one business day from the U.S. to Mexico. FedEx Express also offers domestic pickup-and-delivery services within certain non-U.S. countries, including France, the United Kingdom, Australia, Brazil, Italy, Canada, Mexico, Poland, India, China and South Africa. In addition, FedEx Express offers comprehensive international express and deferred freight services, real-time tracking and advanced customs clearance.
+
+We also provide FedEx Delivery Manager, which allows our U.S. residential customers to customize home deliveries to fit their schedule by providing a range of options to schedule dates, locations and times of delivery. By signing up at fedex.com, customers can receive notification of FedEx Express packages en route to their homes, and can choose various delivery options.
+
+For information regarding FedEx Express e-shipping tools and solutions, see “FedEx Services Segment — Customer-Driven Technology.”
+
+TNT Express provides two types of express services — Express and Economy Express. The Express services are day-definite and delivered next-day or fastest-by-air for distances for which next-day is not possible. The Economy Express services are also day-definite and are delivered fastest-by-road, except for intercontinental deliveries which depend on air. For both Express and Economy Express services, TNT Express has time-definite options for customers requiring delivery before a certain time. TNT Express also provides specialized or extremely urgent deliveries which include products such as same-day, value-added and non-standard freight services.
+
+International Expansion
+
+Over the years, acquisitions have given us more robust global transportation networks and added capabilities in important international markets. In 2016 we acquired TNT Express, which is the largest acquisition in FedEx history. This acquisition rapidly accelerates our European and global growth, substantially enhances our global footprint through TNT Express’s lower-cost road networks in Europe, the Middle East and Asia, and expands our capabilities and solutions for our customers. The integration of FedEx Express and TNT Express is complex as it spans over 200 countries and territories and involves combining our pickup-and-delivery operations at a local level, our global and regional air and ground networks, and our extensive operations, customs clearance, sales and back-office information technology systems.
+
+- 10 -
+
+ 
+
+In the fourth quarter of 2020, we substantially completed projects across our European hub and station locations that allow interoperability between the ground networks for both FedEx Express and TNT Express packages. The integration of European customs clearance and brokerage services was also substantially completed during 2020. The next key integration milestones include completing the integration of the FedEx Express and TNT Express linehaul and pickup-and-delivery operations and beginning to offer an enhanced portfolio of international services during 2021. While we expect to make significant progress on integration activities in 2021, particularly in Europe, integration work will continue after 2021. Due to delays caused by the COVID-19 pandemic, we now expect to complete the final phase of international air network interoperability in early calendar 2022. For more information about the integration, see Item 1A (“Risk Factors”) and Item 7 (“Management’s Discussion and Analysis of Results of Operations and Financial Condition”) of this Annual Report.
+
+We also have expanded our capabilities in the Asia-Pacific markets, including through the establishment of: our Asia-Pacific hub at the Guangzhou Baiyun International Airport in southern China, which began operations in 2009; our North Pacific regional hub at the Kansai International Airport in Osaka, Japan, which opened in 2014 and serves as a consolidation point for shipments from northern Asia to the U.S.; and our International Express and Cargo Hub in Shanghai, which opened in 2018 at Shanghai’s Pudong International Airport. During 2020, we added 14 new Asia-Pacific origin markets for FedEx International First service to the U.S. and Canada. These developments allow us to continue to better serve our global customers doing business in the Asia-Pacific markets.
+
+To facilitate the use of our growing international network, we offer a full range of international trade consulting services and a variety of online tools that enable customers to more easily determine and comply with international shipping requirements.
+
+U.S. Postal Service Agreement
+
+In 2013, FedEx Express entered into a new seven-year agreement with the USPS under which FedEx Express provides airport-to-airport transportation of USPS First Class Mail, Priority Mail Express and Priority Mail within the United States. In 2017, the parties entered into an amendment to the agreement whereby the initial renewal period provided in the agreement was exercised in part and the agreement’s period of performance was extended through September 29, 2024. FedEx Express also provides transportation and delivery for the USPS’s international delivery service called Global Express Guaranteed under a separate agreement. For more information about our relationship with the USPS, see Item 1A (“Risk Factors”) of this Annual Report.
+
+Pricing
+
+FedEx Express periodically publishes updates to the list prices for the majority of its services in its Service Guides. In general, shipping rates are based on the service selected, origin, destination, weight, size, any ancillary service charge and whether the customer charged the shipment to a FedEx account. On January 6, 2020, FedEx Express implemented a 4.9% average list price increase for U.S. domestic, U.S. export and U.S. import services. FedEx Express also applied peak holiday season surcharges from November 18, 2019 through January 5, 2020 for shipments that required additional handling and from October 21, 2019 through January 5, 2020 for shipments that were oversized. Effective January 20, 2020, FedEx Express made general changes to surcharge criteria for certain packages that require additional handling or are oversized. Additionally, in order to manage demand and capacity constraints in connection with the COVID-19 pandemic, on April 6, 2020 FedEx Express and TNT Express implemented temporary surcharges on all international package and airfreight shipments, and on June 8, 2020 FedEx Express implemented temporary surcharges on oversized and residential U.S. domestic package shipments.
+
+FedEx Express has an indexed fuel surcharge for U.S. domestic and U.S. outbound shipments and for shipments originating internationally, where legally and contractually possible. FedEx Express fuel surcharges are adjusted on a weekly basis. The fuel surcharge is based on a weekly fuel price from two weeks prior to the week in which it is assessed. Some FedEx Express international fuel surcharges incorporate a timing lag of approximately six to eight weeks. On March 2, 2020, we updated the tables used to determine our fuel surcharges at FedEx Express. The weighted-average U.S. domestic and outbound fuel surcharges for the past three years were: 2020 — 6.3%; 2019 — 7.5%; and 2018 — 4.8%. See the “Results of Operations and Outlook — Consolidated Results — Fuel” section of Item 7 (“Management’s Discussion and Analysis of Results of Operations and Financial Condition”) of this Annual Report for a description and discussion of the net impact of fuel on our operating results.
+
+TNT Express periodically updates list prices for the majority of its services. In general, shipping rates are based on the selected service, destination zone, (volumetric) weight, and any ancillary service charge. TNT Express offers its customers discounted prices generally based on actual or potential volumes and/or revenue. TNT Express has an indexed fuel surcharge that varies by region or country and by product. The fuel surcharge percentage is subject to monthly adjustment based upon the price of a designated fuel type.
+
+If a customer has requirements that fall outside of TNT Express’s standard service levels, but are acceptable under its standard operating procedures, TNT Express will provide the service with an additional charge to cover the additional costs incurred. For instance, collections and deliveries in certain remote and less accessible locations will incur an out-of-area charge.
+
+- 11 -
+
+ 
+
+Operations
+
+FedEx Express’s primary sorting facility, located in Memphis, serves as the center of the company’s multiple hub-and-spoke system. A second national hub facility is located in Indianapolis. We are making investments over multiple years in our facilities of approximately $1.5 billion to significantly expand the Indianapolis hub and approximately $1.5 billion to modernize the Memphis World Hub. In addition to these national hubs, FedEx Express operates regional hubs in Fort Worth, Newark, Oakland and Greensboro and major metropolitan sorting facilities in Chicago and Los Angeles.
+
+Facilities in Anchorage, Paris, Cologne, Guangzhou and Osaka serve as sorting facilities for express package and freight traffic moving to and from Asia, Europe and North America. Additional major sorting and freight handling facilities are located at Narita Airport in Tokyo and Stansted Airport outside London. The facilities in Paris, Cologne, Guangzhou and Osaka are also designed to serve as regional hubs for their respective market areas. A facility in Miami — the Miami Gateway Hub — serves our South Florida, Latin American and Caribbean markets.
+
+Throughout its worldwide network, FedEx Express operates city stations and employs a staff of customer service agents, cargo handlers and couriers who pick up and deliver shipments in the station’s service area. In some international areas, independent agents (“Global Service Participants”) have been selected to complete deliveries and to pick up packages. TNT Express also relies upon subcontractors and agents to conduct certain of its pickup-and-delivery and linehaul operations. For more information about our sorting and handling facilities, see Part I, Item 2 (“Properties”) of this Annual Report under the caption “FedEx Express Segment.”
+
+FedEx Office offers retail access to FedEx Express shipping services at all of its retail locations. FedEx Express also has alliances with certain other retailers to provide in-store drop-off sites, including at more than 14,000 Walgreens, Dollar General, Walmart, Albertsons and Kroger stores. Our unmanned FedEx Drop Boxes provide customers the opportunity to drop off packages in office buildings, shopping centers and corporate or industrial parks.
+
+Services are delivered by TNT Express through a combination of physical infrastructures such as hubs, depots and vehicles, and electronic infrastructures such as track-and-trace systems. TNT Express operates road networks in Europe, the Middle East, Asia, Australia and South America. TNT Express’s unique European road network connects more than 40 countries through 34 road hubs and over 540 depots.
+
+Fuel Supplies and Costs
+
+During 2020, FedEx Express purchased jet fuel from various suppliers under contracts that vary in length and which provide for estimated amounts of fuel to be delivered. The fuel represented by these contracts is purchased at market prices. We do not have any jet fuel hedging contracts. See “Pricing” above.
+
+The following table sets forth FedEx Express’s costs for jet fuel and its percentage of FedEx Corporation consolidated revenues for the last five fiscal years (amounts for 2017 to 2020 include TNT Express):
+
+ 
+
+Fiscal Year
+
+ 
+
+Total Jet
+
+Fuel Cost
+
+(in millions)
+
+ 
+
+ 
+
+Percentage of Consolidated
+
+Revenue
+
+ 
+
+2020
+
+ 
+
+$
+
+2,265
+
+ 
+
+ 
+
+ 
+
+3.3
+
+%
+
+2019
+
+ 
+
+ 
+
+2,847
+
+ 
+
+ 
+
+ 
+
+4.1
+
+ 
+
+2018
+
+ 
+
+ 
+
+2,460
+
+ 
+
+ 
+
+ 
+
+3.8
+
+ 
+
+2017
+
+ 
+
+ 
+
+1,999
+
+ 
+
+ 
+
+ 
+
+3.3
+
+ 
+
+2016
+
+ 
+
+ 
+
+1,726
+
+ 
+
+ 
+
+ 
+
+3.4
+
+ 
+
+ 
+
+Most of FedEx Express’s vehicle fuel needs are satisfied by retail purchases with various discounts.
+
+Competition
+
+As described in Item 1A (“Risk Factors”) of this Annual Report, the express package and freight markets are both highly competitive and sensitive to price and service, especially in periods of little or no macroeconomic growth. The ability to compete effectively depends upon price, frequency, capacity and speed of scheduled service, ability to track packages, extent of geographic coverage, reliability, innovative service offerings and the fit within the customer’s overall supply chain.
+
+- 12 -
+
+ 
+
+Competitors within the U.S. include other package delivery concerns, principally United Parcel Service, Inc. (“UPS”), passenger airlines offering express package services, regional delivery companies, air freight forwarders and the USPS. FedEx Express’s and TNT Express’s principal international competitors are DHL, UPS, DPD (a subsidiary of France’s La Poste’s GeoPost), General Logistics Systems (a Royal Mail-owned parcel delivery group), foreign postal authorities, passenger airlines, air freight forwarders, regional carriers, and all-cargo airlines. We also compete with startup companies that combine technology with crowdsourcing to focus on local market needs. In addition, some high volume package shippers, such as Amazon.com, are developing and implementing in-house delivery capabilities and utilizing independent contractors for deliveries, and may be considered competitors. For example, Amazon.com is investing significant capital to establish a network of hubs, aircraft and vehicles. Many of FedEx Express’s international competitors are government-owned, -controlled or -subsidized carriers, which may have greater resources, lower costs, less profit sensitivity and more favorable operating conditions than FedEx Express.
+
+Employees
+
+Donald F. Colleran is the President and Chief Executive Officer of FedEx Express, which is headquartered in Memphis, Tennessee. As of May 31, 2020, FedEx Express employed approximately 183,000 permanent full-time and approximately 62,000 permanent part-time employees (including approximately 35,000 permanent full-time employees and approximately 8,000 permanent part-time employees at TNT Express).
+
+The pilots of FedEx Express, who are a small number of its total employees, are represented by the Air Line Pilots Association, International (“ALPA”) and are employed under a collective bargaining agreement that took effect in 2015. The collective bargaining agreement is scheduled to become amendable in November 2021. In addition to our pilots at FedEx Express, certain of FedEx Express’s non-U.S. employees are unionized.
+
+Attempts by other labor organizations to organize certain other groups of FedEx Express employees occur from time to time. Although these organizing attempts have not resulted in any certification of a U.S. domestic collective bargaining representative of FedEx Express employees (other than ALPA), we cannot predict the outcome of these labor activities or their effect, if any, on FedEx Express or its employees. For more information, see Item 1A (“Risk Factors”) of this Annual Report. FedEx Express believes its employee relations are excellent.
+
+FedEx Custom Critical
+
+Effective March 1, 2020, FedEx Custom Critical is included in the FedEx Express segment. FedEx Custom Critical provides a range of expedited, time-specific freight-shipping services throughout the U.S., Canada and Mexico. Among its services are Surface Expedite, providing exclusive-use shipping and time-definite services; Air Expedite, offering an array of expedited air solutions to meet customers’ critical delivery times; and White Glove Services, for shipments that require extra care in handling, temperature control or specialized security. Service from FedEx Custom Critical is available 24 hours a day, 365 days a year. FedEx Custom Critical continuously monitors shipments through an integrated proprietary shipment-control system, including two-way satellite communications on exclusive-use shipments.
+
+FedEx Cross Border
+
+Effective June 1, 2020, FedEx Cross Border is included in the FedEx Express segment. FedEx Cross Border is an e-commerce enabler that provides international cross-border enablement and technology solutions such as duty calculations, package tracking, international shipping costs and currency conversion calculations. Additionally, FedEx Cross Border publishes customs duty and tax information for approximately 200 customs areas worldwide through WorldTariff. The offerings of FedEx Cross Border strategically fit into our global portfolio by allowing us to help retailers and e-tailers reach international e-commerce customers.
+
+FedEx Ground Segment
+
+Overview
+
+By leveraging the FedEx brand, maintaining a low cost structure and efficiently using information technology and advanced automation systems, FedEx Ground continues to enhance its competitive position as a leading provider of business and residential money-back guaranteed ground package delivery services. In response to the COVID-19 pandemic, in March 2020 we temporarily suspended our money-back guarantee for all FedEx Ground services. FedEx Ground serves customers in the North American small-package market, focusing on business and residential delivery of packages weighing up to 150 pounds. Ground service is provided to 100% of the continental U.S. population and overnight service of up to 400 miles to nearly 100% of the continental U.S. population. Service is also provided to nearly 100% of the Canadian population. In addition, FedEx Ground offers service to Alaska and Hawaii through a ground and air network operation coordinated with other transportation providers.
+
+- 13 -
+
+ 
+
+After expanding operations throughout the FedEx Ground U.S. network to six days per week year-round in 2019, in January 2020, FedEx Ground expanded residential delivery operations to seven days per week year-round for the majority of the U.S. population. In 2021 FedEx Ground will expand seven-day residential delivery coverage to more than 95 percent of the U.S. population.
+
+FedEx Ground continues to improve the speed, reach and service capabilities of its network, by reducing transit time for many of its lanes and introducing and expanding overnight ground service in many metropolitan areas. FedEx Ground’s network expansion has substantially increased the company’s daily pickup capacity through the addition of new hubs featuring the latest automated sorting technology and the expansion or relocation of existing hubs and other facilities. FedEx Ground is also making significant operational enhancements to ensure safe and reliable handling of large and heavy items. These changes include designing new facilities, adding equipment to certain facilities and making other operational adjustments. Additionally, FedEx Ground is repurposing FedEx SmartPost facilities for standard or large package sortation, and adding capacity through new regional sort facilities designed to handle shorter zone volumes into certain markets.
+
+The company offers our FedEx Home Delivery service, which reaches 100% of U.S. residences. FedEx Home Delivery is dedicated to meeting the delivery needs of residential customers and provides routine Saturday and evening delivery and premium options such as day-specific, appointment and signature delivery. Sunday delivery is also provided for the majority of the U.S. population. FedEx Home Delivery brings unmatched services to residential shippers and their customers and is the first residential ground package delivery service to have offered a money-back guarantee. The FedEx SmartPost service specializes in the consolidation and delivery of high volumes of low-weight, less time-sensitive business-to-consumer packages to any residential address or PO Box in the U.S. Significant progress was made in the integration of FedEx SmartPost packages into the standard FedEx Ground operations in 2020. This transition will be completed in the first half of 2021, generating last mile efficiency through increased delivery density.
+
+FedEx Delivery Manager allows our U.S. residential customers to customize home deliveries to fit their schedule by providing a range of options to schedule dates, locations and times of delivery. By signing up at fedex.com, customers can receive notification of FedEx Ground packages en route to their homes and can choose various delivery options.
+
+Pricing
+
+FedEx Ground periodically publishes updates to the list prices for the majority of its services in its Service Guide. In general, U.S. shipping rates are based on the service selected, origin, destination, weight, size, any ancillary service charge and whether the customer charged the shipment to a FedEx account. On January 6, 2020, FedEx Ground and FedEx Home Delivery implemented a 4.9% average list price increase. FedEx SmartPost average list prices also increased. FedEx Ground applied peak holiday season surcharges from November 18, 2019 through January 5, 2020 for shipments that required additional handling and from October 21, 2019 through January 5, 2020 for shipments that were oversized or unauthorized. Effective January 20, 2020, FedEx Ground made general changes to surcharge criteria for certain packages that require additional handling. Additionally, in order to manage demand and capacity constraints in connection with the COVID-19 pandemic, on June 8, 2020, FedEx Ground implemented temporary surcharges on FedEx SmartPost and oversized and residential package shipments.
+
+FedEx Ground has an indexed fuel surcharge, which is adjusted on a weekly basis. The fuel surcharge is based on a weekly fuel price from two weeks prior to the week in which it is assessed. On March 2, 2020, we updated the tables used to determine our fuel surcharges at FedEx Ground. See the “Results of Operations and Outlook — Consolidated Results —Fuel” section of Item 7 (“Management’s Discussion and Analysis of Results of Operations and Financial Condition”) of this Annual Report for a description and discussion of the net impact of fuel on our operating results.
+
+Operations
+
+FedEx Ground operates a multiple hub-and-spoke sorting and distribution system which consisted of 591 facilities, including 39 hubs, in the U.S. and Canada as of May 31, 2020. FedEx Ground conducts its operations primarily with approximately 77,000 vehicles owned or leased by separate service providers. To provide FedEx Home Delivery service and FedEx SmartPost Service, FedEx Ground leverages its pickup operation and hub and linehaul network.
+
+Advanced automated unloading and sorting technology is used to streamline the handling of millions of packages daily. FedEx Ground yard management systems, which interact with GPS tags on each trailer and create geofences around FedEx Ground facilities, automatically notify the control center when a trailer arrives and departs. Using overhead laser and six-sided camera-based bar code scan technology, hub conveyors electronically guide packages to their appropriate destination chute, where they are loaded for transport to their respective destination stations for local delivery. Autonomous, driverless technologies enable FedEx Ground to handle large, non-conveyable packages. Software systems and internet-based applications are also deployed to offer customers new ways to connect internal package data with external delivery information. FedEx Ground provides shipment tracing and proof-of-delivery signature functionality through the FedEx website, fedex.com. For additional information regarding FedEx Ground e-shipping tools and solutions, see “FedEx Services Segment — Customer-Driven Technology.”
+
+- 14 -
+
+ 
+
+FedEx Office offers retail access to FedEx Ground shipping services at all of its retail locations. FedEx Ground is also available as a service option at all FedEx Authorized ShipCenters and other FedEx OnSite locations, including at approximately 14,000 Walgreens, Dollar General, Albertsons and Kroger stores.  
+
+As of May 31, 2020, FedEx Ground employed approximately 40,000 permanent full-time and approximately 114,000 permanent part-time employees. During the second half of 2020 and into 2021, we have increased hiring at FedEx Ground to keep pace with demand for residential services caused by the COVID-19 pandemic. In addition, FedEx Ground relies on independent small businesses to conduct its linehaul and pickup-and-delivery operations, as the use of these service providers is well suited to the needs of the ground delivery business and its customers. During 2020, FedEx Ground completed the previously announced transition to the Independent Service Provider agreement throughout its entire U.S. pickup-and-delivery network.
+
+FedEx Ground is defending lawsuits in which it is alleged that FedEx Ground should be treated as an employer of drivers employed by service providers engaged by FedEx Ground. We continue to believe that FedEx Ground is not an employer or joint employer of the drivers of these independent businesses. For a description of these proceedings, see Item 1A (“Risk Factors”) of this Annual Report and Note 18 of the accompanying consolidated financial statements.
+
+Henry J. Maier is the President and Chief Executive Officer of FedEx Ground. FedEx Ground is headquartered in the Pittsburgh, Pennsylvania area, and its primary competitors are UPS, the USPS and regional delivery carriers. We also compete with startup companies that combine technology with crowdsourcing to focus on local market needs. In addition, some high volume package shippers, such as Amazon.com, are developing and implementing in-house delivery capabilities and utilizing independent contractors for deliveries, and may be considered competitors. For example, Amazon.com is investing significant capital to establish a network of hubs and vehicles.
+
+FedEx Freight Segment
+
+FedEx Freight is a leading North American provider of LTL freight services, offering choice, simplicity and reliability to meet the needs of LTL shippers — FedEx Freight Priority, when speed is critical to meet supply chain needs, and FedEx Freight Economy, when time can be traded for cost savings. Through one comprehensive network of service centers and advanced information systems, FedEx Freight provides service to virtually every U.S. ZIP Code (including Alaska and Hawaii) with industry-leading transit times. FedEx Freight Priority has the fastest published transit times of any nationwide LTL service. Internationally, FedEx Freight Canada offers FedEx Freight Priority service, serving most points in Canada, as well as FedEx Freight Priority and FedEx Freight Economy service between Canada and the U.S. In addition, FedEx Freight serves Mexico, Puerto Rico and the U.S. Virgin Islands via alliances. In response to the COVID-19 pandemic, in March 2020 we temporarily suspended our money-back guarantee for all FedEx Freight services.
+
+Through its many service offerings, FedEx Freight can match customers’ time-critical needs with industry-leading transit times. With the expansion of FedEx electronic solutions, LTL shippers have the convenience of a single shipping and tracking solution for FedEx Freight, FedEx Express and FedEx Ground. These solutions make freight shipping easier and provide customers easy access to their account information. The FedEx Freight Advance Notice feature available on FedEx Freight Priority shipments uses the company’s innovative technology systems to proactively notify FedEx Freight customers via the internet, e-mail or fax when a shipment may be delayed beyond its estimated delivery date, providing customers with greater visibility and control of their LTL freight shipments. Customers can also process cross-border LTL shipments to and from Canada and Mexico, as well as intra-Canada and -Mexico shipments, through FedEx Ship Manager at fedex.com, FedEx Ship Manager Software, FedEx Ship Manager Server and FedEx Web Services. Additionally, FedEx Freight A.M. Delivery offers freight delivery by 10:30 a.m. within and between the U.S. and Canada.
+
+FedEx Freight further simplifies LTL shipping with the FedEx Freight box, which offers improved flexibility, increased security, better shipment integrity and no freight classification. The FedEx Freight box comes in two sizes: a standard freight box that requires a pallet to ship and a smaller freight box with an integrated pallet. The ability to choose between freight boxes makes freight shipping accessible to any business. With a distance-based pricing structure, the FedEx Freight box allows customers to ship LTL with flat rates. FedEx Freight also offers LTL Select, a free cloud-based, multi-carrier transportation management system that provides customers with visibility into all available carriers and their pricing in one location, as well as the ability to book service and make payments.
+
+In 2020, FedEx Freight introduced FedEx Freight Direct, a service to meet the needs of the growing e-commerce market for delivery of heavy, bulky products to or through the door for residences and businesses. FedEx Freight Direct has three service levels to meet speed and budget needs, with the basic service level available to 100 percent of the contiguous U.S. population. Standard and premium service level offerings will be expanded to 90% of the U.S. population in the second half of 2021.
+
+- 15 -
+
+ 
+
+FedEx Freight periodically publishes updates to the list prices for the majority of its services in its 100-S Rules Tariff. In general, shipping rates are based on the service selected, origin, destination, weight, class, any ancillary service charge and whether the customer charged the shipment to a FedEx account. On January 6, 2020, FedEx Freight implemented a 5.9% average list price increase in certain U.S. and other shipping rates. Effective January 20, 2020, FedEx Freight added a surcharge for shipments originating in or destined to California.
+
+FedEx Freight has an indexed fuel surcharge, which is adjusted on a weekly basis. The fuel surcharge is based on a weekly fuel price from two days prior to the day in which it is assessed. On March 4, 2020, we updated the tables used to determine our fuel surcharges at FedEx Freight. See the “Results of Operations and Outlook — Consolidated Results —Fuel” section of Item 7 (“Management’s Discussion and Analysis of Results of Operations and Financial Condition”) of this Annual Report for a description and discussion of the net impact of fuel on our operating results.
+
+As of May 31, 2020, the FedEx Freight segment was operating approximately 30,000 vehicles from a network of 373 service centers and had approximately 44,000 employees. John A. Smith is the President and Chief Executive Officer of FedEx Freight, which is based in Memphis, Tennessee. FedEx Freight’s primary competitors are YRC Worldwide Inc. (which includes YRC Regional Transportation and YRC Freight), XPO Logistics, Inc., UPS Freight, Old Dominion Freight Line, Inc., ABF Freight (an ArcBest company) and SAIA, Inc.
+
+In 2014 and 2015, the International Brotherhood of Teamsters (“Teamsters”) petitioned for National Labor Relations Board (“NLRB”) elections at sixteen FedEx Freight facilities. The Teamsters lost the vote or withdrew the petition prior to the election at twelve facilities and won the vote at four facilities. To date, at three of the four FedEx Freight facilities that originally voted for Teamster representation, the Teamsters have either been decertified by employee vote or voluntarily withdrawn as bargaining representative. We are currently bargaining with the union at the other facility. Additionally, in 2019 a union was certified to represent owner-drivers at a FedEx Freight Canada, Corp. facility, and in 2020 those owner-drivers voted to decertify the union.
+
+FedEx Services Segment
+
+FedEx Services provides our other companies with sales, marketing, information technology, communications, customer service, technical support, billing and collection services, and certain other back-office support. Through FedEx Services, we provide a convenient single point of access for many customer support functions, enabling us to more effectively sell the entire portfolio of transportation services and to help ensure a consistent and outstanding experience for our customers.
+
+Rajesh Subramaniam and Robert B. Carter each serve as the Co-President and Co-Chief Executive Officer of FedEx Services, which is based in Memphis, Tennessee. As of May 31, 2020, the FedEx Services segment had approximately 15,000 employees.
+
+Customer-Driven Technology
+
+FedEx is a world leader in technology, and FedEx founder Frederick W. Smith’s vision that “the information about a package is as important as the delivery of the package itself” remains at the core of our comprehensive technology strategy. Innovation at FedEx is the foundation of our relations with customers. We strive to build technology solutions that will solve our customers’ business problems with simplicity, convenience, speed and reliability. Robert B. Carter, Executive Vice President — FedEx Information Services and Chief Information Officer of FedEx, won the 2019 Forbes CIO Innovation Award for the development of FedEx OnSite, our retail convenience network that utilizes third-party retailers such as Walgreens to receive and hold packages for FedEx customers. Additionally, during 2020 we continued to advance a major information technology transition from traditional mainframe computing to cloud-based systems, which is delivering significant benefits in terms of flexibility, security, speed to market and resiliency.
+
+The focal point of our strategy is our award-winning website, together with our customer integrated solutions. The fedex.com website was launched nearly 25 years ago, and during that time, customers have shipped and tracked billions of packages at fedex.com. The fedex.com website is widely recognized for its speed, ease of use and customer-focused features. The advanced tracking capability within FedEx Tracking provides customers with a consolidated view of inbound and outbound shipments. FedEx Virtual Assistant on fedex.com is an artificial-intelligence-enabled service that provides answers to customer shipping questions, allowing our customer service representatives and sales professionals to focus on higher-value customer interactions. International Shipping Assist on fedex.com uses artificial intelligence to continually improve the process of completing the complicated paperwork required for international shipping. Additionally, our state-of-the-art Packaging Lab designs innovative custom packaging solutions to keep shipments protected through transit, and SenseAware®, a FedEx innovation currently available in 44 markets worldwide, allows customers to stay connected to their critical shipments by providing real-time updates regarding current location, precise temperature, relative humidity, barometric pressure readings, light exposure and shock events.
+
+- 16 -
+
+ 
+
+We stand at the nexus of digital and physical networks, a crucial intersection for the success of e-commerce deliveries. We design our e-commerce tools and solutions to be easily integrated into our customers’ applications, as well as into third-party software developed by leading e-procurement, systems integration and enterprise resource planning companies. In May 2020, we announced a new, multi-year collaboration with Microsoft to transform commerce and enhance FedEx’s global supply chain and logistics network through Microsoft Azure, Microsoft’s intelligent cloud platform. FedEx Surround, the first solution resulting from the collaboration, allows any business to enhance visibility into its supply chain by leveraging data to provide near-real-time analytics into shipment tracking, which will drive more precise logistics and inventory management. FedEx and Microsoft expect to announce additional solutions, including reimagining commerce experiences for businesses to offer consumers more integrated ways to shop, and faster and more efficient deliveries.
+
+Our FedEx Ship Manager suite of solutions offers a wide range of options to help our customers manage their parcel and LTL shipping and associated processes. FedEx Returns Technology, a comprehensive solution for returns management, provides high-volume merchants and e-tailers complete visibility into returns, giving them an easy way to track shipments, manage inventory, analyze returns trends and make more informed decisions based on shoppers’ returns behaviors. In 2020, we expanded FedEx Returns Technology to the Walgreens retail network, which allows for in-store printing of return shipping labels and eliminates the need to include a return label in every package.
+
+In 2019, we expanded e-commerce delivery options for retailers with FedEx Extra Hours, a service that enables participating retailers to fulfill e-commerce orders into the evening and receive late pickups by FedEx Express, with next-day local delivery and two-day shipping to any address in the continental United States. FedEx Extra Hours, which is currently available to select customers, allows retailers to extend evening order cutoff times by five to eight hours, with some as late as midnight, depending on their current order fulfillment process.
+
+In 2019, we also announced the development through a partnership of the FedEx SameDay Bot, an autonomous delivery device designed to help retailers make same-day and last-mile deliveries to their customers. With the SameDay Bot, retailers will be able to accept orders from nearby customers and deliver them directly to homes or businesses the same day. We began testing the SameDay Bot in select markets in 2020 and are collaborating with companies such as AutoZone, Lowe’s, Pizza Hut, Target, Walgreens and Walmart to help assess retailers’ autonomous delivery needs. In 2020, we announced our collaboration with two business partners to launch a pilot drone delivery service to explore methods of enhancing last-mile residential delivery service.
+
+FedEx Mobile is a suite of solutions including the FedEx mobile application, FedEx mobile website and SMS text messaging. The FedEx Mobile app provides convenience for recipients to track packages, get quick rates and estimated delivery times, quickly find the nearest FedEx location and easily access FedEx Delivery Manager to customize home deliveries. It is available on Android™ and Apple devices. The FedEx mobile website has expanded to more than 195 countries and territories and 34 languages. FedEx Mobile allows customers to track packages, create shipping labels, view account-specific rate quotes and access drop-off location information. SMS Notifications allows customers to track or follow a package via text messaging, and it is currently available in five countries.
+
+With the FedEx Office Print Online solution, customers can use their laptops or mobile devices to design their print needs or access their personal cloud accounts, and print directly to any FedEx Office location in the U.S., or have their order delivered right to their door. Customers also have the flexibility of using FedEx Office’s Print & Go solutions to print at self-serve locations from USBs, the cloud or through email. Print & Go solutions allow customers to access files using popular cloud providers Google Drive™, Dropbox, Box, Microsoft OneDrive® and from FedEx Office’s own My Online Documents, making printing easy. Customers can simply email files to printandgo@fedex.com and with the retrieval code they receive they can conveniently print the files at the self-serve kiosks in any FedEx Office location. FedEx Office provides multiple options for customers to choose the best access method they need for quick service or more robust printing projects.
+
+During 2018, we joined the Blockchain in Transportation Alliance to explore this chain-of-custody technology within the logistics sector, which we believe can significantly improve worldwide supply chains and add value to our products, services and processes. By giving more visibility to everyone involved in the logistics process, we believe blockchain technology can reduce customer claims, increase customer satisfaction and reduce our costs.
+
+Marketing
+
+The FedEx brand name symbolizes outstanding service, reliability and speed. Emphasis is continually placed on promoting and protecting the FedEx brand, one of our most important assets. As a result, FedEx is one of the most widely recognized brands in the world. In addition to television, print and digital advertising, we promote the FedEx brand through sponsorships and special events. For example, FedEx sponsors:
+
+ 
+
+•
+
+The season-long FedExCup competition on the PGA TOUR.
+
+- 17 -
+
+ 
+
+ 
+
+•
+
+The World Golf Championships FedEx St. Jude Invitational, a PGA TOUR event that has raised millions of dollars for St. Jude Children’s Research Hospital and is one of four annual World Golf Championships events.
+
+ 
+
+•
+
+FedExField in the Washington, DC area.
+
+ 
+
+•
+
+The #11 Joe Gibbs Racing Toyota Camry driven by Denny Hamlin in the NASCAR Cup Series.
+
+ 
+
+•
+
+The UEFA Europa League, Europe’s largest professional club soccer competition comprising 48 teams from 55 European nations that can attempt to qualify each season.
+
+ 
+
+•
+
+ATP Tour men’s professional tennis circuit.
+
+ 
+
+•
+
+FedExForum in Memphis, TN.
+
+Additionally, FedEx is the “Official Delivery Service Sponsor” and “Official Office Services Provider” of the NFL, through which we conduct events and other activities to promote the FedEx Brand, such as the “FedEx Air & Ground®” NFL Players of the Week and Players of the Year Awards.
+
+Information Security
+
+FedEx Services has a team of highly qualified professionals dedicated to securing information about our customers’ shipments and protecting our customers’, vendors’ and employees’ privacy, and we strive to provide a safe, secure online environment for our customers. We are committed to compliance with applicable information security laws, regulations and industry standards — including, for example, the Payment Card Industry Data Security Standard, a set of comprehensive requirements for enhancing payment account data security developed by the Payment Card Industry Security Standards Council, as well as compliance with the Health Insurance Portability and Accountability Act of 1996, which enforces the security and confidentiality of employee health information. For a description of risks related to information security, see Item 1A (“Risk Factors”) of this Annual Report.
+
+Global ISO 9001 Certification
+
+FedEx Services provides our customers with a high level of service quality, as evidenced by our ISO 9001 certification for our global express and ground operations. ISO 9001 registration is required by thousands of customers around the world. FedEx’s global certification, encompassing the processes of FedEx Express, FedEx Ground and FedEx Services, enhances our single-point-of-access strategy and solidifies our reputation as the quality leader in the transportation industry. ISO 9001 is the international standard for Quality Management Systems. ISO standards were developed by the International Organization for Standardization in Geneva, Switzerland to promote and facilitate international trade. Approximately 170 countries, including European Union (“EU”) members, the U.S. and Japan, recognize ISO standards.
+
+FedEx Office Operating Segment
+
+As of May 31, 2020, FedEx Office operated approximately 2,200 customer-facing stores, providing convenient access to printing and shipping expertise with reliable service. In response to the COVID-19 pandemic, we have temporarily closed a small number of FedEx Office stores, and are operating other FedEx Office stores at reduced hours. Additionally, in March 2020 we temporarily suspended our money-back guarantee for all same-day FedEx Office services.
+
+The FedEx Office network features retail stores, centralized production centers, corporate on-site print centers, and on-site business centers at colleges and universities, hotels, convention centers, corporate campuses and health care campuses. Many of these locations are open later in the evenings to accommodate urgent printing projects and delivery drop-offs. FedEx Office has designed a suite of printing and shipping management solutions that are flexible and scalable, allowing customers to meet their unique printing and shipping needs. The network provides an adaptable cost model helping to save time, labor and overhead by freeing up resources and avoiding fixed costs associated with large-scale printing and e-commerce parcel volumes. Services include digital printing, professional finishing, document creation, design services, direct mail, signs and graphics, custom-printed boxes, copying, computer rental, free Wi-Fi, corporate print solutions and expedited U.S. passport processing and renewal through a collaboration with a registered U.S. passport agency.
+
+To meet the evolving needs of print customers, FedEx Office has made significant investments in new machines and technology, enhancing capabilities in narrow format color, large format, color management and other technologies. Additional investments in grand format, large format, enhanced finishing and other print capabilities were made in 2020. In June 2020, FedEx Office partnered with a content and creative design platform to form a digital design-to-print marketplace offering millions of images and illustrations, an extensive library of templates and a simple drag-and-drop interface to create custom business materials from fedex.com on any device, with next-day printing on many requests available at FedEx Office stores.
+
+- 18 -
+
+ 
+
+FedEx Office also provides customers convenient access to the full range of FedEx Express and FedEx Ground shipping services. Customers may have their FedEx Express and FedEx Ground packages delivered to any FedEx Office customer-facing location nationwide through the Hold at FedEx Location service, free of charge, and may redirect packages to these locations through Redirect to Hold or AutoRedirect to Hold services. FedEx Office facilitates e-commerce and returns through FedEx Returns Technology, which allows for in-store printing of return shipping labels. Additionally, FedEx SameDay City is available in over 1,900 cities in 34 markets across the U.S., offering door-to-door residential and business delivery of time-sensitive parcels within hours by FedEx Office uniformed team members in branded FedEx Office delivery vehicles. Increasingly, industries such as health care, life sciences, manufacturing, finance, perishables, travel and automotive are relying on same-day services for critical delivery needs.
+
+FedEx Office also offers packing services, and packing supplies and boxes are included in its retail offerings. By allowing customers to have items professionally packed by specially trained FedEx Office team members and then shipped using FedEx Ground day-definite shipping and time-definite global FedEx Express shipping services, FedEx Office offers a complete “pack-and-ship” solution. FedEx Office also offers FedEx Pack Plus, which includes custom box building capabilities and techniques, a robust assortment of specialty boxes and additional packing supplies, equipment and tools to serve our customers’ needs.
+
+Almost all FedEx Office locations provide local pickup-and-delivery service for print jobs completed by FedEx Office. A FedEx courier picks up a customer’s print job at the customer’s location and then returns the finished product to the customer. Options and services vary by location.  
+
+During 2018, we entered into an agreement to place up to 500 new FedEx Office locations within select U.S. Walmart stores nationwide. The agreement is part of the nationwide expansion of the FedEx retail channel, and as of May 31, 2020 we operate over 340 FedEx Office locations inside Walmart stores.
+
+Brian D. Philips is the President and Chief Executive Officer of FedEx Office, which is based in Plano, Texas. As of May 31, 2020, FedEx Office had approximately 15,000 employees.
+
+FedEx Office is an operating segment that is included in “Corporate, other and eliminations” in our segment reporting.
+
+FedEx Logistics Operating Segment
+
+The FedEx Logistics operating segment leverages the power of the extensive international FedEx transportation network to provide specialty solutions that complete a simple, seamless and powerful global trade experience for FedEx customers around the world, including customs brokerage and global ocean and air freight forwarding through FedEx Trade Networks Transport & Brokerage; integrated supply chain management solutions through FedEx Supply Chain; and critical inventory and service parts logistics and technology repair through FedEx Forward Depots. Additionally, FedEx Logistics provides international trade advisory services, including assistance with the Customs-Trade Partnership Against Terrorism program.
+
+Udo Lange is the President and Chief Executive Officer of FedEx Logistics, which is based in Memphis, Tennessee. As of May 31, 2020, the FedEx Logistics organization had approximately 20,000 employees. FedEx Supply Chain has a small number of employees who are members of unions.
+
+FedEx Logistics is an operating segment that is included in “Corporate, other and eliminations” in our segment reporting.
+
+FedEx Trade Networks Transport & Brokerage
+
+FedEx Trade Networks Transport & Brokerage provides international trade services, specializing in customs brokerage, global ocean and air freight forwarding and managed transportation. Additionally, FedEx Trade Networks Transport & Brokerage provides customs clearance services for FedEx Express at its major U.S. hub facilities.
+
+As trade throughout the world grows, so does the FedEx Trade Networks Transport & Brokerage solutions portfolio. As of May 31, 2020, value-added services of FedEx Trade Networks Transport & Brokerage included approximately 110 freight forwarding offices in 30 countries and Global Trade Data, an information tool that allows customers to track and manage imports. In total, as of May 31, 2020, FedEx Trade Networks Transport & Brokerage had approximately 140 offices in 110 service locations throughout North America and in Africa, Asia-Pacific, Europe, India, Latin America, the Middle East and Australia. FedEx Trade Networks Transport & Brokerage maintains a network of air and ocean freight-forwarding service providers and has entered into strategic alliances to provide services in certain countries in which it does not have owned offices.
+
+- 19 -
+
+ 
+
+FedEx Supply Chain
+
+FedEx Supply Chain is a supply chain solutions provider specializing in Product Lifecycle Logistics® for technology, retail, consumer and industrial goods, and healthcare industries. With more than 13,000 employees at over 100 facilities as of May 31, 2020, FedEx Supply Chain provides a comprehensive range of integrated logistics services to enable growth, minimize cost, mitigate supply chain risk and improve customer services. Service offerings include inbound logistics, warehousing and distribution, fulfillment, contract packaging and product configuration, systems integration, returns process and disposition, test, repair, refurbishment and product liquidation.
+
+FedEx Fulfillment is an e-commerce solution that helps small and medium-sized businesses fulfill orders from multiple channels, including websites and online marketplaces, and manage inventory for their retail stores. The FedEx Fulfillment platform is designed to be an easy-to-use and all-in-one logistics solution through which customers have complete visibility into their products, giving them an easy way to track items, manage inventory, analyze trends, and make more informed decisions by better understanding shoppers’ spending behaviors.
+
+FedEx Forward Depots
+
+FedEx Forward Depots has responsibility for critical inventory and service parts logistics and technology repair. FedEx Forward Depots leverages innovative packing solutions and customer-driven design within the structure of FedEx Logistics.
+
+Seasonality
+
+For information on the seasonality of our business, see the “Results of Operations and Outlook — Consolidated Results — Seasonality of Business” section of Item 7 (“Management’s Discussion and Analysis of Results of Operations and Financial Condition”) of this Annual Report.
+
+Trademarks
+
+The “FedEx” trademark, service mark and trade name are essential to our worldwide business. FedEx, FedEx Express, FedEx Ground, FedEx Freight, FedEx Office, FedEx Services, FedEx Logistics, FedEx Trade Networks Transport & Brokerage, FedEx Cross Border, FedEx Supply Chain, FedEx Custom Critical, FedEx Forward Depots and TNT Express, among others, are trademarks, service marks and trade names of Federal Express Corporation or the respective companies for which registrations, or applications for registration, are on file, as applicable. We have authorized, through licensing arrangements, the use of certain of our trademarks, service marks and trade names by our contractors and Global Service Participants to support our business. In addition, we license the use of certain of our trademarks, service marks and trade names on promotional items for the primary purpose of enhancing brand awareness.
+
+Regulation
+
+Air. Under the Federal Aviation Act of 1958, as amended (the “Federal Aviation Act”), both the U.S. Department of Transportation (“DOT”) and the Federal Aviation Administration (“FAA”) exercise regulatory authority over FedEx Express.
+
+The FAA’s regulatory authority relates primarily to operational aspects of air transportation, including aircraft standards and maintenance, as well as personnel and ground facilities, which may from time to time affect the ability of FedEx Express to operate its aircraft in the most efficient manner. FedEx Express holds an air carrier certificate granted by the FAA pursuant to Part 119 of the federal aviation regulations. This certificate is of unlimited duration and remains in effect so long as FedEx Express maintains its standards of safety and meets the operational requirements of the regulations.
+
+The DOT’s authority relates primarily to economic aspects of air transportation. The DOT’s jurisdiction extends to aviation route authority and to other regulatory matters, including the transfer of route authority between carriers. FedEx Express holds various certificates issued by the DOT, authorizing FedEx Express to engage in U.S. and international air transportation of property and mail on a worldwide basis.
+
+Under the Aviation and Transportation Security Act of 2001, as amended, the Transportation Security Administration (“TSA”), an agency within the Department of Homeland Security, has responsibility for aviation security. The TSA requires FedEx Express to comply with a Full All-Cargo Aircraft Operator Standard Security Plan, which contains evolving and strict security requirements. These requirements are not static, but change periodically as the result of regulatory and legislative requirements, imposing additional security costs and creating a level of uncertainty for our operations. It is reasonably possible that these rules or other future security requirements could impose material costs on us.
+
+- 20 -
+
+ 
+
+FedEx Express participates in the Civil Reserve Air Fleet (“CRAF”) program. Under this program, the U.S. Department of Defense may requisition for military use certain of FedEx Express’s wide-bodied aircraft in the event of a declared need, including a national emergency. FedEx Express is compensated for the operation of any aircraft requisitioned under the CRAF program at standard contract rates established each year in the normal course of awarding contracts. Through its participation in the CRAF program, FedEx Express is entitled to bid on peacetime military cargo charter business. FedEx Express, together with a consortium of other carriers, currently contracts with the U.S. government for such charter flights.
+
+See Item 1A (“Risk Factors”) of this Annual Report for discussion of regulations related to pilots, including the proposed pilot flight and duty time regulations, that could affect our business.
+
+Ground. The ground transportation performed by FedEx Express is integral to its air transportation services. The enactment of the Federal Aviation Administration Authorization Act of 1994 abrogated the authority of states to regulate the rates, routes or services of intermodal all-cargo air carriers and most motor carriers. States may now only exercise jurisdiction over safety and insurance. FedEx Express is registered in those states that require registration.
+
+The operations of FedEx Ground, FedEx Freight and FedEx Custom Critical in interstate commerce are currently regulated by the DOT and the Federal Motor Carrier Safety Administration, which retain limited oversight authority over motor carriers. Federal legislation preempts regulation by the states of rates, routes and services in intrastate freight transportation.
+
+Like other interstate motor carriers, our operations, including those at FedEx Express, are subject to certain DOT safety requirements governing interstate operations. In addition, vehicle weight and dimensions remain subject to both federal and state regulations.
+
+International. FedEx Express’s international authority permits it to carry cargo and mail from points in its U.S. route system to numerous points throughout the world. The DOT regulates international routes and practices and is authorized to investigate and take action against discriminatory treatment of U.S. air carriers abroad. The right of a U.S. carrier to serve foreign points is subject to the DOT’s approval and generally requires a bilateral agreement between the U.S. and the foreign government. In addition, the carrier must then be granted the permission of such foreign government to provide specific flights and services. The regulatory environment for global aviation rights may from time to time impair the ability of FedEx Express to operate its air network in the most efficient manner, and efficient operations often utilize open skies provisions of aviation agreements. Additionally, global air cargo carriers, such as FedEx Express, are subject to current and potential additional aviation security regulation by U.S. and foreign governments.
+
+Our operations outside of the U.S., such as FedEx Express’s growing international domestic operations, are also subject to current and potential regulations, including certain postal regulations and licensing requirements, that restrict, make difficult and sometimes prohibit, the ability of foreign-owned companies such as FedEx Express to compete effectively in parts of the international domestic transportation and logistics market.
+
+Communication. Because of the extensive use of radio and other communication facilities in its aircraft and ground transportation operations, FedEx Express is subject to the Federal Communications Commission Act of 1934, as amended. Additionally, the Federal Communications Commission regulates and licenses FedEx Express’s activities pertaining to satellite communications.
+
+Environmental. Pursuant to the Federal Aviation Act, the FAA, with the assistance of the U.S. Environmental Protection Agency (“EPA”), is authorized to establish standards governing aircraft noise. FedEx Express’s aircraft fleet is in compliance with current noise standards of the federal aviation regulations. In addition to federal regulation of aircraft noise, certain airport operators have local noise regulations, which limit aircraft operations by type of aircraft and time of day. These regulations have had a restrictive effect on FedEx Express’s aircraft operations in some of the localities where they apply but do not have a material effect in any of FedEx Express’s significant markets. Congress’s passage of the Airport Noise and Capacity Act of 1990 established a National Noise Policy, which enabled FedEx Express to plan for noise reduction and better respond to local noise constraints. FedEx Express’s international operations are also subject to noise regulations in certain of the countries in which it operates.
+
+Concern over climate change, including the impact of global warming, has led to significant U.S. and international legislative and regulatory efforts to limit GHG emissions, including our aircraft and vehicle engine emissions. Increasingly, state and local governments are also considering GHG regulatory requirements.
+
+Compliance with such regulation and the associated potential cost is complicated by the fact that various countries and regions are following different approaches to the regulation of climate change. For example, the EU has established the Emissions Trading System (“ETS”) to regulate GHG emissions in the EU and adopted a directive in 2008 requiring each EU member state to extend the ETS to aviation operations. Efforts by the EU in 2009 to regulate flights arriving from or departing for airports outside of the EU were postponed. The EU extended its stay on the extra-territorial application of the EU ETS as applied to international flights to and from the European Economic Area (“EEA”) through the end of calendar 2023, contingent on successful implementation of the Carbon Offsetting and Reduction Scheme for International Aviation (“CORSIA”).
+
+- 21 -
+
+ 
+
+In 2016, the International Civil Aviation Organization (“ICAO”) passed a resolution adopting CORSIA, which is a global, market-based measure for purchasing credits to offset carbon dioxide emissions and intended to aid in meeting the ICAO’s goal of carbon-neutral growth starting in calendar 2020 by complementing industry efforts in infrastructure upgrades, technology, operations and sustainable aviation fuel. In June 2018, the ICAO adopted standards pertaining to country-by-country implementation including the collection and reporting of information on international aviation emissions beginning in calendar 2019. In furtherance of these efforts, in March 2019 the FAA issued notice of a CORSIA program permitting U.S. carriers to submit emissions data on a voluntary basis. Data reported will be used to set the initial emissions baseline, and beginning in calendar 2021 carriers subject to the requirements of CORSIA will be responsible for purchasing and retiring carbon credits to offset emissions in excess of the initial baseline. In response to the creation of the CORSIA program, in December 2017, the EU adopted a proposal which indefinitely excludes from the ETS flights operating fully or partly outside the EU and gradually reduces the number of aviation allowances from calendar 2021. The EU has indicated that it will assess CORSIA implementation and determine the future status of the ETS as applied to international aviation to and from the EEA. We expect compliance with CORSIA to increase FedEx operating expenses beginning in calendar 2021. The amount of such increase will ultimately depend on a number of factors, including the number of our flights subject to CORSIA, the fuel efficiency of our fleet, the average growth of the aviation sector, our ability to utilize sustainable aviation fuels in the future and the price of ICAO-eligible emission units or offsets required to be purchased by FedEx.
+
+Additionally, in calendar 2016, the EPA issued a finding that aircraft engine GHG emissions cause or contribute to air pollution that may reasonably be anticipated to endanger public health or welfare. In March 2017, ICAO adopted new carbon dioxide emissions standards that would apply not only to new aircraft types as of calendar 2020, but also to new deliveries of current in-production aircraft types from calendar 2023. Additionally, a cutoff date of calendar 2028 for production of aircraft that do not comply with proposed standards was adopted. These standards are considered to be especially stringent for larger aircraft weighing over 60 tons. The calendar 2016 EPA finding is a regulatory prerequisite to the adoption of the new certification standard for new aircraft emissions. In the past, the U.S. Congress has also considered bills that would regulate GHG emissions, and some form of federal climate change legislation is possible in the future. However, in calendar 2017 the U.S. withdrew from the Paris climate accord, an agreement among 196 countries to reduce GHG emissions, and that withdrawal’s effect on future U.S. policy regarding GHG emissions and on other GHG regulation is uncertain. Nevertheless, the extent to which other countries implement that agreement could have an adverse direct or indirect effect on our business.
+
+We are also subject to federal, state and local environmental laws and regulations relating to, among other things, the shipment of dangerous goods and contingency planning for spills of petroleum products. Additionally, we are subject to numerous regulations dealing with underground fuel storage tanks, hazardous waste handling, vehicle and equipment emissions and noise and the discharge of effluents from our properties and equipment. We have environmental management programs designed to ensure compliance with these regulations.
+
+Export Controls. In recent years, the U.S. government has increased the number of companies and persons subject to U.S. export control regulations. Such regulations can restrict the types of items that FedEx customers are permitted to ship to certain entities, and in some instances may prohibit FedEx from serving certain entities altogether. Violations of these regulations can result in significant monetary and other penalties. For example, the Export Control Reform Act of 2018 (the “ECRA”) and its implementing regulations, the Export Administration Regulations (the “EARs”), hold carriers such as FedEx strictly liable for shipments that may violate the EARs without requiring evidence that the carriers had knowledge of any violations. Violations of the ECRA can result in criminal penalties of up to $1 million and civil penalties of $305,000 (or twice the value of the transaction) per individual violation. FedEx is investing in improvements and updates to its export control compliance programs. However, the heightened focus on export controls by the U.S. government increases FedEx’s exposure to potential regulatory penalties and could result in higher compliance costs.
+
+During the first quarter of 2020, FedEx filed suit in U.S. District Court in the District of Columbia seeking to enjoin the U.S. Department of Commerce from enforcing prohibitions contained in the EARs against FedEx. FedEx believes that the EARs violate common carriers’ rights to due process under the Fifth Amendment of the U.S. Constitution as they unreasonably hold common carriers strictly liable for shipments that may violate the EARs without requiring evidence that the carriers had knowledge of any violations. Additionally, the China State Post Bureau is currently conducting an investigation into the operations of FedEx Express regarding its handling of certain packages while attempting to comply with the EARs. FedEx Express has and will continue to fully cooperate with the Chinese authorities on the investigation. For more information, see Item 1A (“Risk Factors”) of this Annual Report.
+
+Customs. Our activities, including customs brokerage and freight forwarding, are subject to regulation by U.S. Customs and Border Protection and the TSA within the Department of Homeland Security (customs brokerage and security issues), the U.S. Federal Maritime Commission (ocean freight forwarding) and the DOT (air freight forwarding). Our offshore operations are subject to similar regulation by the regulatory authorities of foreign jurisdictions.
+
+- 22 -
+
+ 
+
+Labor. All U.S. employees at FedEx Express are covered by the Railway Labor Act of 1926, as amended (the “RLA”), while labor relations within the U.S. at our other companies are governed by the National Labor Relations Act of 1935, as amended (the “NLRA”). Under the RLA, groups that wish to unionize must do so across nationwide classes of employees. The RLA also requires mandatory government-led mediation of contract disputes supervised by the National Mediation Board before a union can strike or an employer can replace employees or impose contract terms. This part of the RLA helps minimize the risk of strikes that would shut down large portions of the economy. Under the NLRA, employees can unionize in small localized groups, and government-led mediation is not a required step in the negotiation process.
+
+The RLA was originally passed to govern railroad and express carrier labor negotiations. As transportation systems evolved, the law expanded to cover airlines, which are the dominant national transportation systems of today. As an air express carrier with an integrated air/ground network, FedEx Express and its employees have been covered by the RLA since the founding of the company in 1971. The purpose of the RLA is to offer employees a process by which to unionize (if they choose) and engage in collective bargaining while also protecting global commerce from damaging work stoppages and delays. Specifically, the RLA ensures that an entire transportation system, such as at FedEx Express, cannot be shut down by the actions of a local segment of the network.
+
+The U.S. Congress has, in the past, considered adopting changes in labor laws that would make it easier for unions to organize units of our employees. For example, there is always a possibility that Congress could remove most FedEx Express employees from the jurisdiction of the RLA, thereby exposing the FedEx Express network to sporadic labor disputes and the risk that small groups of employees could disrupt the entire air/ground network. In addition, federal and state governmental agencies, such as the National Mediation Board and the NLRB, have and may continue to take actions that could make it easier for our employees to organize under the RLA or NLRA. For a description of these potential labor law changes, see Item 1A (“Risk Factors”) of this Annual Report.
+
+Data Protection. Recently, there has been heightened regulatory and enforcement focus on data protection in the U.S. (at both the state and federal level) and abroad. For example, the EU’s General Data Protection Regulation (“GDPR”), which became effective in 2018, greatly increases the jurisdictional reach of EU law and adds a broad array of requirements related to personal data, including individual notice and opt-out preferences and the public disclosure of significant data breaches. Additionally, violations of the GDPR can result in fines of as much as 4% of a company’s annual revenue. Other governments have enacted or are enacting similar data protection laws, including data localization laws that require data to stay within their borders. For more information regarding data protection regulation, see Item 1A (“Risk Factors”) of this Annual Report.
+

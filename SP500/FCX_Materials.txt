@@ -1,0 +1,830 @@
+GENERAL
+
+We are a leading international mining company with headquarters in Phoenix, Arizona. We operate large, long-lived, geographically diverse assets with significant proven and probable reserves of copper, gold and molybdenum. We are one of the world’s largest publicly traded copper producers. Our portfolio of assets includes the Grasberg minerals district in Indonesia, one of the world’s largest copper and gold deposits; and significant mining operations in North America and South America, including the large-scale Morenci minerals district in Arizona and the Cerro Verde operation in Peru.
+
+We believe that we have a high-quality portfolio of long-lived copper assets positioned to generate long-term value. The ramp-up of underground mining at PT Freeport Indonesia (PT-FI) is advancing on schedule, production from the recently completed Lone Star copper leach project remains on track to produce over 200 million pounds of copper during the year 2021 and Cerro Verde has restored operations following a government-mandated shutdown in mid-March 2020 as part of efforts to contain the spread of COVID-19 in Peru. We are also pursuing other opportunities to enhance our mines’ net present values, and we continue to advance studies for future development of our portfolio of resources, the timing of which will depend on market conditions. We plan to prioritize long-term development opportunities during 2021 while focusing on the continued execution of our strategic objectives of maintaining a strong balance sheet, increasing cash returns to shareholders and advancing opportunities for future growth.
+
+Protecting the health of our workforce and communities where we operate is a top priority, and we continue to focus on safeguarding our business in an uncertain public health and economic environment. Our operating sites successfully executed our April 2020 revised operating plans implemented in response to the global COVID-19 pandemic and resulting negative impact on the global economy.
+
+In connection with our financing activities in 2019 and 2020, we issued a total of $4.0 billion in new senior notes and used most of the net proceeds to purchase and redeem outstanding senior notes. As a result, we have extended our debt maturities and strengthened our financial flexibility. We have no senior note maturities until 2022 and at December 31, 2020, we had no amounts drawn under our $3.5 billion revolving credit facility, which matures in April 2024.
+1
+
+Following are our ownership interests at December 31, 2020, in operating mines through our consolidated subsidiaries, Freeport Minerals Corporation (FMC) and PT-FI:fcx-20201231_g2.jpg
+a.Prior to December 21, 2018, we owned 90.64 percent of PT-FI and PT-FI had an unincorporated joint venture with Rio Tinto plc (Rio Tinto). Refer to Note 2 for further discussion of the PT-FI divestment transaction and Note 3 for discussion of the former joint venture with Rio Tinto (Rio Tinto Joint Venture).
+b.FMC has a 72 percent undivided interest in Morenci via an unincorporated joint venture. Refer to Note 3 for further discussion.
+
+At December 31, 2020, our estimated consolidated recoverable proven and probable mineral reserves totaled 113.2 billion pounds of copper, 28.9 million ounces of gold and 3.71 billion pounds of molybdenum. Following is the allocation of our estimated consolidated recoverable proven and probable mineral reserves at December 31, 2020, by geographic location (refer to “Mining Operations” for further discussion):
+Copper		Gold		Molybdenum			North America	42 	%		2 	%		81 	%	
+a
+South America	29 			— 			19 				Indonesia	29 			98 			— 					100 	%		100 	%		100 	%		 
+a.Our Henderson and Climax molybdenum mines contain 18 percent of our estimated consolidated recoverable proven and probable molybdenum reserves, and our North America copper mines contain 63 percent.
+
+In North America, we operate seven copper mines - Morenci, Bagdad, Safford, Sierrita and Miami in Arizona, and Chino and Tyrone in New Mexico, and two molybdenum mines - Henderson and Climax in Colorado. In addition to copper, certain of our North America copper mines also produce molybdenum concentrate, gold and silver. In South America, we operate two copper mines - Cerro Verde in Peru and El Abra in Chile. In addition to copper, the Cerro Verde mine also produces molybdenum concentrate and silver. In Indonesia, PT-FI operates in the Grasberg minerals district. In addition to copper, the Grasberg minerals district also produces gold and silver.
+2
+
+Following is the allocation of our consolidated copper, gold and molybdenum production for the year 2020 by geographic location (refer to “Mining Operations” for further information):
+Copper		Gold		Molybdenum		North America	44 	%		1 	%		75 	%	
+a
+South America	31 			— 			25 			Indonesia	25 			99 			— 				100 	%		100 	%		100 	%	 
+a.Our Henderson and Climax molybdenum mines produced 32 percent of our consolidated molybdenum production, and our North America copper mines produced 43 percent.
+
+The geographic locations of our operating mines are shown on the world map below. fcx-20201231_g3.jpg
+
+COPPER, GOLD AND MOLYBDENUM
+
+Following is a brief discussion of our primary natural resources – copper, gold and molybdenum. For further discussion of historical and current market prices of these commodities, refer to MD&A and Item 1A. “Risk Factors.”
+
+Copper
+Copper is an internationally traded commodity, and its prices are determined by the major metals exchanges – the London Metal Exchange (LME), Commodity Exchange Inc. (COMEX) and Shanghai Futures Exchange. Prices on these exchanges generally reflect the worldwide balance of copper supply and demand, and can be volatile and cyclical. During 2020, the LME copper settlement price averaged $2.80 per pound, ranging from a low of $2.09 per pound to a high of $3.61 per pound, and was $3.51 per pound at December 31, 2020.
+
+In general, demand for copper reflects the rate of underlying world economic growth, particularly in industrial production and construction. According to Wood Mackenzie, a widely followed independent metals market consultant, copper’s end-use markets (and their estimated shares of total consumption) are construction (28 percent), electrical applications (28 percent), consumer products (21 percent), transportation (12 percent) and industrial machinery (11 percent). We believe copper will continue to be essential in these basic uses as well as contribute significantly to new technologies for clean energy, to advance communications and to enhance public health. Examples of areas we believe will require additional copper in the future include: (i) high efficiency motors, which consume up to 75 percent more copper than a standard motor; (ii) electric vehicles, which consume up to four times the amount of copper in terms of weight compared to vehicles of similar size with an internal combustion engine, and require copper-intensive charging station infrastructure to refuel; and (iii) renewable energy such as wind and solar, which consume four to five times the amount of copper compared to traditional fossil fuel generated power.
+3
+Table of Contents
+Gold
+Gold is used for jewelry, coinage and bullion as well as various industrial and electronic applications. Gold can be readily sold on numerous markets throughout the world. Benchmark prices are generally based on London Bullion Market Association (London) quotations. During 2020, the London PM gold price averaged $1,770 per ounce, ranging from a low of $1,474 per ounce to a record high of $2,067 per ounce, and was $1,888 per ounce on December 30, 2020 (there was no London PM gold price quote on December 31, 2020).
+
+Molybdenum
+Molybdenum is a key alloying element in steel and the raw material for several chemical-grade products used in catalysts, lubrication, smoke suppression, corrosion inhibition and pigmentation. Molybdenum, as a high-purity metal, is also used in electronics such as flat-panel displays and in super alloys used in aerospace. Reference prices for molybdenum are available in several publications, including Metals Week, CRU Report and Metal Bulletin. During 2020, the weekly average price of molybdenum quoted by Metals Week averaged $8.69 per pound, ranging from a low of $7.01 per pound to a high of $10.79 per pound, and was $9.86 per pound at December 31, 2020.
+
+PRODUCTS AND SALES
+
+Our consolidated revenues for 2020 primarily included sales of copper (80 percent), gold (12 percent) and molybdenum (6 percent). Copper concentrate sales to PT Smelting (PT-FI’s 25-percent-owned copper smelter and refinery in Gresik, Indonesia) totaled 12 percent of our consolidated revenues for the year ended December 31, 2020, 13 percent for the year ended December 31, 2019, and 12 percent for the year ended December 31, 2018, which is the only customer that accounted for 10 percent or more of our consolidated revenues during the three years ended December 31, 2020. Refer to Note 16 for a summary of our consolidated revenues and operating income (loss) by business segment and geographic area.
+
+Copper Products
+We are one of the world’s leading producers of copper concentrate, cathode and continuous cast copper rod. During 2020, 51 percent of our mined copper was sold in concentrate, 28 percent as cathode and 21 percent as rod from our North America operations. The copper ore from our mines is generally processed either by smelting and refining or by solution extraction and electrowinning (SX/EW) as described below.
+
+Copper Concentrate. We produce copper concentrate at six of our mines in which mined ore is crushed and treated to produce a copper concentrate with copper content of approximately 20 to 30 percent. In North America, copper concentrate is produced at the Morenci, Bagdad, Sierrita and Chino mines, and a significant portion is shipped to our Miami smelter in Arizona for further processing. Copper concentrate is also produced at the Cerro Verde mine in Peru and the Grasberg minerals district in Indonesia.
+
+Copper Cathode. We produce copper cathode at our electrolytic refinery located in El Paso, Texas, and at nine of our mines. 
+
+SX/EW cathode is produced from the Morenci, Bagdad, Safford, Sierrita, Miami, Chino and Tyrone mines in North America, and from the Cerro Verde and El Abra mines in South America. For ore subject to the SX/EW process, the ore is placed on stockpiles and copper is extracted from the ore by dissolving it with a weak sulphuric acid solution. The copper content of the solution is increased in two additional SX stages, and then the copper-bearing solution undergoes an EW process to produce cathode that is, on average, 99.99 percent copper. Our copper cathode is used as the raw material input for copper rod, brass mill products and for other uses.
+
+Copper cathode is also produced at Atlantic Copper (our wholly owned copper smelting and refining unit in Spain) and PT Smelting. Copper concentrate is smelted (i.e., subjected to extreme heat) to produce copper anode, which weighs between 800 and 900 pounds and has an average copper content of 99.5 percent. The anode is further treated by electrolytic refining to produce copper cathode, which weighs between 100 and 350 pounds and has an average copper content of 99.99 percent. Refer to “Mining Operations - Smelting Facilities and Other Mining Properties” for further discussion of Atlantic Copper and PT Smelting.
+
+Continuous Cast Copper Rod. We manufacture continuous cast copper rod at our facilities in El Paso, Texas and Miami, Arizona, primarily using copper cathode produced at our North America copper mines.
+4
+Table of Contents
+Copper Sales
+North America. The majority of the copper produced at our North America copper mines and refined in our El Paso, Texas refinery is consumed at our rod plants to produce copper rod which is sold to wire and cable manufacturers. The remainder of our North America copper production is sold in the form of copper cathode or copper concentrate under U.S. dollar-denominated annual contracts. Cathode and rod contract prices are generally based on the prevailing COMEX monthly average settlement price for the month of shipment and include a premium. Generally, copper cathode is sold to rod, brass or tube fabricators. During 2020, 12 percent of our North America mines’ copper concentrate sales volumes were shipped to Atlantic Copper for smelting and refining and sold as copper anode and copper cathode.
+
+South America. Production from our South America mines is sold as copper concentrate or copper cathode under U.S. dollar-denominated, annual and multi-year contracts. During 2020, our South America mines sold approximately 76 percent of their copper production in concentrate and 24 percent as cathode.
+
+Substantially all of our South America copper concentrate and cathode sales contracts provide final copper pricing in a specified future month (generally one to four months from the shipment date) primarily based on quoted LME monthly average settlement copper prices. Revenues from our South America concentrate sales are recorded net of royalties and treatment charges (i.e., fees paid to smelters that are generally negotiated annually). In addition, because a portion of the metals contained in copper concentrate is unrecoverable from the smelting process, revenues from our South America concentrate sales are also recorded net of allowances for unrecoverable metals, which are a negotiated term of the contracts and vary by customer.
+
+Indonesia. PT-FI sells its production in the form of copper concentrate, which contains significant quantities of gold and silver, primarily under U.S. dollar-denominated, long-term contracts. PT-FI also sells a small amount of copper concentrate in the spot market. Following is a summary of PT-FI’s aggregate percentage of concentrate sales to unaffiliated third parties, PT Smelting and Atlantic Copper for the years ended December 31:
+ 	2020		2019		2018	Third parties	48 	%		34 	%		60 	%	PT Smelting	50 			64 			38 		Atlantic Copper	2 			2 			2 		 	100 	%		100 	%		100 	% 
+
+Substantially all of PT-FI’s concentrate sales contracts provide final copper pricing in a specified future month (generally one to four months from the shipment date) primarily based on quoted LME monthly average settlement copper prices. Revenues from PT-FI’s concentrate sales are recorded net of royalties, export duties, treatment charges and allowances for unrecoverable metals.
+
+Refer to Item 1A. “Risk Factors” for discussion of Indonesia regulations regarding PT-FI’s concentrate exports.
+
+Gold Products and Sales
+We produce gold almost exclusively from the Grasberg minerals district. The gold we produce is primarily sold as a component of our copper concentrate or in slimes, which are a product of the smelting and refining process. Gold generally is priced at the average London price for a specified month near the month of shipment. Revenues from gold sold as a component of our copper concentrate are recorded net of treatment and refining charges, royalties, export duties and allowances for unrecoverable metals. Revenues from gold sold in slimes are recorded net of refining charges.
+
+Molybdenum Products and Sales
+We are the world’s largest producer of molybdenum and molybdenum-based chemicals. In addition to production from the Henderson and Climax molybdenum mines, we produce molybdenum concentrate at certain of the North America copper mines and the Cerro Verde copper mine in Peru. The majority of our molybdenum concentrate is processed in our own conversion facilities. Our molybdenum sales are primarily priced based on the average published Metals Week price for the month prior to the month of shipment.
+
+5
+Table of Contents
+GOVERNMENTAL REGULATIONS
+
+Our operations are subject to a broad range of laws and regulations imposed by governments and regulatory bodies. These regulations touch all aspects of our operations, including how we extract, process and explore for minerals and how we conduct our business, including regulations governing matters such as environmental and reclamation matters, occupational health and safety, mining rights and human rights.
+
+Environmental and Reclamation Matters
+The cost of complying with environmental laws and regulations is fundamental to and a substantial cost of our business. We conduct our operations in a manner that aims to protect public health and the environment and we believe our operations are in compliance with applicable laws and regulations in all material respects. For information about environmental regulation, litigation and related costs, refer to Item 1A. “Risk Factors” and Notes 1 and 12.
+
+Health and Safety
+We prioritize the safety and health of our workforce. Management believes that safety and health considerations are integral to, and compatible with, all other functions in the organization and that proper safety and health management will enhance production and reduce costs. In the U.S., mine health and safety is governed by the U.S. Mine Safety and Health Administration. For information about health and safety, refer to “Human Capital” below and Item 4. “Mine Safety Disclosures.”
+
+Mining Rights
+We conduct our mining and exploration activities pursuant to concessions granted by, or under contracts with, the host government in the countries where we operate. These countries include, among others, the U.S., Peru, Chile and Indonesia. Mining rights include our license to operate and involve our payment of applicable taxes and royalties to the host governments. The concessions and contracts are subject to the political risks associated with the host countries. For information about mining rights, including governmental agreements, and licenses to operate, refer to “Mining Operations” below, Item 1A. “Risk Factors” and Notes 2, 11, 12 and 13.
+
+Human Rights
+We have adopted policies that govern our working relationships with the communities and governments where we operate and that are designed to guide our practices and programs in a manner that respects human rights and the culture of the local people impacted by our operations. For information about human rights, refer to “Community and Human Rights” below.
+
+COMPETITION
+
+The top 10 producers of copper comprise approximately 43 percent of total worldwide mined copper production. For the year 2020, we ranked fourth among those producers, with approximately five percent of estimated total worldwide mined copper production. Our competitive position is based on the size, quality and grade of our ore bodies and our ability to manage costs compared with other producers. We have a diverse portfolio of mining operations with varying ore grades and cost structures. Our costs are driven by the location, grade and nature of our ore bodies, and the level of input costs, including energy, labor and equipment. The metals markets are cyclical, and our ability to maintain our competitive position over the long term is based on our ability to acquire and develop quality deposits, hire and retain a skilled workforce, and to manage our costs.
+
+MINING OPERATIONS
+
+Following are maps and descriptions of our mining operations in North America (including both copper and molybdenum operations), South America and Indonesia.
+
+North America
+In the U.S., most of the land occupied by our copper and molybdenum mines, concentrators, SX/EW facilities, smelter, refinery, rod mills, molybdenum roasters and processing facilities is owned by us or is located on unpatented mining claims owned by us. Certain portions of our Bagdad, Sierrita, Miami, Chino, Tyrone, Henderson and Climax operations are located on government-owned land and are operated under a Mine Plan of Operations or other use permit. We hold various federal and state permits or leases on government land for purposes incidental to mine operations.
+ 
+6
+Table of Contents
+Morenci
+ fcx-20201231_g4.jpg
+
+We own a 72 percent undivided interest in Morenci, with the remaining 28 percent owned by Sumitomo Metal Mining Arizona, Inc. (15 percent) and SMM Morenci, Inc. (13 percent). Each partner takes in kind its share of Morenci’s production.
+
+Morenci is an open-pit copper mining complex that has been in continuous operation since 1939 and previously was mined through underground workings. Morenci is located in Greenlee County, Arizona, approximately 50 miles northeast of Safford on U.S. Highway 191. The site is accessible by a paved highway and a railway spur.
+
+The Morenci mine is a porphyry copper deposit that has oxide, secondary sulfide and primary sulfide mineralization. The predominant oxide copper mineral is chrysocolla. Chalcocite is the most important secondary copper sulfide mineral, with chalcopyrite as the dominant primary copper sulfide.
+
+The Morenci operation consists of two concentrators capable of milling 132,000 metric tons of ore per day, which produce copper and molybdenum concentrate; a 68,000 metric ton-per-day, crushed-ore leach pad and stacking system; a low-grade run-of-mine (ROM) leaching system; four SX plants; and three EW tank houses that produce copper cathode. Total EW tank house capacity is approximately 900 million pounds of copper per year. Morenci’s available mining fleet consists of one hundred and forty-one 236-metric ton haul trucks loaded by 13 shovels with bucket sizes ranging from 47 to 57 cubic meters, which are capable of moving an average of 815,000 metric tons of material per day. One of Morenci’s concentrators, which has a milling capacity of approximately 50,000 metric tons of ore per day, is on care and maintenance and expected to resume operating in 2022.
+
+Morenci’s production, including our joint venture partner’s share, totaled 1.0 billion pounds of copper in each of the last three years and 6 million pounds of molybdenum in 2020, 5 million pounds of molybdenum in 2019 and 9 million pounds of molybdenum in 2018.
+
+Morenci is located in a desert environment with rainfall averaging 13 inches per year. The highest bench elevation is 2,000 meters above sea level and the ultimate pit bottom is expected to have an elevation of 840 meters above sea level. The Morenci operation encompasses approximately 61,300 acres, comprising 51,300 acres of fee lands and 10,000 acres of unpatented mining claims held on public mineral estate and numerous state or federal permits, easements and rights-of-way.
+
+The Morenci operation’s electrical power is primarily sourced from Tucson Electric Power Company, Arizona Public Service Company and the Luna Energy facility in Deming, New Mexico. Although we believe the Morenci operation has sufficient water sources to support current operations, we are a party to litigation that may impact our water right claims or rights to continued use of currently available water supplies, which could adversely affect our water supply for the Morenci operation. Refer to Item 1A. “Risk Factors” and Item 3. “Legal Proceedings” for further discussion.
+
+7
+Table of Contents
+Bagdad
+fcx-20201231_g5.jpg
+
+Our wholly owned Bagdad mine is an open-pit copper and molybdenum mining complex located in Yavapai County in west-central Arizona. It is approximately 60 miles west of Prescott and 100 miles northwest of Phoenix. The property can be reached by Arizona Highway 96, which ends at the town of Bagdad. The closest railroad is at Hillside, Arizona, 24 miles southeast on Arizona Highway 96. The open-pit mining operation has been ongoing since 1945, and prior mining was conducted through underground workings.
+
+The Bagdad mine is a porphyry copper deposit containing both sulfide and oxide mineralization. Chalcopyrite and molybdenite are the dominant primary sulfides and are the primary economic minerals in the mine. Chalcocite is the most common secondary copper sulfide mineral, and the predominant oxide copper minerals are chrysocolla, malachite and azurite.
+
+The Bagdad operation consists of an 83,500 metric ton-per-day concentrator that produces copper and molybdenum concentrate, a SX/EW plant that will produce approximately 6 million pounds per year of copper cathode from solution generated by low-grade stockpile leaching, and a pressure-leach plant to process molybdenum concentrate. The available mining fleet consists of thirty-two 235-metric ton haul trucks loaded by eight shovels with bucket sizes ranging from 30 to 48 cubic meters, which are capable of moving an average of 236,000 metric tons of material per day.
+
+Bagdad’s production totaled 216 million pounds of copper and 11 million pounds of molybdenum in 2020, 218 million pounds of copper and 13 million pounds of molybdenum in 2019, and 199 million pounds of copper and 10 million pounds of molybdenum in 2018.
+
+Bagdad is located in a desert environment with rainfall averaging 15 inches per year. The highest bench elevation is 1,200 meters above sea level and the ultimate pit bottom is expected to be 150 meters above sea level. The Bagdad operation encompasses approximately 33,100 acres, comprising 21,900 acres of fee lands and 11,200 acres of unpatented mining claims held on public mineral estate and numerous state or federal permits, easements and rights-of-ways.
+
+Bagdad receives electrical power from Arizona Public Service Company. We believe the Bagdad operation has sufficient water sources to support current operations.
+
+8
+Table of Contents
+Safford, including Lone Star
+ fcx-20201231_g4.jpg
+
+Our wholly owned Safford mine has been in operation since 2007 and is an open-pit copper mining complex located in Graham County, Arizona, 8 miles north of the town of Safford and 170 miles east of Phoenix. The site is accessible by paved county road off U.S. Highway 70.
+
+The Safford mine includes three copper deposits that have oxide mineralization overlaying primary copper sulfide mineralization. The predominant oxide copper minerals are chrysocolla and copper-bearing iron oxides with the predominant copper sulfide material being chalcopyrite. One of the Safford deposits includes the Lone Star copper leach project, which was completed in third-quarter 2020, and advances exposure to a significant sulfide resource.
+Total capital costs for the initial project, including mine equipment and pre-production stripping, approximated $820 million and benefits from the utilization of existing infrastructure at the Safford operation. Production from the Lone Star leachable ores continues to ramp-up on schedule and is expected to exceed 200 million pounds of copper for the year 2021. We expect to incorporate positive drilling and ongoing results in our future development plans.
+
+The property is a mine-for-leach project and produces copper cathode. The operation consists of three open pits, of which one (Lone Star) is currently being mined, feeding a crushing facility with a capacity of 103,000 metric tons per day. The crushed ore is delivered to leach pads by a series of overland and portable conveyors. Leach solutions feed a SX/EW facility with a capacity of 285 million pounds of copper per year. A sulfur burner plant is also in operation at Safford, providing a cost-effective source of sulphuric acid used in SX/EW operations. The available mining fleet consists of thirty-seven 235-metric ton haul trucks loaded by six shovels with bucket sizes ranging from 34 to 47 cubic meters, which are capable of moving an average of 358,000 metric tons of material per day.
+
+Safford’s copper production totaled 161 million pounds in 2020, 110 million pounds in 2019 and 123 million pounds in 2018.
+
+Safford is located in a desert environment with rainfall averaging 10 inches per year. The highest bench elevation is 1,783 meters above sea level and the ultimate pit bottom is expected to have an elevation of 823 meters above sea level. The Safford operation encompasses approximately 76,000 acres, comprising 37,200 acres of fee lands and 38,800 acres of unpatented claims held on public mineral estate.
+
+The Safford operation’s electrical power is primarily sourced from Tucson Electric Power Company, Arizona Public Service Company and the Luna Energy facility. Although we believe the Safford operation has sufficient water sources to support current operations, we are a party to litigation that may impact our water right claims or rights to continued use of currently available water supplies, which could adversely affect our water supply for the Safford operation. Refer to Item 1A. “Risk Factors” and Item 3. “Legal Proceedings” for further discussion.
+
+9
+Table of Contents
+Sierrita
+fcx-20201231_g6.jpg
+
+Our wholly owned Sierrita mine has been in operation since 1959 and is an open-pit copper and molybdenum mining complex located in Pima County, Arizona, approximately 20 miles southwest of Tucson and 7 miles west of the town of Green Valley and Interstate Highway 19. The site is accessible by a paved highway and by rail.
+
+The Sierrita mine is a porphyry copper deposit that has oxide, secondary sulfide and primary sulfide mineralization. The predominant oxide copper minerals are malachite, azurite and chrysocolla. Chalcocite is the most important secondary copper sulfide mineral, and chalcopyrite and molybdenite are the dominant primary sulfides.
+
+The Sierrita operation includes a 100,000 metric ton-per-day concentrator that produces copper and molybdenum concentrate. Sierrita also produces copper from a ROM oxide-leaching system. Cathode copper is plated at the Twin Buttes EW facility, which has a design capacity of approximately 50 million pounds of copper per year. The Sierrita operation also has molybdenum facilities consisting of a leaching circuit, two molybdenum roasters and a packaging facility. The molybdenum facilities process molybdenum concentrate produced by Sierrita, from our other mines and from third-party sources. The available mining fleet consists of twenty-two 235-metric ton haul trucks loaded by three shovels with bucket sizes ranging from 34 to 56 cubic meters, which are capable of moving an average of 175,000 metric tons of material per day.
+
+Sierrita’s production totaled 178 million pounds of copper and 17 million pounds of molybdenum in 2020, 160 million pounds of copper and 16 million pounds of molybdenum in 2019, and 152 million pounds of copper and 16 million pounds of molybdenum in 2018.
+
+Sierrita is located in a desert environment with rainfall averaging 14.5 inches per year. The highest bench elevation is 1,300 meters above sea level and the ultimate pit bottom is expected to be 410 meters above sea level. The Sierrita operation, including the adjacent Twin Buttes site, encompasses approximately 46,700 acres, comprising 38,300 acres of fee lands including split estate lands and 8,400 acres of unpatented mining claims held on public mineral estate.
+
+Sierrita receives electrical power through long-term contracts with the Tucson Electric Power Company. Although we believe the Sierrita operation has sufficient water sources to support current operations, we are a party to litigation that may impact our water rights claims or rights to continued use of currently available water supplies, which could adversely affect our water supply for the Sierrita operation. Refer to Item 1A. “Risk Factors” and Item 3. “Legal Proceedings” for further discussion.
+
+10
+Table of Contents
+Miami
+fcx-20201231_g7.jpg
+
+Our wholly owned Miami mine is an open-pit copper mining complex located in Gila County, Arizona, 90 miles east of Phoenix and 6 miles west of the city of Globe on U.S. Highway 60. The site is accessible by a paved highway and by rail.
+
+The Miami mine is a porphyry copper deposit that has leachable oxide and secondary sulfide mineralization. The predominant oxide copper minerals are chrysocolla, copper-bearing clays, malachite and azurite. Chalcocite and covellite are the most important secondary copper sulfide minerals.
+
+Since about 1915, the Miami mining operation had processed copper ore using both flotation and leaching technologies. The design capacity of the SX/EW plant is 200 million pounds of copper per year. Miami is no longer mining ore, but currently produces copper through leaching material already placed on stockpiles, which is currently expected to continue through at least 2025. Miami’s copper production totaled 17 million pounds in 2020, 15 million pounds in 2019 and 16 million pounds in 2018.
+
+Miami is located in a desert environment with rainfall averaging 18 inches per year. The highest bench elevation is 1,390 meters above sea level and mining advanced the pit bottom to an elevation of 810 meters above sea level. Subsequent sloughing of material into the pit has filled it back to an elevation estimated to be 900 meters above sea level. The Miami operation encompasses approximately 14,400 acres, comprising 10,400 acres of fee lands and 4,000 acres of unpatented mining claims held on public mineral estate.
+
+Miami receives electrical power through long-term contracts with the Salt River Project and natural gas through long-term contracts with El Paso Natural Gas as the transporter. We believe the Miami operation has sufficient water sources to support current operations.
+
+Chino and Tyrone
+fcx-20201231_g8.jpg
+
+Chino
+Our wholly owned Chino mine is an open-pit copper mining complex located in Grant County, New Mexico, approximately 15 miles east of the town of Silver City off of State Highway 180. The mine is accessible by paved roads and by rail. Chino has been in operation since 1910.
+11
+Table of Contents
+The Chino mine is a porphyry copper deposit with adjacent copper skarn deposits. There is leachable oxide, secondary sulfide and millable primary sulfide mineralization. The predominant oxide copper mineral is chrysocolla. Chalcocite is the most important secondary copper sulfide mineral, and chalcopyrite and molybdenite the dominant primary sulfides.
+
+The Chino operation consists of a 36,000 metric ton-per-day concentrator that produces copper concentrate, and a 150 million pound-per-year SX/EW plant that produces copper cathode from solution generated by ROM leaching. The available mining fleet consists of thirty-five 240-metric ton haul trucks loaded by four shovels with bucket sizes ranging from 31 to 48 cubic meters, which are capable of moving an average of 235,000 metric tons of material per day.
+
+In April 2020, operations at Chino were suspended in connection with our revised operating plans in response to the COVID-19 pandemic. A review of options for restarting Chino operations was completed in the second half of 2020, and in January 2021, we restarted mining activities at the Chino mine at a reduced rate of approximately 100 million pounds of copper per year (approximately 50 percent capacity). Chino’s copper production totaled 92 million pounds in 2020, 175 million pounds in 2019 and 173 million pounds in 2018.
+
+Chino is located in a desert environment with rainfall averaging 16 inches per year. The highest bench elevation is 2,250 meters above sea level and the ultimate pit bottom is expected to be 1,460 meters above sea level. The Chino operation encompasses approximately 117,300 acres, comprising 103,900 acres of fee lands and 13,400 acres of unpatented mining claims held on public mineral estate.
+
+Chino receives electrical power from the Luna Energy facility and from the open market. We believe the Chino operation has sufficient water resources to support current operations.
+
+Tyrone
+Our wholly owned Tyrone mine is an open-pit copper mining complex and has been in operation since 1967. It is located in Grant County, New Mexico, 10 miles south of Silver City, New Mexico, along State Highway 90. The site is accessible by paved road and by rail.
+
+The Tyrone mine is a porphyry copper deposit. Mineralization is predominantly secondary sulfide consisting of chalcocite, with leachable oxide mineralization consisting of chrysocolla.
+
+Copper processing facilities consist of a SX/EW operation with a maximum capacity of approximately 100 million pounds of copper cathode per year. The available mining fleet consists of seven 240-metric ton haul trucks loaded by one shovel with a bucket size of 47 cubic meters, which is capable of moving an average of 68,000 metric tons of material per day.
+
+Tyrone’s copper production totaled 45 million pounds in 2020, 48 million pounds in 2019 and 55 million pounds in 2018.
+
+Tyrone is located in a desert environment with rainfall averaging 16 inches per year. The highest bench elevation is 2,070 meters above sea level and the ultimate pit bottom is expected to have an elevation of 1,475 meters above sea level. The Tyrone operation encompasses approximately 31,100 acres, comprising 19,700 acres of fee lands and 11,400 acres of unpatented mining claims held on public mineral estate.
+
+Tyrone receives electrical power from the Luna Energy facility and from the open market. We believe the Tyrone operation has sufficient water resources to support current operations.
+
+
+12
+Table of Contents
+Henderson and Climax
+fcx-20201231_g9.jpg
+
+Henderson
+Our wholly owned Henderson molybdenum mine has been in operation since 1976 and is located 42 miles west of Denver, Colorado, off U.S. Highway 40. Nearby communities include the towns of Empire, Georgetown and Idaho Springs. The Henderson mill site is located 15 miles west of the mine and is accessible from Colorado State Highway 9. The Henderson mine and mill are connected by a 10-mile conveyor tunnel under the Continental Divide and an additional five-mile surface conveyor. The tunnel portal is located five miles east of the mill.
+
+The Henderson mine is a porphyry molybdenum deposit, with molybdenite as the primary sulfide mineral.
+
+The Henderson operation consists of a large block-cave underground mining complex feeding a concentrator with a current capacity of approximately 32,000 metric tons per day. Henderson has the capacity to produce approximately 16 million pounds of molybdenum per year. The majority of the molybdenum concentrate produced is shipped to our Fort Madison, Iowa, processing facility. The available underground mining equipment fleet consists of fifteen 9-metric ton load-haul-dump (LHD) units and seven 73-metric ton haul trucks, which deliver ore to a gyratory crusher feeding a series of three overland conveyors to the mill stockpiles.
+
+Henderson’s molybdenum production totaled 10 million pounds in 2020, 12 million pounds in 2019 and 14 million pounds in 2018.
+
+The Henderson mine is located in a mountainous region with the main access shaft at 3,180 meters above sea level. The main production levels are currently at elevations of 2,200 and 2,350 meters above sea level. This region experiences significant snowfall during the winter months.
+
+The Henderson mine and mill operations encompass approximately 16,700 acres, comprising 13,100 acres of fee lands, 3,600 acres of unpatented mining claims held on public mineral estate and a 50-acre easement with the U.S. Forest Service for the surface portion of the conveyor corridor.
+
+Henderson operations receive electrical power through long-term contracts with Xcel Energy and natural gas through long-term contracts with Encore Energy (with Xcel Energy as the transporter). We believe the Henderson operation has sufficient water resources to support current operations.
+
+Climax
+Our wholly owned Climax mine is located 13 miles northeast of Leadville, Colorado, off Colorado State Highway 91 at the top of Fremont Pass. The mine is accessible by paved roads. The mine was placed on care and maintenance status by its previous owner in 1995 and, after being acquired by us, began commercial production in 2012.
+
+The Climax ore body is a porphyry molybdenum deposit, with molybdenite as the primary sulfide mineral.
+
+The Climax open-pit mine includes a 25,000 metric ton-per-day mill facility. Climax has the capacity to produce approximately 30 million pounds of molybdenum per year. The available mining fleet consists of eleven 177-metric ton haul trucks loaded by two hydraulic shovels with bucket sizes of 34 cubic meters, which are capable of moving an average of 90,000 metric tons of material per day.
+
+In April 2020, due to the decline in market prices of molybdenum, we revised our near-term operating plans, which included a reduction in production of molybdenum by approximately 50 percent at Climax over the remainder of
+13
+Table of Contents
+2020. Climax expects to remain at reduced production levels of approximately half of the available capacity in 2021. Molybdenum production from Climax totaled 14 million pounds in 2020, 17 million pounds in 2019 and 21 million pounds in 2018.
+
+The Climax mine is located in a mountainous region. The highest bench elevation is approximately 4,050 meters above sea level and the ultimate pit bottom is expected to have an elevation of approximately 3,100 meters above sea level. This region experiences significant snowfall during the winter months.
+
+The Climax operation encompasses approximately 15,100 acres of fee lands.
+
+Climax operations receive electrical power through long-term contracts with Xcel Energy and natural gas through long-term contracts with Encore Energy. We believe the Climax operation has sufficient water resources to support current operations.
+
+South America
+At our operations in South America, mine properties and facilities are controlled through mining claims or concessions under the general mining laws of the relevant country. The claims or concessions are owned or controlled by the operating companies in which we or our subsidiaries have a controlling ownership interest. Roads, power lines and aqueducts are controlled by easements.
+
+Cerro Verde
+fcx-20201231_g10.jpg
+
+We have a 53.56 percent ownership interest in Cerro Verde, with the remaining 46.44 percent held by SMM Cerro Verde Netherlands B.V. (21.0 percent), Compañia de Minas Buenaventura S.A.A. (19.58 percent) and other stockholders whose shares are publicly traded on the Lima Stock Exchange (5.86 percent).
+
+Cerro Verde is an open-pit copper and molybdenum mining complex that has been in operation since 1976 and is located 20 miles southwest of Arequipa, Peru. The site is accessible by paved highway. Cerro Verde’s copper cathode and concentrate production that is not sold locally is transported approximately 70 miles by truck and by rail to the Port of Matarani for shipment to international markets.
+
+The Cerro Verde mine is a porphyry copper deposit that has oxide, secondary sulfide and primary sulfide mineralization. The predominant oxide copper minerals are brochantite, chrysocolla, malachite and copper “pitch.” Chalcocite and covellite are the most important secondary copper sulfide minerals. Chalcopyrite and molybdenite are the dominant primary sulfides.
+
+Cerro Verde’s operation consists of an open-pit copper mine, two concentrating facilities capable of milling a total of 409,500 metric tons of ore per day, and SX/EW leaching facilities. Leach copper production is derived from a 39,000 metric ton-per-day crushed leach facility and a 100,000 metric ton-per-day ROM leach system. This SX/EW leaching operation has a capacity of approximately 200 million pounds of copper per year.
+
+The available fleet consists of fifty 290-metric ton haul trucks and ninety-three 230-metric ton haul trucks (21 of which are currently on standby) loaded by thirteen electric shovels with bucket sizes ranging in size from 33 to 57 cubic meters and two hydraulic shovels with a bucket size of 21 cubic meters (both of which are currently on standby). This fleet is capable of moving an average of approximately 910,000 metric tons of material per day.
+
+14
+Table of Contents
+In mid-March 2020, the Peru government issued a Supreme Decree and declaration of a National Emergency in its efforts to contain the outbreak of COVID-19. To comply with the government requirements, we temporarily transitioned our Cerro Verde mine to care and maintenance status and adjusted operations to prioritize critical activities. A plan for Cerro Verde to restore operations was approved by the Peru government in second-quarter 2020 and strict health protocols have been implemented. This plan has allowed Cerro Verde to run both concentrators at their aggregate average design capacity of 360,000 metric ton-per-day in the second half of 2020.
+
+Cerro Verde’s production totaled 0.8 billion pounds of copper and 19 million pounds of molybdenum in 2020, 1.0 billion pounds of copper and 29 million pounds of molybdenum in 2019, and 1.0 billion pounds of copper and 28 million pounds of molybdenum in 2018.
+
+Cerro Verde is located in a desert environment with rainfall averaging 1.5 inches per year and is in an active seismic zone. The highest bench elevation is 2,750 meters above sea level and the ultimate pit bottom is expected to be 1,553 meters above sea level. The Peru general mining law and Cerro Verde’s mining stability agreement grant the surface rights of mining concessions located on government land. Government land obtained after 1997 must be leased or purchased. Cerro Verde has a mining concession covering approximately 180,000 acres, including access to 14,600 acres granted through an easement from the Peru National Assets Office, plus 150 acres of owned property, and 1,151 acres of rights-of-way outside the mining concession area.
+
+Cerro Verde receives electrical power, including hydro-generated power, under long-term contracts with Kallpa Generación SA, ElectroPeru and Engie Energia Peru S.A.
+
+Water for our Cerro Verde processing operations comes from renewable sources through a series of storage reservoirs on the Rio Chili watershed that collect water primarily from seasonal precipitation and from wastewater collected from the city of Arequipa and treated at a wastewater treatment plant. We believe the Cerro Verde operation has sufficient water resources to support current operations. For further discussion of risks associated with the availability of water, see Item 1A. “Risk Factors.”
+
+El Abra
+fcx-20201231_g11.jpg
+
+We own a 51 percent interest in El Abra, and the remaining 49 percent interest is held by the state-owned copper enterprise Corporación Nacional del Cobre de Chile.
+
+El Abra is an open-pit copper mining complex that has been in operation since 1996 and is located 47 miles north of Calama in Chile’s El Loa province, Region II. The site is accessible by paved highway and by rail.
+
+The El Abra mine is a porphyry copper deposit that has sulfide and oxide mineralization. The predominant primary sulfide copper minerals are bornite and chalcopyrite. There is a minor amount of secondary sulfide mineralization as chalcocite. The oxide copper minerals are chrysocolla and pseudomalachite. There are lesser amounts of copper bearing clays and tenorite.
+
+The El Abra operation consists of an open-pit copper mine and a SX/EW facility with a capacity of 500 million pounds of copper cathode per year from a 125,000 metric ton-per-day crushed leach circuit and a ROM leaching operation. The available fleet consists of twenty-three 242-metric ton haul trucks loaded by four shovels with buckets ranging in size from 29 to 41 cubic meters, which are capable of moving an average of 224,000 metric tons of material per day.
+15
+Table of Contents
+In April 2020, we revised our operating plans at El Abra to incorporate lower mining rates, operating costs and capital spending. We deferred the construction of a new leach pad at El Abra, from 2020 to future periods. We plan to increase operating rates during 2021 to pre-COVID-19 levels, subject to ongoing monitoring of public health conditions in Chile. Incremental copper production associated with increasing El Abra's stacking rates from 65,000 metric tons of ore per day to over 100,000 metric tons of ore per day, approximates 70 million pounds per year beginning in 2022.
+
+El Abra’s copper production totaled 159 million pounds in 2020, 180 million pounds in 2019 and 200 million pounds in 2018.
+
+We continue to evaluate a large-scale expansion at El Abra to process additional sulfide material and to achieve higher recoveries. El Abra’s large sulfide resource could potentially support a major mill project similar to facilities constructed at Cerro Verde. Technical and economic studies continue to be evaluated to determine the optimal scope and timing for the project in parallel with extending the life of the current leaching operation.
+
+El Abra is located in a desert environment with rainfall averaging less than one inch per year and is in an active seismic zone. The highest bench elevation is 4,195 meters above sea level and the ultimate pit bottom is expected to be 3,385 meters above sea level. El Abra controls a total of approximately 182,000 acres of mining claims covering the ore deposit, stockpiles, process plant, and water wellfield and pipeline. In addition, El Abra has land surface rights for the road between the processing plant and the mine, the water wellfield, power transmission lines and for the water pipeline from the Salar de Ascotán aquifer.
+
+El Abra currently receives electrical power under a long-term contract with Engie Energia Chile S.A. Water for our El Abra processing operations comes from the continued pumping of groundwater from the Salar de Ascotán aquifer pursuant to regulatory approval. We believe El Abra has sufficient water rights and regulatory approvals to support current operations. For a discussion of risks associated with the availability of water, refer to Item 1A. “Risk Factors.”
+
+Indonesia
+fcx-20201231_g12.jpg
+
+Ownership. PT-FI is a limited liability company organized under the laws of the Republic of Indonesia. On December 21, 2018, we completed the transaction with the Indonesia government regarding PT-FI’s long-term mining rights and share ownership (refer to Note 2 for further discussion). Following the transaction, we have a 48.76 percent share ownership in PT-FI and the remaining 51.24 percent share ownership is collectively held by PT Indonesia Asahan Aluminum (Persero) (PT Inalum, also known as MIND ID), an Indonesia state-owned enterprise, and PT Indonesia Papua Metal Dan Mineral (formerly known as PT Indocopper Investama), which is expected to be owned by PT Inalum and the provincial/regional government in Papua, Indonesia. The arrangements related to the transaction also provide for us and the other pre-transaction PT-FI shareholders to retain the economics of the
+16
+Table of Contents
+revenue and cost sharing arrangements under the former Rio Tinto Joint Venture. As a result, our economic interest in PT-FI is expected to approximate 81 percent through 2022.
+
+IUPK. Concurrent with closing the transaction, the Indonesia government granted PT-FI a new special mining license (IUPK) to replace its former Contract of Work (COW), enabling PT-FI to conduct operations in the Grasberg minerals district through 2041. Under the terms of the IUPK, PT-FI has been granted an extension of mining rights through 2031, with rights to extend mining rights through 2041, subject to PT-FI completing the construction of a new smelter in Indonesia within five years of closing the transaction and fulfilling its defined fiscal obligations to the Indonesia government. The IUPK, and related documentation, contains legal and fiscal terms and is legally enforceable through 2041. In addition, we, as a foreign investor, have rights to resolve investment disputes with the Indonesia government through international arbitration. Refer to Note 13 and Item 1A. “Risk Factors” for discussion of PT-FI’s IUPK and risks associated with our Indonesia mining operations.
+
+In March 2020, PT-FI received a one-year extension of its export license through March 15, 2021. Export licenses are valid for one year periods, subject to review and approval by the Indonesia government every six months, depending on smelter construction progress.
+
+Indonesia Smelter. As a result of COVID-19 mitigation measures, there have been disruptions to work and travel schedules of international contractors and restrictions on access to the proposed physical site of the new smelter in Gresik, Indonesia. PT-FI continues to discuss with the Indonesia government a deferred schedule for the new smelter project as well as other alternatives in light of the ongoing COVID-19 pandemic and volatile global economic conditions. Refer to MD&A, Note 12 and Item 1A. “Risk Factors” for additional discussion of the new smelter project.
+
+Grasberg Minerals District. PT-FI operates in the remote highlands of the Sudirman Mountain Range in the province of Papua, Indonesia, which is on the western half of the island of New Guinea. Since 1967, we and our predecessors have been the only operator of exploration and mining activities in the approximately 24,600-acre operating area. The operating area is accessible by portsite facilities (Arafura Sea) and by the Timika airport. The project area includes a 70-mile main service road from portsite to the mill complex.
+
+The Grasberg minerals district includes the following underground mines that are being operated; the Grasberg Block Cave, the Deep Mill Level Zone (DMLZ), Big Gossan and the Deep Ore Zone (DOZ). The ramp-up of underground production at the Grasberg minerals district in Indonesia continues to advance on schedule. During 2020, a total of 206 new drawbells were added at the Grasberg Block Cave and DMLZ underground mines, bringing cumulative open drawbells to over 370. Refer to Item 1A. “Risk Factors” for discussion of risks associated with development projects and underground mines.
+
+Production from the Grasberg minerals district, including the former Rio Tinto Joint Venture share, totaled 0.8 billion pounds of copper and 0.8 million ounces of gold in 2020, 0.6 billion pounds of copper and 0.9 million ounces of gold in 2019, and 1.2 billion pounds of copper and 2.7 million ounces of gold in 2018.
+
+Our principal source of power for all of our Indonesia operations is a coal-fired power plant that we built in 1998. Diesel generators supply peaking and backup electrical power generating capacity; however, beginning in 2022, higher efficiency bio-diesel fueled generators are expected to provide up to 40 percent of PT-FI’s power needs. A combination of naturally occurring mountain streams and water derived from our underground operations provides water for our operations. Our Indonesia operations are in an active seismic zone and experience average annual rainfall of approximately 200 inches.
+
+Grasberg Block Cave
+The Grasberg Block Cave ore body is the same ore body historically mined from the surface in the Grasberg open pit. Undercutting, drawbell construction and ore extraction activities in the Grasberg Block Cave underground mine continue to track expectations. Monitoring data on cave propagation in the Grasberg Block Cave underground mine is providing confidence in growing production rates over time. As existing drawpoints mature and additional drawpoints are added, cave expansion is expected to accelerate production rates to an average of over 98,000 metric tons of ore per day in 2022 and 127,000 metric tons of ore per day in 2023 from five production blocks spanning 335,000 square meters. As of December 31, 2020, the Grasberg Block Cave had 229 open drawbells.
+
+Ore milled from the Grasberg Block Cave underground mine averaged 30,800 metric tons per day in 2020, 8,600 metric tons per day in 2019 and 4,000 metric tons per day in 2018. Production at the Grasberg Block Cave underground mine is expected to continue through 2041.
+17
+Table of Contents
+The Grasberg Block Cave fleet consists of approximately 510 pieces of mobile equipment. The primary mining equipment directly associated with production and development includes an available fleet of 70 LHD units and 33 haul trucks. Each production LHD unit typically carries approximately 11 metric tons of ore and transfer ore into 55 to 60 metric ton capacity haul trucks. The Grasberg Block Cave has a rail haulage system currently operating with 5 locomotives and 59 ore wagons that haul the ore to the first of the 3 planned gyratory crushers located underground via an automated rail system. Each ore wagon typically carries 30 metric tons.
+
+DMLZ Underground Mine
+The DMLZ ore body lies below the DOZ underground mine at the 2,590-meter elevation and represents the downward continuation of mineralization in the Ertsberg East Skarn system and neighboring Ertsberg porphyry.
+
+The DMLZ has continued its ramp-up of production. Hydraulic fracturing operations have been effective in managing rock stresses and pre-conditioning the cave following mining-induced seismic activity experienced from time to time. Ongoing hydraulic fracturing operations combined with continued undercutting and drawbell openings in the two currently active production blocks are expected to expand the cave, supporting higher production rates that are expected to average approximately 74,000 metric tons of ore per day in 2022 and 72,000 metric tons of ore per day in 2023 from three production blocks. As of December 31, 2020, the DMLZ underground mine had 143 open drawbells.
+
+Ore milled from the DMLZ underground mine averaged 28,600 metric tons of ore per day in 2020, 9,800 metric tons of ore per day in 2019 and 3,200 metric tons per day in 2018. Production at the DMLZ underground mine is expected to continue through 2041.
+
+The DMLZ fleet consists of over 374 pieces of mobile equipment, which includes 44 LHD units and 29 haul trucks used in production and development activities.
+
+Big Gossan Underground Mine
+The Big Gossan ore body lies underground and adjacent to the current mill site. It is a tabular, near vertical ore body with approximate dimensions of 1,200 meters along strike and 800 meters down dip with varying thicknesses from 20 meters to 120 meters. The mine utilizes a blasthole stoping method with delayed paste backfill. Stopes of varying sizes are mined and the ore dropped down passes to a truck haulage level. Trucks are chute loaded and transport the ore to a jaw crusher. The crushed ore is then hoisted vertically via a two-skip production shaft to a level where it is loaded onto a conveyor belt. The belt carries the ore to one of the main underground conveyors where the ore is transferred and conveyed to the surface stockpiles for processing.
+
+Ore milled from the Big Gossan underground mine averaged 7,000 metric tons per day in 2020, 6,100 metric tons per day in 2019 and 3,800 metric tons per day in 2018. Production at the Big Gossan underground mine is expected to continue through 2041.
+
+The Big Gossan fleet consists of over 95 pieces of mobile equipment, which includes 12 LHD units and 9 haul trucks used in development and production activities.
+
+DOZ Underground Mine
+The DOZ ore body lies vertically below the now depleted Intermediate Ore Zone. PT-FI began production from the DOZ ore body in 1989 using open-stope mining methods, but suspended production in 1991 in favor of production from the Grasberg open pit. Production resumed in 2000 using the block-cave method and is at the 3,110-meter elevation level.
+
+The DOZ is a mature block-cave mine that previously operated at 80,000 metric tons of ore per day. Current operating rates from the DOZ underground mine are driven by the value of the incremental DOZ ore grade compared to the ore from the DMLZ and Grasberg Block Cave underground mines. Ore milled from the DOZ underground mine averaged 20,900 metric tons per day in 2020, 25,500 metric tons per day in 2019 and 33,800 metric tons per day in 2018. Production at the DOZ underground mine is expected to continue through 2022.
+
+The DOZ fleet consists of 186 pieces of mobile equipment. The primary mining equipment directly associated with production includes an available fleet of 40 LHD units and 19 haul trucks. The trucks dump into two gyratory crushers, and the ore is then conveyed to the surface stockpiles for processing.
+
+
+18
+Table of Contents
+Grasberg Open Pit  
+PT-FI began open-pit mining of the Grasberg ore body in 1990. The final phase of the Grasberg open pit was mined during 2019, including the removal of the open pit ramps. In aggregate, the Grasberg open pit produced over 27 billion pounds of copper and 46 million ounces of gold in the 30-year period from 1990 through 2019.
+
+Ore milled from the Grasberg open pit and stockpiles averaged 400 metric tons per day in 2020, 60,100 metric tons per day in 2019 and 133,300 metric tons per day in 2018.
+
+Description of Indonesia Ore Bodies. Our Indonesia ore bodies are located within and around two main igneous intrusions, the Grasberg monzodiorite and the Ertsberg diorite. The host rocks of these ore bodies include both carbonate and clastic rocks that form the ridge crests and upper flanks of the Sudirman Range, and the igneous rocks of monzonitic to dioritic composition that intrude them. The igneous-hosted ore bodies (the Grasberg Block Cave and portions of the DOZ) occur as vein stockworks and disseminations of copper sulfides, dominated by chalcopyrite and, to a lesser extent, bornite. The sedimentary-rock hosted ore bodies (portions of the DOZ and all of the Big Gossan) occur as “magnetite-rich, calcium/magnesian skarn” replacements, whose location and orientation are strongly influenced by major faults and by the chemistry of the carbonate rocks along the margins of the intrusions.
+
+The copper mineralization in these skarn deposits is dominated by chalcopyrite, but higher bornite concentrations are common. Moreover, gold occurs in significant concentrations in all of the district’s ore bodies, though rarely visible to the naked eye. These gold concentrations usually occur as inclusions within the copper sulfide minerals, though, in some deposits, these concentrations can also be strongly associated with pyrite.
+
+The following diagram indicates the relative elevations (in meters) of our reported Indonesia ore bodies.
+fcx-20201231_g13.jpg
+19
+Table of Contents
+The following map, which encompasses an area of 42 square kilometers (16 square miles), indicates the relative positions and sizes of our reported Indonesia ore bodies and their locations.
+fcx-20201231_g14.jpg
+
+Smelting Facilities and Other Mining Properties
+Atlantic Copper. Our wholly owned Atlantic Copper smelter and refinery is located on land concessions from the Huelva, Spain, port authorities, which are scheduled to expire in 2039.
+
+The design capacity of the smelter is approximately 300,000 metric tons of copper per year, and the refinery has a capacity of 286,000 metric tons of copper per year. Atlantic Copper’s anode production from its smelter totaled 275,900 metric tons of copper in 2020, 272,000 metric tons in 2019 and 295,300 metric tons in 2018. Copper cathode production from its refinery totaled 275,000 metric tons of copper in 2020, 268,300 metric tons in 2019 and 283,100 metric tons in 2018.
+
+Following is the allocation of Atlantic Copper’s concentrate purchases from unaffiliated third parties and our copper mining operations for the years ended December 31:
+ 	2020		2019		2018		Third parties	79 	%		73 	%		77 	%		North America copper mines	10 			22 			14 			South America mining	7 			2 			5 			Indonesia mining	4 			3 			4 			 	100 	%		100 	%		100 	%	 
+
+Atlantic Copper’s major maintenance turnarounds typically occur approximately every eight years, with shorter-term maintenance turnarounds in the interim. Atlantic Copper completed a 79-day major maintenance turnaround in 2013, a 16-day maintenance turnaround in 2015, a 27-day maintenance turnaround in 2017 and a 16-day maintenance turnaround in 2019. The next major maintenance turnaround is scheduled for 2022.
+
+PT Smelting. PT-FI’s former COW required us to construct, or cause to be constructed, a smelter in Indonesia if we and the Indonesia government determined that such a project would be economically viable. In 1995, following the completion of a feasibility study, we entered into agreements relating to the formation of PT Smelting, an Indonesia company, and the construction of the copper smelter and refinery in Gresik, Indonesia. PT Smelting owns and operates the smelter and refinery. PT-FI owns 25 percent of PT Smelting, with the remainder owned by Mitsubishi
+20
+Table of Contents
+Materials Corporation (60.5 percent), Mitsubishi Corporation RtM Japan Ltd. (9.5 percent) and JX Nippon Mining & Metals Corporation (5 percent).
+
+PT-FI’s contract with PT Smelting requires PT-FI to supply 100 percent of the copper concentrate requirements (at market rates subject to a minimum or maximum treatment charge rate) necessary for PT Smelting to produce 205,000 metric tons of copper annually on a priority basis. PT-FI may also sell copper concentrate to PT Smelting at market rates for quantities in excess of 205,000 metric tons of copper annually. PT-FI supplied 74 percent of PT Smelting’s concentrate requirements in 2020 and 90 percent in both 2019 and 2018.
+
+In early 2017, the Indonesia government issued new regulations to address exports of unrefined metals, including copper concentrate and anode slimes, and other matters related to the mining sector. These regulations permit the export of anode slimes, which is necessary for PT Smelting to continue operating. In March 2020, PT Smelting received a one-year extension of its anode slimes export license through March 10, 2021, and in January 2021, PT Smelting received a six-month extension of its anodes slimes export license, which currently expires July 18, 2021. Refer to Item 1A. “Risk Factors” for further discussion.
+
+In connection with PT-FI's commitment to develop additional smelter capacity in Indonesia, PT-FI has advanced discussions with the majority owner of PT Smelting regarding an expansion of the smelter to increase smelter concentrate treatment capacity by approximately 30 percent (300,000 metric tons of concentrate per year). Commercial and financial arrangements for this potential project are being advanced.
+
+PT Smelting’s anode production from its smelter totaled 276,900 metric tons of copper in 2020, 246,100 metric tons in 2019 and 258,800 metric tons in 2018. Copper cathode production from its refinery totaled 273,000 metric tons of copper in 2020, 241,200 metric tons in 2019 and 257,600 metric tons in 2018.
+
+PT Smelting’s maintenance turnarounds (which range from two weeks to a month to complete) typically are expected to occur approximately every two years, with short-term maintenance turnarounds in the interim. PT Smelting completed a 30-day maintenance turnaround during December 2020, and the next major turnaround is scheduled for the second half of 2022.
+
+Miami Smelter. We own and operate a smelter at our Miami mining operation in Arizona. The smelter has been operating for over 100 years and has been upgraded numerous times during that period to implement new technologies, improve production and comply with air quality requirements. In 2018, the Miami smelter completed the installation of emission control equipment that allows it to operate in compliance with current air quality standards. Refer to Item 1A. “Risk Factors” for further discussion.
+
+The Miami smelter processes copper concentrate primarily from our North America copper mines. Concentrate processed through the smelter totaled 764,000 metric tons in 2020, 641,000 metric tons in 2019 and 729,900 metric tons in 2018. In addition, because sulphuric acid is a by-product of smelting concentrate, the Miami smelter is also the most significant source of sulphuric acid for our North America leaching operations.
+
+Major maintenance turnarounds are anticipated to occur approximately every two or three years for the Miami smelter. The Miami smelter completed a major maintenance turnaround in the first half of 2019, and the next major maintenance turnaround is scheduled for the first half of 2021.            
+
+Rod & Refining Operations. Our Rod & Refining operations consist of conversion facilities located in North America, including a refinery in El Paso, Texas and rod mills in El Paso, Texas, and Miami, Arizona. We refine our copper anode production from our Miami smelter at our El Paso refinery. The El Paso refinery has the potential to operate at an annual production capacity of about 900 million pounds of copper cathode, which is sufficient to refine all of the copper anode we produce at our Miami smelter. Our El Paso refinery also produces nickel carbonate, copper telluride and autoclaved slimes material containing gold, silver, platinum and palladium.
+
+Molybdenum Conversion Facilities. We process molybdenum concentrate at our conversion plants in the U.S. and Europe into such products as technical-grade molybdic oxide, ferromolybdenum, pure molybdic oxide, ammonium molybdates and molybdenum disulfide. We operate molybdenum roasters in Sierrita, Arizona; Fort Madison, Iowa; and Rotterdam, the Netherlands, and we operate a molybdenum pressure-leach plant in Bagdad, Arizona. We also produce ferromolybdenum for customers worldwide at our conversion plant located in Stowmarket, United Kingdom.
+
+21
+Table of Contents
+Other North America Copper Mines. We also have five non-operating copper mines – Ajo, Bisbee, Tohono, Twin Buttes and Christmas, which are located in Arizona – that have been on care and maintenance status for several years and would require new or updated environmental studies, new permits, and additional capital investment, which could be significant, to return them to operating status.
+
+MINING DEVELOPMENT PROJECTS AND EXPLORATION ACTIVITIES
+
+Capital expenditures for mining operations totaled $2.0 billion (including $1.2 billion for major projects) in 2020, $2.65 billion (including $1.5 billion for major projects) in 2019 and $2.0 billion (including $1.2 billion for major projects) in 2018. Capital expenditures for major projects during 2020, 2019 and 2018 were primarily associated with underground development activities in the Grasberg minerals district and the now completed Lone Star copper leach project. Refer to MD&A for projected capital expenditures for the year 2021.
+
+We have several projects and potential opportunities to expand production volumes, extend mine lives and develop large-scale underground ore bodies. As further discussed in MD&A, our near-term major development projects will focus on the underground development activities in the Grasberg minerals district. Considering the long-term nature and large size of our development projects, actual costs and timing could vary from estimates. Additionally, in response to market conditions, the timing of our expenditures will continue to be reviewed. We continue to review our mine development and processing plans to maximize the value of our mineral reserves.
+
+We continue to plan the development of the Kucing Liar underground deposit, which lies on the southern flank of and underneath the southern portion of the Grasberg open pit at the 2,605-meter elevation level. We expect to mine the Kucing Liar ore body using the block-cave method at a full rate of 90,000 metric tons of ore per day. We have reviewed alternatives to improve the economics of the deposit by mining the sections of the ore body with lower pyrite content. The revised Kucing Liar reserve plan reduces mill and power capital expenditures as well as improves recoveries. The Kucing Liar project would produce 6 billion pounds of copper and 6 million ounces of gold between 2028 and 2041. Aggregate long-term capital cost estimates for development of the Kucing Liar ore body are projected to approximate $4 billion over an approximate 12-year period. In 2021, we are proceeding with a feasibility study, drilling (structure verification, geotechnical and metallurgical) and metallurgical testwork for the development of these reserves. Development of the Kucing Liar block cave could start as early as 2022 with caving and production ramp-up commencing in 2028.
+
+Additionally, full development of the underground reserves is expected to require $2.8 billion (expected to be incurred over an approximate 17-year period) of capital expenditures at our processing facilities to optimize the handling of underground ore from the Grasberg Block Cave, DMLZ and Kucing Liar deposits. Increases in power loads at these processing facilities and the underground mines are expected to require additional power generation with capital expenditures approximating $0.7 billion for new power generation, upgrades to existing transmission lines, and refurbishment of the existing three coal units.
+
+Our mining exploration activities are generally associated with our existing mines focusing on opportunities to expand reserves and resources to support development of additional future production capacity. Exploration results continue to indicate opportunities for significant future potential reserve additions in North America and South America. Exploration spending associated with mining operations totaled $34 million in 2020, $77 million in 2019 and $78 million in 2018. Refer to MD&A for projected exploration expenditures for the year 2021.
+
+Refer to Item 1A. “Risk Factors” for further discussion of risks associated with mine development projects and exploration activities, and PT-FI’s IUPK.
+
+SOURCES AND AVAILABILITY OF ENERGY, NATURAL RESOURCES AND RAW MATERIALS
+
+Our copper mining operations require significant amounts of energy, principally diesel, electricity, coal and natural gas, most of which is obtained from third parties under long-term contracts. Energy represented approximately 16 percent of our copper mine site operating costs in 2020, including purchases of approximately 180 million gallons of diesel fuel; 7,500 gigawatt hours of electricity at our North America and South America copper mining operations (we generate all of our power at our Indonesia mining operation); 700 thousand metric tons of coal for our coal power plant in Indonesia; and 1 million MMBtu (million British thermal units) of natural gas at certain of our North America mines. Based on current cost estimates, energy will approximate 18 percent of our copper mine site operating costs in 2021.
+
+22
+Table of Contents
+Our mining operations also require significant quantities of water for mining, ore processing and related support facilities. The loss of water rights for any of our mines, in whole or in part, or shortages of water to which we have rights, could require us to curtail or shut down mining operations. For a further discussion of risks and legal proceedings associated with the availability of water, refer to Item 1A. “Risk Factors” and Item 3. “Legal Proceedings.”
+
+Sulphuric acid is used in the SX/EW process and is produced as a by-product of the smelting process at our smelters and from our sulfur burners at the Safford mine. Sulphuric acid needs in excess of the sulphuric acid produced by our operations are purchased from third parties.
+
+HUMAN CAPITAL
+
+We are committed to promoting the health, safety and well-being of our workforce and striving to further strengthen our commitment to promoting an inclusive, diverse and agile workplace. We believe our global workforce is the foundation of our company’s success. The Corporate Responsibility Committee of FCX’s Board of Directors (the Board) assists the full Board in fulfilling its oversight responsibilities with respect to, among other things, our policies and implementation programs that govern our approach to management of our human capital.
+
+Workforce
+At December 31, 2020, we employed approximately 24,500 people (11,200 in North America, 6,500 in Indonesia, 5,600 in South America and 1,200 in Europe and other locations). We also had contractors that employ personnel at many of our operations, including approximately 20,900 at the Grasberg minerals district in Indonesia, 8,800 in North America, 3,400 at our South America mining operations and 700 in Europe and other locations.
+
+Approximately 38 percent of our global employee population is covered by collective labor agreements (CLA). Our operations in Indonesia, Europe and South America are all covered by a minimum of 66 percent representation. In North America, our workforce is not represented by unions. Our North America hourly employees choose to work directly with company management rather than through union representation utilizing our Guiding Principles agreement, which sets out how we work together within the values of the company to achieve our collective goals. Employees represented by unions on December 31, 2020, are listed below, with the number of employees represented and the expiration date of the applicable union agreements:
+Location	Number of Unions	Number of
+Union-
+Represented Employees	Expiration Date	PT-FI – Indonesia	3	4,788 		March 2022	
+a
+Cerro Verde – Peru	2	3,119 		August 2021		El Abra – Chile	2	576 		April 2023		Atlantic Copper – Spain	3	501 		December 2019	
+b
+Kokkola - Finland	3	190 		December 2021		Rotterdam – The Netherlands	1	57 		September 2022		Stowmarket - United Kingdom	1	41 		May 2020	
+c
+ 
+a.The previous Collective Labor Agreement (CLA) between PT-FI and its workers' unions expired in September 2019, but remains valid in accordance with Indonesia law until a new agreement is reached. In December 2020, PT-FI reached a new CLA with one union effective April 2020 through March 2022, giving all employees the option to reject the new stipulations, but no employees have rejected the agreement. The second union filed a lawsuit in November 2020 regarding the new CLA, and the pending decision could modify the agreement. Additionally, in October 2020, PT-FI was notified that a third union was established, however the organization has not informed PT-FI about its membership or organizational details.
+b.The CLA between Atlantic Copper and its workers' unions expired in December 2019, but remains active by mutual agreement from both parties in accordance with Spanish law. A new agreement is currently under negotiation.
+c.The CLA between Stowmarket and its workers' union expired in May 2020, but remains active by consensus agreement. Negotiations for a new CLA are ongoing.
+
+We engage openly with our employee and union leadership to negotiate and uphold labor agreements, recognizing that prolonged strikes or other work stoppages can adversely affect our business, our workforce and regional stakeholders. In third-quarter 2020, we experienced a five-day labor-related work stoppage related to COVID-19 travel restrictions when a group of workers at PT-FI staged protests and a blockade restricting access to the main
+23
+
+road to the mining operations area. We reached an amicable resolution with the group of workers while upholding our COVID-19 safety protocols. There were no strikes or lockouts at any of our operations in 2020.
+
+Health and Safety
+Our highest priority is the health, safety and well-being of our employees and contractors. We also instill health and safety processes for our suppliers and the communities where we operate. We believe that health and safety considerations are integral to, and fundamental for, all other functions in our organization, and we understand that the health and safety of our workforce is critical to our operational efficiency and long-term success. Our global health and safety approach, “Safe Production Matters,” is focused on fatality prevention and continuous improvement through the use of robust management systems, empowering safe work behaviors and strengthening our safety culture.
+
+We focus on fatality prevention through the use of data and technology as well as behavioral science principles. Our framework for managing risks and compliance obligations is certified in accordance with the internationally recognized Occupational Health and Safety Assessment (OHSAS) 18001 Standard. OHSAS requires third-party site-level verification of requirements, with a goal to prevent fatalities and reduce incidents. This standard is being replaced with the new ISO 45001 Health and Safety Management System, and company-wide conversion currently is expected to be complete in 2021.
+
+As part of our commitment to providing a safe and healthy workplace, we strive to provide the training, tools and resources needed so our workforce can identify risks and consistently apply effective controls. We share information and key learnings about potentially fatal events, near misses and best practices throughout the company and engage with industry peers outside the organization to continuously improve our health and safety performance. We also review and discuss all fatalities with the Corporate Responsibility Committee and the Board.
+
+Our objective is to achieve zero workplace fatalities and to decrease injuries and occupational illnesses. We measure our safety performance through regularly established benchmarks, including our company-wide Total Recordable Incident Rate (TRIR), which includes both employees and contractors. In 2020, regrettably, we had 5 workplace fatalities and 12 potential fatal events (PFEs), compared to 3 fatalities and 22 PFEs in 2019. Overall, the percentage of high risk incidents has continued to trend down from 23 percent in 2017, 11 percent in both 2018 and 2019 and 7 percent in 2020. Our 2020 target was to reach a TRIR of 0.70 per 200,000 man-hours worked. During 2020, our TRIR decreased to 0.69 from 0.74 in 2019, meeting our 2020 target. The metal mining sector industry average per 200,000 man-hours worked reported by the U.S. Mine Safety and Health Administration was 1.81 in 2019. The metal mining sector industry average for 2020 was not available at the time of this filing.
+
+In response to the COVID-19 pandemic during 2020, we implemented operating protocols at each of our operating sites to contain and mitigate the risk of spread of COVID-19, including but not limited to, physical distancing, travel restrictions, sanitizing, and frequent testing and monitoring, and we obtained specialized medical equipment and set up quarantine and isolation facilities. We are committed to the communities where we operate and continue to work closely with them, including providing monetary support and in-kind contributions of medical supplies and food. To support our employees around the world, we adjusted our policies for sick leave and other pay practices to encourage ill employees to stay home. We also implemented a policy to allow those who can work from home to do so. During the pandemic and looking beyond, we have committed to maintaining health benefits and offer guidance resources to support mental and physical well-being.
+
+Employee Engagement, Training and Development
+We are committed to fostering a culture that is safety-focused, respectful, inclusive and representative of the communities where we operate. We operate in regions of varying ethnic, religious and cultural backgrounds, and we often are the largest employer in our local communities. A key to our success is the ability to recruit, retain, develop and advance talented employees with diverse perspectives.
+
+In addition to the health, safety and well-being of our global workforce, we have prioritized a flexible, highly engaged and agile workforce. The COVID-19 pandemic has amplified our focus on the need for, and receptivity to, innovation across all facets of the business, particularly in how we communicate, engage and collaborate across our global workforce in a more virtual environment. To support our workforce transformation, engagement and ongoing talent development, we strengthened our Human Resources department in 2020 and established two new positions: Chief Human Resources Officer and Vice President – Transformation and Organizational Development, who maintain specific responsibility for inclusion and diversity efforts.
+
+24
+
+We are committed to ongoing training and development of our workforce. We focus on attracting and retaining talented people by offering quality employment with competitive compensation and opportunities for professional development. Strategic talent reviews and succession planning occur regularly and across all business areas. To support the advancement of our employees, we offer training and development programs encouraging advancement from within and continue to promote strong and experienced management talent. We leverage both formal and informal programs to identify, foster, and retain top talent at both the corporate and operations levels.
+
+Additionally, hiring locally is a commitment we make to the communities surrounding our operations and to our host countries. Most people employed at our operations are host country nationals. We retain expatriate expertise for managerial and technical roles only when it is not available in local communities. To further these efforts, expatriates receive cultural training upon their arrival to a new location.
+
+Inclusion and Diversity
+We believe our greatest strength is our people. We respect and value the different ideas, beliefs, experiences, talents, skills, perspectives, backgrounds, and cultures of our workforce. We strive for, promote and foster a workplace where everyone feels a sense of belonging, is treated with respect and their opinions are valued. We believe an inclusive environment gives our people the confidence to speak up, share ideas that drive innovation, and achieve operational excellence. Our inclusive environment is the foundation of our high-performance culture and is paramount to the long-term sustainable success of our business. We are committed to fostering a culture that is safety focused, respectful, inclusive and representative of the communities where we operate.
+
+Our inclusion and diversity principles align with our core values of safety, respect, integrity, excellence and commitment, and are reflected in our Principles of Business Conduct and other related policies. In addition to our Human Resources reorganization, in 2020, we formally established a stand-alone Inclusion and Diversity Policy and formalized a dedicated Inclusion and Diversity team to specifically support our enhanced focus on our program.
+
+Refer to Item 1A. “Risk Factors” for further information on labor matters.
+
+COMMUNITY AND HUMAN RIGHTS
+
+We have adopted policies that govern our working relationships with the communities where we operate and that are designed to guide our practices and programs in a manner that respects human rights and the culture of the local people impacted by our operations.
+
+We continue to make significant expenditures on community development, health, education, training and cultural programs, which include:
+
+•comprehensive job training programs
+•clean water and sanitation projects
+•public health programs, including malaria control and human immunodeficiency virus
+•agricultural assistance programs
+•small and medium enterprise development programs
+•basic education programs
+•cultural promotion and preservation programs
+•community infrastructure development
+•charitable donations
+
+In December 2000, we endorsed the joint U.S. State Department-British Foreign Office Voluntary Principles on Human Rights and Security (Voluntary Principles). We participated in developing these Voluntary Principles with other major natural resource companies and international human rights organizations and they are incorporated into our human rights policy. The Voluntary Principles provide guidelines for our security programs, including interaction with host-government security personnel, private security contractors and our internal security employees.
+
+Our human rights policy, most recently updated in December 2020, reflects our commitment to implementing the United Nations Guiding Principles on Business and Human Rights. We have embarked on a program to plan and conduct site-level human rights impact assessments (HRIA) at our global operations.
+
+
+25
+
+HRIAs help us to embed human rights considerations into our business practices, including site-level sustainable development risk registers. We completed a HRIA at our Cerro Verde operation in Peru in 2017 and at our New Mexico mining operations in 2018. We also participate in a multi-industry human rights working group to gain insight from peer companies.
+
+We believe that our social and economic development programs are responsive to the issues raised by the local communities near our areas of operation and help us maintain good relations with the surrounding communities and avoid disruptions of mining operations. As part of our ongoing commitment to our community stakeholders, we have made and expect to continue making investments in certain social programs, including in-kind support and administration, across our global operations from time to time. Over the last three years, these investments have averaged $121 million per year. Nevertheless, social and political instability in the areas of our operations may adversely impact our mining operations. Refer to Item 1A. “Risk Factors” for further discussion.
+
+South America. Cerro Verde has provided a variety of community support projects over the years. Following engagements with regional and local governments, civic leaders and development agencies, in 2006, Cerro Verde committed to support the costs for a new potable water treatment plant to serve Arequipa. In addition, an agreement was reached with the Peru government for development of a water storage network that was financed by Cerro Verde and a distribution network that was financed by the Cerro Verde Civil Association.
+
+Cerro Verde reached an agreement with the Regional Government of Arequipa, the National Government, the local water utility company and other local institutions to allow it to finance, engineer and construct a wastewater treatment plant for the city of Arequipa, which was completed in 2015. The wastewater treatment plant supplements existing water supplies to support Cerro Verde’s concentrator expansion and also improves the local water quality, enhances agriculture products grown in the area and reduces the risk of waterborne illnesses. In addition to these projects, Cerro Verde annually makes significant community development investments in the Arequipa region.
+
+Security Matters. Consistent with our operating permits in Peru and our commitment to protect our employees and property, we have taken steps to provide a safe and secure working environment. As part of its security program, Cerro Verde maintains its own internal security department. Both employees and contractors perform functions such as protecting company facilities, monitoring shipments of supplies and products, assisting in traffic control and aiding in emergency response operations. The security department receives human rights and Voluntary Principles training annually. Some contractors assigned to protection of expatriate personnel are armed. These contractors also receive training in defensive driving and firearms handling. Cerro Verde’s costs for its internal civilian security department totaled $7 million in 2020, $9 million in 2019 and $8 million in 2018.
+
+Cerro Verde, like all businesses and residents of Peru, relies on the Peru government for the maintenance of public order, upholding the rule of law and the protection of personnel and property. The Peru government is responsible for employing police personnel and directing their operations. Cerro Verde has limited public security forces in support of its operation, with the arrangement defined through a memorandum of understanding with the Peru National Police. Cerro Verde’s share of support costs for government-provided security approximated $1 million in each of the years 2020, 2019 and 2018.
+
+Indonesia. In 1996, PT-FI established the Freeport Partnership Fund for Community Development (the Partnership Fund) through which PT-FI has made available funding and technical assistance to support community development initiatives in the areas of health, education, economic development and local infrastructure. PT-FI has committed to provide funding through 2041 for the development of the local communities in its area of operations through the Partnership Fund. PT-FI recorded costs of $36 million in 2020, $28 million in 2019 and $55 million in 2018 for this commitment.
+
+Historically, the Amungme and Kamoro Community Development Organization (Lembaga Pengembangan Masyarakat Amungme dan Kamoro) oversaw disbursement of the program funds PT-FI contributed to the Partnership Fund. Throughout 2019, PT-FI consulted with key stakeholders to restructure the management of the Partnership Fund in compliance with PT-FI’s IUPK. Throughout the restructuring process, PT-FI continued its contributions to ensure no disruptions in implementation of approved projects. Beginning in February 2020, the Partnership Fund is now managed by a legally recognized Indonesia foundation (Yayasan Pemberdayaan Masyarakat Amungme dan Kamoro or YPMAK). YPMAK is governed by a Board of Governors consisting of seven representatives, including four from PT-FI.
+
+26
+
+In addition to the Partnership Fund, PT-FI has made and expects to continue making annual investments in public health, education, community infrastructure and local economic development.
+
+Security Matters. Consistent with our ongoing commitment to protect our employees and property, we have taken steps to provide a safe and secure working environment. As part of its security program, PT-FI maintains its own internal civilian security department. Both employees and contractors are unarmed and perform functions such as protecting company facilities, monitoring shipments of supplies and products, assisting in traffic control and aiding in emergency response operations. The security department receives human rights training annually.
+
+PT-FI’s costs for its internal civilian security department totaled $47 million in 2020, $52 million in 2019 and $59 million in 2018.
+
+PT-FI, like all businesses and residents of Indonesia, relies on the Indonesia government for the maintenance of public order, upholding the rule of law and protection of personnel and property. The Grasberg minerals district has been designated by the Indonesia government as one of Indonesia’s vital national assets. This designation results in the police, and to a lesser extent, the military, playing a significant role in protecting the area of our operations. The Indonesia government is responsible for employing police and military personnel and directing their operations.
+
+From the outset of PT-FI’s operations, the Indonesia government has looked to PT-FI to provide logistical and infrastructure support and assistance for these necessary services because of the limited resources of the Indonesia government and the remote location of and lack of development in Papua. PT-FI’s financial support of the Indonesia government security institutions assigned to PT-FI’s operations area represents a prudent response to PT-FI’s requirements and commitments to protect its workforce and property better ensuring that personnel are properly fed and lodged and have the logistical resources to patrol PT-FI’s roads and secure its area of operations. In addition, the provision of such support is consistent with our philosophy of responsible corporate citizenship, and reflects our commitment to pursue practices that protect and respect human rights.
+
+PT-FI’s support costs for the government-provided security totaled $22 million in both 2020 and 2019 and $27 million in 2018. This supplemental support consists of various infrastructure and other costs, including food, housing, fuel, travel, vehicle repairs, allowances to cover incidental and administrative costs, and community assistance programs conducted by the military and police.
+
+Refer to Item 1A. “Risk Factors” for further discussion of security risks in Indonesia.
+27
+
+MINING PRODUCTION AND SALES DATA
+Years Ended December 31,			Production		Sales		
+COPPER (millions of recoverable pounds)
+2020		2019		2018		2020		2019		2018		(FCX’s net interest in %)	 		 		 	 	 	 	 	 			North America	 		 		 	 	 	 	 	 			
+Morenci (72%)a
+707 			730 			684 		 	711 			717 			700 			Bagdad (100%)	216 			218 			199 		 	213 			218 			197 			Safford (100%)	161 			110 			123 		 	150 			111 			127 			Sierrita (100%)	178 			160 			152 		 	177 			157 			154 			Miami (100%)	17 			15 			16 		 	16 			15 			16 			Chino (100%)	92 			175 			173 		 	108 			174 			176 			Tyrone (100%)	45 			48 			55 		 	45 			49 			56 			Other (100%)	2 			1 			2 		 	2 			1 			2 			Total North America	1,418 			1,457 			1,404 		 	1,422 			1,442 			1,428 			South America	 		 		 	 	 	 	 	 			Cerro Verde (53.56%)	820 			1,003 			1,049 			825 			1,002 			1,051 			El Abra (51%)	159 			180 			200 			151 			181 			202 		Total South America	979 			1,183 			1,249 			976 			1,183 			1,253 			Indonesia	 		 		 	 	 	 	 	 			
+Grasberg minerals districtb
+809 			607 			1,160 			804 			667 			1,130 			Consolidated	3,206 			3,247 			3,813 			3,202 		
+c
+3,292 		
+c
+3,811 		
+c
+Less noncontrolling interests	610 			668 			695 			608 			679 			694 			Net	2,596 			2,579 			3,118 			2,594 			2,613 			3,117 			Average realized price per pound							$	2.95 			$	2.73 			$	2.91 			
+GOLD (thousands of recoverable ounces)
+ 		 		 	 	 	 	 	 			North America (100%)	9 			19 			23 			13 			18 			23 		
+Indonesiab
+848 			863 			2,416 			842 			973 			2,366 			Consolidated	857 			882 			2,439 		 	855 			991 			2,389 			Less noncontrolling interests	159 			162 			228 			158 			182 			223 			Net	698 			720 			2,211 			697 			809 			2,166 			Average realized price per ounce							$	1,832 			$	1,415 			$	1,254 			
+MOLYBDENUM (millions of recoverable pounds)
+ 		 		 	 	 	 	 	 			Henderson (100%)	10 			12 			14 			N/A		N/A		N/A		Climax (100%)	14 			17 			21 			N/A		N/A		N/A		
+North America copper mines (100%)a
+33 			32 			32 			N/A		N/A		N/A		Cerro Verde (53.56%)	19 			29 			28 			N/A		N/A		N/A		Consolidated	76 			90 			95 			80 			90 			94 			Less noncontrolling interest	9 			13 			13 			10 			13 			13 			Net	67 			77 			82 			70 			77 			81 			Average realized price per pound							$	10.20 			$	12.61 			$	12.50 		 
+a.Amounts are net of Morenci’s undivided joint venture partners’ interest.
+b.Effective December 21, 2018, our share ownership in PT-FI is 48.76 percent (refer to Note 2 for further discussion). Our economic interest in PT-FI is expected to approximate 81 percent through 2022 and 48.76 percent thereafter.
+c.Consolidated sales volumes exclude purchased copper of 290 million pounds in 2020, 379 million pounds in 2019 and 356 million pounds in 2018.
+
+
+28
+
+SELECTED OPERATING DATA
+ 	Years Ended December 31,	 	 	2020		2019		2018		2017		2016		CONSOLIDATED MINING										 	Copper (millions of recoverable pounds)	 		 		 		 	 	 	 	Production	3,206 			3,247 			3,813 			3,737 			4,222 		 	Sales, excluding purchases	3,202 			3,292 			3,811 			3,700 			4,227 		 	Average realized price per pound	$	2.95 			$	2.73 			$	2.91 			$	2.93 			$	2.28 			Gold (thousands of recoverable ounces)	 		 		 		 	 	 	 	Production	857 			882 			2,439 			1,577 			1,088 			Sales, excluding purchases	855 			991 			2,389 			1,562 			1,079 			Average realized price per ounce	$	1,832 			$	1,415 			$	1,254 			$	1,268 			$	1,238 			Molybdenum (millions of recoverable pounds)	 		 		 		 	 	 	 	Production	76 			90 			95 			92 			80 			Sales, excluding purchases	80 			90 			94 			95 			74 			Average realized price per pound	$	10.20 			$	12.61 			$	12.50 			$	9.33 			$	8.33 														NORTH AMERICA COPPER MINES											
+Operating Data, Net of Joint Venture Interestsa
+ 		 		 		 	 	 	 	Copper (millions of recoverable pounds)	 		 		 		 	 	 	 	Production	1,418 			1,457 			1,404 			1,518 			1,831 			Sales, excluding purchases	1,422 			1,442 			1,428 			1,484 			1,841 			Average realized price per pound	$	2.82 			$	2.74 			$	2.96 			$	2.85 			$	2.24 			Molybdenum (millions of recoverable pounds)	 		 		 		 	 	 	 	Production	33 			32 			32 			33 			33 		 	100% Operating Data	 		 		 		 	 	 	 	Leach operations	 		 		 		 	 	 	 	Leach ore placed in stockpiles (metric tons per day)	714,300 			750,900 			681,400 			679,000 			737,400 		 	Average copper ore grade (percent)	0.27 			0.23 			0.24 			0.28 			0.31 		 	Copper production (millions of recoverable pounds)	1,047 			993 			951 			1,016 			1,120 		 	Mill operations	 		 		 		 	 	 	 	Ore milled (metric tons per day)	279,700 			326,100 			301,000 			299,500 			300,500 		 	Average ore grade (percent):	 		 		 		 	 	 	 	Copper	0.35 			0.34 			0.35 			0.39 			0.47 		 	Molybdenum	0.02 			0.02 			0.02 			0.03 			0.03 		 	Copper recovery rate (percent)	84.1 			87.0 			87.8 			86.4 			85.5 		 	Copper production (millions of recoverable pounds)	647 			748 			719 			788 			958 		 												SOUTH AMERICA MINING										 	Copper (millions of recoverable pounds)	 		 		 		 	 	 	 	Production	979 			1,183 			1,249 			1,235 			1,328 		 	Sales	976 			1,183 			1,253 			1,235 			1,332 		 	Average realized price per pound	$	3.05 			$	2.71 			$	2.87 			$	2.97 		 	$	2.31 		 Molybdenum (millions of recoverable pounds)	 		 		 		 	 	 	 	Production	19 			29 			28 			27 			21 		 	Leach operations	 		 		 		 	 	 	 	Leach ore placed in stockpiles (metric tons per day)	160,300 			205,900 			195,200 			142,800 			149,100 		 	Average copper ore grade (percent)	0.35 			0.37 			0.33 			0.37 			0.41 		 	Copper production (millions of recoverable pounds)	241 			268 			287 			255 			328 		 	Mill operations	 		 	 	 		 		 		Ore milled (metric tons per day)	331,600 			393,100 			387,600 			360,100 			353,400 			Average ore grade (percent):	 		 	 	 		 		 		Copper	0.34 			0.36 			0.38 			0.44 			0.43 		Molybdenum	0.01 			0.02 			0.01 			0.02 			0.02 			Copper recovery rate (percent)	84.3 			83.5 			84.3 			81.2 			85.8 			Copper production (millions of recoverable pounds)	738 			916 			962 			980 			1,000 		 
+a.Net of Morenci’s joint venture interest; effective May 31, 2016, our undivided interest in Morenci was prospectively reduced from 85 percent to 72 percent.
+
+
+
+
+
+
+
+
+
+29
+
+SELECTED OPERATING DATA (Continued)
+ 	Years Ended December 31,	 	 	2020		2019	 	2018		2017		2016		INDONESIA MINING											
+Operating Data, Net of Rio Tinto Joint Venture Interesta
+ 		 	 	 		 		 		Copper (millions of recoverable pounds)	 		 	 	 		 		 		Production	809 			607 			1,160 			984 			1,063 			Sales	804 			667 			1,130 			981 			1,054 			Average realized price per pound	$	3.08 			$	2.72 		 	$	2.89 			$	3.00 			$	2.32 			Gold (thousands of recoverable ounces)	 		 	 	 		 		 		Production	848 			863 			2,416 			1,554 			1,061 			Sales	842 			973 			2,366 			1,540 			1,054 			Average realized price per ounce	$	1,832 			$	1,416 			$	1,254 			$	1,268 			$	1,237 			100% Operating Data	 		 	 	 		 		 		Ore milled (metric tons per day)	87,700 			110,100 			178,100 			140,400 			165,700 			Average ore grade:	 		 	 	 		 		 		Copper (percent)	1.32 			0.84 			0.98 			1.01 			0.91 			Gold (grams per metric ton)	1.10 			0.93 			1.58 			1.15 			0.68 			Recovery rates (percent):	 		 	 	 		 		 		Copper	91.9 			88.4 			91.8 			91.6 			91.0 			Gold	78.1 			75.0 			84.7 			85.0 			82.2 			Production:	 		 	 	 		 		 		Copper (millions of recoverable pounds)	809 			607 			1,227 			996 			1,063 			Gold (thousands of recoverable ounces)	848 			863 			2,697 			1,554 			1,061 														MOLYBDENUM MINES											Molybdenum production (millions of recoverable pounds)	24 			29 			35 			32 			26 			Ore milled (metric tons per day)	20,700 			30,100 			27,900 			22,500 			18,300 			Average molybdenum ore grade (percent)	0.17 			0.14 			0.18 			0.20 			0.21 													 
+a.Prior to December 21, 2018, PT-FI had an unincorporated joint venture with Rio Tinto. Refer to Notes 2 and 3 for further discussion.
+30
+
+MINERAL RESERVES
+
+Proven and probable reserves were determined by the use of mapping, drilling, sampling, assaying and evaluation methods generally applied in the mining industry, as more fully discussed below. The term “reserve,” as used in the reserve data presented here, means that part of a mineral deposit that can be economically and legally extracted or produced at the time of the reserve determination. The term “proven reserves” means reserves for which (i) quantity is computed from dimensions revealed in outcrops, trenches, workings or drill holes; (ii) grade and/or quality are computed from the results of detailed sampling; and (iii) the sites for inspection, sampling and measurements are spaced so closely and the geologic character is sufficiently defined that size, shape, depth and mineral content of reserves are well established. The term “probable reserves” means reserves for which quantity and grade are computed from information similar to that used for proven reserves but the sites for sampling are farther apart or are otherwise less adequately spaced. The degree of assurance, although lower than that for proven reserves, is high enough to assume continuity between points of observation.
+
+Our mineral reserve estimates are based on the latest available geological and geotechnical studies. We conduct ongoing studies of our ore bodies to optimize economic values and to manage risk. We revise our mine plans and estimates of recoverable proven and probable mineral reserves as required in accordance with the latest available studies. Refer to Item 1A. “Risk Factors” for discussion of risks associated with our estimates of proven and probable reserves.
+
+Estimated recoverable proven and probable reserves at December 31, 2020, were determined using metals price assumptions of $2.50 per pound for copper, $1,200 per ounce for gold and $10 per pound for molybdenum.
+
+For the three-year period ended December 31, 2020, LME copper settlement prices averaged $2.83 per pound, London PM gold prices averaged $1,477 per ounce and the weekly average price for molybdenum quoted by Metals Week averaged $10.65 per pound.
+
+The estimated recoverable proven and probable reserves presented in the table below represent the estimated metal quantities from which we expect to be paid after application of estimated metallurgical recovery rates and smelter recovery rates, where applicable. Recoverable reserves are that part of a mineral deposit that we estimate can be economically and legally extracted or produced at the time of the reserve determination.
+ 	Estimated Recoverable Proven and Probable Mineral Reserves at December 31, 2020			
+Coppera
+(billion pounds)
+Gold
+(million ounces)
+Molybdenum
+(billion pounds)
+North America	47.1 			0.6 			3.01 			South America	32.7 			— 			0.70 			
+Indonesiab
+33.4 			28.3 			— 			
+Consolidated basisc
+113.2 			28.9 			3.71 			
+Net equity interestd
+81.8 			15.5 			3.39 		 
+a.Estimated consolidated recoverable copper reserves include 1.7 billion pounds in leach stockpiles and 0.3 billion pounds in mill stockpiles (refer to “Mill and Leach Stockpiles” for further discussion).
+b.Reflects estimates of minerals that can be recovered through 2041. Refer to Item 1A. “Risk Factors.”
+c.Consolidated reserves represent estimated metal quantities after reduction for joint venture partner interests at the Morenci mine in North America (refer to Note 3 for further discussion of our Morenci joint venture). Excluded from the table above are our estimated recoverable proven and probable reserves of 362 million ounces of silver, which were determined using $15 per ounce.
+d.Net equity interest reserves represent estimated consolidated metal quantities further reduced for noncontrolling interest ownership (refer to Note 3 for further discussion of our ownership in subsidiaries). Excluded from the table above are our estimated recoverable proven and probable reserves of 247 million ounces of silver. Our net equity interest for estimated metal quantities in Indonesia reflects approximately 81 percent from 2021 through 2022 and 48.76 percent from 2023 through 2041.
+31
+
+Estimated Recoverable Proven and Probable Mineral Reserves				at December 31, 2020	 	 		Proven Reserves			Probable Reserves		 	 		 		Average Ore Grade			 		Average Ore Grade		 	Processing		Million		Copper		Gold	 	Moly		Silver			Million		Copper		Gold	 	Moly		Silver		 	Method		metric tons		%		g/t	 	%		g/t			metric tons		%		g/t	 	%		g/t		North America	 		 		 		 	 	 		 			 		 		 	 	 		 		Morenci	Mill		918 			0.38 			— 			0.02 			— 				124 			0.33 			— 			0.02 			— 			 	Crushed leach		479 			0.35 			— 			— 			— 				70 			0.32 			— 			— 			— 			 	ROM leach		2,273 			0.15 			— 			— 			— 				435 			0.16 			— 			— 			— 			Bagdad	Mill		1,977 			0.32 			— 		
+a
+0.02 			1.35 				602 			0.27 			— 		
+a
+0.02 			1.12 			 	ROM leach		5 			0.28 			— 			— 			— 				7 			0.26 			— 			— 			— 			Safford, including Lone Star	Crushed leach		610 			0.46 			— 			— 			— 				167 			0.41 			— 			— 			— 		Sierrita	Mill		2,875 			0.22 			— 		
+a
+0.02 			1.21 				366 			0.18 			— 		
+a
+0.02 			0.94 		Chino, including Cobre	Mill		143 			0.53 			0.04 			— 			0.89 				70 			0.49 			0.05 			— 			0.92 			 	ROM leach		87 			0.28 			— 			— 			— 				13 			0.27 			— 		 	— 			— 			Tyrone	ROM leach		31 			0.28 			— 			— 			— 				2 			0.17 			— 		 	— 			— 			Henderson	Mill		40 			— 			— 			0.19 			— 				20 			— 			— 		 	0.13 			— 			Climax	Mill		143 			— 			— 			0.15 			— 				13 			— 			— 		 	0.10 			— 		 	 		9,582 		
+b
+1,889 											South America	 		 		 		 	 	 		 			 		 		 		 		 		Cerro Verde	Mill		701 			0.38 			— 			0.02 			2.02 				3,302 			0.36 			— 			0.01 			1.91 			 	Crushed leach		29 			0.44 			— 			— 			— 				6 			0.34 			— 			— 			— 			 	ROM leach		21 			0.23 			— 			— 			— 				20 			0.14 			— 			— 			— 			El Abra	Crushed leach		543 			0.44 			— 			— 			— 				191 			0.38 			— 			— 			— 			 	ROM leach		32 			0.15 			— 			— 			— 				13 			0.13 			— 			— 			— 			 	 		1,325 		
+b
+3,532 											Indonesia	 		 		 		 	 	 		 			 		 		 	 	 		 		Grasberg Block Cave	Mill		326 			1.13 			0.75 			— 			3.62 				548 			1.05 			0.72 			— 			3.61 			DMLZ	Mill		89 			0.94 			0.78 			— 			4.50 				350 			0.88 			0.71 			— 			4.25 		Big Gossan	Mill		17 			2.53 			1.03 			— 			15.77 				36 			2.19 			0.95 			— 			13.05 			DOZ	Mill		2 			0.59 			0.54 			— 			2.62 				6 			0.54 			0.45 			— 			2.62 			
+Kucing Liarc
+Mill		168 			0.99 			0.92 			— 			4.13 				183 			0.87 			0.89 			— 			3.42 			 	 		603 		
+b
+1,122 		
+b
+Total FCX - 100% Basis	 		11,510 												6,542 		
+b
+ 
+a.Amounts not shown because of rounding.
+b.Does not foot because of rounding.
+c.Would require additional capital investment, which could be significant, to bring into production.
+
+The reserve table above and the tables on the following pages utilize the abbreviations described below:
+ 
+•g/t – grams per metric ton
+•Moly – Molybdenum
+32
+
+Estimated Recoverable Proven and Probable Mineral Reserves				at December 31, 2020				(continued)				Proven and				 	 		
+Probablea
+Average Ore Grade		
+Recoveriesb
+ 	Processing		Million		Copper		Gold	 	Moly		Silver		Copper		Gold		Moly		Silver		 	Method		metric tons		%		g/t	 	%		g/t		%		%		%		%		North America	 		 		 		 	 	 		 		 		 		 		 		Morenci	Mill		1,042 			0.37 			— 			0.02 			— 			81.2 			— 			49.0 			— 			 	Crushed leach		550 			0.35 			— 			— 			— 			80.0 			— 			— 			— 			 	ROM leach		2,708 			0.15 			— 			— 			— 			40.3 			— 			— 			— 			Bagdad	Mill		2,579 			0.31 			— 		
+c
+0.02 			1.30 			86.1 			59.1 			82.4 			49.3 			 	ROM leach		12 			0.27 			— 			— 			— 			40.2 			— 			— 			— 			Safford, including Lone Star	Crushed leach		777 			0.45 			— 			— 			— 			70.4 			— 			— 			— 		Sierrita	Mill		3,240 			0.22 			— 		
+c
+0.02 			1.18 			82.8 			59.1 			76.7 			49.3 		Chino, including Cobre	Mill		213 			0.51 			0.05 			— 			0.90 			80.0 			77.9 			— 			78.5 			 	ROM leach		100 			0.28 			— 			— 			— 			40.9 			— 			— 			— 			Tyrone	ROM leach		33 			0.27 			— 			— 			— 			55.2 			— 			— 			— 			Henderson	Mill		60 			— 			— 			0.17 			— 			— 			— 			89.4 			— 			Climax	Mill		156 			— 			— 			0.15 			— 			— 			— 			88.7 			— 		 	 		11,471 		
+d
+ 		 	 	 		 		 		 		 		 		South America	 		 		 		 	 	 		 		 		 		 		 		Cerro Verde	Mill		4,002 			0.36 			— 			0.01 			1.93 			86.5 			— 			54.4 			44.9 			 	Crushed leach		34 			0.42 			— 			— 			— 			78.4 			— 			— 			— 			 	ROM leach		41 			0.19 			— 			— 			— 			45.2 			— 			— 			— 			El Abra	Crushed leach		734 			0.43 			— 			— 			— 			54.9 			— 			— 			— 			 	ROM leach		45 			0.15 			— 			— 			— 			36.4 			— 			— 			— 			 	 		4,856 			 		 	 	 		 		 		 		 		 		Indonesia	 		 		 		 	 	 		 		 		 		 		 		Grasberg Block Cave	Mill		874 			1.08 			0.73 			— 			3.61 			84.0 			63.6 			— 			56.9 			DMLZ	Mill		439 			0.89 			0.72 			— 			4.30 			86.3 			79.1 			— 			64.3 		Big Gossan	Mill		53 			2.30 			0.98 			— 			13.93 			91.6 			67.6 			— 			63.9 			DOZ	Mill		8 			0.55 			0.47 			— 			2.62 			86.9 			79.3 			— 			64.5 			
+Kucing Liare
+Mill		351 			0.92 			0.90 			— 			3.76 			83.4 			58.4 			— 			42.8 			 	 		1,724 		
+d
+Total FCX - 100% Basis	 		18,052 		
+d
+ 		 	 	 		 		 		 		 		 		 
+a.Amounts may not equal the sum of proven and probable reserves as presented on the previous page because of rounding.
+b.Recoveries are net of estimated mill and smelter losses.
+c.Amounts not shown because of rounding.
+d.Does not foot because of rounding.
+e.Would require additional capital investment, which could be significant, to bring into production.
+33
+
+Estimated Recoverable Proven and Probable Mineral Reserves	at December 31, 2020	(continued)	 	 		 		Recoverable Reserves	 	 		 		Copper		Gold		Moly		Silver		 	FCX’s		Processing		billion		million		billion		million		 	Interest		Method		lbs.		ozs.		lbs.		ozs.		North America	 		 		 		 		 		 		Morenci	72%		Mill		6.9 			— 			0.20 			— 			 	 		Crushed leach		3.4 			— 			— 			— 			 	 		ROM leach		3.7 			— 			— 			— 			Bagdad	100%		Mill		15.1 			0.2 			0.92 			53.1 			 	 		ROM leach		— 		
+a
+— 			— 			— 			Safford, including Lone Star	100%		Crushed leach		5.4 			— 			— 			— 		Sierrita	100%		Mill		13.0 			0.2 			1.28 			60.7 		Chino, including Cobre	100%		Mill		1.9 			0.2 			— 			4.8 			 	 		ROM leach		0.3 			— 			— 			— 			Tyrone	100%		ROM leach		0.1 			— 			— 			— 			Henderson	100%		Mill		— 			— 			0.20 			— 			Climax	100%		Mill		— 			— 			0.46 			— 		 	 		 		49.8 			0.6 			3.05 		
+b
+118.7 		
+b
+Recoverable metal in stockpilesc
+ 		1.2 			— 		
+a
+0.02 			0.1 			100% operations		 		51.1 		
+b
+0.6 			3.07 			118.9 		
+b
+Consolidated		 		47.1 			0.6 			3.01 			118.9 			Net equity interest		 		47.1 			0.6 			3.01 			118.9 																South America	 		 		 		 		 		 		Cerro Verde	53.56%		Mill		27.7 			— 			0.69 			111.4 			 	 		Crushed leach		0.3 			— 			— 			— 			 	 		ROM leach		0.1 			— 			— 			— 			El Abra	51%		Crushed leach		3.8 			— 			— 			— 			 	 		ROM leach		0.1 			— 			— 			— 			 	 		 		31.9 		
+b
+— 			0.69 			111.4 			
+Recoverable metal in stockpilesc
+ 		0.9 			— 			0.01 			1.2 			100% operations		 		32.7 		
+b
+— 			0.70 			112.6 			Consolidated		 		32.7 			— 			0.70 			112.6 			Net equity interest		 		17.4 			— 			0.37 			60.3 																Indonesia	 		 		 		 		 		 		Grasberg Block Cave	d		Mill		17.5 			13.1 			— 			57.8 			DMLZ	d		Mill		7.4 			8.1 			— 			39.0 		Big Gossan	d		Mill		2.5 			1.1 			— 			15.3 			DOZ	d		Mill		0.1 			0.1 			— 			0.4 			Kucing Liar	d		Mill		6.0 			6.0 			— 			18.1 		100% operations		 		33.4 		
+b
+28.3 		
+b
+— 			130.6 			Consolidated		 		33.4 			28.3 			— 			130.6 			Net equity interest		 		17.3 			14.9 			— 			67.7 															Total FCX –  100% basis		 		117.2 			28.9 			3.77 			362.1 			
+Total FCX –  Consolidated basise
+ 		113.2 			28.9 			3.71 			362.1 			
+Total FCX –  Net equity interestf
+ 		81.8 			15.5 			3.39 		
+b
+246.9 		 
+a.Amounts not shown because of rounding.
+b.Does not foot because of rounding.
+c.Refer to “Mill and Leach Stockpiles” for additional information.
+d.Effective December 21, 2018, our share ownership in PT-FI is 48.76 percent (refer to Note 2 for further discussion). Our economic interest in PT-FI is expected to approximate 81 percent through 2022 and 48.76 percent thereafter.
+e.Consolidated reserves represent estimated metal quantities after reduction for Morenci’s joint venture partner interests (refer to Note 3 for further discussion).
+f.Net equity interest represents estimated consolidated metal quantities further reduced for noncontrolling interest ownership (refer to Note 3 for further discussion of our ownership in subsidiaries). Our net equity interest for estimated metal quantities in Indonesia reflects approximately 81 percent from 2021 through 2022 and 48.76 percent from 2023 through 2041.
+
+34
+
+In defining our open-pit reserves, we apply a “variable cutoff grade” strategy. The objective of this strategy is to maximize the net present value of our operations. We use a “break-even cutoff grade” to define the in-situ reserves for our underground ore bodies. The break-even cutoff grade is defined for a metric ton of ore as that equivalent copper grade, once produced and sold, that generates sufficient revenue to cover all operating and administrative costs associated with our production.
+
+Our copper mines may contain other commercially recoverable metals, such as gold, molybdenum and silver. We value all commercially recoverable metals in terms of a copper equivalent percentage to determine a single cutoff grade. Copper equivalent percentage is used to express the relative value of multi-metal ores in terms of one metal. The calculation expresses the relative value of the ore using estimates of contained metal quantities, metals prices as used for reserve determination, recovery rates, treatment charges and royalties. Our molybdenum properties use a molybdenum cutoff grade.
+
+The table below shows the minimum cutoff grade by process for each of our existing ore bodies as of December 31, 2020:        
+Copper Equivalent Cutoff Grade (Percent)		Molybdenum
+Cutoff Grade
+(Percent)		Mill		Crushed
+Leach		ROM
+Leach		Mill	North America	 		 		 		 	Morenci	0.17		0.12		0.03		—	Bagdad	0.09		—		0.04		—	Safford, including Lone Star	—		0.12		—		—Sierrita	0.15		—		—		—Chino, including Cobre	0.22		—		0.07		—	Tyrone	—		—		0.02		—	Henderson	—		—		—		0.13	Climax	—		—		—		0.05South America	 		 		 		 	Cerro Verde	0.15		0.09		0.08		—	El Abra	—		0.11		0.06		—	Indonesia	 		 		 		 	Grasberg Block Cave	0.58		—		—		—	DMLZ	0.64		—		—		—Big Gossan	1.70		—		—		—	DOZ	0.91		—		—		—	Kucing Liar	0.65		—		—		— 
+35
+
+Drill hole spacing data is used by mining professionals, such as geologists and geological engineers, in determining the suitability of data coverage (on a relative basis) in a given deposit type and mining method scenario so as to achieve a given level of confidence in the resource estimate. Drill hole spacing is only one of several criteria necessary to establish resource classification. Drilling programs are typically designed to achieve an optimum sample spacing to support the level of confidence in results that apply to a particular stage of development of a mineral deposit.
+
+The following table sets forth the average drill hole spacing based on average sample distance or drill pattern spacing for proven and probable ore reserves by process type:
+Average Drill Hole Spacing (in Meters)	 	 		Proven		Probable	 	Mining Unit		Mill		Leach		Mill		Leach	North America	 		 		 		 		 	Morenci	Open Pit		86		86		122		122	Bagdad	Open Pit		86		86		122		122	Safford, including Lone Star	Open Pit		—		86		—		122Sierrita	Open Pit		73		—		104		—Chino	Open Pit		43		86		86		122	Cobre	Open Pit		86		86		122		122	Tyrone	Open Pit		—		86		—		122	Henderson	Block Cave		47		—		96		—	Climax	Open Pit		61		—		91		—	South America	 		 		 		 		 	Cerro Verde	Open Pit		55		55		110		110	El Abra	Open Pit		—		75		—		120	Indonesia	 		 		 		 		 	Grasberg Block Cave	Block Cave		28		—		66		—	DMLZ	Block Cave		22		—		63		—Big Gossan	Open Stope		13		—		37		—	DOZ	Block Cave		23		—		54		—	Kucing Liar	Block Cave		39		—		88		— 
+
+36
+
+Production Sequencing
+The following chart illustrates our current plans for sequencing and producing our proven and probable reserves at each of our ore bodies and the years in which we currently expect production from each ore body and related stockpiles. Our proven and probable ore reserves in Indonesia reflect estimates of minerals that can be recovered through the end of 2041, and our current mine plan and planned operations are based on the assumption that PT-FI will comply with its obligations under the IUPK and receive the second 10-year extension from 2031 through 2041 (refer to Item 1A. “Risk Factors” and Note 13 for further discussion). Production volumes are typically lower in the first few years for each ore body as development activities are ongoing and as the mine ramps up to full production and production volumes may also be lower as the mine reaches the end of its life. The sequencing dates shown in the chart below include development activity that results in metal production. The ultimate timing of the start of production from our undeveloped mines is dependent upon a number of factors, including the results of our exploration and development efforts, and may vary from the dates shown below. In addition, we develop our mine plans based on maximizing the net present value from the ore bodies. Significant additional capital expenditures will be required at many of these mines in order to achieve the life-of-mine plans reflected below.
+fcx-20201231_g15.jpg
+a.The timing of development is still under review.
+Mill and Leach Stockpiles
+Mill and leach stockpiles generally contain lower grade ores that have been extracted from an ore body and are available for metal recovery. Mill stockpiles contain sulfide ores and recovery of metal is through milling, concentrating, smelting and refining or, alternatively, by concentrate leaching. Leach stockpiles contain oxide ores and certain secondary sulfide ores and recovery of metal is through exposure to acidic solutions that dissolve contained copper and deliver it in solution to extraction processing facilities.
+
+Because it is impracticable to determine copper contained in mill and leach stockpiles by physical count, reasonable estimation methods are employed. The quantity of material delivered to mill and leach stockpiles is based on surveyed volumes of mined material and daily production records. Sampling and assaying of blasthole cuttings determine the estimated copper grades of material delivered to mill and leach stockpiles.
+37
+
+Expected copper recovery rates for mill stockpiles are determined by metallurgical testing. The recoverable copper in mill stockpiles, once entered into the production process, can be produced into copper concentrate almost immediately.
+
+Expected copper recovery rates for leach stockpiles are determined using small-scale laboratory tests, small- to large-scale column testing (which simulates the production process), historical trends and other factors, including mineralogy of the ore and rock type. Total copper recovery in leach stockpiles can vary significantly from a low percentage to more than 90 percent depending on several variables, including processing methodology, processing variables, mineralogy and particle size of the rock. For newly placed material on active stockpiles, as much as 80 percent of total copper recovery may be extracted during the first year, and the remaining copper may be recovered over many years. Processes and recovery rates are monitored regularly, and recovery rate estimates are adjusted periodically as additional information becomes available and as related technology changes.
+
+Following are our stockpiles and the estimated recoverable copper contained within those stockpiles as of December 31, 2020:
+Recoverable		Million		Average		Recovery		Copper		Metric Tons		Ore Grade (%)		Rate (%)		(billion pounds)	Mill stockpiles									Cerro Verde	77 			0.27 			64.7 			0.3 			North America copper mines	6 			0.45 			88.2 			— 		
+a
+83 							0.3 												Leach stockpiles									Morenci	7,019 			0.24 			0.7 			0.3 			Bagdad	504 			0.25 			0.2 			— 		
+a
+Safford, including Lone Star	350 			0.41 			7.5 			0.2 		Sierrita	650 			0.15 			9.1 			0.2 			Miami	498 			0.39 			1.3 			0.1 			Chino, including Cobre	1,761 			0.25 			3.1 			0.3 			Tyrone	1,170 			0.28 			1.4 			0.1 			Cerro Verde	535 			0.46 			4.4 			0.2 			El Abra	818 			0.43 			4.3 			0.3 				13,306 		
+b
+1.7 												Total FCX - 100% basis							2.1 		
+b
+Total FCX - Consolidated basisc
+2.0 			
+Total FCX - Net equity interestd
+1.6 		 
+a.Rounds to less than 0.1 billion pounds of recoverable copper.
+b.Does not foot because of rounding.
+c.Consolidated stockpiles represent estimated metal quantities after reduction for Morenci’s joint venture partner interests. Refer to Note 3 for further discussion.
+d.Net equity interest represents estimated consolidated metal quantities further reduced for noncontrolling interest ownership (refer to Note 3 for further discussion of our ownership in subsidiaries).
+
+Mineralized Material
+We hold various properties containing mineralized material that we believe could be brought into production should market conditions warrant. However, permitting and significant capital expenditures would be required before operations could commence at these properties. Mineralized material is a mineralized body that has been delineated by appropriately spaced drilling and/or underground sampling to support the reported tonnage and average metal grades. Such a deposit cannot qualify as recoverable proven and probable reserves until legal and economic feasibility are confirmed based upon a comprehensive evaluation of development costs, unit costs, grades, recoveries and other material factors. Accordingly, no assurance can be given that the estimated mineralized material not included in reserves will become proven and probable mineral reserves. Estimated mineralized materials as presented on the following page were assessed using prices of $3.00 per pound for copper, $1,200 per ounce for gold, $12 per pound for molybdenum and $20 per ounce for silver. Refer to Item 1A. “Risk Factors” for discussion of risks associated with our estimates of mineralized material.
+38
+
+Estimated Mineralized Material	at December 31, 2020	 		 		Milling Material		Leaching Material		
+Total Mineralized Materiala
+ 		 		Million		 		 		 		 		Million		 		Million		 		FCX’s		metric		Copper		Gold		Moly		Silver		metric		Copper		metric		 		Interest		tons		%		g/t		%		g/t		tons		%		tons		North America		 		 		 		 		 				 		 		 		Morenci		72%		1,228 			0.26 			— 			0.02 			— 			862 			0.22 			2,090 			Bagdad		100%		378 			0.30 			— 		
+b
+0.02 			1.3 			1 			0.14 			379 			Safford, including Lone Star		100%		1,084 			0.42 			0.05 			— 			1.1 			887 			0.29 			1,971 			
+Sierrita
+100%		1,125 			0.18 			— 		
+b
+0.02 			1.0 			— 			— 			1,125 			Chino, including Cobre		100%		260 			0.47 			0.04 			0.01 			0.9 			30 			0.25 			291 			Tyrone		100%		— 			— 			— 			— 			— 			52 			0.28 			52 			Henderson		100%		116 			— 			— 			0.14 			— 			— 			— 			116 			Climax		100%		383 			— 			— 			0.16 			— 			— 			— 			383 			
+Ajo
+100%		601 			0.37 			0.06 			0.01 			0.8 			— 			— 			601 			Cochise/Bisbee		100%		— 			— 			— 			— 			— 			262 			0.46 			262 			Sanchez		100%		— 			— 			— 			— 			— 			175 			0.29 			175 			Tohono		100%		269 			0.67 			— 			— 			— 			281 			0.67 			550 			
+Twin Buttes
+100%		169 			0.57 			0.01 			0.03 			6.0 			80 			0.21 			249 			Christmas		100%		301 			0.40 			0.06 			— 		
+b
+1.1 			— 			— 			301 			South America		 		 		 		 		 		 		 	 	 		 		
+Cerro Verde
+53.56%		451 			0.32 			— 			0.01 			1.7 			29 			0.26 			480 			El Abra		51%		2,065 			0.40 			0.02 			0.01 			1.3 			147 			0.23 			2,212 			Indonesia		 		 		 		 		 		 		 	 	 		 		
+Grasberg minerals district
+48.76%		2,649 			0.72 			0.61 			— 			4.0 			— 			— 			2,649 			Total FCX - 100% basis		 		11,081 		
+c
+2,805 		
+c
+13,886 			
+Total FCX - Consolidated basisd
+ 		10,737 			 		 		 				2,562 			 		13,299 			
+Total FCX - Net equity intereste
+ 		8,158 			 		 		 				2,476 			 		10,635 					 
+a.Amounts may not equal the sum of milling and leach material because of rounding.
+b.Amounts not shown because of rounding.
+c.Does not foot because of rounding.
+d.Consolidated basis represents estimated mineralized materials after reduction for Morenci’s joint venture partner interests. Refer to Note 3 for further discussion.
+e.Net equity interest represents estimated consolidated mineralized material further reduced for noncontrolling interest ownership. Refer to Note 3 for further discussion of our ownership in subsidiaries.

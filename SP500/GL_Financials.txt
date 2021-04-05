@@ -1,0 +1,161 @@
+
+Globe Life and the Company refer to Globe Life Inc., an insurance holding company incorporated in Delaware in 1979, and its subsidiaries and affiliates. Its primary subsidiaries are Globe Life And Accident Insurance Company, American Income Life Insurance Company, Liberty National Life Insurance Company, Family Heritage Life Insurance Company of America, and United American Insurance Company.
+
+Effective August 8, 2019, Torchmark Corporation changed its corporate name to Globe Life Inc. The New York Stock Exchange (NYSE) ticker was changed to "GL" on August 9, 2019. The name change is part of a brand alignment strategy which will enhance the Company's ability to build name recognition with potential customers and agent recruits through the use of a single brand. The underwriting companies owned by Globe Life Inc. (the Parent Company) will continue to exist as legal entities, but over a period of time will go to market under the Globe Life name to leverage branding initiatives implemented at Globe Life And Accident Insurance Company in recent years.
+
+Globe Life's website is: www.globelifeinsurance.com. Globe Life makes available free of charge through its website, its annual report on Form 10-K, its quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports as soon as reasonably practicable after they have been electronically filed with or furnished to the Securities and Exchange Commission. Other information included in Globe Life's website is not incorporated into this filing.
+ 
+
+1
+GL 2020 FORM 10-K
+Table of Contents
+The following table presents Globe Life's business by primary marketing distribution method. Additional information concerning industry segments may be found in Management’s Discussion and Analysis and in Note 14—Business Segments within the Notes to the Consolidated Financial Statements.
+gl-20201231_g1.jpg
+
+
+
+2
+GL 2020 FORM 10-K
+Table of Contents
+Insurance
+Life Insurance
+ 
+The distribution channels for life insurance products include direct to consumer, exclusive agents, and independent agents. These methods are described in greater detail within the primary marketing distribution channel chart as seen above. The following table presents annualized premium in force for the three years ended December 31, 2020 by distribution method:
+ 	
+Annualized Premium in Force(1)
+(Dollar amounts in thousands)
+2020		2019		2018	
+Direct to Consumer
+$	881,012 			$	831,739 			$	812,780 		Exclusive agents:						American Income	1,325,293 			1,220,483 			1,129,384 		Liberty National	318,545 			309,792 			300,846 		Independent agents:						United American	9,314 			10,211 			11,094 		Other	205,785 			209,403 			210,624 			$	2,739,949 			$	2,581,628 			$	2,464,728 	 
+(1)See definition of annualized premium in force under Results of Operations in Management's Discussion & Analysis.
+
+Globe Life's insurance subsidiaries write a variety of nonparticipating ordinary life insurance products. These include traditional whole life, term life, and other life insurance. The Company does not currently sell interest-sensitive whole life products. The following tables present selected information about Globe Life's life insurance products.
+
+Annualized Premium in Force
+(Dollar amounts in thousands)
+ 	2020		2019		2018		Amount		% of
+Total		Amount		% of
+Total		Amount  		% of
+Total	Whole life:												Traditional	$	1,857,106 			68 			$	1,737,794 			67 			$	1,643,122 			67 		Interest-sensitive	36,297 			1 			38,691 			2 			41,414 			2 		
+Term
+716,698 			26 			683,869 			26 			671,840 			27 		
+Other
+129,848 			5 			121,274 			5 			108,352 			4 			$	2,739,949 			100 			$	2,581,628 			100 			$	2,464,728 			100 	 
+
+Policy Count and Average Face Amount Per Policy
+(Dollar amounts in thousands)
+2020		2019		2018		Policy Count		Average Face Amount per Policy		Policy Count		Average Face Amount per Policy		Policy Count		Average Face Amount per Policy	Whole life:												Traditional	8,717,785 			$	14.7 			8,477,406 			$	14.2 			8,112,745 			$	13.9 		Interest-sensitive	199,975 			20.3 			208,822 			20.3 			209,948 			20.6 		
+Term
+4,526,172 			15.1 			4,313,709 			14.8 			4,459,850 			14.9 		
+Other
+408,859 			14.3 			399,365 			13.7 			376,632 			12.9 			13,852,791 			$	14.9 			13,399,302 			$	14.5 			13,159,175 			$	14.3 	 
+
+
+3
+GL 2020 FORM 10-K
+Table of Contents
+Health Insurance
+ 
+The following table presents Globe Life's health insurance annualized premium in force for the three years ended December 31, 2020 by distribution channel.
+ 	
+Annualized Premium in Force
+(Dollar amounts in thousands)
+2020		2019		2018	
+Direct to Consumer
+$	77,522 			$	78,229 			$	79,325 		Exclusive agents:						Liberty National	196,534 			197,163 			201,294 		American Income	104,701 			96,447 			88,237 		Family Heritage	338,309 			312,479 			290,186 		Independent agents:						United American	476,296 			454,720 			414,656 			$	1,193,362 			$	1,139,038 			$	1,073,698 	 
+
+Globe Life offers Medicare Supplement and limited-benefit supplemental health insurance products that include primarily critical illness and accident plans. These products are designed to supplement health coverage that applicants already own. Medicare Supplements are offered to enrollees in the traditional fee-for-service Medicare program. Medicare Supplement plans are standardized by federal regulation and are designed to pay deductibles and co-payments not paid by Medicare.
+
+The following table presents supplemental health annualized premium in force information for the three years ended December 31, 2020 by product category.
+ 	
+Annualized Premium in Force
+(Dollar amounts in thousands)
+2020		2019		2018		Amount		% of
+Total		Amount		% of
+Total		Amount		% of
+Total	Limited-benefit plans	617,759 			52 			581,056 			51 			549,283 			51 		Medicare Supplement	$	575,603 			48 			$	557,982 			49 			$	524,415 			49 			$	1,193,362 			100 			$	1,139,038 			100 			$	1,073,698 			100 	 
+
+
+Annuities
+ 
+Annuity products include single-premium and flexible-premium deferred annuities. Annuities in each of the three years ended December 31, 2020 comprised less than 1% of premium. The Company does not currently market annuity products.
+
+Pricing
+ 
+Premium rates for life and health insurance products are established using assumptions as to future mortality, morbidity, persistency, investment income, expenses, and target profit margins. These assumptions are based on Company experience and projected investment earnings. Revenues for individual life and health insurance products are primarily derived from premium income, and, to a lesser extent, through policy charges to the policyholder account values on annuity products and certain individual life products. Profitability is affected by actual experience deviations from the established assumptions and to the extent investment income varies from that required for policy reserves.
+ 
+Collections for annuity products and certain life products are not recognized as revenues, but are added to policyholder account values. Revenues from these products are derived from charges to the account balances for insurance risk and administrative costs. Profits are earned to the extent these revenues exceed actual costs. Profits are also earned from investment income in excess of the amounts required for policy reserves.
+
+4
+GL 2020 FORM 10-K
+Table of Contents
+Underwriting
+ 
+The underwriting standards of each Globe Life insurance subsidiary are established by management. Each subsidiary uses information obtained from the application and, in some cases, telephone interviews with applicants, including, but not limited to inspection reports, pharmacy data, doctors’ statements and/or medical examinations to determine whether a policy should be issued in accordance with the application, with a different rating, with a rider, with reduced coverage, or rejected.
+
+Reserves
+ 
+The life insurance policy reserves reflected in Globe Life's consolidated financial statements as future policy benefits are calculated based on accounting principles generally accepted in the United States of America (GAAP). These reserves, with premiums to be received in the future and the interest thereon compounded annually at assumed rates, must be sufficient to cover policy and contract obligations as they mature. Generally, the mortality and persistency assumptions used in the calculations of reserves are based on Company experience. Similar reserves are held on most of the health insurance policies written by Globe Life's insurance subsidiaries, since these policies generally are issued on a guaranteed-renewable basis. The assumptions used in the calculation of Globe Life's reserves are reported in Note 1—Significant Accounting Policies. Reserves for annuity products and certain life products consist of the policyholders’ account values and are increased by policyholder deposits and interest credited and are decreased by policy charges and benefit payments.
+
+Reinsurance
+
+Globe Life has historically participated in very limited third-party reinsurance contracts as a result of the low face amounts of the policies sold by the Company. See Schedule IV and Note 6—Commitments and Contingencies for more information.
+
+Investments
+ 
+The nature, quality, and percentage mix of insurance company investments are regulated by state laws. The investments of Globe Life insurance subsidiaries consist predominantly of high-quality, investment-grade securities. Approximately 95% of our invested assets, at fair value, are fixed maturities at December 31, 2020 (see Note 4—Investments and Management’s Discussion and Analysis).
+
+Competition
+ 
+Globe Life competes with other insurance carriers through policyholder service, price, product design, and sales efforts. While there are insurance companies competing with Globe Life, no individual company dominates any of Globe Life's life or health insurance markets.
+ 
+Globe Life's health insurance products compete with, in addition to the products of other health insurance carriers, health maintenance organizations, preferred provider organizations, and other health care-related institutions which provide medical benefits based on contractual agreements.
+ 
+The Company effectively competes with other carriers, in part, due to its ability to operate at lower policy acquisition and administrative expense levels than peer companies. This allows Globe Life to have competitive rates while maintaining higher underwriting margins.
+
+Regulation
+
+Insurance—Insurance companies are subject to regulation and supervision in the states in which they do business. The laws of the various states establish agencies with broad administrative and supervisory powers which include, among other things, granting and revoking licenses to transact business, regulating trade practices, licensing agents, approving policy forms, approving certain premium rates, setting minimum reserve and loss ratio requirements, determining the form and content of required financial statements, and prescribing the type and amount of investments permitted. Insurance companies are also required to file detailed annual reports with supervisory agencies, and records of their business are subject to examination at any time. Under the rules of the
+5
+GL 2020 FORM 10-K
+Table of Contents
+National Association of Insurance Commissioners (NAIC), insurance companies are examined periodically by one or more of the supervisory agencies.
+
+Risk-Based Capital (RBC)—The NAIC requires that a risk-based capital formula be applied to all life and health insurers. The risk-based capital formula is a threshold formula rather than a target capital formula. It is designed only to identify companies that require regulatory attention and is not to be used to rate or rank companies that are adequately capitalized. All Globe Life's insurance subsidiaries are more than adequately capitalized under the risk-based capital formula. See further discussion of RBC in Capital Resources.
+
+Guaranty Assessments—State guaranty laws provide for assessments from insurance companies to be placed into a fund which is used, in the event of failure or insolvency of an insurance company, to fulfill the obligations of that company to its policyholders. The amount which a company is assessed is based on its proportional share of the premium in each state. A significant portion of assessments are recoverable as offsets against state premium taxes.
+
+Holding Company—States have enacted legislation requiring registration and periodic reporting by insurance companies domiciled within their respective jurisdictions that control or are controlled by other corporations so as to constitute a holding company system. Globe Life and its subsidiaries have registered as a holding company system pursuant to such legislation in Indiana, Nebraska, Ohio, and New York.
+
+Insurance holding company system statutes and regulations impose various limitations on investments in subsidiaries, and may require prior regulatory approval for material transactions between insurers and affiliates and for the payment of certain dividends and other distributions.
+
+Human Capital Management
+
+Globe Life's talent base encompasses a broad range of experience that possesses the depth of critical skills to efficiently and effectively accomplish our business purpose and mission, serve our policyholders, and protect our shareholders' interests. Maintaining superior human capital is a key driver to the success and longevity that our Company has experienced since its origins dating back to the early 1900s. As of December 31, 2020, the Company had 3,261 full time, part-time, and temporary employees. The Company engages over 13 thousand exclusive producing insurance agents, most of whom are classified as independent contractors. In 2020, we increased our employee headcount by 2% and grew our exclusive agency force by 21%.
+
+People, Culture, and Community
+
+At Globe Life, we are united by our mission—To Make Tomorrow Better1 and this starts with our employees and agents. Beyond providing insurance protection for millions of individuals, serving our policyholders and generating financial results for our shareholders, we focus on cultivating a healthy, positive culture and a thriving community within and among our campuses that is inclusive of and attractive for all. Globe Life promotes a diverse work force, where differences are celebrated and inclusiveness is embraced, to better enable our employees to consistently achieve outstanding individual and collective results. Our commitment to diversity starts at the top; of the 9 independent Board members, 56% are women and 22% are ethnic minorities.
+
+
+1Per the Globe Life Employee Handbook, the Globe Life mission statement is "We help families Make Tomorrow Better by working to protect their financial future."
+6
+GL 2020 FORM 10-K
+Table of Contents
+As of December 31, 2020, the Globe Life employees, (excluding agents) are as follows:
+
+Ethnicity	Gender		Generations	White	53 	%		Female	67 	%		Traditionalists (1925-1945)	— 	%	Black or African American	21 			Male	33 			Baby Boomers (1946-1964)	23 		Hispanic or Latino	11 						Gen X (1965-1977)	31 		Asian	9 						Millennials (1978-1995)	41 		American Indian or Alaskan Native	1 						Gen Z (1996-2012)	5 		Native Hawaiian or Pacific Islander	— 								Other or Not Specified	5 								Total	100 	%			100 	%			100 	% 
+
+We conduct a confidential survey biennially to give our employees the opportunity to provide candid feedback about their experiences at the Company, including but not limited to, confidence in the Company and leadership, competitiveness of our compensation and benefit package, and departmental relationships. The results are shared with our employees, reviewed by senior leadership, and used to identify areas for improvement and create action plans based on the employee feedback received.
+
+We also strive To Make Tomorrow Better by supporting the communities in which we live and work through financial and service-based contributions to organizations that address health-related issues and those that serve youth, families and seniors.
+
+Talent Development
+
+At Globe Life, we believe investing in our employees through training and development is paramount to their success. We have developed a learning eco-system that includes a multitude of professional development opportunities, including online, self-directed, and instructor-led courses on a variety of topics. An education assistance program is also offered to facilitate growth in an area related to one's current position with the Company.
+
+Health, Safety, and Wellness
+
+We strive to provide a safe and healthy work environment for every employee. We furnish employees with numerous tools and trainings throughout the year to help ensure they have at their fingertips the best information to safely engage with co-workers, customers, and third parties. In furtherance of our commitment to our employees, we offer a comprehensive employee benefits package that includes competitive monetary benefits, retirement benefits through a Section 401(k) plan and a qualified pension to eligible employees, fitness center reimbursement, paid-time-off (based on years of service), health insurance, dental and vision insurance, employee resource program, health savings and flexible spending accounts, family leave, and tuition assistance.
+
+During the COVID-19 pandemic, the Company remained committed to the well-being and safety of its employees, agents, customers, guests, vendors, and shareholders in our resolve to maintain a stable and secure business environment. In response to the pandemic, our crisis management and incident response teams guided the Company through an expedited, yet smooth, transition towards working remotely. We efficiently transitioned approximately 80-85% of the Company's total workforce, excluding agents, to working remotely. For the agency operations, most sales and recruiting agents transitioned to a virtual experience providing limited in-person exposure.

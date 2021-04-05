@@ -1,0 +1,2432 @@
+GENERAL
+
+Dominion Energy, headquartered in Richmond, Virginia and incorporated in Virginia in 1983, is one of the nation’s largest producers and distributors of energy. Dominion Energy’s strategy is to be a leading sustainable provider of electricity, natural gas and related services to customers primarily in the eastern and Rocky Mountain regions of the U.S. As of December 31, 2020, Dominion Energy’s portfolio of assets includes approximately 30.2 GW of electric generating capacity, 10,500 miles of electric transmission lines, 85,600 miles of electric distribution lines and  94,200 miles of gas distribution mains and related service facilities, which are supported by 6,200 miles of gas transmission, gathering and storage pipeline.  In addition, Dominion Energy owns approximately 2,400 miles of gas transmission, gathering and storage pipeline through entities under agreement to be sold to BHE. As of December 31, 2020, Dominion Energy operates in 16 states and serves more than 7 million customers.
+
+Dominion Energy continues to focus on expanding and improving its regulated and long-term contracted electric and natural gas utility businesses while transitioning to a cleaner energy future. Its growth capital expenditure plan for 2021 through 2025 includes a focus on upgrading the electric system in Virginia through investments in additional renewable generation facilities, strategic undergrounding and energy conservation programs. Renewable generation facilities are expected to include significant investments in utility-scale solar and offshore wind projects. In addition, Dominion Energy is currently seeking license extensions for its regulated nuclear power stations in Virginia. Other drivers for the growth capital plan include renewable natural gas initiatives and the replacement and modernization of gas distribution pipeline. Dominion Energy also plans to continue upgrading its gas and electric transmission and distribution networks while also meeting environmental requirements and standards set by various regulatory bodies.  
+
+Dominion Energy has continued its transition to a more state-regulated earnings mix as evidenced by its capital investments in regulated infrastructure, the SCANA and Dominion Energy Questar Combinations, the partially completed sale of substantially all of its gas transmission and storage operations to BHE and the divestiture of interests in certain nonregulated generating facilities and natural gas gathering and processing investments. Dominion Energy expects approximately 90% of earnings from its primary operating segments to come from state-regulated electric and natural gas utility businesses. Dominion Energy’s nonregulated operations consist of primarily long-term contracted electric generation operations and its investment in Cove Point. Dominion Energy’s operations are conducted through various subsidiaries, including Virginia Power.
+
+In January 2019, Dominion Energy completed the SCANA Combination in a stock-for-stock merger valued at $13.4 billion. SCANA, which operates as a wholly-owned subsidiary of Dominion Energy, is primarily engaged in the generation, transmission and distribution of electricity in the central, southern and southwestern portions of South Carolina and in the distribution of natural gas in North Carolina and South Carolina.  DESC, a wholly-owned subsidiary of SCANA, is consolidated by Dominion Energy and remains an SEC registrant.  However, its Form 10-K is filed separately and is not combined herein.
+
+Virginia Power, headquartered in Richmond, Virginia and incorporated in Virginia in 1909 as a Virginia public service corporation, is a wholly-owned subsidiary of Dominion Energy and a regulated public utility that generates, transmits and distributes electricity for sale in Virginia and North Carolina. In Virginia, Virginia Power conducts business under the name “Dominion Energy Virginia” and primarily serves retail customers. In North Carolina, it conducts business under the name “Dominion Energy North Carolina” and serves retail customers located in the northeastern region of the state, excluding certain municipalities. In addition, Virginia Power sells and transmits electricity at wholesale prices to rural electric cooperatives, municipalities and into wholesale electricity markets. All of Virginia Power’s stock is owned by Dominion Energy.
+
+Amounts and information disclosed for Dominion Energy are inclusive of Virginia Power, where applicable.
+
+WHERE YOU CAN FIND MORE INFORMATION ABOUT THE COMPANIES
+
+The Companies file their annual, quarterly and current reports, proxy statements and other information with the SEC. Their SEC filings are available to the public over the Internet at the SEC’s website at http://www.sec.gov.
+
+The Companies make their SEC filings, including the annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and any amendments to those reports, available, free of charge, through Dominion Energy’s website, http://www.dominionenergy.com, as soon as reasonably practicable after filing or furnishing the material to the SEC. We also make available on the “Investors” page of our website additional information which may be important to investors, such as investor presentations, earnings release kits and other materials and presentations. Information contained on Dominion Energy’s website, including but not limited to reports mentioned in Environmental Strategy, is not incorporated by reference in this report.
+
+10
+
+ 
+
+ACQUISITIONS AND DISPOSITIONS
+
+The following acquisitions and divestitures within the last three years are considered significant to the Companies.
+
+Gas Transmission and Storage Operations
+
+ 
+
+Sales to BHE
+
+ 
+
+In November 2020, Dominion Energy completed the GT&S Transaction with BHE for approximately $2.7 billion in cash proceeds and the assumption by BHE of approximately $5.3 billion of related long-term debt.  
+
+ 
+
+In October 2020, Dominion Energy entered into an agreement for the Q-Pipe Transaction with BHE for $1.3 billion in cash consideration and the assumption by BHE of approximately $430 million of related long-term debt.  This transaction is expected to close in early 2021, contingent on clearance or approval under the Hart-Scott-Rodino Act and other customary closing and regulatory conditions.
+
+ 
+
+See Note 3 to the Consolidated Financial Statements for additional information.
+
+Acquisition of Interest in Atlantic Coast Pipeline and Pivotal LNG, Inc.
+
+ 
+
+In March 2020, Dominion Energy completed the acquisition from Southern to acquire its 5% membership interest in Atlantic Coast Pipeline and its 100% ownership interest in Pivotal LNG, Inc., for $184 million in aggregate, plus certain purchase price adjustments. See Note 9 to the Consolidated Financial Statements for additional information, including the cancellation of the Atlantic Coast Pipeline Project. Pivotal LNG, Inc. was included within the GT&S Transaction and sold to BHE in November 2020.
+
+Purchase of Dominion Energy Midstream Units
+
+ 
+
+In January 2019, Dominion Energy acquired all outstanding partnership interests of Dominion Energy Midstream not owned by Dominion Energy through the issuance of 22.5 million shares of Dominion Energy common stock. See Note 20 to the Consolidated Financial Statements for additional information. Dominion Energy Midstream was included within the GT&S Transaction and sold to BHE in November 2020.
+
+ 
+
+Sale of Interest in Cove Point
+
+In December 2019, Dominion Energy completed the sale of a 25% noncontrolling interest in Cove Point to Brookfield in exchange for cash consideration of $2.1 billion, subject to working capital adjustments.  See Note 3 to the Consolidated Financial Statements for additional information.
+
+ 
+
+In addition, a 25% controlling interest in Cove Point was included within the GT&S Transaction and sold to BHE in November 2020.
+
+SCANA
+
+In January 2019, Dominion Energy and SCANA completed a stock-for-stock merger valued at $13.4 billion, inclusive of SCANA’s outstanding debt, which totaled $6.9 billion at closing. SCANA operates as a wholly-owned subsidiary of Dominion Energy. See Note 3 to the Consolidated Financial Statements for additional information.
+
+
+Electric Generation Facilities
+
+ 
+
+Acquisition of Virginia Power Solar Projects
+
+In 2020, Virginia Power entered into and completed the acquisition of various solar development projects in Virginia. These projects are expected to cost a total of approximately $580 million once constructed, including initial acquisition costs, and generate approximately 282 MW.  
+
+In 2019, Virginia Power entered into agreements to acquire various solar development projects in Virginia, with the acquisitions completed in 2019 and 2020.  These projects are expected to cost a total of approximately $765 million once constructed, including initial acquisition costs, and generate approximately 448 MW combined.  
+
+In 2018, Virginia Power entered into agreements to acquire various solar development projects in North Carolina and Virginia. These projects closed in 2019 with a total cost of $297 million, including initial acquisition costs, and generate 175 MW combined.
+
+See Notes 10 and 13 to the Consolidated Financial Statements for additional information.
+
+11
+
+ 
+
+Acquisition of Nonregulated Solar Projects
+
+In 2020, Dominion Energy entered into agreements and completed the acquisition of various nonregulated solar projects in Ohio, South Carolina and Virginia with one project expected to close in 2022. These projects are expected to cost a total of approximately $730 million once constructed, including the initial acquisition cost, and generate approximately 398 MW combined.  
+
+In 2019, Dominion Energy completed the acquisition of various nonregulated solar projects in North Carolina, South Carolina and Virginia. These projects cost $415 million to construct, including the initial acquisition cost, and generate approximately 242 MW combined.  
+
+See Note 10 to the Consolidated Financial Statements for additional information.
+
+Sale of Certain Nonregulated Generation Facilities
+
+In December 2018, Dominion Energy completed the sale of Fairless and Manchester for total consideration of $1.2 billion, subject to customary closing adjustments. See Note 10 to the Consolidated Financial Statements for additional information.
+
+ 
+
+Equity Method Investments
+
+Acquisition of Interest in Wrangler
+
+In December 2019, Dominion Energy acquired a 20% noncontrolling interest in Wrangler along with $301 million in cash as part of its initial contribution of certain retail energy marketing operations.  In November 2020, Dominion Energy completed the second contribution consisting of certain retail energy natural gas contracts, receiving $74 million in cash and maintaining its 20% noncontrolling interest in Wrangler.  See Note 9 to the Consolidated Financial Statements for additional information.
+
+Sale of Interest in Blue Racer
+
+In December 2018, Dominion Energy completed the sale of its 50% limited partner interest in Blue Racer for total consideration of $1.2 billion. In addition, the purchaser agreed to pay additional consideration contingent upon the achievement of certain financial performance milestones of Blue Racer from 2019 through 2021. See Note 9 to the Consolidated Financial Statements for additional information.
+
+HUMAN CAPITAL
+
+One of Dominion Energy's greatest strengths is its employees and Dominion Energy is committed to providing them with a safe, diverse and inclusive workplace. The ability to attract, develop and retain a diverse workforce is integral to the long-term success of Dominion Energy. At December 31, 2020, Dominion Energy had approximately 17,300 full-time employees, of which approximately 4,700 are subject to collective bargaining agreements, including approximately 6,000 full-time employees at Virginia Power, of which approximately 2,500 are subject to collective bargaining agreements.
+
+Safety is the highest priority of Dominion Energy’s five core values with the fundamental goal to send every employee home safe and sound every day. In 2020, Dominion Energy experienced an OSHA Recordable Rate of 0.41 compared to 0.62 in 2019. These rates reflect Dominion Energy’s dedication to safety when compared to a 2019 BLS Industry Average OSHA Recordable Rate of 2.05. As evidence of Dominion Energy’s commitment to safety, annual incentive plans for all employees, except as restricted by any collective bargaining agreements, include a safety performance measure. Furthermore, Dominion Energy has been proactive in protecting its workforce during the global COVID-19 pandemic by establishing safety protocols, including requirements to wear face coverings and maintain physical distancing as well as new procedures for enhanced cleaning and temperature screening. Dominion Energy also facilitated telecommuting for many employees and expanded paid time off and other benefits to help employees cope with disruptions caused by the pandemic.
+
+Dominion Energy works to recruit, retain and develop the careers of talented individuals who reflect the communities it serves. To cultivate this diversified workforce, Dominion Energy focuses on workforce diversity and inclusion while fostering an environment where employees can utilize their unique strengths, skills, personalities and life experiences. In October 2020, Dominion Energy announced its commitment to increase workforce diversity by 1% annually until it achieves at least 40% diverse representation. During 2020, Dominion Energy increased diverse representation within its workforce from 33.2% to 34.6%. For the purposes of measuring diversity, Dominion Energy includes non-minority female, minority male, minority female and undeclared female. In 2020 and 2019, the percentage of new hires that are diverse was 50% and 45%, respectively. Dominion Energy sponsors eight employee resource groups to support and reinforce its culture of inclusiveness by enabling employees with shared interests and backgrounds to work together to create community, provide networking opportunities and encourage professional development. The employee resource groups are aligned to support various forms of diversity and inclusion, including gender, sexual orientation, gender identity and expression, race, veteran status, age, ability and cultural heritage. To further advance these initiatives, annual incentive plans for all employees, except as restricted by any collective bargaining agreements, include a performance measure for participation in diversity and inclusion training.
+
+12
+
+ 
+
+Dominion Energy attracts and retains its employees by offering competitive compensation and benefits packages, including healthcare, retirement, paid time off, parental leave and other benefits. Dominion Energy also offers a variety of training and development opportunities for all employees with the goal to provide a consistent and progressive approach to training that engages the workforce and fosters a culture of learning. To this end, Dominion Energy offers continuous learning opportunities including tuition assistance programs, professional development resources, access to a career center and a self-guided training program for independent learning as well as leadership development programs. These resources and programs are designed not only to engage and retain talented employees but also to allow Dominion Energy to meet the needs of its customers in an ever-changing industry with a skilled workforce.
+
+OPERATING SEGMENTS
+
+Beginning in September 2020, Dominion Energy manages its daily operations through four primary operating segments: Dominion Energy Virginia, Gas Distribution, Dominion Energy South Carolina and Contracted Assets.  See Note 26 to the Consolidated Financial Statements for a summary description of operations within each of the four primary operating segments.  Dominion Energy also reports a Corporate and Other segment, which includes its corporate, service companies and other functions (including unallocated debt) as well as nonregulated retail energy marketing operations, including Dominion Energy’s noncontrolling interest in Wrangler. Corporate and Other includes specific items attributable to Dominion Energy’s operating segments that are not included in profit measures evaluated by executive management in assessing the operating segments’ performance or in allocating resources. In addition, Corporate and Other includes the net impact of discontinued operations consisting of Dominion Energy’s gas transmission and storage operations as discussed in Note 3 to the Consolidated Financial Statements and its equity investment in Atlantic Coast Pipeline as discussed in Note 9 to the Consolidated Financial Statements.
+
+Virginia Power manages its daily operations through its primary operating segment: Dominion Energy Virginia. It also reports a Corporate and Other segment that primarily includes specific items attributable to its operating segments that are not included in profit measures evaluated by executive management in assessing the segment’s performance or in allocating resources.
+
+While daily operations are managed through the operating segments previously discussed, assets remain wholly-owned by the Companies and their respective legal subsidiaries.
+
+DOMINION ENERGY VIRGINIA
+
+The Dominion Energy Virginia Operating Segment is substantially composed of Virginia Power’s regulated electric transmission, distribution (including customer service) and generation (regulated electric utility and its related energy supply) operations, which serve approximately 2.7 million residential, commercial, industrial and governmental customers in Virginia and North Carolina.
+
+Virginia Power’s growth capital plan includes spending approximately $24 billion from 2021 through 2025 to upgrade or add new transmission lines, distribution lines, substations, and other facilities, as well as maintain existing and construct new generation capacity to meet its renewable generation targets and growing electricity demand within its service territory in order to maintain reliability and regulatory compliance. The proposed infrastructure projects and investment commitments are intended to address both continued customer growth and increases in electricity consumption which are primarily driven by new and larger data center customers, as well as support its Subsequent License Renewal projects as it is seeking 20-year license extensions for the regulated nuclear fleet in Virginia. See Properties and Environmental Strategy for additional information on this and other utility projects.
+
+Virginia Power has also created a ten-year plan to transform its electric grid into a smarter, stronger and greener grid. This plan will address the structural limitations of Virginia Power’s distribution grid in a systematic manner in order to recognize and accommodate fundamental changes and requirements in the energy industry. The objective is to address both customer and system needs by (i) achieving even higher levels of reliability and resiliency against natural and man-made threats, (ii) leveraging technology to enhance the customer experience and improve the operation of the system and (iii) safely and effectively integrating new utility-scale renewable generation and storage as well as customer–level distributed energy resources such as rooftop solar and battery storage. In 2019 and 2020, the Virginia Commission approved portions of this plan.
+
+Revenue provided by electric distribution and generation operations is based primarily on rates established by the Virginia and North Carolina Commissions. Approximately 82% of revenue comes from serving Virginia jurisdictional customers. Base rates for the Virginia jurisdiction are set using a modified cost-of-service rate model, and are generally designed to allow an opportunity to recover the cost of providing utility service and earn a reasonable return on investments used to provide that service. Variability in earnings is driven primarily by changes in rates, weather, customer growth and other factors impacting consumption such as the economy and energy conservation, in addition to operating and maintenance expenditures. Electric operations continue to focus on improving service and experience levels while striving to reduce costs and link investments to operational results. SAIDI performance results, excluding major events, were 146 minutes for the three-year average ending 2020, up from the previous three-year average of 138 minutes.  This increase is primarily due to increased storm activity.
+
+13
+
+ 
+
+Earnings may reflect variations in the timing or nature of expenses as compared to those contemplated in current rates, such as labor and benefit costs, capacity expenses, the timing, duration and costs of scheduled and unscheduled outages as well as certain customers’ ability to choose a generation service provider. The cost of fuel and purchased power is generally collected through fuel cost-recovery mechanisms established by regulators and does not materially impact net income. The cost of new generation facilities is generally recovered through riders in Virginia. Variability in earnings from riders reflects changes in the authorized ROE and the carrying amount of these facilities, which are largely driven by the timing and amount of capital investments, as well as depreciation. See Note 13 to the Consolidated Financial Statements for additional information.
+
+Revenue provided by Virginia Power’s electric transmission operations is based primarily on rates approved by FERC. The profitability of this business is dependent on its ability, through the rates it is permitted to charge, to recover costs and earn a reasonable ROIC. Variability in earnings primarily results from changes in rates and the timing of property additions, retirements and depreciation.
+
+Virginia Power is a member of PJM, an RTO, and its electric transmission facilities are integrated into PJM wholesale electricity markets. Consistent with the increased authority given to NERC by EPACT, Virginia Power is committed to meeting NERC standards, modernizing its infrastructure and maintaining superior system reliability with respect to its electric transmission operations.
+
+Competition
+
+There is no competition for electric distribution service within Virginia Power’s service territory in Virginia and North Carolina and no such competition is currently permitted. Historically, since its electric transmission facilities are integrated into PJM and electric transmission services are administered by PJM, there was no competition in relation to transmission service provided to customers within the PJM region. However, competition from non-incumbent PJM transmission owners for development, construction and ownership of certain transmission facilities in Virginia Power’s service territory is permitted pursuant to Order 1000, subject to state and local siting and permitting approvals. This could result in additional competition to build and own transmission infrastructure in Virginia Power’s service area in the future and could allow Dominion Energy to seek opportunities to build and own facilities in other service territories. Additionally, there is some competition for Virginia Power’s generation operations for Virginia jurisdictional electric utility customers that meet certain size requirements or that currently are purchasing energy from competitive suppliers deemed to be 100% renewable by the Virginia Commission. See Electric under State Regulations in Regulation for more information. Currently, North Carolina does not offer retail choice to electric customers.
+
+Virginia Power’s non-jurisdictional operations are not currently subject to significant competition as the output from these facilities is primarily sold under long-term power purchase agreements with terms generally ranging from 16 to 25 years. However, in the future, such operations may compete with other power generation facilities to serve certain large-scale customers after the power purchase agreements expire.
+
+Regulation
+
+Virginia Power’s electric distribution and generation operations, including the rates it may charge to jurisdictional customers, as well as wholesale electric transmission rates, tariffs and terms of service, are subject to regulation by the Virginia and North Carolina Commissions as well as FERC, the NRC, the EPA, the DOE and the Army Corps of Engineers.  See State Regulations and Federal Regulations in Regulation, Future Issues and Other Matters in Item 7. MD&A and Notes 13 and 23 to the Consolidated Financial Statements for additional information.
+
+14
+
+ 
+
+Properties
+
+ 
+
+For a description of existing facilities see Item 2. Properties.
+
+Virginia Power is developing, financing and constructing new generation capacity as well as seeking license extensions on zero carbon generation facilities to meet its renewable generation targets and growing electricity demand within its service territory. Significant projects under construction or development are set forth below:
+
+•
+
+Virginia Power plans to acquire or construct several solar facilities, including facilities currently under development, totaling approximately 2.2 GW of expected generating capacity and approximately $4.1 billion of investments. See Notes 10 and 13 to the Consolidated Financial Statements for more information.
+
+•
+
+Virginia Power has submitted applications with the NRC for 20-year extensions of its operating licenses at North Anna and Surry. See Nuclear Decommissioning below for more information on these facilities.
+
+•
+
+Virginia Power continues to consider the construction of a third nuclear unit at a site located at North Anna. See Future Issues and Other Matters in Item 7 for more information on this project.
+
+•
+
+Virginia Power is considering the construction of an approximately $2 billion hydroelectric pumped storage facility in Southwest Virginia.
+
+•
+
+Virginia Power has announced an approximately $400 million project to replace approximately 1,250 diesel buses with electric buses at school districts in Virginia by 2026.
+
+•
+
+In November 2018, Virginia Power received approval from the Virginia Commission for its petition seeking a prudency determination as provided in the GTSA with respect to the Coastal Virginia Offshore Wind Pilot project, consisting of two 6 MW wind turbine generators located 27 miles off the coast of Virginia Beach, Virginia in federal waters, and for a CPCN for the generation tie line connecting the generators to shore. This project was placed into service in January 2021 at a cost of approximately $300 million.
+
+•
+
+In September 2019, Virginia Power filed applications with PJM for the Coastal Virginia Offshore Wind Commercial project to interconnect 2,640 MW of wind energy off the coast of Virginia adjacent to the Coastal Virginia Offshore Wind Pilot project. The project is expected to be placed in service by the end of 2026 with total cost of the project estimated at approximately $8 billion.
+
+•
+
+Virginia Power is considering the construction of simple cycle combustion turbines in Virginia for reliability purposes with an expected total cost of approximately $750 million.
+
+Virginia Power continues to invest in transmission projects that are a part of PJM’s RTEP process which focus on reliability improvements and replacement of aging infrastructure. The projects that have been authorized by PJM are expected to result in capital expenditures of approximately $1.5 billion from 2021 through 2025.
+
+Virginia Power is investing in transmission substation physical security and expects to invest an additional $110 million to $160 million through 2025 to strengthen its electrical system to better protect critical equipment, enhance its spare equipment process and create multiple levels of security.
+
+Virginia legislation provides for the recovery of costs, subject to approval by the Virginia Commission, for Virginia Power to move approximately 4,000 miles of electric distribution lines underground. The program is designed to reduce restoration outage time by moving Virginia Power’s most outage-prone overhead distribution lines underground, has an annual investment cap of approximately $175 million and is expected to be completed by 2028. The Virginia Commission has approved four phases of the program encompassing approximately 1,350 miles of converted lines and $545 million in capital spending (with $523 million recoverable through Rider U).
+
+See Note 13 to the Consolidated Financial Statements for more information.
+
+Sources of Energy Supply
+
+Virginia Power uses a variety of fuels to power its electric generation fleet and purchases power for utility system load requirements and to satisfy physical forward sale requirements. Some of these agreements have fixed commitments and are included as contractual obligations in Future Cash Payments for Contractual Obligations and Planned Capital Expenditures in Item 7. MD&A.  
+
+15
+
+ 
+
+Presented below is a summary of Virginia Power’s actual system output by energy source:
+
+ 
+
+Source
+
+ 
+
+2020
+
+ 
+
+ 
+
+2019
+
+ 
+
+ 
+
+2018
+
+ 
+
+ 
+
+Natural gas
+
+ 
+
+ 
+
+48
+
+ 
+
+%
+
+ 
+
+41
+
+ 
+
+%
+
+ 
+
+33
+
+ 
+
+%
+
+Nuclear(1)
+
+ 
+
+ 
+
+32
+
+ 
+
+ 
+
+ 
+
+29
+
+ 
+
+ 
+
+ 
+
+29
+
+ 
+
+ 
+
+Purchased power, net
+
+ 
+
+ 
+
+7
+
+ 
+
+ 
+
+ 
+
+17
+
+ 
+
+ 
+
+ 
+
+19
+
+ 
+
+ 
+
+Coal(2)
+
+ 
+
+ 
+
+9
+
+ 
+
+ 
+
+ 
+
+8
+
+ 
+
+ 
+
+ 
+
+13
+
+ 
+
+ 
+
+Renewable and Hydro(3)
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+Other
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+1
+
+ 
+
+ 
+
+Total
+
+ 
+
+ 
+
+100
+
+ 
+
+%
+
+ 
+
+100
+
+ 
+
+%
+
+ 
+
+100
+
+ 
+
+%
+
+ 
+
+(1)
+
+Excludes ODEC’s 11.6% undivided ownership interest in North Anna.
+
+ 
+
+(2)
+
+Excludes ODEC’s 50.0% undivided ownership interest in the Clover power station.
+
+ 
+
+(3)
+
+Includes solar and biomass.
+
+Nuclear Fuel—Virginia Power primarily utilizes long-term contracts to support its nuclear fuel requirements. Worldwide market conditions are continuously evaluated to ensure a range of supply options at reasonable prices which are dependent on the market environment. Current agreements, inventories and spot market availability are expected to support current and planned fuel supply needs. Additional fuel is purchased as required to ensure optimal cost and inventory levels.
+
+Fossil Fuel— Virginia Power primarily utilizes natural gas and coal in its fossil fuel plants. All recent fossil fuel plant construction involves natural gas generation.
+
+Virginia Power’s natural gas and oil supply is obtained from various sources including purchases from major and independent producers in the Mid-Continent and Gulf Coast regions, purchases from local producers in the Appalachian area and Marcellus and Utica regions, purchases from gas marketers and withdrawals from underground storage fields owned by third parties. Virginia Power manages a portfolio of natural gas transportation contracts (capacity) that provides for reliable natural gas deliveries to its gas turbine fleet, while minimizing costs.
+
+Virginia Power’s coal supply is obtained through long-term contracts and short-term spot agreements from domestic suppliers.
+
+Biomass— Virginia Power’s biomass supply is obtained through long-term contracts and short-term spot agreements from local suppliers.
+
+Purchased Power— Virginia Power purchases electricity from the PJM spot market and through power purchase agreements with other suppliers to provide for utility system load requirements.
+
+ 
+
+Seasonality
+
+Virginia Power’s earnings vary seasonally as a result of the impact of changes in temperature, the impact of storms and other catastrophic weather events, and the availability of alternative sources for heating on demand by residential and commercial customers. Generally, the demand for electricity peaks during the summer and winter months to meet cooling and heating needs, respectively. An increase in heating degree days for Virginia Power’s electric utility-related operations does not produce the same increase in revenue as an increase in cooling degree days, due to seasonal pricing differentials and because alternative heating sources are more readily available.
+
+Nuclear Decommissioning
+
+Virginia Power has a total of four licensed, operating nuclear reactors at Surry and North Anna in Virginia.
+
+Decommissioning involves the decontamination and removal of radioactive contaminants from a nuclear power station once operations have ceased, in accordance with standards established by the NRC. Amounts collected from ratepayers are placed into trusts and are invested to fund the expected future costs of decommissioning the Surry and North Anna units.
+
+Virginia Power believes that the decommissioning funds and their expected earnings for the Surry and North Anna units will be sufficient to cover expected decommissioning costs, particularly when combined with future ratepayer collections and contributions to these decommissioning trusts, if such future collections and contributions are required. This reflects the long-term investment horizon, since the units will not be decommissioned for decades, and a positive long-term outlook for trust fund investment returns. Virginia
+
+16
+
+ 
+
+Power will continue to monitor these trusts to ensure they meet the NRC minimum financial assurance requirements, which may include, if needed, the use of parent company guarantees, surety bonding or other financial instruments recognized by the NRC.
+
+The estimated cost to decommission Virginia Power’s four nuclear units is reflected in the table below and is primarily based upon site-specific studies completed in 2019. These cost studies are generally completed every four to five years. The current cost estimates assume decommissioning activities will begin shortly after cessation of operations, which will occur when the operating licenses expire.
+
+Under the current operating licenses, Virginia Power is scheduled to decommission the Surry and North Anna units during the period 2032 to 2078. NRC regulations allow licensees to apply for extension of an operating license in up to 20-year increments. In 2018, Virginia Power applied for renewal of its operating licenses for an additional 20 years for the two nuclear units at Surry. Under these renewal applications, the two nuclear units will be allowed to generate electricity through 2052 and 2053, if approved. Virginia Power also submitted a license renewal application for the two units at North Anna in 2020. Under these renewal applications, the two nuclear units will be allowed to generate electricity through 2058 and 2060, if approved. Between the four units, Virginia Power estimates that it could spend approximately $3 billion to $4 billion over the next several years on capital improvements. The existing regulatory framework in Virginia provides rate recovery mechanisms for such costs.
+
+The estimated decommissioning costs, funds in trust and current license expiration dates for Surry and North Anna are shown in the following table:
+
+ 
+
+ 
+
+ 
+
+NRC license expiration year
+
+ 
+
+Most recent cost estimate (2020 dollars)(1)
+
+ 
+
+ 
+
+Funds in trusts at December 31, 2020(2)
+
+ 
+
+(dollars in millions)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Surry
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Unit 1
+
+ 
+
+2032
+
+ 
+
+$
+
+818
+
+ 
+
+ 
+
+$
+
+905
+
+ 
+
+Unit 2
+
+ 
+
+2033
+
+ 
+
+ 
+
+809
+
+ 
+
+ 
+
+ 
+
+892
+
+ 
+
+North Anna
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Unit 1(3)
+
+ 
+
+2038
+
+ 
+
+ 
+
+733
+
+ 
+
+ 
+
+ 
+
+722
+
+ 
+
+Unit 2(3)
+
+ 
+
+2040
+
+ 
+
+ 
+
+737
+
+ 
+
+ 
+
+ 
+
+678
+
+ 
+
+Total
+
+ 
+
+ 
+
+ 
+
+$
+
+3,097
+
+ 
+
+ 
+
+$
+
+3,197
+
+ 
+
+(1)
+
+The cost estimates shown above reflect reductions for the expected future recovery of certain spent fuel costs based on Virginia Power’s contracts with the DOE for disposal of spent nuclear fuel consistent with the reductions reflected in Virginia Power’s nuclear decommissioning AROs and includes the expectation that 20-year license extensions are approved for all units.
+
+(2)
+
+Virginia Power did not make any contributions to its nuclear decommissioning trust funds during 2020.
+
+(3)
+
+North Anna is jointly owned by Virginia Power (88.4%) and ODEC (11.6%). However, Virginia Power is responsible for 89.26% of the decommissioning obligation. Amounts reflect 89.26% of the decommissioning cost for both of North Anna’s units.
+
+Also see Notes 9, 14 and 23 to the Consolidated Financial Statements for further information about nuclear decommissioning trust investments, AROs and nuclear decommissioning, respectively.
+
+GAS DISTRIBUTION
+
+The Gas Distribution Operating Segment of Dominion Energy includes Dominion Energy’s regulated natural gas sales, transportation, gathering, storage and distribution operations in Ohio, West Virginia, North Carolina, Utah, southwestern Wyoming and southeastern Idaho (through East Ohio, Hope, PSNC and Questar Gas) which collectively serve approximately 3.1 million residential, commercial and industrial customers. The Gas Distribution Operating Segment also includes nonregulated renewable natural gas facilities in operation and under development, including Dominion Energy’s investment in Align RNG. See Investments below for additional information regarding the Align RNG investment.
+
+Gas Distribution’s growth capital plan includes spending approximately $5 billion from 2021 through 2025 to upgrade existing or add new infrastructure to meet growing energy needs and retain reliability within its service territory as well as investments in renewable natural gas infrastructure projects outside its service territory. Planned capital spending is driven by infrastructure needs from a growing customer base in states with expanding economies, replacing aging assets for reliability, safety and sustainability and meeting demands for natural gas to support the transition from more carbon intensive fuels.
+
+Earnings for the Gas Distribution Operating Segment of Dominion Energy primarily result from rates established by the Ohio, West Virginia, North Carolina, Utah, Wyoming and Idaho Commissions. The profitability of these businesses is dependent on their ability,
+
+17
+
+ 
+
+through the rates they are permitted to charge, to recover costs and earn a reasonable return on their capital investments. Variability in earnings primarily results from changes in operating and maintenance expenditures, as well as changes in rates and the economy.
+
+Competition
+
+Questar Gas and Hope do not currently face direct competition from other distributors of natural gas for residential and commercial customers in their service territories as state regulations in Utah, Wyoming and Idaho for Questar Gas, and West Virginia for Hope, do not allow customers to choose their provider at this time. See State Regulations in Regulation for additional information.
+
+East Ohio offers an Energy Choice program, under which residential customers are encouraged to purchase gas directly from retail suppliers or through a community aggregation program and have it delivered by East Ohio. At December 31, 2020, approximately 1.1 million of East Ohio’s 1.2 million Ohio customers were participating in the Energy Choice program.
+
+Competition in PSNC’s natural gas distribution operations is generally based on price and convenience. Large commercial and industrial customers often have the ability to switch from natural gas to an alternate fuel, such as propane or fuel oil. Natural gas competes with these alternate fuels based on price. As a result, any significant disparity between supply and demand, either of natural gas or of alternate fuels, and due either to production or delivery disruptions or other factors, will affect price and the ability to retain large commercial and industrial customers.  
+
+
+In all of Dominion Energy’s gas service territories, electric utilities offer electricity as a rival energy source and compete for the space heating, water heating and cooking markets. The principal means to compete against alternative fuels is lower prices, and natural gas historically has maintained its price advantage in the residential and commercial markets.  Competition for heating as well as general household and small commercial energy needs generally occurs at the initial installation phase when the customer or builder makes the decision as to which types of equipment to install, as a result customers tend to use their chosen energy source for the life of the equipment.
+
+Regulation
+
+Gas Distribution’s operations, including the rates that it may charge customers, are regulated by the Ohio, West Virginia, North Carolina, Utah, Wyoming and Idaho Commissions as well as PHMSA and the U.S. Department of Transportation.  See Federal Regulations and State Regulations in Regulation for more information.
+
+Properties
+
+For a description of existing facilities see Item 2. Properties.
+
+Dominion Energy has the following significant projects under construction or development to better serve utility customers or expand its service offerings within its utility service territory as well as to support its strategy to achieve net zero emissions.  
+
+East Ohio—In 2008, East Ohio began PIR, aimed at replacing approximately 25% of its pipeline system. In September 2016, the Ohio Commission approved a stipulation filed jointly by East Ohio and the Staff of the Ohio Commission to continue the PIR program and associated cost recovery for another five-year term beginning in 2017, and to permit East Ohio to increase its annual capital expenditures to $200 million by 2018 with a 3% increase per year thereafter subject to the annual cost recovery rate increase caps proposed by East Ohio.  In December 2020, East Ohio filed an application with the Ohio Commission to extend the PIR program for an additional five years with continuation of 3% increases per year.  See Note 13 to the Consolidated Financial Statements for further information.
+
+In 2011, East Ohio began CEP which enables East Ohio to defer depreciation expense, property tax expense and carrying costs on capital investments not covered by its PIR program to expand, upgrade or replace its pipeline system and information technology systems as well as investments necessary to comply with the Ohio Commission or other government regulation.  See Note 13 to the Consolidated Financial Statements for further information.
+
+Questar Gas— In 2010, Questar Gas began replacing aging high pressure infrastructure under a cost-tracking mechanism that allows it to place into rate base and earn a return on capital expenditures associated with a multi-year natural gas infrastructure-replacement program upon the completion of each project. As part of the 2019 base rate case, the Utah Commission approved an annual spending budget of $72 million for the replacement program, to be adjusted annually for inflation.
+
+In 2018, legislation became effective in Utah which is designed to spur economic growth in rural communities without natural gas service. The legislation allows Questar Gas to spend up to $50 million over three years, and up to $125 million over five years, for
+
+18
+
+ 
+
+expansion of distribution facilities to bring natural gas to residential and commercial customers in rural parts of Utah, as approved by the Utah Commission. See Note 13 to Consolidated Financial Statements for more information.
+
+ 
+
+The Utah Commission has provided approval for Questar Gas to construct an LNG storage facility with a liquefaction rate of 8.2 million cubic feet per day.  The project is expected to cost approximately $200 million, excluding financing costs, and is anticipated to be placed into service in late 2022.
+
+ 
+
+PSNC—The North Carolina Commission has authorized PSNC to use a tracker mechanism to recover the incurred capital investment and associated costs of complying with federal standards for pipeline integrity and safety requirements that are not in current base rates. Projected integrity management plan investment, excluding the costs associated with the 2020 project noted below, for the period 2021 to 2023 is expected to be approximately $111 million.
+
+ 
+
+During 2019, construction began on 38 miles of transmission pipeline between Franklinton, North Carolina and Clayton, North Carolina, which will provide the capacity necessary to support the growing natural gas demand in PSNC’s service territory. The project is expected to cost approximately $155 million, excluding financing costs, and is anticipated to be placed into service in 2021.
+
+ 
+
+During 2020, construction began on 11 miles of transmission pipeline in Buncombe County, NC. After an analysis was performed under the integrity management program, the new transmission line was deemed necessary to offset the capacity losses on the existing line due to lower pressure being utilized in order to meet federal safety requirements. The project is expected to cost approximately $55 million and is anticipated to be placed into service in late 2021.
+
+ 
+
+Non-Utility Renewable Natural Gas—In December 2019, Dominion Energy announced the formation of a nationwide partnership with Vanguard Renewables in collaboration with the Dairy Farmers of America to capture methane from dairy farms and convert it into pipeline quality natural gas. Dominion Energy expects to invest $200 million to develop the related assets. During 2020, construction began of a renewable natural gas facility in Greeley, Colorado, expected to cost approximately $70 million, excluding financing costs, and to be placed in service in late 2022.
+
+Investments
+
+ 
+
+Align RNG—In November 2018, Dominion Energy announced the formation of Align RNG, an equal partnership with Smithfield Foods, Inc.  Align RNG expects to invest $500 million to develop assets to capture methane from swine farms across Virginia, North Carolina, Utah, Arizona and California and convert it into pipeline quality natural gas. In July 2020, Align RNG placed its first project, located in Milford, UT, in service and the project produced 11,200 Dths of renewable natural gas through December 31, 2020.
+
+Sources of Energy Supply
+
+Dominion Energy’s natural gas supply is obtained from various sources including purchases from major and independent producers in the Mid-Continent and Gulf Coast regions, local producers in the Appalachian area, gas marketers and, for Questar Gas specifically, from Wexpro and other producers in the Rocky Mountain region. Wexpro’s gas development and production operations serve over half of Questar Gas’ gas supply requirements in accordance with the Wexpro Agreement and the Wexpro II Agreement, comprehensive agreements with the states of Utah and Wyoming.
+
+Seasonality
+
+Gas Distribution’s business earnings vary seasonally as a result of the impact of changes in temperature on demand by residential and commercial customers for gas to meet heating needs. Historically, the majority of these earnings have been generated during the heating season which is generally from November to March; however, implementation of rate mechanisms for transportation services for East Ohio, and gas sales for Questar Gas and PSNC have reduced the earnings impact of weather-related fluctuations.
+
+DOMINION ENERGY SOUTH CAROLINA
+
+The Dominion Energy South Carolina Operating Segment is comprised of DESC’s generation, transmission and distribution of electricity to approximately 758,000 customers in the central, southern and southwestern portions of South Carolina and the distribution of natural gas to approximately 405,000 residential, commercial and industrial customers in South Carolina.
+
+DESC’s growth capital plan includes spending approximately $2 billion from 2021 through 2025 to upgrade existing or add new infrastructure to meet growing energy needs within its service territory and maintain reliability.  
+
+19
+
+ 
+
+Revenue provided by DESC’s electric distribution operations is based primarily on rates established by the South Carolina Commission. Variability in earnings is driven primarily by changes in rates, weather, customer growth and other factors impacting consumption such as the economy and energy conservation, in addition to operating and maintenance expenditures.
+
+DESC’s electric transmission operations serve its electric distribution operations as well as certain wholesale customers. Revenue provided by such electric transmission operations is based on a FERC-approved formula rate mechanism under DESC’s open access transmission tariff or based on retail rates established by the South Carolina Commission.
+
+Revenue provided by DESC’s electric generation operations is primarily derived from the sale of electricity generated by its utility generation assets and is based on rates established by the South Carolina Commission. Variability in earnings may arise when revenues are impacted by factors not reflected in current rates, such as the impact of weather, customer demand or the timing and nature of expenses or outages. Electric operations continue to focus on improving service and experience levels while striving to reduce costs and link investments to operational results. SAIDI performance results, excluding major events, were 87 minutes for the three-year average ending 2020, compared to the previous three-year average of 85 minutes.
+
+Revenue provided by DESC’s natural gas distribution operations primarily results from rates established by the South Carolina Commission. Variability in earnings results from changes in operating and maintenance expenditures, as well as changes in rates and the demand for services, the availability and prices of alternative fuels and the economy.
+
+DESC is a member of the Virginia-Carolinas Reliability Group, one of several geographic divisions within the SERC. The SERC is one of seven regional entities with delegated authority from NERC for the purpose of proposing and enforcing reliability standards approved by NERC.
+
+Competition
+
+There is no competition for electric distribution or generation service within DESC’s retail electric service territory in South Carolina and no such competition is currently permitted. However, competition from third-party owners for development, construction and ownership of certain transmission facilities in DESC’s service territory is permitted pursuant to Order 1000, subject to state and local siting and permitting approvals. This could result in additional competition to build and own transmission infrastructure in DESC’s service area in the future.
+
+Competition in DESC’s natural gas distribution operations is generally based on price and convenience. Large commercial and industrial customers often have the ability to switch from natural gas to an alternate fuel, such as propane or fuel oil. Natural gas competes with these alternate fuels based on price. As a result, any significant disparity between supply and demand, either of natural gas or of alternate fuels, and due either to production or delivery disruptions or other factors, will affect price and the ability to retain large commercial and industrial customers.
+
+Regulation
+
+DESC’s electric distribution service, including the rates it may charge to jurisdictional customers, is subject to regulation by the South Carolina Commission. DESC’s electric generation operations are subject to regulation by the South Carolina Commission, FERC, the NRC, the EPA, the DOE and various other federal, state and local authorities. DESC’s electric transmission service is primarily regulated by FERC and the DOE. DESC’s gas distribution operations are subject to regulation by the South Carolina Commission, as well as PHMSA, the U.S. Department of Transportation and the South Carolina Office of Regulatory Staff for enforcement of federal and state pipeline safety requirements. See State Regulations and Federal Regulations in Regulation for more information.
+
+Properties
+
+For a description of existing facilities see Item 2. Properties.
+
+DESC has the following significant projects under construction or development to better serve customers or expand its service offerings within its service territory:
+
+In 2020, DESC began the upgrade of its electric and gas systems to an AMI whereby smart meters will be installed throughout its service area.  DESC has completed the installation of over 132,000 of the planned 1.1 million smart meters.  This project is estimated to cost approximately $140 million and will be completed in March 2023.
+
+In 2020, DESC continued several electric transmission projects in connection with two new nuclear plants under development by Southern. These transmission projects are required to be in place prior to these plants beginning operations to maintain reliability.
+
+20
+
+ 
+
+These projects, costing approximately $75 million in aggregate, will go into service in phases through 2022.  The first phase of approximately six miles was completed in November 2020 with another phase of approximately 13 miles scheduled to be completed in early 2021.
+
+Sources of Energy Supply
+
+DESC uses a variety of fuels to power its electric generation fleet and purchases power for utility system load requirements. Presented below is a summary of DESC’s actual system output by energy source:
+
+ 
+
+Source
+
+ 
+
+2020
+
+ 
+
+ 
+
+2019
+
+ 
+
+ 
+
+2018(1)
+
+ 
+
+ 
+
+Natural gas
+
+ 
+
+ 
+
+47
+
+ 
+
+%
+
+ 
+
+46
+
+ 
+
+%
+
+ 
+
+37
+
+ 
+
+%
+
+Coal
+
+ 
+
+ 
+
+22
+
+ 
+
+ 
+
+ 
+
+27
+
+ 
+
+ 
+
+ 
+
+35
+
+ 
+
+ 
+
+Nuclear(2)
+
+ 
+
+ 
+
+20
+
+ 
+
+ 
+
+ 
+
+23
+
+ 
+
+ 
+
+ 
+
+20
+
+ 
+
+ 
+
+Renewable and Hydro(3)
+
+ 
+
+ 
+
+11
+
+ 
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+8
+
+ 
+
+ 
+
+Total
+
+ 
+
+ 
+
+100
+
+ 
+
+%
+
+ 
+
+100
+
+ 
+
+%
+
+ 
+
+100
+
+ 
+
+%
+
+(1)
+
+Dominion Energy did not acquire DESC until January 2019.  These amounts represent data obtained as part of the due diligence performed by Dominion Energy prior to the SCANA Combination.
+
+(2)
+
+Excludes Santee Cooper’s 33.3% undivided ownership interest in Summer.
+
+(3)
+
+Includes solar.
+
+Natural gas— DESC purchases natural gas under contracts with producers and marketers on both a short-term and long-term basis at market-based prices. The gas is delivered to South Carolina through firm transportation agreements with various counterparties, which expire between 2021 and 2084.
+
+Coal— DESC primarily obtains coal through short-term and long-term contracts with suppliers located in eastern Kentucky, Tennessee, Virginia and West Virginia. These contracts provide for approximately 2.1 million tons annually. These contracts will expire at various times throughout 2021 and 2022. Spot market purchases may occur when needed or when prices are believed to be favorable.
+
+Nuclear— DESC primarily utilizes long-term contracts to support its nuclear fuel requirements. DESC, for itself and as agent for Santee Cooper, and Westinghouse are parties to a fuel alliance agreement and contracts for fuel fabrication and related services. Under these contracts, DESC supplies enriched products to Westinghouse, who in turn supplies nuclear fuel assemblies for Summer. Westinghouse is DESC’s exclusive provider of such fuel assemblies on a cost-plus basis. The fuel assemblies to be delivered under the contracts are expected to supply the nuclear fuel requirements through 2033.
+
+In addition, DESC has contracts covering its nuclear fuel needs for uranium, conversion services and enrichment services. These contracts have varying expiration dates through 2024. DESC believes that it will be able to renew these contracts as they expire or enter into similar contractual arrangements with other suppliers of nuclear fuel materials and services and that sufficient capacity for nuclear fuel supplies and processing exists to allow for normal operations of its nuclear generating unit. Current agreements, inventories and spot market availability are expected to support current and planned fuel supply needs. Additional fuel is purchased as required to ensure optimal fuel and inventory levels.
+
+Seasonality
+
+DESC’s electric distribution and transmission business earnings vary seasonally as a result of the impact of changes in temperature, the impact of storms and other catastrophic weather events and the availability of alternative sources for heating on demand by residential and commercial customers. Generally, the demand for electricity peaks during the summer and winter months to meet cooling and heating needs, respectively. An increase in heating degree days does not produce the same increase in revenue as an increase in cooling degree days, due to seasonal pricing differentials and because alternative heating sources are more readily available.
+
+21
+
+ 
+
+DESC’s gas distribution and storage business earnings vary seasonally as a result of the impact of changes in temperature on demand by residential and commercial customers for gas to meet heating needs. The majority of these earnings are generated during the heating season, which is generally from November to March; however, South Carolina has certain rate mechanisms designed to reduce the impact of weather-related fluctuations.
+
+Nuclear Decommissioning
+
+DESC has a two-thirds interest in one licensed, operating nuclear reactor at Summer in South Carolina.
+
+Decommissioning involves the decontamination and removal of radioactive contaminants from a nuclear power station once operations have ceased, in accordance with standards established by the NRC. Amounts collected from ratepayers are placed into trusts and are invested to fund the expected future costs of decommissioning Summer.
+
+DESC believes that the decommissioning funds and their expected earnings will be sufficient to cover expected decommissioning costs, particularly when combined with future ratepayer collections and contributions to this trust. DESC will continue to monitor this trust to ensure that it meets the NRC minimum financial assurance requirements, which may include, if needed, the use of Dominion Energy guarantees, surety bonding or other financial instruments recognized by the NRC.
+
+The estimated cost to DESC to decommission its 66.7% ownership in Summer is reflected in the table below and is primarily based upon site-specific studies completed in 2020. These cost studies are generally completed every four to five years. Santee Cooper is responsible for the remaining decommissioning costs, proportionate with its 33.3% ownership in Summer. The cost estimates assume decommissioning activities will begin shortly after cessation of operations, which will occur when the operating license expires. NRC regulations allow licensees to apply for extension of an operating license in up to 20-year increments. DESC is considering an operating license renewal for Summer.
+
+The estimated decommissioning costs, funds in trust and current license expiration dates for Summer are shown in the following table:
+
+ 
+
+ 
+
+NRC license expiration year
+
+ 
+
+Most recent cost estimate (2020 dollars)(1)
+
+ 
+
+ 
+
+Funds in trusts at December 31, 2020(2)
+
+ 
+
+(dollars in millions)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Summer – Unit 1
+
+ 
+
+2042
+
+ 
+
+$
+
+744
+
+ 
+
+ 
+
+$
+
+238
+
+ 
+
+ 
+
+ 
+
+(1)
+
+The cost estimates shown above reflect reductions for the expected future recovery of certain spent fuel costs based on DESC’s contracts with the DOE for disposal of spent nuclear fuel consistent with the reductions reflected in DESC’s nuclear decommissioning AROs and includes the expectation that a 20-year license extension is obtained.
+
+ 
+
+(2)
+
+Excludes any funds held in trust by Santee Cooper.  DESC made contributions of $3 million to its nuclear decommissioning trust funds during 2020.
+
+CONTRACTED ASSETS
+
+The Contracted Assets Operating Segment includes the operations of Millstone, and associated energy marketing and price risk activities, Dominion Energy’s nonregulated long-term contracted renewable electric generation fleet and Dominion Energy’s 50% noncontrolling interest in Cove Point.
+
+Contracted Asset’s growth capital plan includes spending $2 billion from 2021 through 2025 to expand its renewable generation fleet.
+
+The Contracted Assets Operating Segment derives its earnings primarily from Dominion Energy’s nonregulated generation assets, including associated capacity and ancillary services, and from its noncontrolling interest in Cove Point. Variability in earnings provided by Millstone relates to changes in market-based prices received for electricity and capacity as well as the timing, duration and costs of scheduled and unscheduled outages. Approximately half of Millstone’s output is sold under the Millstone 2019 power purchase agreements, which commenced in October 2019. Market-based prices for electricity are largely dependent on commodity prices and the demand for electricity. Capacity prices are dependent upon resource requirements in relation to the supply available (both existing and new) in the forward capacity auctions, which are held approximately three years in advance of the associated delivery year. Dominion Energy manages the electric price volatility of Millstone by hedging a substantial portion of its expected near-term energy sales not subject to the Millstone 2019 power purchase agreements with derivative instruments.
+
+Dominion Energy’s nonregulated generation fleet includes numerous renewable generation facilities, including solar generation in operation or development in ten states, including Virginia. The output of these facilities is sold under long-term power purchase agreements with terms generally ranging from 15 to 25 years. Variability in earnings provided by these assets relates to changes in
+
+22
+
+ 
+
+irradiance levels due to changes in weather. See Notes 3 and 10 to the Consolidated Financial Statements for additional information regarding certain solar projects.
+
+Competition
+
+Contracted Asset’s renewable generation projects are not currently subject to significant competition as the output from these facilities is primarily sold under long-term power purchase agreements with terms generally ranging from 15 to 25 years.  However, in the future, such operations may compete with other power generation facilities to serve certain large-scale customers after the power purchase agreements expire. Competition for the nonregulated fleet is impacted by electricity and fuel prices, new market entrants, construction by others of generating assets and transmission capacity, technological advances in power generation, the actions of environmental and other regulatory authorities and other factors. These competitive factors may negatively impact the nonregulated fleet’s ability to profit from the sale of electricity and related products and services.  
+
+Millstone is dependent on its ability to operate in a competitive environment and does not have a predetermined rate structure that provides for an ROIC. Millstone operates within a functioning RTO and primarily compete on the basis of price. Competitors include other generating assets bidding to operate within the RTO. Millstone competes in the wholesale market with other generators to sell a variety of products including energy, capacity and ancillary services. It is difficult to compare various types of generation given the wide range of fuels, fuel procurement strategies, efficiencies and operating characteristics of the fleet within any given RTO. However, Dominion Energy applies its expertise in operations, dispatch and risk management to maximize the degree to which Millstone is competitive compared to similar assets within the region.
+
+Regulation
+
+Contracted Assets’ generation fleet is subject to regulation by the NRC, the EPA, the DOE, the Army Corps of Engineers and other federal, state and local authorities. See Regulation, Future Issues and Other Matters in Item 7, MD&A and Notes 13 and 23 to the Consolidated Financial Statements for more information.
+
+Properties
+
+For a listing of facilities, see Item 2. Properties.
+
+Dominion Energy plans to acquire or construct certain solar facilities in the Mid-Atlantic and Midwest. See Note 10 to the Consolidated Financial Statements for more information.
+
+Investments
+
+Contracted Assets includes Dominion Energy’s 50% noncontrolling interest in Cove Point.  Cove Point’s gas transportation, LNG import and storage operations, as well as the Liquefaction Facility’s capacity, are contracted primarily under long-term fixed reservation fee agreements. The Liquefaction Facility has a firm contracted capacity for LNG loading onto ships of approximately 4.6 Mtpa (0.66 bcfe/day) under normal operating conditions and after accounting for maintenance downtime. In addition to the operations of the Liquefaction Facility, Cove Point receives revenue from firm fee-based contractual arrangements, including negotiated rates, for its pipeline operations and certain LNG storage and terminalling services as provided for in FERC-approved tariffs. Variability in earnings results from changes in operating and maintenance expenditures, as well as for its FERC-regulated operations any changes in rates and the demand for services.
+
+See Item 2. Properties for a description of Cove Point’s physical assets.
+
+See Note 9 to the Consolidated Financial Statements for further information about Dominion Energy’s equity method investment in Cove Point.
+
+23
+
+ 
+
+Sources of Energy Supply
+
+Contracted Asset’s renewable fleet utilizes solar energy to power its electric generation while Millstone utilizes nuclear fuel, which is acquired primarily through a series of 5-year contracts, to power its electric generation.  In addition, Dominion Energy occasionally purchases electricity from the ISO-NE spot market to satisfy physical forward sale requirements, as described below. Some of these agreements have fixed commitments and are included as contractual obligations in Future Cash Payments for Contractual Obligations and Planned Capital Expenditures in Item 7. MD&A.
+
+Seasonality
+
+Sales of electricity for Contracted Assets are subject to seasonal variation as a result of the weather, partially mitigated by the Millstone 2019 power purchase agreements.
+
+Nuclear Decommissioning
+
+Dominion Energy has two licensed, operating nuclear reactors at Millstone in Connecticut. A third Millstone unit ceased operations before Dominion Energy acquired the power station. In May 2013, Dominion Energy ceased operations at its single Kewaunee unit in Wisconsin and commenced decommissioning activities using the SAFSTOR methodology. The planned decommissioning completion date is 2073, which is within the NRC allowed 60-year window.
+
+As part of Dominion Energy’s acquisition of both Millstone and Kewaunee, it acquired decommissioning funds for the related units. Any funds remaining in Kewaunee’s trust after decommissioning is completed are required to be refunded to Wisconsin ratepayers. Dominion Energy believes that the amounts currently available in the decommissioning trusts and their expected earnings will be sufficient to cover expected decommissioning costs for the Millstone and Kewaunee units. Dominion Energy will continue to monitor these trusts to ensure they meet the NRC minimum financial assurance requirements, which may include, if needed, the use of parent company guarantees, surety bonding or other financial instruments recognized by the NRC. The most recent site-specific studies completed for Millstone and for Kewaunee were performed in 2019 and 2018, respectively.
+
+The estimated decommissioning costs, funds in trust and current license expiration dates for Millstone and Kewaunee are shown in the following table:
+
+ 
+
+ 
+
+NRC license expiration year
+
+ 
+
+Most recent cost estimate (2020 dollars)(1)
+
+ 
+
+ 
+
+Funds in trusts at December 31, 2020(2)
+
+ 
+
+(dollars in millions)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Millstone
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Unit 1(3)
+
+ 
+
+N/A
+
+ 
+
+$
+
+459
+
+ 
+
+ 
+
+$
+
+698
+
+ 
+
+Unit 2
+
+ 
+
+2035
+
+ 
+
+ 
+
+666
+
+ 
+
+ 
+
+ 
+
+940
+
+ 
+
+Unit 3(4)
+
+ 
+
+2045
+
+ 
+
+ 
+
+756
+
+ 
+
+ 
+
+ 
+
+917
+
+ 
+
+Kewaunee
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Unit 1(5)
+
+ 
+
+N/A
+
+ 
+
+ 
+
+584
+
+ 
+
+ 
+
+ 
+
+910
+
+ 
+
+Total
+
+ 
+
+ 
+
+ 
+
+$
+
+2,465
+
+ 
+
+ 
+
+$
+
+3,465
+
+ 
+
+ 
+
+(1)
+
+The cost estimates shown above reflect reductions for the expected future recovery of certain spent fuel costs based on Dominion Energy’s contracts with the DOE for disposal of spent nuclear fuel consistent with the reductions reflected in Dominion Energy’s nuclear decommissioning AROs.
+
+ 
+
+(2)
+
+Dominion Energy did not make any contributions to its nuclear decommissioning trust funds related to Millstone or Kewaunee during 2020.
+
+ 
+
+(3)
+
+Unit 1 permanently ceased operations in 1998, before Dominion Energy’s acquisition of Millstone.
+
+ 
+
+(4)
+
+Millstone Unit 3 is jointly owned by Dominion Energy Nuclear Connecticut, Inc., with a 6.53% undivided interest in Unit 3 owned by Massachusetts Municipal and Green Mountain. Decommissioning cost is shown at Dominion Energy’s ownership percentage. At December 31, 2020, the minority owners held $55 million of trust funds related to Millstone Unit 3 that are not reflected in the table above.
+
+ 
+
+(5)
+
+Permanently ceased operations in 2013.
+
+Also see Notes 14 and 23 to the Consolidated Financial Statements for further information about AROs and nuclear decommissioning, respectively, and Note 9 to the Consolidated Financial Statements for information about nuclear decommissioning trust investments.
+
+24
+
+ 
+
+CORPORATE AND OTHER
+
+Corporate and Other Segment-Virginia Power
+
+Virginia Power’s Corporate and Other segment primarily includes certain specific items attributable to its operating segments that are not included in profit measures evaluated by executive management in assessing the segment’s performance or in allocating resources.
+
+Corporate and Other Segment-Dominion Energy
+
+Dominion Energy’s Corporate and Other segment includes its corporate, service company and other functions (including unallocated debt) as well as nonregulated retail energy marketing operations, including Dominion Energy’s noncontrolling interest in Wrangler. Corporate and Other includes specific items attributable to Dominion Energy’s operating segments that are not included in profit measures evaluated by executive management in assessing the segments’ performance or in allocating resources. In addition, Corporate and Other includes the net impact of discontinued operations consisting of Dominion Energy’s gas transmission and storage operations as discussed in Note 3 to the Consolidated Financial Statements and its equity investment in Atlantic Coast Pipeline as discussed in Note 9 to the Consolidated Financial Statements.
+
+Dominion Energy owns a 20% noncontrolling interest in Wrangler, which was formed in September 2019. Wrangler’s operations,  contributed by Dominion Energy in 2020 and 2019, consist of nonregulated natural gas retail energy marketing business serving customers in Ohio and Georgia as well as other southeastern states in the U.S. Dominion Energy expects to contribute its remaining retail energy marketing operations, primarily serving customers in Pennsylvania, to Wrangler by the end of 2021.
+
+Dominion Energy owns a 53% noncontrolling interest in Atlantic Coast Pipeline.  In July 2020, as a result of the continued permitting delays, growing legal uncertainties and the need to incur significant capital expenditures to maintain project timing before such uncertainties could be resolved, Dominion Energy and Duke Energy announced the cancellation of the Atlantic Coast Pipeline Project.
+
+Dominion Energy Questar Pipeline provides gas transportation and storage services in the Rocky Mountain region of the U.S. These operations are currently presented in held-for-sale and discontinued operations effective July 2020 until closing of the Q-Pipe Transaction with BHE, which is expected in early 2021.
+
+See Notes 3 and 9 to the Consolidated Financial Statements for more information.
+
+REGULATION
+
+The Companies are subject to regulation by various federal, state and local authorities, including the state commissions of Virginia, North Carolina, South Carolina, Ohio, West Virginia, Utah, Wyoming and Idaho, SEC, FERC, EPA, DOE, PHMSA, NRC, Army Corps of Engineers and the U.S. Department of Transportation.
+
+State Regulations
+
+Electric
+
+Virginia Power and DESC’s electric utility retail services are subject to regulation by the Virginia and North Carolina Commissions and the South Carolina Commission, respectively.
+
+Virginia Power and DESC hold CPCNs which authorize them to maintain and operate their electric facilities already in operation and to sell electricity to customers. However, Virginia Power and DESC may not construct generating facilities or large capacity transmission lines without the prior approval of various state and federal government agencies. In addition, the Virginia Commission and the North Carolina Commission regulate Virginia Power’s and the South Carolina Commission regulates DESC’s transactions with affiliates and transfers of certain facilities. The Virginia, North Carolina and South Carolina Commissions also regulate the issuance of certain securities.
+
+Electric Regulation in Virginia
+
+The Regulation Act provides for a cost-of-service rate model and permits Virginia Power to seek recovery of costs for new generation projects, including pumped hydroelectricity generation and storage facilities as well as extensions of operating licenses of nuclear power generation facilities, FERC-approved transmission costs, underground distribution lines, certain environmental compliance, conservation and energy efficiency programs and renewable energy facilities and programs through stand-alone riders, and also contains statutory provisions directing Virginia Power to file annual fuel cost recovery cases with the Virginia Commission.
+
+In March 2018, the GTSA reinstated base rate reviews on a triennial basis other than the 2021 Triennial Review. In the triennial review proceedings, earnings that are more than 70 basis points above the utility’s authorized ROE that might have been refunded to customers and served as the basis for a reduction in future rates, may be reduced by Virginia Commission-approved investment amounts in qualifying solar or wind generation facilities or electric distribution grid transformation projects that Virginia Power elects
+
+25
+
+ 
+
+to include as a CCRO. The legislation declares that electric distribution grid transformation projects are in the public interest and provides that Virginia Power may seek to recover the costs of such projects through a rider if not the subject of a CCRO. Any costs that are the subject of a CCRO may not be recovered in base rates for the service life of the projects and may not be included in base rates in future triennial review proceedings. In any triennial review in which the Virginia Commission determines that the utility’s earnings are more than 70 basis points above its authorized ROE, base rates are subject to reduction prospectively and customer refunds would be due unless the total CCRO elected by the utility equals or exceeds the amount of earnings in excess of the 70 basis points. In the 2021 Triennial Review, any such rate reduction is limited to $50 million.
+
+In April 2020, the VCEA replaced Virginia’s voluntary renewable energy portfolio standard for Virginia Power with a mandatory program setting annual renewable energy portfolio standard requirements based on the percentage of total electric energy sold by Virginia Power, excluding existing nuclear generation and certain new carbon-free resources, reaching 100% by the end of 2045. The VCEA includes related requirements concerning deployment of wind, solar and energy storage resources, as well as provides for certain measures to increase net-metering, including an allocation for low-income customers, incentivizes energy efficiency programs and directs Virginia to participate in a carbon trading program.
+
+See Note 13 to the Consolidated Financial Statements for additional information.
+
+Electric Regulation in North Carolina
+
+Virginia Power’s retail electric base rates in North Carolina are regulated on a cost-of-service/rate-of-return basis subject to North Carolina statutes and the rules and procedures of the North Carolina Commission. North Carolina base rates are set by a process that allows Virginia Power to recover its operating costs and an ROIC. If retail electric earnings exceed the authorized ROE established by the North Carolina Commission, retail electric rates may be subject to review and possible reduction by the North Carolina Commission, which may decrease Virginia Power’s future earnings. Additionally, if the North Carolina Commission does not allow recovery of costs incurred in providing service on a timely basis, Virginia Power’s future earnings could be negatively impacted. Fuel rates are subject to revision under annual fuel cost adjustment proceedings.
+
+Virginia Power’s transmission service rates in North Carolina are regulated by the North Carolina Commission as part of Virginia Power’s bundled retail service to North Carolina customers. See Note 13 to the Consolidated Financial Statements for additional information.
+
+Electric Regulation in South Carolina
+
+DESC’s retail electric base rates in South Carolina are regulated on a cost-of-service/rate-of-return basis subject to South Carolina statutes and the rules and procedures of the South Carolina Commission. South Carolina base rates are set by a process that allows DESC to recover its operating costs and an ROIC. If retail electric earnings exceed the authorized ROE established by the South Carolina Commission, retail electric rates may be subject to review and possible reduction, which may decrease DESC’s future earnings. Additionally, if the South Carolina Commission does not allow recovery of costs incurred in providing service on a timely basis, DESC’s future earnings could be negatively impacted. Fuel costs are reviewed annually by the South Carolina Commission, as required by statute, and fuel rates are subject to revision in these annual fuel proceedings.
+
+DESC offers to its retail electric customers several DSM programs designed to assist customers in reducing their demand for electricity and improving their energy efficiency. DESC submits annual filings to the South Carolina Commission related to these programs. As actual DSM program costs are incurred, they are deferred as regulatory assets and recovered through a rider approved by the South Carolina Commission. The rider also provides for recovery of any net lost revenues and for a shared savings incentive.
+
+Pursuant to the SCANA Merger Approval Order, DESC is recovering capital costs and a return on capital cost rate base related to the NND Project over a 20-year period through a capital cost rider.  The capital cost rider also provides for the return to retail electric customers of certain amounts associated with the NND Project.  Revenue from the capital cost rider component of retail electric rates will continue to decline over the 20-year period as capital cost rate base is reduced.
+
+See Notes 3 and 13 to the Consolidated Financial Statements for additional information.
+
+Gas
+
+Questar Gas and Wexpro’s natural gas development, production, transportation, and distribution services, including the rates it may charge its customers, are regulated by the state commissions of Utah, Wyoming and Idaho. East Ohio’s natural gas distribution services, including the rates it may charge its customers, are regulated by the Ohio Commission. Hope’s natural gas distribution services, including the rates it may charge its customers, are regulated by the West Virginia Commission. DESC and PSNC’s natural
+
+26
+
+ 
+
+gas distribution services, including the rates they may charge their customers, are regulated by the South Carolina Commission and North Carolina Commission, respectively.
+
+Gas Regulation in Utah, Wyoming and Idaho
+
+Questar Gas is subject to regulation of rates and other aspects of its business by the Utah, Wyoming and Idaho Commissions. The Idaho Commission has contracted with the Utah Commission for rate oversight of Questar Gas’ operations in a small area of southeastern Idaho. When necessary, Questar Gas seeks general base rate increases to recover increased operating costs and a fair return on rate base investments. Base rates are set based on the cost-of-service by rate class. Base rates for Questar Gas are designed primarily based on rate design methodology in which the majority of operating costs are recovered through volumetric charges. The volumetric charges for the residential and small commercial customers in Utah and Wyoming are subject to revenue decoupling and adjusted for changes in usage per customer.
+
+Questar Gas makes routine separate filings with the Utah and Wyoming Commissions to reflect changes in the costs of purchased gas. A large portion of these purchased gas costs are subject to rate recovery through the Wexpro Agreement and Wexpro II Agreement. Costs that are expected to be recovered in future rates are deferred as regulatory assets. The purchased gas recovery filings generally cover a prospective twelve-month period. Approved increases or decreases in gas cost recovery rates result in increases or decreases in revenues with corresponding increases or decreases in net purchased gas cost expenses.
+
+The Utah Commission has approved a standalone cost recovery mechanism to recover specified costs and a return for infrastructure projects between general base rate cases.
+
+See Note 13 to the Consolidated Financial Statements for additional information.
+
+Gas Regulation in Ohio
+
+East Ohio is subject to regulation of rates and other aspects of its business by the Ohio Commission. When necessary, East Ohio seeks general base rate increases to recover increased operating costs and a fair return on rate base investments. Base rates are set based on the cost-of-service by rate class. A straight-fixed-variable rate design, in which the majority of operating costs are recovered through a monthly charge rather than a volumetric charge, is utilized to establish rates for a majority of East Ohio’s customers pursuant to a 2008 rate case settlement.
+
+East Ohio makes routine filings with the Ohio Commission to reflect changes in the costs of gas purchased for operational balancing on its system. These purchased gas costs are subject to rate recovery through a mechanism that ensures dollar for dollar recovery of prudently incurred costs. Costs that are expected to be recovered in future rates are deferred as regulatory assets. The rider filings cover unrecovered gas costs plus prospective annual demand costs. Increases or decreases in gas cost rider rates result in increases or decreases in revenues with corresponding increases or decreases in net purchased gas cost expenses.
+
+The Ohio Commission has also approved several stand-alone cost recovery mechanisms to recover specified costs and a return for infrastructure, information technology and integrity or compliance-related projects between general base rate cases.
+
+See Note 13 to the Consolidated Financial Statements for additional information.
+
+Gas Regulation in West Virginia
+
+Hope is subject to regulation of rates and other aspects of its business by the West Virginia Commission. When necessary, Hope seeks general base rate increases to recover increased operating costs and a fair return on rate base investments. Base rates are set based on the cost-of-service by rate class. Base rates for Hope are designed primarily based on rate design methodology in which the majority of operating costs are recovered through volumetric charges.
+
+Hope makes routine separate filings with the West Virginia Commission to reflect changes in the costs of purchased gas. The majority of these purchased gas costs are subject to rate recovery through a mechanism that ensures dollar for dollar recovery of prudently incurred costs. Costs that are expected to be recovered in future rates are deferred as regulatory assets. The purchased gas cost recovery filings generally cover a prospective twelve-month period. Approved increases or decreases in gas cost recovery rates result in increases or decreases in revenues with corresponding increases or decreases in net purchased gas cost expenses.
+
+27
+
+ 
+
+The West Virginia Commission has also approved a stand-alone cost recovery mechanism to recover specified costs and a return for infrastructure projects between general base rate cases.
+
+See Note 13 to the Consolidated Financial Statements for additional information.
+
+Gas Regulation in North Carolina
+
+PSNC is subject to regulation of rates and other aspects of its business by the North Carolina Commission.  When necessary, PSNC seeks general base rate increases to recover increased operating costs and a fair return on rate base investments. Base rates are set based on the cost-of-service by rate class. Base rates for PSNC are designed primarily based on rate design methodology in which the majority of operating costs are recovered through volumetric charges. The volumetric charges for the residential and commercial customers are subject to revenue decoupling and adjusted for changes in usage per customer.
+
+ 
+
+PSNC makes routine separate filings with the North Carolina Commission to reflect changes in the costs of purchased gas.  PSNC’s purchased gas adjustment allows it to recover from customers all prudently incurred gas costs, including transportation costs, and certain related uncollectible expenses. Costs that are expected to be recovered in future rates are deferred as regulatory assets. The purchased gas recovery filings are made periodically to reflect prospective costs and recovery.  Approved increases or decreases in gas cost recovery rates result in increases or decreases in revenues with corresponding increases or decreases in net purchased gas cost expenses.
+
+ 
+
+The North Carolina Commission has also approved a stand-alone cost recovery mechanism to recover specified capital costs and a return for pipeline integrity management infrastructure projects between general base rate cases.
+
+In connection with the SCANA Combination, PSNC agreed not to file an application for a general rate case with the North Carolina Commission before April 2021 other than for rate adjustments as described above.
+
+See Note 13 to the Consolidated Financial Statements for additional information.
+
+Gas Regulation in South Carolina
+
+DESC is subject to regulation of rates and other aspects of its natural gas distribution service by the South Carolina Commission. DESC provides retail natural gas service to customers in areas in which it has received authorization from the South Carolina Commission and in municipalities in which it holds a franchise. DESC’s base rates can be adjusted annually, pursuant to the Natural Gas Rate Stabilization Act, for recovery of costs related to natural gas infrastructure. Base rates are set based on the cost-of-service by rate class approved by the South Carolina Commission in the latest general rate case. Base rates for DESC are based primarily on a rate design methodology in which the majority of operating costs are recovered through volumetric charges. DESC also utilizes a weather normalization adjustment to adjust its base rates during the winter billing months for residential and commercial customers to mitigate the effects of unusually cold or warm weather.
+
+DESC’s natural gas tariffs include a purchased gas adjustment that provides for the recovery of prudently incurred gas costs, including transportation costs. DESC is authorized to adjust its purchased gas rates monthly and makes routine filings with the South Carolina Commission to provide notification of changes in these rates. Costs that are under or over recovered are deferred as regulatory assets or liabilities, respectively, and considered in subsequent purchased gas adjustments. The purchased gas adjustment filings generally cover a prospective twelve-month period. Increases or decreases in purchased gas costs can result in corresponding changes in purchased gas adjustment rates and the revenue generated by those rates. The South Carolina Commission reviews DESC’s gas purchasing policies and practices, including its administration of the purchased gas adjustment, annually.
+
+See Note 13 to the Consolidated Financial Statements for additional information. 
+
+Federal Regulations
+
+Federal Energy Regulatory Commission
+
+Electric
+
+Under the Federal Power Act, FERC regulates wholesale sales and transmission of electricity in interstate commerce by public utilities. Virginia Power purchases and, under its market-based rate authority, sells electricity in the PJM wholesale market and sells electricity to wholesale purchasers in Virginia and North Carolina. Dominion Energy’s nonregulated generators sell electricity in the PJM, CAISO and ISO-NE wholesale markets, and to wholesale purchasers in the states of Virginia, North Carolina, Indiana, Ohio, Connecticut, Tennessee, Georgia, California, South Carolina and Utah, under Dominion Energy’s market-based sales tariffs
+
+28
+
+ 
+
+authorized by FERC or pursuant to FERC authority to sell as a qualified facility. DESC may make wholesale sales at market-based rates outside its balancing authority pursuant to its market-based sales tariff authorized by FERC.  In addition, Virginia Power and DESC have FERC approved tariffs to sell wholesale power at capped rates based on their respective embedded cost of generation. These cost-based sales tariffs could be used to sell to loads within or outside Virginia Power and DESC’s respective service territories. Any such sales are voluntary.
+
+The Companies are subject to FERC’s Standards of Conduct that govern conduct between transmission function employees of interstate gas and electricity transmission providers and the marketing function employees of their affiliates. The rule defines the scope of transmission and marketing-related functions that are covered by the standards and is designed to prevent transmission providers from giving their affiliates undue preferences.
+
+The Companies are also subject to FERC’s affiliate restrictions that (1) prohibit power sales between nonregulated plants and utility plants without first receiving FERC authorization, (2) require the nonregulated and utility plants to conduct their wholesale power sales operations separately, and (3) prohibit utilities from sharing market information with nonregulated plant operating personnel. The rules are designed to prohibit utilities from giving the nonregulated plants a competitive advantage.
+
+EPACT included provisions to create an Electric Reliability Organization, which is required to promulgate mandatory reliability standards governing the operation of the bulk power system in the U.S. FERC has certified NERC as the Electric Reliability Organization and also issued an initial order approving many reliability standards that went into effect in 2007. Entities that violate standards will be subject to fines of up to $1.3 million per day, per violation and can also be assessed non-monetary penalties, depending upon the nature and severity of the violation.
+
+The Companies plan and operate their facilities in compliance with approved NERC reliability requirements. The Companies’ employees participate on various NERC committees, track the development and implementation of standards, and maintain proper compliance registration with NERC’s regional organizations. The Companies anticipate incurring additional compliance expenditures over the next several years because of the implementation of new cybersecurity programs. In addition, NERC has redefined critical assets which expanded the number of assets subject to NERC reliability standards, including cybersecurity assets. NERC continues to develop additional requirements specifically regarding supply chain standards and control centers that impact the bulk electric system. While the Companies expect to incur additional compliance costs in connection with NERC requirements and initiatives, such expenses are not expected to significantly affect results of operations.
+
+In April 2008, FERC granted an application for Virginia Power’s electric transmission operations to establish a forward-looking formula rate mechanism that updates transmission rates on an annual basis and approved an ROE effective as of January 1, 2008. The formula rate is designed to recover the expected revenue requirement for each calendar year and is updated based on actual costs. The FERC-approved formula method, which is based on projected costs, allows Virginia Power to earn a current return on its growing investment in electric transmission infrastructure.
+
+In October 2011, FERC issued an order approving the settlement of DESC’s formula rate that updates transmission rates on an annual basis, including its ROE. The formula rate is designed to recover the expected revenue requirement for the calendar year and is updated annually based on actual costs.  This FERC accepted formula rate enables DESC to earn a return on its investment in electric transmission infrastructure.
+
+Gas
+
+FERC regulates the transportation and sale for resale of natural gas in interstate commerce under the Natural Gas Act of 1938 and the Natural Gas Policy Act of 1978, as amended. Under the Natural Gas Act, FERC has authority over rates, terms and conditions of services performed by Dominion Energy Questar Pipeline.
+
+Dominion Energy’s remaining interstate gas transmission and storage activities, which are currently classified as held for sale, are conducted on an open access basis, in accordance with certificates, tariffs and service agreements on file with FERC and FERC regulations.
+
+Dominion Energy operates in compliance with FERC standards of conduct, which prohibit the sharing of certain non-public transmission information or customer specific data by its interstate gas transmission and storage companies with non-transmission function employees. Pursuant to these standards of conduct, Dominion Energy also makes certain informational postings available on Dominion Energy’s website.
+
+See Note 3 to the Consolidated Financial Statements for a discussion of the Q-Pipe Transaction.
+
+29
+
+ 
+
+Nuclear Regulatory Commission
+
+All aspects of the operation and maintenance of the Companies’ nuclear power stations are regulated by the NRC. Operating licenses issued by the NRC are subject to revocation, suspension or modification, and the operation of a nuclear unit may be suspended if the NRC determines that the public interest, health or safety so requires.
+
+From time to time, the NRC adopts new requirements for the operation and maintenance of nuclear facilities. In many cases, these new regulations require changes in the design, operation and maintenance of existing nuclear facilities. If the NRC adopts such requirements in the future, it could result in substantial increases in the cost of operating and maintaining the Companies’ nuclear generating units. See Note 23 to the Consolidated Financial Statements for further information.
+
+The NRC also requires the Companies to decontaminate their nuclear facilities once operations cease. This process is referred to as decommissioning, and the Companies are required by the NRC to be financially prepared. For information on decommissioning trusts, see Dominion Energy Virginia-Nuclear Decommissioning, Dominion Energy South Carolina-Nuclear Decommissioning, and Contracted Assets-Nuclear Decommissioning above and Notes 3 and 9 to the Consolidated Financial Statements. See Note 23 to the Consolidated Financial Statements for information on spent nuclear fuel.
+
+Safety Regulations
+
+Dominion Energy is also subject to the Pipeline Safety Improvement Act of 2002 and the Pipeline Safety, Regulatory Certainty and Job Creation Act of 2011, which mandate inspections of interstate and intrastate natural gas transmission and storage pipelines, particularly those located in areas of high-density population. Dominion Energy has evaluated its natural gas transmission and storage properties, as required by the U.S. Department of Transportation regulations under these Acts, and has implemented a program of identification, testing and potential remediation activities. These activities are ongoing.
+
+The Companies are subject to a number of federal and state laws and regulations, including Occupational Safety and Health Administration, and comparable state statutes, whose purpose is to protect the health and safety of workers. The Companies have an internal safety, health and security program designed to monitor and enforce compliance with worker safety requirements, which is routinely reviewed and considered for improvement. The Companies believe that they are in material compliance with all applicable laws and regulations related to worker health and safety. Notwithstanding these preventive measures, incidents may occur that are outside of the Companies’ control.
+
+Environmental Regulations
+
+Each of the Companies’ operating segments is subject to substantial laws, regulations and compliance costs with respect to environmental matters. In addition to imposing continuing compliance obligations, these laws and regulations authorize the imposition of significant penalties for noncompliance, including fines, injunctive relief and other sanctions. The cost of complying with applicable environmental laws, regulations and rules is material to the Companies. If compliance expenditures and associated operating costs are not recoverable from customers through regulated rates (in regulated businesses) or market prices (in unregulated businesses), those costs could adversely affect future results of operations and cash flows. The Companies have applied for or obtained the necessary environmental permits for the construction and operation of their facilities. Many of these permits are subject to reissuance and continuing review. For a discussion of significant aspects of these matters, including current and planned capital expenditures relating to environmental compliance required to be discussed in this Item, see Environmental Matters in Future Issues and Other Matters in Item 7. MD&A. Additional information can also be found in Note 23 to the Consolidated Financial Statements.
+
+Global Climate Change
+
+The Companies support a federal climate change program that would provide a consistent, economy-wide approach to addressing this issue. Regardless of federal action, the Companies are reducing their GHG emissions while meeting the growing needs of their customers. In 2020, Virginia enacted the VCEA which addresses climate change matters such as the reduction of GHG emissions and renewable energy portfolio standards. Dominion Energy’s CEO and executive operational leadership within each operating segment are responsible for compliance with the laws and regulations governing environmental matters, including GHG emissions, and Dominion Energy’s Board of Directors receives periodic updates on these matters. See State Regulations—Electric—Electric Regulation in Virginia above, Environmental Strategy below, Environmental Matters in Future Issues and Other Matters in Item 7. MD&A and Note 23 to the Consolidated Financial Statements for information on climate change legislation and regulation.
+
+30
+
+ 
+
+Air
+
+The CAA is a comprehensive program utilizing a broad range of regulatory tools to protect and preserve the nation’s air quality. Regulated emissions include, but are not limited to, carbon, methane, VOC, NOX, other GHGs, mercury, other toxic metals, hydrogen chloride, SO2 and particulate matter. At a minimum, delegated states are required to establish regulatory programs to address all requirements of the CAA. However, states may choose to develop regulatory programs that are more restrictive. Many of the Companies’ facilities are subject to the CAA’s permitting and other requirements.
+
+Water
+
+The CWA is a comprehensive program requiring a broad range of regulatory tools including a permit program to authorize and regulate discharges to surface waters with strong enforcement mechanisms. The CWA and analogous state laws impose restrictions and strict controls regarding discharges of effluent into surface waters and require permits to be obtained from the EPA or the analogous state agency for those discharges. Containment berms and similar structures may be required to help prevent accidental releases. Dominion Energy must comply with applicable CWA requirements at its current and former operating facilities. Stormwater related to construction activities is also regulated under the CWA and by state and local stormwater management and erosion and sediment control laws. From time to time, Dominion Energy’s projects and operations may impact tidal and non-tidal wetlands. In these instances, Dominion Energy must obtain authorization from the appropriate federal, state and local agencies prior to impacting wetlands. The authorizing agency may impose significant direct or indirect mitigation costs to compensate for such impacts to wetlands.
+
+Waste and Chemical Management
+
+Dominion Energy is subject to various federal and state laws and implementing regulations governing the management, storage, treatment, reuse and disposal of waste materials and hazardous substances, including the Resource Conservation and Recovery Act of 1976, CERCLA, the Emergency Planning and Community Right-to-Know Act of 1986 and the Toxic Substances Control Act of 1976. Dominion Energy’s operations and construction activities, including activities associated with oil and gas production and gas storage wells, generate waste. Across Dominion Energy, completion water is disposed at commercial disposal facilities. Produced water is either hauled for disposal, evaporated or injected into company and third-party owned underground injection wells. Wells drilled in tight-gas-sand and shale reservoirs require hydraulic-fracture stimulation to achieve economic production rates and recoverable reserves. The majority of Wexpro’s current and future production and reserve potential is derived from reservoirs that require hydraulic-fracture stimulation to be commercially viable. Currently, all well construction activities, including hydraulic-fracture stimulation and management and disposal of hydraulic fracturing fluids, are regulated by federal and state agencies that review and approve all aspects of gas- and oil-well design and operation.
+
+Protected Species
+
+The ESA and analogous state laws prohibit activities that can result in harm to specific species of plants and animals, as well as impacts to the habitat on which those species depend. In addition to ESA programs, the Migratory Bird Treaty Act of 1918 and Bald and Golden Eagle Protection Act establish broader prohibitions on harm to protected birds. Many of the Companies’ facilities are subject to requirements of the ESA, Migratory Bird Treaty Act of 1918 and Bald and Golden Eagle Protection Act. The ESA and Bald and Golden Eagle Protection Act require potentially lengthy coordination with the state and federal agencies to ensure potentially affected species are protected.  Ultimately, the suite of species protections may restrict company activities to certain times of year, project modifications may be necessary to avoid harm, or a permit may be needed for unavoidable taking of the species.  The authorizing agency may impose mitigation requirements and costs to compensate for harm of a protected species or habitat loss. These requirements and time of year restrictions can result in adverse impacts on project plans and schedules such that the Companies’ businesses may be materially affected.
+
+Other Regulations
+
+Other significant environmental regulations to which the Companies are subject include federal and state laws protecting graves, sacred sites, historic sites and cultural resources, including those of American Indian tribal nations and tribal communities. These can result in compliance and mitigation costs as well as potential adverse effects on project plans and schedules such that the Companies’ businesses may be materially affected.
+
+31
+
+ 
+
+ENVIRONMENTAL STRATEGY
+
+Dominion Energy has set a goal to achieve net zero emissions by 2050. This goal covers carbon and methane emissions from both electric generation and natural gas operations. As part of the net zero commitment, Dominion Energy has specifically committed to cut methane emissions from its natural gas infrastructure operations by 65% by 2030 and by 80% by 2040, in each case relative to 2010 emissions.
+
+To reach net zero emissions, in the near term Dominion Energy is seeking extension of the licenses of its zero-carbon nuclear fleet in Virginia, rapidly expanding wind and solar generation, investing in carbon-beneficial renewable natural gas, expanding its industry-leading methane emissions-reduction programs, and using low-carbon natural gas to support the integration of wind and solar generation facilities into the grid. The strategy to meet these objectives consists of three major elements which will significantly reduce GHG emissions:
+
+•
+
+Clean energy diversity;
+
+•
+
+Innovation and energy infrastructure modernization; and
+
+•
+
+Conservation and energy efficiency.
+
+Over the long term, Dominion Energy’s ability to achieve net zero emissions will require supportive legislative and regulatory policies, advancements in technology, and broader investments across the economy. Dominion Energy will pursue solutions, including pilot programs, of technologies such as large-scale battery storage, carbon capture and storage, small modular reactors and hydrogen if and when they become technologically and economically feasible.
+
+Environmental Justice
+
+Dominion Energy seeks to build partnerships and engage with local communities, stakeholders and customers on environmental issues important to them, including environmental justice considerations such as fair treatment, inclusive involvement and effective communication. Dominion Energy commits to increase inclusiveness of its stakeholder engagement on decisions regarding the siting and operation of energy infrastructure. Dominion Energy strives to include to all people and communities, regardless of race, color, national origin, or income to ensure a diversity of views in our public engagement process.
+
+Transparency
+
+As part of its broader commitment to transparency, Dominion Energy increased its disclosures around carbon and methane emissions. Dominion Energy discloses its environmental commitments, policies and initiatives in a Sustainability and Corporate Responsibility Report as well as a Climate Report in addition to other reports included on Dominion Energy’s dedicated Environmental, Social and Governance website.
+
+Clean Energy Diversity
+
+To achieve its net zero commitment, Dominion Energy is pursuing a diverse mix of cleaner, more efficient and lower-emitting methods of generating and delivering energy, while advancing aggressive voluntary measures to continue dramatically reducing emissions from traditional generation and delivery.
+
+Over the past two decades, Dominion Energy has changed the fuel mix it uses to generate electricity, as well as improved the systems that make up its natural gas operations, to achieve a cleaner future.  In addition to reducing GHG emissions, Dominion Energy’s environmental strategy has also resulted in measurable reductions of other air pollutants such as NOX, SO2 and mercury and reduced the amount of coal ash generated and the amount of water withdrawn. Dominion Energy achieved GHG and other air pollutant reductions by implementing an integrated environmental strategy that addresses electric energy production and delivery and energy management. As part of this strategy, Dominion Energy has retired, or committed to retire, several of its fossil fuel electric generating facilities, including those powered by coal, oil and gas with the replacement of this capacity coming from the development of renewable energy facilities.
+
+Renewable energy is an important component of a diverse and reliable energy mix. Dominion Energy continues to add utility-scale solar capacity and currently has the third largest utility-owned solar fleet in the U.S. with 2.2 GW in operations across 10 states as of December 31, 2020. Dominion Energy also has approximately 2.5 GW of solar generating capacity under development, including agreements for acquisitions of projects, for facilities expected to commence commercial operations in 2021 through 2025 in Virginia, South Carolina and Ohio, representing approximately $4.7 billion of investment. Dominion Energy expects to continue to make
+
+32
+
+ 
+
+significant investments in solar generation to achieve its target of 13.4 GW generating capacity in-service by the end of 2035.  In addition, Dominion Energy is pursuing offshore wind with the 2.6 GW Coastal Virginia Offshore Wind Commercial project, expected to be placed in service by the end of 2026, along with the Coastal Virginia Offshore Wind Pilot project which achieved commercial operation in January 2021.  
+
+Dominion Energy is pursuing renewable natural gas through its investment in Align RNG, which is developing projects to capture and convert methane emissions from swine farms, and Vanguard Renewables in collaboration with the Dairy Farmers of America to develop projects to capture and convert methane emissions from dairy farms across the U.S. Preservation of Dominion Energy’s existing carbon-free baseload nuclear generation is also an important component of Dominion Energy’s GHG emissions reduction strategy. Accordingly, Virginia Power has commenced the process to extend the operating licenses for its four nuclear units at Surry and North Anna.  
+
+See Operating Segments and Item 2. Properties for additional information.
+
+Innovation and Energy Infrastructure Modernization
+
+One of the pillars of Dominion Energy’s net zero strategy is a focus on innovation as way to advance technology and sustainability. This includes investing in and building upon previously proven technology, including large-scale battery storage, hydrogen, advanced nuclear technology and carbon capture technology. Further, Dominion Energy’s growth capital plan from 2021 through 2025 includes a focus on upgrading the electric system in Virginia through investments in additional renewable generation facilities, smart meters, customer information platform, intelligent grid devices and associated control systems, physical and cyber security investments, strategic undergrounding and energy conservation programs. Dominion Energy also plans to upgrade its gas and electric transmission and distribution networks and meet environmental requirements and standards set by various regulatory bodies. These enhancements are aimed at meeting Dominion Energy’s continued goal of providing safe, reliable service while addressing increasing electricity consumption and making Dominion Energy’s system more responsive to customers’ desire to more efficiently manage their energy consumption as well as more adaptive to renewable generation resources and battery technologies.
+
+Dominion Energy has also implemented infrastructure improvements and improved operational practices to reduce the GHG emissions for its natural gas facilities. Dominion Energy is also pursuing the construction or upgrade of regulated infrastructure in its natural gas businesses. Dominion Energy has made voluntary commitments as part of the EPA’s Natural Gas STAR Methane Challenge Program to continue to reduce methane emissions as part of these improvements. Dominion Energy is also a member of the EPA’s voluntary Natural Gas STAR Program, which the entities acquired in the SCANA Combination are expected to join in 2021. In addition, Dominion Energy is a member of the One Future Coalition, an industry group with members pledging to limit methane emissions to below 1% of gas throughput across the entire natural gas value chain.
+
+See Operating Segments for additional information.
+
+Conservation and Energy Efficiency
+
+Conservation and load management play a significant role in meeting the growing demand for electricity and natural gas, while also helping to reduce the environmental footprint of Dominion Energy’s customers.  Dominion Energy offers various efficiency programs designed to reduce energy consumption in Virginia, North Carolina, Ohio, South Carolina, Utah and Wyoming, including programs such as:
+
+ 
+
+•
+
+Energy audits and assessments;
+
+ 
+
+•
+
+Incentives for customers to upgrade or install certain energy efficient measures and/or systems;
+
+ 
+
+•
+
+Weatherization assistance to help income-eligible customers reduce their energy usage;
+
+ 
+
+•
+
+Home energy planning, which provides homeowners with a step-by-step roadmap to efficiency improvements to reduce gas usage; and
+
+ 
+
+•
+
+Rebates for installing high-efficiency equipment.
+
+GHG Emissions
+
+Dominion Energy’s integrated environmental strategy supports a reduction in GHG emissions. Through 2019, Dominion Energy has reduced carbon emissions from its electric generating units (based on ownership percentage) by 57% since 2005 and reduced methane
+
+33
+
+ 
+
+emissions from its natural gas infrastructure operations by 25% since 2010. Dominion Energy’s 2020 emissions data is not yet available. Emissions for fiscal year 2019 include the assets acquired as a part of the SCANA Combination, such as DESC’s electric generation operations and DESC and PSNC’s natural gas operations. Dominion Energy’s 2019 emissions data presented below also includes the operations of gas transmission and distribution operations sold or to be sold to BHE as part of the GT&S Transaction and the Q-Pipe Transaction.
+
+Dominion Energy has been reporting GHG emissions, including carbon, methane, N2O and SF6, from its natural gas infrastructure, electric generation and power delivery operations to the EPA since 2011 under the EPA mandatory GHG Reporting Program. Dominion Energy’s Corporate GHG Inventory used for reporting purposes follows methodologies specified in the EPA’s Mandatory GHG Reporting Rule, 40 Code of Federal Regulations Part 98 for calculating emissions, as well as approved industry protocols. In its annual Corporate GHG Inventory, Dominion Energy also voluntarily includes carbon and methane emission estimates from smaller sources that are not required to be included under the EPA’s mandatory GHG Reporting Program, including smaller electric generation, natural gas compressor stations and other sources. Dominion Energy’s Corporate GHG Inventory also includes emissions sources Dominion Energy voluntarily reports to various programs it participates in. As a result, Dominion Energy’s reported methane emissions in its Corporate GHG Inventory are higher than what is reported to the EPA.
+
+Total CO2 equivalent emissions reported under Dominion Energy’s Corporate GHG Inventory were 36.9 million metric tons in 2019. Reported CO2 equivalent emissions include CO2, CH4, N2O, and SF6 emissions from Dominion Energy’s electric generation operations, electric transmission and distribution operations, and natural gas operations.
+
+ 
+
+•
+
+For Dominion Energy’s electric generation operations, total CO2 equivalent emissions (based on ownership percentage) were 31.9 million metric tons in 2019, including 9.9 million metric tons from DESC and 22.0 million metric tons from Virginia Power.
+
+ 
+
+•
+
+For Dominion Energy’s electric transmission and distribution operations, direct CO2 equivalent emissions were 0.05 million metric tons in 2019.
+
+ 
+
+•
+
+For Dominion Energy’s natural gas assets, total CO2 equivalent emissions were 4.95 million metric tons in 2019.
+
+Dominion Energy’s 2019 GHG emissions as reported under various subparts of the EPA’s Mandatory GHG Reporting Program as of December 31, 2020, are as follows:
+
+Natural Gas Operations – 2019 Emissions
+
+Segment
+
+ 
+
+Subpart W
+
+CH4 Emissions
+
+ 
+
+ 
+
+Subpart C
+
+CH4 Emissions
+
+ 
+
+ 
+
+Subparts W & C
+
+CH4 Emissions
+
+ 
+
+ 
+
+Subparts W & C
+
+CO2 Emissions
+
+ 
+
+ 
+
+Subparts W & C
+
+N2O Emissions
+
+ 
+
+(metric tons)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Distribution
+
+ 
+
+ 
+
+34,735
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+34,735
+
+ 
+
+ 
+
+ 
+
+2,123
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Production
+
+ 
+
+ 
+
+17,168
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+17,168
+
+ 
+
+ 
+
+ 
+
+10,951
+
+ 
+
+ 
+
+ 
+
+0.02
+
+ 
+
+Transmission pipelines
+
+ 
+
+ 
+
+4,576
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4,576
+
+ 
+
+ 
+
+ 
+
+73
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Transmission compressor stations
+
+ 
+
+ 
+
+2,722
+
+ 
+
+ 
+
+ 
+
+12
+
+ 
+
+ 
+
+ 
+
+2,734
+
+ 
+
+ 
+
+ 
+
+650,859
+
+ 
+
+ 
+
+ 
+
+1.22
+
+ 
+
+Gathering and boosting
+
+ 
+
+ 
+
+3,083
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3,083
+
+ 
+
+ 
+
+ 
+
+93,352
+
+ 
+
+ 
+
+ 
+
+0.19
+
+ 
+
+Storage
+
+ 
+
+ 
+
+1,542
+
+ 
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+1,547
+
+ 
+
+ 
+
+ 
+
+261,741
+
+ 
+
+ 
+
+ 
+
+0.49
+
+ 
+
+LNG import/export
+
+ 
+
+ 
+
+111
+
+ 
+
+ 
+
+ 
+
+21
+
+ 
+
+ 
+
+ 
+
+132
+
+ 
+
+ 
+
+ 
+
+1,166,479
+
+ 
+
+ 
+
+ 
+
+2.14
+
+ 
+
+Processing
+
+ 
+
+ 
+
+91
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+91
+
+ 
+
+ 
+
+ 
+
+2,168
+
+ 
+
+ 
+
+ 
+
+0.01
+
+ 
+
+Total
+
+ 
+
+ 
+
+64,028
+
+ 
+
+ 
+
+ 
+
+38
+
+ 
+
+ 
+
+ 
+
+64,066
+
+ 
+
+ 
+
+ 
+
+2,187,746
+
+ 
+
+ 
+
+ 
+
+4.07
+
+ 
+
+34
+
+ 
+
+ 
+
+Electric Generation Operations – 2019 Emissions
+
+Company
+
+ 
+
+Subparts C & D
+
+CO2 Emissions
+
+ 
+
+ 
+
+Subparts C & D
+
+CH4 Emissions
+
+ 
+
+ 
+
+Subparts C & D
+
+N2O Emissions
+
+ 
+
+(metric tons)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Virginia Power(1)
+
+ 
+
+ 
+
+19,051,753
+
+ 
+
+ 
+
+ 
+
+17,096
+
+ 
+
+ 
+
+ 
+
+27,863
+
+ 
+
+DESC
+
+ 
+
+ 
+
+9,855,332
+
+ 
+
+ 
+
+ 
+
+10,239
+
+ 
+
+ 
+
+ 
+
+16,239
+
+ 
+
+Total
+
+ 
+
+ 
+
+28,907,085
+
+ 
+
+ 
+
+ 
+
+27,335
+
+ 
+
+ 
+
+ 
+
+44,102
+
+ 
+
+(1)
+
+Virginia Power totals include biomass, which were not included in the Corporate GHG inventory.
+
+Electric Transmission and Distribution Operations – 2019 Emissions
+
+Company(1)
+
+ 
+
+Subpart DD
+
+SF6 Emissions
+
+ 
+
+ 
+
+Subpart DD
+
+SF6 as CO2 Equivalent Emissions
+
+ 
+
+(metric tons)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Virginia Power
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+38,338
+
+ 
+
+(1)
+
+DESC does not trigger EPA mandatory GHG reporting.
+
+CYBERSECURITY
+
+In an effort to reduce the likelihood and severity of cyber intrusions, the Companies have a comprehensive cybersecurity program designed to protect and preserve the confidentiality, integrity and availability of data and systems, including oversight by the Board of Directors as well as the finance and risk oversight board committee. The Companies are subject to mandatory cybersecurity regulatory requirements, interface regularly with a wide range of external organizations and participate in classified briefings to maintain an awareness of current cybersecurity threats and vulnerabilities. The Companies’ current security posture and regulatory compliance efforts are intended to address the evolving and changing cyber threats. See Item 1A. Risk Factors for additional information. 
+

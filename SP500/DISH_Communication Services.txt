@@ -1,0 +1,647 @@
+DISH Network Corporation was organized in 1995 as a corporation under the laws of the State of Nevada.  We started offering the DISH® branded pay-TV service in March 1996 and started offering retail wireless services in July 2020.  Our common stock is publicly traded on the Nasdaq Global Select Market under the symbol “DISH.”  Our principal executive offices are located at 9601 South Meridian Boulevard, Englewood, Colorado 80112 and our telephone number is (303) 723-1000.
+
+
+DISH Network Corporation is a holding company.  Its subsidiaries operate two primary business segments, Pay-TV and Wireless.  Our Wireless business segment consists of two business units, Retail Wireless and 5G Network Deployment.  
+
+
+Pay-TV
+
+
+We offer pay-TV services under the DISH® brand and the SLING® brand (collectively “Pay-TV” services).  The DISH branded pay-TV service consists of, among other things, FCC licenses authorizing us to use direct broadcast satellite (“DBS”) and Fixed Satellite Service (“FSS”) spectrum, our owned and leased satellites, receiver systems, broadcast operations, customer service facilities, a leased fiber optic network, in-home service and call center operations, and certain other assets utilized in our operations (“DISH TV”).  We also design, develop and distribute receiver systems and provide digital broadcast operations, including satellite uplinking/downlinking, transmission and other services to third-party pay-TV providers.  The SLING branded pay-TV services consist of, among other things, multichannel, live-linear streaming over-the-top (“OTT”) Internet-based domestic, international and Latino video programming services (“SLING TV”).  As of December 31, 2020, we had 11.290 million Pay-TV subscribers in the United States, including 8.816 million DISH TV subscribers and 2.474 million SLING TV subscribers. 
+
+
+Wireless – Retail Wireless
+
+
+As a result of the Boost Mobile Acquisition and the Ting Mobile Acquisition (as defined below), we have entered the retail wireless business.  See Note 6 in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information.  We offer nationwide prepaid and postpaid retail wireless services to subscribers under our Boost Mobile and Ting Mobile brands, as well as a competitive portfolio of wireless devices.  Prepaid wireless subscribers generally pay in advance for monthly access to wireless talk, text, and data services.  Postpaid wireless subscribers generally are qualified to pay after receiving wireless talk, text, and data services.  We are currently operating our retail wireless business unit as a mobile virtual network operator (“MVNO”) while we build our 5G broadband network.  As an MVNO, we depend primarily on T-Mobile US, Inc. (“T-Mobile”) to provide us with network services under the MNSA.  We acquired over 9 million subscribers as a result of the Boost Mobile Acquisition and acquired over 200,000 subscribers as a result of the Ting Mobile Acquisition.  As of December 31, 2020, we had 9.055 million retail wireless subscribers.  
+
+
+1
+
+
+
+Table of Contents
+
+
+Wireless – 5G Network Deployment
+
+
+We have directly invested over $11 billion to acquire certain wireless spectrum licenses and related assets and made over $10 billion in non-controlling investments in certain entities, for a total of over $21 billion.  The $21 billion of investments related to wireless spectrum licenses does not include $6 billion of capitalized interest related to the carrying value of such licenses. See Note 2 in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information on capitalized interest.  We plan to commercialize our wireless spectrum licenses through the completion of the nation’s first cloud-native, Open Radio Access Network (“O-RAN”) based 5G network (our “5G Network Deployment”).  
+
+
+Recent Developments
+
+
+We accounted for the Boost Mobile Acquisition and Ting Mobile Acquisition as business combinations.  The identifiable assets acquired and liabilities assumed were recorded at their preliminary fair values as of the acquisition date and are consolidated into our financial statements.  Our Consolidated Statements of Operations and Comprehensive Income (Loss) includes the results of the Boost Mobile Acquisition from July 1, 2020 and the Ting Mobile Acquisition from August 1, 2020.  See Note 6 in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information.
+
+
+Boost Mobile Acquisition
+
+
+Asset Purchase Agreement
+
+
+On July 26, 2019, we entered into an Asset Purchase Agreement (the “APA”) with T-Mobile and Sprint Corporation (“Sprint” and together with T-Mobile, the “Sellers” and given the consummation of the Sprint- T-Mobile merger, sometimes referred to as “NTM”) to acquire from NTM certain assets and liabilities associated with Sprint’s Boost Mobile and Sprint-branded prepaid mobile services businesses (the “Prepaid Business”) for an aggregate purchase price of $1.4 billion as adjusted for specific categories of net working capital on the closing date (the “Boost Mobile Acquisition”).  Effective July 1, 2020 (the “Closing Date”), upon the terms and subject to the conditions set forth in the APA and in accordance with the Final Judgment (as defined below), we and T-Mobile completed the Boost Mobile Acquisition.
+
+
+In connection with the Boost Mobile Acquisition and the consummation of the Sprint- T-Mobile merger, we, T-Mobile, Sprint, Deutsche Telekom AG (“DT”) and SoftBank Group Corporation (“SoftBank”) came to an agreement with the United States Department of Justice (the “DOJ”) on key terms and approval of the Transaction Agreements (as defined below) and our wireless service business and spectrum.  On July 26, 2019, we, T-Mobile, Sprint, DT and SoftBank  (collectively, the “Defendants”) entered into a Stipulation and Order (the “Stipulation and Order”) with the DOJ binding the Defendants to a Proposed Final Judgment (the “Proposed Final Judgment”) which memorialized the agreement between the DOJ and the Defendants.  The Stipulation and Order and the Proposed Final Judgment were filed in the United States District Court for the District of Columbia (the “District Court”) on July 26, 2019 and on April 1, 2020, the Proposed Final Judgment was entered with the District Court (the Proposed Final Judgment as so entered with the District Court, the “Final Judgment”) and the Sellers consummated the Sprint-T-Mobile merger.
+
+
+The term of the Final Judgment is seven years from the date of its entry with the District Court or five years if the DOJ gives notice that the divestitures, build-outs and other requirements have been completed to its satisfaction.  A Monitoring Trustee has been appointed by the District Court that has the power and authority to monitor the Defendants’ compliance with the Final Judgment and settle disputes among the Defendants regarding compliance with the provisions of the Final Judgment and may recommend action to the DOJ in the event a party fails to comply with the Final Judgment.  See Note 6 in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information on the Stipulation and Order and the Final Judgment, including our build-out commitments. 
+
+
+2
+
+
+
+Table of Contents
+
+Also in connection with the closing of the Boost Mobile Acquisition, we and T-Mobile entered into a transition services agreement under which we will receive certain transitional services (the “TSA”), a master network services agreement for the provision of network services by T-Mobile to us (the “MNSA”), an option agreement entitling us to acquire certain decommissioned cell sites and retail stores of T-Mobile (the “Option Agreement”) and an agreement under which we would purchase all of Sprint’s 800 MHz spectrum licenses, totaling approximately 13.5 MHz of nationwide wireless spectrum for an additional approximately $3.59 billion (the “Spectrum Purchase Agreement” and together with the APA, the TSA, the MNSA and the Option Agreement, the “Transaction Agreements”).  See Note 6 in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information on the Transaction Agreements. 
+
+
+Ting Mobile Acquisition
+
+
+On August 1, 2020, we entered into an asset purchase agreement with Tucows Inc. (“Tucows”) pursuant to which we purchased the assets of Ting Mobile, including over 200,000 Ting Mobile subscribers (the “Ting Mobile Acquisition”).  In addition, we entered into a services agreement pursuant to which Tucows will act as a mobile virtual network enabler for certain of our retail wireless subscribers.  The consideration for the Ting Mobile Acquisition is an earn out provision and the fair value of the earn out provision has been assigned to a customer relationship intangible that is recorded in “Intangible assets, net” with the offset recorded in “Long-term deferred revenue and other long-term liabilities” on our Consolidated Balance Sheets.  See Note 6 in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information.
+
+
+PAY-TV
+
+
+Business Strategy – Pay-TV
+
+
+Our Pay-TV business strategy is to be the best provider of video services in the United States by providing products with the best technology, outstanding customer service, and great value.  We promote our Pay-TV services as providing our subscribers with a better “price-to-value” relationship than those available from other subscription television service providers. 
+
+
+●	Products with the Best Technology.  We offer a wide selection of local and national HD programming and are a technology leader in our industry, offering award-winning DVRs (including our Hopper® whole-home HD DVR), multiple tuner receivers, 1080p and 4K video on demand and external hard drives.  We offer several Sling TV services, including Sling Orange (our single-stream Sling domestic service), Sling Blue (our multi-stream Sling domestic service), Sling International, and Sling Latino, among others, as well as add-on extras, pay-per-view events and a cloud based DVR service. 
+
+●	Outstanding Customer Service.  We strive to provide outstanding customer service by improving the quality of the initial installation of subscriber equipment, improving the reliability of our equipment, better educating our customers about our products and services, and resolving customer problems promptly and effectively when they arise.  
+
+●	Great Value.  We have historically been viewed as the low-cost provider in the pay-TV industry in the United States.  With our DISH TV services, we are currently focused on our brand promise “Tuned into You” and a message of Service, Value and Technology. For example, for certain new and qualifying customers we guarantee our pricing for certain programming packages and equipment for a two-year commitment period.  We also offer a differentiated customer experience with our award winning Hopper Platform that integrates voice control powered by Google Assistant, access to apps including Netflix, Prime Video and You Tube, and the ability to watch live, recorded and On Demand content anywhere with the DISH Anywhere mobile application.  As another example, our Sling Orange service and our Sling Blue service are two of the lowest priced live-linear online streaming services in the industry.
+
+3
+
+
+
+Table of Contents
+
+
+Products and Services – Pay-TV
+
+
+DISH TV services.  We offer a wide selection of video services under the DISH TV brand, with access to hundreds of channels depending on the level of subscription.  Our standard programming packages generally include programming provided by national broadcast networks, local broadcast networks and national and regional cable networks.  We also offer programming packages that include regional and specialty sports channels, premium movie channels and Latino and international programming.  Our Latino and international programming packages allow subscribers to choose from over 340 channels in 26 languages.
+
+
+In addition, we offer our DISH TV subscribers streaming access through DISH On Demand® to thousands of movies and television shows via their TV or Internet-connected devices.
+
+
+Our DISH TV subscribers also have the ability to use dishanywhere.com and our DISH Anywhere mobile applications on Internet-connected devices to view authorized content, search program listings and remotely control certain features of their DVRs.  Dishanywhere.com and our DISH Anywhere mobile applications provide access to thousands of movies and television shows.
+
+
+SLING TV services.  We market our SLING TV services to consumers who do not subscribe to traditional satellite and cable pay-TV services, as well as to current and recent traditional pay-TV subscribers who desire a lower cost alternative.  Our SLING TV services require an Internet connection and are available on multiple streaming-capable devices including streaming media devices, TVs, tablets, computers, game consoles and phones.  We offer SLING domestic, SLING International, and SLING Latino video programming services.  We offer domestic SLING TV services as a single-stream service branded SLING Orange and a multi-stream service branded SLING Blue, which includes, among other things, the ability to stream on up to three devices simultaneously.  We also offer add-on extras, pay-per-view events and a cloud based DVR service.  
+
+
+Distribution Channels – Pay-TV
+
+
+We operate in the consumer market in the United States and use print, radio, television and Internet media, on a local and national basis to motivate potential subscribers to contact DISH TV and SLING TV, visit our websites or contact independent third party retailers.  We often offer our new DISH TV subscribers certain programming at no additional charge and/or promotional pricing during a commitment period.  We often offer our new Sling TV subscribers free trials and/or streaming-capable devices at no additional charge and/or promotional pricing.  
+
+
+While we offer receiver systems and programming through direct sales channels, a meaningful percentage of our gross new DISH TV subscriber activations are generated through independent third parties such as small retailers, direct marketing groups, local and regional consumer electronics stores, nationwide retailers, and telecommunications companies.  In general, we pay these independent third parties a mix of upfront and monthly incentives to solicit orders for our services and provide customer service.  We offer our SLING TV services through direct sales channels and third-party marketing agreements.  
+
+
+We incur significant upfront costs to provide our new DISH TV subscribers with in-home equipment, which most of our new DISH TV subscribers lease from us.  We also incur significant upfront costs to install satellite dishes and receivers in the homes of our new DISH TV subscribers.  
+
+
+4
+
+
+
+Table of Contents
+
+
+Competition – Pay-TV
+
+
+Competition has intensified in recent years as the pay-TV industry has matured.  We and our competitors increasingly must seek to attract a greater proportion of new subscribers from each other’s existing subscriber bases rather than from first-time purchasers of pay-TV services.  We face substantial competition from established pay-TV providers and broadband service providers and increasing competition from companies providing/facilitating the delivery of video content via the Internet to computers, televisions, and other streaming and mobile devices, including wireless service providers.  In recent years, industry consolidation and convergence has created competitors with greater scale and multiple product/service offerings.  These developments, among others, have contributed to intense and increasing competition, and we expect such competition to continue. 
+
+
+Many of our competitors have been especially aggressive by offering discounted programming and services for both new and existing subscribers, including bundled offers combining broadband, video and/or wireless services and other promotional offers.  Certain competitors have been able to subsidize the price of video services with the price of broadband and/or wireless services.  
+
+
+Our Pay-TV services also face increased competition from programmers and other companies who distribute video directly to consumers over the Internet, as well as traditional satellite television providers, cable companies and large telecommunications companies that are increasing their Internet-based video offerings.  We also face competition from providers of video content, many of which are providers of our programming content, that distribute content over the Internet including services with live-linear television programming, as well as single programmer offerings and offerings of large libraries of on-demand content, including in certain cases original content.  These providers include, among others, Netflix, Hulu, Apple, Amazon, Alphabet, Disney, Verizon, AT&T, T-Mobile, ViacomCBS, STARZ, Peacock, Fubo and Philo.  
+
+
+Significant changes in consumer behavior with regard to the means by which consumers obtain video entertainment and information in response to digital media competition could have a material adverse effect on our business, results of operations and financial condition or otherwise disrupt our business.  In particular, consumers have shown increased interest in viewing certain video programming in any place, at any time and/or on any broadband-connected device they choose.  Online content providers may cause our subscribers to disconnect our DISH TV services (“cord cutting”), downgrade to smaller, less expensive programming packages (“cord shaving”) or elect to purchase through these online content providers a certain portion of the services that they would have historically purchased from us, such as pay-per-view movies.
+
+
+For further information see “Item 1A – Risk Factors – Competition and Economic Risks – We face intense and increasing competition from providers of video, broadband and/or wireless services, which may require us to further increase subscriber acquisition and retention spending or accept lower subscriber activations and higher subscriber churn.”
+
+
+RETAIL WIRELESS
+
+
+Business Strategy - Retail Wireless
+
+
+We offer nationwide prepaid and postpaid retail wireless services to subscribers under our Boost Mobile and Ting Mobile brands, as well as a competitive portfolio of wireless devices.  Prepaid wireless subscribers generally pay in advance for monthly access to wireless talk, text, and data services.  Postpaid wireless subscribers are qualified to pay after receiving wireless talk, text, and data services.  We currently operate our retail wireless business unit as an MVNO while we build our 5G broadband network.  As an MVNO, we depend primarily on T-Mobile to provide us with network services under the MNSA.   
+
+
+5
+
+
+
+Table of Contents
+
+Our retail wireless business strategy is to expand our current target segments and profitably grow our subscriber base by acquiring and retaining high quality subscribers while we complete our 5G Network Deployment.  We intend to acquire high quality subscribers by providing competitive offers, increased consumer value and innovative new value-added services that better meet those subscribers’ needs and budget.  We intend on retaining those subscribers through compelling new value-added services and outstanding customer service.  As we work to integrate our retail wireless brands one of our focuses will be to ensure that our Pay-TV subscribers are aware of the increased value available to them through our retail wireless brands.    
+
+
+Products and Services - Retail Wireless
+
+
+Currently, we offer wireless subscribers competitive consumer plans with no annual service contracts and monthly service plans offered range from $10 for 1GB of high-speed data and unlimited talk and text to $60 for unlimited data, talk and text.  We also offer promotional plans, including, among others, three lines for $90 for unlimited data, talk and text.
+
+
+Distribution Channels - Retail Wireless
+
+
+We operate in the consumer market in the United States and use print, radio, television and Internet media, on a local and national basis to motivate potential subscribers to contact Boost Mobile, visit our websites or contact independent third party retailers.
+
+
+We have both an indirect sales channel, which includes third-party owned retail stores and big box stores, and a direct sales channel, which services customers online.  Through the indirect sales channel, we utilize direct distribution partners to facilitate product delivery to the third-party Boost Mobile retailers.  
+
+
+We have relationships with most large manufacturers of wireless devices.  We can incur significant upfront costs to subsidize wireless devices offered under promotional pricing to consumers. 
+
+
+Competition - Retail Wireless
+
+
+Boost Mobile operates within the prepaid wireless space and Ting Mobile operates within the postpaid wireless space.  Retail Wireless is a mature market with moderate year-over-year organic growth.  Competitors include providers who offer similar communication services, such as talk, text and data.  Competitive factors within the wireless communications services industry include pricing, market saturation, service and product offerings, customer experience and service quality.  We compete with a number of national wireless carriers, including Verizon, AT&T and T-Mobile, all of which are significantly larger than us, serve a significant percentage of all wireless subscribers and enjoy scale advantages compared to us.  Verizon, AT&T, and T-Mobile are currently the only nationwide Mobile Network Operators (“MNOs”) in the United States.  Primary competitors to our Retail Wireless business unit include, but are not limited to, Metro PCS (owned by T-Mobile), Cricket Wireless (owned by AT&T), Tracfone Wireless and other MVNOs such as Consumer Cellular and Mint Mobile.  Verizon announced its pending acquisition of Tracfone Wireless in September 2020.  
+
+
+5G NETWORK DEPLOYMENT
+
+
+We have directly invested over $11 billion to acquire certain wireless spectrum licenses and related assets and made over $10 billion in non-controlling investments in certain entities, for a total of over $21 billion.  The $21 billion of investments related to wireless spectrum licenses does not include $6 billion of capitalized interest related to the carrying value of such licenses.  See Note 2 in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information on capitalized interest.
+
+
+6
+
+
+
+Table of Contents
+
+
+DISH Network Spectrum
+
+
+We have directly invested over $11 billion to acquire certain wireless spectrum licenses and related assets.  These wireless spectrum licenses are subject to certain interim and final build-out requirements, as well as certain renewal requirements.  We plan to commercialize our wireless spectrum licenses through the completion of our 5G Network Deployment.  To that end, we have undertaken several key steps including identifying markets to build out, making executive and management hires and entering into agreements with key vendors.  For example, on November 16, 2020, we announced a long-term agreement with Crown Castle pursuant to which Crown Castle will lease us space on up to 20,000 communication towers.  As part of the agreement, we will also receive certain fiber transport services and have the option to utilize Crown Castle for pre-construction services.  During December 2020, we completed a successful field validation, utilizing our fully-virtualized standalone 5G core network and the industry’s first O-RAN compliant radio.  We currently expect expenditures for our 5G Network Deployment to be approximately $10 billion, excluding capitalized interest. 
+
+
+We will need to make significant additional investments or partner with others to, among other things, complete our 5G Network Deployment and further commercialize, build-out and integrate these licenses and related assets and any additional acquired licenses and related assets, as well as to comply with regulations applicable to such licenses.  Depending on the nature and scope of such activities, any such investments or partnerships could vary significantly.  In addition, as we complete our 5G Network Deployment we will incur significant additional expenses and will have to make significant investments related to, among other things, research and development, wireless testing and wireless network infrastructure.  We may also determine that additional wireless spectrum licenses may be required to complete our 5G Network Deployment and to compete with other wireless service providers.  See Note 2 and Note 16 in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information.
+
+
+DISH Network Non-Controlling Investments in the Northstar Entities and the SNR Entities Related to AWS-3 Wireless Spectrum Licenses
+
+
+During 2015, through our wholly-owned subsidiaries American AWS-3 Wireless II L.L.C. (“American II”) and American AWS-3 Wireless III L.L.C. (“American III”), we initially made over $10 billion in certain non-controlling investments in Northstar Spectrum, LLC (“Northstar Spectrum”), the parent company of Northstar Wireless, L.L.C. (“Northstar Wireless,” and collectively with Northstar Spectrum, the “Northstar Entities”), and in SNR Wireless HoldCo, LLC (“SNR HoldCo”), the parent company of SNR Wireless LicenseCo, LLC (“SNR Wireless,” and collectively with SNR HoldCo, the “SNR Entities”), respectively.  On October 27, 2015, the FCC granted certain AWS-3 wireless spectrum licenses (the “AWS-3 Licenses”) to Northstar Wireless and to SNR Wireless, respectively, which are recorded in “FCC authorizations” on our Consolidated Balance Sheets.  
+
+
+Under the applicable accounting guidance in Accounting Standards Codification 810, Consolidation (“ASC 810”), Northstar Spectrum and SNR HoldCo are considered variable interest entities and, based on the characteristics of the structure of these entities and in accordance with the applicable accounting guidance, we consolidate these entities into our financial statements.  See Note 2 in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information.
+
+
+The AWS-3 Licenses are subject to certain interim and final build-out requirements, as well as certain renewal requirements.  The Northstar Entities and/or the SNR Entities may need to raise significant additional capital in the future, which may be obtained from third party sources or from us, so that the Northstar Entities and the SNR Entities may commercialize, build-out and integrate these AWS-3 Licenses, comply with regulations applicable to such AWS-3 Licenses and make any potential Northstar Re-Auction Payment and SNR Re-Auction Payment for the AWS-3 licenses retained by the FCC.  Depending upon the nature and scope of such commercialization, build-out and integration efforts, regulatory compliance, and potential Northstar Re-Auction Payment and SNR Re-Auction Payment, any loans, equity contributions or partnerships could vary significantly.  
+
+
+7
+
+
+
+Table of Contents
+
+There can be no assurance that we will be able to obtain a profitable return on our non-controlling investments in the Northstar Entities and the SNR Entities.  See Note 16 in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information.
+
+
+NEW BUSINESS OPPORTUNITIES
+
+
+From time to time we evaluate opportunities for strategic investments or acquisitions that may complement our current services and products, enhance our technical capabilities, improve or sustain our competitive position, or otherwise offer growth opportunities.
+
+
+GOVERNMENT REGULATIONS
+
+
+Our operations, particularly our Pay-TV operations, our wireless services business and our wireless spectrum licenses are subject to significant government regulation and oversight, primarily by the FCC and, to a certain extent, by Congress, other federal agencies and international, foreign, state and local authorities.  Depending on the circumstances, noncompliance with legislation or regulations promulgated by these authorities could result in limitations on, or the suspension or revocation of, our licenses or registrations, the termination or loss of contracts or the imposition of contractual damages, civil fines or criminal penalties, any of which could have a material adverse effect on our business, financial condition and results of operations.  These governmental authorities could also adopt regulations or take other actions that would adversely affect our business prospects.
+
+
+Furthermore, any government policy changes, which may be substantial, could increase regulatory uncertainty.  The adoption or modification of laws or regulations relating to video programming distribution, satellite services, wireless telecommunications, broadband, the Internet or other areas of our business could limit or otherwise adversely affect the manner in which we currently conduct our business.  In addition, the manner in which regulations or legislation in these areas may be interpreted and enforced cannot be precisely determined, which in turn could have an adverse effect on our business, financial condition and results of operations.
+
+
+Wireless services and our wireless spectrum licenses are subject to regulation by the FCC and, depending on the jurisdiction, other federal, state and local, as well as international, governmental authorities and regulatory agencies, including, among other things, regulations governing the licensing, construction, operation, sale and interconnection arrangements of wireless telecommunications systems.  In particular, the FCC imposes significant regulation on licensees of wireless spectrum with respect to how radio spectrum is used by licensees, the nature of the services that licensees may offer and how the services may be offered, and resolution of issues of interference between spectrum bands.  The FCC grants wireless licenses for terms of generally 10-12 years that are subject to renewal or revocation.  There can be no assurances that our wireless spectrum licenses will be renewed.  Failure to comply with FCC build-out requirements in a given license area may result in acceleration of other build-out requirements or in the modification, cancellation, or non-renewal of licenses.  For further information related to our licenses and build-out requirements related to our wireless spectrum licenses see Note 16 in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K.
+
+
+The following summary of regulatory developments and legislation in the United States is not intended to describe all present and proposed government regulation and legislation affecting the video programming distribution, satellite services, wireless telecommunications, broadband, and Internet industries.  Government regulations that are currently the subject of judicial or administrative proceedings, legislative hearings or administrative proposals could change these industries to varying degrees.  We cannot predict either the outcome of such proceedings or any potential impact they might have on these industries or on our operations.
+
+
+8
+
+
+
+Table of Contents
+
+
+FCC Regulations Governing our Pay-TV Operations
+
+
+FCC Jurisdiction over our DBS Operations.  The Communications Act of 1934, as amended (the “Communications Act”), gives the FCC broad authority to regulate the operations of satellite companies.  Specifically, the Communications Act gives the FCC regulatory jurisdiction over the following areas relating to communications satellite operations:
+
+
+●	the assignment of satellite radio frequencies and orbital locations, the licensing of satellites and earth stations, the granting of related authorizations, and evaluation of the fitness of a company to be a licensee;
+●	approval for the relocation of satellites to different orbital locations or the replacement of an existing satellite with a new satellite;
+●	ensuring compliance with the terms and conditions of such assignments, licenses, authorizations and approvals, including required timetables for construction and operation of satellites;
+●	avoiding interference with other radio frequency emitters; and
+●	ensuring compliance with other applicable provisions of the Communications Act and FCC rules and regulations.
+
+To obtain FCC satellite licenses and authorizations, satellite operators must satisfy strict legal, technical and financial qualification requirements.  Once issued, these licenses and authorizations are subject to a number of conditions including, among other things, satisfaction of ongoing due diligence obligations, construction milestones, and various reporting requirements.  Necessary federal approval of these applications may not be granted, may not be granted in a timely manner, or may be granted subject to conditions that may be cumbersome.
+
+
+Overview of our DBS Satellites, Authorizations and Contractual Rights for Satellite Capacity.  Our satellites are located in orbital positions, or slots, that are designated by their western longitude.  An orbital position describes both a physical location and an assignment of spectrum in the applicable frequency band.  Each DBS orbital position has 500 MHz of available Ku-band spectrum that is divided into 32 frequency channels.  Several of our satellites also include spot-beam technology that enables us to increase the number of markets where we provide local channels, but reduces the number of video channels that could otherwise be offered across the entire United States.
+
+
+The FCC has licensed us to operate a total of 82 DBS frequency channels at the following orbital locations:
+
+
+●	21 DBS frequency channels at the 119 degree orbital location, capable of providing service to the continental United States (“CONUS”); and
+●	29 DBS frequency channels at the 110 degree orbital location, capable of providing service to CONUS; and
+●	32 DBS frequency channels at the 61.5 degree orbital location, capable of providing service to most of the United States – of these 32 channels, 30 are licensed to us and we are authorized to use the additional two channels under a grant of Special Temporary Authority.
+
+In addition, we currently lease or have entered into agreements to lease capacity on satellites using the following spectrum at the following orbital locations:
+
+
+●500 MHz of Ku-band FSS spectrum that is divided into 32 frequency channels at the 118.7 degree orbital location, which is a Canadian FSS slot that is capable of providing service to CONUS, Alaska and Hawaii;
+●	32 DBS frequency channels at the 129 degree orbital location, which is a Canadian DBS slot that is capable of providing service to most of the United States;
+●	24 DBS frequency channels at the 77 degree orbital location, which is a Mexican DBS slot that is capable of providing service to most of the United States and Mexico; and
+●	32 DBS frequency channels at the 72.7 degree orbital location, which is a Canadian DBS slot that is capable of providing service to CONUS.
+9
+
+
+
+Table of Contents
+
+
+We also have month-to-month FSS capacity available from EchoStar on an FSS satellite located at the 121 degree orbital location.
+
+
+Duration of our DBS Licenses.  Generally speaking, all of our satellite licenses are subject to expiration unless renewed by the FCC.  The term of each of our DBS licenses is ten years.  Our licenses are currently set to expire at various times.  In addition, at various times we have relied on special temporary authorizations for our operations.  A special temporary authorization is granted for a period of only 180 days or less, subject again to possible renewal by the FCC.  From time to time, we apply for authorizations to use new satellites at our existing orbital locations.  Generally, our FCC licenses and special temporary authorizations have been renewed, and our applications for new satellites at our existing orbital locations have been approved, by the FCC on a routine basis, but there can be no assurance that the FCC will continue to do so.
+
+
+Opposition and Other Risks to our Licenses.  Several third parties have opposed in the past, and we expect these or other parties to oppose in the future, some of our FCC satellite authorizations and pending and future requests to the FCC for extensions, modifications, waivers and approvals of our licenses.  In addition, we must comply with numerous FCC reporting, filing and other requirements in connection with our satellite authorizations.  Consequently, it is possible the FCC could revoke, terminate, condition or decline to extend or renew certain of our authorizations or licenses.
+
+
+4.5 Degree Spacing “Tweener” Satellites.  The FCC has proposed to allow so-called “tweener” DBS operations – DBS satellites operating at orbital locations 4.5 degrees (half of the usual nine degrees) away from other DBS satellites.  The FCC granted authorizations to EchoStar and Spectrum Five for tweener satellites at the 86.5 and 114.5 degree orbital locations, respectively.  These authorizations were subsequently cancelled because the FCC determined that the licensees did not meet certain milestone requirements.  Tweener operations close to our licensed orbital locations could cause harmful interference to our service and constrain our future operations.  In September 2019, the FCC completed its 2006 rulemaking on the operating and service rules for tweener satellites.  Among other things, the FCC will now accept new applications for tweener slots, and the applicant must show that either no other U.S. DBS operations would be affected or that it has successfully coordinated with affected parties.  We cannot predict whether any parties will file for tweener slots and whether we will face interference or other operational constraints as a result.  
+
+
+Interference from Other Services Sharing Satellite Spectrum.  The FCC has adopted rules that allow non-geostationary orbit (“NGSO”) FSS satellites to operate on a co-primary basis in the same frequency band as our DBS and geostationary orbit (“GSO”) FSS satellites.  The FCC has also authorized the use of multichannel video distribution and data service (“MVDDS”) licenses in the DBS band.  MVDDS licenses were auctioned in 2004.  MVDDS systems have been commercially deployed in a few markets.  We have MVDDS licenses in 82 out of 214 geographical license areas, including Los Angeles, New York City, Chicago and several other major metropolitan areas.  Despite regulatory provisions intended to protect DBS and FSS operations from harmful interference, there can be no assurance that operations by other satellites or terrestrial communication services in the DBS and FSS bands will not interfere with our DBS and FSS operations and adversely affect our business.  Space Exploration Corporation (“Spacex”), OneWeb LLC (“OneWeb”) and others have obtained FCC authority to launch and operate, or provide service from, NGSO satellite systems using a variety of spectrum bands, including the 12.2-12.7 GHz band, which we use for our DBS service, and where we also have certain licenses to provide one-way terrestrial MVDDS service.  If these systems are launched and put into operation, there can be no assurance that they will not interfere with our DBS operations and adversely affect our business or that they will not hinder our ability to provide MVDDS service.
+
+
+10
+
+
+
+Table of Contents
+
+
+Satellite Competition from Additional Slots and Interference.  AT&T, through DirecTV, has obtained FCC authority to provide service to the United States from a Canadian DBS orbital slot, and we have obtained authority to provide service to the United States from both Mexican and Canadian DBS orbital slots.  The possibility that the FCC will allow service to the United States from additional foreign slots may permit additional competition against us from other satellite providers.  It may also provide a means by which to increase our available satellite capacity in the United States.  In addition, a number of administrations, such as Great Britain and the Netherlands, have requested authority to add orbital locations serving the United States close to our licensed slots.  Such operations could cause harmful interference to our satellites and constrain our future operations.
+
+
+Rules Relating to Broadcast Services.  The FCC imposes different rules for “subscription” and “broadcast” services.  We believe that, because our DISH TV services offer a subscription programming service, we are not subject to many of the regulatory obligations imposed upon broadcast licensees.  However, we cannot be certain whether the FCC will find in the future that we must comply with regulatory obligations as a broadcast licensee.  If the FCC determines that we are a broadcast licensee, it could require us to comply with all regulatory obligations imposed upon broadcast licensees, which in certain respects are subject to more burdensome regulation than subscription television service providers.
+
+
+Public Interest Requirements.  The FCC imposes certain public interest obligations on our DBS licenses.  These obligations require us to set aside four percent of our channel capacity exclusively for noncommercial programming for which we must charge programmers below-cost rates and for which we may not impose additional charges on subscribers.  The Satellite Television Extension and Localism Act of 2010 (“STELA”) required the FCC to decrease this set-aside to 3.5 percent for satellite carriers who provide retransmission of state public affairs networks in 15 states and are otherwise qualified.  The FCC, however, has not yet determined whether we qualify for this decrease in set-aside.  The obligation to provide noncommercial programming may displace programming for which we could earn commercial rates and could adversely affect our financial results.  We cannot be sure that, if the FCC were to review our methodology for processing public interest carriage requests, computing the channel capacity we must set aside or determining the rates that we charge public interest programmers, it would find them in compliance with the public interest requirements.
+
+
+Separate Security, Plug and Play.  The STELA Reauthorization Act of 2014 (“STELAR”) ended the “integration ban” that required cable companies to separate security functionality from the other features of their set-top boxes and that required leased cable set-top boxes to include CableCARDs effective December 2015.  Set-top boxes used by DBS providers were not subject to this separate security requirement.  STELAR required the FCC to establish a working group of technical experts to identify and report on downloadable security design options that are not unduly burdensome and that promote competition with respect to the availability of navigation devices.  The working group released a report in August 2015, which declined to offer a consensus recommendation regarding downloadable security design options.  However, we cannot predict whether the FCC will take further action regarding downloadable security.  Also, the FCC adopted the so-called “plug and play” standard for compatibility between digital television sets and cable systems.  That standard was developed through negotiations involving the cable and consumer electronics industries, but not the satellite television industry.  The FCC’s adoption of the standard was accompanied by certain rules regarding copy protection measures that were applicable to us.  We appealed the FCC’s decision regarding the copy protection measures to the United States Court of Appeals for the D.C. Circuit (“D.C. Circuit”) and on January 15, 2013 the D.C. Circuit vacated the FCC’s decision.  The FCC is also considering various proposals to establish two-way digital cable “plug and play” rules.  That proceeding also asks about means to incorporate all pay-TV providers into its “plug and play” rules.  The cable industry and consumer electronics companies have reached a “tru2way” commercial arrangement to resolve many of the outstanding issues in this docket.  We cannot predict whether the FCC will impose rules on our DISH TV operations that are based on cable system architectures or the private cable/consumer electronics tru2way commercial arrangement.  Complying with the separate security and other “plug and play” requirements may not be technically feasible or may require potentially costly modifications to our set-top boxes and operations.  We cannot predict the timing or outcome of this FCC proceeding.
+
+
+11
+
+
+
+Table of Contents
+
+
+In 2016, the FCC adopted a Notice of Proposed Rulemaking regarding possible new regulations that would generally require pay-TV providers, among others, to make their video services operate on third-party devices.  Under the FCC’s proposal, consumers would have the choice of accessing cable and satellite programming through the pay-TV operator’s products and services, or through products and services offered by a third party.  These regulations, if adopted, would have the potential to impose new costs on our DISH TV business by, among other things, requiring us to deploy additional hardware or software to enable our DISH TV services to operate with third-party devices.  In February 2017, the FCC closed this rulemaking proceeding and no regulations were adopted. However, we cannot be certain that the FCC will not open a new proceeding in the future to pursue similar regulations.
+
+
+Retransmission Consent.  The Copyright Act generally gives satellite companies a statutory copyright license to retransmit local broadcast channels by satellite back into the market from which they originated, subject to obtaining the retransmission consent of local network stations that do not elect “must carry” status, as required by the Communications Act.  If we fail to reach retransmission consent agreements with such broadcasters, we cannot carry their signals.  This could have an adverse effect on our strategy to compete with cable and other satellite companies that provide local signals.  While we have been able to reach retransmission consent agreements with most of these local network stations, from time to time there are stations with which we have not been able to reach an agreement.  We cannot be sure that we will secure these agreements or that we will secure new agreements on acceptable terms, or at all, upon the expiration of our current retransmission consent agreements, some of which are short-term.  In recent years, national broadcasters have used their ownership of certain local broadcast stations to require us to carry additional cable programming in exchange for retransmission consent of their local broadcast stations.  These requirements may place constraints on available capacity on our satellites for other programming.  Furthermore, the rates we are charged for retransmitting local channels have been increasing substantially and may exceed our ability to increase our prices to our customers, which could have a material adverse effect on our business, financial condition and results of operations.  In addition, the broadcast stations’ demands for higher rates have resulted in more frequent negotiating impasses and programming interruptions.  During these programming interruptions, our subscribers in the affected markets lack access to popular programming and may switch to another multichannel distributor that may be able to provide them with such programming.
+
+
+In 2015, the FCC commenced a rulemaking proceeding as required by STELAR to review its “totality of circumstances” test for ensuring that television stations and MVPDs negotiate retransmission consent agreements in “good faith.”  In 2016, the Chairman of the FCC announced that the FCC would not proceed at that time to adopt additional rules governing good faith negotiations for retransmission consent.  STELAR prohibits television stations from coordinating or engaging in joint retransmission consent negotiations with any other local television stations, unless the stations are “directly or indirectly under common de jure control,” expanding a previous FCC ruling prohibiting joint negotiations only among the top four stations in a market.  In addition, STELAR prohibits a local television station from limiting an MVPD’s ability to carry other television signals that have been deemed by the FCC to be “significantly viewed” or to carry any other television signal the MVPD is otherwise entitled to carry under the Communications Act, unless such stations are “directly or indirectly under common de jure control” pursuant to FCC regulations.  We cannot predict if these restrictions on broadcasters will result in more effective retransmission consent negotiations.
+
+
+ATSC 3.0.  In April 2016, the broadcast industry petitioned the FCC to authorize the use of the “Next Generation TV” broadcast television standard, ATSC 3.0.  In November 2017, the FCC authorized television broadcasters to deploy the ATSC 3.0 standard on a voluntary basis.  We cannot predict the effect that supporting this new standard could have on equipment costs, carriage obligations or the retransmission consent process.  
+
+
+12
+
+
+
+Table of Contents
+
+Media Ownership Rules.  Also in 2016, the broadcast industry petitioned the FCC to relax its media ownership rules, which, among other things, limit the number of commonly owned TV stations per market and restrict newspaper/broadcast cross-ownership and radio/TV cross-ownership.  In November 2017, the FCC voted to:  (i) eliminate the newspaper/broadcast cross-ownership rule; (ii) eliminate the radio/television cross-ownership rule; (iii) relax the local television ownership rules to eliminate certain restrictions and modify others; and (iv) eliminate the attribution rule for television joint-sales agreements (collectively, the “2017 Order”).  Additionally, in December 2017, the FCC initiated a rulemaking proceeding seeking comment on changes to the national television multiple-ownership rule, including changes that could relax or eliminate the current limits that prevent entities from owning or controlling television stations that, in the aggregate, reach more than 39 percent of the television households in the country.  If the FCC were to relax or eliminate some or all of the national television multiple-ownership rule, it could increase the negotiating leverage that broadcasters hold in retransmission consent negotiations.  In December 2018, the FCC initiated a rulemaking proceeding to commence its periodic review of media ownership rules.  We cannot predict whether the FCC will change any of its media ownership rules or the effect that any changes to the media ownership rules could have on our future retransmission consent negotiations.  In 2019, the U.S.  Court of Appeals for the Third Circuit vacated the 2017 Order.  Pursuant to this decision in Prometheus Radio Project v. FCC, on December 20, 2019 the FCC amended its rules to reverse the 2017 Order and reinstate the rules as they existed prior to the 2017 Order.  The FCC, though, petitioned for a writ of certiorari with the Supreme Court of the United States (the “Supreme Court”) to reverse the Third Circuit’s decision.  The petition for writ of certiorari was granted on October 2, 2020.  Oral arguments occurred on January 19, 2021.  We cannot predict the timing or outcome of the Supreme Court’s review.
+
+
+Digital HD Carry-One, Carry-All Requirement.  To provide any full-power local broadcast signal in any market, we are required to retransmit all qualifying broadcast signals in that market (“carry-one, carry-all”), including the carriage of full-power broadcasters’ HD signals in markets in which we elect to provide local channels in HD.  The carriage of additional HD signals on our DISH TV services could cause us to experience significant capacity constraints and prevent us from carrying additional popular national channels and/or carrying those national channels in HD.
+
+
+Distant Signals.  Pursuant to STELA, we obtained a waiver of a court injunction that previously prevented us from retransmitting certain distant network signals under a statutory copyright license.  Because of that waiver, we may provide distant network signals to eligible subscribers.  To qualify for that waiver, we are required to provide local service in all 210 local markets in the United States on an ongoing basis.  This condition poses a significant strain on our capacity.  Moreover, we may lose that waiver if we are found to have failed to provide local service in any of the 210 local markets.  If we lose the waiver, the injunction could be reinstated.  Furthermore, depending on the severity of the failure, we may also be subject to other sanctions, which may include, among other things, damages.
+
+
+Cable Act and Program Access.  We purchase a large percentage of our programming from cable-affiliated programmers.  Pursuant to the Cable Act, cable providers had been prohibited from entering into exclusive contracts with cable-affiliated programmers.  The Cable Act directed that this prohibition expire after a certain period of time unless the FCC determined that the prohibition continued to be necessary.  On October 5, 2012, the FCC allowed this prohibition to expire.  While the FCC has issued a Further Notice of Proposed Rulemaking aimed at serving some of the same objectives as the prohibition, there can be no assurances that such protections will be adopted or be as effective as the prohibition if they are adopted.  In the event that this decision is reconsidered by the FCC or reviewed by a court of appeals, we cannot predict the timing or outcome of any subsequent FCC decision.
+
+
+As a result of the expiration of this prohibition on exclusivity, we may be limited in our ability to obtain access at all, or on nondiscriminatory terms, to programming from programmers that are affiliated with cable system operators.  In addition, any other changes in the Cable Act, and/or the FCC’s rules that implement the Cable Act, that currently limit the ability of cable-affiliated programmers to discriminate against competing businesses such as ours, could adversely affect our ability to acquire cable-affiliated programming at all or to acquire programming on nondiscriminatory terms.
+
+
+13
+
+
+
+Table of Contents
+
+Furthermore, the FCC had imposed program access conditions on certain cable companies as a result of mergers, consolidations or affiliations with programmers.  The expiration of the exclusivity prohibition in the Cable Act triggered the termination of certain program access conditions that the FCC had imposed on Liberty Media Corporation (“Liberty”).  In July 2012, similar program access conditions that had applied to Time Warner Cable Inc. (“Time Warner Cable”), which was acquired by Charter in 2016, expired as previously scheduled.  These developments may adversely affect our ability to obtain Liberty’s and Charter’s programming, or to obtain it on nondiscriminatory terms.  In the case of certain types of programming affiliated with Comcast through its control of NBCUniversal Media, LLC (“NBCUniversal”), the prohibition on exclusivity expired in January 2018, and we can no longer rely on these protections.  We cannot predict the practical effect of the expiration of these conditions which could have a material adverse effect on our business, results of operations and financial condition or otherwise disrupt our business. 
+
+
+In addition, affiliates of certain cable providers have denied us access to sports programming that they supply to their cable systems terrestrially, rather than by satellite.  The FCC has held that new denials of such service are unfair if they have the purpose or effect of significantly hindering us from providing programming to consumers.  However, we cannot be sure that we can prevail in a complaint related to such programming and gain access to it.  Our continuing failure to access such programming could materially and adversely affect our ability to compete in regions serviced by these cable providers.
+
+
+MDU Exclusivity.  The FCC has found that cable companies should not be permitted to have exclusive relationships with multiple dwelling units (e.g., apartment buildings).  In May 2009, the D.C. Circuit upheld the FCC’s decision.  While the FCC requested comments in November 2007 on whether DBS and Private Cable Operators should be prohibited from having similar relationships with multiple dwelling units, it has yet to make a formal decision.  If the cable exclusivity ban were to be extended to DBS providers, our ability to serve these types of buildings and communities would be adversely affected.  We cannot predict the timing or outcome of the FCC’s consideration of this proposal.
+
+
+Open Internet (also known as “Net Neutrality”).  In 2015, the FCC adopted Open Internet rules, which applied to both fixed and mobile broadband access providers and prohibited them, among other things, from blocking or throttling traffic, from paid prioritization, and from unreasonably interfering with, or disadvantaging, consumers’ or content providers’ access to the Internet.  In addition, because the FCC reclassified broadband access providers as common carriers, these providers were subject to the general common carrier requirements of reasonableness and nondiscrimination.  The rules were affirmed by a panel of the U.S. Court of Appeals for the D.C. Circuit.  A number of broadband access providers and their associations have filed a petition for certiorari with the United States Supreme Court.  In December 2017, the FCC reversed course and voted to reclassify broadband access providers as information service providers, instead of common carriers.  The FCC also voted to eliminate the majority of the Open Internet rules, leaving only certain ISP transparency requirements in place.  In October 2019, the U.S. Court of Appeals for the D.C. Circuit upheld the FCC’s authority to eliminate certain open Internet protections, while vacating the FCC’s attempt to preempt state or local open Internet protections and remanding on three other issues.  We cannot be certain whether the FCC will reinstate any open Internet protections in the future, or whether it will make further attempts to preempt state or local authority to adopt open Internet laws or regulations.
+
+
+To the extent that network operators implement usage-based pricing, including meaningful bandwidth caps, or otherwise try to monetize access to their networks by data providers, we could incur greater operating expenses and our Pay TV subscriber count could be negatively impacted.  Furthermore, to the extent network operators create tiers of Internet access service and either charge us for or prohibit us from being available through these tiers, our Pay TV business could be negatively impacted.  We cannot predict with any certainty the impact to our Pay TV business resulting from changes in how network operators handle and charge for access to data that travels across their networks.  
+
+
+Charter/Time Warner Cable.  In May 2016, the FCC and the Department of Justice approved a merger transaction between Charter, Time Warner Cable, and Advance/Newhouse Partnership.  The FCC conditioned its approval on, among other things, Charter not imposing data caps or usage-based pricing for its residential broadband service and a requirement that Charter provide settlement-free interconnection.  These conditions last for seven years, with Charter having the option after four years to petition to shorten the term to five years.  It is uncertain how these conditions may be interpreted or enforced by the FCC; therefore, we cannot predict the practical effect of these conditions.  In addition, as these conditions are currently set to expire in 2023, we will not be able to rely on these protections beyond that date.
+
+14
+
+
+
+Table of Contents
+
+
+Definition of MVPD.  In December 2014, the FCC issued a Notice of Proposed Rulemaking regarding the definition of an MVPD.  Among other things, the FCC is considering whether the definition of an MVPD should apply to Internet-based streaming services, thus making such services subject to the same regulations as an MVPD.  The FCC is also considering the appropriate treatment of purely Internet-based linear video programming services that cable operators and DBS providers offer in addition to their traditional video services.  We cannot predict the timing or outcome of this rulemaking process.
+
+
+State and Local Regulation
+
+
+We are also regulated by state and local authorities.  While the FCC has preempted many state and local regulations that impair the installation and use of towers and consumer satellite dishes, our business nonetheless may be subject to state and local regulation, including, among others, zoning regulations that affect the ability to install consumer satellite antennas or build out wireless telecommunications networks.
+
+
+International Regulation
+
+
+We are subject to regulation by the International Telecommunication Union (“ITU”).  The orbital location and frequencies for certain of our satellites are subject to the frequency registration and coordination process of the ITU.  The ITU Radio Regulations define the international rules, regulations, and rights for a satellite and associated earth stations to use specific radio frequencies at a specific orbital location.  These rules, which include deadlines for the bringing of satellite networks into use, differ depending on the type of service to be provided and the frequencies to be used by the satellite.  On our behalf, various countries have made and may in the future make additional filings for the frequency assignments at particular orbital locations that are used or to be used by our current satellite networks and potential future satellite networks we may build or acquire.
+
+
+Our satellite services also must conform to the ITU service plans for Region 2 (which includes the United States).  If any of our operations are not consistent with this plan, the ITU will only provide authorization on a non-interference basis pending successful modification of the plan or the agreement of all affected administrations to the non-conforming operations.  Certain of our satellites are not presently entitled to any interference protection from other satellites that are in conformance with the plan.  Accordingly, unless and until the ITU modifies its service plans to include the technical parameters of our non-conforming operations, our non-conforming satellites, along with those of other non-conforming satellite operators, must not cause harmful electrical interference with other assignments that are in conformance with the ITU service plans.
+
+
+Registration in the UN Registry of Space Objects
+
+
+The United States and other jurisdictions in which we license satellites are parties to the United Nations (“UN”) Convention on the Registration of Objects Launched into Outer Space.  The UN Convention requires a satellite’s launching state to register the satellite as a space object with an UN Registry of Space Objects.  The act of registration carries liability for the registering country in the event that the satellite causes third-party damage.  Administrations may place certain requirements on satellite licensees in order to procure the necessary launch or operational authorizations that accompany registration of the satellite.  In some jurisdictions, these authorizations are separate and distinct, with unique requirements, from the authorization to use a set of frequencies to provide satellite services.  There is no guarantee that we will be able to procure such authorizations even if we already possess a frequency authorization.
+
+
+15
+
+
+
+Table of Contents
+
+
+Export Control Regulation
+
+
+The delivery of satellites and related technical information for purposes of launch by foreign launch service providers is subject to export control and prior approval requirements.  We are required to obtain import and export licenses from the United States government to receive and deliver certain components of direct-to-home satellite television systems.  In addition, the delivery of satellites and the supply of certain related ground control equipment, technical services and data, and satellite communication/control services to destinations outside the United States are subject to export control and prior approval requirements from the United States government (including prohibitions on the sharing of certain satellite-related goods and services with China).
+
+
+Regulations Governing our Wireless Operations
+
+
+The FCC regulates several aspects of our wireless operations.  Generally, the FCC has jurisdiction over the construction, operation, acquisition and transfer of wireless communications systems.  All wireless services require use of radio frequency spectrum, the assignment and distribution of which is subject to FCC oversight.  For more information regarding our FCC Licenses, see discussion above and Note 16 in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K.
+
+
+Additionally, the FCC and the Federal Aviation Administration regulate the siting, lighting and construction of transmitter towers and antennae.  Tower siting and construction are also subject to state and local zoning, as well as federal statutes regarding environmental and historic preservation.  The future costs to comply with all relevant regulations are to some extent unknown and changes to regulations, or the applicability of regulations, could result in higher operating and capital expenses, or reduced revenues in the future.  Furthermore,  the FCC has also imposed certain specific mandates on wireless carriers, including construction and geographic coverage requirements, technical operating standards, provision of enhanced 911 services, roaming obligations and requirements for wireless tower and antenna facilities. 
+
+
+The Federal Trade Commission (“FTC”) and other federal agencies also have jurisdiction over some consumer protection and elimination and prevention of anticompetitive business practices with respect to the provision of non-common carrier services.
+
+
+Meanwhile, our 5G Network Deployment will involve significant deployment of certain equipment and therefore increase the need for local permitting processes that allow for the placement of equipment on reasonable timelines and terms.  While the Communications Act generally preempts state and local governments from regulating the entry of, or the rates charged by, wireless communications services providers, certain state and local governments regulate other terms and conditions of wireless service, including billing, termination of service arrangements and the imposition of early termination fees, advertising, network outages, the use of devices while driving, zoning and land use.  The Communications Act also does not prohibit states from regulating the other “terms and conditions” of wireless service.  For example, some states attempt to regulate wireless customer billing matters and impose reporting requirements.  Several states also have laws or regulations that address safety issues (e.g., use of wireless handsets while driving) and taxation matters.  In addition, wireless tower and antenna facilities are often subject to state and local zoning and land use regulation, and securing approvals for new or modified facilities is often a lengthy and expensive process.
+
+
+PATENTS AND OTHER INTELLECTUAL PROPERTY
+
+
+Many entities, including some of our competitors, have or may in the future obtain patents and other intellectual property rights that cover or affect products or services that we offer or that we may offer in the future.  In general, if a court determines that one or more of our products or services infringe intellectual property rights held by others, we may be required to cease developing or marketing those products or services, to obtain licenses from the holders of the intellectual property rights at a material cost, or to redesign those products or services in such a way as to avoid infringing any patent claims.  If those intellectual property rights are held by a competitor, we may be unable to obtain the intellectual property rights at any price, which could adversely affect our competitive position.
+
+16
+
+
+
+Table of Contents
+
+
+We may not be aware of all intellectual property rights that our products or services may potentially infringe.  In addition, patent applications in the United States are confidential until the Patent and Trademark Office either publishes the application or issues a patent (whichever arises first) and, accordingly, our products may infringe claims contained in pending patent applications of which we are not aware.  Further, the process of determining definitively whether a claim of infringement is valid often involves expensive and protracted litigation, even if we are ultimately successful on the merits.
+
+
+We cannot estimate the extent to which we may be required in the future to obtain intellectual property licenses or the availability and cost of any such licenses.  Those costs, and their impact on our results of operations, could be material.  Damages in patent infringement cases can be substantial, and in certain circumstances can be trebled.  To the extent that we are required to pay unanticipated royalties to third parties, these increased costs of doing business could negatively affect our liquidity and operating results.  We are currently defending multiple patent infringement actions.  We cannot be certain the courts will conclude these companies do not own the rights they claim, that our products do not infringe on these rights and/or that these rights are not valid.  Further, we cannot be certain that we would be able to obtain licenses from these persons on commercially reasonable terms or, if we were unable to obtain such licenses, that we would be able to redesign our products to avoid infringement.
+
+
+ENVIRONMENTAL REGULATIONS
+
+
+We are subject to the requirements of federal, state, local and foreign environmental and occupational safety and health laws and regulations.  These include laws regulating air emissions, water discharge and waste management.  We attempt to maintain compliance with all such requirements.  We do not expect capital or other expenditures for environmental compliance to be material in 2021 or 2022.  Environmental requirements are complex, change frequently and have become more stringent over time.  Accordingly, we cannot provide assurance that these requirements will not change or become more stringent in the future in a manner that could have a material adverse effect on our business.
+
+
+SEGMENT REPORTING DATA AND GEOGRAPHIC AREA DATA
+
+
+For segment reporting data and principal geographic area data for 2020, 2019 and 2018, see Note 17 in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K.
+
+
+HUMAN CAPITAL
+
+
+We believe that our future success will depend to a significant extent upon the performance of Charles W. Ergen, our Chairman, and certain other executives.  The loss of Mr. Ergen or of certain other key executives could have a material adverse effect on our business, financial condition and results of operations.  Although all of our executives have executed agreements with certain non-competition restrictions that apply if they leave us, we do not have employment agreements with any of them.  
+
+
+We believe that our wireless business, including our ability to meet build-out requirements, is dependent on our ability to identify, hire, develop, motivate, and retain a new team of highly skilled personnel with knowledge of the wireless industry.  Our wireless business will be adversely affected if we fail to effectively identify, hire, develop, motivate, and retain highly skilled personnel with knowledge of the wireless industry.
+
+
+We had approximately 13,500 employees at December 31, 2020, most of whom were located in the United States.  We generally consider relations with our employees to be good.  Approximately 35 employees in one of our field offices have voted to have a union represent them in their employment relations with DISH Network.  While we are not currently a party to any collective bargaining agreements, we are presently in the negotiating phase with the union, which could result in a collective bargaining agreement with respect to this site.
+
+
+17
+
+
+
+Table of Contents
+
+
+WHERE YOU CAN FIND MORE INFORMATION
+
+
+We are subject to the informational requirements of the Exchange Act and accordingly file our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy statements and other information with the SEC.  As an electronic filer, our public filings are also maintained on the SEC’s Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC.  The address of that website is http://www.sec.gov.
+
+
+WEBSITE ACCESS
+
+
+Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act also may be accessed free of charge through our website as soon as reasonably practicable after we have electronically filed such material with, or furnished it to, the SEC.  The address of that website is https://ir.dish.com/.
+
+
+We have adopted a written code of ethics that applies to all of our directors, officers and employees, including our principal executive officer and senior financial officers, in accordance with Section 406 of the Sarbanes-Oxley Act of 2002 and the rules of the SEC promulgated thereunder.  Our code of ethics is available on our corporate website at https://ir.dish.com/.  In the event that we make changes in, or provide waivers of, the provisions of this code of ethics that the SEC requires us to disclose, we intend to disclose these events on our website.
+
+
+INFORMATION ABOUT OUR EXECUTIVE OFFICERS
+
+(furnished in accordance with Item 401(b) of Regulation S-K, pursuant to General Instruction G(3) of Form 10-K)
+
+
+The following table and information below sets forth the name, age and position with DISH Network of each of our executive officers, the period during which each executive officer has served as such, and each executive officer’s business experience during the past five years:
+
+
+
+
+
+
+
+
+Name
+
+    
+
+Age
+
+    
+
+Position
+
+
+Charles W. Ergen
+
+
+67
+
+
+Chairman and Director
+
+
+W. Erik Carlson
+
+
+51
+
+
+President and Chief Executive Officer
+
+
+Thomas A. Cullen
+
+
+61
+
+
+Executive Vice President, Corporate Development
+
+
+James DeFranco
+
+
+68
+
+
+Executive Vice President and Director
+
+
+Timothy A. Messner
+
+
+46
+
+
+Executive Vice President and General Counsel
+
+
+Paul W. Orban
+
+
+52
+
+
+Executive Vice President and Chief Financial Officer
+
+
+David A. Scott
+
+
+47
+
+
+Executive Vice President and Chief Human Resources Officer
+
+
+John W. Swieringa
+
+
+43
+
+
+Executive Vice President and Chief Operating Officer
+
+
+
+
+
+
+
+
+Charles W. Ergen.  Mr. Ergen is our executive Chairman and has been Chairman of the Board of Directors of DISH Network since its formation and, during the past five years, has held executive officer and director positions with DISH Network and its subsidiaries.  Mr. Ergen also serves as executive Chairman and Chairman of the Board of Directors of EchoStar.  Mr. Ergen co-founded DISH Network with his future spouse, Cantey Ergen, and James DeFranco, in 1980.
+
+
+W. Erik Carlson.  Mr. Carlson has served as President and Chief Executive Officer since December 2017.  Mr. Carlson is a DISH Network veteran of more than two decades, and has held numerous roles throughout the company.  Most recently, Mr. Carlson served as President and Chief Operating Officer.  In this role, Mr. Carlson oversaw the company’s day-to-day operations including Human Resources, Operations and Information Technology, Media Sales, Marketing, Programming, Product Management, Acquisition and Retention, and Finance and Accounting organizations.  Prior to that, Mr. Carlson managed DISH Network’s In-Home Services, Customer Service Centers, Customer Billing, and Information Technology organizations, as well as Manufacturing, which consists of equipment retrieval and refurbishment operations.  Mr. Carlson also served as Senior Vice President of Retail Services and Sales where he managed the company’s indirect sales operations.
+
+18
+
+
+
+Table of Contents
+
+
+Thomas A. Cullen.  Mr. Cullen has served as Executive Vice President, Corporate Development for DISH Network since July 2011.  Mr. Cullen previously served as our Executive Vice President, Sales, Marketing and Programming from April 2009 to July 2011 and as our Executive Vice President, Corporate Development from December 2006 to April 2009.  Before joining DISH Network, Mr. Cullen held various executive positions in the telecommunications, cable and wireless industries.
+
+
+James DeFranco.  Mr. DeFranco is one of our Executive Vice Presidents and has been one of our vice presidents and a member of the Board of Directors of DISH Network since our formation.  During the past five years he has held various executive officer and director positions with our subsidiaries.  Mr. DeFranco co-founded DISH Network with Charles W. Ergen and Cantey Ergen, in 1980.
+
+
+Timothy A. Messner.  Mr. Messner has served as Executive Vice President, General Counsel since November 2017 and is responsible for all legal affairs for DISH Network and its subsidiaries.  Since joining DISH Network in August 2004, Mr. Messner has held various positions of increasing responsibility in DISH Network’s legal department.  Most recently, Mr. Messner served as Senior Vice President and Deputy General Counsel for DISH Network.
+
+
+Paul W. Orban. Mr. Orban has served as Executive Vice President and Chief Financial Officer since July 2019 and is responsible for all aspects of DISH Network’s finance, accounting, tax, treasury and internal audit departments.  Mr. Orban served as our Senior Vice President and Chief Accounting officer from December 2015 to July 2019, our Senior Vice President and Corporate Controller from September 2006 to December 2015 and as our Vice President and Corporate Controller from September 2003 to September 2006. He also served as EchoStar’s Senior Vice President and Corporate Controller from 2008 to 2012 pursuant to a management services agreement between DISH Network and EchoStar. Since joining DISH Network in 1996, Mr. Orban has held various other positions of increasing responsibility in our accounting department. Prior to DISH Network, Mr. Orban was an auditor with Arthur Andersen LLP.
+
+
+David A. Scott.  Mr. Scott has served as Executive Vice President and Chief Human Resources Officer of DISH Network since February 2018 and is responsible for the recruiting, benefits administration, compensation, and leadership and organizational development for DISH Network and its subsidiaries.  Prior to DISH Network, Mr. Scott held various positions at Walmart Inc. from 1997 to 2018, including, among others, Senior Vice President, Talent and Organizational Effectiveness from 2016 to 2018, Senior Vice President, Human Resources from 2014 to 2016, and Vice President, Human Resources from 2011 to 2014.
+
+
+John W. Swieringa.  Mr. Swieringa has served as Executive Vice President and Chief Operating Officer since December 2017 and as Group President, Retail Wireless since July 2020.  Mr. Swieringa has responsibility for all aspects of DISH Network’s Retail Wireless business unit.  Mr. Swieringa previously served as Executive Vice President, Operations since December 2015 and has had responsibility for the in-home services operations, customer service and billing, information technology, manufacturing and distribution for DISH Network.  Mr. Swieringa previously served as Senior Vice President and Chief Information Officer from March 2014 to December 2015 and as Vice President of Information Technology Customer Applications from March 2010 to March 2014.  Mr. Swieringa joined DISH Network in December 2007 serving in our finance department. 
+
+
+There are no arrangements or understandings between any executive officer and any other person pursuant to which any executive officer was selected as such.  Pursuant to the Bylaws of DISH Network, executive officers serve at the discretion of the Board of Directors.

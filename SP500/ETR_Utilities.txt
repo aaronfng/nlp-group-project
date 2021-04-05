@@ -1,0 +1,1090 @@
+Entergy is an integrated energy company engaged primarily in electric power production and retail distribution operations.  Entergy owns and operates power plants with approximately 30,000 MW of electric generating capacity, including approximately 8,000 MW of nuclear power. Entergy delivers electricity to 3.0 million utility customers in Arkansas, Louisiana, Mississippi, and Texas.  Entergy had annual revenues of $10.1 billion in 2020 and had more than 13,000 employees as of December 31, 2020.
+
+Entergy operates primarily through two business segments: Utility and Entergy Wholesale Commodities.
+
+•The Utility business segment includes the generation, transmission, distribution, and sale of electric power in portions of Arkansas, Mississippi, Texas, and Louisiana, including the City of New Orleans; and operation of a small natural gas distribution business.
+•The Entergy Wholesale Commodities business segment includes the ownership, operation, and decommissioning of nuclear power plants located in the northern United States and the sale of the electric power produced by its operating plants to wholesale customers. Entergy Wholesale Commodities also provides services to other nuclear power plant owners and owns interests in non-nuclear power plants that sell the electric power produced by those plants to wholesale customers. See “MANAGEMENT’S FINANCIAL DISCUSSION AND ANALYSIS - Entergy Wholesale Commodities Exit from the Merchant Power Business” for discussion of the operation and planned shutdown and sale of each of the Entergy Wholesale Commodities nuclear power plants.
+
+See Note 13 to the financial statements for financial information regarding Entergy’s business segments.
+
+Strategy
+
+Entergy’s strategy is to operate and grow the premier utility business that creates sustainable value for its customers, employees, communities, and owners. Entergy’s strategy to achieve its stakeholder objectives has two key aspects. First, Entergy invests in the Utility for the benefit of its customers, which supports steady, predictable growth in earnings and dividends. Second, Entergy manages risks by ensuring its Utility investments are customer-centric, supported by progressive regulatory constructs, and executed with disciplined project management.  Entergy’s strategy for the Entergy Wholesale Commodities business segment is to continue to manage the risk of its operating portfolio as Entergy completes its exit from the merchant power business.
+
+Utility
+
+The Utility business segment includes five retail electric utility subsidiaries: Entergy Arkansas, Entergy Louisiana, Entergy Mississippi, Entergy New Orleans, and Entergy Texas.  These companies generate, transmit, distribute, and sell electric power to retail and wholesale customers in Arkansas, Louisiana, Mississippi, and Texas.  Entergy Louisiana and Entergy New Orleans also provide natural gas utility services to customers in and around Baton Rouge, Louisiana, and New Orleans, Louisiana, respectively.  Also included in the Utility is System Energy, a wholly-owned subsidiary of Entergy Corporation that owns or leases 90 percent of Grand Gulf.  System Energy sells its power and capacity from Grand Gulf at wholesale to Entergy Arkansas, Entergy Louisiana, Entergy Mississippi, and Entergy New Orleans.  The five retail utility subsidiaries are each regulated by the FERC and by state utility commissions, or, in the case of Entergy New Orleans, the City Council.  System Energy is regulated by the FERC because all of its transactions are at wholesale.  The overall generation portfolio of the Utility, which relies heavily on natural gas and nuclear generation, is consistent with Entergy’s strong support for the environment.
+
+241
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+Customers
+
+As of December 31, 2020, the Utility operating companies provided retail electric and gas service to customers in Arkansas, Louisiana, Mississippi, and Texas, as follows:
+ 	 		Electric Customers		Gas Customers	 	Area Served		(In Thousands)		(%)		(In Thousands)		(%)	Entergy Arkansas	Portions of Arkansas		722 			25 	%		 		 	Entergy Louisiana	Portions of Louisiana		1,096 			37 	%		94 			47 	%	Entergy Mississippi	Portions of Mississippi		456 			15 	%		 		 	Entergy New Orleans	City of New Orleans		207 			7 	%		108 			53 	%	Entergy Texas	Portions of Texas		473 			16 	%		 		 	Total customers	 		2,954 			100 	%		202 			100 	% 
+
+Electric Energy Sales
+
+The electric energy sales of the Utility operating companies are subject to seasonal fluctuations, with the peak sales period normally occurring during the third quarter of each year.  On August 10, 2020, Entergy reached a 2020 peak demand of 21,340 MWh, compared to the 2019 peak of 21,598 MWh recorded on August 12, 2019.  Selected electric energy sales data is shown in the table below:
+
+Selected 2020 Electric Energy Sales Data
+ 	Entergy Arkansas		Entergy Louisiana		Entergy Mississippi		Entergy New Orleans		Entergy Texas		System Energy		Entergy (a)	 	(In GWh)	Sales to retail customers	20,749 			53,896 			12,402 			5,447 			18,677 			— 			111,170 		Sales for resale:	 				 		 				 		 	Affiliates	1,659 			5,585 			— 			— 			1,203 			5,849 			— 		Others	4,198 			2,365 			4,316 			1,969 			810 			— 			13,658 		Total	26,606 			61,846 			16,718 			7,416 			20,690 			5,849 			124,828 		Average use per residential customer (kWh)	12,633 			14,576 			14,093 			12,315 			14,829 			— 			13,917 	 
+
+(a)Includes the effect of intercompany eliminations.
+
+The following table illustrates the Utility operating companies’ 2020 combined electric sales volume as a percentage of total electric sales volume, and 2020 combined electric revenues as a percentage of total 2020 electric revenue, each by customer class.
+Customer Class		% of Sales Volume		% of Revenue	Residential		28.2		39.2	Commercial		21.2		25.4	Industrial (a)		37.7		25.8	Governmental		2.0		2.3	Wholesale/Other		10.9		7.3 
+
+(a)Major industrial customers are primarily in the petroleum refining and chemical industries.
+
+See “Selected Financial Data” for each of the Utility operating companies for the detail of their sales by customer class for 2016-2020.
+242
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+
+Selected 2020 Natural Gas Sales Data
+
+Entergy New Orleans and Entergy Louisiana provide both electric power and natural gas to retail customers.  Entergy New Orleans and Entergy Louisiana sold 9,467,899 and 6,268,003 Mcf, respectively, of natural gas to retail customers in 2020.  In 2020, 99% of Entergy Louisiana’s operating revenue was derived from the electric utility business, and only 1% from the natural gas distribution business.  For Entergy New Orleans, 88% of operating revenue was derived from the electric utility business and 12% from the natural gas distribution business in 2020.
+
+Following is data concerning Entergy New Orleans’s 2020 retail operating revenue sources.
+Customer Class		Electric Operating Revenue		Natural Gas Operating Revenue	Residential		48%		51%	Commercial		35%		25%	Industrial		5%		18%	Governmental/Municipal		12%		6% 
+
+Retail Rate Regulation
+
+General (Entergy Arkansas, Entergy Louisiana, Entergy Mississippi, Entergy New Orleans, Entergy Texas)
+
+Each Utility operating company regularly participates in retail rate proceedings.  The status of material retail rate proceedings is described in Note 2 to the financial statements.  Certain aspects of the Utility operating companies’ retail rate mechanisms are discussed below.
+Rate base (in billions)		Current authorized return on common equity		Weighted average cost of capital (after-tax)		Equity ratio		Regulatory construct														Entergy Arkansas		$8.4 (a)		9.25% - 10.25%		5.04%		36.6%		 - forward test year formula rate
+plan through 2021 test year (i)
+
+- riders: MISO, capacity, Grand
+Gulf, tax adjustment, energy
+efficiency, fuel and purchased
+power														Entergy Louisiana (electric)		$11.9 (b)		9.2% - 10.4%		6.97%		48.63%		 - formula rate plan through 2019
+test year (j)
+
+- riders/specific recovery: MISO,
+capacity, transmission, fuel														Entergy Louisiana (gas)		$0.08 (c)		9.3% - 10.3%		6.96%		48.37%		 - gas rate stabilization plan
+
+- rider: gas infrastructure													 
+243
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+Entergy Mississippi		$3.0 (d)		8.89% - 10.93%		6.82%		49.09%		 - formula rate plan with
+forward-looking features
+
+- riders: power management, Grand
+Gulf, fuel, MISO, unit power cost,
+storm damage, energy efficiency,
+ad valorem tax adjustment,
+vegetation, grid modernization,
+restructuring credit														Entergy New Orleans (electric)		$0.8 (e)		9.35%		7.09%		50%		
+ - formula rate plan with
+       forward-looking features
+
+ - riders/specific recovery: fuel and
+       purchased power, MISO, energy
+       efficiency, environmental
+Entergy New Orleans (gas)		$0.1 (e)		9.35%		7.09%		50%		
+ - formula rate plan with
+      forward-looking features
+
+ - rider: purchased gas
+Entergy Texas		$2.4 (f)		9.65%		7.73%		50.9%		 - rate case
+
+- riders: fuel, distribution and
+transmission, generation, rate case
+expenses, AMI surcharge,
+tax reform, among others														System Energy		$1.6 (g)		10.94% (h)		8.57 %		65% (h)		 - monthly cost of service	 
+
+(a)Based on 2021 test year.
+(b)Based on December 31, 2019 test year and excludes approximately $800 million for the Lake Charles Power Station and $300 million for the Washington Parish Energy Center, each included in the capacity rider, and $400 million of transmission plant, included in the transmission rider.
+(c)Based on September 30, 2019 test year.
+(d)Based on 2020 forward test year and excludes approximately $300 million for the Choctaw Generating Station, included in interim capacity mechanism.
+(e)Based on December 31, 2018 test year and known and measurables through December 31, 2019. Electric rate base excludes approximately $190 million for New Orleans Power Station and $40 million for New Orleans Solar Station.
+(f)Based on December 31, 2017 test year and excludes $1.0 billion in cost recovery riders.
+(g)Based on calculation as of December 31, 2020.
+(h)See Note 2 to the financial statements for discussion of ongoing proceedings at the FERC challenging System Energy’s authorized return on common equity and capital structure.
+(i)See Note 2 to the financial statements for discussion of Entergy Arkansas’s pending formula rate plan extension request.
+(j)See Note 2 to the financial statements for discussion of Entergy Louisiana’s pending formula rate plan extension request.
+
+244
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+Entergy Arkansas
+
+Fuel and Purchased Power Cost Recovery
+
+Entergy Arkansas’s rate schedules include an energy cost recovery rider to recover fuel and purchased power costs in monthly bills.  The rider utilizes prior calendar year energy costs and projected energy sales for the twelve-month period commencing on April 1 of each year to develop an energy cost rate, which is redetermined annually and includes a true-up adjustment reflecting the over-recovery or under-recovery, including carrying charges, of the energy cost for the prior calendar year.  The energy cost recovery rider tariff also allows an interim rate request depending upon the level of over- or under-recovery of fuel and purchased energy costs.  In December 2007 the APSC issued an order stating that Entergy Arkansas’s energy cost recovery rider will remain in effect, and any future termination of the rider would be subject to eighteen months advance notice by the APSC, which would occur following notice and hearing.
+
+Production Cost Allocation Rider
+
+Entergy Arkansas has in place an APSC-approved production cost allocation rider for recovery from customers of the retail portion of the costs allocated to Entergy Arkansas as a result of System Agreement proceedings.
+
+Entergy Louisiana
+
+Fuel Recovery
+
+Entergy Louisiana’s rate schedules include a fuel adjustment clause designed to recover the cost of fuel and purchased power costs.  The fuel adjustment clause contains a surcharge or credit for deferred fuel expense and related carrying charges arising from the monthly reconciliation of actual fuel costs incurred with fuel cost revenues billed to customers, including carrying charges. See Note 2 to the financial statements for a discussion of proceedings related to audits of Entergy Louisiana’s fuel adjustment clause filings.
+
+To help stabilize electricity costs, Entergy Louisiana received approval from the LPSC to hedge its exposure to natural gas price volatility through the use of financial instruments.  Entergy Louisiana historically hedged approximately one-third of the projected exposure to natural gas price changes for the gas used to serve its native electric load for all months of the year.  The hedge quantity was reviewed on an annual basis. In January 2018, Entergy Louisiana filed an application with the LPSC to suspend these seasonal hedging programs and implement financial hedges with terms up to five years for a portion of its natural gas exposure, which was approved in November 2018.
+
+Entergy Louisiana’s gas rates include a purchased gas adjustment clause based on estimated gas costs for the billing month adjusted by a surcharge or credit that arises from an annual reconciliation of fuel costs incurred with fuel cost revenues billed to customers, including carrying charges.
+
+Retail Rates - Gas
+
+In accordance with the settlement of Entergy Gulf States Louisiana’s gas rate stabilization plan for the test year ended September 30, 2012, in August 2014, Entergy Gulf States Louisiana submitted for consideration a proposal for implementation of an infrastructure rider to recover expenditures associated with strategic plant investment and relocation projects mandated by local governments. After review by the LPSC staff and inclusion of certain customer safeguards required by the LPSC staff, in December 2014, Entergy Gulf States Louisiana and the LPSC staff submitted a joint settlement for implementation of an accelerated gas pipe replacement program providing for the replacement of approximately 100 miles of pipe over the next ten years, as well as relocation of certain existing pipe resulting from local government-related infrastructure projects, and for a rider to recover the
+245
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+investment associated with these projects. The rider allows for recovery of approximately $65 million over ten years. The rider recovery will be adjusted on a quarterly basis to include actual investment incurred for the prior quarter and is subject to the following conditions, among others: a ten-year term; application of any earnings in excess of the upper end of the earnings band as an offset to the revenue requirement of the infrastructure rider; adherence to a specified spending plan, within plus or minus 20% annually; annual filings comparing actual versus planned rider spending with actual spending and explanation of variances exceeding 10%; and an annual true-up. The joint settlement was approved by the LPSC in January 2015. Implementation of the infrastructure rider commenced with bills rendered on and after the first billing cycle of April 2015.
+
+Storm Cost Recovery
+
+See Note 2 to the financial statements for a discussion of Entergy Louisiana’s filings to recover storm-related costs.
+
+Other
+
+In March 2016 the LPSC opened two dockets to examine, on a generic basis, issues that it identified in connection with its review of Cleco Corporation’s acquisition by third party investors.  The first docket is captioned “In re: Investigation of double leveraging issues for all LPSC-jurisdictional utilities,” and the second is captioned “In re: Investigation of tax structure issues for all LPSC-jurisdictional utilities.”  In April 2016 the LPSC clarified that the concerns giving rise to the two dockets arose as a result of its review of the structure of the Cleco-Macquarie transaction and that the specific intent of the directives is to seek more information regarding intra-corporate debt financing of a utility’s capital structure as well as the use of investment tax credits to mitigate the tax obligation at the parent level of a consolidated entity.  No schedule has been set for either docket, and limited discovery has occurred.
+
+In December 2019 an LPSC commissioner issued an unopposed directive to staff to research customer-centered options for all customer classes, as well as other regulatory environments, and recommend a plan for how to ensure customers are the focus. There was no opposition to the directive from other commissioners but several remarked that the intent of the directive was not initiated to pursue retail open access. In furtherance of the directive, the LPSC issued a notice of the opening of a docket to conduct a rulemaking to research and evaluate customer-centered options for all electric customer classes as well as other regulatory environments in January 2020.
+
+Entergy Mississippi
+
+Fuel Recovery
+
+Entergy Mississippi’s rate schedules include energy cost recovery riders to recover fuel and purchased power costs.  The energy cost rate for each calendar year is redetermined annually and includes a true-up adjustment reflecting the over-recovery or under-recovery of the energy costs as of the 12-month period ended September 30.  Entergy Mississippi’s fuel cost recoveries are subject to annual audits conducted pursuant to the authority of the MPSC.
+
+To help stabilize electricity costs, Entergy Mississippi received approval from the MPSC to hedge its exposure to natural gas price volatility through the use of financial instruments.  Entergy Mississippi hedges approximately one-third of the projected exposure to natural gas price changes for the gas used to serve its native electric load for all months of the year.  The hedge quantity is reviewed on an annual basis.
+
+246
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+Storm Cost Recovery
+
+See Note 2 to the financial statements for a discussion of proceedings regarding recovery of Entergy Mississippi’s storm-related costs.
+
+Formula Rate Plan
+
+In August 2012 the MPSC opened inquiries to review whether the current formulaic methodology used to calculate the return on common equity in both Entergy Mississippi’s formula rate plan and Mississippi Power Company’s annual formula rate plan was still appropriate or could be improved to better serve the public interest. The intent of this inquiry and review was for informational purposes only; the evaluation of any recommendations for changes to the existing methodology would take place in a general rate case or in the existing formula rate plan proceeding. In March 2013 the Mississippi Public Utilities Staff filed its consultant’s report which noted the return on common equity estimation methods used by Entergy Mississippi and Mississippi Power Company are commonly used throughout the electric utility industry. The report suggested ways in which the methods used by Entergy Mississippi and Mississippi Power Company might be improved, but did not recommend specific changes in the return on common equity formulas or calculations at that time. In June 2014 the MPSC expanded the scope of the August 2012 inquiry to study the merits of adopting a uniform formula rate plan that could be applied, where possible in whole or in part, to both Entergy Mississippi and Mississippi Power Company in order to achieve greater consistency in the plans. The MPSC directed the Mississippi Public Utilities Staff to investigate and review Entergy Mississippi’s formula rate plan rider schedule and Mississippi Power Company’s Performance Evaluation Plan by considering the merits and deficiencies and possibilities for improvement of each and then to propose a uniform formula rate plan that, where possible, could be applicable to both companies. No procedural schedule has been set. In October 2014 the Mississippi Public Utilities Staff conducted a public technical conference to discuss performance benchmarking and its potential application to the electric utilities’ formula rate plans. The docket remains open.
+
+Entergy New Orleans
+
+Fuel Recovery
+
+Entergy New Orleans’s electric rate schedules include a fuel adjustment tariff designed to reflect no more than targeted fuel and purchased power costs, adjusted by a surcharge or credit for deferred fuel expense arising from the monthly reconciliation of actual fuel and purchased power costs incurred with fuel cost revenues billed to customers, including carrying charges.
+
+Entergy New Orleans’s gas rate schedules include a purchased gas adjustment to reflect estimated gas costs for the billing month, adjusted by a surcharge or credit similar to that included in the electric fuel adjustment clause, including carrying charges.
+
+To help stabilize gas costs, Entergy New Orleans seeks approval annually from the City Council to continue implementation of its natural gas hedging program consistent with the City Council’s stated policy objectives.  The program uses financial instruments to hedge exposure to volatility in the wholesale price of natural gas purchased to serve Entergy New Orleans gas customers.  Entergy New Orleans hedges up to 25% of actual gas sales made during the winter months.
+
+Storm Cost Recovery
+
+See Note 2 to the financial statements for a discussion of Entergy New Orleans’s efforts to recover storm-related costs.
+
+247
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+Energy Efficiency Programs
+
+A 2008 rate case settlement included $3.1 million per year in electric rates to fund the Energy Smart energy efficiency programs.  The rate settlement provided an incentive for Entergy New Orleans to meet or exceed energy savings targets set by the City Council and provided a mechanism for Entergy New Orleans to recover lost contribution to fixed costs associated with the energy savings generated from the energy efficiency programs. In January 2015 the City Council approved funding for the Energy Smart program from April 2015 through March 2017 using the remainder of the approximately $12.8 million of 2014 rough production cost equalization funds, with any remaining costs being recovered through the fuel adjustment clause. This funding methodology was modified in November 2015 when the City Council directed Entergy New Orleans to use a combination of guaranteed customer savings related to a prior agreement with the City Council and rough production cost equalization funds to cover program costs prior to recovering any costs through the fuel adjustment clause. In April 2017 the City Council approved an implementation plan for the Energy Smart program from April 2017 through December 2019. The City Council directed that the $11.8 million balance reported for Energy Smart funds be used to continue funding the program for Entergy New Orleans’s legacy customers and that the Energy Smart Algiers program continue to be funded through the Algiers fuel adjustment clause, until additional customer funding is required for the legacy customers. In September 2017, Entergy New Orleans filed a supplemental plan and proposed several options for an interim cost recovery mechanism necessary to recover program costs during the period between when existing funds directed to Energy Smart programs are depleted and when new rates from the 2018 combined rate case, which includes a cost recovery mechanism for Energy Smart funding, take effect. In December 2017 the City Council approved an energy efficiency cost recovery rider as an interim funding mechanism for Energy Smart, subject to verification that no additional funding sources exist. In June 2018 the City Council also approved a resolution recommending that Entergy New Orleans allocate approximately $13.5 million of benefits resulting from the Tax Act to Energy Smart. See Note 2 to the financial statements for discussion of Entergy New Orleans’s application with the City Council seeking approval of an implementation plan for the Energy Smart program from April 2020 through December 2022.
+
+Entergy Texas
+
+Fuel Recovery
+
+Entergy Texas’s rate schedules include a fixed fuel factor to recover fuel and purchased power costs, including interest, that are not included in base rates.  Semi-annual revisions of the fixed fuel factor are made in March and September based on the market price of natural gas and changes in fuel mix.  The amounts collected under Entergy Texas’s fixed fuel factor and any interim surcharge or refund are subject to fuel reconciliation proceedings before the PUCT.  The PUCT fuel cost proceedings are discussed in Note 2 to the financial statements.
+
+At the PUCT’s April 2013 open meeting, the PUCT Commissioners discussed their view that a purchased power capacity rider was good public policy. The PUCT issued an order in May 2013 adopting the rule allowing for a purchased power capacity rider, subject to an offsetting adjustment for load growth. The rule, as adopted, also includes a process for obtaining pre-approval by the PUCT of purchased power agreements. Entergy Texas has not exercised the option to recover its capacity costs under the new rider mechanism, but will continue to evaluate the benefits of utilizing the new rider to recover future capacity costs.
+
+Electric Industry Restructuring
+
+In June 2009, a law was enacted in Texas that required Entergy Texas to cease all activities relating to Entergy Texas’s transition to competition.  The law allows Entergy Texas to remain a part of the SERC Reliability Corporation (SERC) Region, although it does not prevent Entergy Texas from joining another power region.  The law provides that proceedings to certify a power region that Entergy Texas belongs to as a qualified power region can be initiated by the PUCT, or on motion by another party, when the conditions supporting such a proceeding
+248
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+exist.  Under the law, the PUCT may not approve a transition to competition plan for Entergy Texas until the expiration of four years from the PUCT’s certification of Entergy Texas’s power region.
+
+The law also contains provisions that allow Entergy Texas to take advantage of a cost recovery mechanism that permits annual filings for the recovery of reasonable and necessary expenditures for transmission infrastructure improvement and changes in wholesale transmission charges.  This mechanism was previously available to other non-ERCOT Texas utility companies, but not to Entergy Texas.
+
+The law further amended already existing law that had required Entergy Texas to propose for PUCT approval a tariff to allow eligible customers the ability to contract for competitive generation.  The amending language in the law provides, among other things, that:  1) the tariff shall not be implemented in a manner that harms the sustainability or competitiveness of manufacturers who choose not to participate in the tariff; 2) Entergy Texas shall “purchase competitive generation service, selected by the customer, and provide the generation at retail to the customer;” and 3) Entergy Texas shall provide and price transmission service and ancillary services under that tariff at a rate that is unbundled from its cost of service.  The law directs that the PUCT may not issue an order on the tariff that is contrary to an applicable decision, rule, or policy statement of a federal regulatory agency having jurisdiction.
+
+The PUCT determined that unrecovered costs that may be recovered through the rider consist only of those costs necessary to implement and administer the competitive generation program and do not include lost revenues or embedded generation costs.  The amount of customer load that may be included in the competitive generation service program is limited to 115 MW.
+
+In September 2011 the PUCT adopted a proposed rule implementing a distribution cost recovery factor to recover capital and capital-related costs related to distribution infrastructure.  The distribution cost recovery factor permits utilities once per year to implement an increase or decrease in rates above or below amounts reflected in base rates to reflect depreciation expense, federal income tax and other taxes, and return on investment.  The distribution cost recovery factor rider may be changed a maximum of four times between base rate cases.
+
+In September 2019 the PUCT initiated a rulemaking to promulgate a generation cost recovery factor rule, implementing legislation passed in the 2019 Texas legislative session intended to allow electric utilities to recover generation investments between base rate proceedings.  The PUCT approved the final rule in July 2020.
+
+Franchises
+
+Entergy Arkansas holds exclusive franchises to provide electric service in approximately 308 incorporated cities and towns in Arkansas.  These franchises are unlimited in duration and continue unless the municipalities purchase the utility property.  In Arkansas franchises are considered to be contracts and, therefore, are terminable pursuant to the terms of the franchise agreement and applicable statutes.
+
+Entergy Louisiana holds non-exclusive franchises to provide electric service in approximately 175 incorporated municipalities and in the unincorporated areas of approximately 59 parishes of Louisiana.  Entergy Louisiana holds non-exclusive franchises to provide natural gas service to customers in the City of Baton Rouge and in East Baton Rouge Parish.  Municipal franchise agreement terms range from 25 to 60 years while parish franchise terms range from 25 to 99 years.
+
+Entergy Mississippi has received from the MPSC certificates of public convenience and necessity to provide electric service to areas within 45 counties, including a number of municipalities, in western Mississippi.  Under Mississippi statutory law, such certificates are exclusive.  Entergy Mississippi may continue to serve in such municipalities upon payment of a statutory franchise fee, regardless of whether an original municipal franchise is still in existence.
+
+249
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+Entergy New Orleans provides electric and gas service in the City of New Orleans pursuant to indeterminate permits set forth in city ordinances.  These ordinances contain a continuing option for the City of New Orleans to purchase Entergy New Orleans’s electric and gas utility properties.
+
+Entergy Texas holds a certificate of convenience and necessity from the PUCT to provide electric service to areas within approximately 27 counties in eastern Texas, and holds non-exclusive franchises to provide electric service in approximately 68 incorporated municipalities.  Entergy Texas typically obtains 25-year franchise agreements as existing agreements expire.  Entergy Texas’s electric franchises expire over the period 2020-2058.
+
+The business of System Energy is limited to wholesale power sales.  It has no distribution franchises.
+
+Property and Other Generation Resources
+
+Owned Generating Stations
+
+The total capability of the generating stations owned and leased by the Utility operating companies and System Energy as of December 31, 2020, is indicated below:
+ 		Owned and Leased Capability MW(a)	Company		Total		Gas/Oil		Nuclear		Coal		Hydro		Solar	Entergy Arkansas		5,175 			2,091 			1,817 			1,194 			73 			— 		Entergy Louisiana		11,317 			8,827 			2,144 			346 			— 			— 		Entergy Mississippi		3,347 			2,929 			— 			416 			— 			2 		Entergy New Orleans		665 			638 			— 			— 			— 			27 		Entergy Texas		2,260 			2,005 			— 			255 			— 			— 		System Energy		1,256 			— 			1,256 			— 			— 			— 		Total		24,020 			16,490 			5,217 			2,211 			73 			29 	 
+
+(a)“Owned and Leased Capability” is the dependable load carrying capability as demonstrated under actual operating conditions based on the primary fuel (assuming no curtailments) that each station was designed to utilize.
+
+Summer peak load for the Utility has averaged 21,591 MW over the previous decade.
+
+The Utility operating companies’ load and capacity projections are reviewed periodically to assess the need and timing for additional generating capacity and interconnections. These reviews consider existing and projected demand, the availability and price of power, the location of new load, the economy, Entergy’s clean energy and other public policy goals, environmental regulations, and the age and condition of Entergy’s existing infrastructure.
+
+The Utility operating companies’ long-term resource strategy (Portfolio Transformation Strategy) calls for the bulk of capacity needs to be met through long-term resources, whether owned or contracted. Over the past decade, the Portfolio Transformation Strategy has resulted in the addition of about 8,801 MW of new long-term resources and the deactivation of about 4,664 MW of legacy generation. As MISO market participants, the Utility operating companies also participate in MISO’s Day Ahead and Real Time Energy and Ancillary Services markets to economically dispatch generation and purchase energy to serve customers reliably and at the lowest reasonable cost.
+
+250
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+Other Generation Resources
+
+RFP Procurements
+
+The Utility operating companies from time to time issue requests for proposals (RFP) to procure supply-side resources from sources other than the spot market to meet the unique regional needs of the Utility operating companies. The RFPs issued by the Utility operating companies have sought resources needed to meet near-term MISO reliability requirements as well as long-term requirements through a broad range of wholesale power products, including limited-term (1 to 3 years) and long-term contractual products and asset acquisitions. The RFP process has resulted in selections or acquisitions, including, among other things:
+
+•Entergy Louisiana’s construction of the 980 MW, combined-cycle, gas turbine J. Wayne Leonard Power Station (previously referred to as the St. Charles generating facility) at its existing Little Gypsy electric generating station. The facility began commercial operation in May 2019;
+•Entergy Texas’s construction of the 993 MW, combined-cycle, gas turbine Montgomery County Power Station at its existing Lewis Creek electric generating station. The facility began commercial operation in January 2021;
+•Entergy Louisiana’s construction of the 994 MW, combined-cycle, gas turbine Lake Charles generating facility at its existing Nelson electric generating station site. The facility began commercial operation in March 2020;
+•In October 2018, Entergy Mississippi signed an agreement for the purchase of an approximately 100 MW to-be-constructed solar photovoltaic energy facility that will be sited on approximately 1,000 acres in Sunflower County, Mississippi. Entergy Mississippi received regulatory approval from the MPSC in April 2020, and the facility is scheduled to be in service by early 2022;
+•In March 2019, Entergy Arkansas signed an agreement for the purchase of an approximately 100 MW to-be- constructed solar photovoltaic energy facility that will be sited on approximately 800 acres in White County near Searcy, Arkansas. Entergy Arkansas received regulatory approval from the APSC in April 2020 and the facility is scheduled to be in service by the end of 2021;
+•Entergy New Orleans received regulatory approval in August 2019 to construct the New Orleans Solar Station (a 20 MW self-build solar project) located at the NASA Michoud Facility. The facility was placed in service in December 2020;
+•In June 2020, Entergy Arkansas signed an agreement for the purchase of an approximately 100 MW to-be-constructed solar photovoltaic energy facility that will be sited on approximately 1,000 acres in Lee County, Arkansas. In October 2020, Entergy Arkansas filed a petition with the APSC seeking a finding that the transaction is in the public interest and requesting all necessary approvals. Closing is expected to occur by the end of 2022;
+•In September 2020, Entergy Arkansas signed an agreement for the purchase of an approximately 180 MW to-be-constructed solar photovoltaic energy facility that will be sited on approximately 1,500 acres in Crittenden County, Arkansas. In January 2021, Entergy Arkansas filed a petition with the APSC seeking a finding that the transaction is in the public interest and requesting all necessary approvals. Closing is expected to occur by the end of 2023; and
+•In June 2020, Entergy Texas signed an agreement for the purchase of an approximately 100 MW to-be- constructed solar photovoltaic energy facility that will be sited on approximately 1,200 acres in Liberty County near Dayton, Texas. In September 2020, Entergy Texas filed a petition with the PUCT seeking a finding that the transaction is in the public interest and requesting all necessary approvals. Closing is expected to occur by the end of 2023.
+
+251
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+The RFP process has also resulted in the selection, or confirmation of the economic merits of, long-term purchased power agreements (PPAs), including, among others:
+
+•River Bend’s 30% life-of-unit PPA between Entergy Louisiana and Entergy New Orleans for 100 MW related to Entergy Louisiana’s unregulated portion of the River Bend nuclear station, which portion was formerly owned by Cajun;
+•Entergy Arkansas’s wholesale base load capacity life-of-unit PPAs executed in 2003 totaling approximately 220 MW between Entergy Arkansas and Entergy Louisiana (110 MW) and between Entergy Arkansas and Entergy New Orleans (110 MW) related to the sale of a portion of Entergy Arkansas’s coal and nuclear base load resources (which had not been included in Entergy Arkansas’s retail rates);
+•In May 2011, Entergy Texas and Calpine Energy Services, L.P. executed a 10-year agreement for 485 MW from the Carville Energy Center located in St. Gabriel, Louisiana. Entergy Louisiana purchases 50% of the facility’s capacity and energy from Entergy Texas. In July 2014, LS Power purchased the Carville Energy Center and replaced Calpine Energy Services as the counterparty to the agreement;
+•In September 2012, Entergy Gulf States Louisiana executed a 20-year agreement for 28 MW, with the potential to purchase an additional 9 MW when available, from Rain CII Carbon LLC’s petroleum coke calcining facility in Sulphur, Louisiana. The facility began commercial operation in May 2013. Entergy Louisiana, as successor in interest to Entergy Gulf States Louisiana, now holds the agreement with the facility;
+•In March 2013, Entergy Gulf States Louisiana executed a 20-year agreement for 8.5 MW from Agrilectric Power Partners, LP’s refurbished rice hull-fueled electric generation facility located in Lake Charles, Louisiana. Entergy Louisiana, as successor in interest to Entergy Gulf States Louisiana, now holds the agreement with Agrilectric;
+•In September 2013, Entergy Louisiana executed a 10-year agreement with TX LFG Energy, LP, a wholly-owned subsidiary of Montauk Energy Holdings, LLC, to purchase approximately 3 MW from its landfill gas-fueled power generation facility located in Cleveland, Texas;
+•Entergy Mississippi’s cost-based purchase, beginning in January 2013, of 90 MW from Entergy Arkansas’s share of Grand Gulf (only 60 MW of this PPA came through the RFP process). Cost recovery for the 90 MW was approved by the MPSC in January 2013;
+•In April 2015, Entergy Arkansas and Stuttgart Solar, LLC executed a 20-year agreement for 81 MW from a solar photovoltaic electric generation facility located near Stuttgart, Arkansas. The APSC approved the project and deliveries pursuant to that agreement commenced in June 2018;
+•In November 2016, Entergy Louisiana and LS Power executed a 10-year agreement for 485 MW from the Carville Energy Center located in St. Gabriel, Louisiana. The transaction received regulatory approval and will begin in June 2022;
+•In November 2016, Entergy Louisiana and Occidental Chemical Corporation executed a 10-year agreement for 500 MW from the Taft Cogeneration facility located in Hahnville, Louisiana. The transaction received regulatory approval and began in June 2018;
+•In June 2017, Entergy Arkansas and Chicot Solar, LLC executed a 20-year agreement for 100 MW from a solar photovoltaic electric generating facility located in Chicot County, Arkansas. The transaction received regulatory approval and the PPA began in November 2020;
+•In February 2018, Entergy Louisiana and LA3 West Baton Rouge, LLC (Capital Region Solar project) executed a 20-year agreement for 50 MW from a solar photovoltaic electric generating facility located in West Baton Rouge Parish, Louisiana. The transaction received regulatory approval in February 2019 and the PPA began in October 2020;
+•In July 2018, Entergy New Orleans and St. James Solar, LLC executed a 20-year agreement for 20 MW from a solar photovoltaic electric generating facility located in St. James Parish, Louisiana. The transaction received regulatory approval in July 2019 and is targeting commercial operation in mid-2021;
+•In August 2018, Entergy Louisiana and South Alexander Development I, LLC executed a five-year agreement for 5 MW from a solar photovoltaic electric generating facility located in Livingston Parish, Louisiana. The PPA began in December 2020 and received regulatory approval in January 2021;
+252
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+•In February 2019, Entergy New Orleans and Iris Solar, LLC executed a 20-year agreement for 50 MW from a solar photovoltaic electric generating facility located in Washington Parish, Louisiana. The transaction received regulatory approval in July 2019 and is targeting commercial operation in mid-2021; and
+•In August 2020, Entergy Texas and Umbriel Solar, LLC executed a 20-year agreement for 150 MW from a solar photovoltaic electric generating facility located in Polk County, Texas. The PPA is expected to start when the facility reaches commercial operation in 2023.
+
+In April 2020, Entergy Services, on behalf of Entergy Texas, issued an RFP for combined-cycle gas turbine capacity and energy resources. The RFP was seeking up to 1,000 MW - 1,200 MW of capacity, capacity-related benefits, energy, other electric products, and environmental attributes, if any, from a single generation resource located in the “Eastern Region” of Entergy Texas’s service area. In December 2020, Entergy Texas posted notice that it has elected to proceed with the self-build alternative, Orange County Power Station. The self-build alternative will be conditioned on receipt of required internal and regulatory approvals.
+
+In June 2020, Entergy Services, on behalf of Entergy Louisiana, issued an RFP for solar photovoltaic resources. The RFP was seeking 300 MW of energy, capacity, capacity-related benefits, other electric products, and environmental attributes from eligible new-build solar photovoltaic generation resources. In December 2020, Entergy Louisiana concluded evaluations of the RFP. Three proposals have been placed on the primary selection list and two proposals have been placed on the secondary selection list. Negotiations are currently in progress.
+
+In January 2021, Entergy Texas provided notice that it intends to issue an RFP for solar generation resources. The RFP is seeking a minimum of 200 MW through a combination of build-own-transfer agreements, self-build alternatives, and power purchase agreements that can provide cost-effective energy supply, fuel diversity, and other benefits to Entergy Texas customers.
+
+Other Procurements From Third Parties
+
+The Utility operating companies have also made resource acquisitions outside of the RFP process, including Entergy Mississippi’s January 2006 acquisition of the 480 MW, combined-cycle, gas-fired Attala power plant; Entergy Gulf States Louisiana’s March 2008 acquisition of the 322 MW, simple-cycle, gas-fired Calcasieu Generating Facility; Entergy Louisiana’s April 2011 acquisition of the 580 MW, combined-cycle, gas-fired Acadia Energy Center Unit 2; Entergy Arkansas’s (Power Block 2), Entergy Louisiana’s (Power Blocks 3 and 4), and Entergy New Orleans’s (Power Block 1) March 2016 acquisitions of the 1,980 MW (summer rating), natural gas-fired, combined-cycle gas turbine Union Power Station power blocks, each rated at 495 MW (summer rating); and Entergy Mississippi’s October 2019 acquisition of the 810 MW, combined-cycle, natural gas-fired Choctaw Generating Station. The Utility operating companies have also entered into various limited- and long-term contracts in recent years as a result of bilateral negotiations.
+
+The Washington Parish Energy Center is a 361 MW natural gas-fired peaking power plant approximately 60 miles north of New Orleans on a site Entergy Louisiana purchased from Calpine in 2019. In May 2018, Entergy Louisiana received LPSC approval of its certification application for this simple-cycle power plant to be developed pursuant to an agreement between Calpine and Entergy Louisiana. Calpine began construction on the plant in early 2019 and Entergy Louisiana purchased the plant upon completion in November 2020.
+
+The Hardin County Peaking Facility is an existing 147 MW simple-cycle gas-fired peaking power plant in Kountze, Texas, owned by East Texas Electric Cooperative. Entergy Texas is currently seeking regulatory certification to move forward with the purchase of the facility. The facility has been in operation since January 2010.
+
+
+253
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+Power Through Program
+
+In December 2020, Entergy Texas filed an application with the PUCT to amend its certificate of convenience and necessity to own and operate up to 75 MW of natural gas-fired distributed generation that is to be installed at commercial and industrial customer premises. If approved, Entergy Texas would own and operate a fleet of generators ranging from 100 kW to 10 MW that would supply a portion of Entergy Texas’s long-term resource needs and enhance the resiliency of Entergy Texas’s electric grid. This fleet of generators would also be available to customers during outages to supply backup electric service as part of a program known as “Power Through.”
+
+Interconnections
+
+The Utility operating companies’ generating units are interconnected to a transmission system operating at various voltages up to 500 kV.  These generating units consist of steam-electric production facilities, combustion-turbine generators, pressurized and boiling water nuclear reactors, and inverter-based technologies operating in the MISO energy and ancillary services market. Entergy’s Utility operating companies are MISO market participants and are interconnected with many neighboring utilities.  MISO is an essential link in the safe, cost-effective delivery of electric power across all or parts of 15 U.S. states and the Canadian province of Manitoba. As a Regional Transmission Organization, MISO assures consumers of unbiased regional grid management and open access to the transmission facilities under MISO’s functional supervision. In addition, the Utility operating companies are members of SERC Reliability Corporation (SERC). SERC is a nonprofit corporation responsible for promoting and improving the reliability, adequacy, and critical infrastructure of the bulk power supply systems in all or portions of 16 central and southeastern states. SERC serves as a regional entity with delegated authority from the North American Electric Reliability Corporation (NERC) for the purpose of proposing and enforcing Bulk Electric System reliability standards within the SERC Region.
+
+Gas Property
+
+As of December 31, 2020, Entergy New Orleans distributed and transported natural gas for distribution within New Orleans, Louisiana, through approximately 2,600 miles of gas pipeline.  As of December 31, 2020, the gas properties of Entergy Louisiana, which are located in and around Baton Rouge, Louisiana, were not material to Entergy Louisiana’s financial position.
+
+Title
+
+The Utility operating companies’ generating stations are generally located on properties owned in fee simple.  Most of the substations and transmission and distribution lines are constructed on private property or public rights-of-way pursuant to easements, servitudes, or appropriate franchises.  Some substation properties are owned in fee simple.  The Utility operating companies generally have the right of eminent domain, whereby they may perfect title to, or secure easements or servitudes on, private property for their utility operations.
+
+Substantially all of the physical properties and assets owned by Entergy Arkansas, Entergy Louisiana, Entergy Mississippi, Entergy New Orleans, Entergy Texas, and System Energy are subject to the liens of mortgages securing bonds issued by those companies.  The Lewis Creek generating station of Entergy Texas was acquired by merger with a subsidiary of Entergy Texas and is currently not subject to the lien of the Entergy Texas indenture.
+
+
+254
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+Fuel Supply
+
+The sources of generation and average fuel cost per kWh for the Utility operating companies and System Energy for the years 2018-2020 were:
+ 		Natural Gas		Nuclear		Coal		Purchased Power		MISO Purchases	Year		% of Gen		Cents Per kWh		% of Gen		Cents Per kWh		% of Gen		Cents Per kWh		% of Gen		Cents Per kWh		% of Gen		Cents Per kWh	2020		47 			1.92 			29 			0.57 			3 			2.54 			8 			4.36 			13 			2.48 		2019		40 			2.33 			28 			0.73 			6 			2.31 			8 			4.86 			18 			2.71 		2018		39 			2.84 			27 			0.84 			9 			2.24 			8 			5.23 			17 			3.71 	 
+
+Actual 2020 and projected 2021 sources of generation for the Utility operating companies and System Energy, including certain power purchases from affiliates under life of unit power purchase agreements, including the Unit Power Sales Agreement, are:
+ 	Natural Gas		Nuclear		Coal		Purchased Power (d)		MISO Purchases (e)	 	2020		2021		2020		2021		2020		2021		2020		2021		2020		2021	Entergy Arkansas (a)	24 	%		35 	%		60 	%		51 	%		10 	%		13 	%		1 	%		1 	%		5 	%		— 		Entergy Louisiana	51 	%		59 	%		26 	%		27 	%		1 	%		2 	%		9 	%		12 	%		13 	%		— 		Entergy Mississippi (b)	73 	%		69 	%		14 	%		22 	%		4 	%		9 	%		— 			— 			9 	%		— 		Entergy New Orleans (b)	55 	%		56 	%		33 	%		40 	%		1 	%		2 	%		2 	%		2 	%		9 	%		— 		Entergy Texas	39 	%		60 	%		11 	%		13 	%		2 	%		6 	%		23 	%		21 	%		25 	%		— 		System Energy (c)	— 			— 			100 	%		100 	%		— 			— 			— 			— 			— 			— 		Utility (a) (b)	47 	%		55 	%		29 	%		31 	%		3 	%		6 	%		8 	%		8 	%		13 	%		— 	 
+
+(a)Hydroelectric power provided less than 1% of Entergy Arkansas’s generation in 2020 and is expected to provide less than 1% of its generation in 2021.
+(b)Solar power provided less than 1% of Entergy Mississippi’s and Entergy New Orleans's generation in 2020 and is expected to provide less than 1% of each of Entergy Mississippi’s and Entergy New Orleans's generation in 2021.
+(c)Capacity and energy from System Energy’s interest in Grand Gulf is allocated as follows under the Unit Power Sales Agreement: Entergy Arkansas - 36%; Entergy Louisiana - 14%; Entergy Mississippi - 33%; and Entergy New Orleans - 17%.  Pursuant to purchased power agreements, Entergy Arkansas is selling a portion of its owned capacity and energy from Grand Gulf to Entergy Louisiana, Entergy Mississippi, and Entergy New Orleans.
+(d)Excludes MISO purchases.
+(e)In December 2013, Entergy integrated its transmission system into the MISO RTO. Entergy offers all of its generation into the MISO energy market on a day-ahead and real-time basis and bids for power in the MISO energy market to serve the demand of its customers, with MISO making dispatch decisions. The MISO purchases metric provided for 2020 is not projected for 2021.
+
+Some of the Utility’s gas-fired plants are also capable of using fuel oil, if necessary. Although based on current economics the Utility does not expect fuel oil use in 2021, it is possible that various operational events including weather or pipeline maintenance may require the use of fuel oil.
+
+Natural Gas
+
+The Utility operating companies have long-term firm and short-term interruptible gas contracts for both supply and transportation. Over 50% of the Utility operating companies’ power plants maintain some level of long-
+255
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+term firm transportation. Short-term contracts and spot-market purchases satisfy additional gas requirements.  Entergy Texas owns a gas storage facility that provides reliable and flexible natural gas service to certain generating stations.
+
+Many factors, including wellhead deliverability, storage, pipeline capacity, and demand requirements of end users, influence the availability and price of natural gas supplies for power plants.  Demand is primarily tied to weather conditions as well as to the prices and availability of other energy sources.  Pursuant to federal and state regulations, gas supplies to power plants may be interrupted during periods of shortage.  To the extent natural gas supplies are disrupted or natural gas prices significantly increase, the Utility operating companies may in some instances use alternate fuels, such as oil when available, or rely to a larger extent on coal, nuclear generation, and purchased power.
+
+Coal
+
+Entergy Arkansas has committed to seven one- to three-year contracts that will supply approximately 85% of the total coal supply needs in 2021.  These contracts are staggered in term so that not all contracts have to be renewed the same year.  The remaining 15% of total coal requirements will be satisfied by contracts with a term of less than one year.  Based on continued improved Powder River Basin (PRB) coal deliveries by rail and the high cost of alternate sources and modes of transportation, no alternative coal consumption is expected at Entergy Arkansas during 2021.  Coal will be transported to Arkansas via an existing transportation agreement that is expected to provide all of Entergy Arkansas’s rail transportation requirements for 2021.
+
+Entergy Louisiana has committed to five one- to three-year contracts that will supply approximately 90% of Nelson Unit 6 coal needs in 2021.  If needed, additional PRB coal will be purchased through contracts with a term of less than one year to provide the remaining supply needs.  For the same reasons as for Entergy Arkansas’s plants, no alternative coal consumption is expected at Nelson Unit 6 during 2021.  Coal will be transported to Nelson primarily via an existing transportation agreement that is expected to provide all of Entergy Louisiana’s rail transportation requirements for 2021.
+
+For the year 2020, coal transportation delivery rates to Entergy Arkansas-and Entergy Louisiana-operated coal-fired units were adequate to meet supply needs and obligations, and it is expected that delivery times in 2021 will continue to be consistent. Both Entergy Arkansas and Entergy Louisiana control a sufficient number of railcars to satisfy the rail transportation requirement.
+
+The operator of Big Cajun 2 - Unit 3, Louisiana Generating, LLC, has advised Entergy Louisiana and Entergy Texas that it has adequate rail car and barge capacity to meet the volumes of PRB coal requested for 2021.  Entergy Louisiana’s and Entergy Texas’s coal nomination requests to Big Cajun 2 - Unit 3 are made on an annual basis.
+
+Nuclear Fuel
+
+The nuclear fuel cycle consists of the following:
+
+•mining and milling of uranium ore to produce a concentrate;
+•conversion of the concentrate to uranium hexafluoride gas;
+•enrichment of the uranium hexafluoride gas;
+•fabrication of nuclear fuel assemblies for use in fueling nuclear reactors; and
+•disposal of spent fuel.
+
+The Registrant Subsidiaries that own nuclear plants, Entergy Arkansas, Entergy Louisiana, and System Energy, are responsible through a shared regulated uranium pool for contracts to acquire nuclear material to be used in fueling Entergy’s Utility nuclear units.  These companies own the materials and services in this shared regulated
+256
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+uranium pool on a pro rata fractional basis determined by the nuclear generation capability of each company.  Any liabilities for obligations of the pooled contracts are on a several but not joint basis.  The shared regulated uranium pool maintains inventories of nuclear materials during the various stages of processing.  The Registrant Subsidiaries purchase enriched uranium hexafluoride for their nuclear plant reload requirements at the average inventory cost from the shared regulated uranium pool.  Entergy Operations, Inc. contracts separately for the fabrication of nuclear fuel as agent on behalf of each of the Registrant Subsidiaries that owns a nuclear plant.  All contracts for the disposal of spent nuclear fuel are between the DOE and the owner of a nuclear power plant.
+
+Based upon currently planned fuel cycles, the Utility nuclear units have a diversified portfolio of contracts and inventory that provides substantially adequate nuclear fuel materials and conversion and enrichment services at what Entergy believes are reasonably predictable or fixed prices through most of 2023. Entergy’s ability to purchase nuclear fuel at reasonably predictable prices, however, depends upon the performance reliability of uranium miners.  There are a number of possible supply alternatives that may be accessed to mitigate any supplier performance failure, including potentially drawing upon Entergy’s inventory intended for later generation periods depending upon its risk management strategy at that time, although the pricing of any alternate uranium supply from the market will be dependent upon the market for uranium supply at that time.  In addition, some nuclear fuel contracts are on a non-fixed price basis subject to prevailing prices at the time of delivery.
+
+The effects of market price changes may be reduced and deferred by risk management strategies, such as negotiation of floor and ceiling amounts for long-term contracts, buying for inventory or entering into forward physical contracts at fixed prices when Entergy believes it is appropriate and useful.  Entergy buys uranium from a diversified mix of sellers located in a diversified mix of countries, and from time to time purchases from nearly all qualified reliable major market participants worldwide that sell into the U.S.
+
+Entergy’s ability to assure nuclear fuel supply also depends upon the performance reliability of conversion, enrichment, and fabrication services providers. There are fewer of these providers than for uranium. For conversion and enrichment services, like uranium, Entergy diversifies its supply by supplier and country and may take special measures as needed to ensure supply of enriched uranium for the reliable fabrication of nuclear fuel. For fabrication services, each plant is dependent upon the effective performance of the fabricator of that plant’s nuclear fuel, therefore, Entergy provides additional monitoring, inspection, and oversight for the fabrication process to assure reliability and quality.
+
+Entergy Arkansas, Entergy Louisiana, and System Energy each have made arrangements to lease nuclear fuel and related equipment and services.  The lessors, which are consolidated in the financial statements of Entergy and the applicable Registrant Subsidiary, finance the acquisition and ownership of nuclear fuel through credit agreements and the issuance of notes.  These credit facilities are subject to periodic renewal, and the notes are issued periodically, typically for terms between three and seven years.
+
+Natural Gas Purchased for Resale
+
+Entergy New Orleans has several suppliers of natural gas.  Its system is interconnected with one interstate and three intrastate pipelines.  Entergy New Orleans has a “no-notice” service gas purchase contract with CenterPoint Energy Services which guarantees Entergy New Orleans gas delivery at specific delivery points and at any volume within the minimum and maximum set forth in the contract amounts.  The CenterPoint Energy Service gas supply is transported to Entergy New Orleans pursuant to a transportation service agreement with Gulf South Pipeline Co.  This service is subject to FERC-approved rates.  Entergy New Orleans also makes interruptible spot market purchases.
+
+Entergy Louisiana purchased natural gas for resale in 2020 under a firm contract from Sequent Energy Management L.P.  The gas is delivered through a combination of intrastate and interstate pipelines.
+
+257
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+As a result of the implementation of FERC-mandated interstate pipeline restructuring in 1993, curtailments of interstate gas supply could occur if Entergy Louisiana’s or Entergy New Orleans’s suppliers failed to perform their obligations to deliver gas under their supply agreements.  Gulf South Pipeline Co. could curtail transportation capacity only in the event of pipeline system constraints.
+
+Federal Regulation of the Utility
+
+State or local regulatory authorities, as described above, regulate the retail rates of the Utility operating companies.  The FERC regulates wholesale sales of electricity rates and interstate transmission of electricity, including System Energy’s sales of capacity and energy from Grand Gulf to Entergy Arkansas, Entergy Louisiana, Entergy Mississippi, and Entergy New Orleans pursuant to the Unit Power Sales Agreement. See Note 2 to the financial statements for further discussion of federal regulation proceedings.
+
+System Agreement (Entergy Corporation, Entergy Arkansas, Entergy Louisiana, Entergy Mississippi, Entergy New Orleans, and Entergy Texas)
+
+Prior to each operating company’s termination of participation in the System Agreement (Entergy Arkansas in December 2013, Entergy Mississippi in November 2015, and Entergy Louisiana, Entergy New Orleans, and Entergy Texas each in August 2016), the Utility operating companies engaged in the coordinated planning, construction, and operation of generating and bulk transmission facilities under the terms of the System Agreement, which was a rate schedule approved by the FERC. Under the terms of the System Agreement, generating capacity and other power resources were jointly operated by the Utility operating companies that were participating in the System Agreement.  The System Agreement provided, among other things, that parties having generating reserves greater than their allocated share of reserves (long companies) would receive payments from those parties having generating reserves that were less than their allocated share of reserves (short companies).  Such payments were at amounts sufficient to cover certain of the long companies’ costs for intermediate and peaking oil/gas-fired generation, including operating expenses, fixed charges on debt, dividend requirements on preferred equity, and a fair rate of return on common equity investment.  Under the System Agreement, the rates used to compensate long companies were based on costs associated with the long companies’ steam electric generating units fueled by oil or gas and having an annual average heat rate above 10,000 Btu/kWh.  In addition, for all energy exchanged among the Utility operating companies under the System Agreement, the companies purchasing exchange energy were required to pay the cost of fuel consumed in generating such energy plus a charge to cover other associated costs.
+
+Although the System Agreement has terminated, certain of the Utility operating companies’ and their retail regulators are pursuing litigation involving the System Agreement at the FERC and in federal courts. The proceedings include challenges to the allocation of costs as defined by the System Agreement and other matters. See Note 2 to the financial statements for discussion of legal proceedings at the FERC and in federal courts involving the System Agreement.
+
+Transmission and MISO Markets
+
+In December 2013 the Utility operating companies integrated into the MISO RTO. Although becoming a member of MISO did not affect the ownership by the Utility operating companies of their transmission facilities or the responsibility for maintaining those facilities, MISO maintains functional control over the combined transmission systems of its members and administers wholesale energy and ancillary services markets for market participants in the MISO region, including the Utility operating companies. MISO also exercises functional control of transmission planning and congestion management and provides schedules and pricing for the commitment and dispatch of generation that is offered into MISO’s markets, as well as pricing for load that bids into the markets. The Utility operating companies sell capacity, energy, and ancillary services on a bilateral basis to certain wholesale customers and offer available electricity production of their generating facilities into the MISO day-ahead and real-time energy markets pursuant to the MISO tariff and market rules. Each Utility operating company has its own transmission pricing zone and a formula rate template (included as Attachment O to the MISO tariff) used to
+258
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+establish transmission rates within MISO. The terms and conditions of the MISO tariff, including provisions related to the design and implementation of wholesale markets and the allocation of transmission upgrade costs, are subject to regulation by the FERC.
+
+System Energy and Related Agreements
+
+System Energy recovers costs related to its interest in Grand Gulf through rates charged to Entergy Arkansas, Entergy Louisiana, Entergy Mississippi, and Entergy New Orleans for capacity and energy under the Unit Power Sales Agreement (described below).  In July 2001 a rate proceeding commenced by System Energy at the FERC in 1995 became final, with the FERC approving a prospective 10.94% return on equity.    In 1998 the FERC approved requests by Entergy Arkansas and Entergy Mississippi to accelerate a portion of their Grand Gulf purchased power obligations.  Entergy Arkansas’s and Entergy Mississippi’s acceleration of Grand Gulf purchased power obligations ceased effective July 2001 and July 2003, respectively, as approved by the FERC. See Note 2 to the financial statements for discussion of complaints filed with the FERC regarding System Energy’s return on equity.
+
+Unit Power Sales Agreement
+
+The Unit Power Sales Agreement allocates capacity, energy, and the related costs from System Energy’s ownership and leasehold interests in Grand Gulf to Entergy Arkansas (36%), Entergy Louisiana (14%), Entergy Mississippi (33%), and Entergy New Orleans (17%).  Each of these companies is obligated to make payments to System Energy for its entitlement of capacity and energy on a full cost-of-service basis regardless of the quantity of energy delivered.  Payments under the Unit Power Sales Agreement are System Energy’s only source of operating revenue.  The financial condition of System Energy depends upon the continued commercial operation of Grand Gulf and the receipt of such payments.  Entergy Arkansas, Entergy Louisiana, Entergy Mississippi, and Entergy New Orleans generally recover payments made under the Unit Power Sales Agreement through rates charged to their customers.
+
+In the case of Entergy Arkansas and Entergy Louisiana, payments are also recovered through sales of electricity from their respective retained shares of Grand Gulf.  Under a settlement agreement entered into with the APSC in 1985 and amended in 1988, Entergy Arkansas retains 22% of its 36% share of Grand Gulf-related costs and recovers the remaining 78% of its share in rates.  In the event that Entergy Arkansas is not able to sell its retained share to third parties, it may sell such energy to its retail customers at a price equal to its avoided cost, which is currently less than Entergy Arkansas’s cost from its retained share.  Entergy Arkansas has life-of-resources purchased power agreements with Entergy Louisiana and Entergy New Orleans that sell a portion of the output of Entergy Arkansas’s retained share of Grand Gulf to those companies, with the remainder of the retained share being sold to Entergy Mississippi through a separate life-of-resources purchased power agreement.  In a series of LPSC orders, court decisions, and agreements from late 1985 to mid-1988, Entergy Louisiana was granted rate relief with respect to costs associated with Entergy Louisiana’s share of capacity and energy from Grand Gulf, subject to certain terms and conditions.  Entergy Louisiana retains and does not recover from retail ratepayers 18% of its 14% share of the costs of Grand Gulf capacity and energy and recovers the remaining 82% of its share in rates.  Entergy Louisiana is allowed to recover through the fuel adjustment clause at 4.6 cents per kWh for the energy related to its retained portion of these costs.  Alternatively, Entergy Louisiana may sell such energy to non-affiliated parties at prices above the fuel adjustment clause recovery amount, subject to the LPSC’s approval. Entergy Arkansas also has a life-of-resources purchased power agreement with Entergy Mississippi to sell a portion of the output of Entergy Arkansas’s non-retained share of Grand Gulf. Entergy Mississippi was granted rate relief for those purchases by the MPSC through its annual unit power cost rate mechanism.
+
+Availability Agreement
+
+The Availability Agreement among System Energy and Entergy Arkansas, Entergy Louisiana, Entergy Mississippi, and Entergy New Orleans was entered into in 1974 in connection with the financing by System Energy
+259
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+of Grand Gulf. The Availability Agreement provides that System Energy make available to Entergy Arkansas, Entergy Louisiana, Entergy Mississippi, and Entergy New Orleans all capacity and energy available from System Energy’s share of Grand Gulf.
+
+Entergy Arkansas, Entergy Louisiana, Entergy Mississippi, and Entergy New Orleans also agreed severally to pay System Energy monthly for the right to receive capacity and energy from Grand Gulf in amounts that (when added to any amounts received by System Energy under the Unit Power Sales Agreement) would at least equal System Energy’s total operating expenses for Grand Gulf (including depreciation at a specified rate and expenses incurred in a permanent shutdown of Grand Gulf) and interest charges.
+
+The allocation percentages under the Availability Agreement are fixed as follows: Entergy Arkansas - 17.1%; Entergy Louisiana - 26.9%; Entergy Mississippi - 31.3%; and Entergy New Orleans - 24.7%. The allocation percentages under the Availability Agreement would remain in effect and would govern payments made under such agreement in the event of a shortfall of funds available to System Energy from other sources, including payments under the Unit Power Sales Agreement.
+
+System Energy has assigned its rights to payments and advances from Entergy Arkansas, Entergy Louisiana, Entergy Mississippi, and Entergy New Orleans under the Availability Agreement as security for its two outstanding series of first mortgage bonds.  In these assignments, Entergy Arkansas, Entergy Louisiana, Entergy Mississippi, and Entergy New Orleans further agreed that, in the event they were prohibited by governmental action from making payments under the Availability Agreement (for example, if the FERC reduced or disallowed such payments as constituting excessive rates), they would then make subordinated advances to System Energy in the same amounts and at the same times as the prohibited payments. System Energy would not be allowed to repay these subordinated advances so long as it remained in default under the related indebtedness or in other similar circumstances.
+
+Each of the assignment agreements relating to the Availability Agreement provides that Entergy Arkansas, Entergy Louisiana, Entergy Mississippi, and Entergy New Orleans will make payments directly to System Energy. However, if there is an event of default, those payments must be made directly to the holders of indebtedness that are the beneficiaries of such assignment agreements. The payments must be made pro rata according to the amount of the respective obligations secured.
+
+The obligations of Entergy Arkansas, Entergy Louisiana, Entergy Mississippi, and Entergy New Orleans to make payments under the Availability Agreement are subject to the receipt and continued effectiveness of all necessary regulatory approvals.  Sales of capacity and energy under the Availability Agreement would require that the Availability Agreement be submitted to the FERC for approval with respect to the terms of such sale. No such filing with the FERC has been made because sales of capacity and energy from Grand Gulf are being made pursuant to the Unit Power Sales Agreement.  If, for any reason, sales of capacity and energy are made in the future pursuant to the Availability Agreement, the jurisdictional portions of the Availability Agreement would be submitted to the FERC for approval.
+
+Since commercial operation of Grand Gulf began, payments under the Unit Power Sales Agreement to System Energy have exceeded the amounts payable under the Availability Agreement and, therefore, no payments under the Availability Agreement have ever been required.  If Entergy Arkansas or Entergy Mississippi fails to make its Unit Power Sales Agreement payments, and System Energy is unable to obtain funds from other sources, Entergy Louisiana and Entergy New Orleans could become subject to claims or demands by System Energy or its creditors for payments or advances under the Availability Agreement (or the assignments thereof) equal to the difference between their required Unit Power Sales Agreement payments and their required Availability Agreement payments because their Availability Agreement obligations exceed their Unit Power Sales Agreement obligations.
+
+The Availability Agreement may be terminated, amended, or modified by mutual agreement of the parties thereto, without further consent of any assignees or other creditors.
+260
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+
+Service Companies
+
+Entergy Services, a limited liability company wholly-owned by Entergy Corporation, provides management, administrative, accounting, legal, engineering, and other services primarily to the Utility operating companies, but also provides services to Entergy Wholesale Commodities. Entergy Operations is also wholly-owned by Entergy Corporation and provides nuclear management, operations and maintenance services under contract for ANO, River Bend, Waterford 3, and Grand Gulf, subject to the owner oversight of Entergy Arkansas, Entergy Louisiana, and System Energy, respectively.  Entergy Services and Entergy Operations provide their services to the Utility operating companies and System Energy on an “at cost” basis, pursuant to cost allocation methodologies for these service agreements that were approved by the FERC.
+
+Jurisdictional Separation of Entergy Gulf States, Inc. into Entergy Gulf States Louisiana and Entergy Texas
+
+Effective December 31, 2007, Entergy Gulf States, Inc. completed a jurisdictional separation into two vertically integrated utility companies, one operating under the sole retail jurisdiction of the PUCT, Entergy Texas, and the other operating under the sole retail jurisdiction of the LPSC, Entergy Gulf States Louisiana.  Entergy Texas owns all Entergy Gulf States, Inc. distribution and transmission assets located in Texas, the gas-fired generating plants located in Texas, undivided 42.5% ownership shares of Entergy Gulf States, Inc.’s 70% ownership interest in Nelson Unit 6 and 42% ownership interest in Big Cajun 2, Unit 3, which are coal-fired generating plants located in Louisiana, and other assets and contract rights to the extent related to utility operations in Texas.  Entergy Louisiana, as successor in interest to Entergy Gulf States Louisiana, owns all of the remaining assets that were owned by Entergy Gulf States, Inc.  On a book value basis, approximately 58.1% of the Entergy Gulf States, Inc. assets were allocated to Entergy Gulf States Louisiana and approximately 41.9% were allocated to Entergy Texas.
+
+Entergy Texas purchases from Entergy Louisiana pursuant to a life-of-unit purchased power agreement a 42.5% share of capacity and energy from the 70% of River Bend subject to retail regulation.  Entergy Texas was allocated a share of River Bend’s nuclear and environmental liabilities that is identical to the share of the plant’s output purchased by Entergy Texas under the purchased power agreement.  In connection with the termination of the System Agreement effective August 31, 2016, the purchased power agreements that were put in place for certain legacy units at the time of the jurisdictional separation were also terminated at that time. See Note 2 to the financial statements for additional discussion of the purchased power agreements.
+
+Entergy Louisiana and Entergy Gulf States Louisiana Business Combination
+
+On October 1, 2015, the businesses formerly conducted by Entergy Louisiana (Old Entergy Louisiana) and Entergy Gulf States Louisiana (Old Entergy Gulf States Louisiana) were combined into a single public utility. In order to effect the business combination, under the Texas Business Organizations Code (TXBOC), Old Entergy Louisiana allocated substantially all of its assets to a new subsidiary, Entergy Louisiana Power, LLC, a Texas limited liability company (New Entergy Louisiana), and New Entergy Louisiana assumed the liabilities of Old Entergy Louisiana, in a transaction regarded as a merger under the TXBOC. Under the TXBOC, Old Entergy Gulf States Louisiana allocated substantially all of its assets to a new subsidiary (New Entergy Gulf States Louisiana) and New Entergy Gulf States Louisiana assumed the liabilities of Old Entergy Gulf States Louisiana, in a transaction regarded as a merger under the TXBOC. New Entergy Gulf States Louisiana then merged into New Entergy Louisiana with New Entergy Louisiana surviving the merger. Thereupon, Old Entergy Louisiana changed its name from “Entergy Louisiana, LLC” to “EL Investment Company, LLC” and New Entergy Louisiana changed its name from “Entergy Louisiana Power, LLC” to “Entergy Louisiana, LLC” (Entergy Louisiana). With the completion of the business combination, Entergy Louisiana holds substantially all of the assets, and has assumed the liabilities, of Old Entergy Louisiana and Old Entergy Gulf States Louisiana.
+
+261
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+Entergy New Orleans Internal Restructuring
+
+In November 2017, pursuant to the agreement in principle, Entergy New Orleans, Inc. undertook a multi-step restructuring, including the following:
+
+•Entergy New Orleans, Inc. redeemed its outstanding preferred stock at a price of approximately $21 million, which included a call premium of approximately $819,000, plus any accumulated and unpaid dividends.
+•Entergy New Orleans, Inc. converted from a Louisiana corporation to a Texas corporation.
+•Under the Texas Business Organizations Code (TXBOC), Entergy New Orleans, Inc. allocated substantially all of its assets to a new subsidiary, Entergy New Orleans Power, LLC, a Texas limited liability company (Entergy New Orleans Power), and Entergy New Orleans Power assumed substantially all of the liabilities of Entergy New Orleans, Inc. in a transaction regarded as a merger under the TXBOC. Entergy New Orleans, Inc. remained in existence and held the membership interests in Entergy New Orleans Power.
+•Entergy New Orleans, Inc. contributed the membership interests in Entergy New Orleans Power to an affiliate (Entergy Utility Holding Company, LLC, a Texas limited liability company and subsidiary of Entergy Corporation). As a result of the contribution, Entergy New Orleans Power is a wholly-owned subsidiary of Entergy Utility Holding Company, LLC.
+
+In December 2017, Entergy New Orleans, Inc. changed its name to Entergy Utility Group, Inc., and Entergy New Orleans Power then changed its name to Entergy New Orleans, LLC. Entergy New Orleans, LLC holds substantially all of the assets, and has assumed substantially all of the liabilities, of Entergy New Orleans, Inc. The restructuring was accounted for as a transaction between entities under common control.
+
+Entergy Arkansas Internal Restructuring
+
+In November 2018, Entergy Arkansas undertook a multi-step restructuring, including the following:
+
+•Entergy Arkansas, Inc. redeemed its outstanding preferred stock at the aggregate redemption price of approximately $32.7 million.
+•Entergy Arkansas, Inc. converted from an Arkansas corporation to a Texas corporation.
+•Under the Texas Business Organizations Code (TXBOC), Entergy Arkansas, Inc. allocated substantially all of its assets to a new subsidiary, Entergy Arkansas Power, LLC, a Texas limited liability company (Entergy Arkansas Power), and Entergy Arkansas Power assumed substantially all of the liabilities of Entergy Arkansas, Inc., in a transaction regarded as a merger under the TXBOC. Entergy Arkansas, Inc. remained in existence and held the membership interests in Entergy Arkansas Power.
+•Entergy Arkansas, Inc. contributed the membership interests in Entergy Arkansas Power to an affiliate (Entergy Utility Holding Company, LLC, a Texas limited liability company and subsidiary of Entergy Corporation). As a result of the contribution, Entergy Arkansas Power is a wholly-owned subsidiary of Entergy Utility Holding Company, LLC.
+
+In December 2018, Entergy Arkansas, Inc. changed its name to Entergy Utility Property, Inc., and Entergy Arkansas Power then changed its name to Entergy Arkansas, LLC. Entergy Arkansas, LLC holds substantially all of the assets, and assumed substantially all of the liabilities, of Entergy Arkansas, Inc. The transaction was accounted for as a transaction between entities under common control.
+
+Entergy Mississippi Internal Restructuring
+
+In November 2018, Entergy Mississippi undertook a multi-step restructuring, including the following:
+
+•Entergy Mississippi, Inc. redeemed its outstanding preferred stock, at the aggregate redemption price of approximately $21.2 million.
+•Entergy Mississippi, Inc. converted from a Mississippi corporation to a Texas corporation.
+262
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+•Under the Texas Business Organizations Code (TXBOC), Entergy Mississippi, Inc. allocated substantially all of its assets to a new subsidiary, Entergy Mississippi Power and Light, LLC, a Texas limited liability company (Entergy Mississippi Power and Light), and Entergy Mississippi Power and Light assumed substantially all of the liabilities of Entergy Mississippi, Inc., in a transaction regarded as a merger under the TXBOC. Entergy Mississippi, Inc. remained in existence and held the membership interests in Entergy Mississippi Power and Light.
+•Entergy Mississippi, Inc. contributed the membership interests in Entergy Mississippi Power and Light to an affiliate (Entergy Utility Holding Company, LLC, a Texas limited liability company and subsidiary of Entergy Corporation). As a result of the contribution, Entergy Mississippi Power and Light is a wholly-owned subsidiary of Entergy Utility Holding Company, LLC.
+
+In December 2018, Entergy Mississippi, Inc. changed its name to Entergy Utility Enterprises, Inc., and Entergy Mississippi Power and Light then changed its name to Entergy Mississippi, LLC. Entergy Mississippi, LLC holds substantially all of the assets, and assumed substantially all of the liabilities, of Entergy Mississippi, Inc. The restructuring was accounted for as a transaction between entities under common control.
+
+Entergy Wholesale Commodities
+
+Entergy Wholesale Commodities includes the ownership, operation, and decommissioning of nuclear power plants, located in the northern United States and the sale of the electric power produced by its operating plants to wholesale customers. Entergy Wholesale Commodities revenues are primarily derived from sales of energy and generation capacity from these plants. Entergy Wholesale Commodities also provides operations and management services, including decommissioning-related services, to nuclear power plants owned by non-affiliated entities in the United States. Entergy Wholesale Commodities also includes the ownership of interests in non-nuclear power plants that sell the electric power produced by those plants to wholesale customers.
+
+See “Entergy Wholesale Commodities Exit from the Merchant Power Business” in Entergy Corporation and Subsidiaries Management’s Financial Discussion and Analysis for further discussion of the operation and planned shutdown and sale of each of the remaining Entergy Wholesale Commodities nuclear power plants.
+
+Property
+
+Nuclear Generating Stations
+
+Entergy Wholesale Commodities includes the ownership of the following nuclear power plants:
+Power Plant		Market		In Service Year		Acquired		Location		Capacity - Reactor Type		License Expiration Date	Indian Point 3 (a)		NYISO		1976		Nov. 2000		Buchanan, NY		1,041 MW - Pressurized Water		2025 (a)	Indian Point 2 (a)		NYISO		1974		Sept. 2001		Buchanan, NY		1,028 MW - Pressurized Water		2024 (a)	Palisades (b)		MISO		1971		Apr. 2007		Covert,
+MI		811 MW - Pressurized Water		2031 (b) 
+
+(a)Power operations ceased at the Indian Point 2 plant in April 2020. The fuel was permanently removed from the reactor vessel and placed in the spent fuel pool in May 2020. The Indian Point 3 plant is expected to cease operations on April 30, 2021. Entergy and Holtec jointly filed a license transfer application with the NRC in November 2019, requesting approval for the transfer of the Indian Point plants, along with their nuclear decommissioning trusts and decommissioning liabilities, from Entergy to Holtec. The NRC approved the license transfer application on November 23, 2020.
+263
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+(b)The Palisades plant is expected to cease operations on May 31, 2022. There is a contract to sell the plant to Holtec subject to NRC and other regulatory approvals.
+
+See “Entergy Wholesale Commodities Exit from the Merchant Power Business” in Entergy Corporation and Subsidiaries Management’s Financial Discussion and Analysis for further discussion of the operation and planned shutdown and sale of each of the remaining Entergy Wholesale Commodities nuclear power plants.
+
+Entergy Wholesale Commodities also includes the ownership of two non-operating nuclear facilities, Big Rock Point in Michigan and Indian Point 1 in New York that were acquired when Entergy purchased the Palisades and Indian Point 2 nuclear plants, respectively. These facilities are in various stages of the decommissioning process. Both Big Rock Point and Indian Point 1 are under contract to be sold with their respective plants.
+
+Non-nuclear Generating Stations
+
+Entergy Wholesale Commodities includes the ownership, or interests in joint ventures that own, the following non-nuclear power plants:
+Plant		Location		Ownership		Net Owned Capacity (a)		Type	Independence Unit 2;   842 MW		Newark, AR		14%		    121 MW(b)		Coal	RS Cogen;   425 MW (c)		Lake Charles, LA		50%		213 MW		Gas/Steam	Nelson Unit 6;   550 MW		Westlake, LA		11%		       60 MW(b)		Coal 
+
+(a)“Net Owned Capacity” refers to the nameplate rating on the generating unit.
+(b)The owned MW capacity is the portion of the plant capacity owned by Entergy Wholesale Commodities.  For a complete listing of Entergy’s jointly-owned generating stations, refer to “Jointly-Owned Generating Stations” in Note 1 to the financial statements.
+(c)Indirectly owned through an interest in an unconsolidated joint venture. In December 2020, Entergy’s wholly-owned subsidiary with a direct interest in RS Cogen, LLC entered into a membership interest purchase agreement with a subsidiary of the other 50% equity partner to sell its 50% membership interest in the joint venture to the equity partner. The targeted closing date for the transaction is October 2022.
+
+Independent System Operators
+
+The Indian Point plants fall under the authority of the New York Independent System Operator (NYISO). The Palisades plant falls under the authority of the MISO. The primary purpose of NYISO and MISO is to direct the operations of the major generation and transmission facilities in their respective regions; ensure grid reliability; administer and monitor wholesale electricity markets; and plan for their respective region’s energy needs.
+
+Energy and Capacity Sales
+
+As a wholesale generator, Entergy Wholesale Commodities’ core business is selling energy, measured in MWh, to its customers.  Entergy Wholesale Commodities enters into forward contracts with its customers and also sells energy in the day ahead or spot markets.  Entergy Wholesale Commodities also sells unforced capacity, which allows load-serving entities to meet specified reserve and related requirements placed on them by the ISOs in their respective areas.  Entergy Wholesale Commodities’ forward physical power contracts consist of contracts to sell energy only, contracts to sell capacity only, and bundled contracts in which it sells both capacity and energy.  While the terminology and payment mechanics vary in these contracts, each of these types of contracts requires Entergy Wholesale Commodities to deliver MWh of energy, make capacity available, or both. See “Market and Credit Risk Sensitive Instruments” in Entergy Corporation and Subsidiaries Management’s Financial Discussion and Analysis for additional information regarding these contracts.
+
+264
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+As part of the purchase of the Palisades plant in 2007, Entergy executed a 15-year PPA with the seller, Consumers Energy, for 100% of the plant’s output, excluding any future uprates. Under the purchased power agreement, Consumers Energy receives the value of any new environmental credits for the first ten years of the agreement. Palisades and Consumers Energy will share on a 50/50 basis the value of any new environmental credits for years 11 through 15 of the agreement. The environmental credits are defined as benefits from a change in law that causes capability of the plant as of the purchase date to become a tradable attribute (e.g., emission credit, renewable energy credit, environmental credit, “green” credit, etc.) or otherwise to have a market value. Entergy intends to shut down the Palisades nuclear power plant permanently on May 31, 2022 and transfer to Holtec thereafter.
+
+Customers
+
+Entergy Wholesale Commodities’ customers for the sale of both energy and capacity from its nuclear plants include retail power providers, utilities, electric power co-operatives, power trading organizations, and other power generation companies. These customers include Consumers Energy, the company from which Entergy purchased the Palisades plant, and NYISO and MISO. Substantially all the credit exposure associated with the planned energy output under contract for Entergy Wholesale Commodities nuclear plants is with counterparties or their guarantors that have public investment grade credit ratings.
+
+Competition
+
+The NYISO market is highly competitive. Entergy Wholesale Commodities has numerous competitors in New York including generation companies affiliated with regulated utilities, other independent power producers, municipal and co-operative generators, owners of co-generation plants and wholesale power marketers. Entergy Wholesale Commodities is an independent power producer, which means it generates power for sale to third parties at day ahead or spot market prices to the extent that the power is not sold under a fixed price contract. Municipal and co-operative generators also generate power but use most of it to deliver power to their municipal or co-operative power customers. Owners of co-generation plants produce power primarily for their own consumption. Wholesale power marketers do not own generation; rather they buy power from generators or other market participants and resell it to retail providers or other market participants. Competition in the New York power market is affected by, among other factors, the amount of generation and transmission capacity in these markets. MISO does not have a centralized clearing capacity market, but load serving entities do meet most of their capacity needs through bilateral contracts and self-supply with a smaller portion coming through voluntary MISO auctions. Almost all of Palisades’ current output is contracted to Consumers Energy through May 2022. Entergy Wholesale Commodities does not expect to be materially affected by competition in the MISO market in the near term.
+
+Seasonality
+
+Entergy Wholesale Commodities’ revenues and operating income are subject to fluctuations during the year due to seasonal factors, weather conditions, and contract pricing. When outdoor and cooling water temperatures are low, generally during colder months, Entergy Wholesale Commodities nuclear power plants operate more efficiently, and consequently, generate more electricity. Many of Entergy Wholesale Commodities’ contracts provide for shaped pricing over the course of the year. As a result of these factors, Entergy Wholesale Commodities’ revenues are typically higher in the first and third quarters than in the second and fourth quarters.
+
+Fuel Supply
+
+Nuclear Fuel
+
+See “Fuel Supply - Nuclear Fuel” in the Utility portion of Part I, Item 1 for a discussion of the nuclear fuel cycle and markets. Entergy Nuclear Fuels Company, a wholly-owned subsidiary, is responsible for contracts to acquire nuclear materials, except for fuel fabrication, for Entergy Wholesale Commodities nuclear power plants,
+265
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+while Entergy Nuclear Operations, Inc. acts as the agent for the purchase of nuclear fuel assembly fabrication services. All contracts for the disposal of spent nuclear fuel are between the DOE and each of the nuclear power plant owners. The nuclear fuel supply portfolio for the Entergy Wholesale Commodities segment has been adjusted to reflect reduced overall requirements related to the planned permanent shutdowns of the Indian Point 3 and Palisades plants. Fuel procurement for the Entergy Wholesale Commodities segment was primarily limited to the requirements of the Palisades plant’s final refueling in 2020.
+
+Other Business Activities
+
+Entergy Nuclear Power Marketing, LLC (ENPM) was formed in 2005 to centralize the power marketing function for Entergy Wholesale Commodities nuclear plants. Upon its formation, ENPM entered into long-term power purchase agreements with the Entergy Wholesale Commodities subsidiaries that own nuclear power plants (generating subsidiaries). As part of a series of agreements, ENPM agreed to assume and/or otherwise service the existing power purchase agreements that were in effect between the generating subsidiaries and their customers. ENPM’s functions include origination of new energy and capacity transactions and generation scheduling.
+
+Services provided by either Entergy Nuclear, Inc. or other Entergy Wholesale Commodities subsidiaries include engineering, operations and maintenance, fuel procurement, management and supervision, technical support and training, administrative support, and other managerial or technical services required to operate, maintain, and decommission nuclear electric power facilities.
+
+TLG Services, a subsidiary in the Entergy Wholesale Commodities segment, offers decommissioning, engineering, and related services to nuclear power plant owners.
+
+Entergy provides plant operation support services for the 800 MW Cooper Nuclear Station located near Brownville, Nebraska. In 2010 an Entergy subsidiary signed an agreement to extend the management support services to Cooper Nuclear Station by 15 years, through January 2029.
+
+Regulation of Entergy’s Business
+
+Federal Power Act
+
+The Federal Power Act provides the FERC the authority to regulate:
+
+•the transmission and wholesale sale of electric energy in interstate commerce;
+•the reliability of the high voltage interstate transmission system through reliability standards;
+•sale or acquisition of certain assets;
+•securities issuances;
+•the licensing of certain hydroelectric projects;
+•certain other activities, including accounting policies and practices of electric and gas utilities; and
+•changes in control of FERC jurisdictional entities or rate schedules.
+
+The Federal Power Act gives the FERC jurisdiction over the rates charged by System Energy for Grand Gulf capacity and energy provided to Entergy Arkansas, Entergy Louisiana, Entergy Mississippi, and Entergy New Orleans and over the rates charged by Entergy Arkansas and Entergy Louisiana to unaffiliated wholesale customers. The FERC also regulates wholesale power sales between the Utility operating companies. In addition, the FERC regulates the MISO RTO, an independent entity that maintains functional control over the combined transmission systems of its members and administers wholesale energy, capacity, and ancillary services markets for market participants in the MISO region, including the Utility operating companies. FERC regulation of the MISO RTO includes regulation of the design and implementation of the wholesale markets administered by the MISO RTO, as well as the rates, terms, and conditions of open access transmission service over the member systems and the allocation of costs associated with transmission upgrades.
+266
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+
+Entergy Arkansas holds a FERC license that expires in 2053 for two hydroelectric projects totaling 70 MW of capacity.
+
+State Regulation
+
+Utility
+
+Entergy Arkansas is subject to regulation by the APSC as to the following:
+
+•utility service;
+•utility service areas;
+•retail rates and charges, including depreciation rates;
+•fuel cost recovery, including audits of the energy cost recovery rider;
+•terms and conditions of service;
+•service standards;
+•the acquisition, sale, or lease of any public utility plant or property constituting an operating unit or system;
+•certificates of convenience and necessity and certificates of environmental compatibility and public need, as applicable, for generating and transmission facilities;
+•avoided cost payments to Qualifying Facilities;
+•net energy metering;
+•integrated resource planning;
+•utility mergers and acquisitions and other changes of control; and
+•the issuance and sale of certain securities.
+
+Additionally, Entergy Arkansas serves a limited number of retail customers in Tennessee. Pursuant to legislation enacted in Tennessee, Entergy Arkansas is subject to complaints before the Tennessee Regulatory Authority only if it fails to treat its retail customers in Tennessee in the same manner as its retail customers in Arkansas. Additionally, Entergy Arkansas maintains limited facilities in Missouri but does not provide retail electric service to customers in Missouri. Although Entergy Arkansas obtained a certificate with respect to its Missouri facilities, Entergy Arkansas is not subject to retail ratemaking or other regulatory jurisdiction in Missouri.
+
+Entergy Louisiana’s electric and gas business is subject to regulation by the LPSC as to the following:
+
+•utility service;
+•retail rates and charges, including depreciation rates;
+•fuel cost recovery, including audits of the fuel adjustment clause and purchased gas adjustment charge;
+•terms and conditions of service;
+•service standards;
+•certification of certain transmission projects;
+•certification of capacity acquisitions, both for owned capacity and purchase power contracts;
+•procurement process to acquire over 50 MW;
+•audits of the environmental adjustment charge, avoided cost payment to Qualifying Facilities, and energy efficiency rider;
+•integrated resource planning;
+•net energy metering; and
+•utility mergers and acquisitions and other changes of control.
+
+Entergy Mississippi is subject to regulation by the MPSC as to the following:
+
+•utility service;
+•utility service areas;
+267
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+•retail rates and charges, including depreciation rates;
+•fuel cost recovery, including audits of the energy cost recovery mechanism;
+•terms and conditions of service;
+•service standards;
+•certification of generating facilities and certain transmission projects;
+•avoided cost payments to Qualifying Facilities;
+•integrated resource planning;
+•net energy metering; and
+•utility mergers, acquisitions, and other changes of control.
+
+Entergy Mississippi is also subject to regulation by the APSC as to the certificate of environmental compatibility and public need for the Independence Station, which is located in Arkansas.
+
+Entergy New Orleans is subject to regulation by the City Council as to the following:
+
+•utility service;
+•retail rates and charges, including depreciation rates;
+•fuel cost recovery, including audits of the fuel adjustment charge and purchased gas adjustment charge;
+•terms and conditions of service;
+•service standards;
+•audit of the environmental adjustment charge;
+•certification of the construction or extension of any new plant, equipment, property, or facility that comprises more than 2% of the utility’s rate base;
+•integrated resource planning;
+•net energy metering;
+•issuance and sale of certain securities; and
+•utility mergers and acquisitions and other changes of control.
+
+To the extent authorized by governing legislation, Entergy Texas is subject to the original jurisdiction of the municipal authorities of a number of incorporated cities in Texas with appellate jurisdiction over such matters residing in the PUCT.  Entergy Texas is also subject to regulation by the PUCT as to the following:
+
+•retail rates and charges, including depreciation rates, and terms and conditions of service in unincorporated areas of its service territory, and in municipalities that have ceded jurisdiction to the PUCT;
+•fuel recovery, including reconciliations (audits) of the fuel adjustment charges;
+•service standards;
+•certification of certain transmission and generation projects;
+•utility service areas, including extensions into new areas;
+•avoided cost payments to Qualifying Facilities;
+•net energy metering; and
+•utility mergers, sales/acquisitions/leases of plants over $10 million, sales of greater than 50% voting stock of utilities, and transfers of controlling interest in or operation of utilities.
+
+268
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+Regulation of the Nuclear Power Industry
+
+Atomic Energy Act of 1954 and Energy Reorganization Act of 1974
+
+Under the Atomic Energy Act of 1954 and the Energy Reorganization Act of 1974, the operation of nuclear plants is heavily regulated by the NRC, which has broad power to impose licensing and safety-related requirements.  The NRC has broad authority to impose civil penalties or shut down a unit, or both, depending upon its assessment of the severity of the situation, until compliance is achieved. Entergy Arkansas, Entergy Louisiana, and System Energy, as owners of all or portions of ANO, River Bend and Waterford 3, and Grand Gulf, respectively, and Entergy Operations, as the licensee and operator of these units, are subject to the jurisdiction of the NRC. Entergy subsidiaries in the Entergy Wholesale Commodities segment are subject to the NRC’s jurisdiction as the owners and operators of Indian Point Energy Center, Palisades, and Big Rock Point.
+
+Nuclear Waste Policy Act of 1982
+
+Spent Nuclear Fuel
+
+Under the Nuclear Waste Policy Act of 1982, the DOE is required, for a specified fee, to construct storage facilities for, and to dispose of, all spent nuclear fuel and other high-level radioactive waste generated by domestic nuclear power reactors. Entergy’s nuclear owner/licensee subsidiaries have been charged fees for the estimated future disposal costs of spent nuclear fuel in accordance with the Nuclear Waste Policy Act of 1982. The affected Entergy companies entered into contracts with the DOE, whereby the DOE is to furnish disposal services at a cost of one mill per net kWh generated and sold after April 7, 1983, plus a one-time fee for generation prior to that date. Entergy Arkansas is the only one of the Utility operating companies that generated electric power with nuclear fuel prior to that date and has a recorded liability as of December 31, 2020 of $192.0 million for the one-time fee. Entergy accepted assignment of the Pilgrim, FitzPatrick, Indian Point 3, Indian Point 1 and Indian Point 2, Vermont Yankee, Palisades, and Big Rock Point spent fuel disposal contracts with the DOE held by their previous owners. The FitzPatrick spent fuel disposal contract was assigned to Exelon as part of the sale of the plant, completed in March 2017. The Vermont Yankee spent fuel disposal contract was assigned to NorthStar as part of the sale of the plant in January 2019. The Pilgrim spent fuel disposal contract was transferred to Holtec as part of the sale of Entergy Nuclear Generation Company in August 2019. The owners of these plants previous to Entergy have paid or retained liability for the fees for all generation prior to the purchase dates of those plants. The fees payable to the DOE may be adjusted in the future to assure full recovery.  Entergy considers all costs incurred for the disposal of spent nuclear fuel, except accrued interest, to be proper components of nuclear fuel expense.  Provisions to recover such costs have been or will be made in applications to regulatory authorities for the Utility plants.  Entergy’s total spent fuel fees to date, including the one-time fee liability of Entergy Arkansas, have surpassed $1.6 billion (exclusive of amounts relating to Entergy plants that were paid or are owed by prior owners of those plants).
+
+The permanent spent fuel repository in the U.S. has been legislated to be Yucca Mountain, Nevada. The DOE is required by law to proceed with the licensing (the DOE filed the license application in June 2008) and, after the license is granted by the NRC, proceed with the repository construction and commencement of receipt of spent fuel. Because the DOE has not begun accepting spent fuel, it is in non-compliance with the Nuclear Waste Policy Act of 1982 and has breached its spent fuel disposal contracts. The DOE continues to delay meeting its obligation. Specific steps were taken to discontinue the Yucca Mountain project, including a motion to the NRC to withdraw the license application with prejudice and the establishment of a commission to develop recommendations for alternative spent fuel storage solutions. In August 2013 the U.S. Court of Appeals for the D.C. Circuit ordered the NRC to continue with the Yucca Mountain license review, but only to the extent of funds previously appropriated by Congress for that purpose and not yet used. Although the NRC completed the safety evaluation report for the license review in 2015, the previously appropriated funds are not sufficient to complete the review, including required hearings. The government has taken no effective action to date related to the recommendations of the appointed spent fuel study commission. Accordingly, large uncertainty remains regarding the time frame under
+269
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+which the DOE will begin to accept spent fuel from Entergy’s facilities for storage or disposal. As a result, continuing future expenditures will be required to increase spent fuel storage capacity at Entergy’s nuclear sites.
+
+Following the defunding of the Yucca Mountain spent fuel repository program, the National Association of Regulatory Utility Commissioners and others sued the government seeking cessation of collection of the one mill per net kWh generated and sold after April 7, 1983 fee. In November 2013 the D.C. Circuit Court of Appeals ordered the DOE to submit a proposal to Congress to reset the fee to zero until the DOE complies with the Nuclear Waste Policy Act or Congress enacts an alternative waste disposal plan. In January 2014 the DOE submitted the proposal to Congress under protest, and also filed a petition for rehearing with the D.C. Circuit. The petition for rehearing was denied. The zero spent fuel fee went into effect prospectively in May 2014.
+
+As a result of the DOE’s failure to begin disposal of spent nuclear fuel in 1998 pursuant to the Nuclear Waste Policy Act of 1982 and the spent fuel disposal contracts, Entergy’s nuclear owner/licensee subsidiaries have incurred and will continue to incur damages. These subsidiaries have been, and continue to be, involved in litigation to recover the damages caused by the DOE’s delay in performance. See Note 8 to the financial statements for discussion of final judgments recorded by Entergy in 2018, 2019, and 2020 related to Entergy’s nuclear owner licensee subsidiaries’ litigation with the DOE. Through 2020, Entergy’s subsidiaries won and collected on judgments against the government totaling approximately $800 million.
+
+Pending DOE acceptance and disposal of spent nuclear fuel, the owners of nuclear plants are providing their own spent fuel storage.  Storage capability additions using dry casks began operations at Palisades in 1993, at ANO in 1996, at River Bend in 2005, at Grand Gulf in 2006, at Indian Point in 2008, and at Waterford 3 in 2011.  These facilities will be expanded as needed.
+
+Nuclear Plant Decommissioning
+
+Entergy Arkansas, Entergy Louisiana, and System Energy are entitled to recover from customers through electric rates the estimated decommissioning costs for ANO, Waterford 3, and Grand Gulf, respectively.  In addition, Entergy Louisiana and Entergy Texas are entitled to recover from customers through electric rates the estimated decommissioning costs for the portion of River Bend subject to retail rate regulation. The collections are deposited in trust funds that can only be used in accordance with NRC and other applicable regulatory requirements.  Entergy periodically reviews and updates the estimated decommissioning costs to reflect inflation and changes in regulatory requirements and technology, and then makes applications to the regulatory authorities to reflect, in rates, the changes in projected decommissioning costs.
+
+In December 2018 the APSC ordered collections in rates for decommissioning ANO 2 and found that ANO 1’s decommissioning was adequately funded without additional collections. In October 2020, Entergy Arkansas filed a revised decommissioning cost recovery tariff for ANO indicating that both ANO 1 and ANO 2 decommissioning trusts were adequately funded without further collections, and in December 2020, the APSC ordered zero collections for ANO 1 and ANO 2 decommissioning.
+
+In July 2010 the LPSC approved increased decommissioning collections for Waterford 3 and the Louisiana regulated share of River Bend to address previously identified funding shortfalls. This LPSC decision contemplated that the level of decommissioning collections could be revisited should the NRC grant license extensions for both Waterford 3 and River Bend. In July 2019, following the NRC approval of license extensions for Waterford 3 and River Bend, Entergy Louisiana made a filing with the LPSC seeking to adjust decommissioning and depreciation rates for those plants, including one proposed scenario that would adjust Louisiana-jurisdictional decommissioning collections to zero for both plants (including an offsetting increase in depreciation rates). Because of the ongoing public health emergency arising from the COVID-19 pandemic and accompanying economic uncertainty, Entergy Louisiana determined that the relief sought in the filing was no longer appropriate, and in November 2020, filed an unopposed motion to dismiss the proceeding. Following that filing, in a December 2020 order, the LPSC dismissed the proceeding without prejudice.
+270
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+
+In December 2010 the PUCT approved increased decommissioning collections for the Texas share of River Bend to address previously identified funding shortfalls.  In December 2018 the PUCT approved a settlement that eliminated River Bend decommissioning collections for the Texas jurisdictional share of the plant based on a determination by Entergy Texas that the existing decommissioning fund was adequate following license renewal.
+
+In September 2016 the NRC issued a 20-year operating license renewal for Grand Gulf. In a 2017 filing at the FERC, System Energy stated that with the renewed operating license, Grand Gulf’s decommissioning trust was sufficiently funded, and proposed, among other things, to cease decommissioning collections for Grand Gulf effective October 1, 2017. The FERC accepted a settlement including the proposed decommissioning revenue requirement by letter order in August 2018.
+
+Entergy currently believes its decommissioning funding will be sufficient for its nuclear plants subject to retail rate regulation, although decommissioning cost inflation and trust fund performance will ultimately determine the adequacy of the funding amounts.
+
+In January 2019, Entergy sold 100% of the membership interest in Entergy Nuclear Vermont Yankee to a subsidiary of NorthStar. As a result of the sale, NorthStar assumed ownership of Vermont Yankee and its decommissioning and site restoration trusts, together with complete responsibility for the facility’s decommissioning and site restoration. See Note 9 to the financial statements for further discussion of Vermont Yankee decommissioning costs and see “Entergy Wholesale Commodities Exit from the Merchant Power Business” in Entergy Corporation and Subsidiaries Management’s Financial Discussion and Analysis for further discussion of the NorthStar transaction.
+
+In August 2019, Entergy sold 100% of the equity interests in Entergy Nuclear Generation Company, LLC to a subsidiary of Holtec International. As a result of the sale, Holtec assumed ownership of Pilgrim and its decommissioning trust, together with complete responsibility for the facility’s decommissioning and site restoration. See Note 14 to the financial statements for further discussion of the sale.
+
+For the Indian Point 3 and FitzPatrick plants purchased in 2000 from NYPA, NYPA retained the decommissioning trust funds and the decommissioning liabilities with the right to require the Entergy subsidiaries to assume each of the decommissioning liabilities provided that it assigns the corresponding decommissioning trust, up to a specified level, to the Entergy subsidiaries.  In August 2016, Entergy entered into a trust transfer agreement with NYPA to transfer the decommissioning trust funds and decommissioning liabilities for the Indian Point 3 and FitzPatrick plants to Entergy, which was completed in January 2017. In March 2017, Entergy sold the FitzPatrick plant to Exelon, and as part of the transaction, the FitzPatrick decommissioning trust fund, along with the decommissioning obligation for that plant, was transferred to Exelon. The FitzPatrick spent fuel disposal contract was assigned to Exelon as part of the transaction. See Note 14 to the financial statements for discussion of the FitzPatrick sale.
+
+In March 2020 filings with the NRC were made reporting on decommissioning funding for all of Entergy subsidiaries’ nuclear plants.  Those reports showed that decommissioning funding for each of the nuclear plants met the NRC’s financial assurance requirements.
+
+Additional information with respect to Entergy’s decommissioning costs and decommissioning trust funds is found in Note 9 and Note 16 to the financial statements.
+
+Price-Anderson Act
+
+The Price-Anderson Act requires that reactor licensees purchase and maintain the maximum amount of nuclear liability insurance available and participate in an industry assessment program called Secondary Financial Protection in order to protect the public in the event of a nuclear power plant accident.  The costs of this insurance
+271
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+are borne by the nuclear power industry.  Congress amended and renewed the Price-Anderson Act in 2005 for a term through 2025.  The Price-Anderson Act limits the contingent liability for a single nuclear incident to a maximum assessment of approximately $137.6 million per reactor (with 97 nuclear industry reactors currently participating).  In the case of a nuclear event in which Entergy Arkansas, Entergy Louisiana, System Energy, or an Entergy Wholesale Commodities company is liable, protection is afforded through a combination of private insurance and the Secondary Financial Protection program. In addition to this, insurance for property damage, costs of replacement power, and other risks relating to nuclear generating units is also purchased.  The Price-Anderson Act and insurance applicable to the nuclear programs of Entergy are discussed in more detail in Note 8 to the financial statements.
+
+NRC Reactor Oversight Process
+
+The NRC’s Reactor Oversight Process is a program to collect information about plant performance, assess the information for its safety significance, and provide for appropriate licensee and NRC response. The NRC evaluates plant performance by analyzing two distinct inputs: inspection findings resulting from the NRC’s inspection program and performance indicators reported by the licensee. The evaluations result in the placement of each plant in one of the NRC’s Reactor Oversight Process Action Matrix columns: “licensee response column,” or Column 1, “regulatory response column,” or Column 2, “degraded cornerstone column,” or Column 3, and “multiple/repetitive degraded cornerstone column,” or Column 4. Plants in Column 1 are subject to normal NRC inspection activities. Plants in Column 2, Column 3, or Column 4 are subject to progressively increasing levels of inspection by the NRC with, in general, progressively increasing levels of associated costs. The nuclear generating plants owned and operated by Entergy’s Utility and Entergy Wholesale Commodities businesses are currently in Column 1, except for Grand Gulf, which is currently in Column 2.
+
+In November 2020 the NRC placed Grand Gulf in Column 2 based on the incidence of three unplanned plant scrams during the second and third quarters of 2020. Two of the scram events related to new turbine control system components that failed, and a third related to a feedwater valve positioner that failed, all of which had been replaced in a refueling outage that ended in May 2020. The NRC plans to conduct a supplemental inspection of Grand Gulf in accordance with its inspection procedures for nuclear plants in Column 2. As a consequence of two additional Grand Gulf scrams during the fourth quarter 2020, System Energy expects Grand Gulf to be placed into NRC Column 3 based on plant performance indicators for the four quarters ended December 31, 2020. This will involve an additional supplemental NRC inspection of Grand Gulf in accordance with its inspection procedures for nuclear plants in Column 3.
+
+Environmental Regulation
+
+Entergy’s facilities and operations are subject to regulation by various governmental authorities having jurisdiction over air quality, water quality, control of toxic substances and hazardous and solid wastes, and other environmental matters.  Management believes that Entergy’s businesses are in substantial compliance with environmental regulations currently applicable to its facilities and operations, with reference to possible exceptions noted below.  Because environmental regulations are subject to change, future compliance requirements and costs cannot be precisely estimated.  Except to the extent discussed below, at this time compliance with federal, state, and local provisions regulating the discharge of materials into the environment, or otherwise protecting the environment, is incorporated into the routine cost structure of Entergy’s businesses and is not expected to have a material effect on their competitive position, results of operations, cash flows, or financial position.
+
+272
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+Clean Air Act and Subsequent Amendments
+
+The Clean Air Act and its amendments establish several programs that currently or in the future may affect Entergy’s fossil-fueled generation facilities and, to a lesser extent, certain operations at nuclear and other facilities.  Individual states also operate similar independent state programs or delegated federal programs that may include requirements more stringent than federal regulatory requirements.  These programs include:
+
+•New source review and preconstruction permits for new sources of criteria air pollutants, greenhouse gases, and significant modifications to existing facilities;
+•Acid rain program for control of sulfur dioxide (SO2) and nitrogen oxides (NOx);
+•Nonattainment area programs for control of criteria air pollutants, which could include fee assessments for air pollutant emission sources under Section 185 of the Clean Air Act if attainment is not reached in a timely manner;
+•Hazardous air pollutant emissions reduction programs;
+•Interstate Air Transport;
+•Operating permit programs and enforcement of these and other Clean Air Act programs;
+•Regional Haze programs; and
+•New and existing source standards for greenhouse gas and other air emissions.
+
+New Source Review (NSR)
+
+Preconstruction permits are required for new facilities and for existing facilities that undergo a modification that results in a significant net emissions increase and is not classified as routine repair, maintenance, or replacement.  Units that undergo certain non-routine modifications must obtain a permit modification and may be required to install additional air pollution control technologies. In December 2020 the EPA amended the NSR regulations to clarify when a physical change or change in the method of operation will constitute such a modification. Entergy has an established process for identifying modifications requiring additional permitting approval and is monitoring the regulations and associated guidance provided by the states and the federal government with regard to the determination of routine repair, maintenance, and replacement.  Several years ago, however, the EPA implemented an enforcement initiative, aimed primarily at coal plants, to identify modifications that it does not consider routine for which the unit did not obtain a modified permit.  Various courts and the EPA have been inconsistent in their judgments regarding modifications that are considered routine and on other legal issues that affect this program.
+
+In February 2011, Entergy received a request from the EPA for several categories of information concerning capital and maintenance projects at the White Bluff and Independence facilities, both located in Arkansas, in order to determine compliance with the Clean Air Act, including NSR requirements and air permits issued by the Arkansas Department of Energy and Environment, Division of Environmental Quality (ADEQ). In August 2011, Entergy’s Nelson facility, located in Louisiana, received a similar request for information from the EPA. In September 2015 an additional request for similar information was received for the White Bluff facility. Entergy responded to all requests. None of these EPA requests for information alleged that the facilities were in violation of law.
+
+In January and February 2018, Entergy Arkansas, Entergy Mississippi, Entergy Power, and other co-owners received 60-day notice of intent to sue letters from the Sierra Club and the National Parks Conservation Association concerning allegations of violations of new source review and permitting provisions of the Clean Air Act at the Independence and White Bluff coal-burning units, respectively. In November 2018, following extensive negotiations, Entergy Arkansas, Entergy Mississippi, and Entergy Power entered a proposed settlement resolving those claims as well as other issues facing Entergy Arkansas’s fossil generation plants. The settlement, which formally resolves a complaint filed by the Sierra Club and the National Parks Conservation Association, is subject to approval by the U.S. District Court for the Eastern District of Arkansas. In October 2019 the District Court requested supplemental briefing on several issues to be resolved prior to addressing the motion to approve the
+273
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+settlement; that briefing was completed in May 2020. For further information about the settlement, see “Regional Haze” discussed below.
+
+National Ambient Air Quality Standards
+
+The Clean Air Act requires the EPA to set National Ambient Air Quality Standards (NAAQS) for ozone, carbon monoxide, lead, nitrogen dioxide, particulate matter, and sulfur dioxide, and requires periodic review of those standards. When an area fails to meet an ambient standard, it is considered to be in nonattainment and is classified as “marginal,” “moderate,” “serious,” or “severe.” When an area fails to meet the ambient air standard, the EPA requires state regulatory authorities to prepare state implementation plans meant to cause progress toward bringing the area into attainment with applicable standards.
+
+Ozone Nonattainment
+
+Entergy Texas operates two fossil-fueled generating facilities (Lewis Creek and Montgomery County Power Station) in a geographic area that is not in attainment with the applicable NAAQS for ozone.  The ozone nonattainment area that affects Entergy Texas is the Houston-Galveston-Brazoria area.  Both Lewis Creek and the Montgomery County Power Station hold all necessary permits for construction and operation and comply with applicable air quality program regulations. Measures enacted to return the area to ozone attainment could make these program regulations more stringent. Entergy will continue to work with state environmental agencies on appropriate methods for assessing attainment and nonattainment with the ozone NAAQS.
+
+Potential SO2 Nonattainment
+
+The EPA issued a final rule in June 2010 adopting an SO2 1-hour national ambient air quality standard of 75 parts per billion.  In Entergy’s utility service territory, only St. Bernard Parish and Evangeline Parish in Louisiana are designated as nonattainment. In August 2017 the EPA issued a letter indicating that East Baton Rouge and St. Charles parishes would be designated by December 31, 2020, as monitors were installed to determine compliance. In December 2020 the EPA designated East Baton Rouge, St. Charles, St. James, and West Baton Rouge parishes in Louisiana as attainment/unclassifiable, and, in Texas, Jefferson County as attainment/unclassifiable and Orange County as unclassifiable. Challenges to these final designations must be filed within 60 days of publication in the Federal Register. Entergy continues to monitor this situation.
+
+Hazardous Air Pollutants
+
+The EPA released the final Mercury and Air Toxics Standard (MATS) rule in December 2011, which had a compliance date, with a widely granted one-year extension, of April 2016. The required controls have been installed and are operational at all affected Entergy units. In May 2020 the EPA finalized a rule that finds that it is not “appropriate and necessary” to regulate hazardous air pollutants from electric steam generating units under the provisions of section 112(n) of the Clean Air Act. This is a reversal of the EPA’s previous finding requiring such regulation. The final appropriate and necessary finding does not revise the underlying MATS rule. Several lawsuits have been filed challenging the appropriate and necessary finding. Entergy will continue to monitor this situation.
+
+Cross-State Air Pollution
+
+In March 2005 the EPA finalized the Clean Air Interstate Rule (CAIR), which was intended to reduce SO2 and NOx emissions from electric generation plants in order to improve air quality in twenty-nine eastern states. The rule required a combination of capital investment to install pollution control equipment and increased operating costs through the purchase of emission allowances. Entergy began implementation in 2007, including installation of controls at several facilities and the development of an emission allowance procurement strategy.
+
+274
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+Based on several court challenges, CAIR and its subsequent versions, now known as the Cross-State Air Pollution Rule (CSAPR), have been remanded to and modified by the EPA on multiple occasions. In September 2016 the EPA finalized the CSAPR Update Rule to address interstate transport for the 2008 ozone NAAQS. Starting in 2017 the final rule requires reductions in summer nitrogen oxides (NOx) emissions. Several states, including Arkansas and Texas, filed a challenge to the Update Rule. In September 2019 the D.C. Circuit upheld the EPA’s underlying approach to the Update Rule, but determined that it was inconsistent with the Clean Air Act because it failed to include deadlines consistent with downwind states’ deadlines for attainment. The court remanded the rule to the EPA for further consideration, but did not vacate so the rule remains in effect pending the EPA’s further review. In October 2020 the EPA issued its proposal intended to address the D.C. Circuit’s remand. The draft rule proposes to finalize interstate transport obligations for 21 states. For nine states, including Arkansas, Mississippi, and Texas, the EPA proposes that additional emission reductions are not necessary. For 12 states, however, including Louisiana, the EPA proposes additional emission reductions through proposed reductions in the number of NOx emission allowances allocated to each state. Entergy, through its various trade associations, filed comments on the proposal and will continue to monitor the rulemaking and its potential impact on its facilities in Louisiana. If the October 2020 proposal is finalized, ozone season NOx emissions may become more expensive in Louisiana.
+
+Regional Haze
+
+In June 2005 the EPA issued its final Clean Air Visibility Rule (CAVR) regulations that potentially could result in a requirement to install SO2 and NOx pollution control technology as Best Available Retrofit Control Technology (BART) to continue operating certain of Entergy’s fossil generation units.  The rule leaves certain CAVR determinations to the states.
+
+In Arkansas, the Arkansas Department of Energy and Environment, Division of Environmental Quality (ADEQ) prepared a state implementation plan (SIP) for Arkansas facilities to implement its obligations under the CAVR.   In April 2012 the EPA finalized a decision addressing the Arkansas Regional Haze SIP, in which it disapproved a large portion of the Arkansas plan, including the emission limits for NOx and SO2 at White Bluff.  In April 2015 the EPA published a proposed federal implementation plan (FIP) for Arkansas, taking comment on requiring installation of scrubbers and low NOx burners to continue operating both units at the White Bluff plant and both units at the Independence plant and NOx controls to continue operating the Lake Catherine plant. Entergy filed comments by the deadline in August 2015. Among other comments, including opposition to the EPA’s proposed controls on the Independence units, Entergy proposed to meet more stringent SO2 and NOx limits at both White Bluff and Independence within three years of the effective date of the final FIP and to cease the use of coal at the White Bluff units at a later date.
+
+In September 2016 the EPA published the final Arkansas Regional Haze FIP. In most respects, the EPA finalized its original proposal but shortened the time for compliance for installation of the NOx controls. The FIP required an emission limitation consistent with SO2 scrubbers at both White Bluff and Independence by October 2021 and NOx controls by April 2018. The EPA declined to adopt Entergy’s proposals related to ceasing coal use as an alternative to SO2 scrubbers for White Bluff SO2 BART. In November 2016, Entergy and other interested parties, including the State of Arkansas, filed petitions for administrative reconsideration and stay at the EPA as well as petitions for judicial review in the U.S. Court of Appeals for the Eighth Circuit. The Eighth Circuit granted the stay pending settlement discussions and pending the State’s development of a SIP that, if approved by the EPA, would replace the FIP. The state had proposed its replacement SIP in two parts: Part I considers NOx requirements, and Part II considers SO2 requirements. The EPA approved the Part I NOx SIP in January 2018. The Part I SIP requires that Entergy address NOx impacts on visibility via compliance with the Cross-State Air Pollution Rule ozone-season emission trading program. Arkansas has finalized a Part II SIP which has been approved by the EPA but is currently pending a state court appeal. That appeal has been stayed pending the outcome of a federal court case, which may resolve many of the issues on appeal. The final Part II SIP requires that Entergy achieve SO2 emission reductions via the use of low-sulfur coal at both White Bluff and Independence within three years. The
+275
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+Part II SIP also requires that Entergy cease to use coal at White Bluff by December 31, 2028 and notes the current planning assumption that Entergy’s Independence units will cease to use coal by December 31, 2030.
+
+In January and February 2018, Entergy Arkansas, Entergy Mississippi, Entergy Power, and other co-owners received 60-day notice of intent to sue letters from the Sierra Club and the National Parks Conservation Association concerning allegations of violations of new source review and permitting provisions of the Clean Air Act at the Independence and White Bluff coal-burning units, respectively. In November 2018, following extensive negotiations, Entergy Arkansas, Entergy Mississippi, and Entergy Power entered a proposed settlement resolving those claims and reducing the risk that Entergy Arkansas, as operator of Independence and White Bluff, might be compelled under the Clean Air Act’s regional haze program to install costly emissions control technologies. Consistent with the terms of the settlement and in many cases also the Part II SIP, Entergy Arkansas, along with co-owners, will begin using only low-sulfur coal at Independence and White Bluff by mid-2021; cease to use coal at White Bluff and Independence by the end of 2028 and 2030, respectively; cease operation of the remaining gas unit at Lake Catherine by the end of 2027; reserve the option to develop new generating sources at each plant site; and commit to install or propose to regulators at least 800 MWs of renewable generation by the end of 2027, with at least half installed or proposed by the end of 2022 (which includes two existing Entergy Arkansas projects) and with all qualifying co-owner projects counting toward satisfaction of the obligation. Under the settlement, the Sierra Club and the National Parks Conservation Association also waive certain potential existing claims under federal and state environmental law with respect to specified generating plants. The settlement, which formally resolves a complaint filed by the Sierra Club and the National Parks Conservation Association, is subject to approval by the U.S. District Court for the Eastern District of Arkansas. The EPA, which is allowed to comment on such a settlement agreement, has stated that it has no objections to the settlement. In November 2020 the court denied motions by the Arkansas Attorney General and the Arkansas Affordable Energy Coalition to intervene and to stay the proceedings. The proposed intervenors did not appeal the ruling. Still pending before the court is a motion by the plaintiffs to approve the settlement, in support of which Entergy made a filing. The Arkansas Attorney General also filed an application before the APSC in December 2018 seeking an investigation into the effects of the settlement. The Arkansas Affordable Energy Coalition filed to support the Arkansas Attorney General’s application, and Entergy Arkansas filed a motion to dismiss it. The application remains pending before the APSC. In October 2019 the District Court requested supplemental briefing on several issues prior to addressing the motion to approve the settlement; that briefing concluded in May 2020.
+
+In Louisiana, Entergy has worked with the Louisiana Department of Environmental Quality (LDEQ) and the EPA to revise the Louisiana SIP for regional haze, which had been disapproved in part in 2012. The LDEQ submitted a revised SIP in February 2017. In May 2017 the EPA proposed to approve a majority of the revisions. In September 2017 the EPA issued a proposed SIP approval for the Nelson plant, requiring an emission limitation consistent with the use of low-sulfur coal, with a compliance date of January 22, 2021. The EPA issued final approval in December 2017. The EPA approval was appealed to the U.S. Court of Appeals for the Fifth Circuit. In October 2019 the Fifth Circuit affirmed the EPA’s SIP approval. A petition for rehearing filed by plaintiffs was denied by the Fifth Circuit. Plaintiffs did not petition for further review by the Supreme Court.
+
+The second planning period (2018-2028) for the regional haze program requires states to examine sources for impacts on visibility and to prepare SIPs by 2021. Entergy received information collection requests from Arkansas and Louisiana requesting an evaluation of technical and economic feasibility of various NOx and SO2 control technologies for Independence, Nelson 6, and Ninemile. Responses to the information requests have been submitted to the respective state agencies.
+
+New and Existing Source Performance Standards for Greenhouse Gas Emissions
+
+In July 2019 the EPA released the Affordable Clean Energy Rule (ACE), which applies only to existing coal-fired electric generating units. The ACE determines that heat rate improvements are the best system of emission reductions and lists six candidate technologies for consideration by states at each coal unit. The rule and associated rulemakings by the EPA replace the Obama administration’s Clean Power Plan, which established
+276
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+national emissions performance rates for existing fossil-fuel fired steam electric generating units and combustion turbines. The ACE rule provides states discretion in determining how the best system for emission reductions applies to individual units, including through the consideration of technical feasibility and the remaining useful life of the facility. The ADEQ and the LDEQ have issued information collection requests to Entergy facilities to help the states collect the information needed to determine the best system of emission reductions for each facility. Entergy responded to the requests and will continue to monitor litigation challenging the rule. In January 2021 the U.S. Court of Appeals for the D.C. Circuit vacated ACE. The court held that ACE relied on an incorrect interpretation of the Clean Air Act that the statute expressly forecloses emission reduction approaches, such as emissions trading and generating shifting, that cannot be applied at and to the individual source. The court remanded ACE to the EPA for further consideration and also vacated the repeal of the Clean Power Plan. The vacatur will not be effective until the court issues its mandate which is being held until after disposition of any petitions for rehearing. Entergy is currently reviewing the court’s opinion.
+
+In 2018 the EPA proposed a revision to the new source performance standard on greenhouse gas emissions that primarily impacts new coal units and, therefore, should not impact Entergy. In January 2021 the EPA finalized a pollutant-specific contribution finding for greenhouse gas emissions from new, modified, and reconstructed electric generating units. The rule establishes a three percent threshold for determining when a pollutant significantly contributes to air pollution and reaffirms the EPA’s position that the Clean Air Act Section 111(b) requires the EPA to make pollutant-specific significant contribution findings before promulgation of a new source performance standard. The EPA did not, however, finalize the new source performance standard on greenhouse gas emissions and intends to address the 2018 proposal in a future action.
+
+Potential Legislative, Regulatory, and Judicial Developments
+
+In addition to the specific instances described above, there are a number of legislative and regulatory initiatives concerning air emissions, as well as other media, that are under consideration at the federal, state, and local level.  Because of the nature of Entergy’s business, the imposition of any of these initiatives could affect Entergy’s operations.  Entergy continues to monitor these initiatives and activities in order to analyze their potential operational and cost implications.  These initiatives include:
+
+•designation by the EPA and state environmental agencies of areas that are not in attainment with national ambient air quality standards;
+•introduction of bills in Congress and development of regulations by the EPA proposing further limits on NOx, SO2, mercury, and carbon dioxide and other air emissions.  New legislation or regulations applicable to stationary sources could take the form of market-based cap-and-trade programs, direct requirements for the installation of air emission controls onto air emission sources, or other or combined regulatory programs;
+•efforts in Congress or at the EPA to establish a federal carbon dioxide emission tax, control structure, or unit performance standards;
+•revisions to the estimates of the Social Cost of Carbon and its use for regulatory impact analysis of federal laws and regulations;
+•implementation of the Regional Greenhouse Gas Initiative by several states in the northeastern United States and similar actions in other regions of the United States;
+•efforts on the local, state, and federal level to codify renewable portfolio standards, clean energy standards, or a similar mechanism requiring utilities to produce or purchase a certain percentage of their power from defined renewable energy sources or energy sources with lower emissions;
+•efforts to develop more stringent state water quality standards, effluent limitations for Entergy’s industry sector, stormwater runoff control regulations, and cooling water intake structure requirements;
+•efforts to restrict the previously-approved continued use of oil-filled equipment containing certain levels of polychlorinated biphenyls (PCBs);
+•efforts by certain external groups to encourage reporting and disclosure of environmental, social, and governance risk;
+277
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+•the listing of additional species as threatened or endangered, the protection of critical habitat for these species, and developments in the legal protection of eagles and migratory birds;
+•the regulation of the management, disposal, and beneficial reuse of coal combustion residuals; and
+•the regulation of the management and disposal and recycling of equipment associated with renewable and clean energy sources such as used solar panels, wind turbine blades, hydrogen usage, or battery storage.
+
+Entergy continues to support national legislation that would increase planning certainty for electric utilities while addressing carbon dioxide emissions in an economy-wide, responsible, and flexible manner.  By virtue of its proportionally large investment in low-emitting generation technologies, Entergy has a low overall carbon dioxide emission “intensity,” or rate of carbon dioxide emitted per megawatt-hour of electricity generated.  In anticipation of the imposition of carbon dioxide emission limits on the electric industry, Entergy initiated actions designed to reduce its exposure to potential new governmental requirements related to carbon dioxide emissions.  These voluntary actions included a formal program to stabilize owned power plant carbon dioxide emissions at 2000 levels through 2005, and Entergy succeeded in reducing emissions below 2000 levels. In 2006, Entergy started including emissions from controllable power purchases in addition to its ownership share of generation and established a second formal voluntary program to stabilize power plant carbon dioxide emissions and emissions from controllable power purchases, cumulatively over the period, at 20% below 2000 levels through 2010.  In 2011, Entergy extended this commitment through 2020.  In 2020, Entergy succeeded in achieving its initial climate commitment to reduce carbon dioxide cumulative emissions by 20% from 2000 levels. Total carbon dioxide emissions representing Entergy’s ownership share of power plants and controllable power purchases in the United States were approximately 39.1 million tons in 2020 and 40.7 million tons in 2019. Since its original commitment in 2001, Entergy’s cumulative emissions are approximately 7.6% below its 2020 goal.
+
+Entergy voluntarily conducted a climate scenario analysis and published a comprehensive report in March 2019. The report follows the framework and recommendations of the Task Force on Climate-related Disclosures, describing climate-related governance, strategy, risk management, and metrics and targets. Scenario analyses resulted in Entergy developing and publishing a new goal of reducing the Utility’s emission rate by 50 percent from 2000 levels by 2030. In September 2020, Entergy committed to achieving net-zero carbon emissions by 2050, while continuing its commitment to grid reliability and affordability for customers. In December 2020, Entergy published a report regarding this long-term commitment that describes its approach and technology point-of-view. Technology research and development, innovation, and advancement are critical to Entergy’s ability to meet this climate commitment.
+
+Entergy participates in the M.J. Bradley & Associates’ Annual Benchmarking Air Emissions Report, an annual analysis of the 100 largest U.S. electric power producers. The report is available on the M.J. Bradley website. Entergy’s annual greenhouse gas emissions inventory is also third-party verified, and that certification is made available on the American Carbon Registry website. Entergy participates annually in the Dow Jones Sustainability Index and in 2020 was listed on the North American Index. Entergy has been listed on the World or North American Index, or both, for nineteen consecutive years. Entergy also participated in the 2020 CDP and CDP Water evaluations, receiving a ‘B’ for both responses.
+
+Clean Water Act
+
+The 1972 amendments to the Federal Water Pollution Control Act (known as the Clean Water Act) provide the statutory basis for the National Pollutant Discharge Elimination System permit program, section 402, and the basic structure for regulating the discharge of pollutants from point sources to waters of the United States.  The Clean Water Act requires virtually all discharges of pollutants to waters of the United States to be permitted.  Section 316(b) of the Clean Water Act regulates cooling water intake structures, section 401 of the Clean Water Act requires a water quality certification from the state in support of certain federal actions and approvals, and section 404 regulates the dredge and fill of waters of the United States, including jurisdictional wetlands.
+
+278
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+Steam Electric Effluent Guidelines
+
+The 2015 Steam Electric Effluent Limitations Guidelines (ELG) rule required, among other things, that there be no discharge of bottom ash transport water. In October 2020 the EPA issued its final rule revision on bottom ash transport water allowing the discharge of up to 10% system volume for certain purge waters, including storm events and non-routine operations. The final rule requires compliance as soon as possible beginning October 31, 2021, but no later than December 31, 2025. Several challenges to the final rule have been filed. Additionally, the Fifth Circuit Court of Appeals previously vacated and remanded the provisions of the rule related to legacy wastewater and leachate, which the EPA plans to address in a separate rulemaking. Despite the final rule and pending challenges, Entergy is implementing projects at its White Bluff and Independence plants to convert to zero-discharge systems to comply with the ELG rule and the coal combustion residuals restrictions on impoundments. Additionally, the Nelson Unit 6 facility is implementing operational and maintenance measures to minimize the potential for discharge of bottom ash transport water from the existing bottom ash handling system at the site, and is reviewing the effectiveness of these changes for compliance with the requirements of the October 2020 final rule.
+
+Federal Jurisdiction of Waters of the United States
+
+In February 2019 the EPA published its proposed revised definition of Waters of the United States, which proposes to narrow the scope of Clean Water Act jurisdiction, as compared to a 2015 definition which had been stayed by several federal courts. The final rule was released in January 2020 and effective in June 2020. In October 2019 the EPA repealed the 2015 rule and re-codified the pre-existing regulations. That rule was effective late December 2019. Numerous challenges have been filed against both rules.
+
+Groundwater at Certain Nuclear Sites
+
+The NRC requires nuclear power plants to monitor and report regularly the presence of radioactive material in the environment.  Entergy joined other nuclear utilities and the Nuclear Energy Institute in 2006 to develop a voluntary groundwater monitoring and protection program.  This initiative began after detection of very low levels of radioactive material, primarily tritium, in groundwater at several plants in the United States.  Tritium is a radioactive form of hydrogen that occurs naturally and is also a byproduct of nuclear plant operations.  In addition to tritium, other radionuclides have been found in site groundwater at nuclear plants.
+
+As part of the groundwater monitoring and protection program, Entergy has: (1) performed reviews of plant groundwater characteristics (hydrology) and historical records of past events on site that may have potentially impacted groundwater; (2) implemented fleet procedures on how to handle events that could impact groundwater; and (3) installed groundwater monitoring wells and began periodic sampling.  The program also includes protocols for notifying local officials if contamination is found.  To date, radionuclides such as tritium have been detected at Arkansas Nuclear One, Indian Point, Palisades, Grand Gulf, and River Bend.  Each of these sites has installed groundwater monitoring wells and implemented a program for testing groundwater at the sites for the presence of tritium and other radionuclides.  Based on current information, the concentrations and locations of radionuclides detected at these plants pose no threat to public health or safety, but each site continues to evaluate the results from its groundwater monitoring program.
+
+Comprehensive Environmental Response, Compensation, and Liability Act of 1980
+
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, as amended (CERCLA), authorizes the EPA to mandate clean-up by, or to collect reimbursement of clean-up costs from, owners or operators of sites at which hazardous substances may be or have been released.  Certain private parties also may use CERCLA to recover response costs.  Parties that transported hazardous substances to these sites or arranged for the disposal of the substances are also deemed liable by CERCLA.  CERCLA has been interpreted to impose strict, joint, and several liability on responsible parties.  Many states have adopted programs similar to CERCLA.  Entergy subsidiaries in the Utility and Entergy Wholesale Commodities businesses have sent waste materials to various
+279
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+disposal sites over the years, and releases have occurred at Entergy facilities including nuclear facilities that have been or will be sold to decommissioning companies.  In addition, environmental laws now regulate certain of Entergy’s operating procedures and maintenance practices that historically were not subject to regulation.  Some disposal sites used by Entergy subsidiaries have been the subject of governmental action under CERCLA or similar state programs, resulting in site clean-up activities.  Entergy subsidiaries have participated to various degrees in accordance with their respective potential liabilities in such site clean-ups and have developed experience with clean-up costs.  The affected Entergy subsidiaries have established provisions for the liabilities for such environmental clean-up and restoration activities.  Details of potentially material CERCLA and similar state program liabilities are discussed in the “Other Environmental Matters” section below.
+
+Coal Combustion Residuals
+
+In June 2010 the EPA issued a proposed rule on coal combustion residuals (CCRs) that contained two primary regulatory options: (1) regulating CCRs destined for disposal in landfills or received (including stored) in surface impoundments as so-called “special wastes” under the hazardous waste program of Resource Conservation and Recovery Act (RCRA) Subtitle C; or (2) regulating CCRs destined for disposal in landfills or surface impoundments as non-hazardous wastes under Subtitle D of RCRA.  Under both options, CCRs that are beneficially reused in certain processes would remain excluded from hazardous waste regulation. In April 2015 the EPA published the final CCR rule with the material being regulated under the second scenario presented above - as non-hazardous wastes regulated under RCRA Subtitle D.
+
+The final regulations create new compliance requirements including modified storage, new notification and reporting practices, product disposal considerations, and CCR unit closure criteria.  Entergy believes that on-site disposal options will be available at its facilities, to the extent needed for CCR that cannot be transferred for beneficial reuse. As of December 31, 2020, Entergy has recorded asset retirement obligations related to CCR management of $20.1 million.
+
+In December 2016 the Water Infrastructure Improvements for the Nation Act (WIIN Act) was signed into law, which authorizes states to regulate coal ash rather than leaving primary enforcement to citizen suit actions. States may submit to the EPA proposals for a permit program.
+
+Pursuant to the EPA Rule, Entergy operates groundwater monitoring systems surrounding its coal combustion residual landfills located at White Bluff, Independence, and Nelson. Monitoring to date has detected concentrations of certain listed constituents in the area, but has not indicated that these constituents originated at the active landfill cells. Reporting has occurred as required, and detection monitoring will continue as the rule requires. In late-2017, Entergy determined that certain in-ground wastewater treatment system recycle ponds at its White Bluff and Independence facilities require management under the new EPA regulations. Consequently, in order to move away from using the recycle ponds, White Bluff and Independence each have installed a new permanent bottom ash handling system that does not fall under the CCR rule. As of November 2020, both sites are operating the new system and no longer are sending waste to the recycle ponds. Each site has commenced closure of one of its two recycle ponds, with the remaining pond being held in reserve during initial operation of the new bottom ash handling system. Closure of the remaining recycle pond at each site will commence as soon as possible, but no later than April 11, 2021, which is the deadline under the finalized CCR rule to commence closure of any unlined recycle ponds. Any potential requirements for corrective action or operational changes under the new CCR rule continue to be assessed. Notably, ongoing litigation has resulted in the EPA’s continuing review of the rule. Consequently, the nature and cost of additional corrective action requirements may depend, in part, on the outcome of the EPA’s review.
+
+280
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+Other Environmental Matters
+
+Entergy Louisiana and Entergy Texas
+
+Entergy Louisiana, as successor in interest to Entergy Gulf States Louisiana, currently is involved in the second phase of the remedial investigation of the Lake Charles Service Center site, located in Lake Charles, Louisiana.  A manufactured gas plant (MGP) is believed to have operated at this site from approximately 1916 to 1931.  Coal tar, a by-product of the distillation process employed at MGPs, apparently was routed to a portion of the property for disposal.  The same area also has been used as a landfill.  In 1999, Entergy Gulf States, Inc. signed a second administrative consent order with the EPA to perform a removal action at the site.  Removal actions addressed contaminated source material, soil, and sediment and included capping certain soil on and off-site. In 2002 approximately 7,400 tons of contaminated soil and debris were excavated and disposed of from an area within the service center.  In 2003 a cap was constructed over the remedial area to prevent the migration of contamination to the surface.  In August 2005 an administrative order was issued by the EPA requiring that a 10-year groundwater study be conducted at this site.  The groundwater monitoring study commenced in January 2006.  The EPA released the second Five Year Review in 2015. In that review, the EPA indicated that the remediation technique was insufficient and that Entergy would need to utilize other remediation technologies on the site. In July 2015, Entergy submitted a Focused Feasibility Study to the EPA outlining the potential remedies and suggesting installation of the new remedial method, a waterloo barrier. The estimated cost for this remedy is approximately $2 million, to be allocated between Entergy Louisiana and Entergy Texas.  In early 2017 the EPA indicated that the waterloo barrier may not be necessary and requested revisions to the Focused Feasibility Study. The EPA released the third Five Year Review in late-2019 confirming that a new remedial method is not necessary but requiring continuation of the current groundwater monitoring. The site’s remedy includes monitored natural attenuation of groundwater, and institutional controls to restrict groundwater and land use. The EPA has determined that no additional actions are needed for the remedy to be protective over the long-term, and the remedy is protective of human health and the environment.
+
+Entergy Arkansas, Entergy Louisiana, Entergy New Orleans, and Entergy Texas
+
+The Texas Commission on Environmental Quality (TCEQ) notified Entergy Arkansas, Entergy Louisiana, Entergy New Orleans, and Entergy Texas that the TCEQ believes those entities are potentially responsible parties (PRPs) concerning contamination existing at the San Angelo Electric Service Company (SESCO) facility in San Angelo, Texas.  The facility operated as a transformer repair and scrapping facility from the 1930s until 2003.  Both soil and groundwater contamination existed at the site.  Entergy subsidiaries sent transformers to this facility.  Entergy Arkansas, Entergy Louisiana, and Entergy Texas responded to an information request from the TCEQ.  Entergy Louisiana and Entergy Texas joined a group of PRPs responding to site conditions in cooperation with the State of Texas, creating cost allocation models based on review of SESCO documents and employee interviews, and investigating contribution actions against other PRPs.  Entergy Louisiana and Entergy Texas have agreed to contribute to the remediation of contaminated soil and groundwater at the site in a measure proportionate to those companies’ involvement at the site.  Current estimates, although variable depending on ultimate remediation design and performance, indicate that Entergy’s total share of remediation costs likely will be approximately $1.5 million to $2 million.  Groundwater monitoring wells at the site were plugged and abandoned in December 2019 following receipt of a certificate of completion issued by the TCEQ. Site decommissioning activities are complete and final disposition of the property will be determined at a later time.
+
+Entergy Arkansas, Entergy Louisiana, Entergy Mississippi, and Entergy Texas
+
+The EPA notified Entergy that the EPA believes Entergy is a PRP concerning PCB contamination at the F.J. Doyle Salvage facility in Leonard, Texas. The facility operated as a scrap salvage business during the 1970s to the 1990s. In May 2018 the EPA investigated the site surface and sub-surface soils and, in November 2018 the EPA conducted a removal action, including disposal of PCB contaminated soils. Entergy responded to the EPA’s information requests in May and July 2019. In November 2020 the EPA sent Entergy and other PRPs a demand
+281
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+letter seeking reimbursement for response costs totaling $4 million expended at the site. The demand letter is being evaluated and liability and PRP allocation of response costs are yet to be determined.
+
+Entergy Texas
+
+In December 2016 a transformer inside the Hartburg, Texas Substation had an internal fault resulting in a release of approximately 15,000 gallons of non-PCB mineral oil. Cleanup ensued immediately; however, rain caused much of the oil to spread across the substation yard and into a nearby wetland. The TCEQ and the National Response Center were immediately notified, and the TCEQ responded to the site approximately two hours after the cleanup was initiated. The remediation liability is estimated at $2.2 million; however, this number could fluctuate depending on the remediation extent and wetland mitigation requirements. In July 2017, Entergy entered into the Voluntary Cleanup Program with the TCEQ. In November 2017, additional soil sampling was completed in the wetland area and, in February 2018, a site summary report of findings was submitted to the TCEQ. The TCEQ responded in June 2018 and requested an ecological exclusion criteria checklist/Tier II screening-level ecological risk assessment, and additional site assessment, additional soil samples, groundwater samples, and some additional diagrams and maps. In October 2018, Entergy submitted the requested information to the TCEQ. In January 2019 the TCEQ responded with another request for information. In March 2019, Entergy submitted the requested information to the TCEQ. In August 2019 the TCEQ responded with a request for additional information including an Affected Property Assessment Report (APAR) and water well survey. The TCEQ has agreed that the necessity of the water well survey is dependent on the results of the groundwater resampling that will occur. Groundwater sampling was completed in December 2019 and results were submitted to the TCEQ for review. Based on the groundwater sampling results, the TCEQ confirmed in February 2020 that a water well survey is not necessary and requested the APAR and an Ecological Risk Assessment by August 2020. Due to COVID-19 delays, the TCEQ extended the APAR and Ecological Risk Assessment submittal dates to December 2020, which Entergy timely met.
+
+Litigation
+
+Entergy uses legal and appropriate means to contest litigation threatened or filed against it, but certain states in which Entergy operates have proven to be unusually litigious environments.  Judges and juries in Louisiana, Mississippi, and Texas have demonstrated a willingness to grant large verdicts, including punitive damages, to plaintiffs in personal injury, property damage, and business tort cases.  The litigation environment in these states poses a significant business risk to Entergy.
+
+Asbestos Litigation (Entergy Arkansas, Entergy Louisiana, Entergy New Orleans, and Entergy Texas)
+
+See Note 8 to the financial statements for a discussion of this litigation.
+
+Employment and Labor-related Proceedings (Entergy Corporation, Entergy Arkansas, Entergy Louisiana, Entergy Mississippi, Entergy New Orleans, Entergy Texas, and System Energy)
+
+See Note 8 to the financial statements for a discussion of these proceedings.
+
+282
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+Human Capital
+
+Employees
+
+Employees are an integral part of Entergy’s commitment to serving customers.  As of December 31, 2020, Entergy subsidiaries employed 13,400 people.
+
+Utility:	 	Entergy Arkansas	1,244 		Entergy Louisiana	1,654 		Entergy Mississippi	750 		Entergy New Orleans	303 		Entergy Texas	658 		System Energy	— 		Entergy Operations	3,529 		Entergy Services	3,859 		Entergy Nuclear Operations	1,356 		Other subsidiaries	47 		Total Entergy	13,400 	 
+
+Approximately 3,900 employees are represented by the International Brotherhood of Electrical Workers, the Utility Workers Union of America, the International Brotherhood of Teamsters, the United Government Security Officers of America, and the International Union, Security, Police, and Fire Professionals of America.
+
+Below is the breakdown of Entergy’s employees by gender and race/ethnicity:
+
+Gender (%)	2020		2019	Female	21		20	Male	79		80		100		100 
+
+
+Race/Ethnicity (%)	2020		2019	White	78		79	Black/African American	15		15	Hispanic/Latino	3		2	Asian	2		2	Other	2		2		100		100 
+
+Entergy’s Approach to Human Resources
+
+Entergy’s people and culture enable its success; that is why acquiring, retaining, and developing talent are important components of Entergy’s human resources strategy. Entergy focuses on an approach that includes, among other things, governance and oversight; safety; organizational health, including diversity, inclusion and belonging; and talent management.
+
+283
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+Governance and Oversight
+
+Ensuring that workplace processes support the desired culture and strategy begins with the Board of Directors and the Office of the Chief Executive. The Personnel Committee establishes priorities and reviews performance on a range of topics. It oversees Entergy’s incentive plan design and administers its executive compensation plans to incentivize the behaviors and outcomes that support achievement of Entergy’s corporate objectives. Annually, it reviews executive performance, development and succession plans to align a high performing executive team with Entergy’s priorities. The Personnel Committee also oversees Entergy’s performance through regular briefings on a wide variety of human resources topics including Entergy’s safety culture and performance; organizational health; and diversity, inclusion, and belonging initiatives and performance.
+
+Other committees of the Board oversee other key aspects of Entergy’s culture. For example, the Audit Committee reviews reports on ethics and compliance training and performance, as well as regular reports on calls made to Entergy’s ethics line and related investigations. To maximize the sharing of information and facilitate the participation of all Board members in these discussions, the Board schedules its regular committee meetings in a manner such that all directors can attend.
+
+The Office of the Chief Executive, which includes the Senior Vice President and Chief Human Resources Officer, ensures annual business plans are designed to support Entergy’s talent objectives, reviews workforce-related metrics, and regularly discusses the development, succession planning, and performance of their direct reports and other company officers.
+
+Safety
+
+Entergy’s safety objective is: Everyone Safe. All Day. Every Day. While the COVID-19 pandemic and historical hurricane season presented significant challenges, Entergy’s safety strategy and commitment to excellence showed results in 2020. Entergy employees achieved a total recordable incident rate of 0.40 in 2020 compared to 0.56 in 2019 and 0.48 in 2018. The recordable incident rate equals the number of recordable incidents per 100 full-time equivalents. Recordable incidents include fatalities, lost-time accidents, restricted-duty accidents, and medical attentions and is not inclusive of potential work-related COVID-19 cases. This marked improvement in total recordable incident rate placed Entergy in top-decile in safety performance when benchmarked amongst peers within the Edison Electric Institute.
+
+Organizational Health, including Diversity, Inclusion and Belonging
+
+Entergy believes that organizational health fosters an engaged and productive culture that positions Entergy to deliver sustainable value to its stakeholders. Entergy measures its progress through an organizational health survey coordinated by an external third party. Since initially administering the survey in 2014, Entergy improved from an initial score of 49 (fourth quartile) to a score in 2020 of 72 (near top quartile). In addition to significantly improved scores, initial employee participation of 66 percent in 2014 rose to and remains at 90 percent in 2018-2020.
+
+Entergy believes that a culture focused on diversity, inclusion, and belonging drives foundational engagement. Entergy is committed to developing and retaining a workforce that reflects the rich diversity of the communities it serves. In 2019, Entergy embarked on a three-year phased approach to enhance inclusion for individuals and teams. Among other actions, the primary focus of its 2020 actions was taking a stand against social injustice, reinforcing expectations, training and leading by example, starting at the top of the organization and cascading through management ranks.
+
+284
+Table of Contents
+Part I Item 1
+Entergy Corporation, Utility operating companies, and System Energy
+
+Talent Management
+
+Entergy’s focus on talent management is organized in three areas: developing and attracting a diverse pool of talent, equipping its leaders to develop the organization, and building premier utility capability through employee performance management and succession programs. Entergy believes that developing a diverse pool of local talent equipped with the skills needed, today and in the future, and reflecting the communities Entergy serves will give it a long-term competitive advantage. The focus of Entergy’s leadership development programs is to equip managers with the skills needed to effectively develop their teams and improve the leader-employee relationship. Entergy’s talent development infrastructure, which includes a combination of business function-specific and enterprise-wide learning and development programs, is designed to ensure Entergy has qualified staff with the skills, experiences, and behaviors needed to perform today and prepare for the future. Entergy strives to achieve its strategic priorities by aligning and enhancing team and individual performance with business objectives, effectively deploying talent through succession planning, and managing workforce transitions.
+
+Availability of SEC filings and other information on Entergy’s website
+
+Entergy electronically files reports with the SEC, including annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxies, and amendments to such reports. The SEC maintains an internet site that contains reports, proxy and information statements, and other information regarding registrants that file electronically with the SEC at http://www.sec.gov. Copies of the reports that Entergy files with the SEC can be obtained at the SEC’s website.
+
+Entergy uses its website, http://www.entergy.com, as a routine channel for distribution of important information, including news releases, analyst presentations and financial information.  Filings made with the SEC are posted and available without charge on Entergy’s website as soon as reasonably practicable after they are electronically filed with, or furnished to, the SEC.  These filings include annual and quarterly reports on Forms 10-K and 10-Q (including related filings in Inline XBRL format) and current reports on Form 8-K; proxy statements; and any amendments to those reports or statements.  All such postings and filings are available on Entergy’s Investor Relations website free of charge.  Entergy is providing the address to its internet site solely for the information of investors and does not intend the address to be an active link.  The contents of the website are not incorporated into this report.

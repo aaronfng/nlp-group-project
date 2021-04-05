@@ -1,0 +1,245 @@
+BUSINESS
+DuPont is a Delaware corporation formed in 2015 (formerly, DowDuPont Inc.), for the purpose of effecting an all-stock merger of equals transactions between The Dow Chemical Company ("TDCC") and E. I. du Pont de Nemours and Company ("EID"). Effective August 31, 2017, pursuant to the merger of equals transaction contemplated by the Agreement and Plan of Merger, dated as of December 11, 2015, as amended on March 31, 2017 ("DWDP Merger Agreement"), TDCC and EID each merged with subsidiaries of DowDuPont Inc. ("DowDuPont") and, as a result, TDCC and EID became subsidiaries of DowDuPont (the "DWDP Merger"). Prior to the DWDP Merger, DowDuPont did not conduct any business activities other than those required for its formation and matters contemplated by the DWDP Merger Agreement. For purposes of DowDuPont's financial statement presentation, TDCC was determined to be the accounting acquirer in the DWDP Merger and EID's assets and liabilities are reflected at fair value as of the DWDP Merger Effectiveness Time.
+
+On April 1, 2019, the Company completed the separation of the materials science business through the spin-off of Dow Inc., (“Dow”) including Dow’s subsidiary TDCC (the “Dow Distribution”). On June 1, 2019, the Company completed the separation of the agriculture business through the spin-off of Corteva, Inc. (“Corteva”) including Corteva’s subsidiary EID, (the “Corteva Distribution and together with the Dow Distribution, the “DWDP Distributions”).
+
+Following the Corteva Distribution, the Company holds the specialty products business. On June 1, 2019, DowDuPont changed its registered name from "DowDuPont Inc." to "DuPont de Nemours, Inc." doing business as "DuPont" (the "Company") Beginning on June 3, 2019, the Company's common stock is traded on the NYSE under the ticker symbol "DD."
+
+DuPont is a global innovation leader with technology-based materials and solutions that help transform industries and everyday life by applying diverse science and expertise to help customers advance their best ideas and deliver essential innovations in key markets including electronics, transportation, building and construction, healthcare and worker safety. At December 31, 2020, the Company has subsidiaries in about 60 countries worldwide and manufacturing operations in about 40 countries. See Note 23 to the Consolidated Financial Statements for details on the location of the Company's sales and property.
+
+On December 15, 2019, the Company entered into definitive agreements to separate and combine the Nutrition & Biosciences business segment (the "N&B Business") with International Flavors & Fragrances Inc. ("IFF") in a tax-efficient Reverse Morris Trust transaction.
+
+On February 1, 2021, DuPont completed the separation and distribution of the N&B Business, and merger of Nutrition & Biosciences, Inc. (“N&B”), a DuPont subsidiary formed to hold the N&B Business, with a subsidiary of IFF. The distribution was effected through an exchange offer (the “Exchange Offer”) where, on the terms and subject to the conditions of the Exchange Offer, eligible participating DuPont stockholders had the option to tender all, some or none of their shares of common stock, par value $0.01 per share, of DuPont (the “DuPont Common Stock”) for a number of shares of common stock, par value $0.01 per share, of N&B (the “N&B Common Stock”) and which resulted in all shares of N&B Common Stock being distributed to DuPont stockholders that participated in the Exchange Offer. The consummation of the Exchange Offer was followed by the merger of N&B with a wholly owned subsidiary of IFF, with N&B surviving the merger as a wholly owned subsidiary of IFF (the “N&B Merger” and, together with the Exchange Offer, the “N&B Transaction”).
+
+On December 31, 2020, DuPont commenced the Exchange Offer which expired at one minute past 11:59 PM ET on January 29, 2021. Pursuant to the Exchange Offer, on February 1, 2021, DuPont accepted approximately 197.4 million shares of DuPont Common Stock in exchange for about 141.7 million shares of N&B Common Stock. The closing of the N&B Merger followed on February 1, 2021 after satisfaction of certain other conditions, including the receipt of a one-time cash payment of approximately $7.3 billion (the “Special Cash Payment”).
+
+In the N&B Merger, each share of N&B common stock was automatically converted into the right to receive one share of IFF common stock, par value $0.125 per share (“IFF Common Stock”). See Note 25 to the Consolidated Financial Statements for more information.
+
+6
+Table of Contents
+BASIS OF PRESENTATION
+The Consolidated Financial Statements included in this annual report present the financial position of DuPont as of December 31, 2020 and 2019 and the results of operations of DuPont for the years ended December 31, 2020, 2019, and 2018 giving effect to the DWDP Distributions, with the historical financial results of Dow and Corteva reflected as discontinued operations, as applicable. The cash flows and comprehensive income related to Dow and Corteva have not been segregated and are included in the Consolidated Statements of Cash Flows and Consolidated Statements of Comprehensive Income, respectively, for the year ended December 31, 2019 and 2018. Unless otherwise indicated, the information in the Notes to the Consolidated Financial Statements refer only to DuPont's continuing operations and do not include discussion of balances or activity of Dow or Corteva.
+
+At December 31, 2020, the financial results of the N&B Business are included in continuing operations for all periods presented.
+
+SEGMENT INFORMATION
+DuPont’s worldwide operations are managed through global businesses, which are currently reported in five reportable segments: Electronics & Imaging; Nutrition & Biosciences; Transportation & Industrial; Safety & Construction; and Non-Core.
+
+In conjunction with the closing of the N&B Transaction on February 1, 2020, the Company announced changes to its management and reporting structure (the “2021 Segment Realignment”). These changes result in the following:
+•Realignment of certain businesses from Transportation & Industrial to Electronics & Imaging
+•Dissolution of the Non-Core segment with the businesses to be divested and previously divested reflected in Corporate
+•Realignment of the remaining Non-Core businesses to Transportation & Industrial
+
+In addition, the following name changes will occur:
+•Electronic & Imaging will be renamed Electronics & Industrial
+•Transportation & Industrial will be renamed Mobility & Materials
+•Safety & Construction will be renamed Water & Protection
+
+The changes became effective February 1, 2021 and the Company will report financial results under this new structure beginning in the first quarter of 2021.
+
+See Part II, Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations and Note 23 to the Consolidated Financial Statements for additional information concerning the Company’s operating segments.
+
+
+7
+Table of Contents
+ELECTRONICS & IMAGING
+Electronics & Imaging is a leading global supplier of differentiated materials and systems for a broad range of consumer electronics including mobile devices, television monitors, personal computers and electronics used in a variety of industries. The segment is a leading supplier of key materials for the manufacturing of materials and printing systems to the advanced printing industry, and of materials and solutions for the fabrication of semiconductors and integrated circuits addressing both front-end and back-end of the manufacturing process. The segment offers the broadest portfolio of semiconductor and advanced packaging materials in the market, providing chemical mechanical planarization ("CMP") pads and slurries, photoresists and advanced coatings for lithography, removers and cleaners; dielectric and metallization solutions for back-end-of-line advanced chip packaging; along with silicones for light emitting diode ("LED") packaging and semiconductor applications. Electronics & Imaging also provides permanent and process chemistries for the fabrication of printed circuit boards to include laminates and substrates, electroless and electrolytic metallization solutions, as well as patterning solutions and materials and innovative metallization processes for metal finishing, decorative, and industrial applications. Electronics & Imaging is a leading global supplier in the packaging graphics industry providing photopolymer plates and platemaking systems used in flexographic printing and digital inks for textile, commercial and home-office printing applications. In addition, the segment provides cutting-edge materials for the manufacturing of rigid and flexible displays for organic light emitting diode ("OLED"), and other display applications. Electronics & Imaging addresses these markets by leveraging a strong science and technology base to provide the critical materials and solutions for creating a more connected and digital world.
+
+Divestitures
+In the first quarter of 2020, the Company completed the sale of its Compound Semiconductor Solutions business unit to SK Siltron. The proceeds received in the first quarter of 2020 related to the sale of the business were approximately $420 million.
+
+Details on Electronics & Imaging's 2020 net sales, by major product line and geographic region, are as follows:
+
+dd-20201231_g1.jpg dd-20201231_g2.jpg
+8
+Table of Contents
+Products
+Major applications/market segments and technologies are listed below by major product line:
+Major Product Line	Applications/Market Segments	Technologies	Image Solutions	Flexographic printing and inkjet printing,
+display materials for mobile devices	Flexographic printing plates and materials, digital inks, OLED and other display process materials
+Interconnect Solutions	Printed circuit board, electronic and industrial finishing	Circuit packaging film and laminate materials, interconnect metallization and imaging process chemistries, dry film laminates, polyimide films, and flexible circuit materials	Semiconductor Technologies	Integrated circuit fabrication for memory and logic semiconductors	CMP consumables, photolithography materials, semiconductor fabrication materials, fabrication cleaners and removers, advanced chip packaging materials and thermal management materials and LED encapsuants 
+
+Key Raw Materials
+The major commodities, raw materials and supplies for the Electronics & Imaging segment include: p-acetoxystyrene, monomers, pigments and dyes, styrenic block copolymers, copper foil, diglycolamine, dimethylacetamide, hydroxylamine, oxydianiline, palladium metal, photoactive compounds, polyester and other polymer films, polyurethane resins and pyromellitic dianhydride.
+
+Competitors
+Electronics & Imaging's competitors include many large multinational firms as well as a number of regional and local competitors. Key competitors include 3M, CMC Materials, Element Solutions, Entegris, Flint Group, JSR Micro, Merck KGaA, Shin-Etsu and Sun Chemical.
+
+Current and Future Investments
+In March 2019, the Company announced plans to invest more than $200 million in its Electronics & Imaging segment to build new production assets at its Circleville, Ohio, plant. The new assets will expand production of KAPTON® polyimide film and PYRALUX® flexible circuit materials to meet growing market demand. At December 31, 2020, the Company had spent approximately $160 million since project start date. The Company anticipates that the new assets will be operational by the end of 2021.
+
+2021 Segment Realignment
+In conjunction with the 2021 Segment Realignment, KALREZ®/VESPEL®, and Healthcare and Specialty Lubricants (Medical Silicones and MOLYKOTE® lubricants) will move to Electronics & Imaging from Transportation & Industrial. On February 1, 2021, the segment will be renamed Electronics & Industrial and the Image Solutions product line, which will include the additional technologies, will be renamed Industrial Solutions. The Company will report under this structure beginning in the first quarter of 2021.
+9
+Table of Contents
+NUTRITION & BIOSCIENCES
+Nutrition & Biosciences is an innovation-driven and customer-focused segment that provides solutions for the global food and beverage, dietary supplements, pharma, home and personal care, energy and animal nutrition markets. The segment is one of the world’s largest producers of specialty ingredients, developing and manufacturing solutions for the global food and beverage, dietary supplements and pharmaceutical markets. Its innovative and broad portfolio of natural-based ingredients marketed under the DANISCO® brand serves to improve health and nutrition as well as taste and texture in a wide range of dairy, beverage, bakery and dietary supplement applications. Its probiotics portfolio, including the HOWARU® brand, is world famous for its extensively documented strains that deliver consumers benefits in digestive and immune health. In addition to serving the global food and beverage market, the segment is one of the world's largest producers of cellulosics and alginates based pharma excipients, which are used to improve the functionality and delivery of pharmaceuticals, and enabling the development of more effective pharma solutions. Additionally, the segment is an industry pioneer and innovator that works with customers to improve the performance, productivity and sustainability of their products and processes, through differentiated technology in ingredients applications, fermentation, biotechnology, chemistry and manufacturing process excellence. The segment offers better, cleaner and safer solutions to a wide range of industries including food & beverages, dietary supplements, animal nutrition, biofuels, cleaning, personal care, pharmaceutical, and oil and gas.
+
+Divestitures
+In June 2019, the Company sold the natural colors business, a H&N Business.
+
+Details on Nutrition & Biosciences' 2020 net sales, by product line and geographic region, are as follows:
+
+dd-20201231_g3.jpg dd-20201231_g4.jpg
+
+Products
+Major applications and products are listed below by product line:
+Product Line	Applications / Market Segments	Major Products	Food & Beverage	Food and beverage, dietary supplements, infant nutrition, sports nutrition	
+Soy protein, emulsifiers, sweeteners, texturants and ingredient systems
+Health & Biosciences	
+Dietary supplements, animal nutrition, home & personal care, biofuels production, food and beverage, microbial control solutions for oil and gas production and other industrial preservation markets
+Probiotics, fibers, cultures, enzymes, yeast, betaine, direct-fed microbials, antimicrobials, glutaraldehyde
+Pharma Solutions	Oral dosage pharmaceuticals excipients	Cellulosic and alginates excipients (immediate and controlled release) and active pharmaceutical ingredients 
+
+10
+Table of Contents
+Key Raw Materials
+The major commodities, raw materials and supplies for the Nutrition & Biosciences segment include: soybeans, gelatin, glycols, cellulose processed grains (including dextrose and glucose), guar, locust bean gum, organic vegetable oils, peels, saccharides, seaweed, sugars and yeasts.
+
+Competitors
+Nutrition & Biosciences' competitors include many large multinational nutrition and biosciences companies as well as a number of regional and local competitors. Key competitors include Chr. Hansen, Novozymes, Royal DSM, Kerry, Corbion, Ingredion, CP Kelco, Croda and Tate & Lyle.
+
+Current and Future Investments
+In November 2016, EID announced an investment to expand probiotics production capacity in the United States. The announced investment is the second phase of a broader probiotics expansion project. Phase one was complete as of the end of 2017 and increased capacity by about 30 percent. The second phase represented an investment of approximately $100 million and increased DuPont's probiotics production capacity by an additional 70 percent. The construction was completed in the first quarter of 2019, including the installation of new, high-volume fermenters and other processing equipment. Additional and periodic investments were made in the past years to debottleneck some of our assets running at full capacity.
+
+Nutrition & Biosciences Distribution
+On February 1, 2021, DuPont completed the previously announced separation and distribution of its N&B Business. The Company will reflect the results of the N&B Business as discontinued operations beginning in the first quarter of 2021.
+
+
+TRANSPORTATION & INDUSTRIAL
+Transportation & Industrial provides high-performance engineering resins, adhesives, silicones, lubricants and parts to engineers and designers in the transportation, electronics, healthcare, industrial and consumer end-markets to enable systems solutions for demanding applications and environments.
+
+The segment delivers a broad range of polymer-based high-performance materials in its product portfolio, including elastomers and thermoplastic and thermoset engineering polymers which are used by customers to fabricate components for mechanical, chemical and electrical systems. In addition, the segment produces innovative engineering polymer solutions, high performance parts, specialty silicones and differentiated adhesive technologies to meet customer specifications in automotive, aerospace, electronics, industrial, healthcare and consumer markets. Transportation & Industrial is a global leader of advanced materials that provide technologies that differentiate customers’ products with improved performance characteristics enabling the transition to hybrid-electric-connected vehicles, high speed high frequency connectivity and smart healthcare.
+
+Details on Transportation & Industrial's 2020 net sales, by major product line and geographic region, are as follows:
+
+dd-20201231_g5.jpg dd-20201231_g6.jpg
+
+Products
+Major applications and products are listed below by major product line, all which serve the transportation industry and electronics, medical, industrial and consumer end-markets.
+11
+Table of Contents
+Major Product Line	Major Products	Healthcare & Specialty	KALREZ® perfluoroelastomer, VESPEL® parts and shapes, MOLYKOTE® lubricants, LIVEO™ silicone solutions for healthcare, BETASEAL™, BETAMATE™ and BETAFORCE™ structural and elastic adhesives	Industrial & Consumer	HYTREL® polyester thermoplastic elastomer resins, DELRIN® acetal resins, VAMAC® ethylene acrylic elastomer, and MULTIBASE™ TPSiV™ silicones for thermoplastics	Mobility Solutions	DUPONT™ ZYTEL® nylon resins, CRASTIN® PBT thermoplastic polyester resin, RYNITE® PET polyester resin and TYNEX® filaments 
+
+Key Raw Materials
+The major commodities, raw materials and supplies for the Transportation & Industrial segment include: adipic acid, butanediol, carbon black, dimethyl terephthalate, epoxy resins, fiberglass, flame retardants, hexamethylene diamine, methanol, polyethylene terephthalate, purified terephthalic acid and silicones.
+
+Competitors
+Transportation & Industrial's competitors include many large multinational chemical firms as well as a number of regional and local competitors. Key competitors include BASF, Celanese, EMS, Henkel, Kluber, Mitsubishi, Royal DSM, Sika, Victrex and Wacker Chemie.
+
+2021 Segment Realignment
+In conjunction with the 2021 Segment Realignment, Kalrez®/Vespel®, and Healthcare and Specialty Lubricants (Medical Silicones and Molykote® lubricants) will move from Transportation & Industrial to Electronic & Imaging. Non-Core businesses including TEDLAR® and Microcircuit Materials (previously part of Photovoltaic & Advanced Materials ("PVAM")), and DuPont Teijin Films will shift from the Non-Core Segment to Transportation & Industrial. Major product lines will be reorganized into Engineering Polymers, Performance Resins, and Advanced Solutions and the segment will be renamed Mobility & Materials effective February 1, 2021. The Company will report under this structure beginning in the first quarter of 2021.
+
+
+SAFETY & CONSTRUCTION
+Safety & Construction is the global leader in providing innovative engineered products and integrated systems for a number of industries including, worker safety, water purification and separation, transportation, energy, medical packaging and building materials. Safety & Construction addresses the growing global needs of businesses, governments and consumers for solutions that make life safer, healthier and better.
+
+Innovation is the business imperative. By uniting market-driven science and engineering with the strength of highly regarded brands including KEVLAR® high-strength material, NOMEX® thermal-resistant material, CORIAN® solid surfaces, TYVEK® selective barriers, FILMTEC™ reverse osmosis elements, STYROFOAM™ insulation and GREAT STUFF™ insulating foam sealants, the segment strives to bring new products and solutions to solve customers' needs faster, better and more cost effectively. Safety & Construction is investing in future growth initiatives such as water management solutions, construction productivity solutions, high strength and light weighting composite solutions, and circular ecosystem / zero waste solutions.
+
+Acquisitions
+During the fourth quarter of 2019, the Company completed three acquisitions: (1) BASF's Ultrafiltration Membrane business, including inge GmbH, the business’ international workforce, its headquarters and production site in Greifenberg, Germany, and associated intellectual property currently owned by BASF SE; (2) Evoqua Water Technologies Corp.’s MEMCOR® business including ultrafiltration and membrane biofiltration technologies, which together with the acquisition from BASF, add to Safety & Construction’s leading portfolio of water purification and separation technologies including ultrafiltration, reverse osmosis and ion exchange resins; and (3) OxyMem Limited, a company that develops and produces Membrane Aerated Biofilm Reactor technology for the treatment and purification of municipal and industrial wastewater. In the first quarter of 2020, the Company acquired Desalitech Ltd., a closed circuit reverse osmosis (CCRO) company.
+
+12
+Table of Contents
+Details on Safety & Construction's 2020 net sales, by major product line and geographic region, are as follows:
+
+dd-20201231_g7.jpg dd-20201231_g8.jpg
+
+Products
+Major applications and products are listed below by major product line:
+Major Product Line	Applications / Market Segments	Major Products / Technologies	Safety Solutions	Industrial personnel protection, military and emergency response, medical devices and packaging, automotive, aerospace and oil and gas	KEVLAR® fiber; NOMEX® fiber and paper; TYVEK® protective materials; TYCHEM® protective suits	Shelter Solutions	Rigid and spray foam insulation, weatherization, waterproofing and air sealing, caulks and sealants, roof coatings, and decorative surface materials	STYROFOAM™ brand insulation products, THERMAX™ exterior insulation, WALOCEL™ cellulose ethers, XENERGY™ high performance insulation, LIQUIDARMOR™ flashing and sealant, GREAT STUFF™ insulating foam sealants and adhesives, CORIAN® design solid and quartz surfaces, TYVEK® weather resistant barriers	Water Solutions	Water filtration and purification technology for residential, municipal and industrial use. Key industries include municipal drinking water and wastewater, power generation, microelectronics, pharmaceuticals, food and beverage, industrial wastewater reuse, metals and mining, and oil and gas segments	
+AMBERLITE™ ion exchange resins, FILMTEC™ reverse osmosis and nanofiltration elements, INTEGRAFLUX™ ultrafiltration modules, FORTILIFE™ challenging water reverse osmosis membranes, and TAPTEC™ water filtration and purification for drinking water in homes and commercial buildings
+ 
+
+Key Raw Materials
+The major commodities, raw materials and supplies for the Safety & Construction segment include: alumina trihydrate, aniline, benzene, calcium chloride, carbon monoxide, chlorine, divinyl benzene monomers, high-density polyethylene, isophthalic acid, metaphenylenediamine, methyl methacrylate, methylpentanediol, polyester resin, polypropylene, polystyrene, sulfuric acid and terephthalic acid.
+
+Competitors
+Safety & Construction's competitors include many large multinational chemical firms as well as a number of regional and local competitors. Key competitors include 3M, Honeywell, Hydranautics, Kingspan, Lanxess, LG Corp, Owens-Corning, Purolite, Royal DSM, Toray and Teijin.
+
+Current and Future Investments
+The Company previously announced plans to invest more than $400 million in Safety & Construction to increase capacity for the manufacture of TYVEK® nonwoven materials at its Luxembourg site due to growing global demand. While the Company experienced delays in construction due to COVID-19 in 2020, the expansion for the new operating line of TYVEK® nonwoven materials is expected to be completed in 2023.
+
+13
+Table of Contents
+NON-CORE
+The Non-Core segment is a leading global supplier of key materials for the manufacturing of photovoltaic cells and panels, including innovative SOLAMET® metallization pastes, TEDLAR® backsheet materials, and FORTASUN® silicone encapsulants and adhesives. The segment also provides materials used in components and films for consumer electronics, automotive, and aerospace markets. The segment also provides sustainable materials and services for sulfuric acid production and regeneration technologies, alkylation technology for production of clean, high-octane gasoline, and a comprehensive suite of aftermarket service and solutions offerings, including safety consulting and services, to improve the safety, productivity, and sustainability of organizations across a range of industries. The Non-Core segment is also a leading producer of SORONA® specialty biotechnology materials for carpet and apparel markets as well as polyester films for the healthcare, photovoltaics, electronics, packaging and labels, and electrical insulation industries.
+
+Divestitures
+The segment historically included the Company's joint venture interests in the Hemlock Semiconductor Corporation Group ("HSC Group"), a U.S.-based group of companies that manufacture and sell polycrystalline silicon products for the photovoltaic and semiconductor industries, as well as its trichlorosilane business (“TCS Business”). In the third quarter of 2020, the Company completed the sale of its ownership interests in both the HSC Group and the TCS Business to The Hemlock Group.
+
+In October 2020, the Company entered into a definitive agreement to sell its Biomaterials business unit, which includes the Company's equity method investment in DuPont Tate & Lyle Bio Products. In January 2021, the Company entered into separate definitive agreements to sell its Clean Technologies and Solamet® businesses. These divestitures, subject to regulatory approval and customary closing conditions, are expected to close in the first half of 2021 and generate in aggregate pre-tax cash proceeds of about $920 million.
+
+In the third quarter of 2019, the Company completed the sale and separation of its Sustainable Solutions business unit, a part of the Non-Core segment, to Gyrus Capital.
+
+2021 Segment Realignment
+As part of the 2021 Segment Realignment, the Non-Core segment will be dissolved. TEDLAR® and Microcircuit Materials (both previously part of PVAM), and DuPont Teijin Films will move to Transportation & Industrial. The remaining businesses and historical results of divested businesses will be reported in Corporate. The Company will report under this structure beginning in the first quarter of 2021.
+
+Details on Non-Core's 2020 net sales, by business or major product line and geographic region, are as follows:
+
+dd-20201231_g9.jpg dd-20201231_g10.jpg
+
+14
+Table of Contents
+Products
+Major applications and products/services/technologies are listed below by major product line:
+Major Product Line	Applications / Market Segments	Major Products / Services / Technologies	Biomaterials	Carpet, apparel	SORONA® polymer	Clean Technologies	Sulfuric acid, fertilizer, chemicals, refining, scrubbing	STRATCO® alkylation technology, MECS® sulfuric acid & environmental technologies, ISOTHERMING® hydroprocessing technology, BELCO® wet scrubbing technology	DuPont Teijin Films	Healthcare, photovoltaics, electronics, packaging and labels, electrical insulation, dry film resists	MYLAR®, MELINEX® polyester films	Photovoltaic & Advanced Materials	Photovoltaics, aerospace/aircraft, automotive, military, consumer electronics	Metallization pastes (including SOLAMET®), TEDLAR® polyvinyl fluoromaterials, FORTASUN® silicone encapsulants and adhesives 
+
+Key Raw Materials
+The major commodities, raw materials and supplies for the Non-Core segment include propanediol, terephthalic acid, precious metals, silicon metal and hydrochloric acid.
+
+Competitors
+Non-Core's competitors include many large multinational chemical firms as well as a number of regional and local competitors. Key competitors include Arkema, Giga Solar Materials, Heraeus, Outotec, Samsung SDI, Yihua Toray Polyester Film, and Zhangjiagang Glory.
+
+
+INDUSTRY SEGMENTS AND GEOGRAPHIC REGION RESULTS
+See Note 4 to the Consolidated Financial Statements for net sales by business or major product line.
+
+Sales by geographic region are included within Part II, Item 7 "Management's Discussion and Analysis of Financial Condition and Results of Operations", "Results of Operations." See Note 23 to the Consolidated Financial Statements for information regarding total net sales, pro forma net sales, pro forma Operating EBITDA and total assets by segment, as well as net sales and long-lived assets by geographic region.
+
+SIGNIFICANT CUSTOMERS AND COMPETITION
+In 2020, no significant portion of the Company's sales was dependent upon a single customer. The markets in which the Company participates compete primarily through technology, range of products and services, performance, quality, reliability, brand, reputation, service and support. The Company provides extensive support, technical services and testing services for its customers, in addition to new product development. The Company believes that its proprietary product and process technologies, robust product and application development pipelines, customer intimacy, global manufacturing capability and local service capability enable it to compete successfully.
+
+Against this competitive backdrop, value-in-use is the primary driver of price for the Company’s products, although price is impacted by many factors including, among others, fluctuations in supply and demand, and availability and cost of key manufacturing inputs including raw materials and energy.
+
+DISTRIBUTION
+Most products are marketed primarily through the Company's sales organization, although in some regions, more emphasis is placed on sales through distributors. The Company has a diverse worldwide network which markets and distributes the Company's brands to customers globally. This network consists of the Company's sales and marketing organization partnering with distributors, independent retailers, cooperatives and agents throughout the world.
+
+INTELLECTUAL PROPERTY
+The Company’s businesses differentially manage their respective intellectual property estates to support Company strategic priorities, which can include leveraging intellectual property within and across product lines.
+
+15
+Table of Contents
+Trade Secrets: Trade secrets are an important part of the Company's intellectual property. Many of the processes used to make products are kept as trade secrets which, from time to time, may be licensed to third parties. DuPont vigilantly protects all of its intellectual property including its trade secrets. When the Company discovers that its trade secrets have been unlawfully taken, it reports the matter to governmental authorities for investigation and potential criminal action, as appropriate. In addition, the Company takes measures to mitigate any potential impact, which may include civil actions seeking redress, restitution and/or damages based on loss to the Company and/or unjust enrichment.
+
+Patents: The Company applies for and obtains patents in many countries, including the U.S., and has access to a large patent portfolio, both owned and licensed. DuPont’s rights under these patents and licenses, as well as the products made and sold under them, are important to the Company in the aggregate. The protection afforded by these patents varies based on country, scope of individual patent coverage, as well as the availability of legal remedies in each country. The term of these patents is approximately twenty years from the filing date in general, but varies depending on country. This significant patent estate may be leveraged to align with the Company’s strategic priorities within and across product lines. At December 31, 2020, the Company owned about 24,000 patents and patent applications globally, about 9,000 of which are part of the N&B Business. Approximately 80% of the Company’s patent estate has a remaining term of more than 5 years.
+
+Trademarks: The Company owns or licenses many trademarks that have significant recognition at the consumer retail level and/or the product line to product line level. Ownership rights in trademarks do not expire if the trademarks are continued in use and properly protected.
+
+ENVIRONMENTAL MATTERS
+Information related to environmental matters is included in several areas of this report: (1) Environmental Proceedings beginning on page 29, (2) Management's Discussion and Analysis of Financial Condition and Results of Operations beginning on page 32, and (3) Notes 1 and 15 to the Consolidated Financial Statements.
+
+HUMAN CAPITAL
+Foundational to the Company’s current and future success is its employees, who drive the Company’s strategic vision, manage operations and develop products. The Company focuses significant attention on attracting, motivating, and retaining talent at all levels. Through training and professional development initiatives, promoting a culture of diversity and inclusion, and emphasizing the importance of health, safety, and well-being, the Company’s aim is to create an environment that fully supports the needs of its employees. Annually, an enterprise-wide engagement survey is conducted, which provides insight into employee morale and aspects of workplace culture like core values, communication and employee development.
+
+The Company is committed to creating innovative talent-management opportunities that are aligned to the strategic needs of its workforce. Learning is a continual process, and the Company offers a diverse set of training, education, and development opportunities, both formally and informally, throughout the year. Each segment within the Company has ongoing training programs that are designed specifically to maximize the performance of its employees in meeting business objectives, including better health and safety outcomes. All employees take part in a mix of on-the-job training and appropriate learning and training opportunities focusing on topics that are the most critical and relevant to each employees’ job function.
+
+The Company believes that diversity and inclusion is central to high employee engagement and seeks to foster an environment where employees can bring their authentic selves to work each day. The more perspectives there are, the more ideas that can be generated, which makes diversity, equity, and inclusion (“DE&I”) a driver of innovation, and therefore, integral to the Company’s success. The Company’s employee-led Employee Resource Groups (“ERGs”) help cultivate a culture of acceptance where employees feel not only accepted, but celebrated, at every level. As of December 31, 2020, the Company had eight ERGs - DuPont Corporate Black Employees Network, DuPont Asian Group, DuPont Pride Network, DuPont Latin Network, DuPont Women’s Network, DuPont Veterans Network, DuPont Early Career Network, and DuPont Persons with Disabilities and Allies. Each group is actively sponsored by senior leadership, helping model and promote inclusive values and behaviors. The Company also offers DE&I tools and resources to educate managers and employees in how to utilize diversity as a resource and establish more inclusive work environments. These resources include unconscious bias workshops, networking and mentoring practices, and opportunities for participation in external conferences and events, among others.
+
+The Company’s success also depends on the well-being of employees, including physical, mental and intellectual health. All employees have the support of the Company’s Integrated Health Services (“IHS”) teams, which provides onsite and intranet-based services to support and monitor the health and welfare of employees. The Company’s larger manufacturing and research sites have onsite clinics where employees can get occupational care, first aid treatment, travel vaccinations, and referrals for off-site medical care. The Company continuously strives for zero workplace injuries, occupational illnesses and incidents. The Company’s safety metrics are measured against this goal at least quarterly, and the Company’s Environmental, Health, Safety & Sustainability Committee is charged with driving improvements in the Company's health and safety practices. IHS also
+16
+Table of Contents
+assesses health risks across DuPont to find out which health concerns are most important to our employees, and conducts medical surveillance exams based on occupational risks and regulatory compliance priorities flagged by the Company’s Environment, Health and Safety team.
+
+In response to the COVID-19 pandemic, the Company has corporate, regional and local crisis management teams in place actively monitoring, preparing and managing the Company’s response. The Company has implemented safety plans and protocols based on World Health Organization and Centers for Disease Control guidelines. This includes issuing health and safety guidance for sites that have remained open during the pandemic, and encouraging employees to work remotely, when possible.
+
+As of December 31, 2020, the Company had employed approximately 34,000 people worldwide. Approximately 25 percent of employees were in Asia Pacific, 28 percent were in the EMEA, 5 percent were in Latin America, and 42 percent were in the U.S and Canada. Within the United States, about 7,500 employees were in non-exempt or hourly-rate positions.
+
+On February 1, 2021, the Company completed the N&B Transaction. As of December 31, 2020, the N&B Business employed approximately 11,000 people around the world. About 20 percent of N&B Business employees were located in Asia Pacific, 40 percent in EMEA, 10 percent in Latin America, and 30 percent in the United States. Within the United States, about 1,500 employees were in non-exempt or hourly-rate positions.
+
+AVAILABLE INFORMATION
+The Company is subject to the reporting requirements under the Securities Exchange Act of 1934. Consequently, the Company is required to file reports and information with the Securities and Exchange Commission ("SEC"), including reports on the following forms: annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934.
+
+The SEC maintains an Internet site at http://www.sec.gov that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC, from which the public may obtain any materials the Company files with the SEC.
+
+The Company's annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports are also accessible on DuPont's website at http://www.investors.dupont.com by clicking on the section labeled "Investors," then on "Filings & Reports." These reports are made available, without charge, as soon as is reasonably practicable after the Company files or furnishes them electronically with the SEC.
