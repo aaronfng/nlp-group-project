@@ -1,0 +1,217 @@
+History and Development of the Company
+
+IHS Markit Ltd. (“IHS Markit” or “we” or “us” or “our”) was formed in 2016 through a merger of IHS Inc., which had been in business since 1959 and was publicly traded since 2005, and Markit Ltd., which was founded in 2003 and was publicly traded since 2014. IHS Markit Ltd. is incorporated pursuant to the laws of Bermuda, and our common shares are traded on the New York Stock Exchange under the symbol “INFO.”
+
+Our principal executive offices are located at 4th Floor, Ropemaker Place, 25 Ropemaker Street, London, England EC2Y 9LY. Our telephone number at this address is +44 20 7260 2000. We maintain a registered office in Bermuda at Clarendon House, 2 Church Street, Hamilton HM 11, Bermuda. The telephone number of our registered office is +1 441 295 5950.
+
+Our Business
+
+We are an information company. With expertise across some of the world’s largest industries, we leverage technology and data science to provide the insights, software, and data to help our customers make better informed decisions, driving growth, performance, and efficiency.
+
+We continue to focus on the following objectives:
+
+•Increase our geographic, product, and customer penetration. We believe there are continued opportunities to add new customers and to increase the use of our products and services by existing customers. We plan to take advantage of these opportunities by leveraging our sales channels, broad product portfolio, global footprint, and industry expertise to anticipate and respond to the changing demands of our end markets.
+
+•Introduce innovative offerings and enhancements. As part of our offering development process, we maintain an active dialogue with our customers and partners that allows us to understand and respond to their needs and to anticipate market trends. We then leverage the expertise of over 5,000 data scientists, analysts, financial experts, and industry specialists to produce the data, insights, technology, and software offerings and enhancements that solidify our position as a leading information services provider. We use our deep expertise, technology, and data science capabilities to deliver best-in-class quality, value, and reliability in our products and services. For example, one of our recent innovations, the IHS Markit Data Lake, provides customers with the ability to explore, access, and coalesce proprietary IHS Markit and third-party data for multiple industries on a single, cloud-based platform. We intend to continue to invest across our business to increase our customer value proposition.
+
+•Improve efficiency, productivity, and financial strength. We continue to identify and strengthen our operational excellence by consistently improving productivity and efficiency, particularly as we work through the effects of the COVID-19 pandemic. We also continue to build on our strong financial foundation, balancing capital allocation between returning capital to shareholders (targeting an annual capital return of 50 to 75 percent of our annual capital capacity through share repurchases and cash dividends) and completing mergers and acquisitions, focused primarily on targeted transactions in our core end markets that will allow us to continue to build out our strategic position. We intend to continue to operate at the high end of our capital policy target leverage ratio of 2.0-3.0x.
+
+On November 29, 2020, we, S&P Global Inc., a New York corporation (“S&P Global”), and Sapphire Subsidiary, Ltd., a Bermuda exempted company limited by shares and a wholly-owned subsidiary of S&P Global (“Merger Sub”), entered into an agreement and plan of merger, which was subsequently amended on January 20, 2021, pursuant to which Merger Sub will merge with and into IHS Markit, with IHS Markit surviving such merger as a wholly-owned, direct subsidiary of S&P Global (the “merger”). The merger intends to bring together two world-class organizations, a unique portfolio of highly complementary assets in attractive markets, and cutting-edge innovation and technology capability to accelerate growth and enhance value creation. At the completion of the merger, each IHS Markit share that is issued and outstanding (other than dissenting shares and shares held by IHS Markit in treasury) will be converted into the right to receive 0.2838 fully paid and nonassessable shares of S&P Global common stock, and, if applicable, cash in lieu of fractional shares, without interest, and less any applicable withholding taxes. If the merger is completed, IHS Markit shares will cease to be listed on the New York Stock Exchange and IHS Markit shares will be deregistered under the Securities Exchange Act. The merger is subject to shareholder approval, antitrust and regulatory approvals, and other customary closing conditions.
+
+5
+Table of Contents
+Our Customers
+
+We have a diverse customer base, with more than 50,000 business and government customers, including 80 percent of the Fortune Global 500 and 85 percent of the Fortune U.S. 1000. Our customers operate in global interconnected industries, and we support them with information, insights, and solutions that integrate our comprehensive content, expertise, analytics, tools, and technology into many of their core workflows. We offer our products and services to our customers primarily through recurring fixed and variable fee agreements, and this business model has historically delivered stable revenue and predictable cash flows. For the year ended November 30, 2020, we generated approximately 88 percent of our revenue from recurring revenue streams. In 2020, no customer or group of affiliated customers represented more than 10 percent of our revenue.
+
+Our Operating Segments
+
+To best serve our customers, we are organized into the following four industry-focused operating segments:
+
+•Financial Services, which includes our financial Information, Solutions, and Processing product offerings;
+•Transportation, which includes our Automotive and Maritime & Trade product offerings;
+•Resources, which includes our Upstream and Downstream product offerings; and
+•Consolidated Markets & Solutions, which includes our Product Design, Economics & Country Risk, and TMT benchmarking product offerings.
+
+Financial Services
+
+Our Financial Services segment provides pricing and reference data, indices, valuation and trading services, trade processing, enterprise software, and managed services. Financial Services end users include front- and back-office professionals, such as traders, portfolio managers, risk managers, research professionals, and other financial markets participants, as well as operations, compliance, and enterprise data managers. This segment includes our Information, Solutions, and Processing offerings, which represented approximately 45 percent, 41 percent, and 14 percent of the segment’s revenue for 2020, respectively.
+
+•Information. Our Information offerings provide enriched content consisting of pricing and reference data, indices, and valuation and trading services across multiple asset classes and geographies through both direct and third-party distribution channels. Our Information products and services are used for independent valuations, investor analyses, research, trading, and liquidity and risk assessments. These products and services help our customers price instruments, comply with relevant regulatory reporting and risk management requirements, and analyze financial markets. Some of our key Information offerings include the following:
+
+◦Pricing and Reference Data Services provide independent pricing across major geographies and key asset classes as well as instrument, entity, and reference data products. We price instruments spanning major asset classes, including fixed income, equities, credit, and foreign exchange (“FX”). Customers use our pricing data primarily for independent valuations, risk analytics, and pre-trade analytics, and they use our reference data products in a broad range of valuation, trading, and risk applications in both cash and derivative markets.
+◦The Indices product portfolio includes owned and administered indices covering all asset classes. Key proprietary index families include the PMI series, iBoxx, iTraxx, and CDX. In addition, we provide a range of index-related services for custom indices. Our indices are used for benchmarking, risk management, valuation, and trading. They also form the basis of a wide range of financial products, including exchange-traded funds, index funds, structured products, and derivatives.
+◦Valuation Services provide a broad range of valuations to both derivative and cash market participants, focused on instrument and portfolio valuations. Our portfolio valuation service provides independent valuations for a wide range of derivatives and cash products across all asset classes to a range of financial institutions, including many buy-side firms. Our private equity services provide independent valuation and performance reporting solutions for investors in unlisted equity, private placements, and hard-to-value debt.
+◦Research, Sales and Trading Services offer investment bank and financial institution customers a range of platforms and tools to perform trading performance and analysis, research aggregation and distribution, investment process and sales workflows, and relationship management.
+◦Corporate product offerings deliver capital market intelligence, real-time investor analysis and targeting, event management systems, and desktop workflow solutions to senior management and investor relations professionals within the corporate suite.
+
+6
+Table of Contents
+•Solutions. Our Solutions offerings provide configurable enterprise software platforms, managed services, and hosted solutions.
+
+◦Enterprise Software Platforms include both standardized and custom solutions to automate our customers’ in-house processing and connectivity for trading and post-trading processing, as well as enterprise data and risk management solutions to enable customers to more effectively manage their data and calculate risk measures. These solutions are also generally offered by us in hosted solution alternatives. Managed services and hosted solutions offerings are targeted at a broad range of financial services industry participants and help our customers capture, organize, process, display, and analyze information; manage risk; reduce fixed costs; and meet regulatory requirements. Some of our primary Solutions offerings include the following:
+
+▪Wall Street Office and WSO Services provide a loan portfolio management platform and related services to participants in the syndicated bank loan market across the complete trading lifecycle.
+▪Global Markets Group product offerings deliver bookbuilding platforms, investor prospecting solutions, and road show systems to capital markets and financial services firms across multiple asset classes, including municipal bonds, equities, fixed income, and loans.
+▪Regulatory Compliance products and services include KYC remediation tools and services, our KY3P vendor management and risk platform, advanced risk and analytics systems, and platforms and services to support counterparty transparency, tax regulations, and regulatory support for Dodd-Frank Act, EMIR, FRTB, SFTR, and other global regulations designed to increase oversight of financial markets.
+▪Private Markets product offerings, including iLevel, provide portfolio data management services, analytics, reporting and valuation solutions, and platform services to private and alternatives market participants.
+▪Enterprise Data Management (“EDM”) software and services provide customers a central hub to manage the acquisition, validation, storage, and distribution of data sets from multiple sources.
+▪Digital designs, builds, and hosts custom web solutions for customers in both the retail and institutional financial services markets.
+▪Corporate actions solutions, including a managed data service and Information Mosaic, provide a centralized source of validated corporate action data for equities, fixed income, and structured securities across the globe, as well as robust processing solutions for financial institutions.
+▪Thinkfolio is an enterprise order management and portfolio modeling system.
+
+•Processing. Our Processing offerings provide trade processing products and services globally for over-the-counter (“OTC”) derivatives, FX, and syndicated loans. Our trade processing services enable buy-side and sell-side firms to process transactions rapidly, which increases efficiency by optimizing post-trade workflow, reducing risk, complying with reporting regulations, and improving connectivity. We believe we are among the largest providers of end-to-end multiple asset OTC derivatives trade processing services, as well as among the largest providers of syndicated loan processing services.
+
+Transportation
+
+Our Transportation segment includes our Automotive offerings, which represented more than 90 percent of the segment’s revenue for 2020, and our Maritime & Trade offerings, which represent the balance of the segment’s revenue.
+
+•Automotive. We serve the full automotive value chain with a focus on original equipment manufacturers (“OEMs”), parts suppliers, and dealers.
+
+Within the new car market, we provide authoritative analysis and forecasts of sales and production for light vehicles, medium and heavy commercial vehicles, powertrain, components, and technology systems across all major markets. Our comprehensive forecast database covers 99 percent of global light vehicle sales and production. We forecast sales and production of more than 50,000 unique vehicle model variants, as well as more than 100 different vehicle systems, sub-systems, and components.
+
+We also provide a wide range of performance measurement and marketing tools for carmakers, dealers, and agencies. We continue to leverage analytics and innovation to develop product and service offerings aimed at addressing needs across the value chain, including strategy and planning, marketing, sales, dealer services, and after sales. In the U.S., our sales and marketing offerings draw on a database of more than 7 billion ownership records, covering 760 million vehicles and more than 240 million U.S. households over a period of 25 years. We also offer a range of vehicle recall
+7
+Table of Contents
+solutions to carmakers, including identifying households to be contacted, providing accurate measurement of recall program completion, and in some cases, providing a full turnkey solution that manages the entire fulfillment process for their safety recall campaigns.
+
+Our automotiveMastermind (“aM”) offering provides predictive analytics and marketing automation software for the new car dealer market, enabling dealers to improve their customer retention and extend their customer portfolio through “conquest” campaigns.
+
+Within the used car market, we support dealers, insurers, and consumers through our CARFAX products. These offerings provide critical information for used car dealers and their customers in the used car buying process. For example, CARFAX vehicle history reports provide maintenance, accident, odometer, and commercial use information on cars in the United States. This history, based on more than 25 billion records collected from more than 112,000 data sources, provides confidence to dealers and consumers in the car buying process. Our product line also includes a used car listing service for dealers and vehicle-specific valuation offerings.
+
+•Maritime & Trade (“M&T”). We have been gathering data on ships since 1764 when the first Lloyd’s Register of Ships was published. We provide, on behalf of the International Maritime Organization (“IMO”), the unique global ID (the IMO number) for all ocean-going ships over 100 gross tons. Our M&T content and analytics provide comprehensive data on more than 200,000 ships over 100 gross tons, as well as monthly import and export statistics on 102 countries and tracking and forecasting approximately 96 percent of international trade by value.
+
+Resources
+
+Our Resources segment includes our Upstream offerings, which represent approximately 55 percent of Resources revenue, and our Downstream offerings, which make up approximately 45 percent of Resources revenue.
+
+•Upstream. Our Upstream offerings include technical information, analytical tools, and market forecasting and consulting for the upstream industry. We provide critical information and expertise around country exploration and production risk; plays and basins technical information; costs and technologies; and energy company information for approximately 20,000 assets worldwide, including more than 6.5 million oil and gas wells, 5,000 basins, more than 3,400 land rigs and 6,200 marine vessels, and a database of 47,000 merger and acquisition transactions. Strategic planners, geoscientists, and engineers use our insight and leading geotechnical database and analytical tools to facilitate exploration, development, and production of energy assets. Some of our key offerings include the following:
+
+◦Our Global Well, Production, Land, and Subsurface Content provides a comprehensive inventory of current and historical energy data. This content forms the basis for all of our upstream technical research, intelligence, analysis, and software portfolio.
+◦The Kingdom/Harmony Suite provides leading-edge analysis of subsurface properties, including seismic interpretation and production estimation, for the geoscience and engineering markets globally.
+◦Vantage is a global asset evaluation system that contains more than 23,000 oil and gas assets across the globe, performing forward-looking analysis of an asset’s expected return and permitting large-scale asset comparisons from distinct individual regions.
+◦Companies and Transactions performs database-driven analysis of roughly 47,000 merger and acquisition transactions, as well as financial analysis of all major oil and gas companies globally.
+◦Market analyses and forecasts provide insight and intelligence on market fundamentals.
+
+•Downstream. Our Downstream offerings provide market forecasting, midstream market analysis and supply chain data, refining and marketing economics, and oil product pricing information for the chemical, refined products, agriculture, and power industries. We are also a leading provider of bespoke consulting, offering strategic direction and capital investment advisory services. Some of our key offerings include the following:
+
+◦Data for manufacturing processes, as well as capital expenditure, cost, price, production, trade, demand, and capacity industry analysis and forecasts for more than 250 chemicals in more than 110 countries.
+◦An extensive library of detailed techno-economic analyses of chemicals and refining process technologies.
+◦Actionable intelligence across the value chain from agricultural inputs to agricultural and processed food commodities.
+◦Pricing information for refined products on spot, rack, and retail gasoline markets.
+◦Global and regional outlooks and forecasts for power, coal, gas, and renewable markets.
+
+8
+Table of Contents
+In addition, we leverage our market leadership in these industries to convene global industry, government, and regulatory leaders at global and regional events, such as our annual CERAWeek and World Petrochemical conferences.
+
+Consolidated Markets & Solutions (“CMS”)
+
+Our CMS segment includes our Product Design offerings, which represented approximately 73 percent of the segment’s revenue for 2020, our Economics and Country Risk offerings, which represented approximately 22 percent of the segment’s revenue for 2020, and our Technology, Media & Telecom benchmarking offerings, which represented approximately 5 percent of the segment’s revenue for 2020.
+
+•Product Design. Our Product Design solutions provide technical professionals with the information and insight required to more effectively design products, optimize engineering projects and outcomes, solve technical problems, and address complex supply chain challenges. Our offerings utilize advanced knowledge discovery technologies, research tools, and software-based engineering decision engines to advance innovation, maximize productivity, improve quality, and reduce risk. Our Product Design offerings include the following:
+
+◦Engineering Workbench provides a single interface to surface answers from a curated universe of technical knowledge comprising more than 135 million records. This includes standards, codes, and specifications; applied technical reference; engineering journals, reports, best practices, and other vetted technical reference; and patents and patent applications.
+◦BOM Intelligence, including data on more than 500 million electronic components or parts, enables our customers to integrate their bills of materials with obsolescence management, product change notifications (“PCNs”), end-of-life (“EOL”) alerts, and research and analysis.
+◦Goldfire’s cognitive search and other advanced knowledge discovery capabilities help pinpoint answers buried in enterprise systems and unstructured data, enabling engineers and technical professionals to accelerate problem solving and make better decisions more quickly.
+
+•Economics and Country Risk (“ECR”). Our ECR team consists of approximately 450 economists, country risk analysts, data management specialists, and consultants monitoring, analyzing, and forecasting developments and risks in 211 countries and regions and 105 industries. We provide a vast range of economic and risk data and analytics, forecasts, and scenario tools to assist customers in their strategic market planning, procurement, and risk management decisions. We assess risks across more than 20 risk perils, help companies with their capital deployment and location decisions, and analyze economic and social impacts of their investments around the world. Specialized teams also monitor and forecast developments in consumer, construction, and life sciences markets.
+
+•Technology, Media & Telecom (“TMT”) benchmarking. Our TMT benchmarking product portfolio provides performance and cost benchmarking analysis to the TMT industry.
+
+Our People
+
+As of November 30, 2020, we had more than 16,000 employees located in 38 countries around the world. The approximate regional representation of our workforce is as follows: 43% Americas, 25% India, 23% EMEA and 9% APAC (excluding India). Our work environment is designed to encourage excitement and pride in the work we do and to provide a workplace where our people are constantly learning and feel challenged, respected, and valued. We conduct regular internal surveys to measure employee engagement, and we use the results of those surveys to develop and implement action plans that will improve our employee satisfaction. We also recently appointed a Chief Diversity, Equity and Inclusion Officer to promote and execute diversity and inclusion policies and practices in support of our global organization. Our Board of Directors comprises a diverse set of individuals with a variety of backgrounds and experience; we strive to emulate this diversity model throughout the company.
+
+We provide a variety of benefits to promote retention and growth of our employees. We strive to offer equitable pay and competitive salaries and wages. In addition, we have historically provided an annual broad-based equity grant to our employees to promote a sense of company pride and ownership. We offer a comprehensive benefits package that gives a robust collection of rewards and benefits, including healthcare and insurance benefits, retirement savings plans, and additional paid time off for volunteer activities that enhance the communities we live in. We also host a number of affinity groups for our employees. We have an online academy that fosters a learning culture, leveraging the knowledge and expertise of our people.
+
+Our Competition
+
+9
+Table of Contents
+We believe the principal competitive factors in our business include the following:
+
+•Depth, breadth, timeliness, and accuracy of information and data provided
+•Quality of decision-support tools and services
+•Quality and relevance of our analysis and insight
+•Ease of use
+•Customer support
+•Value for price
+ 
+We believe that we compete favorably on each of these factors. Although we face competition in specific industries and with respect to specific offerings, we do not believe that we have a direct competitor across all of the industries we serve due to the depth and breadth of our offerings. Competitors within specific industries or with respect to specific offerings are described below.
+
+•Financial Services. Our Information offerings primarily compete with offerings from Bloomberg, FactSet, IntercontinentalExchange, S&P Global, MSCI, Refinitiv, Nasdaq, and FIS. Our Solutions offerings primarily compete with firms such as BlackRock, Bloomberg, Refinitiv, SS&C, State Street, Charles River, Dealogic, Allvue, and AcadiaSoft. Our Processing products and services primarily compete with Bloomberg, IntercontinentalExchange, Tradeweb, and Refinitiv.
+
+•Transportation. In the Automotive market, we primarily compete with offerings from Experian, LMC Automotive, Urban Science, and Auto Alert. Our used car listings product also competes with offerings from cars.com, Cox Enterprises, and CarGurus. In Maritime & Trade markets, we primarily compete with offerings from Informa, Verisk, and S&P Global, as well as niche providers such as Trade Data Monitor, Datamyne, Vortexa, Windward, and Kpler.
+
+•Resources. Our Upstream and Downstream offerings compete primarily with offerings from Verisk, Enverus, Schlumberger, Halliburton, GeoScout, Reed Elsevier, Bloomberg NEF, Argus, DTN, S&P Global, and Nexant.
+
+•CMS. Our Product Design offerings primarily compete with offerings from SAI Global, Clarivate Analytics, and the standards developing organizations, among others. Our ECR offerings compete primarily with offerings from the Economist Group, Oxford Economics, Fitch Solutions, Moody’s Analytics, Control Risks, and Verisk.
+
+Government Contracts and Compliance with Government Regulations
+
+We sell our products to various government agencies and entities. No individual contract is significant to our business. Although some of our government contracts are subject to terms that would allow renegotiation of profits or termination at the election of the government, we believe that no renegotiation or termination of any individual contract or subcontract at the election of the government would have a material adverse effect on our financial results.
+
+We believe that we are in compliance with all applicable government regulations, including environmental regulations. We do not believe that there are any material impacts on our capital expenditures, earnings, or competitive position as a result of our efforts to comply with these regulations.
+
+Intellectual Property
+
+We rely heavily on intellectual property, including the intellectual property we own and license. While no one piece of our intellectual property is individually material, we regard our trademarks, copyrights, licenses, and other intellectual property as valuable assets and use intellectual property laws, as well as license and confidentiality agreements with our employees, customers, channel and strategic partners, and others, to protect our rights. In addition, we exercise reasonable measures to protect our intellectual property rights and enforce these rights when we become aware of any potential or actual violation or misuse.
+
+We use intellectual property licensed from third parties, including standards developing organizations, government agencies, public sources, market data providers, financial institutions, and manufacturers, as a component of our offerings and, in many cases, it cannot be independently replaced or recreated by us or others. We have longstanding relationships with most of the third parties from whom we license information. Almost all of the licenses that we rely upon are nonexclusive and expire within one to two years, unless renewed, although we have longer licenses with some of those third parties, particularly in the Financial Services segment.
+
+10
+Table of Contents
+We maintain registered trademarks and service marks in jurisdictions around the world. In addition, we have obtained patents and applied for patents in the United States. For more information relating to our intellectual property rights, see “Item 1A. Risk Factors - We may not be able to protect our intellectual property rights and confidential information.”
+
+Seasonality
+
+Our business has seasonal aspects. Our first quarter generally has our lowest quarterly levels of revenue and profit. We also experience event-driven seasonality in our business. For instance, CERAWeek, an annual energy conference, is typically held in the second quarter of each year; however, this event was cancelled in 2020 due to the COVID-19 pandemic, and we have announced that this conference will be held virtually in 2021. The cancellation of our CERAWeek and other large customer events scheduled for the second quarter of 2020 reduced our non-recurring revenue by approximately $50 million in 2020. Another example of seasonality is the biennial release of the Boiler Pressure Vessel Code (“BPVC”) engineering standard, which generates revenue for us predominantly in the third quarter of every other year. The most recent BPVC release was in the third quarter of 2019.
+
+Financial Information About Segments
+
+See “Item 8 - Financial Statements and Supplementary Data - Notes to Consolidated Financial Statements - Note 20” in Part II of this Form 10-K for information with respect to each segment’s revenues, profits, and total assets and for information with respect to our revenues and long-lived assets for the U.S., U.K., and the rest of the world in aggregate. See also “Item 1A. Risk Factors - Our international operations are subject to risks relating to worldwide operations.”
+
+Available Information
+
+IHS Markit files annual, quarterly, and current reports, proxy statements, and other information with the Securities and Exchange Commission (“SEC”). The SEC maintains a website that contains annual, quarterly, and current reports, proxy statements, and other information regarding issuers that file electronically with the SEC (including IHS Markit). The SEC’s website is www.sec.gov.
+
+We maintain an internet website for investors at http://investor.ihsmarkit.com. On this website, we make available, free of charge, annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, Forms 3, 4, and 5 filed on behalf of directors and executive officers, and all amendments to any of those reports or filings, as soon as reasonably practicable after we electronically file such material with, or furnish such material to, the SEC. Unless specifically incorporated by reference, information on our website is not a part of this Annual Report on Form 10-K.
+
+Also available on the website for investors at http://investor.ihsmarkit.com are our Amended and Restated Bye-laws, Corporate Governance Guidelines, Audit Committee Charter, Risk Committee Charter, Human Resources Committee Charter, Nominating and Governance Committee Charter, Business Code of Conduct, and Compliance Hotline and Reporting Misconduct Policy. Our corporate governance documents are available in print, free of charge to any shareholder who requests them, by contacting IHS Markit Investor Relations and Corporate Communications at 15 Inverness Way East, Englewood, CO 80112 or by calling +1 303 790 0600.
+
+Information About Our Executive Officers
+
+Set forth below is information concerning our executive officers as of December 31, 2020.
+Name		Age		Position	Lance Uggla		58		Chairman and Chief Executive Officer	Brian Crotty		58		Executive Vice President, Resources	Jonathan Gear		50		Executive Vice President and Chief Financial Officer	Sari Granat		50		Executive Vice President, Chief Administrative Officer and General Counsel	Adam Kansler		51		Executive Vice President, President of Financial Services	Edouard Tavernier		47		Executive Vice President, Transportation 
+
+Executive officers are appointed by our Board until their resignation or until their appointments are revoked by the Board. A brief biography for each of our current executive officers follows.
+
+11
+Table of Contents
+Lance Uggla
+
+Mr. Uggla is Chairman and CEO of IHS Markit, a position he has held since January 1, 2018. Prior to that, he served as President from July 2016 to December 2017 and was appointed Chief Operating Officer in October 2017. Prior to the merger between IHS and Markit, Mr. Uggla was Chairman and CEO of Markit since January 2003, responsible for leading the Company’s strategic development and managing day-to-day operations. He founded Markit in 2003 after spotting an opportunity to bring transparency to the credit default swap market. The company launched the first daily credit default swap pricing service that year. He oversaw Markit’s growth from a startup to a global public company with more than 4,200 employees in 28 offices worldwide, serving more than 3,000 customers. Between 1995 and 2003, Mr. Uggla held a number of executive management positions at Toronto-Dominion Securities, including Vice Chairman and Head of Europe and Asia. Mr. Uggla graduated from the Simon Fraser University in Canada with a BBA and holds a Master of Science from the London School of Economics, U.K.
+
+Brian Crotty
+
+Brian Crotty is Executive Vice President, Resources of IHS Markit, responsible for our Resources segment, which includes business lines supporting the upstream and downstream industries. Mr. Crotty joined IHS Markit in 2016 through the acquisition of OPIS, where he was the Chief Executive Officer since 2002. Mr. Crotty has more than 25 years of experience running database and Software as a Service platform businesses, with a particular specialty in commodity pricing and supply database models. Before joining OPIS in 2002, Mr. Crotty spent eight years as a vice president of Hart Publications. Mr. Crotty has a master’s degree in journalism from American University and an undergraduate degree from Johns Hopkins University.
+
+Jonathan Gear
+
+Jonathan Gear is Executive Vice President and Chief Financial Officer of IHS Markit. Prior to taking that position in February 2020, Mr. Gear was Executive Vice President and President of Resources, Transportation, and CMS, including business lines supporting the automotive, technology, engineering, digital, upstream, downstream, maritime, and aerospace industries. Mr. Gear was previously Executive Vice President of Resources and Transportation for IHS. Earlier, he served in multiple leadership roles across IHS. Prior to joining IHS in 2005, Mr. Gear held leadership positions at Activant Solutions, smarterwork.com, and Booz Allen Hamilton. He holds a B.A. from the University of California, Berkeley, and an MBA from Stanford Graduate School of Business.
+
+Sari Granat
+
+Sari Granat is Executive Vice President, Chief Administrative Officer and General Counsel of IHS Markit, responsible for the legal, compliance, enterprise risk, information security, and information technology functions. Ms. Granat previously served as head of legal and General Counsel at Markit. Prior to joining Markit in 2012, Ms. Granat was lead counsel and chief administrative officer of TheMarkets.com LLC. She has served in senior legal and strategy positions at media and technology companies including Dow Jones & Company and Kaplan, Inc. Ms. Granat holds a B.A. in English from Yale University and a J.D. from New York University School of Law.
+
+Adam Kansler
+
+Adam Kansler is Executive Vice President and President of Financial Services of IHS Markit, responsible for our Financial Services segment, which includes pricing and reference data, trade processing, valuations, indices, and economic and country risk products. From April 2015 to July 2016, Mr. Kansler served as global co-head of Markit’s information division and head of North American operations. Prior to that, Mr. Kansler was Markit’s chief administrative officer and general counsel, leading human resources, legal, corporate communications, risk, regulatory and strategic alliances. Before joining Markit in 2009, Mr. Kansler spent 17 years with Proskauer LLP, becoming a corporate partner. Mr. Kansler holds a B.A. in economics from Hobart College and received his J.D. from Columbia University School of Law.
+
+Edouard Tavernier
+
+Edouard Tavernier is Executive Vice President, Transportation of IHS Markit, responsible for our Transportation segment, including business lines supporting the automotive and maritime industries. Mr. Tavernier was previously senior vice president of transportation and senior vice president of automotive for IHS Inc. He joined the company in 2008 and served in multiple product management, marketing, and commercial leadership roles. Before joining IHS Inc., Mr. Tavernier held management positions at LexisNexis, Global Insight, and United Business Media. He also worked at Goldman Sachs and BNP
+12
+Table of Contents
+Paribas. Mr. Tavernier has a Master’s Degree in Business Studies from Ecole des Hautes Etudes Commerciales (HEC) in France.

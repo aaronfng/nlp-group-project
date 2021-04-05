@@ -1,0 +1,147 @@
+International Business Machines Corporation (IBM or the company) was incorporated in the State of New York on June 16, 1911, as the Computing-Tabulating-Recording Co. (C-T-R), a consolidation of the Computing Scale Co. of America, the Tabulating Machine Co. and The International Time Recording Co. of New York. Since that time, IBM has focused on the intersection of business insight and technological innovation, and its operations and aims have been international in nature. This was signaled almost 100 years ago, in 1924, when C-T-R changed its name to International Business Machines Corporation. And it continues today—we create value for clients by providing integrated solutions and products that leverage: data, information technology, deep expertise in industries and business processes, with trust and security and a broad ecosystem of partners and alliances. Our hybrid cloud platform and AI technology and services capabilities support clients’ digital transformations and help them engage with their customers and employees in new ways. These solutions draw from an industry-leading portfolio of consulting and IT implementation services, cloud, digital and cognitive offerings, and enterprise systems and software which are all bolstered by one of the world’s leading research organizations.
+
+The following information is included in IBM’s 2020 Annual Report to Stockholders and is incorporated by reference:
+
+IBM Strategy—pages 23 to 25.
+
+Business Segments and Capabilities—pages 25 to 28.
+
+IBM Worldwide Organizations—page 28.
+
+Human Capital—page 29.
+
+Competition
+
+IBM is a globally integrated enterprise that participates in a highly competitive environment, where our competitors vary by industry segment, and range from large multinational enterprises to smaller, more narrowly focused entities. Overall, across our business segments, we recognize hundreds of competitors worldwide.
+
+Our principal methods of competition are: technology innovation; performance; price; quality; brand; our broad range of capabilities, products and services; talent; client relationships and trust; the ability to deliver business value to clients; and service and support. In order to maintain leadership, we must continue to invest, innovate and integrate. We are redefining our future as a hybrid cloud and AI company and have been making investments, both organic and inorganic, as well as shifting resources, embedding AI and cloud into our offerings while building new solutions and modernizing our existing platforms. These investments not only drive current performance, but will extend our innovation leadership into the future. Our key differentiators are built around three pillars–innovative technology, industry expertise and trust and security, uniquely delivered through an integrated model. As we execute our strategy as a hybrid cloud and AI company, deploy new delivery and go-to-market models and expand our ecosystem, we are regularly exposed to new competitors. Overall, the company is the leader or among the leaders in each of our business segments.
+
+A summary of the competitive environment for each business segment is included below:
+
+Cloud & Cognitive Software:
+
+The depth and breadth of our software offerings, coupled with our global markets, deep industry expertise and technical support infrastructure help differentiate our offerings from our competitors. IBM’s research and development capabilities and IP patent portfolio also contribute to differentiation. We have built a hybrid cloud platform based on open technologies that allows clients to realize their digital and AI transformations across the applications, data and
+
+1
+
+Table of Contents
+
+environments in which they operate. The principal competitors in this segment include Alphabet Inc. (Google), Amazon.com, Inc. (Amazon), BMC, Broadcom, Cisco Systems, Inc. (Cisco), FireEye, Microsoft Corporation (Microsoft), Oracle Corporation (Oracle), Salesforce, SAP, Splunk and VMware. We also compete with smaller, niche competitors in specific geographic or product markets.
+
+Global Business Services:
+
+GBS competes in consulting, systems integration, application management and business process outsourcing services. We compete with broad-based competitors including: Accenture, Capgemini, DXC Technology (DXC), Fujitsu; cloud services providers; India-based service providers; the consulting practices of public accounting firms; and many companies that primarily focus on local markets or niche service areas.
+
+Global Technology Services:
+
+GTS competes in project, managed and outsourcing services, cloud-delivered services, and technical and IT support services. The market contains a diverse set of competitors, with GTS the share leader. In Infrastructure & Cloud Services, our competitors include: Atos, DXC, Fujitsu, HCL, Infosys,Tata Consulting Services, Wipro and many companies that primarily focus on local markets or niche service areas. We also compete with the ecosystems of cloud platform vendors such as Amazon, Google, Microsoft and Oracle. In Technology Support Services, we compete with several hardware and software vendors who offer support services for their own products, as well as independent support services providers.
+
+Systems:
+
+       The enterprise server and storage markets are characterized by competition in technology and service innovation focused on value, function, reliability, price and cost performance and as-a-Service delivery. Our principal competitors include Dell Technologies, Hewlett-Packard Enterprise (HPE), Intel and original device manufacturer systems that are often re-branded. Also, alternative as-a-Service providers are leveraging innovation in technology and service delivery both to compete with traditional providers and to offer new routes to market for server and storage systems. These alternative providers include Amazon, Google, Microsoft, and IBM’s own cloud-based services.
+
+We gain advantage and differentiation through investments in higher value capabilities—from semiconductor through software stack innovation—that increase efficiency, lower cost and improve performance. Our research and development capabilities and IP patent portfolio contribute significantly to this segment’s leadership across areas as diverse as high-end and high-performance computing, virtualization technologies, software optimization, power management, security and resiliency, multi-operating system capabilities and open technologies like interconnect standards to be leveraged by broad ecosystems.
+
+Global Financing:
+
+Global Financing provides client financing, commercial financing and participates in the remanufacturing and remarketing of used equipment. Global Financing’s ability to manage credit and residual value risk generates a competitive advantage for the company. The key competitive factors include interest rates charged, IT product experience, client service, contract flexibility, ease of doing business, global capabilities and residual values. In client and commercial financing, Global Financing primarily competes with non-captive financing entities and financial institutions. In remanufacturing and remarketing, we compete with local and regional brokers plus original manufacturers in the fragmented worldwide used IT equipment market.
+
+
+
+2
+
+Table of Contents
+
+Forward-looking and Cautionary Statements
+
+Certain statements contained in this Form 10-K may constitute “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995 (“Reform Act”). Forward-looking statements are based on the company’s current assumptions regarding future business and financial performance. These statements by their nature address matters that are uncertain to different degrees. The company may also make forward-looking statements in other reports filed with the Securities and Exchange Commission (SEC), in materials delivered to stockholders and in press releases. In addition, the company’s representatives may from time to time make oral forward-looking statements. Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. Words such as “anticipates,” “believes,” “expects,” “estimates,” “intends,” “plans,” “projects,” and similar expressions, may identify such forward-looking statements. Any forward-looking statement in this Form 10-K speaks only as of the date on which it is made. Except as required by law, the company assumes no obligation to update or revise any forward-looking statements. In accordance with the Reform Act, set forth under Item 1A. “Risk Factors” on pages 4 to 10 are cautionary statements that accompany those forward-looking statements. Readers should carefully review such cautionary statements as they identify certain important factors that could cause actual results to differ materially from those in the forward-looking statements and from historical trends. Those cautionary statements are not exclusive and are in addition to other factors discussed elsewhere in this Form 10-K, in the company’s filings with the SEC or in materials incorporated therein by reference.
+
+The following information is included in IBM’s 2020 Annual Report to Stockholders and is incorporated herein by reference:
+
+Segment information and revenue by classes of similar products or services—pages 91 to 96.
+
+Financial information regarding environmental activities—page 117.
+
+The number of persons employed by the registrant—page 29.
+
+The management discussion overview—pages 19 to 22.
+
+Website information and company reporting—page 142.
+
+Executive Officers of the Registrant (at February 23, 2021):
+
+
+
+
+
+
+
+    
+
+Age
+
+    
+
+Officer since
+
+Arvind Krishna, Chairman of the Board and Chief Executive Officer*
+
+
+58
+
+
+2020
+
+Michelle H. Browdy, Senior Vice President, Legal and Regulatory Affairs, and General Counsel
+
+
+56
+
+
+2015
+
+Gary D. Cohn, Vice Chairman
+
+
+60
+
+
+2021
+
+Robert F. Del Bene, Vice President and Controller
+
+
+61
+
+
+2017
+
+Nickle J. LaMoreaux, Senior Vice President and Chief Human Resources Officer
+
+
+41
+
+
+2020
+
+James J. Kavanaugh, Senior Vice President and Chief Financial Officer, Finance and Operations
+
+
+54
+
+
+2008
+
+James M. Whitehurst, President
+
+
+53
+
+
+2020
+
+*     Member of the Board of Directors.
+
+All executive officers are elected by the Board of Directors annually as provided in the Company’s By-laws. Each executive officer named above, with the exception of Gary D. Cohn and James M. Whitehurst, has been an executive of IBM or its subsidiaries during the past five years. Mr. Cohn is Co-Chairman of Cohn Robbins Holding Corp, a special-purpose acquisition company. Mr. Cohn previously served as Assistant to the President for Economic Policy and Director of the National Economic Council from January 2017 until April 2018. Before serving in the White House, Mr. Cohn was President and Chief Operating Officer of The Goldman Sachs Group, Inc. from 2006-2016. Mr. Whitehurst served as Chief Executive Officer of Red Hat, Inc., a multinational software company, from 2007 until it was acquired by IBM in 2019.
+
+
