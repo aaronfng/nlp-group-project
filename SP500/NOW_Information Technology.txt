@@ -1,0 +1,235 @@
+ITEM 1.	BUSINESS 
+
+ServiceNow’s purpose is to make the world of work, work better for people. We believe that people want the technology they use in their work to be more efficient and easier to use. We build applications to meet that demand by automating existing processes and creating efficient, digitized workflows with a consumer grade user experience. Our products and services enable the steps of a job to flow naturally across disparate departments, systems and processes of a business. When work flows naturally, great experiences follow.
+
+Getting a job done in an enterprise (what we call a “workflow”) usually requires different people in various functions of an organization to work together. Often, they rely on different technology systems and inefficient, manual processes to complete each step of the job before moving along to the next. We believe that this approach is undergoing a transformation. Enterprises have to operate in new and faster ways and need digital processes and systems that can quickly pivot and adapt to rapidly changing business needs. We believe that the most effective digital transformation initiatives utilize tools that can integrate workflows across siloed systems, departments, processes and people. We also believe that many business challenges, whether it be the need for a streaming service to quickly and efficiently initiate and support new customer accounts or the need for state governments to efficiently manage the distribution of unemployment insurance payments, can be broken down into discrete tasks and those tasks can be managed digitally until the job, or the workflow, is complete.
+
+ServiceNow delivers digital workflows on a single enterprise cloud platform called the Now Platform®. Our product portfolio is currently focused on providing Information Technology (“IT”), Employee and Customer workflows in standardized product offerings. We also enable our customers to design and build their own custom workflow applications using our Creator workflows, formerly called the Now Platform App Engine, and to integrate those applications with third party systems through our Integration Hub.
+
+The Now Platform is the foundation of our IT, Employee, Customer and Creator workflow offerings. We call it "the platform of platforms," because it connects people, functions and systems to drive innovation, increase business agility and unlock productivity. Because the Now Platform is built on a single technology platform, our own developers, and developers working for our customers, can innovate quickly and deploy solutions rapidly. Our increasing use of artificial intelligence and machine learning also allows for the creation of many workflows to quickly become fully automated. Our native mobile applications greatly assist in delivering those automated workflows to our customers’ employees.
+
+1
+Table of Contents
+While the importance of digital transformation has been increasing in recent years, the COVID-19 pandemic accelerated that need and underscored the critical importance of digital and automated workflows. As the world economy underwent increasing disruption, companies further along in their digital transformation were better able to maintain business continuity and improve productivity. When employees could no longer access their physical workspaces because of public health safety concerns, enterprises needed processes and systems that could communicate with one another without manual steps or intervention. The Now Platform became a critical tool to help many of our customers meet that need. The agility of the platform and the speed with which developers could create and automate solutions accelerated their digital transformation, which better equipped our customers for the future of work.
+
+Our standardized workflows helped our customers adapt and manage a remote workforce in a matter of weeks, not months, and our customers created their own solutions on the Now Platform in a matter of days and weeks, not months and years. Our own engineers were able to develop workforce management solutions in a matter of weeks, and update them on a regular cadence. When the pandemic first led to employers restricting their physical locations, we quickly developed applications to allow employers to communicate with employees and manage potential exposures to the virus, and over the course of the next months we developed applications to allow employers to manage their employees’ return to the workplace and maximize their safety in physical facilities. As vaccines were developed and are being distributed, we developed applications to help governments allow their citizens to access critical vaccine information, schedule appointments, and receive appointment notifications from vaccine providers. Our customers, from national, state and local governments to large private enterprises, have built their own custom solutions utilizing the Creator workflow offering. These are just some examples of how our customers leverage the Now Platform to optimize their investments in digital transformation and create a better experience for their employees and customers.
+
+We primarily deliver our software via the Internet as a service through a simple and easy-to-use interface so that we can rapidly deploy our packaged offerings, and customers can easily build their custom applications. In a minority of cases, customers choose to host our software by themselves or through a third-party service provider.
+
+We market and sell our products and services to enterprises across industries, including government, financial services, healthcare, telecommunications, manufacturing, IT services, technology, oil and gas, education and consumer products. We sell our products through subscription services and primarily through direct sales. We also offer professional services, both directly and through partners, to help our customers deploy and utilize our products and platform.
+
+We were incorporated as Glidesoft, Inc. in California in June 2004 and changed our name to Service-now.com in February 2006. In May 2012, we reincorporated in Delaware as ServiceNow, Inc.
+
+Our Products
+
+Our portfolio includes the Now Platform, and standardized applications specifically designed for automating IT, Employee and Customer workflows. It also includes Creator workflows, which support custom workflow creation, application development, and integration with third party systems, and make these custom applications available on the ServiceNow Store. Each of our products and services helps in critical aspects of our customers’ digital transformation process, and some of these products and services, as captured in the graphic and described below, are used in multiple workflows.
+
+2
+Table of Contents
+now-20201231_g2.jpg
+
+The Now Platform
+
+The Now Platform is a single-cloud platform with one data model and one architecture, enabling speed, flexibility and innovation. The Now Platform delivers workflows across siloed organizations and systems by connecting them together in a seamless way to unlock productivity and improve experiences for both employees and customers. As the foundation for how we deliver our enterprise-wide digital workflows, the Now Platform integrates and interoperates with our customers’ existing cloud platforms and legacy systems, allowing our customers to deliver workflows across their preferred systems of record and collaboration platforms. Our IT, Employee, and Customer workflows can be implemented by customers quickly. Our Creator workflows allow customers to design, build and integrate workflow applications on the Now Platform that are uniquely suited to their businesses. Among the many services that our platform supports are workflow automation, artificial intelligence, machine learning, performance analytics, electronic service catalogs and portals, configuration management systems, data benchmarking, encryption and collaboration and development tools. While every company has a different suite of user interfaces from web-based to mobile to conversation applications, the Now Platform creates a common user experience for customers to manage workflows across all of their interfaces.
+
+The Now Platform also powers three native mobile experiences for everyday work across the enterprise: Virtual Agent, Now Mobile and Mobile Onboarding. Enterprises can take advantage of consumer-like, mobile experiences, such as getting help from human resources or ordering a computer, from our platform. Our goal is to make our customers’ work lives as simple, easy and mobile-friendly as their personal lives.
+3
+Table of Contents
+IT Workflows
+
+Our roots are in IT workflows. Our founder initially saw a need for an integrated system in IT that identified issues, assigned those issues to the right people for resolution and remediated any systemic problems that created the issues. Our IT products have become increasingly sophisticated in assisting IT departments to serve their customers, manage their networks, identify and remediate security vulnerabilities and threats and reduce time spent on administrative tasks. With our IT workflows, on the Now Platform, we deliver one data model, and cross enterprise integration, which gives IT departments the ability to plan, build, operate and service across the entire IT lifecycle. Our artificial intelligence technology enables features like Virtual Agents to help employees using simple, human language, and predictive intelligence to power workflows with machine learning to automate routine tasks and get to resolution faster. Many of these capabilities are also used in our Employee and Customer workflows.
+
+IT Service Management
+
+As our flagship product suite, IT Service Management (“ITSM”) defines, structures, consolidates, manages and automates the IT services an enterprise offers its employees, customers and partners. Among the ITSM product suite’s capabilities are recording incidents, remediating problems and automating routine tasks and requests. ITSM also offers artificial intelligence (AI), machine learning (ML), predictive intelligence, Virtual Agent, performance analytics and continual improvement management capabilities. These AI and ML capabilities help our customers identify and recommend steps to be taken by a customer in remediating issues, driving efficiency and end-user satisfaction. With ITSM our customers can elevate their IT service experience by improving IT productivity, achieving new insights and consolidating IT services. For example, we enable our customers to provide service portals where their employees can request IT services, order software and hardware and submit IT incidents all in one place.
+
+IT Business Management
+
+Our IT Business Management (“ITBM”) product suite enables customers to manage their IT priorities, including the scope and cost of IT projects, the development of software related to those projects and the overall management of the customer’s IT project portfolio. With ITBM, we help our customers gain visibility, track progress, and continuously plan and optimize resources as priorities shift.
+
+DevOps
+
+Our enterprise DevOps product provides visibility across a product development toolchain. It integrates with the leading DevOps toolchains to provide automated change management, information gathering and collecting and a single dashboard across planning, development, testing, deployment and operations. With DevOps, our customers can streamline their software development and deployment processes.
+
+IT Operations Management
+
+Our IT Operations Management (“ITOM”) product suite connects a customer’s physical and cloud-based IT infrastructure with our applications and platform. It identifies a customer’s IT infrastructure components (e.g., servers) and associated business services (e.g., email) which are dependent upon that infrastructure. It also maintains a single data record for all IT configurable items, which allows our customers to exercise control over their on-premises or cloud-based infrastructures and orchestrate key processes and tasks. With ITOM, our customers can enhance visibility of IT resources, manage service health and optimize cloud delivery and spend.
+
+IT Asset Management
+
+Our IT Asset Management (“ITAM”) product automates customers’ IT software, hardware and cloud asset lifecycles with workflows to track the financial, contractual and inventory details of these IT assets throughout their lifecycles. With ITAM, our customers gain visibility into the full IT asset lifecycles to help optimize costs and automate workflows.
+
+4
+Table of Contents
+Security Operations
+
+Our security operations product connects with internal and third-party security alerts from a customer’s infrastructure to prioritize and respond to incidents and vulnerabilities according to their potential impact on a customer’s business. Our security operations product includes security incident management, threat enrichment intelligence, vulnerability response management and security incident intelligence sharing. With our security operations product, we help simplify our customers’ incident response by allowing them to replace manual tasks with automated security orchestration and to prioritize and remediate vulnerabilities and security incidents.
+
+Governance, Risk and Compliance
+
+Our Governance, Risk and Compliance (“GRC”) product suite helps customers manage risk and resilience in real time. Among the GRC’s product suite’s capabilities are policy and compliance management, risk management, including detection and assessment, business continuity management, vendor risk management and operational risk management. GRC provides a unified data environment, dashboards, automated workflows and artificial intelligence capabilities to help customers with risk-based decisions and align resilience initiatives across the enterprise. With GRC, customers can also assess risk and make strategic decisions with confidence by being able to continuously monitor and prioritize risks.
+
+Employee Workflows
+
+Our Employee workflow products on the Now Platform can transform the employee experience and turn it into a competitive advantage. With our Employee workflows, our customers can simplify how their employees get the services they need, creating a familiar, consumer-like way to get work done from wherever an employee may be—at home, in the workplace or in the field. We enable Employee workflows through our HR Service Delivery, Safe Workplace suite of applications, Workplace Service Delivery, and Legal Service Delivery.
+
+HR Service Delivery
+
+Our HR Service Delivery product defines, structures, consolidates, manages and automates HR services related to employee requests. HR Service Delivery capabilities include HR case management, employee self-service, knowledge management and management of employee lifecycle events across multiple departments, such as onboarding, transfers and off-boarding. For example, tasks that start in HR but require action from other departments, such as new hire equipment selection and fulfillment, can be easily automated and orchestrated. With HR Service Delivery, we make it easy for our customers’ employees to get the services they need, allowing our customers to use fewer resources to serve more employees, streamline employee lifecycle events, and increase visibility, staffing efficiency and delivery of services.
+
+Safe Workplace Suite
+
+In response to the COVID-19 pandemic, we rapidly innovated and created a Safe Workplace suite of applications and a dashboard, enabling business functions to work together across department systems, hiding the underlying complexity and making it easy to get work done. For example, the Employee Health Screening App for self-certification and self-screening helps companies determine who is eligible to re-enter the workplace and the Workplace Service Delivery application helps companies determine if there is adequate space for employees to return to work and maintain safe social distance. These products were developed to help companies keep employees safe, increase engagement, improve productivity and maintain business continuity, all while creating a great user experience for employees. These products, including their bi-weekly releases and updates, demonstrate the Now Platform’s agile and flexible product development capabilities and our ability to continue to deliver business solutions in response to rapidly changing operating conditions.
+
+Workplace Service Delivery
+
+Our Workplace Service Delivery product keeps our customers’ workplaces running smoothly with a multi-channel, mobile-enabled solution. With Workplace Service Delivery, employees of our customers automate requests, reservations and repairs to help use space wisely, provide easy access to services, manage requests efficiently and get real-time visibility. For example, a remote employee can reserve a desk for a week and book a conference room for a team meeting, all from their mobile device.
+
+5
+Table of Contents
+Legal Service Delivery
+
+Our Legal Service Delivery product consolidates manual tools and modernizes internal legal operations processes to manage legal requests across the enterprise. With Legal Service Delivery, legal teams can gain efficiency, deliver support efficiently with automated responses and get insight into demand with real-time reporting and dashboards. Capabilities include practice-area request workflows, a workspace to route and manage requests, legal matter management for multi-step legal requests, and reporting and dashboards to view demand and service levels. For example, a sales representative can submit a request for a new customer contract, and the appropriate expert can manage the negotiation of the contract and obtain proper inputs from privacy, security, finance and other specialists to ultimately bring the contract to execution.
+
+Customer Workflows
+
+Today’s customer service departments are filled with reactive agents searching multiple systems to find a single answer to customer issues. Our Customer workflow products help organizations reimagine the customer experience and increase customer loyalty. Integrating front-end customer service capabilities with operations and field service resources, our Customer workflow products help to create a seamless customer experience from issue to resolution through connected digital workflows that deliver fast support on a customer’s channel of choice. We enable Customer workflows through Customer Service Management, Field Service Management products, and Connected Operations.
+
+Customer Service Management
+
+Our Customer Service Management product defines, structures, consolidates, manages and automates common customer service cases and requests, such as password resets, to be automated with out-of-the-box self-service, and for other cases it routes work from the customer service agent to field service, engineering, operations, finance or legal personnel to resolve the underlying issues. With Customer Service Management, we help our customers elevate their customer service by boosting resolution efficiency and improving service quality through workflows, automation and artificial intelligence.
+
+Field Service Management
+
+Our Field Service Management product allows field service agents to be effectively assigned, deployed and managed on the same underlying customer service management platform that created and managed the customer incident. With Field Service Management, we help our customers efficiently manage location-based work tasks, including dynamic scheduling and visual dispatch.
+
+Connected Operations
+
+Our Internet of Things (“IoT”) product, Connected Operations, unifies siloed data onto the Now Platform to help operations teams manage critical assets and derive value from their IoT investments. Connected operations allows customers to monitor IoT devices remotely, detect issues in near real time, manage incidents and take action across multiple teams.
+
+Creator Workflows
+
+As organizations digitally transform, they need to pivot faster with new processes and business models. This requires faster, more agile execution with more automation delivered through software applications. Our Creator workflow products enable our customers to quickly create, test, and deploy their own applications on the Now Platform. We enable Creator workflows through App Engine and IntegrationHub products.
+6
+Table of Contents
+
+App Engine
+
+Our App Engine product empowers enterprise-class low code application delivery with intuitive and intelligent experiences, at speed and scale. With App Engine, customers and third-party developers can create, test and deploy their own consumer-grade applications that can be scaled from a single department to the entire enterprise. Examples of applications our customers have developed include: an application developed by a company with a large network of seasonal retail stores and offices to track progress and identify issues in opening and closing their seasonal locations, which enabled significant cost savings; an application developed by the IT office of a university that allocated and billed costs associated with IT maintenance, allowing the university to retire multiple legacy software systems; and an application developed by a mortgage company to ensure that loan files were complete and accurate prior to packaging and selling the loans to investors. These types of applications, which extend the automation of our customers’ workflows, have been developed and deployed by our customers and third-party developers using App Engine.
+
+IntegrationHub
+
+Our IntegrationHub product enables anyone who creates an application on the Now Platform to extend workflows into third-party products, eliminating the need for other integration tools to connect a ServiceNow workflow with other software platforms. Integration hub provides a framework that allows developers to create and publish integrations for use by anyone. The Now Platform provides connectors to over one hundred products in the ServiceNow Store.
+
+In addition, the ServiceNow Store has hundreds of certified, ready to use applications from a growing independent software vendor ecosystem. The ServiceNow Store enables departments across an enterprise to do more with the Now Platform with certified applications that complement and extend the Now Platform into new use cases.
+
+Industry Solutions
+
+We have expanded existing partnerships to deliver our industry-specific product solutions and better address the unique needs of specific industries. We currently offer industry product solutions for financial services and telecommunications and intend to offer more industry specific solutions for other industries. With Financial Services Operations as part of our Customer workflows, our financial services customers can unite their front, middle and back offices to improve customer and employee experiences. It also facilitates agile security responses to enhance risk protection and provides artificial intelligence capabilities and a unified system on a single cloud platform. With Telecommunications Network Performance Management as part of our IT workflows and Telecommunications Service Management as part of our Customer workflows, our telecommunications customers can connect their entire operation—from the network to the customer—with one platform, proactively monitor the health of their networks and services, enhance customer care, automate service assurance and gain real-time data visibility.
+
+Professional Services
+ 
+Our Professional Services are offered by ServiceNow alone and in a co-delivery model with our network of partners to help customers maximize the value of their ServiceNow investment. Our professional services include process design, implementation, configuration, architecture and optimization services. With our Now Value methodology as the foundation for customer success, our services bring together our experts and leading practices enabling our customers to create value and drive customer outcomes as they embark on enterprise digital transformations through the use of our platform. Our training services include programs for all of our products.
+
+Customer Support
+
+Customers receive standard and enhanced support around the globe, from technical resources located in the United States and internationally. We also offer self-service technical support through our support portal, which provides access to documentation, knowledge base articles, online training, online support forums and online case creation.
+
+Our Technology and Operations
+
+We operate a multi-instance architecture that provides each customer with its own dedicated application logic and database. This architecture is designed to deliver high-availability, scalability, performance, security and ease of upgrading. Our cloud infrastructure primarily consists of industry-standard servers, networks and storage components. We host our full software-as-a-service experience on our own private cloud and use public cloud service providers for certain highly regulated customers.
+7
+Table of Contents
+Our data centers operate in paired configurations to enable replication for high-availability and redundancy. We currently operate data centers in Australia, Brazil, Canada, Germany, Hong Kong, Ireland, Japan, South Korea, the Netherlands, Singapore, Switzerland, the United Kingdom, and the United States, and we continuously evaluate our data center operations and capacity in existing and new geographies.
+
+We offer customers the option to deploy our services on dedicated hardware in our data centers. Our architecture also gives us the added flexibility to allow customers the option of deploying our services internally or under contract with a third party to host the software in order to support unique regulatory or security requirements. While there are some limitations on agility and flexibility as compared to our cloud offering, a minority of our customers have elected the third-party alternative. The standard and enhanced customer support we provide for self-hosted customers is similar to the support we provide to customers deployed in our managed data centers.
+
+Sales and Marketing
+ 
+We sell our product offerings and services primarily through our global direct sales organization. We also sell services through managed services providers and resale partners.
+
+Our marketing efforts and lead generation activities consist primarily of customer referrals, digital advertising (including via our website), trade shows, industry events, brand campaigns and press releases. We also host our annual Knowledge user conference, webinars and other user forums, including regional forums which we call Now at Work, where customers and partners both participate in and present on a variety of programs designed to educate them on industry best practices and help accelerate their success.
+
+We continue to expand our sales capabilities in new geographies, including through investments in direct and indirect sales channels, professional services capabilities, customer support resources, post-sales customer support resources and strategic alliance and implementation partners. We also plan to increase our investment in our existing locations in order to achieve scale efficiencies in our sales and marketing efforts.
+
+Partner Ecosystem
+
+In addition to our global direct sales organization, we also have a strong and growing ecosystem of partners that helps accelerate our customers’ digital transformation initiatives and deliver customer value at scale. Our partners play a critical role in helping companies digitally transform their business. Our industry and workflow capabilities paired with our partners’ industry and functional domain experience help customers of all sizes. Together with our partners, we offer industry and domain-focused solutions at scale and are accelerating digital transformation as we help companies drive new approaches in engaging their end users and employees. For example, we formed a “business group” with one of our partners to develop joint industry and workflow solutions to help customers transform at scale and achieve their digital transform initiatives faster. 
+
+Customers
+ 
+We primarily sell our services to large enterprise customers, and we host and support large, enterprise-wide deployments for our customers. As of December 31, 2020, we had approximately 6,900 enterprise customers. Our customers operate in a wide variety of industries, including government, financial services, healthcare, manufacturing, IT services, technology, oil and gas, telco, education and consumer products.
+
+Research and Development
+ 
+Our research and development organization is responsible for the design, development, testing and validation of our solutions. We focus on innovating and developing new services and core technologies and further enhancing the functionality, reliability and performance of our existing solutions. Using emerging technologies, we can anticipate customer demands and then bring new services and new versions of existing services to market quickly in order to remain competitive in the marketplace. We have made, and will continue to make, significant investments in research and development to broaden our platform capabilities, strengthen our existing applications, expand the number of applications on our platform, enhance our user experience and develop additional mobile, automation and machine intelligence technologies.
+
+8
+Table of Contents
+Acquisitions and Investments
+
+In addition to continuing to invest in our own research and development efforts, we have made acquisitions and investments in the past and will continue to assess opportunities for strategic acquisitions and investments to complement our technology and skill sets and expand our product reach. Our focus is on building out our platform and products through both organic investments to support customer needs and acquisitions of talent and enhanced capabilities. For example, a number of our acquisitions in 2020 focused on bringing AI capabilities to the Now Platform and across our suite of products.
+
+Competition
+ 
+We compete in markets that are rapidly evolving and highly competitive, with relatively low barriers to entry. As these markets continue to mature and new technologies and competitors enter such markets, we expect competition to intensify. Our current competitors include:
+
+•large, well-established, enterprise application software vendors and large integrated systems vendors;
+•new entrants to the market developing technologies to solve similar problems in different ways;
+•solutions developed in-house by our potential customers or using integrations with other tools;
+•vendors of infrastructure-as-a-service, platform-as-a-service providers and development operations; and
+•established and emerging cloud vendors.
+
+Many prospective customers have invested substantial personnel and financial resources to implement and integrate their current enterprise software into their businesses and therefore may be reluctant or unwilling to migrate away from their current solution to ours. Accordingly, we compete with both cloud-based and traditional, enterprise-application, software vendors. Our competitors vary in size and in the breadth and scope of the products and services they offer. As we continue to expand the breadth of our services to include offerings in new markets and verticals, we expect increasing competition from platform and application development vendors focused on these markets and verticals.
+
+Various factors influence purchase decisions in our industry, including total cost of ownership, customer experience, level of customer satisfaction, breadth and depth of product functionality, security, adherence to industry standards, brand awareness, flexibility, performance, relevance and traction. We believe that we compete favorably with our competitors on each of these factors. However, many of our competitors have substantially greater financial, technical and other resources. They may be able to respond more quickly and effectively than we can to new or changing opportunities, technologies, standards, customer requirements and buying practices. An existing competitor or potential competitor could introduce new technology, or more effectively utilize existing technology, that reduces demand for our services. Acquisitions, integrations and consolidation by and among other companies in our industry may allow potential competitors to offer integrated or bundled products, enhanced functionality, or other advantages, which may impact our competitive position. In addition, some of our competitors offer their products or services at a lower price, which has resulted in pricing pressures. Larger competitors may also have the operating flexibility to bundle competing products and services with other offerings, which may enable them to offer their products and services at a lower price. As competition intensifies, we expect pricing competition to continue or increase.
+
+Intellectual Property
+ 
+We rely upon a combination of U.S. and international copyright, trade secret, patent and trademark laws and confidentiality procedures and contractual restrictions, such as confidentiality and license agreements, to establish, protect and grow our intellectual property (“IP”) rights. In addition, we enter into confidentiality and proprietary rights agreements with our employees, partners, vendors, consultants and other third parties and control access to our IP and other proprietary information. We also purchase or license technology that we incorporate into our products or services. In certain of our partnership arrangements, our partners may develop technology on the Now Platform that may be subject to copyright or other intellectual property rights that we agree to with the partner.
+
+We continue to grow our global patent portfolio and IP rights that relate to our platform, applications, services, research and development and other activities. Our success depends in part upon our ability to protect our core technology and IP. We have over 950 U.S. and foreign patents, including patents acquired from third parties, and over 750 pending patent applications. We do not believe that our proprietary technology is dependent on any single patent or other IP right or group of related patents or IP rights. We file patent applications to protect our IP and have and may continue to acquire additional patents, patent portfolios, or patent applications. However, we cannot be certain that any of our patent applications will result in the issuance of a patent or whether the examination process will result in patents of value or applicability. In addition, any patents that have been or may be issued or acquired may be contested, circumvented, found unenforceable or invalidated, and we may not be able to prevent third parties from infringing upon them.
+9
+Table of Contents
+Despite our efforts to protect our proprietary rights, unauthorized parties may attempt to copy or obtain and use our technology to develop products and services that provide features and functionality similar to ours. Policing unauthorized use of our technology is difficult. The laws of the countries in which we operate may offer little or no effective protection of our proprietary technology. Our competitors could also independently develop services equivalent to ours, and our IP rights may not be broad enough for us to prevent competitors from utilizing their developments to compete with us. Reverse engineering, unauthorized copying or other misappropriation of our proprietary technology could enable third parties to benefit from our technology without paying us for it, which would significantly harm our business.
+
+Our industry is characterized by frequent claims and related litigation regarding patent and other IP rights. From time to time, third parties may assert patent, copyright, trademark and other IP rights against us, our channel partners or our customers. In addition, based on our greater visibility, expanding solutions footprint, and market exposure as a public company, we face a higher risk of being the subject of IP infringement claims. See “Risk Factors—Lawsuits against us by third parties that allege we infringe their intellectual property rights could harm our business and operating results” for additional information.
+
+Human Capital Management
+ 
+We have over 13,000 employees worldwide and strive to ensure that our employees understand, embrace and deliver on our purpose to make the world of work, work better for people. We believe that our employees' commitment to our purpose contributes to higher employee satisfaction, productivity and results in the creation of more customer-focused products and services. This year, much of our human capital management efforts focused on Diversity, Inclusion and Belonging, and ensuring a proper and effective response to the COVID-19 pandemic for our employees.
+
+As of December 31, 2020, we had 13,096 full-time employees worldwide. None of our U.S. employees are represented by a labor union. Employees in certain European countries are represented by workers’ councils and have the benefits of collective bargaining arrangements at the national level. We have not experienced interruptions of operations or work stoppages due to labor disagreements.
+
+Purpose, Culture and Employee Engagement
+
+As a company, we undertake numerous efforts to ensure that our employees understand, embrace and deliver on our purpose: to make the world of work, work better for people. From a recruiting process in which we evaluate candidates in part based on their commitment to our purpose, to an onboarding process that includes content on purpose and how our products impact our customers, to regular company-wide meetings in which our purpose is a central theme, to department and individual discussions of purpose, we seek to provide education in a variety of formats. We regularly measure our employees’ engagement to determine whether they see their work contributing to the Company’s larger purpose, including through an Employee Voice Survey.
+
+Our culture is driven by our core company values:
+•Win as a team
+•Embrace diversity, create belonging
+•Enjoy the journey
+•Deliver customer success
+•Innovate and execute
+•Stay hungry and humble
+
+We screen leadership hires and measure employee performance against these company values, and regularly measure employee engagement against these values through our Employee Voice Survey. We believe our values-driven culture of open and transparent communication has contributed to our recognition as a great place to work by our employees.
+10
+Table of Contents
+Diversity, Inclusion and Belonging – Commitment to Equality of Opportunity, Pay Equity and Employee Well-Being
+
+Embracing diversity, inclusion and belonging is a business imperative that is core to how we operate, recruit talent, develop our people, create culture and innovate. Diverse, inclusive teams where everyone feels they belong are high performing teams that are more innovative, productive and engaged. We have believed in this principle and invested resources in this area for some time, but the need for investment in diversity was more widely recognized in the technology industry in 2020. In past years, we have evaluated pay equity practices for our workforce, and we plan to do so on an ongoing basis, to ensure employees at the same job title and level are paid consistently.
+
+We have regularly measured our representation of women in the Company, including in leadership and technical positions. As of December 2019, in the US, where we have pay data by gender, race, and ethnicity, women and under-represented groups earn $1.00 and $1.01 for every $1.00 earned by their male and white counterparts, respectively. As of December 2019, globally, where we have pay data by gender, women earn $0.99 for every $1.00 earned by their male counterparts. We have published our gender representation and pay equity data in an annual Diversity Report, which we have posted on our public-facing website.
+
+We are committed to employee well-being and offer mental and behavioral health support to our employees, including therapy and educational resources.
+
+Human Capital Management in Response to COVID-19
+
+In responding to the COVID-19 pandemic in 2020, we prioritized ensuring the safety and health of our employees. Before health guidance suggested shelter in place initiatives, we began to limit business travel and encourage remote working. Then, in advance of shelter in place requirements, we adopted a company policy encouraging all employees to work from home and closed most of our offices (including our headquarters), except for certain critical positions. In April 2020, we committed to protect the jobs of our global workforce through 2020 with a “no layoff” pledge despite the economic uncertainty of the COVID-19 pandemic. We met that commitment and did not conduct any layoffs in 2020. In addition to meeting our commitment to the no layoff pledge, we had a net increase to our total headcount of approximately 26%. Since transitioning to a mostly work from home environment, we launched regular employee surveys to check in on employee well-being and sentiment on return to workplace readiness. Recognizing the impact of COVID-19 on our employees’ mental health, we also offered additional wellness and behavioral health education and resources to our employees. We also continued to invest in the future of our workforce by hosting our summer intern program globally with more than 360 interns participating digitally.
+
+Available Information
+
+You can obtain copies of our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and other filings with the SEC, and all amendments to these filings, free of charge from our website at www.servicenow.com/company/investor-relations/sec-filings.html as soon as reasonably practicable following our filing of any of these reports with the SEC. The SEC maintains an Internet site that contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC at www.sec.gov. The contents of these websites are not incorporated into this filing and our references to the URLs for these websites are intended to be inactive textual references only.
+
+Investors and others should note that we announce material financial information to our investors using our investor relations website (https://www.servicenow.com/company/investor-relations.html), SEC filings, press releases, public conference calls and webcasts. We use these channels, as well as social media, to communicate with our investors and the public about our company, our services and other issues. It is possible that the information we post on social media could be deemed to be material information. Therefore, we encourage investors, the media, and others interested in our company to review the information we post on the social media channels listed on our investor relations website.

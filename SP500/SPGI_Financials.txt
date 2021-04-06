@@ -1,0 +1,133 @@
+Item 1. Business
+
+Overview
+
+S&P Global Inc. (together with its consolidated subsidiaries, the “Company,” the “Registrant,” “we,” “us” or “our”) is a leading provider of transparent and independent ratings, benchmarks, analytics and data to the capital and commodity markets worldwide. The capital markets include asset managers, investment banks, commercial banks, insurance companies, exchanges, trading firms and issuers; and the commodity markets include producers, traders and intermediaries within energy, metals, petrochemicals and agriculture. We serve our global customers through a broad range of products and services available through both third-party and proprietary distribution channels. We were incorporated in December of 1925 under the laws of the state of New York.
+
+Our Businesses
+
+Our operations consist of four reportable segments: S&P Global Ratings ("Ratings"), S&P Global Market Intelligence ("Market Intelligence"), S&P Global Platts ("Platts") and S&P Dow Jones Indices ("Indices"). For a discussion on the competitive conditions in our businesses, see “MD&A – Segment Review” contained in Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations, in this Annual Report on Form 10-K.
+
+Beginning in the first quarter of 2019, the contract obligations for revenue from Kensho Technologies Inc.’s (“Kensho”) major customers were transferred to Market Intelligence for fulfillment.  As a result of this transfer, from January 1, 2019 revenue from contracts with Kensho’s customers is reflected in Market Intelligence’s results.  In 2018, the revenue from contracts with Kensho’s customers was reported in Corporate revenue. See Note 2 – Acquisitions and Divestitures to the consolidated financial statements under Item 8, Consolidated Financial Statements and Supplementary Data, in this Annual Report on Form 10-K.
+
+In November of 2020, S&P Global and IHS Markit Ltd ("IHS Markit") entered into a merger agreement, pursuant to which, among other things, a subsidiary of S&P Global will merge with and into IHS Markit, with IHS Markit surviving the merger as a wholly owned subsidiary of S&P Global. Under the terms of the merger agreement, each share of IHS Markit issued and outstanding (other than excluded shares and dissenting shares) will be converted into the right to receive 0.2838 fully paid and nonassessable shares of S&P Global common stock (and, if applicable, cash in lieu of fractional shares, without interest), less any applicable withholding taxes. As of December 31, 2020, IHS Markit had approximately 396.6 million shares outstanding. Subject to certain closing conditions, the merger is expected to be completed in the second half of 2021.
+
+Ratings
+Ratings is an independent provider of credit ratings, research, and analytics, offering investors and other market participants information, ratings and benchmarks. Credit ratings are one of several tools investors can use when making decisions about purchasing bonds and other fixed income investments. They are opinions about credit risk and our ratings express our opinion about the ability and willingness of an issuer, such as a corporation or state or city government, to meet its financial obligations in full and on time. Our credit ratings can also relate to the credit quality of an individual debt issue, such as a corporate or municipal bond, and the relative likelihood that the debt issue may default.
+
+With offices in over 25 countries around the world, Ratings is an important part of the world's financial infrastructure and has played a leading role for over 150 years in providing investors with information and independent benchmarks for their investment and financial decisions as well as access to the capital markets. The key constituents Ratings serves are investors, corporations, governments, municipalities, commercial and investment banks, insurance companies, asset managers, and other debt issuers.
+
+As the capital markets continue to evolve, Ratings is well-positioned to capitalize on opportunities, driven by continuing regulatory changes, through its global network, well-established position in corporate markets and strong investor reputation.
+
+Ratings disaggregates its revenue between transaction and non-transaction. Transaction revenue primarily includes fees associated with:
+•ratings related to new issuance of corporate and government debt instruments, as well as structured finance debt instruments;
+•bank loan ratings; and
+6
+Table of Contents
+•corporate credit estimates, which are intended, based on an abbreviated analysis, to provide an indication of our opinion regarding creditworthiness of a company which does not currently have a Ratings credit rating.
+
+Non-transaction revenue primarily includes fees for surveillance of a credit rating, annual fees for customer relationship-based pricing programs, fees for entity credit ratings and global research and analytics at CRISIL.
+
+Market Intelligence
+Market Intelligence's portfolio of capabilities are designed to help investment professionals, government agencies, corporations and universities track performance, generate alpha, identify investment ideas, understand competitive and industry dynamics, perform evaluations and assess credit risk. Key customers served by Market Intelligence include investment managers, investment banks, private equity firms, insurance companies, commercial banks, corporations, professional services firms, government agencies and regulators.
+
+Market Intelligence includes the following business lines:
+•Desktop — a product suite that provides data, analytics and third-party research for global finance professionals, which includes the Market Intelligence Desktop (which are inclusive of the S&P Capital IQ and SNL Desktop products);
+•Data Management Solutions — integrated bulk data feeds and application programming interfaces that can be customized, which includes Compustat, GICS, Point In Time Financials and CUSIP; and
+•Credit Risk Solutions — commercial arm that sells Ratings' credit ratings and related data, analytics and research, which includes subscription-based offerings, RatingsDirect® and RatingsXpress®; and Credit Analytics.
+
+Subscription revenue at Market Intelligence is primarily derived from distribution of data, analytics, third-party research, and credit ratings-related information primarily through web-based channels, including Market Intelligence Desktop, RatingsDirect®, RatingsXpress®, and Credit Analytics. Non-subscription revenue at Market Intelligence is primarily related to certain advisory, pricing and analytical services.
+
+Platts
+Platts is the leading independent provider of information and benchmark prices for the commodity and energy markets. Platts provides essential price data, analytics, and industry insight enabling the commodity and energy markets to perform with greater transparency and efficiency. Key customers served by Platts include producers, traders and intermediaries within the energy, petrochemicals, metals and agriculture markets.
+Platts' revenue is generated primarily through the following sources:
+•Subscription revenue — primarily from subscriptions to our real-time news, market data and price assessments, along with other information products;
+•Sales usage-based royalties — primarily from licensing of our proprietary market price data and price assessments to commodity exchanges; and
+•Non-subscription revenue — conference sponsorship, consulting engagements, and events.
+
+Indices
+Indices is a global index provider maintaining a wide variety of indices to meet an array of investor needs. Indices’ mission is to provide transparent benchmarks to help with decision making, collaborate with the financial community to create innovative products and provide investors with tools to monitor world markets.
+Indices derives revenue from asset-linked fees when investors direct funds into its proprietary designed or owned indexes, sales-usage royalties of its indices, and to a lesser extent data subscription arrangements. Specifically, Indices generates revenue from the following sources:
+•Investment vehicles — asset-linked fees such as exchange traded funds (“ETFs”) and mutual funds, that are based on the S&P Dow Jones Indices' benchmarks that generate revenue through fees based on assets and underlying funds;
+•Exchange traded derivatives — generate sales usage-based royalties based on trading volumes of derivatives contracts listed on various exchanges;
+•Index-related licensing fees — fixed or variable annual and per-issue asset-linked fees for over-the-counter derivatives and retail-structured products; and
+7
+Table of Contents
+•Data and customized index subscription fees — fees from supporting index fund management, portfolio analytics and research.
+
+Segment and Geographic Data
+
+The relative contribution of our reportable segments to operating revenue, operating profit, long-lived assets and geographic area for the three years ended December 31, 2020 are included in Note 12 – Segment and Geographic Information to the consolidated financial statements under Item 8, Consolidated Financial Statements and Supplementary Data, in this Annual Report on Form 10-K.
+
+Human Capital
+
+As of December 31, 2020, we had approximately 23,000 permanent employees located worldwide, including around 14,550 in Asia, 5,550 in the U.S., 2,100 in the European region, and 800 in the rest of the world.
+
+spgi-20201231_g2.jpg
+
+
+We invest in our success as a global Company by investing in our employees across the world through our “people first” approach to human capital management, aimed at supporting everyone who works for us to reach their full potential.
+
+Board Oversight & Management Implementation of Human Capital Strategy
+Our Board of Directors and Company management view effective human capital management as critical to the Company’s ability to execute its strategy.
+
+As a result, the Board of Directors and the Compensation and Leadership Development Committee oversee and regularly engage with our CEO, Chief People Officer and senior leadership on a broad range of human capital management topics, including culture, talent and performance management, succession planning, compensation and benefits, diversity and inclusion, and employee engagement and retention.
+
+At the management level, our Chief People Officer is responsible for leading the development and execution of the Company’s human capital management strategy, also referred to as our “People” strategy, working together with other senior leaders across the Company. Among other things, this includes promoting an inclusive and performance-driven workplace culture; managing the Company’s initiatives to attract, recruit, develop and retain the high-quality talent needed to ensure S&P Global is equipped with the right skillsets and intellectual capital to deliver on current and future business needs; and overseeing the design of the Company’s compensation, benefits and wellness programs. In connection with these responsibilities, the Chief People Officer also partners with our Corporate Responsibility & Diversity team on the development and execution of the Company’s diversity and inclusion roadmap and works closely with the CEO on executive succession planning and development of the talent succession pipeline for the Company’s Operating Committee.
+The Company’s short-term incentive plan further reflects the significant role our people play in driving our enterprise strategy to Power the Markets of the Future by linking executive pay outcomes under our enterprise and division balanced scorecards to the achievement of strategic people priorities. In 2020, we focused on delivering on the following strategic People priorities:
+8
+Table of Contents
+•Creating an inclusive performance-driven culture that drives employee engagement and aligns with our purpose of accelerating progress in the world;
+•Promoting career mobility and attracting and retaining the best people; and
+•Improving diversity in overall representation through talent acquisition, advancement and retention.
+To achieve our strategic people objectives, we support our employees through human capital management strategies that include diversity and inclusion initiatives, learning and development programs, competitive compensation and benefits programs, workplace health and safety measures, and mechanisms for talent retention, engagement and management accountability. Examples of some of our key initiatives and programs in these focus areas are included below.
+
+Diversity & Inclusion (D&I)
+
+Our ability to attract and retain a diverse and inclusive workforce is critical to our long-term strategy, driving business growth and innovation and empowering our people to achieve their full potential. In connection with our commitment to create a diverse and inclusive workplace, we have taken the following steps to foster an environment where our people can bring their whole selves to work:
+
+•In 2019, we merged our Corporate Responsibility and D&I teams, in recognition of the critical importance of diversity to our firm’s standing and future. Our People team partners with Corporate Responsibility & Diversity to lead our global D&I efforts. These efforts focus on hiring and retaining diverse talent, building an inclusive culture and enabling our people to advance their careers with us. In 2020, we have increased the people and resources devoted to our D&I programs and initiatives.
+•An executive D&I Council, co-chaired by our CEO and Chief People Officer, directs and oversees our enterprise-wide diversity and inclusion strategy, advancing and ensuring coordination and accountability for diversity and inclusion programs across the organization.
+•We also measure progress on our diversity and inclusion programs as part of our enterprise and division balanced scorecards, which are reviewed by the CEO quarterly and the Board at least biannually, and impact short-term incentive compensation.
+•We connect colleagues across our organization through our employee resource groups. These global and employee-led networks offer career experiences and network-building opportunities that foster professional development and support workplace diversity.
+Learning and Development Programs
+
+We are committed to continuous learning and invest in development tools and programs at every level across our organization to help employees expand their knowledge, skills and experience and guide career advancement in support of our long-term strategy.
+
+•Technology Training - We offer internal technology training programs to enhance the technology skills of our workforce and accelerate our ability to solve complex problems using a multidisciplinary blend of data inference, algorithm development and technology education for all employees.
+•Career Coaching - We launched a career coaching program, offering customized support through global career coaches, to empower people to take ownership of their career and help them navigate their career path and opportunities to grow within S&P Global.
+•Leadership Development - We invest in developing leaders at all levels of our organization through targeted programs designed to foster leadership excellence in career managers, develop emerging leaders and strengthen our executive talent bench, providing a robust internal succession pipeline for our Operating Committee.
+
+Competitive Compensation and Benefits Programs
+
+We believe compensation and benefits programs are critical to the overall employee experience. Offering market competitive, people-centric and performance driven compensation and benefits is key to our recruitment, talent management and retention strategies. As a result, management regularly assesses employee feedback, competitor research and market data to ensure our programs remain competitive and are designed with our people’s physical, financial, work-life, mental and emotional health and wellbeing in mind. Based on these insights, we have introduced new and enhanced “people first” benefits in 2018 through 2020 to advance employees’ wellbeing at work and beyond in support of our “people first” philosophy.
+
+9
+Table of Contents
+Workplace Health and Safety
+
+The health and safety of our people working around the globe is a top priority, and our facilities worldwide follow rigorous, internally and externally audited, occupational health and safety policies.
+
+We also recognize that protecting the health, safety and wellbeing of our employees is crucial to our ability to ensure crises like the global COVID-19 pandemic are effectively managed. In response to the COVID-19 pandemic, we established a crisis management committee in January to lead a coordinated workplace safety strategy and acted quickly implementing significant changes across the organization to protect our people and the communities in which we operate.
+
+As a result of these actions, a majority of our people were working from home by late March and continue to work remotely, as we evolve our preparedness strategy for office reopenings to integrate key learnings, safety measures and employee feedback to rethink the future of work. In 2020, we also appointed our first Chief Medical Advisor to help inform decision-making on the Company’s pandemic response, hosted bi-weekly global town halls to keep our people informed about health, safety and remote working logistics, and introduced expanded health and wellness benefits to help our people cope with the health impacts of COVID-19, including:
+
+•Expanding global care leave to 10 business days caring for a sick or healthy family member;
+•Increasing minimum global sick leave to 10 paid business days while being treated for COVID-19;
+•Committing to pay any employees who contract COVID-19;
+•Committing to provide unlimited paid leave following loss of a loved one, and three months’ pay to family members following loss of an employee;
+•Providing added flexibility for those working from home while caring for children/family; and
+•Expanding telemedicine resources and access to mental health services.
+
+Retention and Engagement
+
+In order to attract and retain the high-quality talent needed to execute our long-term strategy to Power the Markets of the Future, we believe it is critical for our people to feel motivated and empowered. As a result, we strive to create a unified and inclusive workplace culture that promotes employee engagement, satisfaction and performance; and that reflects our common corporate purpose and values of Relevance, Integrity and Excellence.
+
+We invite employee feedback through a variety of channels for open communication and engagement, including small group employee round-table discussions with our business leaders and members of our Board of Directors, our annual employee VIBE survey, as well as more frequent check-ins through employee “Pulse” surveys. The annual VIBE survey allows us to track progress in critical areas, such as workplace pride and satisfaction and inclusive culture, and gather actionable insights for improvements to our people strategy. We encourage managers to share VIBE survey results with their teams, prioritize action areas and pursue solutions. To reinforce management accountability, we also track employee survey scores in our enterprise and division balanced scorecards, with outcomes against survey engagement targets impacting short-term incentive outcomes.
+
+Available Information
+
+The Company's investor kit includes Annual Reports on Form 10-K, Proxy Statements, Quarterly Reports on Form 10-Q, current reports on Form 8-K, the current earnings release and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act. For online access, go to http://investor.spglobal.com. Requests for printed copies, free of charge, can be e-mailed to investor.relations@spglobal.com or mailed to Investor Relations, S&P Global Inc., 55 Water Street, New York, NY 10041-0001. Interested parties can also call Investor Relations toll-free at 866-436-8502 (domestic callers) or 212-438-2192 (international callers). The information on our website is not, and shall not be deemed to be part hereof or incorporated into this or any of our filings with the Securities and Exchange Commission (“SEC”).
+
+Access to more than 10 years of the Company's filings made with the SEC is available through the Company's Investor Relations website. Go to http://investor.spglobal.com and click on the SEC Filings link. In addition, these filings are available to the public on the Commission's website through their EDGAR filing system at www.sec.gov. Interested parties may also read and copy materials that the Company has filed with the SEC at the SEC's public reference room located at 100 F Street, NE, Washington, D.C. 20549 on official business days between the hours of 10AM and 3PM. Please call the Commission at 1-800-SEC-0330 for further information on the public reference room.
+

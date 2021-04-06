@@ -1,0 +1,172 @@
+Table of Contents
+PART I.
+
+Item 1. Business
+
+Business Overview and Strategy
+
+Un-carrier Strategy
+
+We are the Un-carrier. Through our Un-carrier strategy, we have disrupted the wireless communications services industry, by actively engaging with and listening to our customers and eliminating their existing pain points, including providing them with added value, an exceptional experience and implementing signature Un-carrier initiatives that have changed wireless for good. We ended annual service contracts, overages, unpredictable international roaming fees, data buckets and so much more. We are inspired by a relentless customer experience focus, consistently leading the wireless industry in customer care by delivering an excellent customer experience with our “Team of Experts,” which drives our record-high customer satisfaction levels while enabling operational efficiencies.
+
+The Un-carrier was supercharged upon the completion of our Merger with Sprint on April 1, 2020, which resulted in Sprint and its subsidiaries becoming wholly owned consolidated subsidiaries of T-Mobile. Through the Merger, we acquired Sprint’s customers and 2.5 GHz mid-band spectrum, among other assets. As the supercharged Un-carrier, we are on a mission to build America’s best 5G network, offering customers unrivalled coverage and capacity where they live, work and play. Our network is the foundation of our success and powers everything we do. As one company, we have begun to combine our mid-band spectrum licenses, including Advanced Wireless Services (“AWS”), Personal Communications Services (“PCS”) and 2.5 GHz, our millimeter-wave licenses and our foundational layer of low-band spectrum, including 600 MHz, 700 MHz and 800 MHz, to create a “layer cake” of spectrum and provide an unmatched 5G experience to our customers. We believe this layer cake will broaden and deepen our nationwide 5G network enabling accelerated innovation and increased competition in the U.S. wireless, video and broadband industries. We have achieved and expect to continue to achieve significant synergies and cost reductions by eliminating redundancies within the combined network as well as other business processes and operations.
+
+For more information related to the Merger, see Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations - Sprint Merger and Note 2 - Business Combination of the Notes to the Consolidated Financial Statements.
+
+Our 4G Long-Term Evolution (“LTE”) network covers 328 million people (99% of the U.S. population). Additionally, our 5G network is America’s largest, covering 1.6 million square miles, 280 million people and 9,100 cities and towns across the United States, including Puerto Rico and the U.S. Virgin Islands, as of December 31, 2020.
+
+We continue to expand the footprint and improve the quality of our network, providing outstanding wireless experiences for customers who will not have to compromise on quality and value. Going forward, it is this network that will allow us to deliver new, innovative products and services with the same customer experience focus and industry-disrupting mentality that has redefined the wireless communications services industry in the United States in the customers’ favor.
+
+Business
+
+As of December 31, 2020, we provide wireless services to 102.1 million postpaid and prepaid customers and generate revenue by providing affordable wireless communications services to these customers, as well as a wide selection of wireless devices and accessories. Our most significant expenses relate to operating and expanding our network, providing a full range of devices, acquiring and retaining high-quality customers and compensating employees. We provide service, devices and accessories across our flagship brands, T-Mobile and Metro by T-Mobile, through our owned and operated retail stores, as well as through our websites (www.t-mobile.com and www.metrobyt-mobile.com), T-Mobile app and customer care channels. In addition, we sell devices to dealers and other third-party distributors for resale through independent third-party retail outlets and a variety of third-party websites. The information on our websites is not part of this Form 10-K. See Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations for additional information.
+
+Services and Products
+
+We provide wireless communications services through a variety of service plan options. We also offer a wide selection of wireless devices, including smartphones, wearables, tablets and other mobile communication devices, which are manufactured by various suppliers.
+
+5
+Table of Contents
+Our primary service plan offering, which allows customers to subscribe for wireless communications services separately from the purchase of a device, is our signature Magenta plan (“Magenta”), which includes, among other benefits, unlimited talk, text and smartphone data on our network, 5G access at no extra cost, scam protection features and more. Customers also have the ability to choose additional features, such as HD video streaming and increased high-speed hotspot data, for an additional cost on our Magenta Plus plan. We also offer an Essentials rate plan for customers who want the basics, as well as specific rate plans to qualifying customers, including Unlimited 55+, Military, First Responder, and Business.
+
+Our device options for qualifying customers include:
+
+•The option of financing all or a portion of the individual device or accessory purchase price at the time of sale over an installment period, generally of 24 months, using an Equipment Installment Plan (“EIP”);
+•For qualifying customers who finance their initial device with an EIP, an option to enroll in our Just Upgrade My Phone (“JUMP!®”) program to later upgrade their device; and
+•The option to lease a device over a period of up to 18 months and upgrade it when eligibility requirements are met.
+
+We also provide products that are complementary to our wireless communications services, including device protection, Home Internet, TVision™ and wireline communication services to domestic and international customers.
+
+In August 2020, we unified the Sprint retail operations under the T-Mobile brand, providing Sprint customers access to all of our products, services and retail locations.
+
+Customers
+
+We provide wireless communications services to two primary categories of customers:
+
+•Postpaid customers generally include customers who are qualified to pay after receiving wireless communications services utilizing phones, wearables, DIGITS (a service that allows our customers to use multiple mobile numbers on any compatible smartphone or device with internet connection) or other connected devices, which include tablets and SyncUp products; and
+•Prepaid customers generally include customers who pay for wireless communications services in advance. Our prepaid customers include customers of T-Mobile and Metro by T-Mobile.
+
+We provide Machine-to-Machine (“M2M”) and Mobile Virtual Network Operator (“MVNO”) customers access to our network. This access and the customer relationship is managed by wholesale partners.
+
+We generate the majority of our service revenues by providing wireless communications services to postpaid and prepaid customers. Our ability to attract and retain postpaid and prepaid customers is important to our business in the generation of service revenues, equipment revenues and other revenues. In 2020, our service revenues generated by providing wireless communications services by customer category were:
+
+•72% Postpaid customers;
+•19% Prepaid customers; and
+•9% Wholesale, roaming and other services.
+
+Substantially all of our revenues for the years ended December 31, 2020, 2019 and 2018, were earned in the United States, including Puerto Rico and the U.S. Virgin Islands.
+
+Network Strategy
+
+On April 1, 2020, we closed our Merger with Sprint, which greatly enhanced our spectrum position. Integration of the spectrum and network assets acquired in the Merger is expected to occur over the next three years.
+
+The integration strategy includes deploying the acquired spectrum on the combined network assets to supplement capacity, migrating Sprint customers to our network and optimizing the combined assets by decommissioning redundant sites to realize synergies.
+
+6
+Table of Contents
+Spectrum Position
+
+We provide wireless communications services utilizing mid-band spectrum licenses, such as AWS, PCS and 2.5 GHz, low-band spectrum licenses utilizing our 600 MHz, 700 MHz and 800 MHz spectrum and mmWave spectrum.
+
+•We controlled an average of 329 MHz of combined low- and mid-band spectrum nationwide as of December 31, 2020. This spectrum is comprised of:
+•An average of 40 MHz in the 600 MHz band;
+•An average of 10 MHz in the 700 MHz band;
+•An average of 14 MHz in the 800 MHz band;
+•An average of 66 MHz in the 1900 MHz PCS band;
+•An average of 41 MHz in the AWS band; and
+•An average of 158 MHz in the 2.5 GHz band.
+•In March 2020, the FCC announced the results of Auctions 103 (37/39 GHz and 47 GHz spectrum bands). We were the winning bidder of 2,384 licenses for an aggregate price of $873 million. Prior to the Merger, the FCC announced that Sprint was the winning bidder of 127 licenses in Auction 103.
+•In April 2020, we acquired control of FCC licenses in the 800 MHz, 1900 MHz and 2.5 GHz bands as part of our Merger with Sprint.
+•We plan to evaluate future spectrum purchases in current and upcoming auctions and in the secondary market to further augment our current spectrum position.
+•As of December 31, 2020, we had equipment deployed on approximately 108,000 macro cell sites and 69,000 small cell/distributed antenna system sites across our T-Mobile and legacy Sprint networks.
+
+5G Leadership
+
+•As of December 31, 2020, our Extended Range 5G covers 280 million people in 9,100 cities and towns covering 1.6 million square miles.
+•Our Ultra Capacity 5G covers 106 million people as of December 31, 2020.
+
+Competition
+
+The wireless communications services industry is highly competitive. We are the second largest provider of wireless communications services in the U.S. as measured by our total postpaid and prepaid customers. Our competitors include other national carriers, such as AT&T Inc. (“AT&T”) and Verizon Communications, Inc. (“Verizon”). In addition, our competitors include numerous smaller regional carriers, MVNOs, including TracFone Wireless, Inc., Comcast Corporation, Charter Communications, Inc., Altice USA, Inc. and DISH, many of which offer no-contract, postpaid and prepaid service plans. Competitors also include providers who offer similar communication services, such as voice, messaging and data services, using alternative technologies or services. Competitive factors within the wireless communications services industry include pricing, market saturation, service and product offerings, customer experience, network investment and quality, development and deployment of technologies and regulatory changes. Some competitors have shown a willingness to use aggressive pricing as a source of differentiation. Other competitors have sought to add ancillary services, like mobile video or music streaming services, to enhance their offerings. Taken together, the competitive factors we face continue to put pressure on growth and margins as companies compete to retain the current customer base and continue to add new customers.
+
+Human Capital
+
+Employees
+
+As of December 31, 2020, we employed approximately 75,000 full-time and part-time employees, including network, retail, administrative and customer support functions.
+
+7
+Table of Contents
+Attraction and Retention
+
+We employ a highly skilled workforce within a broad range of functions. Our employees are located throughout the United States, including Puerto Rico, to serve our nationwide network and retail operations. Our headquarters are located in Bellevue, Washington and Overland Park, Kansas.
+
+We attract and retain our workforce through a dynamic and inclusive culture and by providing exceptional benefits, including:
+
+•Competitive medical, dental and vision benefits;
+•Annual stock grants to all full-time and part-time employees and a discounted Employee Stock Purchase Program;
+•A 401(k) Savings Plan;
+•LiveMagenta: a custom-branded program for employee engagement and well-being, including free access to life coaches, financial coaches and tools for healthy living;
+•Access to personal health advocates offering independent guidance;
+•Tuition assistance for all full-time and part-time employees; and
+•A matching program for employee donations and volunteering.
+
+To keep our employees safe during the Pandemic, we implemented remote working arrangements for many employees with a significant portion of our internal and global care employees transitioned to a work-from-home environment. We also encouraged our corporate and administrative employees to work remotely, if possible. For employees who did not have this option, we provided access to incremental paid time off for employees experiencing symptoms, taking care of children who were home due to school closures or caring for individuals impacted by the Pandemic. We also continue to encourage healthy practices such as social distancing and hand washing and have increased cleaning and sanitation in all our facilities and stores. See “Our Response - To Protect and Support Our Employees and Communities” included in Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations for information on actions we took to support our employees during the Pandemic.
+
+Training and Development
+
+We believe in providing opportunities for our employees to improve their skills and advance their careers. We do this through a variety of programs, including:
+
+•Award-winning career and development programs for all employees at all levels;
+•Transparent career paths available to employees and candidates that provide realistic progression timelines, salaries and expectations;
+•A Customer Care organization that uses 96 types of programs to train over 42,000 front line representatives and leaders;
+•A Leader-to-Executives Program that provides elite career track opportunities for select MBA students and graduates; and
+•Training for employees with disabilities pursuant to U.S. Department of Labor standards.
+
+Diversity, Equity and Inclusion
+
+Diversity, equity and inclusion (“DE&I”) have always been a part of the Un-carrier culture, and we are committed to having DE&I touch every aspect of our future as a bigger and better company. We are on a mission to increase diversity in leadership, talent pipelines, suppliers and customers while embedding inclusive behaviors across the business and investing in the communities we serve.
+
+We have established six DE&I Employee Resource Groups and four sub-affinity groups that have helped us establish and maintain a culture of inclusion. Currently, we have over 55 DE&I chapters across the nation that help spearhead volunteer opportunities, events and meaningful conversation with employees at a local level. Our DE&I networks include the following:
+
+•Accessibility Community at T-Mobile;
+•Multicultural Alliance;
+◦Asia Pacific & Allies Network;
+8
+Table of Contents
+◦Black Empowerment;
+◦Indigenous Peoples Network;
+◦Magenta Latinx Network;
+•Multigenerational Network;
+•Pride;
+•Veterans & Allies Network; and
+•Women & Allies Network.
+
+We have established an External Diversity and Inclusion Council in connection with our civil rights memorandum of understanding. The council includes civil rights leaders representing a wide-range of underrepresented communities. Together with T-Mobile, the council will help identify ways to improve our efforts in focus areas such as corporate governance, workforce recruitment and retention, procurement, entrepreneurship, philanthropy and community investment.
+
+Regulation
+
+The FCC regulates many key aspects of our business, including licensing, construction, the operation and use of our network, modifications of our network, control and ownership of our licenses and authorizations, the sale, transfer and acquisition of certain licenses, domestic roaming arrangements and interconnection agreements, pursuant to its authority under the Communications Act of 1934, as amended (“Communications Act”). The FCC has a number of complex requirements that affect our operations and pending proceedings regarding additional or modified requirements that could increase our costs or diminish our revenues. For example, the FCC has rules regarding provision of 911 and E-911 services, porting telephone numbers, interconnection, roaming, internet openness or net neutrality, disabilities access, privacy and cybersecurity, consumer protection and the universal service and Lifeline programs. Many of these and other issues are being considered in ongoing proceedings, and we cannot predict whether or how such actions will affect our business, financial condition or operating results. Our ability to provide services and generate revenues could be harmed by adverse regulatory action or changes to existing laws and regulations. In addition, regulation of companies that offer competing services can impact our business indirectly.
+
+Except for operations in certain unlicensed frequency bands, wireless communications services providers generally must be licensed by the FCC to provide communications services at specified spectrum frequencies within specified geographic areas and must comply with the rules and policies governing the use of the spectrum as adopted by the FCC. The FCC issues each license for a fixed period of time, typically 10-15 years depending on the particular licenses. While the FCC has generally renewed licenses given to operating companies like us, the FCC has authority to both revoke a license for cause and to deny a license renewal if a renewal is not in the public interest. Furthermore, we could be subject to fines, forfeitures and other penalties for failure to comply with FCC regulations, even if any such noncompliance was unintentional. In extreme cases, penalties can include revocation of our licenses. The loss of any licenses, or any related fines or forfeitures, could adversely affect our business, results of operations and financial condition.
+
+Additionally, Congress’s and the FCC’s allocation of additional spectrum for broadband commercial mobile radio service (“CMRS”), which includes cellular, PCS and other wireless services, could significantly increase and intensify competition. We cannot assess the impact that any developments that may occur in the U.S. economy or any future spectrum allocations by the FCC may have on license values. FCC spectrum auctions and other market developments may adversely affect the market value of our licenses or our competitive position in the future. A significant decline in the value of our licenses could adversely affect our financial condition and results of operations. In addition, the FCC periodically reviews its policies on how to evaluate carriers’ spectrum holdings. A change in these policies could affect spectrum resources and competition among us and other carriers.
+
+Congress and the FCC have imposed limitations on foreign ownership of CMRS licensees that exceed 20% direct ownership or 25% indirect ownership through an entity controlling the licensee. The FCC has ruled that higher levels of indirect foreign ownership, even up to 100%, are presumptively consistent with the public interest, but must be reviewed and approved. Consistent with that established policy, the FCC has issued a declaratory ruling authorizing up to 100% ownership of our Company by DT.
+
+For our Educational Broadband Service (“EBS”) licenses in the 2.5 GHz band, FCC rules previously limited eligibility to hold EBS licenses to accredited educational institutions and certain governmental, religious and nonprofit entities, while permitting those license holders to lease up to 95% of their capacity for non-educational purposes. Therefore, we primarily access EBS spectrum through long-term leasing arrangements with EBS license holders. Our EBS spectrum leases typically have an initial
+9
+Table of Contents
+term equal to the remaining term of the EBS license, with an option to renew the lease for additional terms, for a total lease term of up to 30 years. On April 27, 2020, the FCC lifted the restriction on who can hold EBS licenses and the 30-year limitation on lease duration, among other changes. T-Mobile has started to acquire some of these EBS licenses but we continue to lease most of our spectrum in this band and expect that to be the case for some time. The elimination of these restrictions will allow and may encourage current license holders to sell their licenses to other parties, including to T-Mobile. While a majority of our leases have contractual provisions enabling us to match offers, we may be forced to compete with others to purchase 2.5 GHz licenses on the secondary market and expend additional capital earlier than we may have anticipated.
+
+While the Communications Act generally preempts state and local governments from regulating the entry of, or the rates charged by, wireless communications services providers, certain state and local governments regulate other terms and conditions of wireless service, including billing, termination of service arrangements and the imposition of early termination fees, advertising, network outages, the use of devices while driving, zoning and land use. Notwithstanding this federal preemption, in response to the Pandemic, several state legislatures are considering bills that could potentially set prices, minimum performance standards, and/or restrictions on service discontinuation that could impact our business in those states.
+
+In addition, following the FCC’s adoption of the 2017 Restoring Internet Freedom (“RIF”) Order reclassifying broadband internet access services as Title I (non-common carrier services), a number of states have sought to impose state-specific net neutrality and privacy requirements on providers’ broadband services. The FCC’s RIF Order preempted such state efforts, which are inconsistent with the FCC’s federal deregulatory approach. Recently, however, the DC Circuit issued a ruling largely upholding the RIF Order, but also vacating the portion of the ruling broadly preempting state/local net neutrality laws. The court left open the prospect that particular state laws could still unlawfully conflict with the FCC net neutrality rules and be preempted; court challenges to some state enactments are pending.
+
+While most states are largely seeking to codify the repealed federal rules, there are differences in some states, notably California, which has passed separate privacy and net neutrality legislation. There are also efforts within Congress to pass federal legislation to codify uniform federal privacy and net neutrality requirements, while also ensuring the preemption of separate state requirements, including the California laws. If not preempted or rescinded, separate state requirements will impose significant business costs and could also result in increased litigation costs and enforcement risks. State authority over wireless broadband services will remain unsettled until final action by the courts or Congress.
+
+In addition, the Federal Trade Commission (“FTC”) and other federal agencies have jurisdiction over some consumer protection and elimination and prevention of anticompetitive business practices with respect to the provision of non-common carrier services. Further, the FCC and the Federal Aviation Administration regulate the siting, lighting and construction of transmitter towers and antennae. Tower siting and construction are also subject to state and local zoning, as well as federal statutes regarding environmental and historic preservation. The future costs to comply with all relevant regulations are to some extent unknown, and changes to regulations, or the applicability of regulations, could result in higher operating and capital expenses, or reduced revenues in the future.
+
+Available Information
+
+The SEC maintains an internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically at www.sec.gov. Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act are also publicly available free of charge on the investor relations section of our website at investor.t-mobile.com as soon as reasonably practicable after they are electronically filed with or furnished to the SEC. Our corporate governance guidelines, director selection guidelines, code of ethics for senior financial officers, code of business conduct, speak up policy, supplier code of conduct, and charters for the audit, compensation, nominating and corporate governance, executive and CEO selection committees of our Board of Directors are also posted on the investor relations section of our website at investor.t-mobile.com. The information on our website is not part of this or any other report we file with, or furnish to, the SEC.

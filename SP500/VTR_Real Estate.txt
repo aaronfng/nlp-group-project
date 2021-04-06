@@ -1,0 +1,352 @@
+ITEM 1.    Business
+
+BUSINESS
+
+Overview
+
+Ventas, Inc., an S&P 500 company, is a real estate investment trust (“REIT”) operating at the intersection of healthcare and real estate, with a highly diversified portfolio of senior housing; life science, research and innovation; and healthcare properties; which we generally refer to as “healthcare real estate,” located throughout the United States, Canada and the United Kingdom. As of December 31, 2020, we owned or managed through unconsolidated real estate entities approximately 1,200 properties (including properties classified as held for sale), consisting of senior housing communities, medical office buildings (“MOBs”), life science, research and innovation centers, inpatient rehabilitation facilities (“IRFs”) and long-term acute care facilities (“LTACs”), and health systems. Our company was originally founded in 1983 and is headquartered in Chicago, Illinois with an additional office in Louisville, Kentucky.
+
+We primarily invest in a diversified portfolio of healthcare real estate assets through wholly owned subsidiaries and other co-investment entities. We operate through three reportable business segments: triple-net leased properties, senior living operations, which we also refer to as SHOP, and office operations. See our Consolidated Financial Statements and the related notes, including “Note 2 – Accounting Policies” and “Note 19 – Segment Information,” included in Part II, Item 8 of this Annual Report on Form 10-K (the “Annual Report”). Our senior housing properties are either operated under triple-net leases in our triple-net leased properties segment or through independent third-party managers in our senior living operations segment.
+
+As of December 31, 2020, we leased a total of 366 properties (excluding properties within our office operations reportable business segment) to various healthcare operating companies under “triple-net” or “absolute-net” leases that obligate the tenants to pay all property-related expenses, including maintenance, utilities, repairs, taxes, insurance and capital expenditures. Our three largest tenants, Brookdale Senior Living Inc. (together with its subsidiaries, “Brookdale Senior Living”), Ardent Health Partners, LLC (together with its subsidiaries, “Ardent”) and Kindred Healthcare, LLC (together with its subsidiaries, “Kindred”) leased from us 121 properties (excluding eight properties managed by Brookdale Senior Living pursuant to long-term management agreements), 12 properties and 32 properties, respectively, as of December 31, 2020.
+
+As of December 31, 2020, pursuant to long-term management agreements, we engaged independent operators, such as Atria Senior Living, Inc. (“Atria”) and Sunrise Senior Living, LLC (together with its subsidiaries, “Sunrise”), to manage 441 senior housing communities in our senior living operations segment for us.
+
+Through our Lillibridge Healthcare Services, Inc. (“Lillibridge”) subsidiary and our ownership interest in PMB Real Estate Services LLC (“PMBRES”), we also provide MOB management, leasing, marketing, facility development and advisory services to highly rated hospitals and health systems throughout the United States. In addition, from time to time, we make secured and non-mortgage loans and other investments relating to senior housing and healthcare operators or properties.
+
+During fiscal 2020 and continuing into fiscal 2021, the world has been, and continues to be, impacted by the novel coronavirus (“COVID-19”) pandemic. COVID-19 and actions taken to prevent its spread have negatively affected our businesses in a number of ways and are expected to continue to do so. See “Risk Factors” in Part I, Item 1A, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 and “Consolidated Financial Statements and the related notes thereto” included in Part II, Item 8, in each case, of this Annual Report.
+
+Business Strategy
+
+We aim to enhance shareholder value by delivering consistent, superior total returns through a strategy of (1) generating reliable and growing cash flows, (2) maintaining a balanced, diversified portfolio of high-quality assets and (3) preserving our financial strength, flexibility and liquidity.
+
+Generating Reliable and Growing Cash Flows
+
+Generating reliable and growing cash flows from our senior housing and healthcare assets enables us to pay regular cash dividends to stockholders and creates opportunities to increase stockholder value through profitable investments. The
+1
+
+combination of steady contractual growth from our long-term triple-net leases, steady, reliable cash flows from our loan investments and stable cash flows from our office buildings with the higher growth potential inherent in our senior housing operating communities drives our ability to generate sustainable, growing cash flows that are resilient to economic downturns.
+
+Maintaining a Balanced, Diversified Portfolio of High-Quality Assets
+
+We believe that maintaining a balanced portfolio of high-quality assets diversified by investment type, geographic location, asset type, tenant or operator, revenue source and operating model diminishes the risk that any single factor or event could materially harm our business. Portfolio diversification also enhances the reliability of our cash flows by reducing our exposure to any particular asset class or market, or individual tenant, borrower or manager and making us less susceptible to certain risks, including risks related to regulatory changes, climate events and economic downturns or global health events.
+
+Preserving Our Financial Strength, Flexibility and Liquidity
+
+A strong, flexible balance sheet and excellent liquidity position us to capitalize on strategic growth opportunities in the senior housing and healthcare industries through acquisitions, investments and development and redevelopment projects. We maintain our financial strength to pursue profitable investment opportunities by actively managing our leverage, improving our cost of capital and preserving our access to multiple sources of capital and liquidity, including unsecured bank debt, mortgage financings and public and private debt and equity markets.
+    
+Portfolio Summary
+
+The following table summarizes our consolidated portfolio of properties and other investments, including construction in progress, as of and for the year ended December 31, 2020:
+Real Estate Property Investments		Revenues	Asset Type		
+# of
+Properties (1)
+# of Units/
+Sq. Ft./ Beds(2)
+Real Estate Property Investment, at Cost		Percent of
+Total Real Estate Property Investments		Real Estate
+Property
+Investment Per Unit/Bed/Sq. Ft.		Revenue		Percent of Total Revenues	 		(Dollars in thousands)	Senior housing communities		730 			71,629 			$18,313,746		64.4 	%		$	255.7 			$2,589,991		68.4 	%	
+MOBs(3)
+343 			19,591,131 			5,704,700 			20.1 			0.3 			597,229 			15.7 		Research and innovation centers		31 			5,451,703 			2,031,666 			7.1 			0.4 			216,624 			5.7 		
+IRFs and LTACs
+37 			3,139 			496,259 			1.7 			158.1 			164,239 			4.3 		Health systems		13 			2,064 			1,522,287 			5.4 			737.5 			121,179 			3.2 		SNFs		16 			1,732 			193,808 			0.7 			111.9 			17,011 			0.4 		Development properties and other		10 					165,234 			0.6 								Total real estate investments, at cost		1,180 					$	28,427,700 			100.0 	%							
+Income from loans and investments
+80,505 			2.1 		Interest and other income		 		 						 		7,609 			0.2 		
+Revenues related to assets classified as held for sale
+2										970 			0.0 		Total revenues		 		 						 		$	3,795,357 			100.0 	% 
+
+(1)As of December 31, 2020, we also owned nine senior housing communities, nine research and innovation centers and two MOBs through investments in unconsolidated real estate entities. Our consolidated properties were located in 45 states, the District of Columbia, seven Canadian provinces and the United Kingdom and were operated or managed by 82 unaffiliated healthcare operating companies.
+(2)Senior housing communities are generally measured in units; MOBs and research and innovation centers are measured by square footage; and IRFs and LTACs, health systems and skilled nursing facilities (“SNFs”) are generally measured by licensed bed count.
+(3)As of December 31, 2020, we leased 66 of our consolidated MOBs pursuant to triple-net leases, Lillibridge or PMBRES managed 268 of our consolidated MOBs and nine of our consolidated MOBs were managed by five unaffiliated managers. Through Lillibridge, we also provided management and leasing services for 73 MOBs owned by third parties as of December 31, 2020.
+    
+Senior Housing Communities
+
+Our senior housing communities include independent and assisted living communities, continuing care retirement communities and communities providing care for individuals with Alzheimer’s disease and other forms of dementia or memory loss. These communities offer studio, one- and two-bedroom residential units on a month-to-month basis primarily to elderly individuals requiring various levels of assistance. Basic services for residents of these communities include housekeeping,
+2
+
+meals in a central dining area and group activities organized by the staff with input from the residents. More extensive care and personal supervision, at additional fees, are also available for such needs as eating, bathing, grooming, transportation, limited therapeutic programs and medication administration, which allow residents certain conveniences and enable them to live as independently as possible according to their abilities. These services are often met by home health providers and through close coordination with the resident’s physician and SNFs. Charges for room, board and services are generally paid from private sources.
+
+Medical Office Buildings
+
+Typically, our MOBs are multi-tenant properties leased to several unrelated medical practices, although in many cases they may be associated with a large single specialty or multi-specialty group. Tenants include physicians, dentists, psychologists, therapists and other healthcare providers, who require space devoted to patient examination and treatment, diagnostic imaging, outpatient surgery and other outpatient services. MOBs are similar to commercial office buildings, although they require greater plumbing, electrical and mechanical systems to accommodate physicians’ requirements such as sinks in every room, brighter lights and specialized medical equipment. As of December 31, 2020, we owned or managed through unconsolidated real estate entities for third parties approximately 21 million square feet of MOBs that are predominantly located on or near a health system.
+
+Research and Innovation Centers, Life Science
+
+Our life science, research and innovation centers contain laboratory and office space primarily for universities, academic medical centers, technology, biotechnology, medical device and pharmaceutical companies and other organizations involved in the life science, research and innovation industry. While these properties have characteristics similar to commercial office buildings, they generally contain more advanced electrical, mechanical, and heating, ventilating and air conditioning systems. The facilities generally have specialty equipment including emergency generators, fume hoods, lab bench tops and related amenities. In many instances, research and innovation center tenants make significant investments to improve their leased space, in addition to landlord improvements, to accommodate biology, chemistry or medical device research initiatives. Our research and innovation centers are often located on or contiguous to university and academic medical campuses. As of December 31, 2020, we own or have investments in nearly 9 million square feet spanning 40 operating properties and three in progress ground-up development properties, including a presence in the top two life sciences clusters, South San Francisco, California and Cambridge, Massachusetts.
+
+Inpatient Rehabilitation and Long-Term Acute Care Facilities
+
+We have 29 properties that are operated as LTACs. LTACs have a Medicare average length of stay of greater than 25 days and serve medically complex, chronically ill patients who require a high level of monitoring and specialized care, but whose conditions do not necessitate the continued services of an intensive care unit. The operators of these LTACs have the capability to treat patients who suffer from multiple systemic failures or conditions such as neurological disorders, head injuries, brain stem and spinal cord trauma, cerebral vascular accidents, chemical brain injuries, central nervous system disorders, developmental anomalies and cardiopulmonary disorders. Chronic patients often depend on technology for continued life support, such as mechanical ventilators, total parenteral nutrition, respiration or cardiac monitors and dialysis machines, and, due to their severe medical conditions, generally are not clinically appropriate for admission to a nursing facility or rehabilitation hospital. We do not own any “hospitals within hospitals.” We also own eight IRFs devoted to the rehabilitation of patients with various neurological, musculoskeletal, orthopedic and other medical conditions following stabilization of their acute medical issues.
+
+Health Systems
+
+We have 13 properties that are operated as health systems. Health systems provide medical and surgical services, including inpatient care, intensive care, cardiac care, diagnostic services and emergency services. These health systems also provide outpatient services such as outpatient surgery, laboratory, radiology, respiratory therapy, cardiology and physical therapy. In the United States, these health systems receive payments for patient services from the federal government primarily
+3
+
+under the Medicare program, state governments under their respective Medicaid or similar programs, health maintenance organizations, preferred provider organizations, other private insurers and directly from patients.
+
+Skilled Nursing Facilities
+
+We have 16 properties that are operated as SNFs. SNFs provide rehabilitative, restorative, skilled nursing and medical treatment for patients and residents who do not require the high technology, care-intensive, high-cost setting of an acute care or rehabilitation hospital. Treatment programs include physical, occupational, speech, respiratory and other therapies, including sub-acute clinical protocols such as wound care and intravenous drug treatment. Charges for these services are generally paid from a combination of government reimbursement and private sources.
+
+Geographic Diversification of Properties
+
+Our portfolio of assets is broadly diversified by geographic location throughout the United States, Canada and the United Kingdom, with properties in only one state (California) accounting for more than 10% of our total continuing revenues and net operating income (“NOI,” which is defined as total revenues, excluding interest and other income, less property-level operating expenses and office building services costs) for the year ended December 31, 2020.
+
+Loans and Investments
+
+As of December 31, 2020, we had $0.9 billion of net loans receivable and investments relating to senior housing and healthcare operators or properties. Our loans receivable and investments provide us with interest income, principal amortization and transaction fees and are typically secured by mortgage liens or leasehold mortgages on the underlying properties and corporate or personal guarantees by affiliates of the borrowing entity. In some cases, the loans are secured by a pledge of ownership interests in the entity or entities that own the related properties. From time to time, we also make investments in mezzanine loans, which are subordinated to senior secured loans held by other investors that encumber the same real estate. See “Note 6 – Loans Receivable and Investments” of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report.
+
+Development and Redevelopment Projects
+
+We are party to certain agreements that obligate us to develop properties funded through capital that we and, in certain circumstances, our joint venture partners provide. As of December 31, 2020, we had 13 properties under development pursuant to these agreements, including three properties that are owned through unconsolidated real estate entities. In addition, from time to time, we engage in redevelopment projects with respect to our existing properties to maximize the value, increase NOI, maintain a market-competitive position, achieve property stabilization or change the primary use of the property.
+
+Segment Information
+
+We operate through three reportable business segments: triple-net leased properties, senior living operations and office operations. Non-segment assets, classified as “all other,” consist primarily of corporate assets, including cash, restricted cash, loans receivable and investments, and miscellaneous accounts receivable. Our chief operating decision makers evaluate performance of the combined properties in each reportable business segment and determine how to allocate resources to these segments, in significant part, based on segment NOI and related measures. For further information regarding our business segments and a discussion of our definition of segment NOI, see “Note 19 – Segment Information” of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report.
+
+Triple-Net Leased Properties
+
+In our triple-net leased properties segment, we invest in and own senior housing and healthcare properties throughout the United States and the United Kingdom and lease those properties to healthcare operating companies under “triple-net” or “absolute-net” leases that obligate the tenants to pay all property-related expenses, including maintenance, utilities, repairs, taxes, insurance and capital expenditures, and to comply with the terms of the mortgage financing documents, if any, affecting the properties.
+
+Senior Living Operations
+
+In our senior living operations segment, we invest in senior housing communities throughout the United States and Canada and engage independent managers, such as Atria and Sunrise, to manage those communities. The REIT Investment
+4
+
+Diversification and Empowerment Act of 2007 (“RIDEA”) permits us to own or partially own qualified healthcare properties in a structure through which we can participate directly in the cash flow of the properties’ operations (as compared to receiving only contractual rent payments under a triple-net lease) in compliance with REIT requirements. In a RIDEA structure, we are required to rely on a third-party manager to manage and operate the property, including procuring supplies, hiring and training all employees, entering into all third-party contracts for the benefit of the property, including resident/patient agreements, complying with laws, including but not limited to healthcare laws, and providing resident care, in exchange for a management fee. As a result, we must rely on our managers’ personnel, expertise, technical resources and information systems, risk management processes, proprietary information, good faith and judgment to manage our senior living operations efficiently and effectively. We also rely on our managers to set appropriate resident fees, to provide accurate property-level financial results in a timely manner and otherwise operate our senior housing communities in compliance with the terms of our management agreements and all applicable laws and regulations.
+
+Office Operations
+
+In our office operations segment, we primarily acquire, own, develop, lease and manage MOBs and research and innovation centers throughout the United States.
+
+Significant Tenants and Managers
+
+The following table summarizes certain information regarding our tenant and manager concentration as of and for the year ended December 31, 2020 (excluding properties classified as held for sale and properties owned by investments in unconsolidated real estate entities as of December 31, 2020):
+Number of
+Properties Leased
+or Managed		
+Percent of Total Real Estate Investments (1)
+Percent of Total Revenues		Percent of NOI	Senior Living Operations	432 			47.9 	%		58.0 	%		29.4 	%	
+Brookdale Senior Living (2)
+121 			8.2 			4.4 			9.0 		Ardent	12 			4.9 			3.2 			6.6 		Kindred	32 			1.1 			3.5 			7.1 	 
+(1)Based on gross book value.
+(2)Excludes eight properties managed by Brookdale Senior Living pursuant to long-term management agreements and included in the senior living operations reportable business segment.
+
+Triple-Net Leased Properties
+
+Each of our leases with Brookdale Senior Living, Ardent and Kindred is a triple-net lease. In addition, each of our Brookdale Senior Living, Ardent and Kindred leases has a corporate guaranty.
+
+The properties we lease to Brookdale Senior Living, Ardent and Kindred accounted for a significant portion of our triple-net leased properties segment revenues and NOI for the year ended December 31, 2020. See “Risk Factors—Our Business Operations and Strategy Risks—A significant portion of our revenues and operating income is dependent on a limited number of tenants and managers, including Brookdale Senior Living, Ardent, Kindred, Atria and Sunrise.” included in Part I, Item 1A of this Annual Report.
+
+Brookdale Senior Living Leases
+
+As of December 31, 2020, we leased 121 consolidated properties (excluding eight properties managed by Brookdale Senior Living pursuant to long-term management agreements and included in the senior living operations reportable business segment) to Brookdale Senior Living.
+
+In July 2020, we entered into a revised master lease agreement (the “Brookdale Lease”) and certain other agreements (together with the Brookdale Lease, the “Agreements”) with Brookdale Senior Living.
+
+In connection with the revised Brookdale Lease, we received up-front consideration approximating $235 million, which will be amortized over the remaining lease term and consisted of: (a) $162 million in cash including $47 million from the transfer to Ventas of deposits under the Brookdale Lease; (b) a $45 million cash pay note (the “Note”), which has an initial interest rate of 9.0%, increasing 50 basis points per annum, and matures on December 31, 2025; (c) warrants for 16.3 million
+5
+
+shares of Brookdale Senior Living common stock, which are exercisable at any time prior to December 31, 2025 and have an exercise price of $3.00 per share.
+
+Base cash rent under the Brookdale Lease is set at $100 million per annum starting in July 2020, with three percent annual escalators commencing on January 1, 2022. The Brookdale Lease is guaranteed by, and the Note is a direct obligation of, Brookdale Senior Living.
+
+The warrants are classified within other assets on our Consolidated Balance Sheets. These warrants are measured at fair value with changes in fair value being recognized within other expense in our Consolidated Statements of Income.
+
+As of December 31, 2020, the aggregate 2021 contractual cash rent due to us from Brookdale Senior Living was approximately $100.3 million, and the current aggregate contractual base rent (computed in accordance with U.S. generally accepted accounting principles (“GAAP”)) was approximately $148.5 million.
+
+Ardent Lease
+
+As of December 31, 2020, we leased 11 properties (excluding one MOB leased to Ardent under a separate lease) to Ardent pursuant to a single, triple-net master lease agreement. Per our master lease agreement, Ardent is obligated to pay base rent, which escalates annually by the lesser of four times the increase in the Consumer Price Index (“CPI”) for the relevant period and 2.5%.  The initial term of the master lease expires on August 31, 2035 and Ardent has one ten-year renewal option.
+
+As of December 31, 2020, the aggregate 2021 contractual cash rent due to us from Ardent was approximately $125.9 million, and the current aggregate contractual base rent (computed in accordance with GAAP) was approximately $126.0 million.
+
+We also hold a 9.8% ownership interest in Ardent, which entitles us to customary minority rights and protections, as well as the right to appoint one of 11 members on the Ardent Board of Directors.
+
+Kindred Master Leases
+
+As of December 31, 2020, we leased 29 properties to Kindred pursuant to a master lease agreement. In November 2016, Kindred extended the lease term to 2025 for all of our LTACs operated by Kindred that were scheduled to mature in 2018 and 2020, at the current rent level.
+
+The aggregate annual rent we receive under each Kindred master lease is referred to as “base rent.” Base rent escalates annually at a specified rate over the prior period base rent, contingent, in some cases, upon the satisfaction of specified facility revenue parameters. The annual rent escalator under the Kindred master lease for 25 properties is based on year-over-year changes in CPI, subject to a floor and cap, and is 2.7% for four properties. As of December 31, 2020, the aggregate 2021 contractual cash rent due to us from Kindred was approximately $130.4 million, and the current aggregate contractual base rent (computed in accordance with GAAP) was approximately $132.4 million. 
+
+Senior Living Operations
+
+As of December 31, 2020, Atria and Sunrise, collectively, provided comprehensive property management and accounting services with respect to 258 of the senior housing communities in our senior living operations segment. Under these management agreements, the operators receive annual base management fees ranging from 4.5% to 7% of revenues generated by the applicable properties and, in some cases, additional management fees based on the achievement of specified performance targets. Our management agreements with Atria have initial terms expiring between 2024 and 2027, and our management agreements with Sunrise have terms expiring between 2030 and 2038. In some cases, our management agreements include renewal provisions.
+
+Because Atria and Sunrise manage our properties in exchange for the receipt of a management fee from us, we are not directly exposed to the credit risk of our managers in the same manner or to the same extent as our triple-net tenants. See “Risk Factors—Our Business Operations and Strategy Risk—A significant portion of our revenues and operating income is dependent on a limited number of tenants and managers, including Brookdale Senior Living, Ardent, Kindred, Atria and Sunrise.” and included in Part I, Item 1A of this Annual Report.
+
+We hold a 34% ownership interest in Atria, which entitles us to customary minority rights and protections, as well as the right to appoint two of the six members on the Atria Board of Directors.
+6
+
+    
+Competition
+
+We generally compete for investments in healthcare real estate assets with publicly traded, private and non-listed healthcare REITs, real estate partnerships, healthcare providers, healthcare lenders and other investors, including developers, banks, insurance companies, pension funds, government-sponsored entities and private equity firms, some of whom may have greater financial resources and lower costs of capital than we do. Increased competition challenges our ability to identify and successfully capitalize on opportunities that meet our objectives, which is affected by, among other factors, the availability of suitable acquisition or investment targets, our ability to negotiate acceptable transaction terms and our access to and cost of capital. See “Risk Factors—Our Business Operations and Strategy Risk—Our ongoing strategy depends, in part, upon identifying and consummating future investments and effectively managing our expansion opportunities” included in Part I, Item 1A of this Annual Report and “Note 10 – Senior Notes Payable and Other Debt” of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report.
+
+Our tenants and managers also compete on a local and regional basis with other healthcare operating companies that provide comparable services. Senior housing community, SNF and health systems operators compete to attract and retain residents and patients to our properties based on scope and quality of care, reputation and financial condition, price, location and physical appearance of the properties, services offered, qualified personnel, physician referrals and family preferences. With respect to MOBs and research and innovation centers, we and our third-party managers compete to attract and retain tenants based on many of the same factors, in addition to quality of the affiliated health system, physician preferences and proximity to hospital or university campuses or life science centers and quality of lab space. The ability of our tenants, operators and managers to compete successfully could be affected by private, federal and state reimbursement programs and other laws and regulations. See “Risk Factors—Our Legal, Compliance and Regulatory Risks—We and our tenants, borrowers and managers may be adversely affected by regulation and enforcement.” included in Part I, Item 1A of this Annual Report.
+
+Human Capital Management
+
+At Ventas, our experienced team drives our success and creates value. As of December 31, 2020, we had 448 employees, none of which are subject to a collective bargaining agreement.
+
+We provide a unique environment that offers opportunities for our team to use their professional skills, develop their talents and learn from each other as they build successful careers. We are committed to upholding human dignity and equal opportunity under the principles outlined in the United Nations’ Universal Declaration of Human Rights. Our Global Code of Ethics and Business Conduct, Vendor Code of Conduct and Human Rights Policy embed the responsibility to respect human rights in business functions across our operations as well as our supply chain.
+
+The Executive Compensation Committee of our Board of Directors provides oversight on certain human capital matters, including our DE&I efforts, goals and framework. We report on human capital matters at each regularly scheduled meeting of our Board of Directors. The most significant human capital measures and objectives that we focus on include the topics described below.
+
+Talent Attraction and Retention
+
+We strive to foster a culture that attracts and retains individuals who share a passion for integrity, flawless execution, collaborative problem-solving and, above all, excellence. A key component of our ability to attract and retain the top talent in our industry is our investment in our people and their continuous development by providing expansive professional opportunities, best-in-class leadership development and a broad array of workshops and training. Ventas also prides itself in offering an industry-leading compensation and benefits package.
+
+DE&I
+
+Ventas has a long-standing commitment to Diversity, Equity and Inclusion (“DE&I”). We have established a DE&I framework centered around five key pillars of people, culture, investment and financial, changing our society and improving our communities and celebrating our commitments. Development and execution of the DE&I framework is a core component of our 2021 short-term incentive program. Additionally, we incorporated a metric focused on improving the Company’s representation of women employees into our 2020-2022 long-term equity incentive program, to further drive progress and accountability. As of December 31, 2020, our workforce is. As of December 31, 2020, our workforce is 52% male and 48% female, with our Board of Directors being 36% female.
+7
+
+
+Health & Safety
+
+Ventas is committed to the health and safety of its employees. The responsibility is shared with each Ventas employee, helping to make our workplaces secure and hazard-free to protect against accidents, personal injury/illness and property damage. Our commitment to health and safety is maintained by effective administration, training and education, and we expect our operating and development partners to comply with applicable company or legal requirements, whichever is more stringent. In response to the COVID-19 pandemic, we seamlessly shifted to a remote work environment ahead of mandatory stay-at-home orders.
+
+Sustainability
+
+Ventas recognizes that sustainable practices and resilience are essential to delivering superior long-term results. Our integrated approach to Environment, Social and Governance (“ESG”) principles animates our actions, decisions and processes. In 2018, we conducted an in-depth ESG prioritization (a “materiality assessment”) using the Global Reporting Initiative (GRI) framework, from which we organized the eight topics identified into three strategic pillars: People, Performance, and Planet. This approach integrates ESG principles throughout our business, ensures focus and reporting on key issues and motivates our daily efforts.
+
+Ventas has an established cross-functional ESG Steering Committee, led by our Chairman and CEO and overseen by our Director of Sustainability, which provides oversight and monitoring of our ESG strategy, with reporting to our Board of Directors. Among other things, Ventas has set ambitious goals to reduce our greenhouse gas emissions, energy, water and waste, and to limit high flood risk properties in our portfolio.
+
+For additional information regarding our ESG efforts, please visit our website at www.ventasreit.com
+    
+Insurance
+
+We maintain or require in our lease, management and other agreements that our tenants, managers or other counterparties maintain comprehensive insurance coverage on our properties and their operations with terms, conditions, limits and deductibles that we believe are customary for similarly situated companies in each industry and we frequently review our insurance programs and requirements. The insurance that we maintain or require may take the form of commercial insurance, captive insurance or self-insurance.
+
+We maintain the property insurance for substantially all properties in our office and senior living operations segment. We also maintain liability insurance for certain office properties, as well as the general and professional liability insurance for certain senior housing communities and related operations in our senior living operations segment. However, some senior housing managers maintain the general and professional liability insurance for our senior housing communities and related operations that they manage in accordance with the terms of our management agreements.
+
+Through our office operations, we provide engineering, construction and architectural services in connection with new development projects, and we maintain and cause tenants, contractors, design professionals and other parties involved with such services to maintain property and liability insurance with respect to those activities.
+
+In May 2020, the Company formed a wholly owned captive insurance company, which provides insurance coverage for losses below the deductible and within the self-insured retention of the commercial property, general and professional liability insurance that we maintain for certain of our Office and senior living operations locations. The Company created this captive as part of its overall risk management program and to stabilize insurance costs.
+
+Additional Information
+
+We maintain a website at www.ventasreit.com. The information on our website is not incorporated by reference in this Annual Report, and our web address is included as an inactive textual reference only.
+
+We make available, free of charge, through our website our Annual Report, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13 or 15(d) of the Exchange Act as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. In addition, our Guidelines on Governance, our Global Code of Ethics and Business Conduct (including waivers from and amendments to that
+8
+
+document) and the charters for each of our Audit and Compliance, Nominating and Corporate Governance and Executive Compensation Committees are available on our website, and we will mail copies of the foregoing documents to stockholders, free of charge, upon request to our Corporate Secretary at Ventas, Inc., 353 North Clark Street, Suite 3300, Chicago, Illinois 60654.
+
+GOVERNMENT REGULATION
+
+Governmental Response to the COVID-19 Pandemic
+
+In response to the COVID-19 pandemic, in 2020, Congress enacted a series of economic stimulus and relief measures through the Coronavirus Aid, Relief and Economic Security Act (the “CARES Act”), the Paycheck Protection Program and Health Care Enhancement Act (the “PPPHCE Act”) and the Consolidated Appropriations Act, 2021 (“CAA”). In total, the CARES Act, the PPPHCE Act and the CAA authorize approximately $175 billion to be distributed to healthcare providers through the Public Health and Social Services Emergency Fund (“Provider Relief Fund”), which is administered by the U.S. Department of Health & Human Services (“HHS”). These grants are intended to reimburse eligible providers for expenses incurred to prevent, prepare for and respond to COVID-19 and lost revenues attributable to COVID-19. Recipients are not required to repay distributions from the Provider Relief Fund, provided that they attest to and comply with certain terms and conditions, including, not using grants received from the Provider Relief Fund to reimburse expenses or losses that other sources are obligated to reimburse, reporting and record keeping requirements and cooperating with any government audits.
+
+HHS began distributing Provider Relief Fund grants in April 2020 and has made grants available to various provider groups in phases. We applied for and received grants under Phase 2 and Phase 3 of the Provider Relief Fund on behalf of the assisted living communities in our senior living operations segment and may apply for additional grants in the future. Many of our senior housing, hospital, health system, medical office and other tenants also received grants from the Provider Relief Fund. HHS continues to evaluate and provide allocations of, and issue regulations and guidance regarding, grants made under the CARES Act and related legislation. We continue to monitor and evaluate the terms and conditions associated with payments received under the Provider Relief Fund.
+
+The CARES Act and related legislation also make other forms of financial assistance available to healthcare providers, which has benefited our tenants and our senior living operations segment to varying degrees. This assistance includes Medicare and Medicaid payment adjustments and an expansion of the Medicare Accelerated and Advance Payment Program, which made available accelerated payments of Medicare funds in order to increase cash flow to providers. These payments are loans that providers must repay. Effective October 2020, the Centers for Medicare & Medicaid Services (“CMS”) is no longer accepting applications for accelerated or advance payments. The Cares Act and related legislation also suspended Medicare sequestration payment adjustments, which would have otherwise reduced payments to Medicare providers by 2%, from May 1, 2020 through March 31, 2021, but also extended sequestration through 2030. These laws also include provisions intended to expand coverage of COVID-19 testing and preventive services, address healthcare workforce needs and ease other legal and regulatory burdens on healthcare providers. Due to the recent enactment of the CARES Act, the PPPHCE Act, and the CAA, there is a high degree of uncertainty surrounding their implementation, and the public health emergency continues to evolve. See “Risk Factors—COVID-19 Risks—There is a high degree of uncertainty regarding the implementation and impact of the CARES Act and other pandemic-related legislation and any future COVID-19 relief measures. There can be no assurance as to the total amount of financial assistance we or our tenants or borrowers will receive or that we will be able to benefit from provisions intended to increase access to resources and ease regulatory burdens for healthcare providers.” included in Part I, Item 1A of this Annual Report.
+
+Federal, state and local governments and agencies have implemented or announced other programs to provide financial and other support to businesses affected by the COVID-19 pandemic, some of which have benefited our tenants, borrowers, managers and our senior living operations segment, but that impose significant regulatory and compliance obligations.
+
+United States Healthcare Regulation, Licensing and Enforcement
+
+Overview
+
+We, along with our tenants, borrowers, and managers in the United States, are subject to or impacted by extensive and complex federal, state and local healthcare laws and regulations, including laws and regulations relating to quality of care, licensure and certificates of need (“CON”), conduct of operations, government reimbursement, such as Medicare and Medicaid, fraud and abuse, qualifications of personnel, appropriateness and classification of care, adequacy of plant and equipment, and data security and privacy. Although the effects of these laws and regulations on our business are typically indirect, some of these laws and regulations apply directly to us and the senior housing communities in our senior living operations segment,
+9
+
+where we generally hold the applicable healthcare licenses and enroll in applicable reimbursement programs. Healthcare laws and regulations are wide-ranging, and noncompliance may result in the imposition of civil, criminal, and administrative penalties, including: the loss or suspension of accreditation, licenses or CONs; suspension of or non-payment for new admissions; denial of reimbursement; fines; suspension, decertification, or exclusion from federal and state healthcare programs; or facility closure. Changes in laws or regulations, reimbursement policies, enforcement activity and regulatory non-compliance by us or our tenants, borrowers or managers could have a significant effect on our and their operations and financial condition, which in turn may adversely impact us, as detailed below and set forth under “Risk Factors” in Part I, Item 1A of this Annual Report.
+
+Licensure, Certification and CONs
+
+Regulation of senior housing communities consists primarily of state and local laws that may require licenses, certifications and permits, and may vary greatly from one jurisdiction to another. Our senior housing communities that receive Medicaid payments are also subject to extensive federal laws and regulation. Inpatient rehabilitation and long-term acute care facilities, health systems, and skilled nursing facilities, which we do not directly operate, are typically subject to extensive federal and state regulation and must hold various licenses, certifications, and permits. Licensure and certification may be conditioned on requirements related to, among other things, the quality of medical care provided by an operator, qualifications of the operator’s administrative personnel and clinical staff, adequacy of the physical plant and equipment and continuing compliance with applicable laws and regulations. Federal and state government agencies have issued additional requirements in connection with the COVID-19 pandemic. For example, CMS is requiring testing of skilled nursing facility staff and residents for COVID-19 and reporting of COVID-19 data to the Centers for Disease Control and Prevention (“CDC”).
+
+Sanctions for failure to comply with licensure and certification laws and regulations include loss of licensure or certification and ability to participate in or receive payments from the Medicare and Medicaid programs, suspension of or non-payment for new admissions, fines, and potential criminal penalties. Even if we are not the operator of a facility, imposition of such sanctions could adversely affect the healthcare facility operator’s ability to satisfy its obligations to us. Further, if we have to replace a tenant, we may experience difficulties in finding a replacement and effectively and efficiently transitioning the property to a new tenant. See “Risk Factors—Our Business Operations and Strategy Risks—If we need to replace any of our tenants or managers, we may be unable to do so on as favorable terms, or at all, and we could be subject to delays, limitations and expenses, which could adversely affect our business, financial condition and results of operations.” included in Part I, Item 1A of this Annual Report.
+
+In addition, many of our licensed facilities and tenants are subject to state CON laws, which require governmental approval prior to the development or expansion of licensed facilities and services. The approval process in states with CON laws generally requires a facility to demonstrate the need for additional or expanded licensed facilities or services. CONs, where applicable, are also sometimes necessary for changes in ownership or control of licensed facilities, addition of beds, investment in major capital equipment, introduction of new services or termination of services previously approved through the CON process. CON laws and regulations may restrict our or our tenants’ ability to expand and grow in certain circumstances, which could have an adverse effect on our or their revenues.
+
+Fraud and Abuse Enforcement
+
+Participants in the U.S. healthcare industry are subject to complex federal and state civil and criminal laws and regulations governing healthcare provider referrals, relationships and arrangements. These laws include: (i) federal and state false claims acts, which generally prohibit providers from filing false claims or making false statements to receive payment from Medicare, Medicaid or other federal or state healthcare programs; (ii) federal and state anti-kickback and fee-splitting statutes, including the federal Anti-Kickback Statute, which prohibits the payment or receipt of remuneration to induce referrals or generate business involving healthcare items or services payable by Medicare or Medicaid; (iii) federal and state physician self-referral laws, which generally prohibit referrals of certain services by physicians to entities with which the physician or an immediate family member has a financial relationship; and (iv) the federal Civil Monetary Penalties Law, which requires a lower burden of proof than other fraud and abuse laws and prohibits, among other things, the knowing presentation of a false or fraudulent claim for certain healthcare services.
+
+Violating these healthcare fraud and abuse laws and regulations may result in criminal and civil penalties, such as punitive sanctions, damage assessments, monetary penalties, imprisonment, denial of Medicare and Medicaid payments, and exclusion from the Medicare and Medicaid programs. These laws and regulations are enforced by a variety of federal, state and
+10
+
+local governmental agencies, and many can also be enforced by private litigants through federal and state false claims acts and other laws that allow private individuals to bring whistleblower suits known as qui tam actions.
+
+Reimbursement
+
+Sources of revenue for us and some of our tenants include, among others, governmental healthcare programs, such as the federal Medicare programs and state Medicaid programs, and non-governmental third-party payors, such as insurance carriers and health maintenance organizations. Medicare is a federal health insurance program for persons age 65 and over, some disabled persons and persons with end-stage renal disease. Medicaid is a medical assistance program for eligible needy persons that is funded jointly by federal and state governments and administered by the states. Medicaid eligibility requirements and benefits vary by state. The Medicare and Medicaid programs are highly regulated and subject to frequent and substantial changes resulting from legislation, regulations and administrative and judicial interpretations of existing law.
+
+As federal and state governments face significant budgetary pressures, they continue efforts to reduce Medicare and Medicaid spending through methods such as reductions in reimbursement rates and increased enrollment in managed care programs. Private payors are typically for-profit companies and are continuously seeking opportunities to control healthcare costs. In some cases, private payors rely on government reimbursement systems to determine reimbursement rates, such that reductions in Medicare and Medicaid payment rates may negatively impact payments from private payors. These changes may result in reduced or slower growth in reimbursement for certain services provided by some of our tenants and managers. Additionally, the U.S. Congress and certain state legislatures have introduced and passed a large number of proposals and legislation designed to make major changes in the healthcare system, including changes that directly or indirectly affect reimbursement. Several of these laws, including the Patient Protection and Affordable Care Act, as amended by the Health Care and Education Reconciliation Act of 2010 (the “Affordable Care Act”), have promoted shifting from traditional fee-for-service reimbursement models to alternative payment models that tie reimbursement to quality and cost of care, such as accountable care organizations and bundled payments. It is difficult to predict the nature and success of future financial or delivery system reforms, but changes to reimbursement rates and related policies could adversely impact our and our tenants’ results of operations.
+
+For the year ended December 31, 2020, approximately 7.2% of our total revenues and 15.0% of our total NOI were attributable to acute and post-acute healthcare facilities in which our third-party tenants receive reimbursement for their services under governmental healthcare programs, such as Medicare and Medicaid. We are neither a participant in, nor a direct recipient of, any reimbursement under these programs with respect to those leased facilities.
+
+Data Privacy and Security
+
+Privacy and security regulations issued pursuant to the Health Insurance Portability and Accountability Act of 1996, as amended ( “HIPAA”), restrict the use and disclosure of individually identifiable health information (“protected health information” or “PHI”), provide for individual rights, and require safeguards for PHI and notification of breaches of unsecure PHI. Entities subject to HIPAA include most healthcare providers, including some of our tenants and borrowers. These covered entities are required to implement administrative, physical and technical practices to protect the security of individually identifiable health information that is electronically maintained or transmitted. Business associates of covered entities who create, receive, maintain or transmit PHI are also subject to certain HIPAA provisions. Violations of HIPAA may result in substantial civil and/or criminal fines and penalties.
+
+There are several other laws and legislative and regulatory initiatives at the federal and state levels addressing privacy and security of personal information. For example, the Federal Trade Commission uses its consumer protection authority to initiate enforcement actions in response to data breaches. In most cases, we depend on our tenants and managers to fulfill any compliance obligations with respect to HIPAA and other privacy and security laws and regulations.
+
+International Healthcare Regulation
+
+We own senior housing communities in Canada and the United Kingdom. Senior living residences in Canada are provincially regulated. Within each province, there are different categories for senior living residences that are generally based on the level of care sought or required by a resident (e.g., assisted or retirement living, senior living residences, residential care, long-term care). In some of these categories and depending on the province, residences may be government funded, or the individual residents may be eligible for a government subsidy, while other residences are exclusively private-pay. The
+11
+
+governing legislation and regulations vary by province, but generally impose licensing requirements and minimum standards of care for senior living residences. These laws empower regulators in each province to take a variety of steps to ensure compliance, conduct inspections, issue reports and generally regulate the industry. Our communities in Canada are also subject to privacy legislation, including, in certain provinces, privacy laws specifically related to personal health information. Although the obligations of senior living residences in the various provinces differ, they all include the obligation to protect personal information. The powers of privacy regulators and penalties for violations of privacy law vary according to the applicable law or are left to the courts. Our senior living residences in Canada are also subject to a variety of other laws and regulations, including minimum wage standards and other employment laws.
+
+In the United Kingdom, our senior housing communities are principally regulated as “care home services” under the Health and Social Care Act 2008. This legislation subjects service providers to standards of care and requires, among other things, that all persons carrying out such activities, and the managers of such persons, be registered. Providers of care home services are also subject (as data controllers) to laws and regulations governing their use of personal data (including in relation to their employees, clients and recipients of their services). These laws take the form of the U.K.’s Data Protection Act 2018. The Data Protection Act imposes a significant number of obligations on controllers with the potential for fines of up to 4% of annual worldwide turnover or €20 million, whichever is greater. Our business operations in the United Kingdom are also subject to a range of other regulations, such as the U.K. Bribery Act 2010, minimum wage standards and other employment laws.
+
+The United Kingdom exited from the EU on January 31, 2020. The impact of Brexit on the healthcare industry will depend on a variety of factors, including the evolution of healthcare regulatory and immigration policy and the broader economic outlook in the United Kingdom.
+
+Regulation Impacting Life Science, Research and Innovation Centers
+
+We lease a number of our assets to tenants in the life science, research and innovation sector. These tenants consist of university-affiliated organizations and other private sector companies. These tenants may be dependent on private investors, the federal government or other sources of funding to support their activities. Creating a new pharmaceutical product or medical device requires substantial investments of time and capital, in part because of the extensive regulation of the healthcare industry; it also entails considerable risk of failure in demonstrating that the product is safe and effective and in gaining regulatory approval and market acceptance. Therefore, our tenants in the life science, research and innovation industry face high levels of regulation, expense and uncertainty. See “Risk Factors—Environmental, Economic and Market Risks—Our life science, R&I tenants face unique levels of regulation, expense and uncertainty.” included in Part I, Item 1A of this Annual Report.
+
+Our tenants with marketable products may be adversely affected by healthcare reform and government reimbursement policies, including changes under the current presidential administration or by private healthcare payors.
+
+Tax Regulation
+
+We elected to be taxed as a REIT under Sections 856 through 860 of the Internal Revenue Code (the “Code”), commencing with our taxable year ended December 31, 1999. Provided we qualify for taxation as a REIT, we generally will not be required to pay U.S. federal corporate income taxes on our REIT taxable income that is currently distributed to our stockholders. This treatment substantially eliminates the “double taxation” that ordinarily results from investment in a C corporation. We will, however, be required to pay U.S. federal income tax in certain circumstances.
+
+The Code defines a REIT as a corporation, trust or association:
+
+(1) that is managed by one or more trustees or directors;
+
+(2) that issues transferable shares or transferable certificates to evidence its beneficial ownership;
+
+(3) that would be taxable as a domestic corporation, but for Sections 856 through 860 of the Code;
+
+(4) that is not a financial institution or an insurance company within the meaning of certain provisions of the Code;
+
+(5) that is beneficially owned by 100 or more persons;
+
+12
+
+(6) not more than 50% in value of the outstanding stock of which is owned, actually or constructively, by five or fewer individuals, including certain specified entities, during the last half of each taxable year; and
+
+(7) that meets other tests, regarding the nature of its income and assets and the amount of its distributions.
+
+We believe that we have been organized and have operated in a manner that has allowed us, and will continue to allow us, to satisfy conditions (1) through (7) inclusive, during the relevant time periods, and we intend to continue to be organized and operate in this manner. However, qualification and taxation as a REIT depend upon our ability to meet the various qualification tests imposed under the Code, including through actual operating results, asset composition, distribution levels and diversity of stock ownership. Accordingly, no assurance can be given that we will be organized or will be able to operate in a manner so as to qualify or remain qualified as a REIT.
+
+If we lose our status as a REIT (currently or with respect to any tax years for which the statute of limitations has not expired), we will face serious tax consequences that will substantially reduce the funds available to satisfy our obligations, to implement our business strategy and to make distributions to our stockholders for each of the years involved because:
+
+•We would not be allowed a deduction for distributions to stockholders in computing our taxable income and would be subject to regular U.S. federal corporate income tax;
+
+•We could be subject to increased state and local taxes; and
+
+•Unless we are entitled to relief under statutory provisions, we could not elect to be subject to tax as a REIT for four taxable years following the year during which we were disqualified.
+
+In addition, in such event we would no longer be required to pay dividends to maintain REIT status, which could adversely affect the value of our common stock. See “Risk Factors—Our REIT Status Risks”.
+
+Environmental Regulation
+
+A wide variety of federal, state and local environmental and occupational health and safety laws and regulations affect our assets. We are committed to not only meeting these requirements of these laws and regulations, but exceeding them through our Environmental, Social and Governance activities. See “—Sustainability.”
+
+However, these complex federal and state statutes, and their enforcement, involve a myriad of regulations, many of which involve strict liability on the part of the potential offender. Some of these federal and state statutes may directly impact us. Under various federal, state and local environmental laws, ordinances and regulations, an owner of real property or a secured lender, such as us, may be liable for the costs of removal or remediation of hazardous or toxic substances at, under or disposed of in connection with such property, as well as other potential costs relating to hazardous or toxic substances (including government fines and damages for injuries to persons and adjacent property).
+    
+With respect to our properties that are operated or managed by third parties, we may be held primarily or jointly and severally liable for costs relating to the investigation and cleanup of any property from which there is or has been an actual or threatened release of a regulated material and any other affected properties, regardless of whether we knew of or caused the release. Such costs typically are not limited by law or regulation and could exceed the property’s value. In addition, we may be liable for certain other costs, such as governmental fines and injuries to persons, property or natural resources, as a result of any such actual or threatened release. See “Risk Factors—Our Business Operations and Strategy Risks—Our operating assets may expose us to various operational risks, liabilities and claims that could adversely affect our ability to generate revenues or increase our costs and could adversely affect our business, financial condition and results of operations.” included in Part I, Item 1A of this Annual Report.
+
+Under the terms of our lease, management and other agreements, we generally have a right to indemnification by the tenants and managers of our properties for any contamination caused by them.
+
+In general, we have also agreed to indemnify our tenants and managers against any environmental claims (including penalties and cleanup costs) resulting from any condition arising in, on or under, or relating to, the leased properties at any time before the applicable lease commencement date. With respect to our senior living operating portfolio, we have agreed to indemnify our managers against any environmental claims (including penalties and cleanup costs) resulting from any condition on those properties, unless the manager caused or contributed to that condition.

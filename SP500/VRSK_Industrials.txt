@@ -1,0 +1,541 @@
+
+Item 1.
+
+Business
+
+ 
+
+Our Company
+
+ 
+
+Verisk is a leading data analytics provider serving customers in insurance, energy and specialized markets, and financial services. Using advanced technologies to collect and analyze billions of records, we draw on unique data assets and deep domain expertise to provide innovations that may be integrated into customer workflows. We offer predictive analytics and decision support solutions to customers in rating, underwriting, claims, catastrophe and weather risk, natural resources intelligence, economic forecasting, commercial banking and finance, and many other fields. In the United States ("U.S.") and around the world, we help customers protect people, property, and financial assets.
+
+ 
+
+Our customers use our solutions to make better decisions about risk and opportunities with greater efficiency and discipline. We refer to these products and services as solutions due to the integration among our services and the flexibility that enables our customers to purchase components or a comprehensive package. These solutions take various forms, including proprietary data assets, expert industry insight, statistical models, tailored analytic object, and robust software platforms all designed to allow our customers to make more informed risk decisions. We believe our solutions for analyzing risk have a positive impact on our customers’ revenues and help them better manage their costs. In 2020, our customers included all of the top 100 property and casualty ("P&C") insurance providers in the U.S. for the lines of P&C services we offer and the top 30 credit card issuers in North America, the United Kingdom, and Australia as well as nine of the top ten global energy producers around the world. We also work with a wide range of companies, governments, and institutions across the energy and metals and mining value chains. We believe that our commitment to our customers and the embedded nature of our solutions serve to strengthen and extend our relationships.
+
+ 
+
+We believe that Verisk is uniquely positioned because of the set of Distinctives or competitive advantages we cultivate and continue to expand, as indicated below. Our existing businesses, in addition to new product innovations, integrate the following four singular qualities into the foundation of our strategy.
+
+ 
+
+Our Distinctives
+
+ 
+
+•Unique Data Assets - Data is at the core of what we do. We use our proprietary data assets to develop predictive analytics and transformative models for our customers.
+
+ 
+
+•Deep Domain Expertise - We have specialized and in-depth knowledge in a number of defined vertical markets, including insurance, energy, financial services, and risk management. We understand that different verticals require different approaches, and our deep domain expertise adds value to our analytics in the markets we serve.
+
+ 
+
+•Steady Stream of First-to-Market Innovations - We move quickly to be the first to market with new solutions. Typically, the marketplace assumes that those who are first to market are superior to the competition and better positioned to succeed.
+
+ 
+
+•Deep Integration into Customer Workflows - By embedding our solutions into customer workflows, we help our customers better manage risk and optimize their bottom line. We achieve this goal by remaining closely connected to our customers at all times and serving their distinct needs.
+
+ 
+
+We offer our solutions and services primarily through annual subscriptions or long-term agreements, which are typically prepaid and represented over 82% of our revenues in 2020. For the year ended December 31, 2020, we had revenues of $2,784.6 million and net income of $712.7 million. For the five-year period ended December 31, 2020, our consolidated revenues grew at a compound annual growth rate ("CAGR") of 8.7% and our net income grew at 4.8%.
+
+ 
+
+Our History
+
+ 
+
+We trace our history to 1971, when Insurance Services Office, Inc. ("ISO") started operations as a not-for-profit advisory and rating organization providing services to the U.S. P&C insurance industry. ISO was formed as an association of insurance companies to gather statistical data and other information from insurers and report to regulators, as required by law. ISO’s original functions also included developing programs to help insurers define and manage insurance products and providing information to help insurers determine their own independent premium rates. Insurers used and continue to use our offerings primarily in their product development, underwriting, and rating functions.
+
+ 
+
+On May 23, 2008, in contemplation of our initial public offering ("IPO"), ISO formed Verisk Analytics, Inc. ("Verisk"), a Delaware corporation, to be the holding company for our business. Verisk was initially formed as a wholly owned subsidiary of ISO. On October 6, 2009, in connection with our IPO, we effected a reorganization whereby ISO became a wholly owned subsidiary of Verisk. Verisk common stock began trading on the NASDAQ Global Select Market on October 7, 2009, under the ticker symbol “VRSK.”
+
+ 
+
+ 
+
+4
+Table of Contents
+ 
+
+ 
+
+Over the past two decades, we have transformed our business beyond its original functions by deepening and broadening our data assets, developing a set of integrated risk management solutions and services, and addressing new markets. Our expansion into analytics began when we acquired the American Insurance Services Group ("AISG") and certain operations and assets of the National Insurance Crime Bureau in 1997 and 1998, respectively. Those organizations brought to the company large databases of insurance claims as well as expertise in detecting and preventing claims fraud. To further expand our business, in 2002, we acquired AIR Worldwide ("AIR"), the technological leader in catastrophe modeling. In 2006, to bolster our position in the insurance claims field, we acquired Xactware Solutions Inc., a leading supplier of estimation software for professionals involved in building repair and reconstruction. In 2012, we acquired Argus Information & Advisory Services, LLC ("Argus") to expand our global presence providing information, competitive benchmarking, analytics, and customized services to financial institutions in the payments space. In 2015, we acquired Wood Mackenzie Limited ("Wood Mackenzie") to advance our strategy to expand internationally and position us in the global energy market. In 2017, we acquired G2 Web Services, LLC ("G2"); Sequel Business Solutions Ltd. ("Sequel"); Lundquist Consulting, Inc. ("LCI"); and PowerAdvocate, Inc. ("PowerAdvocate") to further strengthen our position in their respective segments. G2 provides merchant risk intelligence solutions for acquirers, commercial banks, and other payment system providers. Sequel is a leading insurance and reinsurance software specialist based in London. LCI offers risk insight, prediction, and management solutions for banks and creditors. PowerAdvocate is a leading data analytics provider with a one-of-a-kind spend and cost data curated from millions of transactions across thousands of services, materials, and equipment categories in the energy industry. In 2018, we acquired Rulebook Limited ("Rulebook") to further our international insurance presence in the overseas market. In 2019, we acquired Genscape, Inc. ("Genscape") and Flexible Architecture and Simplified Technology, LLC ("FAST") to enhance our solutions within the Energy and Specialized Markets segment and Insurance segment, respectively. In 2020, we acquired Franco Signor, LLC to further our offerings in the Medicare space and Lead Intelligence, Inc. ("Jornaya") to grow our set of marketing solutions for the insurance and financial services markets.
+
+ 
+
+Those acquisitions have added scale, geographic reach, highly skilled workforces, and a wide array of new capabilities to support our customers. They have helped make us a leading provider of information and decision analytics for customers involved in the business of risk in the U.S. and selectively around the world.
+
+ 
+
+Segments
+
+ 
+
+We organize our business in three segments: Insurance, Energy and Specialized Markets, and Financial Services. See “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II of this annual report for additional information regarding our segments. See Note 19. of our consolidated financial statements included in this annual report on Form 10-K for further information.
+
+ 
+
+Insurance Segment
+
+ 
+
+Our Insurance segment primarily serves our P&C insurance customers and focuses on the prediction of loss, the selection and pricing of risk, and compliance with their reporting requirements in each U.S. state in which they operate. We also develop and utilize machine learned and artificially intelligent models to forecast scenarios and produce both standard and customized analytics that help our customers better manage their businesses, including detecting fraud before and after a loss event and quantifying losses. Our customers include most of the P&C insurance providers in the U.S. In recent years, we have expanded our offerings to also serve certain non-U.S. markets. Finally, we have also expanded into the life and annuity sectors through the acquisition of FAST in December 2019, as well as internal solutions development, to enable the transformation of the industry across the policy lifecycle through no-code technology, data analytics, and modeling. 
+
+ 
+
+Underwriting & rating
+
+ 
+
+We are the recognized leader in the U.S. for industry-standard insurance programs that help P&C insurers define coverages and issue policies. We provide policy language, prospective loss costs, policy writing rules, and a variety of underwriting solutions for risk selection and segmentation, pricing, and workflow optimization across 30 lines of insurance. Our policy language, prospective loss cost information and policy writing rules can serve as integrated turnkey insurance programs for our customers. Insurance companies need to ensure that their policy language, rules, and rates comply with all applicable legal and regulatory requirements. They must also make sure their policies remain competitive by promptly changing coverages in response to changes in statutes, case law, or regulatory requirements. To meet their insurers' needs, we process approximately 2,400 regulatory filings and interface with state regulators in all 50 states plus the District of Columbia, Guam, Puerto Rico, and the Virgin Islands each year to ensure smooth implementation of our rules and forms. When insurers choose to develop their own alternative programs, our industry-standard insurance programs also help regulators ensure that such insurers’ policies meet basic coverage requirements.
+
+ 
+
+Standardized coverage language, which has been tested in litigation and tailored to reflect judicial interpretation, helps ensure consistent treatment of claimants. As a result, our industry-standard language also simplifies claim settlements and can reduce the occurrence of costly litigation, because our language causes the meaning of coverage terminology to become established and known. Our policy language includes standard coverage language, endorsements, and policy writing support language that assist our customers in understanding the risks they assume and the coverages they offer. With these policy programs, insurers also benefit from economies of scale. We have more than 195 specialized lawyers and insurance experts reviewing changes in each state’s insurance rules and regulations, including an average of over 11,000 legislative actions, over 9,200 regulatory actions, and 2,000 court decisions per year, to make any required changes to our policy language and rating information.
+
+ 
+
+To cover the wide variety of risks in the marketplace, we offer a broad range of policy programs. For example, in the homeowners line of insurance, we maintain policy language and rules for 6 basic coverages, 283 national endorsements, and 616 state-specific endorsements.
+
+ 
+
+The P&C insurance industry is heavily regulated in the U.S.: P&C insurers are required to collect statistical data about their premiums and losses and to report that data to regulators in every state in which they operate. Our statistical agent services have enabled P&C insurers to meet those regulatory requirements for more than 45 years. We aggregate the data, and as a licensed or appointed “statistical agent” in all 50 states, Puerto Rico, and the District of Columbia, we report those statistics to insurance regulators. We are able to capture significant economies of scale given the level of penetration of this service within the U.S. P&C insurance industry.
+
+ 
+
+5
+Table of Contents
+ 
+
+ 
+
+To provide our customers and the regulators the information they require, we maintain one of the largest private databases in the world. Over the past four decades, we have developed core expertise in acquiring, processing, managing, protecting, and operating large and comprehensive databases that are the foundation of our insurance offerings. We use our proprietary technology to assemble, organize, and update vast amounts of detailed information submitted by our customers. We supplement this data with publicly available information.
+
+ 
+
+In 2020 alone, P&C insurers sent us approximately 3.1 billion detailed individual records of insurance transactions, such as insurance premiums collected or losses incurred. We maintain a database of more than 22.9 billion statistical records, including approximately 9.9 billion commercial lines records and approximately 13.0 billion personal lines records. We collect unit transaction detail of each premium and loss record, which enhances the validity, reliability, and accuracy of our data sets and our actuarial analyses. Our proprietary quality process includes more than 2,900 separate checks to ensure that the data meets our high standards of quality.
+
+ 
+
+We provide actuarial services to help our customers analyze and price their risks. Using our large database of premium and loss data, our actuaries are able to perform sophisticated analyses using our predictive models and analytic methods to help our P&C insurance customers with pricing, loss reserving, and marketing. We distribute a number of actuarial solutions and offer flexible services to meet our customers’ needs. In addition, our actuarial consultants provide customized services for our customers that include assisting them with the development of independent insurance programs, analysis of their own underwriting experience, development of classification systems and rating plans, and a wide variety of other business decisions. We also supply information to various customers in other markets, including reinsurance and government agencies.
+
+ 
+
+We project customers' future losses and loss expenses using a broad set of data. Those projections tend to be more reliable than if our customers used their own data exclusively. We make a number of actuarial adjustments before the data is used to estimate future costs. Our customers can use our estimates of future costs in making independent decisions about the prices charged for their policies. For most P&C insurers in most lines of business, we believe that our estimates of future costs are an essential input to rating decisions. Our actuarial products and services are also used to create the analytics underlying our industry-standard insurance programs described above.
+
+ 
+
+We gather information on individual properties and communities so that insurers can use our information to evaluate and price personal and commercial property insurance, as well as commercial liability insurance. Our property-specific rating and underwriting information allows our customers to understand, quantify, underwrite, mitigate, and avoid potential loss for residential and commercial properties. Our database contains data and analytics on approximately 12.0 million commercial properties in the U.S. We have a staff of approximately 530 field representatives strategically located around the U.S. who observe and report on conditions at commercial and residential properties, evaluate community fire-protection capabilities and assess the effectiveness of municipal building-code enforcement. Each year, our field staff visits more than 375,000 commercial properties to collect information on new buildings and verify building attributes.
+
+ 
+
+We are a leading provider of innovative solutions for the personal underwriting markets, including homeowners and auto lines. Drawing on an array of resources from proprietary and third-party data to geospatial imagery, we build and maintain widely used industry-standard tools that assist insurers in underwriting and rating—that is, measuring and selecting risks and pricing coverage appropriately to help ensure fairness to the consumer and a reasonable return for the insurer. Our solutions apply advanced predictive analytics to our deep reservoir of data and information to gauge the degree and cost of risk quickly and precisely, and our workflow tools help insurers increase speed and cost-efficiency while delivering superior customer experiences. These premier solutions span a range of applications—from using precise home reconstruction costs to ensure policyholders have the right amount of coverage, to providing auto insurers with data to bind policies in minutes with once-and-done quoting.
+
+ 
+
+Our solutions span a wide range of P&C insurance, encompassing personal and commercial lines of coverage that protect private residences, private and commercial vehicles, and businesses.
+
+ 
+
+We also provide proprietary analytic measures of the ability of individual communities to mitigate losses from important perils. Nearly every property insurer in the U.S. uses our evaluations of community firefighting capabilities to help determine premiums for fire insurance throughout the country. We provide field-verified and validated data on the fire protection services for approximately 40,000 fire response jurisdictions. We also offer services to evaluate the effectiveness of community enforcement of building codes and the efforts of communities to mitigate damage from flooding. Further, we provide information on the insurance rating territories, premium taxes, crime risk, and hazards of windstorm, earthquake, wildfire, and other perils. To supplement our data on specific commercial properties and individual communities, we have assembled, from a variety of internal and third-party sources, information on hazards related to geographic locations representing every postal address in the U.S. Insurers use this information not only for policy quoting but also for analyzing risk concentration in geographical areas. We also make our data and analytics available to commercial real estate lenders to allow them to better understand risks associated with people they lend against.
+
+ 
+
+ 
+
+6
+Table of Contents
+ 
+
+ 
+
+We are a leader in and pioneered the field of probabilistic catastrophe modeling used by insurers, reinsurers, financial institutions, and government to manage their risk from extreme events. Our models, which form the basis of our solutions, enable companies to identify, quantify, and plan for the financial consequences of catastrophes. We have developed models for hurricanes, earthquakes, winter storms, tornadoes, hailstorms, and floods in more than 110 countries as well as pandemics worldwide. We have developed a probabilistic terrorism model capable of quantifying the risk in the U.S. from this evolving threat, which supports pricing and underwriting decisions down to the level of an individual policy, as well as models for estimating losses to crop insurance programs in the U.S., Canada and China. Our newest models offer risk management solutions for the cyber and casualty lines of business.
+
+ 
+
+We have begun to expand our footprint of data and solutions to include both U.S. and international markets. Our international insurance markets grew through acquisitions, and today serves a large proportion of those insurers operating in both the UK and Irish property and casualty markets. Additionally, our international market provides services to much of the Lloyd's and London market, whilst also serving customers in Canada, Continental Europe, Singapore, China, Australia, and New Zealand. The international enhanced commercial and residential property models and enriched data sets help insurers with triage, reconstruction value, risk selection, pricing, benchmarking, and portfolio management across multiple insured segments, with an emphasis on residential and commercial property. Insurers also use our solutions to finetune the accuracy of their rating models, to drive underwriting results through a set of analytical products that predict the relative risk and variation of major insurance perils including theft, flood, storm, fire, freeze, etc. Our international small and medium size commercial lines casualty solutions help customers digitally transform, enabling straight through processing and underwriting. In addition to property data and solutions, customers benefit from decision and benchmarking analytics using firmographic, technographic, and business intelligence, and proprietary management competency scores.
+
+ 
+
+Claims
+
+ 
+
+Our claims insurance solutions provide our customers analytics in the areas of fraud detection, compliance reporting, subrogation and repair cost estimation, including emerging areas of interest within these categories.
+
+ 
+
+We are a leading provider of fraud-detection tools for the P&C insurance industry. Our anti-fraud solutions improve our customers’ profitability by both predicting the likelihood that fraud may be occurring and detecting suspicious activity after it has occurred. When a claim is submitted, our system searches our all-claims database and returns information about other claims filed by the same individuals or businesses (either as claimants or insurers) that helps our customers determine if fraud may be occurring. The system searches for matches in identifying informational fields, such as name, address, Social Security number, vehicle identification number, driver’s license number, tax identification number, or other parties to the loss. Our system also includes advanced name and address searching to perform intelligent searches and improve the overall quality of the matches. Information from match reports speeds payment of meritorious claims while providing a defense against fraud and can lead to denial of a claim, negotiation of a reduced award, or further investigation by the insurer or law enforcement.
+
+ 
+
+We also have a comprehensive case management system used by claims adjusters and investigation professionals to process claims and fight fraud. Our claims databases are one of the key tools in the fight against insurance fraud. The benefits of a single all-claims database include improved efficiency in reporting data and searching for information; enhanced capabilities for detecting suspicious claims; and superior information for investigating fraudulent claims, suspicious individuals, and possible fraud rings. Our database also helps insurers fulfill on their regulatory compliance reporting requirements at both the state and federal level for delinquent child support liens and other required checks. The database contains information for more than 1.5 billion claims and is the world’s largest database of P&C claims information used for claims processing and investigations. Insurers and other participants submit more than 253,000 new claims a day on average across all categories of the U.S. P&C insurance industry.
+
+ 
+
+We also offer solutions to help the P&C industry comply with the federal Medicare Secondary Payer ("MSP") Statute; mandating reporting of claims data, repayment of conditional payments liabilities, and ongoing protection of the Medicare Trust Fund. Our solutions include highly accurate Medicare reporting with flexible solutions that are customized to the way insurers, self-insured employers and third-party administrators ("TPAs") do business, including integrated conditional payment processing, and a full range of Medicare Set-Aside ("MSA") services. In addition to full compliance support, including First Report of Injury ("FROI")/Subsequent Report of Injury ("SROI") and other Electronic Data Interchange ("EDI") reporting, claims professionals can also access robust analytic solutions for workers' compensation and liability claims and can leverage litigation analytics for improved claim results. 
+
+ 
+
+We also provide data, analytics, and networking products for professionals involved in estimating all phases of building repair and reconstruction. We provide solutions for every phase of a building’s life, including:
+
+ 	 
+•
+
+ quantifying the ultimate cost of repair or reconstruction of damaged or destroyed buildings,
+
+ 	 
+•
+
+ aiding in the settlement of insurance claims; and
+
+ 	 
+•
+
+ tracking the process of repair or reconstruction and facilitating communication among insurers, adjusters, contractors, and policyholders.
+
+ 
+
+To help our customers estimate repair costs, we provide a solution that assists contractors and insurance adjusters in estimating repairs using a patented plan-sketching program. The program allows our customers to manually sketch floor, roof and wall framing plans based upon their own measurements, and automatically calculates material and labor quantities for all desired construction or repairs to the structure.
+
+ 
+
+ 
+
+7
+Table of Contents
+ 
+
+ 
+
+We also offer our customers access to price lists, which include structural repair and restoration pricing for 468 separate economic areas in North America. We revise this information monthly, and in the aftermath of a major disaster, we can update the price lists as often as weekly to reflect rapid price changes. Our structural repair and cleaning database contains approximately 21,000 unit-cost line items. For each line item, such as smoke cleaning, water extraction and hazardous cleanup, we report time and material pricing, including labor, labor productivity rates (for new construction and restoration), labor burden and overhead, material costs, and equipment costs. We improve our reported pricing data by several methods, including direct market surveys and an analysis of the actual claims experiences of our customers. We estimate that more than 80% of insurance repair contractors and service providers in the U.S. and Canada with computerized estimating systems use our building and repair pricing data. Use of such a large percentage of the industry’s claims data leads to accurate reporting of pricing information, which we believe is unmatched in the industry.
+
+ 
+
+Customers access our claims ecosystem to provide valuable insights into weather peril impact to their book of business, remotely connect with their policyholders to enhance communication for faster claims resolution, and analyze and benchmark performance against peers in the industry. Increasingly, the Verisk suite of claims products leverages artificial intelligence and automation to streamline claims handling, connect vital data points, and improve the customer experience.
+
+ 
+
+We continually pursue new solutions that help our customers keep abreast of changing markets and technology. For example, we provide tools and platforms to help insurers, their customers, and providers of products and services to leverage the growing Internet of Things. This technology connects devices, vehicles, and homes to the Internet and generates valuable data to underwrite, rate, and manage risk while enriching customer relationships. By ingesting, storing, and normalizing this data, Verisk makes it accessible for users to extract business insights at a significantly lower cost and logistical burden than they could achieve on their own.
+
+ 
+
+Energy and Specialized Markets Segment
+
+ 
+
+We are a leading provider of data analytics across the natural resources value chain including the global energy, chemicals, metals and mining, and power and renewables sectors. We deliver analysis and advice on assets, companies, governments, and markets based on proprietary near real time data as well as historic information. This enables us to offer a comprehensive and integrated analysis of relevant commodities to our customers. We provide research and consulting services focusing on exploration strategies and screening, asset development and acquisition, commodity markets, and corporate analysis. We offer consultancy in the areas of business environment, business improvement, business strategies, commercial advisory, and transaction support.
+
+ 
+
+We differentiate our solutions in the market by continuously gathering and managing proprietary information, insight, and analysis on thousands of oil and gas fields, mines, refineries and other assets, as well as detailed assessments of the market fundamentals across each value chain. Our experts analyze the data and work directly with customers to address their business challenges.
+
+ 
+
+We provide market and cost intelligence to energy companies to optimize financial results. We combine information, innovative technology, and expert services to produce market intelligence. We aim to help asset-intensive clients achieve operational and financial excellence, increase profitability, and optimize business performance. In addition, our client service team of technical and various other professionals plays an integral role at a number of energy companies. We have engineers and supply chain professionals who consult on capital projects. Our team members include experts from the energy industry with hands-on operational experience.
+
+ 
+
+We help businesses and governments better anticipate and monitor risks in Earth’s natural environment. We prepare certain agencies and companies to anticipate, manage, react to, and profit from climate- and weather-related risk. We serve our customers by providing state-of-the-art research, development, and analysis delivered in reports, data streams, and software solutions. We are dedicated to the advancement of the atmospheric and remote sensing science disciplines and directly addressing problems regarding weather, climate, and air quality as well as oceanography and the planetary sciences. Through research conducted by our in-house scientific staff, and often in collaboration with world-renowned scientists at academic and other research institutions, we have developed analytical tools to help measure and observe environmental properties and translate those measurements into actionable information.
+
+ 
+
+We also offer a comprehensive suite of data and information services that enable improved compliance with global environmental health and safety ("EH&S") requirements related to the safe manufacturing, distribution, transportation, usage, and disposal of chemicals and products. From the supply chain or solutions life cycle, we deliver a program specific to the EH&S compliance information and management needs of our customers. Our full-solutions life cycle and cross-supply chain approach provides a single, integrated solution for managing customers' EH&S capabilities, which results in improved processes and reduced cost, risk, and liability.
+
+ 
+
+Financial Services Segment
+
+    
+
+We maintain the largest bank account consortia to provide competitive benchmarking, decisioning algorithms, business intelligence, and customized analytic services to financial institutions, payment networks and processors, alternative lenders, regulators, and merchants enabling better strategy, marketing, and risk decisions. Our teams are located across the U.S., U.K., Canada, Australia, New Zealand, the United Arab Emirates, Mexico, and India, delivering unique products and services to an expanding customer base that values the comprehensiveness of our data and solutions as well as our full wallet-spend view of a consumer. Complementing this, we leverage our partnerships with processors and credit bureaus not only to augment the richness of our data but also to provide expanded solutions across the broad span of consumer banking and retail products. Meanwhile, we offer services and a suite of solutions to satisfy growing customer needs for better forecasting and expense tools and regulatory-focused solutions. In addition, we provide solutions in the media effectiveness space given the unique nature and strength of our partnerships and through our developing Verisk Financial Marketview brand.
+
+ 
+
+Our professionals have substantive industry knowledge about providing solutions to the financial services sector. We are known for our unique ability to blend the highly technical, data-centered aspects of our projects with expert communication and business knowledge. Our solutions enhance our customers’ ability to manage their businesses profitably and position them better to handle present-day challenges (competitive, regulatory, and economic). Specifically, we use comprehensive transaction, risk, behavioral, and bureau-sourced account data to assist customers in making better business decisions through analysis and analytical solutions. We maintain a comprehensive and granular direct-observation financial services industry database for credit card, debit card, and deposit transactions as well as merchant and collections transactions.
+
+ 
+
+ 
+
+8
+Table of Contents
+ 
+
+ 
+
+Our Growth Strategy
+
+ 
+
+Over the past five years, we have grown our revenues at a CAGR of 8.7% through the successful execution of our business plan. Those results reflect strong organic revenue growth, new product development, and acquisitions. We have made, and continue to make, investments in people, data sets, analytic solutions, technology, and complementary businesses. The key components of our strategy include the following:
+
+ 
+
+Increase Solution Penetration with Customers. We expect to expand the application of our solutions in customers’ internal processes. Building on our deep knowledge of and embedded position in, various industries, we expect to sell more solutions to existing customers tailored to individual market segments. By increasing the breadth and relevance of our offerings, we believe that we can strengthen our relationships with customers and increase our value to their decision making in critical ways. We have opportunities to expand solution penetration to our insurance, energy, and financial services customers.
+
+ 
+
+Develop New Proprietary Data Sets and Predictive Analytics. We work with our customers to understand their evolving needs. We plan to create new solutions by enriching our mix of proprietary data sets, analytic solutions, and effective decision support across the markets we serve. We constantly seek to add new data sets that can further leverage our analytic methods, technology platforms, and intellectual capital.
+
+ 
+
+Leverage Our Intellectual Capital to Expand into Adjacent Markets and New Customer Sectors. Our organization is built on more than four decades of intellectual property in risk management. We believe we can continue to expand the use of our intellectual capital profitably and apply our analytic methods in new markets where significant opportunities for long-term growth exist. We also continue to pursue growth through targeted international expansion. We have already demonstrated the effectiveness of this strategy with our expansion into non-insurance financial services.
+
+ 
+
+Pursue Strategic Acquisitions That Complement Our Leadership Positions. We will continue to expand our data and analytics capabilities across industries. While we expect this will occur primarily through organic growth, we have acquired and will continue to acquire assets and businesses that strengthen our value proposition to customers. We have developed an internal capability to source, evaluate, and integrate acquisitions that have created value for shareholders.
+
+ 
+
+Our Customers
+
+ 
+
+The customers in our Insurance segment for the lines of P&C services we offer include the top 100 P&C insurance providers in the U.S. as well as domestic InsurTech companies and insurers in international markets. A substantial majority of P&C insurance providers in the U.S. use our statistical agent services to report to regulators, and the majority of insurers and reinsurers in the U.S. use our actuarial services and industry-standard insurance programs. In addition, certain agencies of the federal government as well as county and state governmental agencies and organizations use our solutions to help satisfy government needs for risk assessment and emergency response information. For life and annuity insurers, we offer digital solutions including electronic applications and policy administration systems to enable automated/accelerated triage, underwriting, fraud detection, and modeling. Further, our claims database serves thousands of customers, representing approximately 90% of the P&C insurance industry by premium volume, more than 500 self-insurers, approximately 400 third-party administrators, several state fraud bureaus, and many law enforcement agencies involved in the investigation and prosecution of insurance fraud. We estimate that more than 80% of insurance repair contractors and service providers in the U.S. and Canada with computerized estimating systems use our building and repair cost estimation pricing data.
+
+ 
+
+Our customers within the Energy and Specialized Markets segment include nine of the top ten global energy producers around the world. Our customer base includes international and national energy companies as well as chemicals, metals, and mining, power utilities, and renewables companies; financial institutions; and governments, among others. Within these organizations, we work with a range of diverse teams. These include strategists and policy makers, business developers, market analysts, commodity traders, corporate finance, risk teams, and investors. Alongside large corporate and government clients, we also work with many small and medium-size enterprises, offering services tailored to each customer’s needs.
+
+ 
+
+Within the Financial Services segment, our customers include financial institutions, payment networks and processors, alternative lenders, regulators, merchants, and the top 30 credit card issuers in North America, the United Kingdom, and Australia.
+
+ 
+
+ 
+
+9
+Table of Contents
+ 
+
+ 
+
+Our Competitors
+
+ 
+
+We believe that no single competitor currently offers the same scope of services and market coverage we provide. The breadth of markets we serve exposes us to a broad range of competitors as described below. Businesses that we acquire may introduce us to additional competitors.
+
+ 
+
+Our Insurance segment operates primarily in the U.S. P&C insurance industry, where we enjoy a leading market presence. We have a number of competitors in specific lines or services. We encounter competition from a number of sources, including insurers that develop internal technology and actuarial methods for proprietary insurance programs. Competitors also include other statistical agents, such as the National Independent Statistical Service, the Independent Statistical Service, Inc., and other advisory organizations, that provide underwriting rules, prospective loss costs, and coverage language, including the American Association of Insurance Services, Inc. and Mutual Services Organization. However, we believe that none of our competitors have the breadth or depth of data we have. Competitors for our property-specific rating and underwriting information are primarily limited to a number of regional providers of commercial property inspections and surveys, including Overland Solutions, Inc., and Regional Reporting, Inc., and emerging providers in the InsurTech space. We also compete with a variety of organizations that offer consulting services, primarily specialty technology and consulting firms. In addition, a customer may use its own internal resources rather than engage an outside firm for these services. Finally, our underwriting products compete with Lexis Nexis and Core Logic in the marketplace. Our competitors also include information technology product and services vendors; management and strategy consulting firms; and smaller specialized information technology and analytical services firms, including Pinnacle Consulting and EMB, a unit of Willis Towers Watson. Finally, in the life insurance sector, our solutions compete against vendors such as Accenture, Oracle, DXC, Majesco and iPipeline, as well as the in-house technology departments of Life Insurers. In the P&C insurance claims market and catastrophe modeling market, certain products are offered by a number of companies, including Risk Management Solutions (catastrophe modeling), CoreLogic (property replacement value), LexisNexis® Risk Solutions (loss histories and motor vehicle records for personal lines underwriting), Solera Holdings, Inc. (personal automobile underwriting), and Symbility (repair cost estimating). We believe that our P&C insurance industry expertise, and our ability to offer multiple applications, services, and integrated solutions to individual customers are competitive strengths.
+
+ 
+
+In the Energy and Specialized Markets segment, certain products are offered by a number of companies, including IHS Markit (natural resources), Rystad Energy (upstream), RS Energy (upstream), Global Data Plc (upstream), PIRA Energy Group (oil and gas markets), CRU Group (metals), and Bloomberg New Energy Finance (power and renewables). We believe that our global integrated value chain knowledge and insight, bottom-up proprietary data, and long-term trusted relationships enhance our competitive position in relation to those companies.
+
+ 
+
+Within the Financial Services segment, our unique datasets and wallet solutions mean that we have no direct competitors, and we work closely to create partnerships for mutual clients with organizations such as the card networks and credit bureaus to deepen ongoing relationships and create new value solutions. Our key competitors for our major brands are EverCompliant, WebShield, Trustwave, LegitScript, Lexis Nexis, American Infosource, and Phin Solutions.
+
+ 
+
+Development of New Solutions
+
+ 
+
+We take a market-focused team approach to developing our solutions. Our operating units are responsible for developing, reviewing, and enhancing our various products and services. Our data management and production team designs and manages our processes and systems for market data procurement, proprietary data production, and quality control. Our Joint Development Environment ("JDE") and Enterprise Data Management ("EDM") teams support our efforts to create new information and products from available data and explore new methods of collecting data. EDM is focused on understanding and documenting business unit and corporate data assets and data issues, sharing and combining data assets across the enterprise, creating an enterprise data strategy, facilitating research and product development, and promoting cross-enterprise communication. Our Verisk Innovative Analytics ("VIA") team is a corporate center of excellence for analytical methods in applying modeling techniques to predict risk outcomes.
+
+ 
+
+Our software development teams build the technology used in many of our solutions. As part of our product development process, we continually solicit feedback from our customers on the value of our products and services and the market’s needs. We have established an extensive system of customer advisory panels that meet regularly throughout the year to help us respond effectively to the needs of our markets. In addition, we use frequent sales calls, executive visits, user group meetings, and other industry forums to gather information to align our product development efforts with the needs of the market. We also use a variety of market research techniques to enhance our understanding of our customers and the markets in which they operate.
+
+ 
+
+We add to our offerings through an active acquisition program. Since 2016, we have acquired 31 businesses, which have allowed us to enter new markets, offer new solutions and enhance the value of existing services with additional proprietary sources of data.
+
+ 
+
+When we find it advantageous, we augment our proprietary data sources and systems by forming alliances with other leading information providers and technology companies and integrating their product offerings into our offerings. This approach gives our customers the opportunity to obtain the information they need from a single source and more easily integrate the information into their workflows.
+
+ 
+
+ 
+
+10
+Table of Contents
+ 
+
+Sales, Marketing, and Customer Support
+
+ 
+
+We sell our solutions and services primarily through direct interaction with our customers. We employ a three-tier sales structure that includes salespeople, technical consultants, and sales support. Within our company, several areas have sales teams that specialize in specific products and services. Those specialized sales teams sell specific, highly technical solution sets to targeted markets in coordination with account management.
+
+ 
+
+To provide account management to our largest customers in the insurance, energy, and financial markets, we divide our customers into three groups. Tier One (“Global/National Accounts") comprises our largest customers. Tier Two (“Strategic Accounts") represents both large and middle-market customer groups. Tier Three is composed of small and specialized companies that may represent one line of business, may be regionally focused, or are recent new entrants into the marketplace. In Tier One and Tier Two segments, we have sales teams organized by the following specialties: personal or commercial lines underwriting and pricing, claims, catastrophe risk, and energy. In the Tier Three segment, we assign a sales generalist with overall account management responsibility. Our tiered approach has proven to be a successful sales model and approach to building customer relationships. Our senior executives regularly engage with the senior management of our customers to ensure customer satisfaction and strategic alignment and to support mutual partnership innovation opportunities.
+
+ 
+
+Salespeople participate in both sales and customer service activities. They provide direct support, interacting frequently with assigned customers to ensure a satisfactory experience using our services. Salespeople primarily seek out new sales opportunities and work with the various product teams to coordinate sales activities and ensure our solutions fit the customer's needs. We believe our salespeople’s product knowledge, skills to develop relationships of trust, and local presence differentiate us from our competition. Technical consultants are subject matter experts and work with salespeople on specific opportunities for their assigned products and segments. Salespeople manage the overall sales process and technical consultants manage the rigorous integration and functional fit discussions to ensure mutual success and satisfaction. Both salespeople and technical consultants have responsibility for identifying new sales opportunities. A team approach and a common customer relationship management system allow for effective coordination among the groups.
+
+ 
+
+Sources of Our Data
+
+ 
+
+The data we use to perform our analytics and power our solutions is sourced through seven different kinds of data arrangements. First, we gather data from our customers within agreements that also permit our customers to use the solutions created from their data. Those agreements remain in effect unless the data contributor chooses to opt out. It is very rare that contributors elect not to continue providing us data. Second, we have agreements with data contributors in which we specify the particular uses of their data and provide their required levels of privacy, protection of data, and where necessary, de-identification of data. The agreements represent no cost to us, generally feature a specified period of time for the data contributions, and require renewal. Third, we “mine” data found inside the transactions supported by our solutions; as an example, we use the claims settlement data generated inside our repair cost estimating solution to improve the cost factors used in our models. Again, those arrangements represent no cost to us, and we obtain the consent of our customers to make use of their data in this way. Fourth, we source data generally at no cost from public sources, including federal, state, and local governments. Fifth, we gather data about the physical characteristics of commercial properties through the direct observation of our field staff members, who also perform property surveys at the request of, and facilitated by, property insurers. Sixth, we collect data, or license or purchase from third parties, on geographic and spatially referenced information relating to residential and commercial structures by using the latest remote sensing and machine learning technologies. Lastly, we purchase data from data aggregators under contracts that reflect prevailing market pricing for the data elements purchased, including county tax assessor records, descriptions of hazards such as flood plains, and professional licenses. We are the owners of the derivative solutions we create using the data we collect.
+
+ 
+
+11
+Table of Contents
+ 
+
+ 
+
+Information Technology
+
+ 
+
+Technology
+
+ 
+
+Our information technology systems and the more recent adoption of cloud computing are fundamental to our success. They are used for the storage, processing, access, and delivery of the data that forms the foundation of our business and the development and delivery of the solutions we provide to our customers. We generally own, or have secured ongoing rights to use for the purposes of our business, all the customer-facing applications that are material to our operations. We support and implement a mix of technologies and focus on implementing the most efficient technology for any given business requirement or task.
+
+ 
+
+Data Centers
+
+ 
+
+We have two primary data centers in Somerset, New Jersey, and Lehi, Utah, creating redundancy and back up capabilities. In addition, we have data centers located in other states dedicated to certain business units.
+
+ 
+
+Disaster Recovery
+
+ 
+
+We are committed to a framework for business continuity management and carry out annual reviews of the state of preparedness of each business unit. We also have documented disaster recovery plans in place for each of our major data centers and each of our solutions. The data center in Somerset, New Jersey is the recovery site for the Lehi, Utah, data center and vice versa. Business continuity planning is in place for all of our critical business processes to provide for the prompt and effective continuation of critical services in the event of a business disruption. Our business continuity program adheres to ISO 22301:2019, which is an international standard for business continuity. All business impact analysis and business continuity plans are reviewed and updated, at a minimum, annually or when significant business changes occur.
+
+ 
+
+Security
+
+ 
+
+We have adopted a wide range of measures to ensure the security of our IT infrastructure and data. Security measures generally cover the following key areas: security policies and governance committees, physical security, logical security of the perimeter, network security such as firewalls, logical access to the operating systems, deployment of virus detection software, and appropriate procedures relating to removable media such as laptops. Laptops are encrypted, and media leaving our premises and sent to third-party storage facilities are also encrypted. Our commitment to security has earned ISO 27001:2013 Certification for our core data centers, which is an international standard for best practices associated with our Information Security Management System.
+
+ 
+
+Intellectual Property
+
+ 
+
+We own a significant number of intellectual property rights, including copyrights, trademarks, trade secrets, and patents. Specifically, our policy language, insurance manuals, software, and databases are protected by both registered and common law copyrights; and the licensing of those materials to our customers for their use represents a large portion of our revenue. We also own in excess of 500 trademarks in the U.S. and foreign countries, including the names of our products and services and our logos and tag lines, many of which are registered. We believe many of our trademarks, trade names, service marks, and logos to be of material importance to our business, as they assist our customers in identifying our products and services and the quality that stands behind them. We consider our intellectual property to be proprietary, and we rely on a combination of statutory (for example, copyright, trademark, trade secret, and patent) and contractual safeguards in a comprehensive intellectual property enforcement program to protect it wherever it is used.
+
+ 
+
+We also own several patents and have several pending patent applications in the U.S. that complement our products. We believe the protection of our proprietary technology is important to our success, and we will continue to seek to protect those intellectual property assets for which we have expended substantial research and development capital and that are material to our business.
+
+ 
+
+To maintain control of our intellectual property, we enter into contractual agreements with our customers, granting each customer permission to use our products and services, including our software and databases. This helps maintain the integrity of our proprietary intellectual property and to protect the embedded information and technology contained in our solutions. As a general practice, employees, contractors, and other parties with access to our proprietary information sign agreements that prohibit the unauthorized use or disclosure of our proprietary rights, information, and technology.
+
+ 
+
+ 
+
+12
+Table of Contents
+ 
+
+ 
+
+Human Capital
+
+ 
+
+Our global workforce is united by our mission to serve, add value, and innovate for our customers.
+
+ 
+
+As a knowledge-based business, we carefully integrate the skills and talents of 8,960 employees worldwide as of December 31, 2020. Our highly credentialed team holds advanced degrees and professional certifications specializing in actuarial science, chemistry and physics, commercial banking and finance, commodity analytics, data science and artificial intelligence, economics, engineering, GIS mapping, meteorology, natural resources, predictive analytics, supply chain, and other fields. 
+
+ 
+
+Approximately 66% of our employees are based in the United States, 14% in the United Kingdom, 7% in India, with the remainder serving in 37 countries across the globe. 
+
+ 
+
+None of our employees are represented by unions or subject to collective bargaining agreements, other than a small number of employees in Germany who are represented by a works council. We consider our relationship with our employees to be good and have not experienced interruptions of operations due to labor disagreements. 
+
+ 
+
+We support and inspire our people with a warm and professional atmosphere, personal and career development opportunities at all levels, competitive compensation and benefits, an ongoing focus on well-being, and responsive leadership.
+
+ 
+
+We have a culture of continuous learning and improvement. All employees have access to our world-class online learning platform, which features thousands of courses taught by industry experts, ranging from public speaking, to balancing work and personal life, to data science fundamentals. 
+
+ 
+
+Our Leadership Institute also conducts four leadership development programs tailored to leaders from first-time managers to senior executives. More than 1,000 participants have graduated to date, gaining practical tools to lead themselves, others, and the business. 
+
+ 
+
+We offer competitive salaries, annual merit salary reviews, and the opportunity for advancement. In addition, our program includes an incentive compensation component for eligible job categories, paid time off ("PTO"), flextime and telecommuting options, and a 401(k) program with a 100% company cash match (up to 6%). We also offer health insurance plans, no-cost life insurance equivalent to annual salary (with the option to purchase more), a discounted stock purchase program, a variety of physical, mental, and financial well-being offerings and resources, and more. Details vary by business unit and country.
+
+ 
+
+Employees can also take advantage of our employee networks, grassroots groups that help support diversity-related programs and events and promote an inclusive community. As of 2020, there are eight networks: the Verisk Women's Network, the Verisk Pride Network, the Verisk Veterans and Military Service Members Network, the Verisk REACH Network (dedicated to empowering Black employees), the Verisk Parents Network, the Verisk Unidos Network (promoting awareness of Hispanic and Latinx culture), the Verisk Asian Network, and the Verisk Accessibility Network. 
+
+ 
+
+To support our goal to have a workforce that reflects the diversity of the communities we operate in, our Board of Directors adopted our Statement on Racial Equity and Diversity in 2020. Its purpose is to confront and overcome barriers to individual achievement based on race, ethnicity, gender, sexual orientation, identity, and beliefs. 
+
+ 
+
+We continually strive to encourage collaboration throughout the organization, involve and empower all of our employees, and develop a diverse workforce. Surveys conducted by outside organizations and our annual employee engagement survey measure our progress against these critical metrics. 
+
+ 
+
+In 2020, our employee engagement score rose from 70% to 78%, and for the fifth consecutive year, we received U.S. certification from Great Place to Work® for our outstanding workplace culture. We also received first-time certification in the United Kingdom, India, and Spain. The Great Place to Work Institute is a global authority on high-trust, high-performance workplaces. 
+
+ 
+
+Regulation
+
+ 
+
+Because our business involves the distribution of certain personal, public, and nonpublic data to businesses and governmental entities that make eligibility, service, and marketing decisions based on such data, certain of our solutions and services are subject to regulation under federal, state, and local laws in the U.S. and, to a lesser extent, in foreign countries. Examples of such regulation include the Fair Credit Reporting Act, which regulates the use of consumer credit report information; the Gramm-Leach-Bliley Act, which regulates the use of nonpublic personal financial information held by financial institutions and applies indirectly to companies that provide services to financial institutions; the Drivers Privacy Protection Act, which prohibits the public disclosure, use, or resale by any state’s department of motor vehicles of personal information about an individual that was obtained by the department in connection with a motor vehicle record, except for a “permissible purpose”; and various other federal, state, and local laws and regulations.
+
+ 
+
+Those laws generally restrict the use and disclosure of personal information and provide consumers certain rights to know the manner in which their personal information is being used, to challenge the accuracy of such information, and/or to prevent the use and disclosure of such information. In certain instances, the laws also impose requirements for safeguarding personal information through the issuance of data security standards or guidelines. Certain state laws impose similar privacy obligations as well as obligations to provide notification of security breaches in certain circumstances.
+
+ 
+
+We are also licensed as a rating, rate service, advisory, or statistical organization under state insurance codes in all 50 states, Puerto Rico, Guam, the U.S. Virgin Islands, and the District of Columbia. As such an advisory organization, we provide statistical, actuarial, policy language development, and related products and services to P&C insurers, including advisory prospective loss costs, other prospective cost information, manual rules, and policy language. We also serve as an officially designated statistical agent of state insurance regulators to collect policy writing and loss statistics of individual insurers and compile that information into reports used by the regulators.
+
+ 
+
+Many of our products, services, and operations as well as insurers' use of our services are subject to state rather than federal regulation by virtue of the McCarran-Ferguson Act. As a result, many of our operations and products are subject to review and/or approval by state regulators. Further, our operations involving licensed advisory organization activities are subject to periodic examinations conducted by state regulators; and our operations and products are subject to state antitrust and trade practice statutes within or outside state insurance codes, which are typically enforced by state attorneys general and/or insurance regulators.
+
+ 
+
+Available Information
+
+ 
+
+We maintain an Investor Relations website on the Internet at investor.verisk.com. We make available free of charge on or through this website, our annual, quarterly, and current reports and any amendments to those reports as soon as reasonably practicable following the time they are electronically filed with or furnished to the U.S. Securities and Exchange Commission ("SEC"). For access to the filings, click the “SEC Filings” link on the “Financial Information” tab on our Investor Relations homepage. The contents of our website are not incorporated into this filing. Verisk trades on the NASDAQ Global Market in the Nasdaq Global Select Market segment under the ticker symbol “VRSK.” Our stock was first publicly traded on October 7, 2009.
+
+ 
+
+The public may read any materials filed by Verisk with the SEC on the SEC's Internet site (www.sec.gov), which contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. 
+
+ 
+
+13

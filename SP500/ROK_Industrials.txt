@@ -1,0 +1,79 @@
+
+Item 1.    Business
+General
+Rockwell Automation, Inc. (“Rockwell Automation” or the “Company”) is a global leader in industrial automation and digital transformation. We connect the imaginations of people with the potential of technology to expand what is humanly possible, making the world more productive and more sustainable. Our hardware and software products, solutions and services are designed to meet our customers’ needs to reduce total cost of ownership, maximize asset utilization, improve time to market and reduce enterprise business risk.
+
+2
+Table of Contents
+
+
+
+The Company continues the business founded as the Allen-Bradley Company in 1903. The privately-owned Allen-Bradley Company was a leading North American manufacturer of industrial automation equipment when the former Rockwell International Corporation (RIC) purchased it in 1985.
+The Company was incorporated in Delaware in connection with a tax-free reorganization completed on December 6, 1996, pursuant to which we divested our former aerospace and defense businesses (the A&D Business) to The Boeing Company (Boeing). In the reorganization, RIC contributed all of its businesses, other than the A&D Business, to the Company and distributed all capital stock of the Company to RIC’s shareowners. Boeing then acquired RIC.
+As used herein, the terms “we”, “us”, “our”, “Rockwell Automation” or the “Company” include wholly-owned and controlled majority-owned subsidiaries and predecessors unless the context indicates otherwise. Information included in this Annual Report on Form 10-K refers to our continuing businesses unless otherwise indicated.
+Whenever an Item of this Annual Report on Form 10-K refers to information in our Proxy Statement for our Annual Meeting of Shareowners to be held on February 2, 2021, (the Proxy Statement), or to information under specific captions in Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A), or in Item 8. Financial Statements and Supplementary Data (the Consolidated Financial Statements), the information is incorporated in that Item by reference. All date references to years and quarters refer to our fiscal year and quarters unless otherwise stated.
+Operating Segments
+During fiscal 2020, we had two operating segments: Architecture & Software and Control Products & Solutions. Both operating segments share a common sales organization and supply chain and conduct business globally. Major markets served by both segments consist of discrete end markets (e.g., Automotive, Semiconductor, and Warehousing & Logistics), hybrid end markets (e.g., Food & Beverage, and Life Sciences), and process end markets (e.g., Oil & Gas, Metals, and Chemicals).
+Starting in fiscal 2021, we have three operating segments: Intelligent Devices, Software & Control, and Lifecycle Services. The Intelligent Devices segment includes drives, motion, safety, sensing, industrial components, and configured-to-order products. The Software & Control segment includes control and visualization software and hardware, information software, and network and security infrastructure. The Lifecycle Services segment includes consulting, professional services and solutions, connected services, and maintenance services, as well as the Sensia joint venture.
+Geographic Information
+We do business in more than 100 countries around the world. The largest sales outside the United States on a country-of-destination basis are in China, Canada, Italy, Mexico, the United Kingdom, Germany, and Australia. See Item 1A. Risk Factors for a discussion of risks associated with our global operations.
+Competition
+Our competitors range from large diversified corporations that may also have business interests outside of industrial automation to smaller companies that offer a limited portfolio of industrial automation products, solutions and services. Factors that influence our competitive position include the breadth of our product portfolio and scope of solutions, technology differentiation, domain expertise, installed base, distribution network, quality of hardware and software products, solutions and services, global presence and price. Major competitors include Siemens AG, ABB Ltd, Schneider Electric SA, Emerson Electric Co., Mitsubishi Electric Corp. and Honeywell International Inc.
+Distribution
+In most countries, we sell primarily through independent distributors in conjunction with our direct sales force. In other countries, we sell through a combination of our direct sales force and to a lesser extent, through independent distributors. Approximately 80 percent of our global sales are through independent distributors. Sales to our largest distributor in 2020, 2019 and 2018 were approximately 10 percent of our total sales.
+Employees
+See Item 7. MD&A for information on our employees, including information related to attracting, developing, and retaining highly qualified talent.
+
+3
+Table of Contents
+
+
+
+Raw Materials
+We purchase a wide range of equipment, components, finished products and materials used in our business. The raw materials essential to the manufacture of our products generally are available at competitive prices. We have a broad base of suppliers and subcontractors. We depend upon the ability of our suppliers and subcontractors to meet performance and quality specifications and delivery schedules. See Item 1A. Risk Factors for a discussion of risks associated with our reliance on third party suppliers.
+Backlog
+Our total order backlog consists of (in millions):
+ 
+ 
+September 30,
+ 
+ 
+2020
+ 
+2019
+Architecture & Software
+ 
+$
+283.2
+
+ 
+$
+174.7
+
+Control Products & Solutions
+ 
+1,273.9
+
+ 
+1,194.7
+
+ 
+ 
+$
+1,557.1
+
+
+$
+1,369.4
+
+Backlog is not necessarily indicative of results of operations for future periods due to the short-cycle nature of most of our sales activities. Backlog orders scheduled beyond 2021 were approximately $296 million as of September 30, 2020.
+Environmental Protection Requirements
+Information about the effect of compliance with environmental protection requirements and resolution of environmental claims is contained in Note 17 in the Consolidated Financial Statements. See Item 1A. Risk Factors for a discussion of risks associated with liabilities and costs related to environmental remediation.
+Patents, Licenses and Trademarks
+We own or license numerous patents and patent applications related to our hardware and software products, solutions and services. While in the aggregate our patents and licenses are important in the operation of our business, we do not believe that loss or termination of any one of them would materially affect our business or financial condition. We have received various claims of patent infringement and requests for patent indemnification. We believe that none of these claims or requests will have a material adverse effect on our financial condition. See Item 1A. Risk Factors for a discussion of risks associated with our intellectual property.
+The Company’s name and its registered trademark “Rockwell Automation®” and other trademarks such as “Allen-Bradley®”, “A-B®”, “PlantPAx® Process Automation System™”, and “The Connected Enterprise®” are important to both of our business segments. In addition, we own other important trademarks that we use, such as “ControlLogix®” and “CompactLogix®” for our control systems, “PowerFlex®” for our AC drives, and “Rockwell Software®” and “FactoryTalk®” for our software offerings.
+Seasonality
+Our business segments are not subject to significant seasonality. However, the calendarization of our results can vary and may be affected by the seasonal spending patterns of our customers due to their annual budgeting processes and their working schedules.
+Available Information
+We maintain a website at https://www.rockwellautomation.com. Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and any amendments to such reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (the Exchange Act), as well as our annual reports to shareowners and Section 16 reports on Forms 3, 4 and 5, are available free of charge on this site through the “Investors” link as soon as reasonably practicable after we file or furnish these reports with the SEC. All reports we file with the SEC are also available free of charge via EDGAR through the SEC’s website at https://www.sec.gov. Our Guidelines on Corporate Governance and charters for our Board committees are also available on our website. The information contained on and linked from our website is not incorporated by reference into this Annual Report on Form 10-K.
+

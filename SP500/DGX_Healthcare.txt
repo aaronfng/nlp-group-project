@@ -1,0 +1,662 @@
+Item 1. Business
+
+INTRODUCTION
+
+    Quest Diagnostics Incorporated is the world's leading provider of diagnostic information services. We play a crucial role in the healthcare ecosystem, empowering people to take action to improve health outcomes. Derived from the world's largest database of clinical lab results, our diagnostic insights reveal new avenues to identify and treat disease, inspire healthy behaviors and improve healthcare management. In the right hands and with the right context, our diagnostic insights can inspire actions that transform lives.
+
+    Quest Diagnostics was incorporated in Delaware in 1990; its predecessor companies date back to 1967. We conduct business through our headquarters in Secaucus, New Jersey, and our laboratories, patient service centers, offices and other facilities around the United States and in selected locations outside the United States. Unless the context otherwise requires, the terms “Quest Diagnostics,” the “Company,” “we” and “our” mean Quest Diagnostics Incorporated and its consolidated subsidiaries.
+    
+    The patients we serve comprise approximately one-third of the adult population of the United States annually, and approximately one-half of the adult population in the United States over a three-year period. We estimate that annually we serve approximately half of the physicians and half of the hospitals in the United States.
+
+    During 2020, we generated net revenues of $9.4 billion. Additional financial information concerning Quest Diagnostics for each of the years ended December 31, 2020, 2019 and 2018 is included in the consolidated financial statements and notes thereto in “Financial Statements and Supplementary Data” in Part II, Item 8.
+
+    Our vision, aspirational goals and values are set forth below.    
+
+dgx-20201231_g1.jpg
+
+2
+Table of Contents                                             
+    We believe that our vision, aspirational goals and strategy align very well with, and our strong value proposition supports, the triple aim of healthcare: improving medical quality and the patient experience while reducing the cost of care.
+
+    In 2020, Quest Diagnostics was at the forefront of the response to the COVID-19 pandemic, playing a pivotal role to broaden access to laboratory insights to help people lead healthier and safer lives. We provided both molecular diagnostic and antibody serology tests to aid in the diagnosis of COVID-19 and the detection of immune response to the virus, and performed over 30 million of these tests. Beginning in March 2020, we worked closely with federal, state and local governments, healthcare organizations, payers, suppliers, retailers, trade associations and other laboratories in the effort to bring as much COVID-19 testing as possible to the American people. We also provided data on COVID-19 testing that we conducted to federal, state and local public health authorities, including the federal Centers for Disease Control and Prevention, and participated in studies with government and private institutions, aiding COVID-19 public health response and research. All of our employees, including our dedicated laboratory professionals, phlebotomists, air fleet team, and couriers take tremendous pride in the role we played and worked tirelessly to help patients and communities access quality COVID-19 testing.
+
+    During 2020, we also saw how underserved communities were disproportionately impacted by COVID-19 with tragic consequences. With the Quest Diagnostics Foundation, we launched Quest for Health Equity, a $100 million-plus initiative to reduce health disparities in underserved communities. This multi-year initiative, which will focus on people of color, elderly and homeless populations in locations throughout the United States, will provide a combination of testing services, education programs, alliances and financial support to efforts seeking to find new ways to address health disparities.
+
+    Our approach to fighting the pandemic has been rooted in our vision of empowering better health through diagnostic insights. We believe that the challenges we are facing from the COVID-19 pandemic have brought us together, made us a stronger company and will help us capture the substantial opportunities in front of us.
+
+
+
+
+
+OUR STRATEGY
+
+    We have a two-point business strategy, reviewed by our Board of Directors, to achieve our vision and our goals.
+
+dgx-20201231_g2.jpg
+
+
+
+3
+Table of Contents                                             
+Accelerate Growth
+Our strategy to accelerate revenue growth is based on the Company’s portfolio of services.
+
+Services Portfolio (Table 1)	Activity	Key Characteristics	At A Glance	Quest Value Proposition	General Diagnostics	Testing services generating strong cash flows and steady growth	
+• Routine and non-routine testing services
+• Largest revenue stream
+• Essential portion of healthcare delivery
+• Scale
+• Operational excellence
+• Access and convenience
+Advanced Diagnostics	Testing services targeting faster growth through innovation testing model	
+• Genetic and advanced molecular testing services
+• An important part of precision medicine
+• Innovation-based competitors
+• Rich clinical, scientific and medical innovation expertise
+• Quality and reliability of new assays
+• Ability to manage potential new regulatory requirements	Diagnostic Services	Laboratory and data-related healthcare opportunities targeting faster growth	
+• Enables partners to deliver healthcare more efficiently (e.g., risk assessment; Professional Laboratory Services; Employer Population Health)
+• Services to support population health (e.g., data analytics; extended care services)
+• Extensive diagnostic capability
+• Large and growing database and analytics expertise
+• Partnerships with industry leaders across healthcare landscape 
+
+    
+We have identified the following five approaches to accelerate growth.
+Approaches to Accelerate Growth (Table 2)	
+1. Delivering a compound annual revenue growth rate of more than 2% through accretive, strategic acquisitions
+Plus organic growth through:	
+2. Partnering with health plans, IDNs and other risk bearing entities
+3. Offering the broadest access to diagnostic innovation
+4. Being recognized as the consumer-friendly provider of choice of diagnostic information services
+5. Supporting population health with data analytics and extended care services
+ 
+    
+    1. Growing through acquisitions. We have maintained a strategy since November 2018 to grow revenue each year by more than 2% compound annual growth rate through accretive, strategic acquisitions. Although the merger and acquisition environment significantly slowed in 2020 due to the COVID-19 pandemic, we were able to consummate important acquisitions during 2020. Our approach to acquisitions is discussed below under the heading Deliver disciplined capital deployment.
+
+    2. Partnering with health plans, IDNs and other risk bearing entities. To help accelerate growth, we focus on large opportunities to partner with outside entities. We strengthen our relationships with health plans and increase the volume of our services for their members by driving value with employers and providing strong value propositions for members and clinicians. This includes building an information platform to help health plans manage utilization and population health, and enhancing processes to help health plans keep laboratory testing in network. For example, in 2020 we established a strategic relationship with Anthem to collaborate on a variety of outcomes-based programs designed to create an improved healthcare
+4
+Table of Contents                                             
+experience for consumers and healthcare providers, and we advanced our position with UnitedHealthcare in its Preferred Lab Network.
+
+    We believe that the growing market challenges faced by IDNs, including continued price transparency, cost and utilization pressure, evolving healthcare payment models, capital needs, changing technology and limited resources, provides us with an opportunity to more effectively partner with them as they consider their laboratory testing strategy and will drive demand for our expertise. We have deployed a dedicated health systems team to strengthen our relationships with IDNs, including with respect to their reference testing. We provide reference testing for approximately half of the hospitals in the U.S., and are the leading provider of this testing in the country. In 2020, we logged a record amount of new Professional Laboratory Services business, representing larger and longer term agreements than in the past, and implemented new relationships with, among others, Memorial Hermann Health System, Hackensack Meridian Health, Montefiore Nyack Hospital and Goshen Hospital.
+ Our industry-leading Professional Laboratory Services suite of solutions help IDNs build and execute their laboratory strategy, improve quality, reduce the cost of care and focus on core competencies.	Key Professional Laboratory Services Offerings (Table 3)	Lab management outsourcing	Advanced data solutions	Joint venture	Reference testing, including advanced diagnostics	Outreach acquisition	Supply chain management and purchasing	Test menu optimization and spend consolidation	Blood utilization management 
+
+    3. Offering the broadest access to diagnostic innovation. Our diagnostic solutions deliver high clinical value to the medical community nationwide. We create value through scientific and product innovation and solution delivery for major clinical opportunities. Starting with a clinical focus on a specific disease state or clinical problem, we take advantage of advanced technology for more precise, comprehensive and actionable information, and deliver the information to the medical community in a meaningful way. We make innovative diagnostic solutions available to community physicians through our connectivity solutions, operational footprint and by making complex results actionable. We plan to expand our innovative diagnostic solutions through research and development, as well as partnerships with academic institutions, other technology and healthcare leaders and public health agencies. In 2020, our approach delivered numerous innovations, including those discussed below under the headings "Innovation" (page 9), "Collaboration" (page 10), "Medical and Scientific Expertise" (page 10) and "Health Information Technology Solutions and Information Assets" (page 10).
+Our clinical franchises enable us to perform like a boutique while maintaining our scale advantages, and work with our research and development and commercial organizations to identify/deliver new and improved solutions.	Clinical Franchises (Table 4)	Cardiovascular, Metabolic and Endocrinology	Cancer Diagnostics	General Health and Wellness	Drug Monitoring and Toxicology	Infectious Diseases and Immunology	Sports Science and Human Performance	Neurology	Women’s and Reproductive Health 
+
+    The performance in 2020 of our Infectious Disease and Immunology franchise, which was leading our COVID-19 pandemic response, is an example of the power of our franchises.
+
+    4. Being recognized as the consumer-friendly provider of choice of diagnostic information services. We are focused on the consumer. The Company has a long history of focusing on consumer interests, and continues to focus on improving the consumer experience, including through improved digitization and other enhancements of our operations. Examples of our strong consumer focus during 2020 include the strong growth in our QuestDirectTM consumer-initiated testing and establishing special hours at our patient service centers for non-COVID-19 testing to accommodate the needs of older and highly vulnerable patients. Our industry-leading Net Promoter Scores reflect our consumer focus.
+
+5
+Table of Contents                                             
+Increasing consumer expectations inform our design for our consumer experience.	Consumer-Centric Initiatives (Table 5)	Consumer reminders	• Consumers whose physicians have ordered a test for them electronically can receive email reminders to complete the test.
+
+• Consumers who have made appointments can receive appointment reminders via text messaging.	Enhanced consumer experience	• Electronic check-in at patient service centers.
+
+• Improved on-line pre-registration and appointment scheduling.
+
+• Real-time payment determination for payers.	Convenient access	• Partnerships with Walmart and Safeway to expand convenient access to testing services at select Walmart and Safeway locations across the United States (>200 locations at year end).	Consumer-initiated testing	
+• QuestDirectTM, our consumer-initiated testing service, is available in nearly all states.
+
+• Consumers can choose from test packages (e.g., general health, men's and women's health, digestive health, heart health, infectious disease, sexually transmitted disease), which expanded in 2020 to include testing for COVID-19 with at-home specimen collection.
+Consumer connectivity and access to information	
+• >14.5 million registered users in our MyQuest® health portal and mobile connectivity solution.
+
+• During 2020, partnered with The Commons Project to make Quest lab results available for Android users through the CommonHealth app.
+
+• MyQuest® supports Health Records using the Apple Health app.
+
+• Using MyQuest,® consumers can manage healthcare for a group of individuals.
+Expanded access to basic healthcare services	• Partnership with Walmart to expand access to basic healthcare services.	Self-collection technology	• Proprietary, consumer-friendly self-collection technology offered to consumers at home.	Consumer satisfaction	• We are measuring consumer satisfaction, including Net Promoter Score based on experience at our patient service centers. 
+
+    5. Supporting population health with data analytics and extended care services. We support population health by offering services (e.g., home-based health risk assessments and related services) designed to identify gaps in care in a population, provide clinical solutions to close the gaps and foster consumer engagement with a solution. Our services help healthcare providers, health plans, sponsors and IDNs deliver better care to their patient populations by identifying and filling gaps in care for their patient populations and by enabling them to deliver the most effective healthcare to the right populations and individuals. Our offerings leverage the power of our assets and capabilities (e.g., call centers; patient service centers; and mobile workforce, including professionals) and integrate our extensive clinical data, and include data analytics and extended care services. For example, Quest Lab StewardshipTM employs machine learning to help optimize laboratory test utilization.
+
+
+
+
+6
+Table of Contents                                             
+Drive operational excellence
+    
+We strive to enhance operational excellence and improve our quality and efficiency across every portion of our value chain and operations, from the time that we interact with a potential customer until the time we receive payment.	Major Themes to Drive Operational Excellence (Table 6)	Reduce denials and patient concessions	Standardize and automate	Digitize the customer experience	Optimize 
+    
+    Improving our operations will yield many benefits, including: enhancing customer experience; improving our quality and competitiveness; strengthening our foundation for growth; and increasing employee engagement and shareholder value. We are building a superior experience, at lower cost, for all of our customers, including consumers, health plans, IDNs and clinicians. We endeavor to improve our processes and effectiveness at the same time. We are guided by a service dashboard that focuses throughout our operations on quality for consumers, healthcare providers and employees, including medical quality, on-time delivery, competitive costs and employee safety.
+
+    During 2020, our focus on and strength in operational excellence enabled us to rapidly scale up COVID-19 testing capacity without sacrificing our other test offerings. We also made strong progress on our improvement initiatives. For example, we continued (i) consolidating and simplifying our immunoassay platforms, moving to a single supplier to provide greater throughput, autonomy and a more efficient footprint and (ii) optimizing our lab network through investments in our new 250,000 square foot flagship laboratory in Clifton, New Jersey, which we opened early in 2021 and will provide greater capacity, increased throughput and improved productivity.
+
+    Our cost excellence program, Invigorate, includes structured plans to drive savings and improve performance across the value chain, including in such areas as revenue services, information technology and procurement. We currently aim annually to save approximately 3% of our costs. In 2020, we achieved our goal; our Invigorate program delivered approximately $200 million of cost savings.
+
+
+OUR STRENGTHS
+
+We offer high value diagnostic information services and diagnostic solutions that are attractive to our customers.	Our Strengths (Table 7)	Quality	Strong Operating Principles	Assets and Capabilities to Deliver Value	Health Information Technology Solutions and
+Information Assets	Innovation	Medical and Scientific Expertise	Collaboration	Customer Focus 
+
+    Quality
+
+    Our goal is to provide every patient with services and products of superior quality. We strive to accomplish that through commitment, leadership, and establishing rigorous processes which we measure and continually seek to improve, and by using the Quest Management System, which provides best-in-class business performance tools to create and implement effective and sustainable quality processes. The Quest Diagnostics Quality Program includes policies and procedures to document, measure and monitor the effectiveness of our laboratory operations in providing and improving quality and meeting applicable regulatory requirements. The Quality Program is designed so that the quality of laboratory services is monitored objectively and evaluated systematically to deliver superior quality care, identify opportunities to improve patient care and resolve identified problems. To help achieve our goal of becoming recognized as the undisputed quality leader in the diagnostics information services industry, we have implemented our Quality System Framework, which serves as a reference
+7
+Table of Contents                                             
+guide for our employees and describes our Quality System Elements, which provide the structure for each laboratory to achieve and maintain quality processes. We also have a robust Supplier Quality Program designed to ensure we have a high quality supplier network and to raise the bar of quality expectations across that network. Being chosen by UnitedHealthcare as a participant in the UnitedHealthcare Preferred Lab Network reflects the strength of our quality. For additional information about our commitment to quality, see "General - Quality Assurance" on page 24.
+
+    Strong operating principles
+
+    We have a foundation of three strong operating principles:
+
+•strengthen organizational capabilities;
+•remain focused on diagnostic information services; and
+•deliver disciplined capital deployment.
+
+    Strengthen organizational capabilities. We continuously strive to strengthen our organizational capabilities to support our two-point strategy, enable growth and productivity, better focus on our customers, speed decision-making and empower employees. Highlights include:
+
+•Align for Growth, Execution and Efficiency. Our organization is designed to align around future growth opportunities, coordinate business units for seamless execution and leverage our company-wide infrastructure to gain more capability, value and efficiency. We relied on this organizational design to allow us to develop a coordinated and sustained strategy to respond to the unprecedented challenges we face responding to the COVID-19 pandemic. The value creation side of our business includes product and commercial marketing and is organized by clinical franchise and focuses on customer solutions for the marketplace, including new test development and diagnostic insights. The value delivery side includes sales, laboratory operations, field operations, logistics and client services.
+
+•Quest Management System. This system provides a foundation for day-to-day management, and includes best-in-class business performance tools to help develop new capabilities to improve our Company. The system enables us to run the Company with a common language, approach and philosophy, and supports our efforts as we build a high-performance culture, with employees focused on behaviors to make us more agile, transparent, customer-focused, collaborative and performance oriented.
+
+    Remain focused on diagnostic information services. We maintain a sharp focus on providing diagnostic information services.
+
+    Deliver disciplined capital deployment. Our disciplined capital deployment framework includes investment in our business, dividends and share repurchases. The framework is grounded in maintaining an investment grade credit rating. We expect to return a majority of our free cash flow to investors through a combination of dividends and share repurchases. Consistent with that expectation, in February 2021 we announced that we increased our quarterly common stock cash dividend by approximately 11%, from $0.56 per common share to $0.62 per common share. This represents our tenth increase in the dividend since 2011. For many years, we have maintained a common stock repurchase program. Since the beginning of 2013, we have returned approximately $3.4 billion to stockholders through repurchases of our common stock. Our share repurchases, dividends and capital expenditures in each of the last three years are presented in our consolidated financial statements (Part II, Item 8 of this Report). For most of 2020, we suspended our share repurchase program due to the challenges and uncertainty associated with the COVID-19 pandemic.
+
+    The Company's strategy includes generating growth through value-creating, strategically-aligned acquisitions using disciplined investment criteria. We screen potential acquisitions using guidelines that assess strategic fit and financial considerations, including value creation, return on invested capital and impact on our earnings. In 2020, we consummated the acquisition of Blueprint Genetics, acquired substantially all the operations of Memorial Hermann Diagnostics Laboratories, the outreach laboratory division of Memorial Hermann Health System, and acquired from our joint venture partners the remaining 56% interest in Mid America Clinical Laboratories, LLC. Our material acquisitions in each of the last three years are further discussed in Note 6 to the audited consolidated financial statements (Part II, Item 8 of this Report).
+
+    We will continue to invest in our business in a disciplined manner, including focusing on enhancing our solid foundation of strategic assets and capabilities, accelerating growth and driving operational excellence. Our near-term investments in growth are likely to focus on the strategies to accelerate growth set forth in table 2 above. Our near-term
+8
+Table of Contents                                             
+investments to drive operational excellence are likely to focus on improving the customer experience and gaining efficiency, systems standardization, digital enablement of our processes and footprint optimization.
+
+    Assets and capabilities to deliver value
+We use our unmatched size, scale and capabilities to deliver a very attractive value proposition to our customers.	Assets and Capabilities (Table 8)	Connectivity	
+● Provide healthcare connectivity solutions to >406,000 clinician and hospital accounts and interface with approximately 760 electronic health records systems
+Data	
+● The largest private database of de-identifiable laboratory test results: >56 billion patient data points
+Logistics	
+● Strong logistics capabilities
+• make approximately 72,000 stops daily
+• approximately 4,000 courier vehicles
+• 24 aircraft serving the U.S.
+
+Medical and Scientific Staff
+● One of the largest medical and scientific staffs in the industry to provide interpretive consultation
+• >600 M.D.s and Ph.Ds, many of whom are recognized leaders in their field
+• Genetic counselors
+
+Other Healthcare Professionals
+● Approximately 23,000 phlebotomists, paramedics, nurses and other health and wellness professionals
+
+Consumer Access
+● >6,850 patient access points, including phlebotomists in physician offices and the most extensive patient service center network in the U.S. with >2,200 locations
+Health Plan Participation
+● Access to approximately 90% of U.S. insured lives
+
+Processing Volume
+● Processed approximately 187 million test requisitions in 2020
+
+Range of Testing
+● Industry-leading test menu across clinical sub-specialty areas and diagnostic technologies
+
+Patents
+● Own or control approximately 1,100 issued and 450 pending patents worldwide in 2020
+
+ 
+
+    Innovation
+
+    We are a leading innovator in diagnostic information services. We develop and introduce new tests, including many with a focus on personalized and targeted medicine, and new services. Our capabilities include discovery, technology development and clinical validation of diagnostic tests. We also partner with other developers of new technologies, services and tests to transfer their innovations to the marketplace, using our in-house expertise (e.g., strength in assay development and commercialization of testing services). These developers include large commercial manufacturers, the academic community, pharmaceutical and biotechnology firms, emerging medical technology companies and others that develop and commercialize novel diagnostics, pharmaceutical and device technologies. We maintain relationships with advisers and consultants who are leaders in key fields of science and medicine. As the industry leader with the largest and broadest U.S. network, we believe we are the distribution channel of choice for developers of new solutions.
+
+    We seek innovations and solutions that help healthcare providers care for their patients through better testing for predisposition, screening, monitoring, diagnosis, prognosis and treatment choices, and that will reduce the overall cost of healthcare. We seek to develop innovations and solutions that help to determine a patient's genotype or gene expression profile relative to a particular disease and its potential therapies, because they can help healthcare providers to determine a patient's susceptibility to disease or to tailor medical care to an individual's needs. This would include determining if a medication might be an optimum choice for a particular person, or tailoring the right dosage once the proper medicine is prescribed. We endeavor to improve test processes, including through increased automation. In addition, we aim to develop holistic solutions responsive to challenges that healthcare providers and patients face, by developing solutions of tests, information and services focused on specific clinical challenges, and taking advantage of the latest informatics capabilities. We also look for innovations and solutions that are less invasive than currently available options, to increase the choices that healthcare providers and patients have for the collection of diagnostic samples. We additionally seek innovation in the ways we bring solutions to customers, and in the customer experience, including enhanced services and end-to-end solutions for convenience and support. Further, we
+9
+Table of Contents                                             
+seek innovative solutions to other challenges related to diagnostics information services faced by IDNs, health plans and other healthcare market participants.
+
+    In 2020, we secured Emergency Use Authorization from the FDA for pooled specimen testing in connection with molecular diagnostic COVID-19 testing. We also developed and launched new test offerings to educational institutions, such as colleges and universities, to help facilitate the return to classrooms. In addition, we launched automated next generation genetic sequencing, which will enable genetic screening faster and at much lower cost. With government and private sector partners, we developed and built "pop-up" COVID-19 testing sites that offered a new, efficient model for consumer access to testing. These initiatives, along with other 2020 developments highlighted below under the headings "Collaboration," Medical and Scientific Expertise," and "Healthcare Information Technology Solutions and Information Assets," demonstrated our strength in innovation during 2020.
+
+    Collaboration
+
+    We believe that strategic relationships, including with healthcare providers, public health authorities, consumer-focused entities and others, can position us for growth at the center of healthcare and that healthcare companies that can partner effectively with others will be successful in the long term. We collaborate with partners that can help us to achieve our vision of empowering better health through diagnostic insights and have relationships across the spectrum of healthcare, including with world class healthcare and consumer-focused leaders, to foster important advances in healthcare, including in precision medicine and healthcare delivery. We plan to continue to pursue strategic relationships to help accelerate growth and drive operational excellence. Our collaborations with CVS Health, Walmart and other partners regarding expanding access to COVID-19 testing during 2020 demonstrate this strength.
+
+    Medical and Scientific Expertise
+
+    We have strong medical and scientific expertise and aspire to be a trusted authority in diagnostic medicine, provide insights and tools to support public and personal health, lead and facilitate scientific discussion and inspire innovation. Our medical and scientific experts regularly provide presentations, symposia and webinars regarding diagnostic testing and participate on scientific committees determining guidelines for diagnostic usage. They also publish research that demonstrates the clinical value and importance of diagnostic testing, including in connection with our research and development efforts, in peer-reviewed journals, textbooks and other publications. For over 30 years, the Company has published the Quest Diagnostics Drug Testing Index,TM a series of reports on national workplace drug positivity trends based on the Company's employer workplace drug testing data, that is widely cited by employers, the federal government and the media to help identify and quantify drug abuse among the nation's workforce. The Company also publishes Quest Diagnostics Health Trends,TM a series of scientific reports that provide insights into health topics, based on analysis of objective clinical laboratory data, to empower better patient care, population health management and public health policy. Our role at the forefront of the response to the COVID-19 pandemic demonstrated this strength. We secured numerous Emergency Use Authorizations from the FDA for innovations in connection with COVID-19 testing and specimen collection, including regarding unobserved nasal specimen self-collection, combined COVID-19 and respiratory virus tests, COVID-19 testing ordered by consumers, and methods to increase testing capacity and expand the testing supply base. We also published over ten Health Trends reports on COVID-19 during 2020, including reports addressing the "hidden pandemic": reduced hemoglobin A1c diabetes monitoring as a consequence of the COVID-19 pandemic; a 46% decrease in newly identified cancer patients during the COVID-19 pandemic; and drug testing decreased by as much as 70%, while drug positivity rates increased (e.g., 35% increase for non-prescribed fentanyl; 44% increase for heroin), during the COVID-19 pandemic.
+
+    Health Information Technology Solutions and Information Assets
+
+    We have a history of providing leading information technology for diagnostic information services, including for patients, clinicians and healthcare organizations. We were the first national diagnostic information services provider to offer online patient appointment scheduling and a patient connectivity solution. Our MyQuest® patient healthcare portal, with over 14.5 million registered users at year-end 2020, enables patients to manage healthcare and medical information for themselves and a circle of others and, among other things, use their smartphone or computer to order a test, find a Quest Diagnostics location, schedule appointments, receive appointment reminders, and receive and archive their test results. During 2020, we collaborated with CLEAR to integrate CLEAR's safe and secure "Health Pass" technology with the Company's advanced COVID-19 testing capabilities to foster safer public environments and help reduce public health risk. We also are a founding member of the Synaptic Healthcare Alliance, which is working to create a platform, powered by blockchain technology, that enables a culture of innovation, removes friction and solves shared challenges impacting constituents across healthcare today.
+
+10
+Table of Contents                                             
+    We also have significant information assets and offer a robust portfolio of powerful analytics that inspire action and deliver value to an array of customers. We offer an array of Quanum® solutions based on data insights, including retrospective analytics solutions for healthcare professionals and practices, health plans, IDNs, pharmaceutical companies and public health. We believe that solutions can tap the potential of large amounts of clinical information to: enhance the customer experience; deliver more precise, comprehensive solutions and actionable information; provide increased and interactive insights and analytics; foster greater adherence to clinical and reimbursement guidelines; and advance the development of precision medicine. We believe that the breadth and depth of our data, combined with our powerful analytics capabilities, enables us to take advantage of important data-based opportunities in diagnostics, and provides us a competitive advantage.
+
+    Customer Focus
+
+    Our brand -- Action from Insight® -- reflects our commitment to a superior customer experience. The customer is at the center of everything we do; we strive to give them reason to put their trust in us.  We use customer insights in developing our approach, listening to the voice of customers to identify and implement solutions and processes that will result in a superior customer experience.  We also maintain our Everyday Excellence program, which includes guiding principles to support a superior customer experience, inspiring our employees to be their best every day, with every person and with every customer interaction.
+
+BUSINESS OPERATIONS
+
+    The Company is made up of two businesses: Diagnostic Information Services and Diagnostic Solutions. Our Diagnostic Information Services business develops and delivers diagnostic information services, providing insights that empower and enable a broad range of customers, including patients, clinicians, hospitals, IDNs, health plans, employers, ACOs and DCEs. Our Diagnostic Solutions group includes our risk assessment services business, which offers solutions for insurers, and our healthcare information technology businesses, which offers solutions for healthcare providers. Our services primarily are provided under the Quest Diagnostics brand, but we also provide services under other brands, including AmeriPath,® Dermpath Diagnostics,® ExamOne,® and Quanum.®
+
+    We are the leading provider in the United States, where we conduct substantially all of our business, of clinical laboratory and anatomic pathology testing, and related services. We see opportunities to bring our experience and expertise in diagnostic information services to markets outside the United States, including leveraging existing facilities to serve new markets. We have laboratory facilities in Mexico and Puerto Rico. We are a founding member, with other leading diagnostic laboratories outside the United States, of the Global Diagnostics Network,TM a strategic working group of diagnostic laboratories committed to unleashing and sharing local innovation to increase global access to diagnostic science, information and services and generating enhanced diagnostic insights to improve the delivery of global healthcare. During 2020, COVID-19 was a key focus area for the Global Diagnostics Network, as members shared experiences and best practices regarding COVID-19 testing.
+
+dgx-20201231_g3.jpg
+11
+Table of Contents                                             
+Diagnostic Information Services    
+
+    Background - clinical testing. Clinical testing is an essential element in the delivery of healthcare services. Clinicians use clinical testing for predisposition, screening, monitoring, diagnosis, prognosis and treatment choices of diseases and other medical conditions. Clinical testing is generally categorized as clinical laboratory testing and anatomic pathology services. Anatomic pathology involves the diagnosis of cancer and other diseases and medical conditions through examination of tissue and cell samples taken from patients.
+
+    Clinical laboratory testing, which can be characterized as routine, non-routine or advanced, generally is performed on whole blood, serum, plasma and other body fluids, such as urine, and specimens such as microbiology samples. Clinical laboratory tests which can be performed by most clinical laboratories are considered routine. Routine testing measures various important bodily health parameters such as the functions of the kidney, heart, liver, thyroid and other organs. Commonly ordered routine tests include blood chemistries, urinalysis, allergy tests and complete blood cell counts. Non-routine tests may require professional “hands-on” attention from highly-skilled technical personnel, generally require more sophisticated informatics, technology, equipment or materials, may be performed less frequently than routine tests and may be reimbursed at higher levels than routine tests. It may not be practical, from a cost-effectiveness or infrastructure perspective, for many hospitals, IDNs, ACOs, DCEs, commercial laboratories or physician office laboratories to develop and perform a broad menu of non-routine tests, or to perform low-volume non-routine testing in-house. Such tests generally are outsourced to a clinical testing laboratory which can perform these non-routine tests. Some non-routine tests are advanced. Advanced tests include procedures in the areas of molecular diagnostics (including next-generation sequencing), oncology, neurology, companion diagnostics and non-invasive pre-natal and other germline genetic testing.
+
+    Our services. We are the world's leading provider of diagnostic information services. We provide information and insights based on the industry-leading menu of routine, non-routine and advanced clinical testing and anatomic pathology testing, and other diagnostic information services. We have strong testing capabilities, including services for the predisposition, diagnosis, treatment and monitoring of cancers and other diseases, and offer advanced tests in many fields, including endocrinology, immunology, neurology and oncology. Increasingly, we are focused on providing solutions and insights to our customers, based on the testing that we perform, the data that we gather and our extensive medical, information and connectivity assets. We believe that offering services, solutions and insights based on a full range of tests, information assets and other capabilities strengthens our market offering, market position and reputation.
+
+    We offer the broadest access in the United States to clinical testing. We maintain a nationwide network of laboratories, including advanced laboratories (such as our world-renowned Quest Diagnostics Nichols Institute®) as well as rapid response laboratories (smaller facilities where we can quickly perform an abbreviated menu of routine tests for customers that require rapid turnaround times). We operate 24 hours a day, 365 days a year. Our nationwide network also includes patient service centers, phlebotomists in physician offices, and our connectivity resources, including call centers and mobile paramedics, nurses and other health and wellness professionals. Our large in-house staff of medical and scientific experts, including medical directors, scientific directors, genetic counselors and board certified geneticists, provide medical and scientific consultation to healthcare providers and patients regarding our tests and test results, and help them best utilize our services to improve outcomes and enhance satisfaction. We also provide testing (including anatomic pathology) services and medical director services at hospital laboratories.
+
+     We are a leading provider of diagnostic information services for infectious disease, such as COVID-19 (including molecular diagnostic and serology antibody offerings), tuberculosis (e.g., our T.SPOT.TB and Quantiferon offerings) and tick-borne disease (e.g., our Accutix® offering). We strive to be the first to provide diagnostic solutions for emerging infectious diseases (e.g., our offerings for Zika, West Nile Virus, SARS and Influenza A H1N1). We have leading positions in drug monitoring and toxicology, in neurology diagnostics, in advanced cardiovascular diagnostic information services (e.g., our CardioIQ® and Cleveland HeartLab® offerings), and in cancer diagnostics (e.g., our QuestVantage® and Med FusionTM offerings). We are a leader in providing testing for the detection of employee use of drugs of abuse, offering a full range of solutions, including urine, hair, blood and oral fluid tests. We are the largest workplace drug testing provider certified by the U.S. Department of Health and Human Services to perform drug testing using electronic custody and control forms for federally-mandated, safety-sensitive workers.
+
+12
+Table of Contents                                             
+    We are a leading provider of employer population health services, including biometric screenings, flu shots and related preventative services that leverage clinical data to improve population health outcomes and reduce healthcare spend. Our solutions enable employers to leverage screening insights to identify chronic disease risks, connect employees to needed in-network care, and empower better health. Our offerings include connecting participants to the right care at the right time, such as (i) a program designed to prevent diabetes and other chronic conditions, (ii) a program that enables participants to engage with a board-certified physician about their results and to be guided about actions based on those results and (iii) a mental health assessment program that links participants to virtual support. These services are sold directly to employers and through reseller partnerships with health plans. During 2020, in response to the COVID-19 pandemic, we developed and offered to employers COVID-19 Return to Work services, to assist organizations develop plans for safer workplaces. We also collaborated with Catapult Health, the leading national provider of employer-sponsored preventative checkups, to help organizations facilitate virtual telehealth access to clinical services for their employees and adult dependents, with emphasis on reducing risks related to preventable chronic diseases.
+
+    We offer Quanum® health information technology solutions, including our products and national healthcare provider network, to help healthcare organizations and clinicians empower better health by leveraging the power of our significant information assets, including many years of test result data, and our technology prowess, including our history of providing leading information technology for diagnostic information services. Our portfolio of offerings is designed to address analytic, clinical and financial needs. The solutions help healthcare organizations and clinicians analyze and put in context data, and enable them to connect across the healthcare system and engage with their stakeholders. They can enter, share and access clinical information without costly information technology implementation or significant workflow disruption.
+
+    We offer an array of population health solutions. Our services build on the power of our information assets and data capabilities and help clinicians, health plans, sponsors and IDNs deliver better care to their patient populations by identifying gaps in care in a population, providing clinical solutions to close the gaps and fostering consumer engagement with a solution. Our extended care services, including home-based health risk assessments and related services, leverage our assets and capabilities (e.g., call centers, patient service centers and mobile workforce, including professionals) and focus on extending the reach of clinician offices beyond their traditional four walls to assess the health of their populations, and doing so when and where it is convenient for consumers. Once gaps are identified, we engage patients in our retail sites, in home or by telephone, including through our call centers and our mobile base capabilities, including highly-trained healthcare professionals. We also offer services such as diabetic retinopathy and bone density examinations.
+
+    We offer services to pharmaceutical companies, including clinical trials testing. We have expertise in developing laboratory tests for FDA submission as companion diagnostics and laboratory developed tests for complementary diagnostics, and offer an array of assets and services to support the development of companion diagnostics, including our robust data set and patient services network. We also offer Quest Clinical Trials ConnectTM to help accelerate clinical trials (and thus the speed of drugs to market) through better patient recruitment, involvement and management, and improved physician outreach.
+
+    We also offer sports teams, including at the professional and collegiate levels, our BluePrint for Athletes® performance tools, based on biomarker testing, designed to optimize high-level athletic performance through actionable insights. This service provides the context for athletes to consider performance variables holistically, including nutritional education and intervention, maximum fitness, injury assessment and training load monitoring as well as sophisticated biometric analysis. During 2020 we also expanded our test offerings for athletes to include COVID-19 testing, to foster the country's return to athletic fields.
+
+Diagnostic Solutions
+
+    We are the leading provider of risk assessment services for the life insurance industry. In addition, we offer healthcare organizations and clinicians robust health information technology solutions.
+
+    Risk Assessment Services. ExamOne® is the largest provider of risk assessment services to the life insurance industry in North America. Our risk assessment services comprise underwriting support services, including data gathering, paramedical examinations and clinical laboratory testing and analytics, designed to assist life insurance companies objectively to evaluate the mortality risks of applicants. Most specimen collections and paramedical examinations are performed by our network of paramedical examiners at the applicant's home or workplace, but they also are offered at hundreds of Company patient service centers and hundreds of additional North American locations.
+
+13
+Table of Contents                                             
+    Healthcare Information Technology. Our healthcare information technology offerings, including Quanum® Practice Solutions, our Electronic Health Record, Practice Management and Revenue Cycle Management Solutions for healthcare providers, and our award-winning Quanum® Enterprise Content Solutions for hospitals and IDNs, connect data to decision-making and help clinicians advance clinical and operational strategies. Healthcare organizations have contracted for the use of Quanum® Enterprise Content Solutions at over 375 sites in North America. Our Quanum® Electronic Health Record is a cloud-based, mobile-accessible offering that enables clinicians to generate a complete record of a clinical patient encounter, automates and streamlines the clinician's workflow, provides clinical decision support tools, captures patient encounter notes and lab and radiology results and enables secure communication with patients and other clinicians.
+
+Other
+
+    Q2 Solutions,® our joint venture with IQVIA Holdings Inc., is the second largest central laboratory services company in the world and provides services to customers across all segments of the biopharmaceutical industry. Central laboratory testing services are critical to advances in genomics, precision medicine and drug development. We own a minority interest in Q2 Solutions, which has helped develop many of the oncology precision medicine drugs approved by the FDA in recent years.
+
+THE CLINICAL TESTING INDUSTRY
+dgx-20201231_g4.jpg
+    Our estimate in table 10 does not include the impact of COVID-19 testing.
+
+Key Trends
+
+    The healthcare system in the United States is evolving; significant change is taking place in the system. We expect that the evolution of the healthcare industry, including impacts of the COVID-19 pandemic, which include the increased adoption of telemedicine, will continue, and that industry change is likely to be extensive. There are a number of key trends that are having, and that we expect will continue to have, a significant impact on the diagnostic information services business in the United States and on our business. These trends, discussed in the table below, present both opportunities and risks. We believe that several of the trends, including consolidation, price transparency and consumerization, are favorable to our business.
+
+14
+Table of Contents                                             
+    Because diagnostic information services is an essential healthcare service and because of the key trends discussed below, we believe that the industry will continue to grow over the long term. In addition, we believe that the clinical testing market continued with fundamental changes in 2020. First, we believe that PAMA-driven reimbursement pressure is negatively impacting access to care and hurting the clinical testing industry, and remains a catalyst for structural change in the market. Second, we believe that health plans increasingly are focusing on driving better value in laboratory testing services. Third, we believe that ongoing consumerization in healthcare, with increased cost being borne by consumers, is sharpening focus on price disparities. We believe that these changing market fundamentals will benefit low-cost, high-value providers like Quest and that we are well positioned to grow from the changing market conditions and benefit from the long-term growth expected in the industry.
+Key Trends (Table 11)	PAMA-driven reimbursement pressure	Pursuant to PAMA, reimbursement rates for many clinical laboratory tests provided under Medicare were reduced in 2018, 2019 and 2020. PAMA calls for further revision of the Medicare Clinical Laboratory Fee Schedule for years after 2020, based on future surveys of market rates; reimbursement rate reduction from 2022-24 is capped by PAMA at 15% annually.
+
+The LAB Act provided an opportunity for reforms to PAMA by delaying PAMA's next data collection and reporting period until January 1, 2021 and by ordering a study to determine ways to improve future collection of more representative market rate data under PAMA. The CARES Act, adopted in early 2020 in response to the COVID-19 pandemic, suspended the PAMA reimbursement rate cuts that had been scheduled for 2021 and delayed PAMA's next data collection and reporting period until January 1, 2022.
+
+The American Clinical Laboratory Association, of which the Company is a member, initiated a lawsuit charging that in implementing PAMA, CMS failed to follow a Congressional directive to implement a market-based laboratory payment system. The lawsuit is pending.
+
+We believe that PAMA is negatively impacting participants in the laboratory testing industry generally, including hospitals as well as independent clinical laboratories.
+Health plans driving value in lab spending	
+Hospitals, which provide outreach testing and may encourage clinicians to send their outreach testing volume to the hospital's laboratory, historically were able to negotiate higher reimbursement rates with health plans than commercial clinical laboratories for comparable services. In addition, health plans generally reimburse non-participating laboratory testing providers at higher out-of-network rates. We are finding increased interest among health plans in driving better value in spending for laboratory testing. Health plans increasingly are taking steps to encourage the movement of testing volume to high value, low cost providers like our Company, including by identifying preferred provider partners, plan design changes (e.g., zero-dollar out-of-pocket costs for members using preferred providers) and better aligning reimbursement rates for hospital-based providers and independent commercial laboratories. The UnitedHealthcare Preferred Lab Network, in which we were chosen to participate, is a recent example of a health plan taking these steps.
+
+Health plans also are increasingly adopting policies, practices and procedures based on requirements imposed by government payers such as Medicare and Medicaid. These policies, practices and procedures are subject to change, and may be changed without notice to us.
+Consumerization	
+Consumers are our customers. Increasingly, consumers are engaged in their own healthcare, being empowered to understand and manage their healthcare. Consumers are taking increased interest in and responsibility for their healthcare, their expectations of healthcare providers are increasing and they are becoming more sophisticated regarding healthcare. Some patients are interested in selecting their own diagnostics tests, rather than relying upon a healthcare professional to select the tests. In addition, consumers often are bearing increased financial responsibility for their healthcare (e.g., high deductible health plans; rising deductibles). In our experience, consumers are more focused on transparency, ease of doing business and understanding diagnostics information services than they have been in the past. Consumers increasingly are demanding convenience; a superior and personalized experience relevant to their needs; and to be empowered to make their own healthcare decisions. During the COVID-19 pandemic, we saw consumers increase their use of telemedicine capabilities, increase their responsibility for their own healthcare (e.g., increased consumer-initiated testing; increased specimen self-collection) and increase their openness to new delivery channels (e.g., retail; convenient "pop-up" test centers). In addition, consumers are seeking prompt, direct access to their test results. Increasingly, consumers are motivated to find high quality service providers with strong digital experience delivery engines, accessible customer service and low prices, like our Company.
+Prevention and wellness	We believe that the value of detection, prevention, wellness and personalized care is well recognized. Consumers, employers, ACOs, IDNs, health plans and government agencies increasingly focus on helping the healthy stay healthy, detecting symptoms among those at risk and providing preventive insight and care that helps avoid disease. 
+15
+Table of Contents                                             
+Medical innovation	
+Medical advances allow for more accurate and earlier diagnosis and treatment of diseases.
+
+Continuing advances in genomics and proteomics are expected to yield new, more sophisticated and specialized diagnostic tests. These advances also are spurring interest in and demand for precision medicine, which relies on diagnostic and prognostic testing and in which data information services and strategies are used to deliver the most effective healthcare to the right populations and individuals.
+
+Pharmacogenomic testing increasingly is used as a parameter to help speed drug approval processes and to better focus therapy based on patient and tumor-specific genetic markers.
+
+Demand also is growing toward comprehensive care management solutions that serve patients, payers and healthcare providers by improving clinical decision support and access to patient data, and by increasing patient participation in care management and population health management.
+
+Innovation also includes making healthcare services, including laboratory testing services, more convenient for populations and consumers to access, including at home (e.g., telehealth) or in retail settings.
+
+There is increasing focus on access to patient data and data-driven insights.
+Healthcare industry evolution	
+Clinicians, health plans, IDNs, ACOs, employers and others, have been consolidating, converging and diversifying. For example, a number of hospital systems are considering establishing or have established health insurance plans, and health insurance plans are considering providing or are providing healthcare services. In recent years, a leading provider of retail medical clinics and pharmacy benefits management services has acquired a leading health insurance provider, a leading health insurance provider has acquired a leading pharmacy benefits manager, and the corporate parent of a leading health insurance company provides a wide array of healthcare services through its non-insurance company subsidiaries. Health plans are entering agreements with other providers of healthcare services, including laboratory testing services providers, to partner on value-based approaches to delivering healthcare to populations. DCEs have been established.
+
+Consolidation is increasing pricing transparency and bargaining power, and may encourage internalization of clinical testing.
+
+Physicians frequently now are employed by hospital systems, IDNs, ACOs, DCEs or large group practices integrated with healthcare systems, instead of organizing physician-owned practices, which is impacting the dynamics for whether clinical testing is performed in or outside of a hospital. Physicians and other clinicians also increasingly are being employed by health plans or their affiliates.
+
+Value-based reimbursement is contributing to changes in the healthcare system. ACOs and patient-centered medical homes have grown as a means to deliver patient care. Healthcare services increasingly are being provided by non-traditional providers (e.g., physician assistants), in non-traditional venues (e.g., retail medical clinics, urgent care centers) and using new technologies (e.g., telemedicine, digital pathology).
+
+In addition the ACA continues to result in changes in the way that some healthcare services are purchased and delivered in the United States. Hospitals and IDNs are under significant pressure, and are evolving.
+Pricing transparency	There has been a trend toward greater pricing transparency in healthcare, including in the laboratory testing marketplace. Several states have taken action to foster greater pricing transparency in healthcare. For example, Massachusetts launched a website to help consumers understand the wide variation in healthcare costs. In addition, the federal government requires providers of COVID-19 testing to post on their websites information regarding test pricing, and has adopted new legislation and issued new regulations designed to increase transparency regarding pricing and quality in healthcare, including requiring providers, group health plans and insurers to disclose cost information to consumers in advance of care being provided.
+
+Increased price transparency, combined with increased patient financial responsibility for medical care, is enhancing purchasing sophistication and fostering changes in behavior in the healthcare marketplace. We believe that increased price transparency should benefit low cost, high value providers like our Company. 
+16
+Table of Contents                                             
+Competition	
+The diagnostic information services industry remains fragmented, is highly competitive and is subject to new competition.
+
+Competition is emerging from new technologies (e.g., digital pathology) and growing from non-traditional competitors (e.g., a government agency or employer establishing its own clinical laboratory for testing). Increased hospital acquisitions of physician practices may enhance clinician ties to hospital-affiliated laboratories and may strengthen their competitive position. However, in light of other trends, including continued reimbursement pressure, hospitals may change their approach to providing clinical testing services.
+
+New industry entrants with extensive resources may make acquisitions or expand into our traditional areas of operations.
+Healthcare utilization
+Healthcare utilization in the United States has fluctuated based on a number of factors. These factors include, without limitation, the economy, healthcare benefits design, patients delaying medical care (e.g., due to the COVID-19 pandemic), and increased consumer financial responsibility for, interest in and control of their healthcare.
+
+The ACA contained provisions eliminating patient cost-sharing for preventative services, and additional provisions that we believe increased the number of patients that have health insurance, including Medicaid, and thus better access to diagnostic testing.
+Reimbursement pressure; affordability	
+There is a strong focus in the United States on controlling the overall cost of healthcare.
+
+Healthcare market participants, including governments, are focused on controlling costs. Examples of cost control approaches include reducing reimbursement for healthcare services, changing reimbursement for healthcare services (e.g., shift from fee for service to capitation), changing medical coverage policies (e.g., healthcare benefits design), denying coverage for services, requiring preauthorization of laboratory testing, requiring co-pays, introducing laboratory spend management utilities and payment and patient care innovations such as ACOs, DCEs and patient-centered medical homes. CMS has set goals for value-based reimbursement to be achieved in Medicare. There is increased market activity regarding alternative payment models, including bundled payment models.
+
+The Health Transformation Alliance, a group of over 50 major U.S. companies, was formed to improve and reform the healthcare system in the United States. The rising cost of healthcare in the United States was a key driver for the formation of this alliance.
+
+In 2018, a trio of high profile U.S. corporations, citing rising healthcare costs, announced plans to reduce their workers' healthcare costs by forming a non-profit venture that would provide simplified, high-quality healthcare for their workers. Although the venture announced in early 2021 that it was disbanding, we believe that there will be other initiatives to transform healthcare.
+
+While pressure to control healthcare costs poses a risk to our Company, it also creates opportunities, such as an opportunity for increased proper utilization of testing as an efficient means to manage the total cost of healthcare. We believe that it also creates greater opportunities for consolidation and gaining share for high value, low-cost providers, like our Company, as compared to other providers.
+ 
+17
+Table of Contents                                             
+Legislative, regulatory and policy environment	
+Government oversight of and attention to the healthcare industry in the United States is significant and increasing; healthcare payment reform and cost transparency are significant issues.
+
+Legislation introduced in Congress would enable the FDA to regulate LDTs, in vitro diagnostics, software and other items used in the diagnosis of disease. If the legislation becomes law, the FDA could regulate diagnostic tests and components and platforms used as part of these tests. The FDA and HHS also have expressed views regarding the regulation of LDTs. Either new law or a revised approach to regulation of LDTs could have a significant impact on the clinical laboratory testing industry, including regulating LDTs in new ways, while creating avenues of opportunity and competition regarding clinical laboratory testing. New competitors may enter the industry, and competition may come in new forms.
+
+The ACA has created significant uncertainty as healthcare markets react to changes. For example, more than half of the states have opted in to Medicaid expansion and employers may discontinue offering group health insurance to their employees, shifting more people to exchange products.
+
+Certain aspects of the ACA have been repealed, delayed or modified (e.g., the medical device excise tax). The scope and timing of any further legislation to repeal, amend, replace, or reform the rest of the ACA is uncertain, but if such legislation were to become law, it could have a significant impact on the U.S. healthcare system. In addition, uncertainty regarding the status of the ACA prior to any such repeal, amendment, replacement or reform could create uncertainty generally in the healthcare market.
+
+Several federal courts have recently issued determinations that portions of the ACA are unconstitutional; those rulings are not yet final, with appeals pending at the U.S. Supreme Court.
+Informatics; technology; privacy concerns	The increased availability of healthcare data, including data made available as a result of next generation DNA sequencing, and the increased ability to effectively analyze that data at population and patient levels, is impacting healthcare practices. It is anticipated that the increased use of data in healthcare, coupled with mobile healthcare IT solutions for doctors and patients, will help to improve patient outcomes and reduce overall healthcare costs. In 2020, we launched automated next generation genetic sequencing, which will enable genetic screening faster and at much lower cost.
+
+Informatics, including integrated diagnostic and decision support solutions, predictive analytics, use of population data and healthcare information technology, is spurring advances in precision medicine, including medical decision making and value, for populations and individuals. The increased focus on data and its use is increasing focus on maintaining the privacy of patient data.
+
+There is a need for technology solutions to harness these opportunities. In addition, new technology, social media and mobile technology are changing the way that healthcare markets interact with each other, and the expectations that they have about how services are provided, what services are provided, and other capabilities of healthcare market participants. These developments are creating new opportunities and new challenges and disrupting the healthcare environment. For example, during 2020, telemedicine practices became more commonly used; digital pathology is an emerging technology that may change the practice of pathology. Information technology that includes self-learning or "artificial intelligence" features is growing and may impact the healthcare industry.
+
+Healthcare market participants, including pharmaceutical companies, health plans, clinicians, ACOs and IDNs, are striving to leverage interoperability, informatics and analytics to positively influence the health of patient populations while maintaining patient privacy.
+Chronic diseases and conditions; gaps in care	We believe that the cost and challenges of identifying, treating and controlling chronic diseases and conditions such as diabetes and heart disease are now well recognized. The COVID-19 pandemic called attention to gaps in care in underserved populations.
+
+As a result of multiple factors, including increased focus on population health management and pressure to reduce the systemic costs associated with such diseases and conditions, there is increased focus on better identifying and attempting to reduce or eliminate the gaps in care historically associated with these diseases and conditions. Healthcare market participants are developing new approaches for this purpose. We believe that there also is increased focus on reducing or eliminating gaps in care in underserved populations.	Healthcare services delivery	Healthcare delivery is moving out of hospitals, doctor offices and other traditional locations in which it had been provided. Care is increasingly being provided in new settings, such as outpatient, consumer-focused and home settings. In response to the COVID-19 pandemic, telemedicine practices became more commonly used during 2020. In addition, see the discussion of Emerging Retail Healthcare Providers in table 13. This dynamic offers new opportunities and challenges for healthcare providers and reflects not only efforts to take advantage of new technologies, but also the trends of consumerization and affordability, each of which are discussed above in this table. 
+
+18
+Table of Contents                                             
+The Value of Diagnostic Information Services
+
+    As noted in table 11, there is an increased focus on the affordability of healthcare. There also is increased focus on a disease-oriented approach to diagnostics, treatment and management. Healthcare providers, consumers and payers increasingly recognize the value of diagnostic information services as a means to improve health and reduce the overall cost of healthcare through early detection, prevention and treatment. Healthcare providers increasingly rely on diagnostic information services to help identify risk for a disease, to detect the symptoms of disease earlier, to aid in the choice of therapeutic regimen, to monitor patient compliance and to evaluate treatment results. Table 12 highlights how diagnostic information services contribute to improving care and reducing healthcare costs.
+Reducing Healthcare Costs and Improving Care (Table 12)	
+• Identifying patients at risk for disease before they require urgent care, hospital treatment or expensive therapies
+• Helping clinicians to target the right medicines for the right patients at the right time
+• Identifying treatment-related side effects
+• Early assessment of the efficacy of a therapy, enabling changes or discontinuation of ineffective therapies
+• Enabling population health management by utilizing diagnostic information, identifying gaps in care and delivering targeted solutions to individuals who need care
+• Identification and proactive management of individuals at risk for developing chronic diseases, to decrease progression and associated costs and morbidity
+• Providing telemedicine services along with laboratory testing to help individuals interpret and obtain appropriate advice and referrals into needed care
+ 
+
+Customers
+
+    We provide diagnostic information services to a broad range of customers, including those discussed below. As discussed in table 11 above, customers are consolidating, converging and diversifying. In many cases, the customer that orders our services is not responsible for paying for these services. Depending on the billing arrangement and applicable law, the payer may be the patient or a third party, such as a health plan, Medicare or a Medicaid program. Increasingly, patients are bearing greater responsibility for some portion of the payment for the services we provide to them, even if a third party is primarily responsible for payment. In addition, patients are more frequently taking advantage of offerings like the Company's QuestDirect offering, and requesting and paying for tests themselves.
+19
+Table of Contents                                             
+
+
+Customers (Table 13)	Health plans including managed care organizations and other health insurance providers	
+These customers typically reimburse us as a contracted (or out-of-network) provider on behalf of their members. In certain locations, health plans may delegate to IPAs or other alternative delivery systems (e.g., physician hospital organizations, ACOs, patient-centered medical homes) the ability to negotiate for diagnostic information services on behalf of certain members.
+
+Health plans and IPAs often require that diagnostic information services providers accept discounted fee structures or assume all or a portion of the financial risk associated with providing such services through capitated payment arrangements. Under capitated payment arrangements, we provide services at a predetermined monthly reimbursement rate for each covered member, generally regardless of the number or cost of services provided by us. Under some capitated programs, we may provide certain services on a negotiated fee-for-service basis. Reimbursement under programs that do not provide for capitated payments is typically negotiated on a fee-for-service basis.
+
+Reimbursement from our five largest health plans totaled approximately 20%, and no one health plan accounted for 10%, of our consolidated net revenues in 2020. Health plans typically negotiate directly or indirectly with a number of diagnostic information services providers, and represent approximately one-half of our total clinical testing volume and approximately 40% of our net revenues from diagnostic information services. There has been a trend of consolidation among health plans. Some health plans also have narrowed their provider networks. In addition, some health plans have established "preferred provider" networks within their broader networks, in effect distinguishing among contracted providers.
+
+We are also sometimes a member of a “complementary network.” A complementary network generally is a set of contractual arrangements that a third party will maintain with various providers that provide discounted fees for the benefit of its customers. A member of a health plan may choose to access a non-contracted provider that is a member of a complementary network; if so, the provider will be reimbursed at a rate negotiated by the complementary network.
+
+We offer to health plans services and programs that leverage our Company's expertise and resources, including our superior access, extensive test menu, medical staff, data, information technology solutions, and wellness and population health management capabilities.
+
+Since the beginning of 2019, the Company has had access to a very high percentage of the insured lives in the U.S., including very strong access in key high-population states. This is the best access to health plan members that we have had in over a decade. We believe that this strong access increases our attractiveness to other customer groups, including clinicians, patients and employers.
+Clinicians	
+Clinicians, including primary care physicians, specialists and physician assistants, requiring diagnostic information services for patients are the primary referral source for our services when patients choose their diagnostic information services provider.
+
+In recent years, there has been a marked increase in the number of physician practices owned by IDNs and hospital systems. There also has been a notable increase in some branches of medicine of the establishment of very large "rolled-up" specialty physician practice groups. Hospitals that own physician practices may encourage or require the practices to refer outreach testing to the hospital's affiliated laboratory. Large specialty physician groups may encourage their members to refer testing to other members of the group. In each case, referrals to independent diagnostic services providers may be reduced.
+
+Clinicians determine which laboratory to recommend or use based on a variety of factors, including those set forth in table 14.
+ 
+20
+Table of Contents                                             
+Hospitals	We believe that we are the industry's leader in servicing hospitals. We provide services to hospitals throughout the United States, including advanced testing services, in some cases helping manage their laboratories and serving as the medical directors of the hospital's histology or clinical laboratory, including through our Professional Laboratory Services offerings (our industry-leading Professional Lab Services offering is discussed in table 3 above). Hospitals generally maintain an on-site laboratory to perform the significant majority of clinical testing for their patients (inpatients and outpatients) and refer certain testing to outside service providers, which typically charge the hospitals on a negotiated fee-for-service basis. Fee schedules for hospital reference testing services often are negotiated on behalf of hospitals by group purchasing organizations.
+
+We also have joint venture arrangements with leading hospitals or IDNs in several metropolitan areas. These joint venture arrangements, which provide diagnostic information services for affiliated hospitals as well as for unaffiliated clinicians and other local healthcare providers, serve as our principal facilities in their service areas. Typically, we have either a majority ownership interest in, or day-to-day management responsibilities for, our joint venture relationships.
+
+In light of continued pressure to reduce systemic healthcare costs, hospitals may change their approach to providing clinical testing services, including by insourcing tests, seeking ways to improve profitability or to better utilize their laboratory capacity. We believe that our combination of services positions us to be an attractive partner for hospitals, offering a full range of strategic relationships.	 ACOs, DCEs and IDNs	
+An ACO is a network of providers and facilities that share financial risk in providing or arranging for the provision of healthcare. A DCE is a healthcare provider that agrees to assume some level of financial risk for providing Medicare services. An IDN is a network of providers and facilities working together in providing or arranging for the provision of healthcare. ACOs, DCEs and IDNs have increased in number; their impact on the provision of healthcare services to date has varied.
+
+ACOs, DCEs and IDNs may exercise operational and financial control over providers across the continuum of care, and may function as a payer. Thus, they may be able to manage the health of a population group within a defined geography, and also may be able to influence the cost and quality of healthcare delivery, for example through owned entities and through ancillary services. They may be encouraged to consider exclusive arrangements with healthcare providers, or to limit service providers.
+
+We are actively engaging with ACOs, DCEs and IDNs to demonstrate the value of our services.
+Employers	
+Employers use tests for drugs of abuse to determine an individual's employability and his or her “fitness for duty.” Companies with high levels of employee hiring, safety conscious environments or regulatory testing requirements provide the highest volumes of testing. Factors such as the general economy, the job market and changes in the legal environment (e.g., marijuana decriminalization) can impact the utilization of drugs-of-abuse testing.
+
+Employers also are investing in population health services. We meet their needs by providing nationwide access to our customizable services (discussed above at page 13), directly and through health plan and health improvement providers. These services help employers, employees and others manage healthcare costs, capitalize on trends in personalized health and improve health outcomes. In response to the COVID-19 pandemic, we expanded our offerings to employers to assist their pandemic response to create safer workplaces (discussed above at page 13).
+
+We seek to grow our employer business through offering new and innovative programs to help them with their goals of (1) maintaining a safe and productive workplace, (2) improving healthcare for employees and (3) lowering healthcare costs for employees and employers.
+Consumers	We are well positioned to provide information and insights to patients to help them take actions to improve their healthcare. The changing expectations of patients about their healthcare and their healthcare transactions are influencing our services and the way we provide them. See the discussions of our consumer strategy at page 5 and consumerization above in table 11.	FQHCs	Federally Qualified Health Centers offer a broad array of healthcare services, including to historically underserved populations. We strive to offer an attractive array of services to FQHCs to demonstrate the value of our services. 
+21
+Table of Contents                                             
+Emerging Retail Healthcare Providers	
+In recent years, as the healthcare sector changes, retail providers of healthcare services have emerged and are growing. These providers include "big-box" retailers, pharmacy chains, supermarkets, urgent care centers and Internet-based service providers.
+
+We are taking advantage of opportunities to work with these providers, not only to offer new access points for our services (e.g., our collaboration with Safeway), but also to grow our business by expanding our service offerings (e.g., our joint venture with Walmart). See the discussion of our consumer strategy at page 5.
+ Government Agencies	We provide services on a fee-for-service basis to federal, state and local governmental agencies.
+Historically, most Medicare and Medicaid beneficiaries were covered under the traditional Medicare and Medicaid programs administered by the federal government. Over the last several years, the federal government has expanded its contracts with private health insurance plans for Medicare beneficiaries and has encouraged such beneficiaries to switch from the traditional programs to the private programs, called “Medicare Advantage” programs. There has been growth of health insurance providers offering Medicare Advantage programs and of beneficiary enrollment in these programs. States also have mandated that Medicaid beneficiaries enroll in private managed care arrangements. During 2020, we provided additional services to and in conjunction with government agencies across the United States in connection with the COVID-19 pandemic.	Pharmaceutical companies	
+We have expertise with laboratory developed tests for companion and complementary diagnostics, and offer an array of assets and services to support the development of companion diagnostics, including our robust data set and patient services network.
+
+We also offer Quest Clinical Trials Connect,TM to help accelerate clinical trials (and thus the speed of drugs to market) through better patient recruitment, involvement and management, and improved physician outreach.
+Other Laboratories	We provide services on a fee-for-service basis to other commercial clinical laboratories. 
+
+    Competition. While there has been consolidation in the diagnostic information services industry in recent years, our industry remains fragmented and highly competitive. We primarily compete with three types of clinical testing providers: commercial clinical laboratories, hospital-affiliated laboratories and physician-office laboratories. Our largest commercial clinical laboratory competitor is Laboratory Corporation of America Holdings, Inc. In addition, we compete with many smaller regional and local commercial clinical laboratories and specialized advanced laboratories. In anatomic pathology, we compete with anatomic pathology practices, including those in academic institutions and large physician group practices, and providers of emerging digital pathology solutions. There also has been a trend among specialty physician practices to establish their own histology laboratory capabilities and/or bring pathologists into their practices, thereby reducing referrals from these practices and increasing the competitive position of these practices.
+Healthcare providers consider a number of factors when selecting a diagnostic information services provider.
+
+Potential Factors Considered When Selecting a Diagnostic Information Services Provider (Table 14)		• Service capability and quality	
+• Reputation in the medical community
+• Accuracy, timeliness and consistency in reporting test results
+• Healthcare information technology solutions, including connectivity options
+• Access to medical/scientific thought leaders for consultation
+• Patient access, including the number, convenience and geographic coverage of patient service centers
+• Patient insurance coverage and experience	
+• Ability to develop new and useful tests and services
+• Number and type of tests performed	• Qualifications of its staff		• Pricing and overall value	• Provider office workflow		• Real time payment determination	• Capabilities to support population health initiatives	0 
+
+    We believe that providing the most attractive service offering in the industry, including the most comprehensive test menu, innovative test offerings, a positive customer experience, a staff including medical and scientific experts, strong quality, unparalleled access and distribution, and data-powered integrated information technology solutions provide us with a competitive advantage.
+
+22
+Table of Contents                                             
+    We believe that large diagnostic information services providers have a competitive advantage due to their large networks and lower cost structures, including as a result of PAMA. These advantages should enable larger providers to more effectively serve customers. In addition, we believe that consolidation in the diagnostic information services industry will continue. However, a significant portion of clinical testing is likely to continue to be performed by hospitals, which generally have affiliations with community clinicians and may have more, or more convenient, locations in a market. As a result, we compete against hospital-affiliated laboratories primarily on the basis of service capability, quality and pricing. In addition, market activity may increase the competitive environment. For example, hospital ownership of physician practices may enhance the ties of the clinicians to hospital-affiliated laboratories, enhancing the competitive position of hospital-affiliated laboratories. ACOs, DCEs and IDNs, and their approach to contracts with healthcare providers, in addition to the impact of informatics, also may impact competition to provide diagnostic information services.
+
+    The diagnostic information services industry is faced with changing technology, new product introductions and new service offerings. Competitors may compete using advanced technology, including technology that enables more convenient or cost-effective testing. Digital pathology, still in an emerging state, is an example of this. Competitors also may compete on the basis of new service offerings. Competitors also may offer testing to be performed outside of a commercial clinical laboratory, such as (1) point-of-care testing that can be performed by physicians in their offices; (2) testing that can be performed by hospitals in their own laboratories; and (3) home testing that can be carried out without requiring the services of outside providers.
+
+    The risk assessment and healthcare information technology industries are highly competitive. We have many competitors, some of which have much more extensive experience in these industries and some of which have greater resources. We compete in the risk assessment business by seeking to provide a wider array of quality, integrated services than our competitors, faster services completion and a superior applicant experience. We compete in the healthcare information technology industry by offering solutions that foster better patient care and improve performance for healthcare providers, including smaller and medium sized physician practices.
+
+
+GENERAL
+
+    Human Capital Management. Creating an inspiring workplace is one of our three corporate goals, and this goal drives our approach to human capital management. Effectively managing our human capital resources is a priority with key components that include culture, safety and well-being programs, employee engagement, and development and succession planning. Our Board of Directors actively engages in oversight of our human capital management, including by receiving management reports on key areas, strategies and initiatives. Additional information about our human capital management strategies and initiatives is available in our annual corporate responsibility report.
+
+    As of January 4, 2021, we have approximately 49,000 employees, of whom approximately 40,000 are full-time and the remainder are part-time or on-call. Our employee population is more diverse than the U.S. workforce, taken as a whole. Approximately 72% of our employees globally are women; approximately 51% of our U.S. employees are people of color. A majority of our employees work directly with our customers or in our laboratories. We believe that our overall relations with our employees are good.
+
+    Culture. We strive to foster a strong culture, built on our Code of Ethics, which reinforces our commitment to integrity and aligns with our vision, values, goals and brand. We are focused on building and maintaining a culture in which all employees are empowered to raise and discuss difficult issues and valued for their strengths, experience and unique perspectives. We encourage our employees to actively participate in their communities, and support their participation, including offering incentives for participation. Our Everyday Excellence program includes guiding principles for our entire organization to support a superior customer experience and inspire employees to be their best every day, with every person and with every customer interaction; the program is integrated into performance assessments and frontline employee behavioral standards.
+
+    Safety and Well-Being. The health and safety of our employees is of paramount concern. We use a systematic, risk-based approach to develop tailored incident prevention and response programs designed to keep our employees safe in each of our diverse functional areas, and use data insights and a detailed audit program to foster the effectiveness of our programs. We have a comprehensive curriculum of annual safety training, as well as training for new employees. In 2020, our cross-functional Safely Working Together Steering Committee designed and implemented tactics, techniques and procedures to enable our colleagues to continue to work safely during the COVID-19 pandemic. As part of our comprehensive and competitive compensation and benefits program, we also offer innovative initiatives to support the well-being of our employees and their families through our HealthyQuest program. The cornerstone of our HealthyQuest program is our Blueprint for
+23
+Table of Contents                                             
+Wellness program, which empowers our employees and their dependents with health insights based on lab and biometric data and invites them each year to take the initiative to improve their physical and mental health. We also offer other programs designed to engage employees in managing their health, including access to medical expertise and support programs tailored to their individual needs, helping them to adopt healthier behaviors and access better care at lower costs. These include customized programs for conditions such as type 2 diabetes management, chronic kidney disease, cardiovascular disease, zero-cost lab testing and specialty drugs, advocacy for mental health concerns and special support for orthopedic surgery and for cancer and other serious diagnoses. In 2020, The Health Project named Quest Diagnostics the sole winner of the prestigious C. Everett Koop National Health Award, which is given to health programs that deliver significant health improvements and business results.
+
+    Inclusion and Diversity. We understand the need to create an environment where employees can bring their whole selves to work. We aim to harness the unique mix of capabilities, talents, cultures, beliefs and experience of our employees and create a workforce that is demographically diverse at all levels of the organization. In 2020, in light of societal issues raised around us, our leadership and employees engaged squarely on the issue of racial equality in our country and the workplace. Several hundred leaders participated in a session on the topic, received a toolkit to help simulate thinking and action and how to address these issues and held dozens of meetings and panels with their teams to talk about racial inequities. We also launched, with the Quest Diagnostics Foundation, Quest for Health Equity, a multi-year, $100 million-plus initiative to help reduce health disparities in underserved communities.
+
+    Engagement. Since 1997, we have sought to foster the engagement and enablement of our employees, and have regularly surveyed our employees to gauge their engagement. Employee engagement has been a metric in the annual incentive plan for our executive officers since 2013. During 2020, we increased our engagement efforts, including by shifting to an approach of surveying employees more frequently and, during the COVID-19 pandemic, holding near-weekly meetings among hundreds of company leaders to foster increased communication across the company regarding topics of concern to employees.
+
+    Development and Succession Planning. We provide training on a wide array of topics to our employees. We also offer a number of development opportunities for our employees, such as training, mentoring and education programs, including a higher education tuition reimbursement program. In addition, we offer leadership training programs for employees at different levels, including programs designed to strengthen our more senior employee leaders to create a high-performance culture and sharpen the capabilities needed to lead our organization. We regularly engage in succession planning for our talent, including at the most senior levels.
+
+    Sales and Marketing. Our Diagnostic Information Services business has a unified commercial organization focused on the sale of most of our services. It coordinates closely with our clinical franchises (discussed above under the heading Our Strategy) and marketing organization. The commercial organization is centrally led, and is organized regionally, in conjunction with our operations organization, to focus on local customer needs and to ensure aligned delivery for our customers. Our commercial organization employs world-class processes and tools and strong management discipline. We provide industry-leading training and development, focus on opportunities with IDNs and specialty physicians, and foster a customer-focused, performance-driven culture. We also maintain distinct sales and marketing organizations for our offerings in Diagnostic Solutions and our employer drugs-of-abuse testing services.
+
+    Information Technology. We use information systems extensively in virtually all aspects of our business, including clinical testing, test ordering and reporting, billing, customer service, logistics and management of medical data. We endeavor to establish systems that create value and efficiencies for our Company and customers. The successful delivery of our services depends, in part, on the continued and uninterrupted performance of our information technology systems. We take precautionary measures to prevent problems that could affect our information technology systems.
+
+    Some of our historic growth has come through acquisitions and, as a result, we continue to use multiple information systems. We have made significant progress implementing common systems in our regional laboratories, and we continue to standardize laboratory information and billing systems across our operations. We expect that our standardization efforts will take several more years to complete, and will result in significantly more centralized systems, improved operating efficiency, more positive customer experiences and enhanced control over our operational environment. Even after we complete our efforts to standardize our historic systems, we will need to focus on standardizing systems in connection with future business acquisitions.
+
+    Quality Assurance. As discussed further under the heading Quality on page 7, our goal is to provide every patient with services and products of superior quality, and to meet that goal we have adopted the Quest Diagnostics Quality Program System. Employing root cause analysis, process improvements and rigorous tracking and measuring, we continuously seek to
+24
+Table of Contents                                             
+enhance quality, reduce defects, further increase the efficacy and efficiency of our operations and processes, eliminate waste and help standardize operations across our Company. 
+
+    In our laboratory operations, our quality assurance efforts focus on pre-analytic, analytic and post-analytic processes, including positive patient identification of specimens, appropriate specimen transport, analysis and report accuracy, proficiency testing, reference range relevance, process audits, statistical process control and personnel training for all of our laboratories and patient service centers. As part of our quality assurance program, we utilize internal and external proficiency testing, comprehensive quality control and rigorous process audits. We monitor test results to identify trends, biases or imprecision in our analytical processes. We also focus on the licensing, credentialing, training and competence of our professional and technical staff.
+
+    In addition, we have accreditation or licenses for our clinical laboratory operations from various regulatory agencies or accrediting organizations, such as CMS, CAP and certain states. All of our laboratories participate in external quality surveillance programs, including proficiency testing programs administered by CAP and several state agencies. CAP is an independent, nongovernmental organization of board-certified pathologists approved by CMS to inspect clinical laboratories to determine compliance with the standards required by CLIA. CAP offers an accreditation program to which clinical laboratories may voluntarily subscribe. All of our major laboratories, including our laboratories outside the U.S., and a number of our rapid response laboratories, are accredited by CAP. Accreditation includes on-site inspections and participation in the CAP (or equivalent) proficiency testing program. Also, our cytotechnologists and pathologists participate in an internal peer-review evaluation and one or more external individual proficiency testing programs. In addition, some of our laboratories also have International Organization for Standardization certification for their quality management systems.
+
+    For additional information about our commitment to quality, see "Our Strengths - Quality " on page 7.
+
+    Intellectual Property Rights. We own significant intellectual property, including patents, patent applications, technology, trade secrets, know-how, copyrights and trademarks in the United States and other countries. From time to time, we also license patents, patent applications, technology, trade secrets, know-how, copyrights or trademarks owned by others; we also may license our intellectual property to others. In the aggregate, our intellectual property assets and licenses are of material importance to our business. We believe, however, that no single patent, technology, trademark, intellectual property asset or license is material to our business as a whole. Our approach is to manage our intellectual property assets, to safeguard them and to maximize their value to our enterprise. We actively defend our important intellectual property assets and pursue protection of our products, processes and other intellectual property where possible.
+
+    Enterprise Risk Management Program. We maintain an enterprise risk management program designed to promote a culture of risk awareness throughout the Company's key business, operations and support functions. Our program, which is integrated with the Company’s governance, performance management and internal control frameworks, entails a formal continuous process that identifies, assesses, mitigates and manages the risks from both internal and external conditions that could significantly impact the Company and influence its business strategy and performance. The program is based on the most recent framework issued by the Committee of Sponsoring Organizations of the Treadway Commission, which focuses on the following risk types:
+
+•Operational risk - risks arising from systems, processes, people and external events that affect the Company’s operational objectives or fundamental reason for its existence, including: product life-cycle and execution; service quality and performance; information management and data protection and security, including cybersecurity; supply chain and business disruption; and other risks, including human capital and reputation.
+
+•Financial risk - risks arising from the Company’s ability to meet its financial obligations pursuant to its strategic and operational objectives, including exposure to broad market and more specific industry risk that could impact liquidity, interest rate, credit, pricing and reimbursement, and also to internal and external financial reporting.
+
+•Legal and compliance risk - risks arising from the regulatory and enforcement environment, legal proceedings and adherence to ethics and compliance policies and procedures.
+
+•Strategic risk - risks that will impede the Company’s plan to achieve its mission and vision and apply its core values, including changes in the broad market and Company's industry, business development and restructuring activities, competitive threats and practices, technology and product innovation, and public policy.
+
+    As part of our program, we routinely assess our enterprise level risks, emerging risks, overall Company-level risk tolerance and the effectiveness of risk management, and monitor the progress of and resources applied to risk mitigation; our
+25
+Table of Contents                                             
+Board of Directors actively oversees our program. Our primary risk factors are discussed in Risk Factors beginning on page 32.
+
+    Billing; Government Reimbursement. We generally bill for diagnostic information services on a fee-for-service basis under one of two types of fee schedules; fees may be negotiated or discounted. The types of fee schedules are:
+    
+•“Client” fees charged to physicians, hospitals and institutions for which services are performed on a wholesale basis and which are billed on a monthly basis.
+•“Patient” fees charged to individual patients and certain third-party payers on a claim-by-claim basis.
+
+    Billing for diagnostic information services is very complicated. Patients, insurance companies, Medicare, Medicaid, physicians, hospitals, IDNs, ACOs, DCEs and employer groups all have different billing requirements. Some billing arrangements require us to bill multiple payers, and there are several other factors that complicate billing (e.g., disparity in coverage and information requirements among payers; incomplete or inaccurate billing information provided by ordering clinicians; and lack of access to patients before testing). We maintain compliance policies and procedures for our billing practices, and we audit our practices for compliance with applicable laws and regulations and internal policies and procedures.
+
+    With regard to the clinical testing services performed on behalf of Medicare beneficiaries, we generally must bill Medicare directly and must accept the Medicare carrier's fee schedule amount for covered services as payment in full. In addition, state Medicaid programs are prohibited from paying more (and in most instances, pay significantly less) than Medicare. Currently, Medicare does not require the beneficiary to pay a co-payment for diagnostic testing services reimbursed under the Clinical Laboratory Fee Schedule, but generally does require a patient deductible and co-insurance for anatomic pathology services.
+
+    Part B of the Medicare program contains fee schedule payment methodologies for clinical testing services performed for covered patients, including a national ceiling on the amount that carriers could pay under their local Medicare clinical testing fee schedules. Historically, the Medicare Clinical Laboratory Fee Schedule and the Medicare Physician Fee Schedule established under that program have been subject to change, including each year. Pursuant to PAMA, reimbursement rates for many clinical laboratory tests provided under Medicare were reduced in 2018, 2019 and 2020. PAMA calls for further revision of the Medicare Clinical Laboratory Fee Schedule for years after 2020, based on future surveys of market rates; reimbursement reduction from 2022-24 is capped by PAMA at 15% annually. The LAB Act provided an opportunity for reforms to PAMA by delaying PAMA's next data collection and reporting period until January 1, 2021 and by ordering a study to determine ways to improve future collection of more representative market rate data under PAMA. The CARES Act, adopted in early 2020 in response to the COVID-19 pandemic, suspended the PAMA price cuts that had been scheduled for 2021 and delayed PAMA's next data collection and reporting period until January 1, 2022.
+
+dgx-20201231_g5.jpg
+
+    Our net revenues reimbursed under Medicare and Medicaid in 2020 were lower as a percentage of our consolidated net revenues than in recent years as a result of revenues attributable to COVID-19 testing. Excluding revenues attributable to COVID-19 testing, our net revenues reimbursed under Medicare and Medicaid in 2020 were comparable, as a percentage of our consolidated net revenues, to recent years.     
+26
+Table of Contents                                             
+
+
+
+REGULATION
+We are subject to extensive and frequently changing laws and regulations in the United States (at both the federal and state levels) and other jurisdictions in which we conduct business, and to government inspections and audits.
+
+Key Regulatory Schemes (Table 16)	CLIA and State Clinical Laboratory Licensing	
+CLIA regulates the operations of virtually all clinical laboratories, requiring that they be certified by the federal government and that they comply with various technical, operational, personnel and quality requirements intended to ensure that the services provided are accurate, reliable and timely.
+
+State laws may require additional personnel qualifications or licenses, quality control, record maintenance, proficiency testing or detailed review of our scientific method validations and technical procedures for certain tests.
+
+Violations of these laws and regulations may result in monetary fines, criminal and civil penalties and/or suspension or exclusion from participation in Medicare, Medicaid and other federal or state healthcare programs.
+Medicare and Medicaid; Fraud and Abuse	Diagnostic testing services provided under Medicare and Medicaid programs are subject to complex, evolving, stringent and frequently ambiguous federal and state laws and regulations, including those relating to billing, coverage and reimbursement.
+
+Anti-kickback laws and regulations prohibit making payments or furnishing other benefits to influence the referral of tests billed to Medicare, Medicaid or certain other federal or state healthcare programs.
+
+In addition, federal and state anti-self-referral laws generally prohibit Medicare and Medicaid payments for clinical tests referred by physicians who have an ownership or investment interest in, or a compensation arrangement with, the testing laboratory, unless specific exceptions are met.
+
+Federal substance abuse legislation enacted in 2018 contains anti-kickback provisions that are, by their terms, applicable to laboratory testing paid for by all payers. We are attempting to clarify the application of that legislation.
+
+Some states have similar laws that are not limited in applicability to only Medicare and Medicaid referrals and could also affect tests that are paid for by health plans and other non-governmental payers.
+
+Violations of these laws and regulations may result in monetary fines, criminal and civil penalties and/or suspension or exclusion from participation in Medicare, Medicaid and other federal or state healthcare programs. 
+27
+Table of Contents                                             
+FDA	
+The FDA has regulatory responsibility over, among other areas, instruments, software, test kits, reagents and other devices used by clinical laboratories to perform diagnostic testing in the United States. The FDA also regulates drugs-of-abuse testing for employers and insurers, testing for blood bank purposes and testing of donors of human cells for purposes such as in vitro fertilization.
+
+A number of advanced tests we develop internally are offered as LDTs. The FDA has claimed regulatory authority over all LDTs, but has stated that it exercised enforcement discretion with regard to most LDTs performed by high complexity CLIA-certified laboratories.
+
+Pursuant to the 21st Century Cures Act, the FDA issued final guidance regarding its position on the regulation of clinical decision software, which may be used in connection with LDTs. The guidance attempts to address uncertainty regarding whether FDA approval of certain software is required. It has been used by the FDA, in part, to assert authority over the annotation software aspects of pharmacogenetic testing services. In addition, the FDA continued during 2020 to work on a pre-certification program to help software developers have a speedier and less restrictive path to clearance or approval of their software.
+
+Legislation introduced in Congress would enable the FDA to regulate LDTs, in vitro diagnostics, software and other items used in the diagnosis of disease. The FDA and the U. S. Department of Health and Human Services also have expressed views regarding the regulation of LDTs. Either new law or a revised approach to regulation of LDTs could have a significant impact on the clinical laboratory testing industry, including regulating LDTs in new ways, while creating avenues of opportunity and competition regarding clinical laboratory testing. New competitors may enter the industry, and competition may come in new forms.
+Environmental, Health and Safety	
+We are subject to laws and regulations related to the protection of the environment, the health and safety of employees and the handling, transportation and disposal of medical specimens, infectious and hazardous waste and radioactive materials.
+
+For example, the U.S. Occupational Safety and Health Administration has established extensive requirements relating specifically to workplace safety for healthcare employers in the U.S. This includes requirements to develop and implement multi-faceted programs to protect workers from exposure to blood-borne pathogens, including preventing or minimizing any exposure through needle stick injuries.
+
+For purposes of transportation, some biological materials and laboratory supplies are classified as hazardous materials and are subject to regulation by one or more of the following agencies: the U.S. Department of Transportation, the U.S. Public Health Service, the U.S. Postal Service and the International Air Transport Association.
+Physicians	Our pathologists are required to hold a valid license to practice medicine in the jurisdiction in which they practice.
+
+Several jurisdictions in which our businesses are located prohibit business corporations from engaging in the practice of medicine. In certain jurisdictions, business corporations are prohibited from employing licensed healthcare professionals to provide services on behalf of the corporation; these laws vary. In some jurisdictions, anatomic pathology services are delivered through physician-owned entities that employ the practicing pathologists. The manner in which licensed physicians can be organized to perform medical services may be governed by the laws of the jurisdictions in which medical services are provided and by the medical boards or other entities authorized by these jurisdictions to oversee the practice of medicine.	Privacy and Security of Health and Personal Information	
+We are subject to laws and regulations regarding protecting the security and privacy of certain healthcare and personal information, including: (a) the federal Health Insurance Portability and Accountability Act and the regulations thereunder, which establish (i) a complex regulatory framework including requirements for safeguarding protected health information and (ii) comprehensive federal standards regarding the uses and disclosures of protected health information; (b) state laws, including the California Consumer Privacy Act; and (c) laws outside the U.S., including the European Union's General Data Protection Regulation.
+
+A healthcare provider may be subject to penalties for non-compliance and may be required to notify individuals or state, federal or county governments if the provider discovers certain breaches of personal information or protected health information.
+ 
+28
+Table of Contents                                             
+Drug Testing; Controlled Substances	
+All U.S. laboratories that perform drug testing for certain public sector employees and employees of certain federally regulated businesses are required to be certified as meeting the detailed performance and quality standards of the Substance Abuse and Mental Health Services Administration.
+
+To obtain access to controlled substances used to perform drugs-of-abuse testing in the United States, laboratories must be licensed by the Drug Enforcement Administration.
+ 
+
+    Compliance. We strive to conduct our business in compliance with all applicable laws and regulations. We license and maintain appropriate accreditations for all of our laboratories and, where applicable, patient service centers, as required by the appropriate federal and state agencies. We have a long-standing and well-established compliance program. The Quality, Safety and Compliance Committee of our Board of Directors oversees, and receives periodic management reports regarding, our compliance program. Our program includes detailed policies and procedures and training programs intended to ensure the implementation and observance of all applicable laws and regulations (including regarding billing and reimbursement, and privacy of protected health information and personally identifiable information) and Company policies. Further, we conduct in-depth reviews of procedures and facilities to assure regulatory compliance throughout our operations. We conduct annual training of our employees on these compliance policies and procedures.
+
+    As an integral part of our billing compliance program, we investigate reported or suspected failures to comply with federal and state healthcare reimbursement requirements. Any Medicare or Medicaid overpayments resulting from non-compliance are refunded by us. As a result of these efforts, we have periodically identified and reported overpayments, refunded the payers for overpayments and taken appropriate corrective action.
+    
+AVAILABLE INFORMATION
+
+     The Securities and Exchange Commission (the “SEC”) maintains an internet site, www.sec.gov, that contains annual, quarterly and current reports, proxy and information statements and other information that issuers file electronically with the SEC. We file reports, proxy statements and other information with the SEC; they are publicly available at the SEC's internet site.
+
+    Our internet address is www.QuestDiagnostics.com. You can access our Investor Relations webpage at www.QuestDiagnostics.com/investor. The information on our website is not incorporated by reference into this Report. We make available free of charge, on or through our Investor Relations webpage, our proxy statements, Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and any amendments to those reports filed or furnished pursuant to the Securities Exchange Act of 1934, as amended (the “Exchange Act”), as soon as reasonably practical after such material is filed with, or furnished to, the SEC.
+www.QuestDiagnostics.com/investor provides information about our corporate governance.	Information Available at Our Corporate Governance Webpage (Table 17)	
+• Directors
+• Corporate Governance Guidelines
+• Composition of the committees of our Board of Directors
+• Code of Ethics
+• Senior management
+• Certificate of Incorporation
+• Charters for the standing committees of our Board of Directors
+• Bylaws
+• Information about our corporate political contributions
+• Values
+• Statements of beneficial ownership of our equity securities filed by our directors, officers and others under Section 16 of the Exchange Act
+ 
+
+29
+Table of Contents                                             
+
+INFORMATION ABOUT OUR EXECUTIVE OFFICERS
+Executive Officers (Table 18)	Name, Age, Title	Background	Stephen H. Rusckowski (63)
+Chairman of the Board, Chief Executive Officer and President	Mr. Rusckowski joined the Company in May 2012 as Chief Executive Officer and President and became Chairman of the Board on January 1, 2017. From October 2006 until he joined the Company, he was Chief Executive Officer of Philips Healthcare, the largest unit of Royal Philips Electronics, and a member of the Board of Management of Royal Philips Electronics and its Executive Committee. Previously, he was CEO of the Imaging Systems business of Royal Phillips Electronics.
+
+Before joining Philips in 2001, Mr. Rusckowski held numerous management positions with the healthcare division of Hewlett-Packard/Agilent Technologies.
+
+Mr. Rusckowski has been a director of the Company since May 2012. He was a director of Xerox Corporation from February 2015 to 2018, and a director of Covidien plc from December 2013 to January 2015. Mr. Rusckowski served as Chairman of the American Clinical Laboratory Association from 2014 to 2017.	James E. Davis (58)
+Executive Vice President, General Diagnostics	In January 2017, Mr. Davis became Executive Vice President, General Diagnostics; previously he was Senior Vice President and Group Executive - Regional Businesses. In January 2015, he assumed responsibility for the general management of the Company's regional Diagnostic Information Services business. Mr. Davis was responsible for our products business from February 2014 until 2016. From February 2014 to January 2015, he was responsible for operations for the Company's Diagnostic Information Services business.  He joined Quest Diagnostics in April 2013 as Senior Vice President, Diagnostics Solutions, with responsibility for the healthcare information technology, risk assessment, clinical trials, diagnostic products and employer solutions businesses. 
+
+Prior to joining Quest Diagnostics, from March 2012 to April 2013, Mr. Davis served as Lead Director, and then as Chief Executive Officer, of InSightec, Inc., a medical device company that designs and develops ultrasound ablation devices that are guided by magnetic resonance imaging systems.
+
+Previously, Mr. Davis held a number of senior positions in General Electric’s healthcare business, including from 2007 to 2012 as Vice President and General Manager of GE Healthcare’s magnetic resonance imaging business. Prior to joining GE Healthcare, Mr. Davis held leadership positions in GE’s aviation business and led the development of strategic and operational improvement initiatives for clients of McKinsey & Company, Inc. 
+30
+Table of Contents                                             
+Catherine T. Doherty (58)
+Senior Vice President and Group Executive - Clinical Franchise Solutions and Marketing	Since January 2013, Ms. Doherty has been responsible for overseeing the development of clinical franchise solutions in the areas of general health and wellness, cardiovascular, metabolic and endocrinology, infectious disease and immunology, and prescription drug monitoring and toxicology, as well as enterprise-wide marketing. Ms. Doherty is also responsible for the employer solutions and risk assessment businesses, and since February 2020, our sports diagnostics franchise. Additionally, in October 2018, QuestDirect, our consumer initiated testing platform was launched under her leadership. She also was responsible for clinical franchise solutions in the areas of neurology and women's health from January 2013 to January 2017 and for the healthcare information technology business from February 2014 to January 2017.
+
+Prior to January 2013, Ms. Doherty held a variety of positions of increasing responsibility since joining the Company in 1990, including Senior Vice President, Physician Services; Vice President, Hospital Services; Vice President, Office of the Chairman; Vice President, Finance and Administration for the Hospital business; Vice President, Communications and Investor Relations; and Chief Accounting Officer.	Carrie Eglinton Manner (46)
+Senior Vice President, Advanced Diagnostics	Ms. Eglinton Manner joined the Company in January 2017. She is responsible for the Company's advanced testing activities, including overseeing the development of clinical franchise solutions in the areas of neurology, oncology, pathology and women's health, as well as the Company's global business and pharmaceutical/diagnostic development services. Ms. Eglinton Manner has served as a director of Repligen Corporation since June 2020.
+
+Previously, Ms. Eglinton Manner spent over 20 years in various leadership roles in healthcare businesses at General Electric. From 2015 to 2016, she served as President and CEO of the Detection and Guidance Solutions business, delivering advanced x-ray technologies spanning the continuum of healthcare. From 2013 to 2015, Ms. Eglinton Manner served as President and CEO of OEC Surgical Mobile C-arm systems. She was President and CEO of General Electric's diagnostic pathology laboratory services business from 2012 to 2013, and President of the Maternal Infant Care Business from 2009 to 2012.	Mark J. Guinan (59)
+Executive Vice President and Chief Financial Officer
+Mr. Guinan joined the Company in July 2013. From 2010 until joining Quest Diagnostics in 2013, he served as Chief Financial Officer for Hill-Rom Holdings Inc., a manufacturer and provider of medical technologies and related services for the healthcare industry. Mr. Guinan has served as a director of Myovant Sciences, Ltd. since July 2018.
+
+Previously, he had served in a number of finance and operations roles in a long career at Johnson & Johnson including 2009 to 2010 as Vice President, Chief Procurement Officer, and 2005 to 2009 as Vice President, Group Finance Pharmaceuticals. Before joining Johnson & Johnson in 1997, he held a number of financial roles at Procter & Gamble.	Manuel O. Mendez (53)
+Senior Vice President, Chief Commercial Officer	Mr. Mendez is responsible for the commercial organization for the Company's Diagnostic Information Services business.
+
+Prior to joining the Company in October 2019, Mr. Méndez was Senior Vice President, Global Commercial Operations at QIAGEN, a worldwide provider of molecular sample and assay technologies, where he helped accelerate growth and led a global commercial team. From 2010-2014, Mr. Mendez served as Executive Vice President Americas for bioMérieux. Previously, he held a variety of sales, marketing and general management roles with Abbott Laboratories, Thermo Fisher Scientific and OraSure Technologies - with leadership positions in the United States, Latin America, Europe and Asian markets.
+ 
+31
+Table of Contents                                             
+Michael E. Prevoznik (59)
+Senior Vice President and General Counsel	Mr. Prevoznik joined the Company as Vice President and General Counsel in August 1999. In 2003, he assumed responsibility for governmental affairs. From 1999 until April 2009, Mr. Prevoznik also had responsibility for the Company's Compliance Department.
+
+In addition, from April 2011 to January 2017, he had management responsibility for the Company's diagnostic information services activities outside the U.S., and from April 2011 to January 2013, he had management responsibility for the Company's clinical trials business.
+
+Prior to joining the Company, Mr. Prevoznik served in positions of increasing responsibility within the compliance organization at SmithKline Beecham, most recently as Vice President, Compliance, with responsibility for coordinating all SmithKline Beecham compliance activities worldwide.

@@ -1,0 +1,259 @@
+
+Item 1:	
+Business
+Teradyne, Inc. (“Teradyne”) was founded in 1960 and is a leading global supplier of automation equipment for test and industrial applications.
+We design, develop, manufacture and sell automatic test systems used to test semiconductors, wireless products, data storage and complex electronics systems in many industries including consumer electronics, wireless, automotive, industrial, computing, communications, and aerospace and defense industries. Our industrial automation products include collaborative robotic arms, autonomous mobile robots and advanced robotic control software used by global manufacturing, logistics and light industrial customers to improve quality, increase manufacturing and material handling efficiency and decrease manufacturing and logistics costs. Our automatic test equipment and industrial automation products and services include:
+ 
+ 	•	 	
+semiconductor test (“Semiconductor Test”) systems;
+ 
+ 	•	 	
+storage and system level test (“Storage Test”) systems, defense/aerospace (“Defense/Aerospace”) test instrumentation and systems, and circuit-board test and inspection (“Production Board Test”) systems (collectively these products represent “System Test”);
+ 
+ 	•	 	
+wireless test (“Wireless Test”) systems; and
+ 
+ 	•	 	
+industrial automation (“Industrial Automation”) products.
+The market for our test products is concentrated with a limited number of significant customers accounting for a substantial portion of the purchases of test equipment. A few customers drive significant demand for our products both through direct sales and sales to the customer’s supply partners. We expect that sales of our test products will continue to be concentrated with a limited number of significant customers for the foreseeable future.
+We have grown our Industrial Automation business through acquisitions, including Mobile Industrial Robots A/S (“MiR”), a leading maker of collaborative autonomous mobile robots (“AMRs”) for industrial applications, in 2018 and AutoGuide, LLC (“AutoGuide”), a maker of high payload AMRs, in 2019. The market for our Industrial Automation products is dependent on the adoption of new automation technologies by large
+ 
+1
+Table of Contents
+manufacturers as well as small and medium enterprises (SMEs) throughout the world. In 2020, our Industrial Automation businesses were negatively impacted by the global industrial downturn as well as the COVID-19 pandemic.
+In 2020, revenue in our test businesses exceeded our plan as a result of Semiconductor Test demand by our largest customer, early 5G test investments and strength in our System Test businesses. The revenue of our Industrial Automation business was below our plan. In 2021, we expect strong momentum in our test businesses and a return to growth for Industrial Automation.
+Our strategy is to focus on profitably growing market share in our test businesses through the introduction of differentiated products that target growth segments and accelerating growth through continued investment in our Industrial Automation businesses. We plan to execute on our strategy while balancing capital allocations between returning capital to our shareholders through dividends and stock repurchases and using capital for opportunistic acquisitions.
+Investor Information
+We are a Massachusetts corporation incorporated on September 23, 1960. We are subject to the informational requirements of the Securities Exchange Act of 1934 (“Exchange Act”). We file periodic reports, proxy statements and other information with the Securities and Exchange Commission (“SEC”). The SEC maintains an internet site (http://www.sec.gov) that contains reports, proxy and information statements and other information regarding issuers that file documents electronically.
+You can access financial and other information, including the charters of our Audit Committee, Compensation Committee and Nominating and Corporate Governance Committee, our Corporate Governance Guidelines and Code of Conduct, by clicking the Investors link on our web site at www.teradyne.com. We make available, free of charge, copies of our filings with the SEC, including our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act through our web site as soon as reasonably practicable after filing such material electronically or otherwise furnishing it to the SEC.
+Products
+Semiconductor Test
+We design, manufacture, sell and support Semiconductor Test products and services on a worldwide basis. The test systems we provide are used both for wafer level and device package testing. These chips are used in automotive, industrial, communications, consumer, smartphones, and computer and electronic game applications, among others. Semiconductor devices span a broad range of functionality, from very simple low-cost devices such as appliance microcontrollers, operational amplifiers or voltage regulators to complex digital signal processors and microprocessors as well as memory devices. Semiconductor Test products and services are sold to integrated device manufacturers (“IDMs”) that integrate the fabrication of silicon wafers into their business, “Fabless” companies that outsource the manufacturing of silicon wafers, “Foundries” that cater to the processing and manufacturing of silicon wafers, and semiconductor assembly and test providers (“OSATs”) that provide test and assembly services for the final packaged devices to both Fabless companies and IDMs. Fabless companies perform the design of integrated circuits without manufacturing capabilities, and use Foundries for wafer manufacturing and OSATs for test and assembly. These customers obtain the overall benefit of comprehensively testing devices and reducing the total costs associated with testing by using our Semiconductor Test systems to:
+ 
+ 	•	 	
+improve and control product quality;
+ 
+ 	•	 	
+measure and improve product performance;
+ 
+ 	•	 	
+reduce time to market; and
+ 
+ 	•	 	
+increase production yields.
+ 
+2
+Table of Contents
+Our FLEX Test Platform architecture advances our core technologies to produce test equipment that is designed for high efficiency multi-site testing. Multi-site testing involves the simultaneous testing of many devices in parallel. Leading semiconductor manufacturers are using multi-site testing to significantly improve their “Cost of Test” economics. The FLEX Test Platform architecture addresses customer requirements through the following key capabilities:
+ 
+ 	•	 	
+A high efficiency multi-site architecture that reduces tester overhead such as instrument setup, synchronization and data movement, and signal processing;
+ 
+ 	•	 	
+The IG-XL™ software operating system which provides fast program development, including instant conversion from single to multi-site test; and
+ 
+ 	•	 	
+Broad technology coverage by instruments designed to cover the range of test parameters, coupled with a universal slot test head design that allows easy test system reconfiguration to address changing test needs.
+FLEX Test Platform purchases are made by IDMs, OSATs, Foundries and Fabless customers. The FLEX Test Platform has become a widely used test solution at OSATs by providing versatile testers that can handle the widest range of devices, allowing OSATs to leverage their capital investments. The broad consumer, automotive and broadband markets have historically driven most of the device volume growth in the semiconductor industry. These markets include smartphones, cell phones, tablets, set top boxes, HDTVs, game controllers, computer graphics, and automotive controllers to name a few. These end use markets continue to be drivers for the FLEX Test Platform family of products because they require a wide range of technologies and instrument coverage. In 2019, we introduced our next generation UltraFlexPlus tester, the newest member of the UltraFlex family, UltraFlexPlus uses the new PACETM architecture to deliver superior economics and fast time to market for complex digital devices. The FLEX Test Platform has an installed base of more than 8,000 systems.
+Our J750™ test system shares the IG-XL software environment with the family of FLEX Test Platform systems. The J750 is designed to address the highest volume semiconductor devices, such as microcontrollers, that are central to the functionality of almost every consumer electronics product, from small appliances to automobiles. J750 test systems combine compact packaging, high throughput and ease of production test. We extended the J750 platform technology to create the IP750 Image Sensor™ test system. The IP750 is focused on testing image sensor devices used in smartphones and other imaging products. We have continued to invest in the J750 platform with new instrument releases that bring new capabilities to existing market segments and expand the J750 platform to new devices that include high end microcontrollers and the latest generation of cameras. The J750 platform has an installed base of over 5,900 systems.
+Our Magnum platform addresses the requirements of mass production test of memory devices for flash and DRAM memory. Flash and DRAM memory are widely used core building blocks in modern electronic products finding wide application in consumer, industrial, and computing equipment. Magnum V, the newest member of the family, is a next generation memory test solution designed for parallel memory test in the flash, DRAM and multi-chip package markets. In 2019, we introduced a high-speed DRAM test version of our Magnum platform called Magnum EPIC giving us full product coverage of the memory test market. The Magnum platform has an installed base of over 3,200 systems.
+Our ETS platform is used by semiconductor manufacturers and assembly and test subcontractors, primarily in the analog/mixed signal markets that cover more cost sensitive applications. Our proprietary SmartPin™ technology enables high efficiency multi-site testing, on an individual test system, permitting greater test throughput. Semiconductors tested by ETS platform systems are incorporated into a wide range of products in historically high-growth markets, including mobile devices, video/multimedia products, automotive electronics, computer peripherals, and notebook and desktop computers. The newest products from the platform include the ETS-88, a high performance multi-site production test system designed to test a wide variety of high volume commodity and precision devices, and the ETS-800, a high performance multi-site production test system to test
+ 
+3
+Table of Contents
+high complexity power devices in automotive, industrial and consumer applications. The ETS platform has an installed base of over 5,600 systems.
+Lemsys SA, which we acquired in January 2019, has added a high power discrete device tester to our portfolio of semiconductor testers. Lemsys’s testers address the emerging segment for high power discrete devices used in electric vehicles, wind and solar power generation and other high power industrial applications.
+System Test
+Our System Test segment is comprised of three business units: Storage Test, Defense/Aerospace, and Production Board Test.
+Storage Test
+The Storage Test business unit addresses the high throughput, automated manufacturing test requirements of hard disk drive (“HDD”) and solid state disk (“SSD”) manufacturers and semiconductor manufacturers. Our products address the client and enterprise storage markets. The client market is driven by the needs of desktop, laptop, and external HDD and SSD storage products. The enterprise market is driven by the needs of data centers and cloud storage. In 2017, we developed a system level test product for the semiconductor production market, called Titan. Titan is used to test devices following wafer and package test. The business unit’s products lead in addressing customer requirements related to factory density, throughput and thermal performance.
+Defense/Aerospace
+We are a leading provider of high performance test systems, subsystems, instruments and service for the defense and aerospace markets. Our test products are used to ensure the readiness of military and commercial aerospace electronics systems. New programs, such as tactical aircraft and missile systems, as well as upgrade programs, continue to fuel the demand for high performance test systems in this market. Our test products are well-suited to the demands of defense/aerospace electronics manufacturers and repair depots worldwide. Our leadership in this market is underscored by our success with major Department of Defense programs across all U.S. military service branches and many allied defense services worldwide.
+Production Board Test
+Our test systems are used by electronics manufacturers worldwide to perform In-Circuit-Test (“ICT”) and device programming of printed circuit board assemblies. Fast, accurate and cost-effective test capabilities are hallmark features of our Test Station and Spectrum ICT product families. We offer the Test Station in off-line and automated in-line configurations. The automated in-line configurations address the growing requirements for automating production lines for high volume applications, such as automotive electronics.
+Wireless Test
+Our Wireless Test business operates under the LitePoint brand name and provides test solutions utilized in the development and manufacturing of wireless devices and modules. The world’s leading makers of smartphones, tablets, notebooks, laptops, peripherals, and Internet-of-Things (“IoT”) devices rely on LitePoint technology to ensure their products get into consumer hands with high quality and high efficiency.
+LitePoint hardware and software wireless test solutions are used in test insertions that span design verification to high volume manufacturing and are deployed across the entire production eco-system from the wireless chipset suppliers to the consumer brands. Wireless devices are often tested at multiple points along the manufacturing process that include insertions at component, system-in-package (“SiP”), module, PCB, SMT and finished product stages.
+ 
+4
+Table of Contents
+Design verification is an important step in the development process for evaluating product performance prior to starting production. As end market unit volumes have increased, the quantity of units and the amount of data that must be analyzed for a successful product launch continues to grow. LitePoint products provide easy to use, domain specific tools for rapid analysis of product performance. This helps to speed time to market.
+In high volume manufacturing, wireless test enables the calibration of each individual product’s wireless performance to improve range, data throughput and battery life. Testing also verifies product specifications for product quality control. As markets become increasingly competitive, product performance and quality provide brand differentiation.
+Wireless standards can be thought of in three categories, connectivity, cellular and location. Connectivity covers many standards such as Wi-Fi, Bluetooth, and GPS. LitePoint’s IQxel products cover emerging Wi-Fi standards such as WiFi 6E which makes use of the newly allocated 6-7GHz spectrum. Connectivity also includes a variety of other standards such as Bluetooth Classic, Bluetooth 5.0 and Bluetooth low energy, Zigbee, Z-Wave, NFC, LoRa and others.
+The IQxel product family’s high-performance wireless and multi-device testing economics is aligned with the needs of networking equipment, Internet gateways, IoT products and embedded modules used in smartphones, tablets, and PCs. Another connectivity product, the IQnfc, addresses the growing use of NFC technology for payments with mobile devices.
+Cellular standards include 2G, 3G, 4G and the new 5G mobile phone technologies. LitePoint’s IQxstream is a multi-device production test optimized solution for high-speed testing of GSM, EDGE, CDMA2000, TD-SCDMA, WCDMA, HSPA+, LTE-FDD, TD_LTE, and LTE-A, and 5G technologies. It is used for calibration and verification of smartphones, tablets, small cell wireless gateways and embedded cellular modules. The IQcell, is a multi-device cellular signaling test solution which enables user experience testing of LTE cellular devices via over-the-air connections. The IQgig family provides test solutions at the intermediate and millimeter wave frequencies for 5G and 802.11ad.
+Location technologies have traditionally been satellite-based wireless signals such as GPS and GLONASS, which are tested on LitePoint’s connectivity and cellular equipment. A new technology called Ultra-WideBand is being adopted in IoT, automotive and mobile phones. Ultra-WideBand provides finer location capability and is tested on LitePoint’s IQgig-UWB equipment.
+To complement the test systems, LitePoint offers turnkey test software for over 350 of the most popular wireless chipsets. These optimized solutions provide rapid development of high volume manufacturing solutions with a minimum of engineering effort by customers.
+Industrial Automation
+Our Industrial Automation segment is comprised of three business units: Universal Robots, Mobile Industrial Robots and AutoGuide.
+Universal Robots
+Universal Robots is a leading supplier of collaborative robots, which are low-cost, easy-to-deploy and simple-to-program robots that work side by side with production workers to improve quality, increase manufacturing efficiency and decrease manufacturing costs. Collaborative robots are designed to mimic the motion of a human arm and can be fitted with task specific grippers or end effectors to support a wide range of applications. Universal Robots offers a variety of collaborative robot models, including the UR3, UR5 and UR10,
+ 
+5
+Table of Contents
+each with different weight carrying capacity and arm reach. All models are easily integrated into existing production environments. Universal Robots’ products are differentiated by their:
+ 
+ 	•	 	
+easy programming using a graphical interface which allows users to program the collaborative robot in a few hours;
+ 
+ 	•	 	
+flexibility and ease of use in allowing customers to change the task the collaborative robot is performing as their production demands dictate;
+ 
+ 	•	 	
+safe operations as collaborative robots can assist workers in side by side production environments requiring no special safety enclosures or shielding to protect workers; and
+ 
+ 	•	 	
+short payback period, on average less than 12 months.
+In 2018, Universal Robots introduced its e-Series collaborative robots which include technology advances that enable faster development of applications, greater precision and improved safety. Universal Robots offers four e-Series collaborative robot models UR3e, UR5e, UR10e and UR16e that was launched in September 2019. In 2020, Universal Robots introduced ActiNav, an autonomous bin picking kit for machine tending applications.
+Cumulatively, Universal Robots has sold over 51,000 collaborative robots in diverse production environments and applications.
+Mobile Industrial Robots
+MiR is a leading supplier of AMRs, which are low-cost, easy-to-deploy and simple-to-program mobile robots that increase manufacturing and warehouse efficiency and decrease costs. Collaborative autonomous mobile robots are designed to move material from point to point via autonomous navigation rather than the need for traditional mobile robot guidance infrastructure such as painted or magnetic strips, and are designed to navigate safely around obstacles and people. MiR offers five collaborative autonomous mobile robot models, the MiR100, MiR200, MiR500, MiR1000 and MiR250 (launched in March 2020) each with different payload carrying capacity. All models are easily integrated into existing production environments. MiR’s products are differentiated by their:
+ 
+ 	•	 	
+easy programming using a graphical interface which allows users to program the collaborative robot in a few hours;
+ 
+ 	•	 	
+ease of use, speed of deployment and flexibility in allowing customers to change the task as their demands dictate;
+ 
+ 	•	 	
+reliable autonomous navigation over large manufacturing and warehouse areas; and
+ 
+ 	•	 	
+short payback period, on average 12–18 months.
+Cumulatively, MiR has sold over 5,000 collaborative autonomous mobile robots in diverse production and warehouse environments and applications.
+AutoGuide
+AutoGuide is a maker of high payload AMRs, an emerging and fast growing segment of the global forklift market. AutoGuide’s AMRs are used for material transport of payloads up to 4,500 kg in manufacturing, warehouse and logistics applications. These products complement MiR’s lower payload products.
+Cumulatively, AutoGuide has sold over 160 autonomous mobile robots in diverse production and warehouse environments and applications.
+ 
+6
+Table of Contents
+Sales and Distribution
+In 2020, revenues from Taiwan Semiconductor Manufacturing Company Ltd., a customer of our Semiconductor Test segment, accounted for 15% of our consolidated revenues. In 2019 and 2018, no single direct customer accounted for more than 10% of our consolidated revenues. In each of the years, 2020, 2019 and 2018, our five largest direct customers in aggregate accounted for 36%, 27% and 27% of our consolidated revenues, respectively.
+OSAT customers, such as Taiwan Semiconductor Manufacturing Company Ltd., often purchase our test systems based upon recommendations from OEMs, IDMs and Fabless companies. In all cases when an OSAT customer purchases a test system from us, we consider the OSAT as the customer since credit risk, title and risk of loss, among other things, are between Teradyne and the OSAT. We estimate consolidated revenues driven by one OEM customer, combining direct sales to that customer with sales to the customer’s OSATs (which include Taiwan Semiconductor Manufacturing Company Ltd.), accounted for approximately 25%, 10% and 13% of our consolidated revenues in 2020, 2019 and 2018, respectively. We estimate consolidated revenues driven by Huawei Technologies Co. Ltd. (“Huawei”), combining direct sales to that customer with sales to the customer’s OSATs, accounted for approximately 3%, 11% and 4% of our consolidated revenues in 2020, 2019 and 2018, respectively. The loss of, or significant decrease in demand from this OEM customer or Huawei, or any of our five largest direct customers, could have a material adverse effect on our business, results of operations and financial condition.
+We have sales and service offices located throughout North America, Central America, Asia and Europe. We sell in these areas predominantly through a direct sales force, except for Industrial Automation products, which are sold through distributors. Our manufacturing activities are primarily conducted through subcontractors and outsourced contract manufacturers with significant operations in China and Malaysia.
+Sales to customers outside the United States were 90%, 85%, and 87%, respectively, of our consolidated revenues in 2020, 2019 and 2018. Sales are attributed to geographic areas based on the location of the customer site.
+See also “Item 1A: Risk Factors” and Note T: “Operating Segment, Geographic and Significant Customer Information” in Notes to Consolidated Financial Statements.
+Competition
+We face significant competition throughout the world in each of our reportable segments. Competitors in the Semiconductor Test segment include, among others, Advantest Corporation and Cohu, Inc.
+Competitors in the System Test segment include, among others, Keysight Technologies, Inc., Advantest Corporation, Test Research, Inc. and SPEA S.p.A.
+Competitors in our Wireless Test segment include, among others, Rohde & Schwarz GmbH & Co. KG, Anritsu Company, Keysight Technologies, Inc. and National Instruments Corporation, Welzek and iTest.
+Competitors in our Industrial Automation segment include manufacturers of traditional industrial robots such as KUKA Robotics Corporation, ABB, FANUC and Yaskawa Electric Corporation, companies with emerging collaborative robot offerings such as Techman, Doosan, and AUBO Robotics, and manufacturers of autonomous mobile robots such as Omron, Fetch, OTTO Motors, Vecna, Seegrid and Balyo.
+Some of our competitors have substantially greater financial and other resources to pursue engineering, manufacturing, marketing, and distribution of their products. We also face competition from emerging Asian companies and from internal suppliers at several of our customers. Some of our competitors have introduced or
+ 
+7
+Table of Contents
+announced new products with certain performance characteristics which may be considered equal or superior to those we currently offer. We expect our competitors to continue to improve the performance of their current products and to introduce new products or new technologies that provide improved cost of ownership and performance characteristics. See also “Item 1A: Risk Factors.”
+Backlog
+At December 31, 2020 and 2019, our backlog of unfilled orders in our four reportable segments was as follows:
+ 
+ 	  	2020	 	  	2019	 
+ 	  	(in millions)	 
+Semiconductor Test
+  	$	567.4	 	  	$	543.2	 
+System Test
+  	 	290.6	 	  	 	206.0	 
+Wireless Test
+  	 	41.6	 	  	 	42.9	 
+Industrial Automation
+  	 	30.0	 	  	 	17.9	 
+  	
+ 
+ 
+ 	  	
+ 
+ 
+ 
+  	$	929.6	 	  	$	810.0	 
+  	
+ 
+ 
+ 	  	
+ 
+ 
+ 
+Customers may delay delivery of products or cancel orders suddenly and without advanced notice, subject to possible cancellation penalties. Due to possible customer changes in delivery schedules and cancellation of orders, our backlog at any particular date is not necessarily indicative of the actual sales for any succeeding period. Delays in delivery schedules or cancellations of backlog during any particular period could have a material adverse effect on our business, financial condition or results of operations.
+Raw Materials
+Our products contain electronic and mechanical components that are provided by a wide range of suppliers. Some of these components are standard products, while others are manufactured to our specifications. We can experience occasional delays in obtaining timely delivery of certain items. While the majority of our components are available from multiple suppliers, certain items are obtained from sole sources. We may experience a temporary adverse impact if any of our sole source suppliers delay or cease to deliver products.
+Intellectual Property and Licenses
+The development of our products, both hardware and software, is based in significant part on proprietary information, our brands and technology. We protect our rights in proprietary information, brands and technology through various methods, such as:
+ 
+ 	•	 	
+patents;
+ 
+ 	•	 	
+copyrights;
+ 
+ 	•	 	
+trademarks;
+ 
+ 	•	 	
+trade secrets;
+ 
+ 	•	 	
+standards of business conduct and related business practices; and
+ 
+ 	•	 	
+technology license agreements, software license agreements, non-disclosure agreements, employment agreements, and other agreements.
+However, these protections might not be effective in all circumstances. Competitors might independently develop similar technology or exploit our proprietary information and our brands in countries where we lack enforceable intellectual property rights or where enforcement of such rights through the legal system provides an
+ 
+8
+Table of Contents
+insufficient deterrent. Also, intellectual property protections can lapse or be invalidated through appropriate legal processes. We do not believe that any single piece of intellectual property or proprietary rights is essential to our business.
+Human Capital Resources
+We believe that our future success depends upon our continued ability to attract, develop, and retain a high-performance workforce, comprised of people with shared values. As of December 31, 2020, we employed approximately 5,500 employees, of whom approximately 1,900 were employed in the United States and approximately 3,600 were employed outside of the United States. Our largest non-US employee populations are in the Philippines (17%), China (12%), Denmark (10%), Costa Rica (6%), and Taiwan (6%). We also leverage contractors to provide flexibility for our business and manufacturing needs. As of December 31, 2020, we worked with approximately 300 contractors globally. Since the inception of our business, we have experienced no work stoppages or other labor disturbances.
+Corporate Culture
+Our core values are conducting business with honesty and integrity, collaborating with our colleagues as a company without doors, and partnering with our customers every step of the way, because customers count on us.
+We strive to foster a positive work environment that helps employees thrive. It is a priority for us to ensure that our people feel inspired, supported, safe and able to achieve their personal best. We are committed to equality through nondiscrimination, harassment prevention and pay equity policies. We value a diverse, inclusive and respectful work environment where all employees enjoy challenging assignments, development opportunities and a safe, positive culture.
+We are committed to conducting business in a responsible manner, with strategic operational policies, procedures and values that support transparency, sustainability and legal compliance. We ensure ethical operations and business commitments through robust governance of the company’s code of conduct and environmental, health and safety programs.
+Competitive Pay and Benefits
+The primary objective of our compensation program is to provide a compensation and benefits package that will continue to attract, retain, motivate and reward high performing employees who operate in a highly competitive and technologically challenging environment. We seek to achieve this objective by linking a significant portion of compensation to company and business unit performance. We enable employees to share in the success of the company through various programs including a stock purchase program, equity compensation, profit sharing and bonus plans. We seek competitiveness and fairness in total compensation with reference to peer comparisons and internal equity.
+In addition to providing our employees with competitive compensation packages, we offer benefits designed to meet the needs of employees and their families, including paid time off, parental leave, bereavement leave, health insurance coverage, flexible work arrangements, contributions to retirement savings, and access to employee assistance and work-life programs.
+Employee Development and Training
+We believe that employee development and training is a key factor in attracting, motivating, improving and retaining a strong, competitive workforce. We provide continual development to our employees focused on developing their job skills and competencies. Examples include new manager competencies like giving feedback
+ 
+9
+Table of Contents
+and coaching, and training in software development tools and project management. Our employees also receive annual performance reviews. Employees and managers look back on the previous year, review career development plans and create goals for the next year.
+We are committed to recruiting and developing talent at the collegiate level to help advance STEM education for the future generation. For example, our paid internships and entry-level positions offer real-world experience, and our co-op program offers higher education students a unique learning opportunity as students alternate one semester in a work assignment and one semester in the classroom. Additionally, we pay $5,250 per year for educational courses related to an employee’s work or as part of a degree program, including tuition, lab fees and books. We also offer a scholarship program for employees with college-age children and grandchildren.
+Employee Engagement
+We conduct regular employee surveys to check in with our global workforce and obtain input on a number of topics. The feedback we receive from these surveys helps us assess employee sentiment, identify areas of improvement and guides our decision-making as it relates to people management. In addition, CEO Mark Jagiela and other executives meet with employees on a frequent basis through exchange meetings and quarterly webcasts. The exchange meetings allow the executives to directly interact with a small group of employees, while the global webcasts enable all employees to engage with senior leaders and ask questions in an open Q&A session.
+We also offer employees an opportunity to network and connect with colleagues who share similar interests. This includes groups such as New Employees to Teradyne, Woman’s Affinity Group, Blue and Green (for team members that are committed to the environment), Runner’s affinity group and LGBTQ+ advocates.
+Diversity and Inclusion
+We believe in fostering a diverse workforce and equitable and inclusive culture in order to build a stronger and more resilient company for our customers, our employees and our communities. To support this effort, we have a Diversity and Inclusion Charter which was developed by our Diversity, Equity and Inclusion executive sub-committee and designed to ensure that we build diversity across our workforce. We have established programs for recruiting and hiring candidates from various backgrounds and experiences. We have implemented policies regarding gender pay equity and have conducted audits in the United States which have not identified any pay equity issues in the employee populations tested. We are an equal opportunity/affirmative action employer committed to making employment decisions without regard to race, religion, ethnicity or national origin, gender, sexual orientation, gender identity or expression, age, disability, protected veteran status or any other characteristics protected by law.
+We have a tradition of amplifying the charitable actions of our employees and responding to the needs of the communities where we work. In 2020, in order to show support for effecting positive change in society, we joined countless others to donate to organizations fighting for social justice and racial equality. We also sponsor the Massachusetts Conference for Women and the California Conference for Women offering opportunities for business networking, professional development and personal growth.
+Health and Safety
+The health and safety of our employees is our highest priority. We are committed to complying with all applicable regulatory health and safety requirements wherever we operate. We conduct internal audits, regular reviews and monitoring of regulations to ensure compliance with laws and regulations at the local, state, province and country levels. We ensure workers are provided with the knowledge to perform their jobs safely by deploying mandatory environmental, health and safety training. We also require contractors to complete safety training prior to working at any Teradyne site. We monitor, track and report common safety metrics such as
+ 
+10
+Table of Contents
+accidents, near misses and illness. Our injury and illness rate is below the industry average. We also provide our employees with a flexible and adjustable workspace, which includes reviewing ergonomics issues in the workplace, educating employees to self-identify risks and ensuring they have the work environment they need to do their jobs safely and effectively.
+Throughout the COVID-19 pandemic, we have focused on ensuring the health and safety of our employees. At the onset of the pandemic, we made the decision to close our offices and implement work from home policies for most employees. During this time, we have also provided resources to enable employees to effectively manage remote work, such as web conferencing and project collaboration solutions and furniture and equipment for at-home offices. To protect those employees whose work requires them to be on-site, we’ve implemented cleaning processes, access to personal protection equipment and other protocols to ensure their safety. We have also supported our global workforce by sending regular all-employee communications, providing development opportunities for managers and employees to support effectively working virtually, establishing emergency response teams to empower local decision-making, conducting surveys to check in with employees, sharing regular video updates from our leadership team, and establishing a well-defined return to work process.
+Regulatory Environment
+We are subject to various federal, state, and local government laws and regulations relating to international trade, business conduct, the protection of employee health and safety and the environment.
+We accrue for all known environmental liabilities when it becomes probable that we will incur cleanup costs and those costs can reasonably be estimated. Estimated environmental costs are not expected to materially affect the financial position or results of our operations in future periods. However, estimates of future costs are subject to change due to protracted cleanup periods and changing environmental remediation laws and regulations.
+We are subject to U.S. laws and regulations that limit and restrict the export of some of our products and services and may restrict our transactions with certain customers, business partners and other persons. In certain circumstances, export control and economic sanctions regulations may prohibit the export of certain products, services, and technologies, and in other circumstances we may be required to obtain an export license before exporting the controlled item. For example, we must comply with current U.S. Department of Commerce export control regulations restricting transactions with certain customers in China. We must also comply with export restrictions and laws imposed by other countries affecting trade and investments. We maintain an export compliance program but there are risks that the compliance controls could be circumvented, exposing us to legal liabilities. Compliance with these laws has not significantly limited our sales but could significantly limit them in the future. Changes in, and responses to, U.S. trade policy could reduce the competitiveness of our products and cause our sales to drop, which could have a material adverse effect on our business, financial condition or results of operations.
+ 
+11
+Table of Contents
+INFORMATION ABOUT OUR EXECUTIVE OFFICERS
+Pursuant to General Instruction G (3) of Form 10-K, the following table is included in Part I of this Annual Report on Form 10-K in lieu of being included in the Proxy Statement for the Annual Meeting of Shareholders. The table sets forth the names of all of our executive officers and certain other information relating to their positions held with Teradyne and other business experience. Our executive officers do not have a specific term of office but rather serve at the discretion of the Board of Directors.
+ 
+Executive Officer	  	Age	 	  	
+Position
+  	
+Business Experience for The Past 5 Years
+Mark E. Jagiela
+  	 	60	 	  	Chief Executive Officer and President	  	Chief Executive Officer since February 2014; President of Teradyne since January 2013; President of Semiconductor Test from 2003 to February 2016; Vice President of Teradyne from 2001 to 2013.
+Sanjay Mehta
+  	 	52	 	  	Vice President, Chief Financial Officer and Treasurer	  	Vice President, Chief Financial Officer and Treasurer of Teradyne since April 2019; Senior Vice President and General Manager of Compute and XR Products at Qualcomm Technologies, Inc. (“Qualcomm”) from June 2018 to March 2019; President of Qualcomm’s semiconductor segment (“QCT”) China from March 2016 to June 2018; Senior Vice President Business Operations of QCT at Qualcomm from November 2015 to March 2016; Chief Financial Officer and Senior Vice President, Sales Operations, of QCT at Qualcomm from October 2010 to November 2015.
+Charles J. Gray
+  	 	59	 	  	Vice President, General Counsel and Secretary	  	Vice President, General Counsel and Secretary of Teradyne since April 2009.
+Bradford B. Robbins
+  	 	62	 	  	President of Wireless Test	  	President of Wireless Test since August 2014; Chief Operating Officer of LitePoint Corporation from 2012 to 2014; Vice President of Teradyne since 2001.
+Gregory S. Smith
+  	 	57	 	  	President of Industrial Automation	  	President of Industrial Automation since October 2020; President of Semiconductor Test from February 2016 to September 2020; Vice President, SOC Business Group and Marketing Manager for Semiconductor Test Group from January 2014 to February 2016; Business Unit Manager, Complex SOC Business Unit from 2009 to January 2014.
+Richard J Burns
+  	 	58	 	  	President of Semiconductor Test	  	President of Semiconductor Test since October 2020; Vice President, Semiconductor Test Engineering from February 2016 to September 2020.
+Walter G. Vahey
+  	 	56	 	  	Executive Vice President, Business Development	  	Executive Vice President, Business Development since December 2017; President of System Test from July 2012 to December 2017; Vice President of Teradyne since 2008; General Manager of Storage Test from 2008 to December 2017; General Manager of Production Board Test from April 2013 to December 2017.
+ 

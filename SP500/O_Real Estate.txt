@@ -1,0 +1,606 @@
+PART I
+
+
+Item 1:         Business
+ 
+THE COMPANY
+ 
+Realty Income, The Monthly Dividend Company®, is an S&P 500 company dedicated to providing stockholders with dependable monthly dividends that increase over time. The company is structured as a real estate investment trust, or REIT, requiring it to annually distribute at least 90% of its taxable income (excluding net capital gains) in the form of dividends to its stockholders.  The monthly dividends are supported by the cash flow generated from real estate owned under long-term net lease agreements with our commercial clients.
+ 
+Realty Income was founded in 1969, and listed on the New York Stock Exchange (NYSE: O) in 1994.  Over the past 52 years, Realty Income has been acquiring and managing freestanding commercial properties that generate rental revenue under long-term net lease agreements with our commercial clients. We refer to our tenants as clients, because we strive to build mutually beneficial relationships and we believe their success is our success. The company is a member of the S&P 500 Dividend Aristocrats® index for having increased its dividend every year for more than 25 consecutive years.
+ 
+At December 31, 2020, we owned a diversified portfolio:
+ 
+•Of 6,592 properties;
+•With an occupancy rate of 97.9%, or 6,452 properties leased and 140 properties available for lease or sale;
+•Doing business in 51 separate industries;
+•Located in 49 U.S. states, Puerto Rico and the United Kingdom (U.K.);
+•With approximately 110.8 million square feet of leasable space;
+•With a weighted average remaining lease term (excluding rights to extend a lease at the option of our client) of approximately 9.0 years; and
+•With an average leasable space per property of approximately 16,810 square feet; approximately 12,340 square feet per retail property and 245,270 square feet per industrial property.
+ 
+Of the 6,592 properties in the portfolio at December 31, 2020, 6,555, or 99.4%, are single-client properties, of which 6,419 were leased, and the remaining are multi-client properties.
+ 
+Our eight senior officers owned 0.05% of our outstanding common stock with a market value of $12.5 million at February 15, 2021. Our directors and seven senior officers, as a group, owned 0.15% of our outstanding common stock with a market value of $34.3 million at February 15, 2021.
+ 
+Our common stock is listed on the NYSE under the ticker symbol “O” with a CUSIP number of 756109-104. Our 1.625% notes due December 2030 are listed on the NYSE under the ticker symbol "O30" with a CUSIP number of 756109-AY0. Our central index key number is 726728.
+ 
+In January 2021, we had 210 employees, inclusive of two part-time employees, as compared to 196 employees, inclusive of two part-time employees, in January 2020.
+ 
+We maintain a corporate website at www.realtyincome.com. On our website we make available, free of charge, copies of our annual report on Form 10-K, quarterly reports on Form 10-Q, Form 3s, Form 4s, Form 5s, current reports on Form 8-K, and amendments to those reports, as soon as reasonably practicable after we electronically file these reports with the Securities and Exchange Commission, or SEC. None of the information on our website is deemed to be part of this report.
+
+-2-
+Table of Contents
+RECENT DEVELOPMENTS
+Theater Industry Update
+As of December 31, 2020, our clients in the theater industry represented 5.6% of our annualized contractual rent. Given the ongoing disruption to this industry due to the COVID-19 pandemic, we performed a property-level analysis on the collectability of rent for our theater properties. Our analysis involved the assignment of quartile rankings for each asset’s pre-pandemic EBITDAR relative to each operator’s overall footprint. Other criteria utilized included an analysis of the property’s pre-pandemic annual EBITDA generation before corporate overhead, and real estate fundamentals.
+
+As a result of this analysis at September 30, 2020, we determined that for 31 of our 78 theater properties it was no longer probable that we would collect substantially all of contractual rents due. We fully reserved for six additional theater properties for which we do not possess unit level financial information. Consequently, we reserved for 100% of the outstanding receivables for 37 theater properties at September 30, 2020. Beginning October 2020, contractual rent from these 37 properties is accounted for on a cash basis. Additionally, during November 2020, one of these properties was sold. We fully reserved for one additional theater property at December 31, 2020. At December 31, 2020, the receivables outstanding for our 77 theater properties totaled $48.6 million, net of $23.7 million of reserves, and includes $7.8 million of straight-line rent receivables, net of $1.8 million of reserves. The monthly contractual rent associated with the 37 properties accounted for under the cash basis totaled approximately $2.8 million at December 31, 2020. The following table summarizes reserves recorded as a reduction of rental revenue for theater properties (dollars in millions):
+Three Months Ended		Three Months Ended		Year Ended		September 30, 2020		December 31, 2020		December 31, 2020	Rental revenue reserves	$	15.6 			$	8.1 			$	23.7 		Straight-line rent reserves	1.6 			$	0.2 			$	1.8 		Total rental revenue reserves	$	17.2 			$	8.3 			$	25.5 	 
+
+Additionally, during the third quarter, we recorded provisions for impairment on 12 of the 37 theater properties for $79.0 million. During the fourth quarter, we recorded provisions for impairment on one additional theater property for $4.8 million. Impairment charges are not included in Nareit-defined funds from operations (FFO) available to commons stockholders or in our calculation of adjusted funds from operations (AFFO) available to commons stockholders.
+
+See "Item 1A—Risk Factors" in Part I of this Annual Report on Form 10-K for more information regarding the actual and potential future impacts of the COVID-19 pandemic and the measures taken to limit its spread on our clients and our business, results of operations, financial condition and liquidity.
+
+Increases in Monthly Dividends to Common Stockholders
+We have continued our 52-year policy of paying monthly dividends. In addition, we increased the dividend five times during 2020 and once during 2021. As of February 2021, we have paid 93 consecutive quarterly dividend increases and increased the dividend 109 times since our listing on the NYSE in 1994.
+ 		Month		Month		Monthly Dividend		Increase	2020 Dividend increases		Declared		Paid		per share		per share	1st increase		Dec 2019		Jan 2020		$	0.2275 			$	0.0005 		2nd increase		Jan 2020		Feb 2020		$	0.2325 			$	0.0050 		3rd increase		Mar 2020		Apr 2020		$	0.2330 			$	0.0005 		4th increase		Jun 2020		Jul 2020		$	0.2335 			$	0.0005 		5th increase		Sep 2020		Oct 2020		$	0.2340 			$	0.0005 											2021 Dividend increases		 		 		 		 	1st increase		Dec 2020		Jan 2021		$	0.2345 			$	0.0005 	 
+ 
+The dividends paid per share during 2020 totaled $2.7940, as compared to $2.7105 during 2019, an increase of $0.0835, or 3.1%.
+ 
+The monthly dividend of $0.2345 per share represents a current annualized dividend of $2.81 per share, and an annualized dividend yield of approximately 4.5% based on the last reported sale price of our common stock on the
+-3-
+Table of Contents
+NYSE of $62.17 on December 31, 2020. Although we expect to continue our policy of paying monthly dividends, we cannot guarantee that we will maintain our current level of dividends, that we will continue our pattern of increasing dividends per share, or what our actual dividend yield will be in any future period.
+ 
+Acquisitions During 2020
+Below is a listing of our acquisitions in the U.S. and U.K. for the year ended December 31, 2020:
+Number of Properties		Leasable Square Feet		Investment
+($ in thousands)		Weighted Average Lease Term (Years)		
+Initial Average Cash Lease Yield (1)
+Year ended December 31, 2020 (2)
+Acquisitions - U.S. (in 30 states)
+202 			5,476,009 			$	1,302,220 			14.9 			5.8 	%	
+Acquisitions - U.K. (3)
+24 			2,120,256 			920,934 			10.8 			6.1 	%	Total Acquisitions	226 			7,596,265 			$	2,223,154 			13.2 			5.9 	%	Properties under Development - U.S.	18 			1,601,095 			84,127 			15.3 			5.6 	%	
+Total (4)
+244 			9,197,360 			$	2,307,281 			13.2 			5.9 	% 
+(1)The initial average cash lease yield for a property is generally computed as estimated contractual first year cash net operating income, which, in the case of a net leased property, is equal to the aggregate cash base rent for the first full year of each lease, divided by the total cost of the property. Since it is possible that our client could default on the payment of contractual rent, we cannot provide assurance that the actual return on the funds invested will remain at the percentages listed above. Contractual net operating income for the fourth quarter of 2020 includes approximately $700,000 received as a settlement credit for a property acquired in the U.S. as reimbursement of a free rent period.
+In the case of a property under development or expansion, the contractual lease rate is generally fixed such that rent varies based on the actual total investment in order to provide a fixed rate of return. When the lease does not provide for a fixed rate of return on a property under development or expansion, the initial average cash lease yield is computed as follows: estimated cash net operating income (determined by the lease) for the first full year of each lease, divided by our projected total investment in the property, including land, construction and capitalized interest costs. 
+(2) None of our investments during 2020 caused any one client to be 10% or more of our total assets at December 31, 2020. All of our investments in acquired properties during 2020 are 100% leased at the acquisition date.    
+(3) Represents investments of £707.8 million Sterling during the year ended December 31, 2020 converted at the applicable exchange rate on the date of acquisition.
+(4) Our clients occupying the new properties operate in 26 industries and are 86.6% retail and 13.4% industrial, based on rental revenue. Approximately 61% of the rental revenue generated from acquisitions during 2020 is from our investment grade rated clients, which we define as clients with a credit rating, and clients that are subsidiaries or affiliates of companies with a credit rating, as of the balance sheet date, of Baa3/BBB- or higher from one of the three major rating agencies (Moody’s/S&P/Fitch).
+
+Portfolio Discussion
+Leasing Results
+At December 31, 2020, we had 140 properties available for lease out of 6,592 properties in our portfolio, which represents a 97.9% occupancy rate based on the number of properties in our portfolio.
+
+The following tables summarize our leasing results for the periods indicated below:
+Three months ended December 31, 2020		
+Properties available for lease at September 30, 2020
+92 		
+Lease expirations (1)
+159 		
+Re-leases to same client (2)
+(72)		
+Re-leases to new client (2)(3)
+(5)		Vacant dispositions	(34)		
+Properties available for lease at December 31, 2020
+140 	 
+(1)Includes scheduled and unscheduled expirations (including leases rejected in bankruptcy), as well as future expirations resolved in the current quarter.
+(2)The annual new rent on these re-leases was $21.01 million, as compared to the previous annual rent of $20.95 million on the same properties, representing a rent recapture rate of 100.3% on the properties re-leased during the three months ended December 31, 2020.
+(3)Re-leased all five properties to new clients after a period of vacancy.
+
+-4-
+Table of Contents
+Year ended December 31, 2020		Properties available for lease at December 31, 2019	94 		
+Lease expirations (1)
+446 		
+Re-leases to same client (2)
+(296)		
+Re-leases to new client (2)(3)
+(18)		Vacant dispositions	(86)		Properties available for lease at December 31, 2020	140 	 
+(1)Includes scheduled and unscheduled expirations (including leases rejected in bankruptcy), as well as future expirations resolved in the current year.
+(2)The annual new rent on these re-leases was $66.24 million, as compared to the previous annual rent of $66.26 million on the same properties, representing a rent recapture rate of 100.0% on the properties re-leased during the year ended December 31, 2020.
+(3)Re-leased five properties to new clients without a period of vacancy, and 13 properties to new clients after a period of vacancy.
+
+As part of our re-leasing costs, we pay leasing commissions to unrelated, third party real estate brokers consistent with the commercial real estate industry standard, and sometimes provide rent concessions to our clients. We do not consider the collective impact of the leasing commissions or rent concessions to our clients to be material to our financial position or results of operations.
+ 
+At December 31, 2020, our average annualized contractual rent was approximately $15.38 per square foot on the 6,452 leased properties in our portfolio. At December 31, 2020, we classified 21 properties, with a carrying amount of $19.0 million, as real estate and lease intangibles held for sale, net on our balance sheet. The expected sale of these properties does not represent a strategic shift that will have a major effect on our operations and financial results and is consistent with our existing disposition strategy to further enhance our real estate portfolio and maximize portfolio returns.
+
+Investments in Existing Properties
+During 2020, we capitalized costs of $7.0 million on existing properties in our portfolio, consisting of $1.8 million for re-leasing costs, $198,000 for recurring capital expenditures, and $5.0 million for non-recurring building improvements. In comparison, during 2019, we capitalized costs of $17.9 million on existing properties in our portfolio, consisting of $2.1 million for re-leasing costs, $801,000 for recurring capital expenditures, and $15.0 million for non-recurring building improvements.
+ 
+The majority of our building improvements relate to roof repairs, HVAC improvements, and parking lot resurfacing and replacements. The amounts of our capital expenditures can vary significantly, depending on the rental market, credit worthiness of our clients, the lease term and the willingness of our clients to pay higher rents over the terms of the leases.
+ 
+We define recurring capital expenditures as mandatory and recurring landlord capital expenditure obligations that have a limited useful life. We define non-recurring capital expenditures as property improvements in which we invest additional capital that extend the useful life of the properties.
+-5-
+Table of Contents
+Chief Legal Officer, General Counsel and Secretary Transition
+Effective February 8, 2021, Michelle Bushore joined us as our new Executive Vice President (EVP), Chief Legal Officer, General Counsel and Secretary. Michael Pfeiffer, who served as our EVP, Chief Administrative Officer, General Counsel and Secretary intends to remain with the company through June 30, 2021, serving as EVP, Chief Administrative Officer, to assist with Ms. Bushore's transition.
+Chief Financial Officer (CFO) and Treasurer Transition
+Effective January 19, 2021, Christie B. Kelly assumed her role as our EVP, Chief Financial Officer (CFO) and Treasurer replacing Paul M. Meurer, our former CFO, who departed the company in March 2020. Concurrently with Ms. Kelly's appointment, she resigned from our Board of Directors, and our Board of Directors was reduced to nine members. As a result of Mr. Meurer's departure, we recognized an executive severance charge of $3.5 million during the first quarter of 2020, consisting of $1.6 million cash, $1.8 million related to share-based compensation expense, and $58,000 of professional fees.
+
+Issuance of Common Stock in an Underwritten Public Offering
+In January 2021, we raised $669.6 million from the issuance of 12,075,000 shares of common stock in an underwritten public offering, including 1,575,000 shares purchased by the underwriters upon the exercise of their option to purchase additional shares. The company used the net proceeds from the offering, along with available cash and additional borrowings, to fund property acquisitions and for general corporate purposes and working capital.
+
+Early Redemption of Notes
+In January 2021, we completed the early redemption on all $950.0 million in principal amount of our outstanding 3.250% notes due October 2022, plus accrued and unpaid interest. As a result of the early redemption, we will recognize a loss on extinguishment of debt of approximately $46 million, or approximately $0.12 per diluted common share, to net income available to common stockholders and Nareit-defined FFO in the three months ended March 31, 2021. Loss on extinguishment of debt is excluded in our calculation of AFFO.
+
+In January 2020, we completed the early redemption on all $250.0 million in principal amount of our outstanding 5.750% notes due January 2021, plus accrued and unpaid interest. As a result of the early redemption, we recognized a $9.8 million loss on extinguishment of debt during the three months ended March 31, 2020.
+
+Equity Capital Raising
+During 2020, we raised $1.85 billion from the sale of common stock at a weighted average price of $67.26 per share. 
+
+Note Issuances
+In December 2020, we issued $325.0 million of 0.750% senior unsecured notes due March 2026 (the "2026 Notes") and $400.0 million of 1.800% senior unsecured notes due March 2033 (the "2033" Notes"). The public offering price for the 2026 Notes was 99.192% of the principal amount, for an effective yield to maturity of 0.908% and net proceeds of approximately $320.3 million. The public offering price for the 2033 Notes was 98.470% of the principal amount, for an effective yield to maturity of 1.941% and net proceeds of $391.3 million. The proceeds from this offering were used, along with available cash and additional borrowings, as necessary, to redeem all $950 million aggregate principal amount of the company's outstanding 3.25% notes due 2022 at the applicable redemption price, plus accrued interest, to fund potential investment opportunities and for other general corporate purposes.
+
+In October 2020, we issued £400.0 million of 1.625% senior unsecured notes due December 2030. The public offering price for these notes was 99.191% of the principal amount, for an effective annual yield to maturity of 1.712% and net proceeds of $508.2 million, as converted at the applicable exchange rate on the closing of the offering. The proceeds from this offering were used to repay GBP-denominated borrowings outstanding under our $3.0 billion revolving credit facility, to settle an outstanding GBP/USD currency exchange swap arrangement, to fund potential investment opportunities and for other general corporate purposes.
+In July 2020, we issued $350.0 million of 3.250% senior unsecured notes due January 2031 (the "2031" Notes), which constituted a further issuance of, and formed a single series with, the $600.0 million of 2031 Notes issued in May 2020. The public offering price was 108.241% of the principal amount, for an effective yield to maturity of 2.341% and net proceeds of $376.6 million.
+
+-6-
+Table of Contents
+In May 2020, we issued $600.0 million of 2031 Notes. The public offering price for the notes was 98.987% of the principal amount, for an effective yield to maturity of 3.364% and net proceeds of approximately $590.0 million.
+
+The proceeds from each of the offerings of 2031 Notes were used to repay borrowings outstanding under our credit facility, to fund potential investment opportunities, and for other general corporate purposes.
+
+Commercial Paper Program
+In August 2020, we established a U.S. dollar-denominated unsecured commercial paper program. Under the terms of the program, we may, from time to time, issue unsecured commercial paper notes up to a maximum aggregate amount outstanding of $1.0 billion. Proceeds from commercial paper borrowings are used for general corporate purposes. As of December 31, 2020, we had no outstanding commercial paper borrowings. We use our $3.0 billion revolving credit facility as a liquidity backstop for the repayment of the notes issued under the commercial paper program.
+Term Loan Redemption
+In June 2020, we repaid the $250.0 million term loan in full upon maturity.
+Impact of COVID-19
+The COVID-19 pandemic and the measures taken to limit its spread are negatively impacting global, national and regional economies across many industries, including the industries in which some of our clients operate, and have disrupted the businesses and operations of some of our clients, each of which has had and may continue to have an adverse impact on our business, results of operations, financial condition, and liquidity. These impacts may increase in severity as the duration or extent of the pandemic increases. See "Item 1A—Risk Factors" in Part I of this report for more information regarding some of the actual and potential future impacts of the COVID-19 pandemic and the measures taken to limit its spread on our clients and our business, results of operations, financial condition and liquidity.
+
+As a result of this challenging environment, we continue to work diligently with our clients most affected by the pandemic to understand their business operations and financial liquidity and their ability to satisfy their contractual obligations to us. As we carefully navigate this difficult economic period with our clients, our focus is on finding resolutions that preserve the long-term relationships we have built with many of our clients.
+
+The majority of lease concessions granted to our clients during 2020 as a result of the COVID-19 pandemic have been rent deferrals with the original lease term unchanged. In these cases, we have determined that the collection of deferred rent is probable (within the meaning applicable under U.S. generally accepted accounting principles, or GAAP), although we cannot assure you that this determination will not change in the future. In addition, as we believe to be the case with many retail landlords, we have received many short-term rent relief requests, most often in the form of rent deferral requests, or requests for further discussion from our clients. We believe that not all of our client requests will ultimately result in lease modification agreements, nor have we relinquished our contractual rights under our lease agreements where rent concessions have not yet been granted. Our rent collections for the periods below and rent relief requests to-date may not be indicative of collections, concessions or requests in any future period.
+
+Percentages of Contractual Rent Collected as of January 31, 2021
+Month Ended
+October 31, 2020		Month Ended
+November 30, 2020		Month Ended
+December 31, 2020		Quarter Ended
+December 31, 2020													
+Contractual rent collected(1) across total portfolio
+93.5%		93.7%		93.6%		93.6%	
+Contractual rent collected(1) from our top 20 clients(2)
+89.8%		90.2%		89.7%		89.9%	
+Contractual rent collected(1) from our investment grade clients(3)
+100.0%		100.0%		100.0%		100.0% 
+(1) Collection rates are calculated as the aggregate contractual rent collected for the applicable period from the beginning of that applicable period through January 31, 2021, divided by the contractual rent charged for the applicable period. Rent collection percentages are calculated based on contractual rents (excluding percentage rents and contractually obligated reimbursements by our clients). Charged amounts have not been adjusted for any COVID-19 related rent relief granted and include contractual rents from any clients in bankruptcy. Due to differences in applicable foreign currency conversion rates and rent conventions, the percentages above may differ from percentages calculated utilizing total our portfolio annualized contractual rent.
+(2) We define our top 20 clients as our 20 largest clients based on percentage of total portfolio annualized contractual rent as of December 31, 2020 for all periods.
+-7-
+Table of Contents
+(3) We define our investment grade clients as clients with a credit rating, and clients that are subsidiaries or affiliates of companies with a credit rating, as of the balance sheet date, of Baa3/BBB- or higher from one of the three major rating agencies (Moody’s/S&P/Fitch).
+
+The following table provides information relating to percentage of total contractual rent due and collected for the indicated periods:
+Percentage of Total Contractual Rent Due By Month(1)
+Percentage of Total Contractual Rent Collected By Month(1)
+December
+2020		November
+2020		October
+2020		December
+2020		November
+2020		October
+2020	U.S.												Aerospace	0.6%		0.6%		0.6%		0.6%		0.6%		0.6%	Apparel stores	1.3		1.3		1.3		1.3		1.3		1.3	Automotive collision services	1.1		1.1		1.1		1.1		1.1		1.1	Automotive parts	1.6		1.6		1.6		1.6		1.6		1.6	Automotive service	2.7		2.5		2.5		2.7		2.5		2.5	Automotive tire services	2.0		2.0		2.0		2.0		2.0		2.0	Beverages	2.0		2.0		2.0		2.0		2.0		2.0	Child care	2.1		2.1		2.1		2.1		2.1		2.1	Consumer electronics	0.2		0.3		0.3		0.2		0.3		0.3	Consumer goods	0.5		0.6		0.6		0.5		0.6		0.6	Convenience stores	12.0		12.1		12.1		12.0		12.0		12.0	Crafts and novelties	0.9		0.9		0.9		0.9		0.9		0.9	Diversified industrial	0.8		0.8		0.6		0.8		0.8		0.6	Dollar stores	7.7		7.7		7.7		7.6		7.7		7.7	Drug stores	8.2		8.3		8.4		8.2		8.3		8.4	Education	0.2		0.2		0.2		0.2		0.2		0.2	Electric utilities	0.1		0.1		0.1		0.1		0.1		0.1	Entertainment	0.3		0.3		0.3		0.3		0.3		0.3	Equipment services	0.3		0.3		0.3		0.3		0.3		0.3	Financial services	1.9		1.9		1.9		1.9		1.9		1.9	Food processing	0.7		0.7		0.7		0.7		0.7		0.7	General merchandise	3.2		3.0		3.0		3.2		3.0		3.0	Government services	0.6		0.6		0.7		0.6		0.6		0.7	Grocery stores	4.9		4.9		5.0		4.9		4.9		4.9	Health and beauty	0.2		0.2		0.2		0.2		0.2		0.2	Health and fitness	6.8		6.9		7.0		5.6		6.0		6.1	Health care	1.5		1.6		1.6		1.5		1.5		1.6	Home furnishings	0.7		0.7		0.7		0.7		0.7		0.7	Home improvement	3.1		3.0		3.0		3.1		3.0		3.0	Machinery	0.1		0.1		0.1		0.1		0.1		0.1	Motor vehicle dealerships	1.6		1.6		1.6		1.6		1.6		1.6	Office supplies	0.2		0.2		0.2		0.1		0.1		0.1	Other manufacturing	0.4		0.6		0.6		0.4		0.6		0.6	Packaging	0.9		0.9		0.9		0.9		0.9		0.9	Paper	0.1		0.1		0.1		0.1		0.1		0.1	Pet supplies and services	0.7		0.7		0.7		0.7		0.7		0.7	Restaurants - casual dining	2.9		2.9		2.9		2.7		2.8		2.8	Restaurants - quick service	5.3		5.5		5.6		5.3		5.5		5.6	Shoe stores	0.2		0.2		0.2		0.2		0.2		0.2	Sporting goods	0.7		0.7		0.7		0.7		0.7		0.7	Telecommunications	0.5		0.5		0.5		0.5		0.5		0.5	Theaters	5.6		5.7		5.7		0.8		0.7		0.5	Transportation services	4.0		4.1		4.1		4.0		4.1		4.1	Wholesale clubs	2.5		2.5		2.5		2.5		2.5		2.5	Other	0.1		*		0.2		0.1		*		0.2	Total U.S.	94.0%		94.6%		95.1%		87.6%		88.3%		88.6%	U.K.												Grocery stores	4.8		4.3		3.9		4.8		4.3		3.9	Health care	0.1		0.1		0.1		0.1		0.1		0.1	Home improvement	1.1		1.0		0.9		1.1		1.0		0.9	Theaters	*		*		*		—		—		—	Total U.K.	6.0%		5.4%		4.9%		6.0%		5.4%		4.9%	Totals	100.0%		100.0%		100.0%		93.6%		93.7%		93.5% 
+* Less than 0.1%
+(1) Collection rates are calculated as the aggregate contractual rent collected for the applicable period from the beginning of that applicable period through January 31, 2021, divided by the contractual rent charged for the applicable period. Rent collection percentages are calculated based on contractual rents (excluding percentage rents and contractually obligated reimbursements by our clients). Charged amounts have not been adjusted for any COVID-19 related rent relief granted and include contractual rents from any clients in bankruptcy. Due to differences in applicable foreign currency conversion rates and rent conventions, the industry percentages above may differ from industry percentages calculated utilizing our total portfolio annualized contractual rent.
+-8-
+Table of Contents
+As the adverse impacts of the COVID-19 pandemic and the measures taken to limit its spread continue to evolve, the ability of our clients to continue to pay rent to us may further diminish, and therefore we cannot assure you that our historical rental collections are indicative of our rental collections in the future. As a result of the impacts of the COVID-19 pandemic and the measures taken to limit its spread, our revenues in the foreseeable future may decline relative to 2020, and that decline may continue or increase in subsequent periods as long as such impacts continue to exist.
+Summarized Financial Results
+The following summarizes our select financial results (dollars in millions, except per share data):
+Year Ended December 31,				2020		2019		% Increase/ (decrease)	
+Total revenue
+$	1,651.6		$	1,491.6		10.7 	%	
+Net income available to common stockholders (1)
+$	395.5		$	436.5		(9.4)	%	
+Net income per share (2)
+$	1.14		$	1.38		(17.4)	%	FFO available to common stockholders	$	1,142.1		$	1,039.6		9.9 	%	
+FFO per share (2)
+$	3.31		$	3.29		0.6 	%	
+AFFO available to common stockholders
+$	1,172.6		$	1,050.0		11.7 	%	
+AFFO per share (2)
+$	3.39		$	3.32		2.1 	% 
+(1) The calculation to determine net income available to common stockholders includes provisions for impairment, gain from the sales of real estate, and foreign currency gains and losses. These items can vary from year to year and can significantly impact net income available to common stockholders and period to period comparisons.
+(2) All per share amounts are presented on a diluted per common share basis.
+Our financial results for 2020 were impacted by the following transactions: (i) $147.2 million of provisions for impairment, (ii) $52.5 million in reserves recorded as a reduction of rental revenue, (iii) a $9.8 million loss on extinguishment of debt due to the early redemption of the 5.750% notes due 2021, and (iv) a $3.5 million executive severance charge for our former CFO. For 2019, the only comparable charges were $40.2 million in provisions for impairment and $2.9 million in reserves recorded as a reduction of rental revenue.
+
+See our discussion of FFO and AFFO (which are not financial measures under GAAP), later in the section entitled “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” in this annual report, which includes a reconciliation of net income available to common stockholders to FFO and AFFO.
+ 
+DIVIDEND POLICY
+ 
+Distributions are paid monthly to holders of shares of our common stock.
+ 
+Distributions are paid monthly to the limited partners holding common units of Realty Income, L.P., each on a per unit basis that is generally equal to the amount paid per share to our common stockholders.
+
+In order to maintain our status as a REIT for federal income tax purposes, we generally are required to distribute dividends to our stockholders aggregating annually at least 90% of our taxable income (excluding net capital gains), and we are subject to income tax to the extent we distribute less than 100% of our taxable income (including net capital gains). In 2020, our cash distributions to common stockholders totaled $964.2 million, or approximately 119.8% of our estimated taxable income of $804.9 million. Our estimated taxable income reflects non-cash deductions for depreciation and amortization. Our estimated taxable income is presented to show our compliance with REIT dividend requirements and is not a measure of our liquidity or operating performance. We intend to continue to make distributions to our stockholders that are sufficient to meet this dividend requirement and that will reduce or eliminate our exposure to income taxes. Furthermore, we believe our funds from operations are sufficient to support our current level of cash distributions to our stockholders. Our cash distributions to common stockholders in 2020 totaled $964.2 million, representing 82.2% of our adjusted funds from operations available to common stockholders of $1.173 billion. In comparison, our 2019 cash distributions to common stockholders totaled $852.1 million, representing 81.2% of our adjusted funds from operations available to common stockholders of $1.05 billion.
+ 
+-9-
+Table of Contents
+Future distributions will be at the discretion of our Board of Directors and will depend on, among other things, our results of operations, FFO, AFFO, cash flow from operations, financial condition, capital requirements, the annual distribution requirements under the REIT provisions of the Internal Revenue Code of 1986, as amended, or the Code, our debt service requirements, and any other factors the Board of Directors may deem relevant. In addition, our credit facility contains financial covenants that could limit the amount of distributions payable by us in the event of a default, and which prohibit the payment of distributions on the common or preferred stock in the event that we fail to pay when due (subject to any applicable grace period) any principal or interest on borrowings under our credit facility.
+ 
+Distributions of our current and accumulated earnings and profits for federal income tax purposes generally will be taxable to stockholders as ordinary income, except to the extent that we recognize capital gains and declare a capital gains dividend, or that such amounts constitute “qualified dividend income” subject to a reduced rate of tax. The maximum tax rate of non-corporate taxpayers for “qualified dividend income” is generally 20%. In general, dividends payable by REITs are not eligible for the reduced tax rate on qualified dividend income, except to the extent that certain holding requirements have been met with respect to the REIT’s stock and the REIT’s dividends are attributable to dividends received from certain taxable corporations (such as our taxable REIT subsidiaries) or to income that was subject to tax at the corporate or REIT level (for example, if we distribute taxable income that we retained and paid tax on in the prior taxable year). However, non-corporate stockholders, including individuals, generally may deduct up to 20% of dividends from a REIT, other than capital gain dividends and dividends treated as qualified dividend income, for taxable years beginning after December 31, 2017 and before January 1, 2026.
+ 
+Distributions in excess of earnings and profits generally will first be treated as a non-taxable reduction in the stockholders’ basis in their stock, but not below zero. Distributions in excess of that basis generally will be taxable as a capital gain to stockholders who hold their shares as a capital asset. Approximately 17.6% of the distributions to our common stockholders, made or deemed to have been made in 2020, were classified as a return of capital for federal income tax purposes.
+
+BUSINESS PHILOSOPHY AND STRATEGY
+ 
+We believe that owning an actively managed, diversified portfolio of commercial properties under long-term net lease agreements produces consistent and predictable income. A net lease typically requires the client to be responsible for monthly rent and certain property operating expenses including property taxes, insurance, and maintenance. In addition, clients of our properties typically pay rent increases based on: (1) fixed increases, (2) increases in the consumer price index (typically subject to ceilings), or (3) additional rent calculated as a percentage of the clients’ gross sales above a specified level. We believe that a portfolio of properties under long-term net lease agreements with our commercial clients generally produces a more predictable income stream than many other types of real estate portfolios, while continuing to offer the potential for growth in rental income.
+ 
+Diversification is also a key component of our investment philosophy. We believe that diversification of the portfolio by client, industry, geography, and property type leads to more consistent and predictable income for our stockholders by reducing vulnerability that can come with any single concentration. Our investment activities have led to a diversified property portfolio that, as of December 31, 2020, consisted of 6,592 properties, doing business in 51 industries, and located in 49 U.S. states, Puerto Rico and the U.K. None of the 51 industries represented in our property portfolio accounted for more than 11.9% of our annualized contractual rent as of December 31, 2020.
+ 
+Investment Strategy
+When identifying new properties for investment, we generally focus on acquiring high-quality real estate that our clients consider important to the successful operation of their business. We generally seek to acquire real estate that has the following characteristics:
+ 
+•Properties that are freestanding, commercially-zoned with a single client;
+•Properties that are in significant markets or strategic locations critical to generating revenue for our clients (i.e. they need the property in which they operate in order to conduct their business);
+•Properties that we deem to be profitable for our clients and/or can generally be characterized as important to the successful operations of the company’s business;
+•Properties that are located within attractive demographic areas relative to the business of our clients;
+•Properties with real estate valuations that approximate replacement costs;
+•Properties with rental or lease payments that approximate market rents for similar properties; and
+-10-
+Table of Contents
+•Properties that can be purchased with the simultaneous execution or assumption of long-term net lease agreements, offering both current income and the potential for future rent increases.
+ 
+We seek to invest in properties owned or leased by clients that are already or could become leaders in their respective businesses supported by mechanisms including (but not limited to) occupancy of prime real estate locations, pricing, merchandise assortment, service, quality, economies of scale, consumer branding, e-commerce, and advertising. In addition, we frequently acquire large portfolios of single-client properties net leased to different clients operating in a variety of industries. We have an internal team dedicated to sourcing such opportunities, often using our relationships with various clients, owners/developers, brokers and advisers to uncover and secure transactions. We also undertake thorough research and analysis to identify what we consider to be appropriate property locations, clients, and industries for investment. This research expertise is instrumental to uncovering net lease opportunities in markets where we believe we can add value.
+ 
+In selecting potential investments, we generally look for clients with one or more of the following attributes:
+ 
+•Reliable and sustainable cash flow;
+•Revenue and cash flow from multiple sources;
+•Are willing to sign a long-term lease (10 or more years); and
+•Are large owners and/or users of real estate.
+ 
+From a retail perspective, our investment strategy is to target clients that have a service, non-discretionary, and/or low-price-point component to their business. We believe these characteristics better position clients to operate in a variety of economic conditions and to compete more effectively with internet retailers. As a result of the execution of this strategy, approximately 95% of our annualized retail contractual rent at December 31, 2020 is derived from our clients with a service, non-discretionary, and/or low price point component to their business. From a non-retail perspective, we target industrial properties generally leased to industry leaders that are primarily investment grade rated companies. We believe these characteristics enhance the stability of the rental revenue generated from these properties.
+
+After applying this investment strategy, we pursue those transactions that meet our strategic objectives which include achieving an attractive aggregate investment spread over our cost of capital and favorable risk-adjusted returns. We will continue to evaluate all investments consistent with our objective of owning net lease assets.
+ 
+Underwriting Strategy
+In order to be considered for acquisition, properties must meet stringent underwriting requirements. We have established a four-part analysis to examine each potential investment based on:
+ 
+•The aforementioned overall real estate characteristics, including demographics, replacement cost and comparative rental rates;
+•Industry, client (including credit profile), and market conditions;
+•Store profitability for retail locations if profitability data is available; and
+•The importance of the real estate location to the operations of our clients’ business.
+
+We believe the principal financial obligations for most of our clients typically include their bank and other debt, payment obligations to employees, suppliers, and real estate lease obligations. Because we typically own the land and building in which a client conducts its business or which are critical to the client’s ability to generate revenue, we believe the risk of default on a client’s lease obligation is less than the client’s unsecured general obligations. It has been our experience that clients must retain their profitable and critical locations in order to survive. Therefore, in the event of reorganization, they are less likely to reject a lease of a profitable or critical location because this would terminate their right to use the property.
+ 
+Thus, as the property owner, we believe that we will fare better than unsecured creditors of the same client in the event of reorganization. If a property is rejected by our client during reorganization, we own the property and can either lease it to a new client or sell the property. In addition, we believe that the risk of default on real estate leases can be further mitigated by monitoring the performance of our clients’ individual locations and considering whether to proactively sell locations that meet our criteria for disposition.
+ 
+We conduct comprehensive reviews of the business segments and industries in which our clients’ operate. Prior to entering into any transaction, our research department conducts a review of a client’s credit quality. The information
+-11-
+Table of Contents
+reviewed may include reports and filings, including any public credit ratings, financial statements, debt and equity analyst reports, and reviews of corporate credit spreads, stock prices, market capitalization, and other financial metrics. We conduct additional due diligence, including financial reviews of the client, and continue to monitor our clients’ credit quality on an ongoing basis by reviewing the available information previously discussed, and providing summaries of these findings to management.
+
+At December 31, 2020, approximately 51% of our annualized contractual rent comes from properties leased to our investment grade clients, their subsidiaries or affiliated companies. At December 31, 2020, our top 20 clients (based on percentage of total portfolio annualized contractual rent) represented approximately 52% of our annualized rent and 12 of these clients have investment grade credit ratings or are subsidiaries or affiliates of investment grade companies.
+ 
+Asset Management Strategy
+In addition to pursuing new properties for investment, we seek to increase earnings and dividends through active asset management.
+ 
+Generally, our asset management efforts seek to achieve:
+ 
+•Rent increases at the expiration of existing leases, when market conditions permit;
+•Optimum exposure to certain clients, industries, and markets through re-leasing vacant properties and selectively selling properties;
+•Maximum asset-level returns on properties that are re-leased or sold;
+•Additional value creation from the existing portfolio by enhancing individual properties, pursuing alternative uses, and deriving ancillary revenue; and
+•Investment opportunities in new asset classes for the portfolio.
+ 
+We continually monitor our portfolio for any changes that could affect the performance of our clients, our clients’ industries, and the real estate locations in which we have invested. We also regularly analyze our portfolio with a view towards optimizing its returns and enhancing its overall credit quality. Our active asset management strategy pursues asset sales when we believe the reinvestment of the sale proceeds will:
+ 
+•Generate higher returns;
+•Enhance the credit quality of our real estate portfolio;
+•Extend our average remaining lease term; and/or
+•Strategically decrease client, industry, or geographic concentration.
+ 
+The active management of the portfolio is an essential component of our long-term strategy of maintaining high occupancy.
+
+Capital Philosophy
+Historically, we have met our long-term capital needs by issuing common stock, preferred stock and long-term unsecured notes and bonds. Over the long term, we believe that common stock should be the majority of our capital structure; however, we may issue preferred stock or debt securities. We may issue common stock when we believe that our share price is at a level that allows for the proceeds of any offering to be accretively invested into additional properties. In addition, we may issue common stock to permanently finance properties that were initially financed by our credit facility, commercial paper program, or debt securities. However, there can be no assurances that we will have access to the capital markets at all times and at terms that are acceptable to us.
+ 
+Our primary cash obligations, for the current year and subsequent years, are included in the “Table of Obligations,” which is presented later in this section. We expect to fund our operating expenses and other short-term liquidity requirements, including property acquisitions and development costs, payment of principal and interest on our outstanding indebtedness, property improvements, re-leasing costs and cash distributions to common stockholders, primarily through cash provided by operating activities, borrowings on our credit facility and under our commercial paper program, and through public securities offerings.
+
+We may choose to mitigate our financial exposure to exchange rate risk for properties acquired outside the U.S. through the issuance of debt securities denominated in the same local currency and through currency derivatives. We may leave a portion of our foreign cash flow unhedged to reinvest in additional properties in the same local currency.
+
+-12-
+Table of Contents
+For 2021, we intend to continue our active disposition efforts to further enhance our real estate portfolio. We plan to invest these proceeds into new property acquisitions if there are attractive opportunities available. However, we cannot guarantee that we will sell properties during 2021 or be able to invest the property sale proceeds in new properties.
+
+Conservative Capital Structure
+We believe that our stockholders are best served by a conservative capital structure. Therefore, we seek to maintain a conservative debt level on our balance sheet and solid interest and fixed charge coverage ratios. At December 31, 2020, our total outstanding borrowings of senior unsecured notes and bonds, term loan and mortgages payable were $8.85 billion, or approximately 28.2% of our total market capitalization of $31.34 billion.
+ 
+We define our total market capitalization at December 31, 2020 as the sum of:
+ 
+•Shares of our common stock outstanding of 361,303,445, plus total common units outstanding of 463,119, multiplied by the last reported sales price of our common stock on the NYSE of $62.17 per share on December 31, 2020, or $22.49 billion;
+•Outstanding mortgages payable of $299.6 million, excluding net mortgage premiums of $1.7 million and deferred financing costs of $973,000;
+•Outstanding borrowings of $250.0 million on our term loan, excluding deferred financing costs of $642,000;
+•Outstanding senior unsecured notes and bonds of $8.30 billion, including Sterling-denominated notes totaling £715.0 million, and excluding unamortized net original issuance premiums of $14.6 million and deferred financing costs of $49.2 million; and
+•No borrowings outstanding on our revolving credit facility.
+
+Impact of Real Estate and Credit Markets
+In the commercial real estate market, property prices generally continue to fluctuate. Likewise, during certain periods, including the current market, the global credit markets have experienced significant price volatility, dislocations, and liquidity disruptions, which may impact our access to and cost of capital. We continually monitor the commercial real estate and global credit markets carefully and, if required, will make decisions to adjust our business strategy accordingly.
+ 
+Universal Shelf Registration
+In November 2018, we filed a shelf registration statement with the SEC, which is effective for a term of three years and will expire in November 2021. In accordance with SEC rules, the amount of securities to be issued pursuant to this shelf registration statement was not specified when it was filed and there is no specific dollar limit. The securities covered by this registration statement include (1) common stock, (2) preferred stock, (3) debt securities, (4) depositary shares representing fractional interests in shares of preferred stock, (5) warrants to purchase debt securities, common stock, preferred stock, or depositary shares, and (6) any combination of these securities. We may periodically offer one or more of these securities in amounts, prices and on terms to be announced when and if these securities are offered. The specifics of any future offerings, along with the use of proceeds of any securities offered, will be described in detail in a prospectus supplement, or other offering materials, at the time of any offering.
+
+Revolving Credit Facility and Commercial Paper Program
+We have a $3.0 billion unsecured revolving credit facility with an initial term that expires in March 2023 and includes, at our option, two six-month extensions. The multicurrency revolving facility allows us to borrow in up to 14 currencies, including U.S. dollars. Our revolving credit facility has a $1.0 billion expansion option, which is subject to obtaining lender commitments. Under our credit facility, our investment grade credit ratings as of December 31, 2020 provide for financing at the London Interbank Offered Rate, commonly referred to as LIBOR, plus 0.775% with a facility commitment fee of 0.125%, for all-in pricing of 0.90% over LIBOR.
+
+The borrowing rate under our revolving credit facility is subject to an interest rate floor and may change if our investment grade credit ratings change. We also have other interest rate options available to us under our credit facility. Our revolving credit facility is unsecured and, accordingly, we have not pledged any assets as collateral for this obligation.
+ 
+At December 31, 2020, we had a borrowing capacity of $3.0 billion available on our revolving credit facility and no outstanding balance. The weighted average interest rate on borrowings outstanding under our revolving credit facility during 2020 was 1.5% per annum. We must comply with various financial and other covenants in our credit facility. At December 31, 2020, we were in compliance with these covenants. We continually evaluate our business
+-13-
+Table of Contents
+operations through the COVID-19 pandemic and, as of December 31, 2020, expect to remain in compliance with the financial covenants for our credit facility over the next 12 months. We expect to use our credit facility to acquire additional properties and for other general corporate purposes. Any additional borrowings will increase our exposure to interest rate risk.
+
+In August 2020, we established a U.S. dollar-denominated unsecured commercial paper program. Under the terms of the program, we may, from time to time, issue unsecured commercial paper notes up to a maximum aggregate amount outstanding of $1.0 billion. Borrowings under this program generally mature in one year or less. At December 31, 2020, we had no outstanding commercial paper borrowings. The weighted average interest rate on borrowings under our commercial paper program was 0.3% from inception of the plan through December 31, 2020. We use our $3.0 billion revolving credit facility as a liquidity backstop for the repayment of the notes issued under the commercial paper program.
+ 
+We generally use our credit facility and commercial paper borrowings for the short-term financing of new property acquisitions. Thereafter, we generally seek to refinance those borrowings with the net proceeds of long-term or permanent financing, which may include the issuance of common stock, preferred stock or debt securities. We cannot assure you, however, that we will be able to obtain any such refinancing, or that market conditions prevailing at the time of the refinancing will enable us to issue equity or debt securities at acceptable terms. We regularly review our credit facility and commercial paper program and may seek to extend, renew or replace one or both, to the extent we deem appropriate.
+ 
+Cash Reserves
+We are organized to operate as an equity REIT that acquires and leases properties and distributes to stockholders, in the form of monthly cash distributions, a substantial portion of our net cash flow generated from leases on our properties. We intend to retain an appropriate amount of cash as working capital. At December 31, 2020, we had cash and cash equivalents totaling $824.5 million, inclusive of £32.3 million Sterling.
+ 
+We believe that our cash and cash equivalents on hand, cash provided from operating activities, and borrowing capacity is sufficient to meet our liquidity needs for the next twelve months. We intend, however, to use permanent or long-term capital to fund property acquisitions and to repay future borrowings under our credit facility and commercial paper program.
+ 
+Credit Agency Ratings
+The borrowing interest rates under our revolving credit facility are based upon our ratings assigned by credit rating agencies. As of December 31, 2020, we were assigned the following investment grade corporate credit ratings on our senior unsecured notes and bonds: Moody’s Investors Service has assigned a rating of A3 with a “stable” outlook and Standard & Poor’s Ratings Group has assigned a rating of A- with a “stable” outlook. In addition, we were assigned the following ratings on our commercial paper at December 31, 2020: Moody's Investors Service has assigned a rating of P-2 and Standard & Poor's Ratings Group has assigned a rating of A-2.
+ 
+Based on our ratings as of December 31, 2020, the facility interest rate was LIBOR, plus 0.775% with a facility commitment fee of 0.125%, for all-in pricing of 0.90% over LIBOR. Our credit facility provides that the interest rate can range between: (i) LIBOR, plus 1.45% if our credit rating is lower than BBB-/Baa3 or unrated and (ii) LIBOR, plus 0.75% if our credit rating is A/A2 or higher. In addition, our credit facility provides for a facility commitment fee based on our credit ratings, which range from: (i) 0.30% for a rating lower than BBB-/Baa3 or unrated, and (ii) 0.10% for a credit rating of A/A2 or higher.
+ 
+We also issue senior debt securities from time to time and our credit ratings can impact the interest rates charged in those transactions. If our credit ratings or ratings outlook change, our cost to obtain debt financing could increase or decrease. The credit ratings assigned to us could change based upon, among other things, our results of operations and financial condition. These ratings are subject to ongoing evaluation by credit rating agencies and we cannot assure you that our ratings will not be changed or withdrawn by a rating agency in the future if, in its judgment, circumstances warrant. Moreover, a rating is not a recommendation to buy, sell or hold our debt securities, preferred stock or common stock.
+
+Term Loans
+In October 2018, in conjunction with our credit facility, we entered into a $250.0 million senior unsecured term loan, which matures in March 2024, and is governed by the credit agreement that governs our revolving credit facility. Borrowing under this term loan bears interest at the current one-month LIBOR, plus 0.85%. In conjunction with this
+-14-
+Table of Contents
+term loan, we also entered into an interest rate swap which effectively fixes our per annum interest on this term loan at 3.89%.
+
+In June 2015, in conjunction with entering into our previous credit facility, we entered into a $250.0 million senior unsecured term loan which matured in June 2020. Borrowing under this term loan bore interest at the current one-month LIBOR, plus 0.90%. In conjunction with this term loan, we also entered into an interest rate swap which effectively fixed our per annum interest rate on this term loan at 2.62%. In June 2020, we repaid the term loan in full upon maturity.
+
+Mortgage Debt
+As of December 31, 2020, we had $299.6 million of mortgages payable, all of which were assumed in connection with our property acquisitions. Additionally, at December 31, 2020, we had net premiums totaling $1.7 million on these mortgages and deferred financing costs of $973,000. We expect to pay off the mortgages payable as soon as prepayment penalties have declined to a level that would make it economically feasible to do so. During 2020, we made $108.8 million of principal payments, including the repayment of nine mortgages in full for $103.4 million.
+ 
+Notes Outstanding
+As of December 31, 2020, we had $8.30 billion of senior unsecured note and bond obligations, excluding unamortized net original issuance premiums of $14.6 million and deferred financing costs of $49.2 million. All of our outstanding notes and bonds have fixed interest rates. With the exception of interest on our 1.625% senior unsecured notes due in December 2030, which is paid annually, interest on all of our other senior note and bond obligations is paid semiannually.
+ 
+No Unconsolidated Investments
+We have no unconsolidated investments, nor do we engage in trading activities involving energy or commodity contracts.
+ 
+Environmental, Social and Governance (ESG)
+In recent years, our environmental, social, and governance efforts have quickly evolved from commitments to action. We continue to focus on how best to institutionalize efforts for a lasting and positive impact. We strive to be a leader in the net lease industry in ESG initiatives.
+
+We are committed to conducting our business according to the highest ethical standards. We are dedicated to providing an engaging, diverse, and safe work environment for our employees, operating our business in an environmentally conscious manner, and upholding our corporate responsibilities as a public company for the benefit of our stakeholders - our investors, clients, team and community.
+
+As The Monthly Dividend Company®, our mission is to conduct business with integrity, transparency, respect and humility to create long-term value across economic cycles for all stakeholders. We are dedicated to providing dependable monthly dividends that increase over time.
+
+We believe that our commitment to corporate responsibility, which encompasses ESG principles, is critical to our performance and long-term success and that we all have a shared responsibility to our community and the planet. The Nominating/Corporate Governance Committee of our Board of Directors has direct oversight of ESG matters.
+
+Environmental - Sustainability
+In 2020, we took the next step on our sustainability agenda by continuing to increase our ESG reporting and disclosure, expanding our "green lease" coverage, and committing to offsetting 100% of our electricity usage at our corporate headquarters through renewable energy combined with an energy storage system. As our sustainability strategy matures, we plan on executing more environmental impact initiatives in the coming years, by utilizing opportunities to collaborate with both internal and external stakeholders.
+
+We hold the protection of our assets, communities, and the environment in high regard. Based on our business model, the properties in our portfolio are primarily net leased to our clients, and each client is generally responsible for maintaining the buildings, including utilities management and the implementation of environmentally sustainable practices at each location. In that light, we intend to expand our client engagement efforts to achieve shared sustainability objectives on an ongoing basis. As a member of the National Association of Real Estate Investment Trusts (Nareit) Real Estate Sustainability Council, we are focused on leveraging best practices and advancing our efforts in this area.
+-15-
+Table of Contents
+
+Social - Company Culture and Employees
+
+Human Capital
+We put great effort into cultivating an inclusive company culture. We are one team, and together we are committed to providing an engaging work environment centered on our values of integrity, transparency, respect, and humility. We hire talented employees with diverse backgrounds and perspectives and work to provide an environment with regular, open communication where capable team members have fulfilling careers and are encouraged to engage with and make a positive impact on business partners and the communities in which we operate.
+
+The COVID-19 pandemic presented challenges to our employees. In response, during 2020, we took the following actions to seek to assist our employees:
+
+•Transitioned all employees to working remotely through secure systems supported by our IT department;
+•Utilized Microsoft Teams to support regular communication, collaboration, and continued training;
+•Increased dialogue with our team leaders, including our CEO, who scheduled regular check-in calls with departments and employees;
+•Provided resources to employees who were directly impacted by the COVID-19 pandemic;
+•Implemented a business continuity plan that includes emergency planning, disaster recovery, alternative communication outlets, and real-time testing simulations;
+•Engaged with employees through a survey to gather their perspectives on how and when to return to an office work environment based on their individual situations; and
+•Established virtual engagement activities bringing colleagues together through the Team Building Committee and Green Team.
+
+Recruitment, Development and Retention
+We believe our employees form the foundation of our corporate culture and are one of our most valuable assets. As of January 2021, we employed 210 professionals (including two part-time employees), with the majority of talent recruited and hired from the local community. In order to broaden our reach for talent, we offer a college internship program and attract candidates utilizing diverse resources such as affinity associations, targeted job advertisements, and employee referrals. Additionally, as part of our ongoing efforts to strengthen our internal leadership development capabilities, we operate an annual mentorship program and train on topics such as anti-discrimination and harassment, cybersecurity, Diversity, Equality and Inclusion (DE&I) awareness, safety, and important company policies that are required for every employee. We also offer competency-based training that includes professional development, mentorship opportunities, executive and officer-level coaching, and leadership development.
+
+Assistance and support are provided to employees who are working towards obtaining job-related licenses and relevant certifications as well continuing education. Opportunities to enroll in professional and technical education is also extended to all employees who are looking for ways to continue learning and growing with the company.
+
+Employee retention is vital to maintaining a robust and cohesive workforce. To that end, we provide compensation that we believe is competitive with our peers and competitors, including a generous benefits package. Benefits include medical, dental, and vision healthcare benefits for all employees and their families; participation in a 401(k) plan with a matching contribution from us; paid time-off; disability and life insurance; and, in years that the company's performance meets certain goals, the ability to earn equity in the company that vests over four years. Our employees have an average tenure of over five years and our leadership, including Vice President and above, tenure is over 11 years.
+
+Diversity, Equality and Inclusion
+We believe that much of our success is rooted in the diversity of our teams and our commitment to inclusion. This commitment starts at the top with our highly skilled and diverse Board, comprised of individuals with a variety of backgrounds and experience. We strive to emulate this diversity throughout the company as part of our ongoing commitment to diversity, equality and inclusion, our DE&I Policy. In 2020 we focused on building our employees awareness and understanding of DE&I with both required and voluntary learning opportunities (65% participation).
+
+These learning opportunities aim to continue building knowledge and facilitate open and safe conversations regarding critical DE&I topics, such as confronting bias in the workplace, driving inclusive conversations with others, and promoting belonging in our remote environment.
+
+We perform a pay equity analysis each year to ensure that regardless of gender, race, or national origin, employees who perform similar work under similar circumstances are paid similar wages.
+
+-16-
+Table of Contents
+Workforce Demographics
+The following data is as of February 8, 2021 and was gathered voluntarily from employees and directors, and reflects the information provided by the participating respondents. We define Manager Level as employees that either supervise at least one team member or hold a title of Associate Director or above. We define Senior Officer Level as employees with a title of Senior Vice President or above.
+o-20201231_g2.jpgo-20201231_g3.jpgo-20201231_g4.jpg
+*6 of 17 senior officers identify as women
+
+Age	% of our Workforce	Under 30 years old	21 	%	Between 30 and 50 years old	57 	%	Over 50 years old	22 	%	Ethnicity		Asian	13 	%	Black or African American	4 	%	Hispanic or Latino	11 	%	Caucasian	68 	%	Two or more races	4 	%	In addition, 22% of our Board of Directors identify as women and 44% identify as ethnically diverse. 
+
+Employee Engagement
+We believe our focus on culture, employee engagement and inclusion has helped us mitigate the risk of losing key team members. To assess, analyze, and respond to employee sentiment and to ensure that we are doing all we can to foster engagement from a strategic perspective, we launched our first employee engagement survey in 2019. Eighteen months later, we conducted our second employee engagement survey, both with an overwhelming 99% of employees participating and increasing positive results. We continuously engage in our culture and the work environment experiences for opportunities to improve. We intend to continue to conduct employee engagement surveys every eighteen months.
+
+We sponsor an active Team Building Committee comprised of volunteer-employees across numerous departments and seniority levels that organizes employee-driven, team-building events and activities to promote employee involvement, communication, and organizational continuity to foster strong interconnected relationships. We complement the Team Building Committee in support of our Environmental, Social, and Governance efforts with another volunteer-based, employee-driven Green Team that works on sustainability related matters at our office and in the community.
+
+Employee Health, Safety and Wellbeing
+We believe the health and wellbeing of our team members are cornerstones for our successful operations. Our “O”verall Wellbeing Program provides opportunities for our people to participate in various activities and educational programs to enhance their personal and professional lives. To support a healthy work-life balance, we offer flexible work schedules, fitness programs, on-site dry-cleaning pickup, car wash services, paid family leave, generous maternity leave, lactation rooms and an infant at work program for new parents. Employees also have access to a robust employee assistance program. Our Injury and Illness Prevention Program (IIPP) helps us meet our goal of maintaining a safe and healthy working environment for our employees.
+
+-17-
+Table of Contents
+Additionally, we have been training employees on best practice health habits in advance of a future return to our offices. Every employee will be required to attend an information session prior to regularly returning to the office to work. We have invested in MERV 13 filters, continuous HVAC air filtration, sanitizing stations, social distancing guidelines, training for healthy hand washing habits, escalated cleaning protocols, and preventative health screening questionnaires to create a safe and clean environment for our employees.
+
+Our people are Realty Income.
+
+Governance - Fiduciary Duties and Ethics
+We believe that nothing is more important than a company’s reputation for integrity and serving as a responsible fiduciary for its stockholders. We are committed to managing the company for the benefit of our stockholders and are focused on maintaining good corporate governance. Our practices that illustrate this commitment include, but are not limited to:
+
+•Our Board of Directors is currently comprised of nine directors, eight of whom are independent, non- employee directors;
+•Our Board of Directors is elected on an annual basis with a majority vote standard;
+•Our directors conduct annual self-evaluations and participate in orientation and continuing education programs;
+•An enterprise risk management evaluation is conducted annually to identify and assess company risk;
+•Each committee within our Board of Directors is comprised entirely of independent directors; and
+•We adhere to all other corporate governance principles outlined in our Corporate Governance Guidelines. These guidelines, as well as our bylaws, committee charters and other governance documents may be found on our website.
+
+We are committed to conducting our business according to the highest ethical standards and upholding our corporate responsibilities as a public company operating for the benefit of our stockholders. Our Board of Directors has adopted a Code of Business Ethics that applies to our directors, officers, and other employees. The Code of Business Ethics includes our commitment to dealing fairly with all of our customers, service providers, suppliers, and competitors. We conduct an annual training with our employees regarding ethical behavior and require all employees to acknowledge the terms of, and abide by, our Code of Business Ethics, which is also available on our website. Our employees have access to members of our Board of Directors to report anonymously, if desired, any suspicion of misconduct by any member of our senior management or executive team. Anonymous reporting is always available through the company’s whistleblower hotline and reported to our Audit Committee quarterly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-18-
+Table of Contents
+
+PROPERTY PORTFOLIO INFORMATION
+ 
+At December 31, 2020, we owned a diversified portfolio:
+ 
+•Of 6,592 properties;
+•With an occupancy rate of 97.9%, or 6,452 properties leased and 140 properties available for lease or sale;
+•Doing business in 51 separate industries;
+•Located in 49 U.S. states, Puerto Rico and the U.K.;
+•With approximately 110.8 million square feet of leasable space;
+•With a weighted average remaining lease term (excluding rights to extend a lease at the option of the client) of approximately 9.0 years; and
+•With an average leasable space per property of approximately 16,810 square feet; approximately 12,340 square feet per retail property and 245,270 square feet per industrial property.
+ 
+At December 31, 2020, 6,452 properties were leased under net lease agreements. A net lease typically requires the client to be responsible for monthly rent and certain property operating expenses including property taxes, insurance, and maintenance. In addition, our clients are typically subject to future rent increases based on increases in the consumer price index (typically subject to ceilings), additional rent calculated as a percentage of the client's gross sales above a specified level, or fixed increases.
+
+We define total portfolio annualized contractual rental revenue as the monthly aggregate cash amount charged to clients, inclusive of monthly base rent receivables, as of the balance sheet date, multiplied by 12, excluding percentage rent. We believe total portfolio annualized contractual rent is a useful supplemental operating measure, as it excludes properties that were no longer owned at the balance sheet date and includes the annualized rent from properties acquired during the quarter. Total portfolio annualized contractual rent has not been reduced to reflect reserves recorded as reductions to GAAP rental revenue in the periods presented.
+
+-19-
+Table of Contents
+Industry Diversification
+The following table sets forth certain information regarding our property portfolio classified according to the business of the respective clients, expressed as a percentage of our total portfolio annualized contractual rent:
+ 
+Percentage of Total Portfolio Annualized Contractual Rent by Industry		As of		Dec 31, 2020		Dec 31, 2019		Dec 31, 2018		Dec 31, 2017		Dec 31, 2016	
+U.S.
+Aerospace	0.6 	%		0.8 	%		0.9 	%		1.0 	%		1.1 	%	Apparel stores	1.3 			1.1 			1.2 			1.4 			1.7 		Automotive collision services	1.1 			1.0 			0.9 			1.0 			1.0 		Automotive parts	1.6 			1.6 			1.7 			1.5 			1.3 		Automotive service	2.7 			2.6 			2.3 			2.5 			2.0 		Automotive tire services	2.0 			2.1 			2.3 			2.5 			2.6 		Beverages	2.1 			2.0 			2.4 			2.6 			2.8 		Child care	2.1 			2.1 			2.2 			1.7 			1.7 		Consumer electronics	0.3 			0.3 			0.3 			0.3 			0.3 		Consumer goods	0.6 			0.6 			0.7 			0.7 			0.9 		Convenience stores	11.9 			12.3 			12.6 			9.3 			10.0 		Crafts and novelties	0.9 			0.6 			0.6 			0.6 			0.5 		Diversified industrial	0.8 			0.7 			0.8 			0.8 			0.9 		Dollar stores	7.6 			7.9 			7.3 			7.5 			8.0 		Drug stores	8.2 			8.8 			9.4 			10.2 			10.8 		Education	0.2 			0.2 			0.3 			0.3 			0.3 		Electric utilities	0.1 			0.1 			0.1 			0.1 			0.1 		Entertainment	0.3 			0.3 			0.3 			0.4 			0.4 		Equipment services	0.3 			0.4 			0.4 			0.4 			0.5 		Financial services	1.8 			2.0 			2.4 			2.3 			2.6 		Food processing	0.7 			0.7 			0.5 			0.6 			1.0 		General merchandise	3.4 			2.5 			2.1 			2.3 			1.9 		Government services	0.6 			0.7 			0.9 			0.9 			1.0 		Grocery stores	4.9 			5.2 			5.0 			5.3 			3.5 		Health and beauty	0.2 			0.2 			0.2 			*		*	Health and fitness	6.7 			7.0 			7.1 			7.7 			7.6 		Health care	1.5 			1.6 			1.6 			1.4 			1.5 		Home furnishings	0.7 			0.8 			0.8 			0.9 			0.9 		Home improvement	3.1 			2.9 			2.8 			2.9 			2.5 		Machinery	0.1 			0.1 			0.1 			0.1 			0.1 		Motor vehicle dealerships	1.6 			1.6 			1.8 			2.0 			2.0 		Office supplies	0.1 			0.2 			0.2 			0.2 			0.3 		Other manufacturing	0.4 			0.6 			0.7 			0.8 			0.8 		Packaging	0.9 			0.8 			1.0 			1.1 			0.9 		Paper	0.1 			0.1 			0.1 			0.1 			0.1 		Pet supplies and services	0.7 			0.7 			0.5 			0.6 			0.6 		Restaurants - casual dining	2.8 			3.2 			3.3 			3.6 			3.7 		Restaurants - quick service	5.3 			5.8 			6.3 			5.2 			4.8 		Shoe stores	0.2 			0.2 			0.5 			0.6 			0.6 		Sporting goods	0.7 			0.8 			0.9 			1.0 			1.5 		Telecommunications	0.5 			0.5 			0.6 			0.6 			0.7 		Theaters	5.6 			6.1 			5.3 			5.7 			4.6 		Transportation services	3.9 			4.3 			5.0 			5.4 			5.7 		Wholesale clubs	2.4 			2.5 			2.9 			3.1 			3.4 		Other	0.2 			0.7 			0.7 			0.8 			0.8 		
+Total U.S.
+93.8 	%	
+
+97.3 	%		100.0 	%		100.0 	%	
+
+100.0 	%	
+U.K.
+Grocery stores	4.9 			2.7 			— 			— 			— 		Health care	0.1 			— 			— 			— 			— 		Home improvement	1.2 			— 			— 			— 			— 		
+Theaters
+*		*		— 			— 			— 		
+Total U.K.
+6.2 	%		2.7 	%		— 	%		— 	%		— 	%	
+Totals
+100.0 	%	
+
+100.0 	%		100.0 	%		100.0 	%	
+
+100.0 	% 
+* Less than 0.1%
+-20-
+Table of Contents
+Property Type Composition
+The following table sets forth certain property type information regarding our property portfolio as of December 31, 2020 (dollars in thousands):
+ 
+Property Type		Number of
+Properties		
+Approximate Leasable
+Square Feet (1)
+Total Portfolio Annualized Contractual Rent as of
+December 31, 2020		Percentage of Total Portfolio Annualized Contractual Rent	Retail		6,419 			79,227,800 			$	1,409,959 			84.4 	%	Industrial		115 			28,206,300 			182,004 			10.9 		Office		43 			3,175,700 			51,308 			3.1 		Agriculture		15 			184,500 			27,113 			1.6 		Totals		6,592 			110,794,300 			$	1,670,384 			100.0 	% 
+(1) Includes leasable building square footage. Excludes 3,300 acres of leased land categorized as agriculture at December 31, 2020.
+
+Client Diversification
+The following table sets forth our 20 largest clients in our property portfolio, expressed as a percentage of total portfolio annualized contractual rent, which does not give effect to deferred rent, at December 31, 2020:
+ 
+Client		Number of
+Leases		Percentage of Total Portfolio Annualized Contractual Rent	Walgreens		248 			5.7 	%	7-Eleven		432 			4.8 	%	Dollar General		787 			4.3 	%	FedEx		41 			3.7 	%	Dollar Tree / Family Dollar		550 			3.3 	%	LA Fitness		56 			3.1 	%	Sainsbury's		18 			3.0 	%	Wal-Mart / Sam's Club		58 			2.9 	%	Regal Cinemas (Cineworld)		41 			2.7 	%	AMC Theaters		32 			2.7 	%	Lifetime Fitness		16 			2.4 	%	Circle K (Couche-Tard)		277 			1.8 	%	BJ's Wholesale Clubs		15 			1.7 	%	Treasury Wine Estates		17 			1.6 	%	CVS Pharmacy		88 			1.5 	%	Speedway (Marathon)		161 			1.5 	%	Kroger		22 			1.5 	%	Tesco		10 			1.4 	%	Home Depot		22 			1.3 	%	GPM Investments / Fas Mart		202 			1.3 	%	Totals		3,093 			52.2 	% 
+
+
+
+
+
+
+
+
+
+-21-
+Table of Contents
+Lease Expirations
+The following table sets forth certain information regarding the timing of the lease term expirations in our portfolio (excluding rights to extend a lease at the option of the client) and their contribution to total portfolio annualized contractual rent as of December 31, 2020 (dollars in thousands):
+ 
+Total Portfolio(1)
+Expiring
+Leases
+Approximate
+Leasable	Total Portfolio Annualized Contractual Rent as of
+December 31, 2020	Percentage of Total Portfolio Annualized Contractual Rent	
+Year
+Retail
+Non-Retail
+Square Feet	2021	178 		10 		1,491,300 		$	28,832 		1.7 	%	2022	372 		21 		8,339,600 		78,637 		4.7 		2023	545 		24 		9,751,500 		121,418 		7.3 		2024	418 		17 		7,768,600 		98,186 		5.9 		2025	507 		21 		7,913,500 		122,585 		7.3 		2026	374 		10 		6,731,800 		89,150 		5.3 		2027	432 		4 		6,507,400 		88,054 		5.3 		2028	590 		14 		11,789,800 		136,826 		8.2 		2029	541 		6 		9,277,800 		131,580 		7.9 		2030	227 		12 		6,856,200 		78,966 		4.7 		2031	253 		15 		6,799,500 		114,831 		6.9 		2032	304 		12 		4,898,100 		101,673 		6.1 		2033	288 		4 		3,894,200 		71,124 		4.3 		2034	304 		3 		5,239,200 		125,685 		7.5 		2035	258 		— 		2,181,600 		62,335 		3.7 		2036-2046	765 		7 		9,158,200 		220,502 		13.2 		Totals	6,356 		180 		108,598,300 		$	1,670,384 		100.0 	% 
+(1) The table sets forth the timing of remaining lease terms expirations in our portfolio and their contributions to contractual rent as of December 31, 2020. Leases on our multi-client properties are counted separately in the table above. The table excludes 163 vacant units.
+
+-22-
+Table of Contents
+Geographic Diversification
+The following table sets forth certain state-by-state information regarding our property portfolio as of December 31, 2020 (dollars in thousands):
+Location		Number of
+Properties		Percent
+Leased		Approximate Leasable
+Square Feet		Total Portfolio Annualized Contractual Rent as of December 31, 2020		Percentage of Total Portfolio Annualized Contractual Rent	Alabama		225 			95 	%		2,127,700 			$	30,754 			1.8 	%	Alaska		3 			100 			274,600 			2,148 			0.1 		Arizona		152 			99 			2,082,200 			31,380 			1.9 		Arkansas		100 			97 			1,178,800 			14,419 			0.9 		California		238 			98 			7,398,100 			147,067 			8.8 		Colorado		98 			94 			1,575,200 			23,500 			1.4 		Connecticut		18 			89 			1,274,100 			12,907 			0.8 		Delaware		19 			100 			101,400 			3,132 			0.2 		Florida		430 			98 			4,981,400 			87,988 			5.3 		Georgia		296 			99 			4,546,100 			59,553 			3.6 		Idaho		14 			93 			103,200 			1,748 			0.1 		Illinois		299 			95 			7,703,900 			96,369 			5.8 		Indiana		200 			100 			2,556,000 			40,333 			2.4 		Iowa		46 			91 			2,527,800 			18,182 			1.1 		Kansas		118 			98 			2,206,600 			24,807 			1.5 		Kentucky		94 			99 			1,826,100 			22,184 			1.3 		Louisiana		136 			97 			1,953,200 			25,595 			1.5 		Maine		27 			100 			277,800 			5,721 			0.3 		Maryland		38 			100 			1,494,000 			25,743 			1.5 		Massachusetts		58 			95 			881,400 			17,082 			1.0 		Michigan		243 			100 			2,752,200 			42,837 			2.6 		Minnesota		176 			99 			2,357,400 			44,713 			2.7 		Mississippi		188 			95 			2,029,800 			22,826 			1.4 		Missouri		186 			94 			2,962,100 			39,114 			2.3 		Montana		12 			100 			89,100 			2,238 			0.1 		Nebraska		61 			98 			862,300 			8,846 			0.5 		Nevada		26 			96 			1,239,300 			9,204 			0.6 		New Hampshire		14 			100 			321,500 			6,058 			0.4 		New Jersey		80 			99 			1,271,000 			29,992 			1.8 		New Mexico		58 			100 			495,500 			8,577 			0.5 		New York		139 			98 			3,164,400 			69,359 			4.2 		North Carolina		207 			99 			3,493,800 			51,160 			3.1 		North Dakota		8 			75 			126,900 			1,321 			0.1 		Ohio		341 			98 			6,765,000 			69,258 			4.0 		Oklahoma		190 			99 			2,368,500 			32,147 			1.9 		Oregon		31 			100 			665,100 			11,965 			0.7 		Pennsylvania		211 			99 			2,217,000 			44,495 			2.7 		Rhode Island		3 			100 			158,000 			2,582 			0.2 		South Carolina		179 			98 			1,816,700 			35,507 			2.1 		South Dakota		21 			81 			254,700 			2,584 			0.2 		Tennessee		261 			98 			3,854,700 			49,839 			3.0 		Texas		831 			99 			11,691,500 			176,716 			10.5 		Utah		23 			100 			949,700 			9,980 			0.6 		Vermont		1 			100 			65,500 			1,212 			0.1 		Virginia		219 			99 			3,418,300 			45,136 			2.7 		Washington		51 			98 			956,700 			15,915 			1.0 		West Virginia		37 			97 			537,500 			7,120 			0.4 		Wisconsin		131 			98 			3,044,400 			32,972 			2.0 		Wyoming		9 			100 			63,900 			1,520 			0.1 		Puerto Rico		4 			100 			28,300 			859 			*	U.K.		42 			100 			3,703,900 			103,720 			6.2 		Totals\Average		6,592 			98 	%		110,794,300 			$	1,670,384 			100.0 	% 
+* Less than 0.1%
+-23-
+Table of Contents
+FORWARD-LOOKING STATEMENTS
+ 
+This Annual Report on Form 10-K, including the documents incorporated by reference, contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Exchange Act of 1934, as amended. When used in this annual report, the words “estimated”, “anticipated”, “expect”, “believe”, “intend” and similar expressions are intended to identify forward-looking statements. Forward-looking statements include discussions of strategy, plans, or intentions of management. Forward-looking statements are subject to risks, uncertainties, and assumptions about Realty Income Corporation, including, among other things:
+ 
+•Our access to capital and other sources of funding;
+•Our anticipated growth strategies;
+•Our intention to acquire additional properties and the timing of these acquisitions;
+•Our intention to sell properties and the timing of these property sales;
+•Our intention to re-lease vacant properties;
+•Anticipated trends in our business, including trends in the market for long-term net leases of freestanding, single-client properties;
+•Future expenditures for development projects; and
+•The impact of the COVID-19 pandemic, or future pandemics, on us, our business, our clients, or the economy generally.
+ 
+Future events and actual results, financial and otherwise, may differ materially from the results discussed in or implied by the forward-looking statements. In particular, forward-looking statements regarding estimated or future results of operations are based upon numerous assumptions and estimates and are inherently subject to substantial uncertainties and actual results of operations may differ materially from those expressed or implied in the forward-looking statements, particularly if actual events differ from those reflected in the estimates and assumptions upon which such forward-looking statements are based. Some of the factors that could cause actual results to differ materially are:
+ 
+•Our continued qualification as a real estate investment trust;
+•General domestic and foreign business and economic conditions;
+•Competition;
+•Fluctuating interest and currency rates;
+•Access to debt and equity capital markets;
+•Continued volatility and uncertainty in the credit markets and broader financial markets;
+•Other risks inherent in the real estate business including our client defaults under leases, potential liability relating to environmental matters, illiquidity of real estate investments, and potential damages from natural disasters;
+•Impairments in the value of our real estate assets;
+•Changes in income tax laws and rates;
+•The continued evolution of the COVID-19 pandemic and the measures taken to limit its spread, and its impacts on us, our business, our clients, or the economy generally;
+•The timing and pace of reopening efforts at the local, state and national level in response to the COVID-19 pandemic and any developments, such as the recent surge in COVID-19 cases, that cause a delay in or postponement of reopenings;
+•The outcome of any legal proceedings to which we are a party or which may occur in the future; and
+•Acts of terrorism and war.
+ 
+Additional factors that may cause future events and actual results, financial or otherwise, to differ, potentially materially, from those discussed in or implied by the forward-looking statements include the risks and uncertainties discussed in the sections entitled “Business”, “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in this Annual Report.
+ 
+Readers are cautioned not to place undue reliance on forward-looking statements, which speak only as of the date that this annual report was filed with the Securities and Exchange Commission, or SEC. While forward-looking statements reflect our good faith beliefs, they are not guarantees of future performance. We undertake no obligation to publicly release the results of any revisions to these forward-looking statements that may be made to reflect events or circumstances after the date of this annual report or to reflect the occurrence of unanticipated events. In light of these risks and uncertainties, the forward-looking events discussed in this annual report might not occur.

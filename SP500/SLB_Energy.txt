@@ -1,0 +1,538 @@
+ 
+
+PART I
+
+ 
+
+Item 1. Business.
+
+All references in this report to “Registrant,” “Company,” “Schlumberger,” “we” or “our” are to Schlumberger Limited (Schlumberger N.V.) and its consolidated subsidiaries.
+
+Schlumberger is a technology company that partners with customers to access energy by providing leading digital solutions and deploying innovative technologies to enable performance and sustainability for the global energy industry.  Schlumberger collaborates to create technology that unlocks access to energy for the benefit of all.
+
+Organizational Structure
+
+During 2020, Schlumberger restructured its organization in order to prepare for a changing industry future.  This new structure is aligned with customer workflows and is directly linked to Schlumberger’s corporate strategy, a key element of which is customer collaboration.  
+
+The new organization consists of four Divisions that combine and integrate Schlumberger’s technologies, enhancing the portfolio of capabilities that support the emerging long-term growth opportunities in each of these market segments.
+
+The four Divisions are:
+
+ 
+
+•
+
+Digital & Integration
+
+ 
+
+•
+
+Reservoir Performance
+
+ 
+
+•
+
+Well Construction
+
+ 
+
+•
+
+Production Systems
+
+The role of the Divisions is to support Schlumberger in executing its customer-centric performance strategy and maintaining its industry leadership role in technology development and services integration.  The Divisions are collectively responsible for driving performance throughout their respective business lines; overseeing operational processes, resource allocation and personnel; and delivering superior financial results.
+
+Digital & Integration – Combines Schlumberger’s software and seismic businesses with its integrated offering of Asset Performance Solutions (“APS”).  APS helps develop or redevelop fields while increasing production, improving cash flow, and extending recovery for customers by providing fit-for-purpose solutions.  Through digital solutions and technologies, supported by the future of software, digital, infrastructure, connected assets, and data, this Division enhances efficiency to improve asset and enterprise-wide performance for customers.
+
+The primary offerings comprising this Division are:
+
+ 
+
+ 
+
+•
+
+Multiclient seismic surveys and data processing: WesternGeco® is a leading geophysical services supplier, providing comprehensive worldwide reservoir interpretation and data processing services.  It provides a highly efficient and scientifically advanced imaging platform to its customers.  Through access to the industry’s global marine fleet, it provides innovative and accurate subsurface imagery for multiclient surveys.  WesternGeco offers one of the industry’s most extensive multiclient libraries.
+
+ 
+
+ 
+
+•
+
+Digital solutions: Includes proprietary software, an expanding digital ecosystem, consulting services, information management and IT infrastructure services to customers in the energy industry.  Offers expert consulting services for reservoir characterization, field development planning and production enhancement, as well as industry-leading petrotechnical data services and training solutions.
+
+ 
+
+ 
+
+•
+
+Asset Performance Solutions: APS offers an integrated business model for field production projects.  This model combines Schlumberger’s services and products with drilling rig management and specialized engineering and project management expertise, to provide a complete solution to well construction and production improvement.
+
+APS creates alignment between Schlumberger and the asset holder and/or the operator by Schlumberger receiving remuneration in line with its value creation.  These projects are generally focused on developing and co-managing production of customer assets under long-term agreements.  Schlumberger invests its own services and products and, in certain historical cases, cash into the field development activities and operations.  Although in certain arrangements Schlumberger is paid for a
+
+3
+
+ 
+
+portion of the services or products it provides, generally Schlumberger will not be paid at the time of providing its services or upon delivery of its products.  Instead, Schlumberger is generally compensated based on cash flow generated or on a fee-per-barrel basis.  This includes certain arrangements whereby Schlumberger is only compensated based on incremental production that it helps deliver above a mutually agreed baseline.  
+
+ 
+
+Reservoir Performance – Consists of reservoir-centric technologies and services that are critical to optimizing reservoir productivity and performance. Reservoir Performance develops and deploys innovative technologies and services to evaluate, intervene, and stimulate reservoirs that help customers understand subsurface assets and maximize their value.
+
+The primary offerings comprising this Division are:
+
+ 
+
+ 
+
+•
+
+Wireline: Provides the information necessary to evaluate subsurface geology and fluids to plan and monitor well construction and to monitor and evaluate well production.  Offers both openhole and cased-hole services, including wireline logging and perforating.
+
+ 
+
+ 
+
+•
+
+Testing: Provides exploration and production pressure and flow-rate measurement services both at the surface and downhole. Testing has a network of laboratories that conduct formation and fluid characterization.
+
+ 
+
+ 
+
+•
+
+Stimulation and Intervention: Provides services used during well completions, as well as those used to maintain optimal production throughout the life of a well.  Includes pressure pumping, well stimulation, and coiled tubing equipment for downhole mechanical well intervention, reservoir monitoring, and downhole data acquisition.
+
+On December 31, 2020, Schlumberger contributed its onshore hydraulic fracturing business in the United States and Canada (“OneStim®”), including its pressure pumping, pumpdown perforating, and Permian frac sand businesses, to Liberty Oilfield Services Inc. (“Liberty”), in exchange for a 37% equity interest in Liberty.  OneStim’s historical results were reported as part of the Reservoir Performance Division through the closing of the transaction.
+
+ 
+
+Well Construction – Combines the full portfolio of products and services to optimize well placement and performance, maximize drilling efficiency, and improve wellbore assurance.  Well Construction provides operators and drilling rig manufacturers with services and products related to designing and constructing a well.
+
+The primary offerings comprising this Division are:
+
+ 
+
+•
+
+Drilling & Measurements: Provides mud logging services for geological and drilling surveillance, directional drilling, measurement-while-drilling and logging-while-drilling services for all well profiles as well as engineering support.
+
+ 
+
+ 
+
+•
+
+Drilling Fluids: Supplies individually engineered drilling fluid systems that improve drilling performance and maintain well control and wellbore stability throughout the drilling operation.  
+
+ 
+
+ 
+
+•
+
+Drill Bits: Designs, manufactures and markets roller cone and fixed cutter drill bits for all environments.
+
+ 
+
+ 
+
+•
+
+Drilling Tools: Includes a wide variety of bottom-hole-assembly and borehole-enlargement technologies for drilling operations.
+
+ 
+
+ 
+
+•
+
+Well Cementing: Supports and protects well casings while isolating fluid zones and maximizing wellbore activity.
+
+ 
+
+ 
+
+•
+
+Integrated Well Construction: Provides integrated solutions to construct or change the architecture (re-entry) of wells, including well planning, well drilling, engineering, supervision, logistics, procurement and contracting of third parties, and drilling rig management.
+
+ 
+
+ 
+
+•
+
+Rigs and Equipment: Provides drilling equipment and services for shipyards, drilling contractors, energy companies and rental tool companies, as well as land drilling rigs and related services.  Drilling equipment falls into two broad categories: pressure control equipment and rotary drilling equipment.  These products are designed for either onshore or offshore applications and include drilling equipment packages, blowout preventers (“BOPs”), BOP control systems, connectors, riser systems, valves and choke manifold systems, top drives, mud pumps, pipe handling equipment, rig designs and rig kits.
+
+Production Systems – Develops technologies and provides expertise that enhance production and recovery from subsurface reservoirs to the surface, into pipelines, and to refineries.  Production Systems provides a comprehensive portfolio of equipment and services including subsurface production systems, subsea and surface equipment and services, and midstream production systems.
+
+4
+
+ 
+
+The primary offerings comprising this Division are:
+
+ 
+
+ 
+
+•
+
+Artificial Lift: Provides production equipment and optimization services using electrical submersible pumps, gas lift equipment, progressing cavity pumps and surface horizontal pumping systems.
+
+ 
+
+ 
+
+•
+
+Completions Equipment: Supplies well completion services and equipment that include packers, safety valves and sand control technology, as well as a range of intelligent well completions technology and equipment.
+
+ 
+
+ 
+
+•
+
+OneSubsea®: Provides integrated solutions, products, systems and services for the subsea market, including integrated subsea production systems involving wellheads, subsea trees, manifolds and flowline connectors, control systems, connectors and services designed to maximize reservoir recovery and extend the life of each field.  
+
+ 
+
+ 
+
+•
+
+Surface: Designs and manufactures onshore and offshore platform wellhead systems and processing solutions, including valves, chokes, actuators and Christmas trees, and provides services to operators.
+
+ 
+
+ 
+
+•
+
+Valves: Serves portions of the upstream, midstream and downstream markets and provides valve products that are primarily used to control and direct the flow of hydrocarbons as they are moved from wellheads through flow lines, gathering lines and transmission systems to refineries, petrochemical plants and industrial centers for processing.
+
+ 
+
+ 
+
+•
+
+Processing: Enables efficient monetization of subsurface assets using standard and custom-designed onshore, offshore and downstream processing and treatment systems, as well as unique, reservoir-driven, fit for purpose integrated production systems for accelerating first production and maximizing project economics.
+
+Supporting the Divisions is a global network of research and engineering centers, through which Schlumberger advances its technology programs to enhance industry efficiency and sustainability, lower finding and producing costs, improve productivity, maximize reserve recovery and increase asset value, while accomplishing these goals safely.
+
+The Divisions are deployed around a geographical structure of five Basins:  Americas Land, Offshore Atlantic, Middle East and North Africa, Asia, and Russia and Central Asia.  The Basins are a collection of GeoUnits, which consist of a single country to several countries, that each have common themes in terms of strategy, economic and operational drivers, and technology needs.  With a strong focus on the customer and growth, the Basins are responsible for defining a Basin strategy in line with Schlumberger’s corporate strategy and identifying opportunities for future growth.
+
+Corporate Strategy
+
+Schlumberger’s ambition is to be its customers’ “performance partner” of choice, by putting the customer at the center of everything it does and by being the company that defines performance in the energy services industry.  Schlumberger’s strategy is structured around three major themes: (i) strengthen the core; (ii) expand the go-to-market; and (iii) next horizons of growth.
+
+Strengthen the Core
+
+Strengthening the core is focused on developing our people, collaborating with our customers and enhancing our technology performance to enable Schlumberger’s vision of customer performance.  Maintaining capital discipline is also a key element of strengthening the core—such as evaluating all investment decisions through the lens of return on capital rather than growth and evolving certain businesses into innovative models that are less capital intensive.
+
+Expand the Go-to-Market
+
+Schlumberger believes that a key shift in the industry is the greater prominence and interplay of regional, or basin-specific, supply and demand.  The industry is witnessing a decoupling of the activity characteristics of each major region, resulting in a unique set of dynamics for each oil and gas basin across the world.  
+
+There are four main regions increasingly competing against each other for market access to meet global, regional and domestic energy demand: North America Land; Middle East; Russia and Central Asia; and offshore.  These regions correspond to a different set of resource plays or basins, each facing different economic and operational drivers, which translates into different activity levels and cycles.  Current geopolitical uncertainties and trade conflicts will only amplify this trend, resulting in the transition from a global market toward a more localized supply and demand dynamic.
+
+5
+
+ 
+
+As basins around the world decouple, a key differentiator for Schlumberger will be its “fit-for-basin” approach and ability.  Basins have significantly different dynamics, including technological needs, in-country value, and market or technology access.  Schlumberger is developing and deploying basin-specific technology that helps its customers overcome the challenges of their respective regions.  In-country value enables regional efficiency and performance, while increasing local content and aligning with the strategic priorities of our clients.  
+
+Additionally, by employing different business models, Schlumberger will evolve the way it goes to market in certain regions. Schlumberger will seek to monetize its technology advantage by deploying alternative operating models such as selling or leasing selected technologies to regional service providers with a license to operate in these specific markets.  Schlumberger expects this approach to expand its total addressable market.
+
+Next Horizons of Growth
+
+Schlumberger’s history and culture have been based on leadership, science and innovation since its founders invented wireline logging as a technique for obtaining downhole data in oil and gas wells.  Continuing this tradition, Schlumberger will focus its future growth in two areas: digital innovation and new energy.  
+
+Schlumberger seeks to define the future of digital technology in the energy industry.  The application of digital technology in field operations has the potential to deliver a step-change in operational workflows to significantly elevate performance. To take the next step in performance that our customers need to deliver energy in today’s competitive environment, Schlumberger is developing and using digital solutions, focused on generating richer data and better insights, that will achieve performance not previously possible across the energy industry.
+
+Schlumberger is leveraging its portfolio of proprietary digital technologies as well as technologies that have transformed other industries to enable our customers to make better and faster decisions.  Integrating digital technology into exploration and production (“E&P”) workflows requires extensive domain expertise in upstream hardware and software technologies and in the management and interpretation of vast amounts of subsurface and production data.  Schlumberger will continue to lead the digital transformation of the energy industry by applying its unique data and digital expertise to every facet of the E&P life cycle.
+
+Through its New Energy portfolio, Schlumberger is investing in low carbon and carbon-neutral energy technologies that will provide a platform for future sustainable growth.  Schlumberger recognizes that its future will expand beyond oil and gas with the energy transition, and consequently the Company is positioning for significant growth opportunities for the long term.  Schlumberger New Energy is taking a business venture approach that will focus on energy efficiency and energy storage as a priority, aimed at developing unique positions in adjacent markets and introducing breakthrough technologies in energy verticals beyond oil and gas.  Schlumberger will utilize its domain expertise in areas adjacent to its existing activities where it can deliver at scale with its global footprint and execution platform.
+
+6
+
+ 
+
+Human Capital
+
+At December 31, 2020, Schlumberger employed approximately 86,000 people representing more than 160 nationalities.
+
+Schlumberger believes that the diversity of its workforce is one of its greatest strengths and aims to maintain its employee population diversity in proportion to the revenue derived from the countries in which it works.  
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+Schlumberger recognizes that its ability to attract, develop, motivate and retain a highly competent and diverse workforce has been key to its success for many decades.  As a service company, Schlumberger believes it is critical for its people to communicate with its customers in their native languages and to share the values of the people in the countries where it works.  Furthermore, Schlumberger’s diverse workforce is better able to respond to, and deliver services and products that meet the unique expectations and requirements of, its stakeholders, including customers, suppliers and stockholders.  Schlumberger’s long-standing commitment to national and cultural diversity fosters a culture that is global in outlook, yet local in practice, which permeates every layer of the Company.
+
+In addition to national and cultural diversity, achieving improved gender balance has been a focus of policy and action in Schlumberger since the late 1970s, when it began recruiting women for field operations roles.  Since then, Schlumberger has continued to expand opportunities for women across its field operations, technology, business and management roles.  Schlumberger believes that these gender diversity initiatives help it maintain its competitive advantage.
+
+Schlumberger set its first gender balance target in 1994, with the goal of having women comprise 15% of its salaried workforce by 2015.  This goal was achieved ahead of schedule in 2011.  Schlumberger’s current gender balance goal is to have women comprise 25% of the Company’s salaried workforce by 2025.  In 2020, women made up approximately 23% of the Company’s salaried employee population. Additionally, approximately 21% of management roles were held by women in 2020.
+
+Schlumberger is proud of its meritocratic culture, its commitment to early responsibility and internal promotion, and its “borderless career” philosophy.  Schlumberger strives to identify top talent within the Company, and to provide opportunities for employees who demonstrate exceptional competency and performance to progress to higher levels within the organization.  Schlumberger seeks to nurture its talent pool to maximize each employee’s developmental potential through a combination of training and experience.  Schlumberger’s “borderless career” philosophy means it supports flexible career paths, helping employees develop their skills across different functions, businesses and geographies.  These opportunities accelerate career development while fostering an agile workforce and the next generation of business leaders.
+
+7
+
+ 
+
+Competition
+
+The principal methods of competition within the energy services industry are technological innovation, quality of service and price differentiation.  These vary geographically with respect to the different services and products that Schlumberger offers.  Schlumberger has numerous competitors, both large and small.
+
+Intellectual Property
+
+Schlumberger owns and controls a variety of intellectual property, including but not limited to patents, proprietary information and software tools and applications that, in the aggregate, are material to Schlumberger’s business.  While Schlumberger seeks and holds numerous patents covering various products and processes, no particular patent or group of patents is material to Schlumberger’s business.
+
+Seasonality
+
+Seasonal changes in weather and significant weather events can temporarily affect the delivery of Schlumberger’s products and services.  For example, the spring thaw in Canada and consequent road restrictions can affect activity levels, while the winter months in the North Sea, Russia and China can produce severe weather conditions that can temporarily reduce levels of activity.  In addition, hurricanes and typhoons can disrupt coastal and offshore operations.  Furthermore, customer spending patterns for multiclient data, software and other oilfield services and products may result in higher activity in the fourth quarter of each year as clients seek to fully utilize their annual budgets.  Conversely, customer budget constraints may lead to lower demand for our services and products in the fourth quarter of each year.
+
+Customers
+
+Schlumberger’s primary customers are national oil companies, large integrated oil companies and independent operators. No single customer exceeded 10% of Schlumberger’s consolidated revenue during each of 2020, 2019 and 2018.
+
+Governmental Regulations
+
+Schlumberger is subject to numerous environmental, legal and other governmental and regulatory requirements related to its operations worldwide. For additional details, see “Item 1(a). Risk Factors—Legal and Regulatory Risks”, which is incorporated by reference in this Item 1.
+
+Corporate Information
+
+Schlumberger was founded in 1926 and is incorporated under the laws of Curaçao. Schlumberger has executive offices in Paris, Houston, London and The Hague.
+
+Available Information
+
+The Schlumberger website is www.slb.com.  Schlumberger uses its Investor Relations website, www.slb.com/ir, as a routine channel for distribution of important information, including news releases, analyst presentations, and financial information.  Schlumberger makes available free of charge through its Investor Relations website at www.slb.com/ir, access to its Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, proxy statements and Forms 3, 4 and 5 filed on behalf of directors and executive officers, and amendments to each of those reports, as soon as reasonably practicable after such material is filed with or furnished to the SEC.  Alternatively, you may access these reports at the SEC’s website at www.sec.gov.  Copies are also available, without charge, from Schlumberger Investor Relations, 5599 San Felipe, 17th Floor, Houston, Texas 77056.  Unless expressly noted, the information on its website or any other website is not incorporated by reference in this Form 10-K and should not be considered part of this Form 10-K or any other filing Schlumberger makes with the SEC.
+
+8
+
+ 
+
+Information About Our Executive Officers
+
+The following table sets forth, as of January 27, 2021, the names and ages of the executive officers of Schlumberger, including all offices and positions held by each for the past five years.
+
+ 
+
+Name
+
+Age
+
+Current Position and Five-Year Business Experience
+
+ 
+
+ 
+
+ 
+
+Olivier Le Peuch
+
+57
+
+Chief Executive Officer and Director, since August 2019; Chief Operating Officer, February 2019 to July 2019; Executive Vice President, Reservoir and Infrastructure, May 2018 to February 2019; President, Cameron Group, February 2017 to May 2018; and President, Completions, October 2014 to January 2017.
+
+ 
+
+ 
+
+ 
+
+Stephane Biguet
+
+52
+
+Executive Vice President and Chief Financial Officer, since January 2020; Vice President, Finance, December 2017 to January 2020; Vice President, Treasurer, December 2016 to November 2017; Vice President, Controller, November 2013 to December 2016.
+
+ 
+
+ 
+
+ 
+
+Khaled Al Mogharbel
+
+50
+
+Executive Vice President, Geographies, since July 2020; Executive Vice President, Operations, April 2019 to June 2020; Executive Vice President, Eastern Hemisphere, February 2019 to March 2019; President, Eastern Hemisphere, May 2017 to January 2019; and President, Drilling Group, July 2013 to April 2017.
+
+ 
+
+ 
+
+ 
+
+Ashok Belani
+
+62
+
+Executive Vice President, Schlumberger New Energy, since February 2020; and Executive Vice President, Technology, January 2011 to January 2020.
+
+ 
+
+ 
+
+ 
+
+Hinda Gharbi
+
+50
+
+Executive Vice President, Services and Equipment, since July 2020; Executive Vice President, Reservoir and Infrastructure, February 2019 to June 2020; Vice President, Human Resources, May 2018 to January 2019; President, Reservoir Characterization Group, June 2017 to May 2018; and President, Wireline, July 2013 to May 2017.
+
+ 
+
+ 
+
+ 
+
+Abdellah Merad
+
+47
+
+Executive Vice President, Performance Management, since May 2019; President NAL Production Group, May 2018 to April 2019; President, Production Group, October 2017 to May 2018; Vice President, Controller, Operations, December 2016 to September 2017; and Vice President, Global Shared Services Organization, November 2013 to December 2016.
+
+ 
+
+ 
+
+ 
+
+Pierre Chereque
+
+66
+
+Vice President and Director of Taxes, since June 2017; and Director of Taxes, Operations, July 2004 to May 2017.
+
+ 
+
+ 
+
+ 
+
+Kevin Fyfe
+
+47
+
+Vice President and Controller, since October 2017; Controller, Cameron Group, April 2016 to October 2017; and Vice President, Finance, OneSubsea, July 2013 to March 2016.
+
+ 
+
+ 
+
+ 
+
+Howard Guild
+
+49
+
+Chief Accounting Officer, since July 2005.
+
+ 
+
+ 
+
+ 
+
+Claudia Jaramillo
+
+48
+
+Vice President and Treasurer, since December 2017; ERM and Treasury Projects Manager, July 2017 to November 2017; and Controller, North America Area, July 2014 to July 2017.
+
+ 
+
+ 
+
+ 
+
+Alexander C. Juden
+
+60
+
+Secretary, since April 2009; and General Counsel, April 2009 to November 2020.
+
+ 
+
+ 
+
+ 
+
+Vijay Kasibhatla
+
+57
+
+Director, Mergers and Acquisitions, since January 2013.
+
+ 
+
+ 
+
+ 
+
+Saul R. Laureles
+
+55
+
+Director, Corporate Legal Affairs, since July 2014; and Assistant Secretary, since April 2007.  
+
+ 
+
+ 
+
+ 
+
+Demosthenis Pafitis
+
+53
+
+Chief Technology Officer, since February 2020; Senior Vice President, Schlumberger 4.0 Platforms, from December 2017 to January 2020; and Vice President, Engineering, Manufacturing and Sustaining, September 2014 to December 2017.
+
+ 
+
+ 
+
+ 
+
+Dianne Ralston
+
+54
+
+Chief Legal Officer, since December 2020; Executive Vice President, Chief Legal Officer and Secretary, TechnipFMC plc, January 2017 to October 2020; and Senior Vice President, General Counsel and Secretary, FMC Technologies, Inc., January 2015 to January 2017.
+
+ 
+
+ 
+
+ 
+
+Gavin Rennick
+
+46
+
+Vice President, Human Resources, since February 2019; President, Software Integrated Solutions, January 2017 to February 2019; and M&A/Integration Manager, Cameron International, September 2015 to January 2017.
+
+9
+

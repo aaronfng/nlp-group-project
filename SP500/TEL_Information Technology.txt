@@ -1,0 +1,429 @@
+ITEM 1.  BUSINESS
+
+General
+
+TE Connectivity Ltd. (“TE Connectivity” or the “Company,” which may be referred to as “we,” “us,” or “our”) is a global industrial technology leader creating a safer, sustainable, productive, and connected future. Our broad range of connectivity and sensor solutions, proven in the harshest environments, enable advancements in transportation, industrial applications, medical technology, energy, data communications, and the home.
+
+We became an independent, publicly traded company in 2007; however, through our predecessor companies, we trace our foundations in the connectivity business back to 1941. We are organized under the laws of Switzerland. The rights of holders of our shares are governed by Swiss law, our Swiss articles of association, and our Swiss organizational regulations.
+
+We have a 52- or 53-week fiscal year that ends on the last Friday of September. Fiscal 2020, 2019, and 2018 were each 52 weeks in length and ended on September 25, 2020, September 27, 2019, and September 28, 2018, respectively. For fiscal years in which there are 53 weeks, the fourth quarter reporting period includes 14 weeks, with the next such occurrence taking place in fiscal 2022.
+
+COVID-19 Pandemic
+
+A novel strain of coronavirus (“COVID-19”) was first identified in China in December 2019 and subsequently declared a pandemic by the World Health Organization. To date, COVID-19 has surfaced in nearly all regions around the world and resulted in travel restrictions and business slowdowns or shutdowns in affected areas. The COVID-19 pandemic negatively affected our sales and operating results during fiscal 2020, and we expect that it will continue to have an impact on our financial condition and results of operations in the near term and may have a material impact on our financial condition, liquidity, and results of operations in future periods. See “Part II. Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” for discussion regarding the impact of the COVID-19 pandemic on our financial results. Also, see “Part I. Item 1A. Risk Factors” for discussion of the risks and uncertainties associated with the COVID-19 pandemic.
+
+Segments
+
+We operate through three reportable segments: Transportation Solutions, Industrial Solutions, and Communications Solutions. Although the COVID-19 pandemic has negatively affected our markets, we expect a gradual recovery with our three segments once again serving a combined market of approximately $190 billion.
+
+Our net sales by segment as a percentage of our total net sales were as follows:
+
+
+
+
+
+
+
+
+
+
+
+
+Fiscal
+
+
+
+
+    
+
+2020
+
+    
+
+2019
+
+    
+
+2018
+
+    
+
+  
+
+Transportation Solutions
+
+ 
+
+ 56
+
+%  
+
+ 58
+
+%  
+
+ 59
+
+%
+
+
+Industrial Solutions
+
+ 
+
+ 31
+
+ 
+
+ 30
+
+ 
+
+ 28
+
+
+
+Communications Solutions
+
+ 
+
+ 13
+
+ 
+
+ 12
+
+ 
+
+ 13
+
+
+
+Total
+
+ 
+
+ 100
+
+%  
+
+ 100
+
+%  
+
+ 100
+
+%
+
+
+Below is a description of our reportable segments and the primary products, markets, and competitors of each segment.
+
+1
+
+Table of Contents
+
+Transportation Solutions
+
+The Transportation Solutions segment is a leader in connectivity and sensor technologies. The primary products sold by the Transportation Solutions segment include terminals and connector systems and components, sensors, relays, antennas, application tooling, and wire and heat shrink tubing. The Transportation Solutions segment’s products, which must withstand harsh conditions, are used in the following end markets:
+
+●	Automotive (72% of segment’s net sales)—We are one of the leading providers of advanced automobile connectivity solutions. The automotive industry uses our products in automotive technologies for body and chassis systems, convenience applications, driver information, infotainment solutions, miniaturization solutions, motor and powertrain applications, and safety and security systems. Hybrid and electronic mobility solutions include in-vehicle technologies, battery technologies, and charging solutions.
+●	Commercial transportation (15% of segment’s net sales)—We deliver reliable connectivity products designed to withstand harsh environmental conditions for on- and off-highway vehicles and recreational transportation, including heavy trucks, construction, agriculture, buses, and other vehicles.
+●	Sensors (13% of segment’s net sales)—We offer a portfolio of intelligent, efficient, and high-performing sensor solutions that are used by customers across multiple industries, including automotive, industrial equipment, commercial transportation, medical solutions, aerospace and defense, and consumer applications.
+The Transportation Solutions segment’s major competitors include Yazaki, Aptiv, Sumitomo, Sensata, Honeywell, Molex, and Amphenol.
+
+Industrial Solutions
+
+The Industrial Solutions segment is a leading supplier of products that connect and distribute power, data, and signals. The primary products sold by the Industrial Solutions segment include terminals and connector systems and components, heat shrink tubing, interventional medical components, relays, and wire and cable. The Industrial Solutions segment’s products are used in the following end markets:
+
+●	Aerospace, defense, oil, and gas (32% of segment’s net sales)—We design, develop, and manufacture a comprehensive portfolio of critical electronic components and systems for the harsh operating conditions of the commercial aerospace, defense, and marine industries. Our products and systems are designed and manufactured to operate effectively in harsh conditions ranging from the depths of the ocean to the far reaches of space.
+●	Industrial equipment (30% of segment’s net sales)—Our products are used in factory automation and process control systems such as industrial controls, robotics, human machine interface, industrial communication, and power distribution. Our intelligent building products are used to connect lighting and offer solutions in HVAC, elevators/escalators, and security. Our rail products are used in high-speed trains, metros, light rail vehicles, locomotives, and signaling switching equipment. Our products are also used by the solar industry.
+●	Medical (19% of segment’s net sales)—Our products are used in imaging, diagnostic, surgical, and minimally invasive interventional applications. We specialize in the design and manufacture of advanced surgical, imaging, and interventional device solutions. Key markets served include cardiovascular, peripheral vascular, structural heart, endoscopy, electrophysiology, and neurovascular therapies.
+●	Energy (19% of segment’s net sales)—Our products are used by OEMs and utility companies in the electrical power industry and include a wide range of solutions for the electrical power generation, transmission, distribution, and industrial markets.
+The Industrial Solutions segment competes primarily against Amphenol, Hubbell, Carlisle Companies, ABB, Integer Holdings, Esterline, Molex, and Omron.
+
+2
+
+Table of Contents
+
+Communications Solutions
+
+The Communications Solutions segment is a leading supplier of electronic components for the data and devices and the appliances markets. The primary products sold by the Communications Solutions segment include terminals and connector systems and components, relays, heat shrink tubing, and antennas. The Communications Solutions segment’s products are used in the following end markets:
+
+·
+
+Data and devices (60% of segment’s net sales)—We deliver products and solutions that are used in a variety of equipment architectures within the networking equipment, data center equipment, and wireless infrastructure industries. Additionally, we deliver a range of connectivity solutions for the Internet of Things, smartphones, tablet computers, notebooks, and virtual reality applications to help our customers meet their current challenges and future innovations.
+
+·
+
+Appliances (40% of segment’s net sales)—We provide solutions to meet the daily demands of home appliances. Our products are used in many household appliances, including washers, dryers, refrigerators, air conditioners, dishwashers, cooking appliances, water heaters, air purifiers, floor care devices, and microwaves. Our expansive range of standard products is supplemented by an array of custom-designed solutions.
+
+The Communications Solutions segment’s major competitors include Amphenol, Molex, JST, and Korea Electric Terminal (KET).
+
+Customers
+
+As an industry leader, we have established close working relationships with many of our customers. These relationships allow us to better anticipate and respond to customer needs when designing new products and new technical solutions. By working with our customers in developing new products and technologies, we believe we can identify and act on trends and leverage knowledge about next-generation technology across our products.
+
+Our approach to our customers is driven by our dedication to further develop our product families and ensure that we are globally positioned to best provide our customers with sales and engineering support. We believe that as electronic component technologies continue to proliferate, our broad product portfolio and engineering capability give us a potential competitive advantage when addressing the needs of our global customers.
+
+We manufacture and sell a broad portfolio of products to customers in various industries. Our customers include many of the leaders in their respective industries, and our relationships with them typically date back many years. We believe that our diversified customer base provides us an opportunity to leverage our skills and experience across markets and reduce our exposure to individual end markets, thereby reducing the variability of our financial performance. Additionally, we believe that the diversity of our customer base reduces the level of cyclicality in our results and distinguishes us from our competitors.
+
+No single customer accounted for a significant amount of our net sales in fiscal 2020, 2019, or 2018.
+
+Sales and Distribution
+
+We maintain a strong local presence in each of the geographic regions in which we operate. Our net sales by geographic region(1) as a percentage of our total net sales were as follows:
+
+
+
+
+
+
+
+
+
+
+
+
+Fiscal
+
+
+
+
+    
+
+2020
+
+    
+
+2019
+
+    
+
+2018
+
+    
+
+  
+
+Asia–Pacific
+
+ 
+
+ 35
+
+%  
+
+ 33
+
+%  
+
+ 34
+
+%
+
+
+Europe/Middle East/Africa (“EMEA”)
+
+ 
+
+ 35
+
+
+ 36
+
+
+ 38
+
+
+
+Americas
+
+ 
+
+ 30
+
+ 
+
+ 31
+
+ 
+
+ 28
+
+
+
+Total
+
+ 
+
+ 100
+
+%  
+
+ 100
+
+%  
+
+ 100
+
+%
+
+
+(1)
+
+Net sales to external customers are attributed to individual countries based on the legal entity that records the sale.
+
+3
+
+Table of Contents
+
+We sell our products into approximately 140 countries primarily through direct selling efforts to manufacturers. In fiscal 2020, our direct sales represented approximately 80% of total net sales. We also sell our products indirectly via third-party distributors.
+
+We maintain distribution centers around the world. Products are generally delivered to the distribution centers by our manufacturing facilities and then subsequently delivered to the customer. In some instances, however, products are delivered directly from our manufacturing facility to the customer. Our global coverage positions us near our customers’ locations and allows us to assist them in consolidating their supply base and lowering their production costs. We contract with a wide range of transport providers to deliver our products globally via road, rail, sea, and air. We believe our balanced sales distribution lowers our exposure to any particular geography and improves our financial profile.
+
+Seasonality and Backlog
+
+Typically, we experience a slight seasonal pattern to our business. Overall, the third and fourth fiscal quarters are usually the strongest quarters of our fiscal year, whereas the first fiscal quarter is negatively affected by holidays and the second fiscal quarter may be affected by adverse winter weather conditions in some of our markets.
+
+Certain of our end markets experience some seasonality. Our sales in the automotive market are dependent upon global automotive production, and seasonal declines in European production may negatively impact net sales in the fourth fiscal quarter. Also, our sales in the energy market typically increase in the third and fourth fiscal quarters as customer activity increases.
+
+Customer orders and demand may fluctuate as a result of economic and market conditions. We have experienced, and expect to continue to experience, fluctuations as a result of the impacts of the COVID-19 pandemic. Backlog by reportable segment was as follows:
+
+
+
+
+
+
+
+
+
+
+
+Fiscal Year End
+
+ 
+
+
+    
+
+2020
+
+    
+
+2019
+
+  
+
+
+ 
+
+(in millions)
+
+
+Transportation Solutions
+
+
+$
+
+ 1,819
+
+
+$
+
+ 1,639
+
+
+Industrial Solutions
+
+
+ 
+
+ 1,260
+
+
+ 
+
+ 1,315
+
+
+Communications Solutions
+
+
+ 
+
+ 439
+
+
+ 
+
+ 361
+
+
+Total
+
+
+$
+
+ 3,518
+
+
+$
+
+ 3,315
+
+
+We expect that the majority of our backlog at fiscal year end 2020 will be filled during fiscal 2021. Backlog is not necessarily indicative of future net sales as unfilled orders may be cancelled prior to shipment of goods.
+
+Competition
+
+The industries in which we operate are highly competitive, and we compete with thousands of companies that range from large multinational corporations to local manufacturers. Competition is generally based on breadth of product offering, product innovation, price, quality, delivery, and service. We have experienced, and expect to continue to experience, downward pressure on prices.
+
+Raw Materials
+
+We use a wide variety of raw materials in the manufacture of our products. The principal raw materials that we use include plastic resins for molding; precious metals such as gold and silver for plating; and other metals such as copper, aluminum, brass, and steel for manufacturing cable, contacts, and other parts that are used for cable and component bodies and inserts. Many of these raw materials are produced in a limited number of countries around the world or are only available from a limited number of suppliers. The prices of these materials are driven by global supply and demand.
+
+Intellectual Property
+
+Patents and other proprietary rights are important to our business. We also rely upon trade secrets, manufacturing know-how, continuing technological innovations, and licensing opportunities to maintain and improve our competitive position. We review third-party proprietary rights, including patents and patent applications, as available, in an effort to
+
+4
+
+Table of Contents
+
+develop an effective intellectual property strategy, avoid infringement of third-party proprietary rights, identify licensing opportunities, and monitor the intellectual property claims of others.
+
+We own a large portfolio of patents that relate principally to electrical, optical, and electronic products. We also own a portfolio of trademarks and are a licensee of various patents and trademarks. Patents for individual products extend for varying periods according to the date of patent filing or grant and the legal term of patents in the various countries where patent protection is obtained. Trademark rights may potentially extend for longer periods of time and are dependent upon national laws and use of the trademarks.
+
+While we consider our patents and trademarks to be valued assets, we do not believe that our competitive position or our operations are dependent upon or would be materially impacted by any single patent or group of related patents.
+
+Human Capital Management
+
+We have employees located throughout the world. As of fiscal year end 2020, we employed approximately 82,000 people worldwide, including contract employees. Approximately 22,000 were in the Asia–Pacific region, 31,000 were in the EMEA region, and 29,000 were in the Americas region. Of our total employees, approximately 52,000 were employed in manufacturing. Our strong employee base, along with their commitment to uncompromising values, provides the foundation of our company’s success.
+
+Our employees are responsible for upholding our purpose—to create a safer, sustainable, productive, and connected future; our values—integrity, accountability, teamwork, and innovation; and our strategy, execution, and talent (“SET”) leadership expectations. We track and report internally on key talent metrics including workforce demographics, critical role pipeline data, diversity data, and engagement and inclusion indices. 
+
+We embrace diversity and inclusion. A truly innovative workforce needs to be diverse and leverage the skills and perspectives of a wealth of backgrounds and experiences. To attract a global workforce, we strive to embed a culture where employees can bring their whole selves to work. Our employee resource groups (“ERGs”) are company-sponsored groups of employees that support and promote certain mutual objectives of both the employees and the company, including inclusion and diversity and the professional development of employees. The ERGs provide a space where employees can foster connections and develop in a supportive environment. As of fiscal year end 2020, we had six ERGs—ALIGN (LGBTQ), Women in Networking, TE Young Professionals, African Heritage, TE Veterans, and Asian Heritage. We are focused on recruitment of diverse candidates and on internal talent development of our diverse leaders so that they can advance their careers and move into leadership positions within the company. Also, during fiscal 2020, we conducted a fully digital, enterprise-wide engagement survey, our Every Connection Counts survey, which was available in 13 languages and focused on measuring engagement and inclusion.
+
+We continue to emphasize employee development and training. To empower employees to unleash their potential, we provide a range of development programs and opportunities, skills, and resources they need to be successful. Our LEARN@TE platform supplements our talent development strategies. It is an online portal that enables employees to access instructor-led classroom or virtual courses and self-directed web-based courses. In fiscal 2019, we launched SET leadership expectations to all employees which focus on how we drive strategy, effectively execute, and build talent. We believe these behavioral expectations are integrated into the way we assess and select talent, manage performance, and develop our people. We are committed to identifying and developing the talents of our next generation leaders. We have a robust talent and succession planning process and have established specialized programs to support the development of our talent pipeline for critical roles in general management, engineering, and operations. On an annual basis, we conduct an Organization and Leadership Review process with our chief executive officer and all segment, business unit, and function leaders focusing on our high performing and high potential talent, diverse talent, and the succession for our most critical roles.  
+
+We believe our management team has the experience necessary to effectively execute our strategy and advance our product and technology leadership. Our chief executive officer and segment leaders average approximately 25 years of industry experience. They are supported by an experienced and talented management team who is dedicated to maintaining and expanding our position as a global leader in the industry. For discussion of the risks relating to the attraction and retention of management and executive management employees, see “Part 1. Item 1A. Risk Factors.”
+
+5
+
+Table of Contents
+
+Government Regulation and Supervision
+
+The import and export of products are subject to regulation by the various jurisdictions where we conduct business. A small portion of our products, including defense-related products, may require governmental import and export licenses, whose issuance may be influenced by geopolitical and other events. We have a trade compliance organization and other systems in place to apply for licenses and otherwise comply with such regulations. Any failure to maintain compliance with domestic and foreign trade regulation could limit our ability to import and export raw materials and finished goods into or from the relevant jurisdiction.
+
+Environmental
+
+Our operations are subject to numerous environmental, health, and safety laws and regulations, including those regulating the discharge of materials into the environment, greenhouse gas emissions, hazardous materials in products, and chemical usage. We are committed to complying with these laws and to the protection of our employees and the environment. We maintain a global environmental, health, and safety program that includes appropriate policies and standards; staff dedicated to environmental, health, and safety issues; periodic compliance auditing; training; and other measures. We also have a program for compliance with the European Union (“EU”) Restriction of Hazardous Substances and Waste Electrical and Electronic Equipment Directives, the China Restriction of Hazardous Substances law, the EU Registration, Evaluation, Authorization, and Restriction of Chemicals (“REACH”) Regulation, and similar laws.
+
+Compliance with these laws has increased our costs of doing business in a variety of ways and may continue to do so in the future. For example, laws regarding product content and chemical registration require extensive and costly data collection, management, and reporting, and laws regulating greenhouse gas emissions may increase our costs for energy and certain materials and products. We also have projects underway at a number of current and former manufacturing sites to investigate and remediate environmental contamination resulting from past operations. Based upon our experience, available information, and applicable laws, as of fiscal year end 2020, we concluded that we would incur investigation and remediation costs at these sites in the reasonably possible range of $16 million to $45 million, and we accrued $20 million as the probable loss, which was the best estimate within this range. We do not anticipate any material capital expenditures during fiscal 2021 for environmental control facilities or other costs of compliance with laws or regulations relating to greenhouse gas emissions.
+
+Available Information
+
+All periodic and current reports, registration filings, and other filings that we are required to file with the United States Securities and Exchange Commission (“SEC”), including Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (“Exchange Act”) are available free of charge through our internet website at www.te.com. Such documents are available as soon as reasonably practicable after electronic filing or furnishing of the material with the SEC. The information on our website is not incorporated by reference in this Annual Report on Form 10-K.
+
+

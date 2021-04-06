@@ -1,0 +1,620 @@
+PART I.
+
+ITEM 1. BUSINESS
+
+The discussion of the general development of our business in this Item 1 Business provides an update on the material changes to our business since our Annual Report on Form 10-K for the year ended December 31, 2019, filed with the SEC on February 26, 2020 (the ‘2019 Form 10-K’), which included a complete description of our business as of December 31, 2019. We incorporate herein the description of our business, including as specified in the discussion in this Item 1 below, by reference to the 2019 Form 10-K, available at https://www.sec.gov/Archives/edgar/data/0001140536/000156459020006736/wltw-10k_20191231.htm#ITEM_1_BUSINESS
+
+The Company
+
+Willis Towers Watson is a leading global advisory, broking and solutions company that helps clients around the world turn risk into a path for growth. Willis Towers Watson has more than 46,000 employees and services clients in more than 140 countries. We design and deliver solutions that manage risk, optimize benefits, cultivate talent and expand the power of capital to protect and strengthen institutions and individuals. We believe our unique perspective allows us to see the critical intersections between talent, assets and ideas - the dynamic formula that drives business performance.
+
+Our clients operate on a global and local scale in a multitude of businesses and industries throughout the world and generally range in size from large, major multinational corporations to middle-market domestic and international companies. Our clients include many of the world’s leading corporations, including approximately 93% of the FTSE 100, 91% of the Fortune 1000, and 91% of the Fortune Global 500 companies. We also advise the majority of the world’s leading insurance companies. We work with major corporations, emerging growth companies, governmental agencies and not-for-profit institutions in a wide variety of industries, with many of our client relationships spanning decades. No one client accounted for a significant concentration of revenue in each of the years ended December 31, 2020, 2019 and 2018. We place insurance with more than 2,500 insurance carriers, none of which individually accounted for a significant concentration of the total premiums we placed on behalf of our clients in 2020, 2019 or 2018.
+
+We provide a comprehensive offering of services and solutions to clients across four business segments: Human Capital and Benefits; Corporate Risk and Broking; Investment, Risk and Reinsurance; and Benefits Delivery and Administration.
+
+On March 9, 2020, WTW and Aon plc (‘Aon’) issued an announcement disclosing that the respective boards of directors of WTW and Aon had reached agreement on the terms of a recommended acquisition of WTW by Aon. Under the terms of the agreement each WTW shareholder will receive 1.08 Aon ordinary shares for each WTW ordinary share. At the time of the announcement, it was estimated that upon completion of the combination, existing Aon shareholders will own approximately 63% and existing WTW shareholders will own approximately 37% of the combined company on a fully diluted basis.
+
+The transaction was approved by the shareholders of both WTW and Aon during meetings of the respective shareholders held on August 26, 2020 and remains subject to other customary closing conditions, including required regulatory approvals. The antitrust regulatory review of the transaction remains ongoing. In addition, there are numerous other regulatory approvals and other closing conditions that need to be met. The parties expect the transaction to close in the first half of 2021, subject to satisfaction of these conditions.
+
+Available Information
+
+The Company files annual, quarterly and current reports, proxy statements and other information with the Securities and Exchange Commission (the ‘SEC’). The SEC maintains a website that contains annual, quarterly and current reports, proxy statements and other information that issuers (including Willis Towers Watson) file electronically with the SEC. The SEC’s website is www.sec.gov.
+
+The Company makes available, free of charge through our website, www.willistowerswatson.com, our Annual Report on Form 10-K, our quarterly reports on Form 10-Q, our proxy statement, current reports on Form 8-K and Forms 3, 4, and 5 filed on behalf of directors and executive officers, as well as any amendments to those reports filed or furnished pursuant to the Securities Exchange Act of 1934 (the ‘Exchange Act’) as soon as reasonably practicable after such material is electronically filed with, or furnished to, the SEC. Unless specifically incorporated by reference, information on our website is not a part of this Form 10-K.
+
+The Company’s Corporate Governance Guidelines, Audit Committee Charter, Risk Committee Charter, Compensation Committee Charter, and Corporate Governance & Nominating Committee Charter are available on our website, www.willistowerswatson.com, in the Investor Relations section, or upon request. Requests for copies of these documents should be directed in writing to the Company Secretary c/o Office of General Counsel, Willis Towers Watson Public Limited Company, Brookfield Place, 200 Liberty Street, New York, NY 10281.
+
+3
+
+ 
+
+General Information
+
+Willis Towers Watson offers its clients a broad range of services to help them to identify and control their risks, and to enhance business performance by improving their ability to attract, retain and engage a talented workforce. Our risk control services range from strategic risk consulting (including providing actuarial analysis), to a variety of due diligence services, to the provision of practical on-site risk control services (such as health and safety or property loss control consulting), as well as analytical and advisory services (such as hazard modeling and reinsurance optimization studies). We assist clients in planning how to manage incidents or crises when they occur. These services include contingency planning, security audits and product tampering plans. We help our clients enhance their business performance by delivering consulting services, technology and solutions that help them anticipate, identify and capitalize on emerging opportunities in human capital management, as well as offer investment advice to help them develop disciplined and efficient strategies to meet their investment goals.
+
+As an insurance broker, we act as an intermediary between our clients and insurance carriers by advising our clients on their risk management requirements, helping them to determine the best means of managing risk and negotiating and placing insurance with insurance carriers through our global distribution network. We operate a private Medicare exchange in the U.S. Through this exchange and those for active employees, we help our clients move to a more sustainable economic model by capping and controlling the costs associated with healthcare benefits.
+
+We are not an insurance company, and therefore we do not underwrite insurable risks for our own account.
+
+We derive the majority of our revenue from either commissions or fees for brokerage or consulting services. We do not determine the insurance premiums on which our commissions are generally based. Commission levels generally follow the same trend as premium levels as they are derived from a percentage of the premiums paid by the insureds. Fluctuations in these premiums charged by the insurance carriers can therefore have a direct and potentially material impact on our results of operations. Our fees for consulting services are spread across a variety of complementary businesses that generally remain steady during times of uncertainty. We have some businesses, such as our health and benefits and administration businesses, which can be counter cyclical during the early period of a significant economic change.
+
+Impact of COVID-19
+
+The COVID-19 pandemic negatively affected our revenue and operating results during 2020, and we expect that it will continue to have an impact on our financial condition and results of operations in the near term and may have a substantial and negative impact on our financial condition, liquidity, and results of operations in future periods. For information regarding the impact of COVID-19 on our business and measures we have taken in response, see Item 7 ‘Management’s Discussion and Analysis of Financial Condition and Results of Operations-Risks and Uncertainties of the COVID-19 Pandemic’ and Item 1A ‘Risk Factors-Strategic, Operational and Technology Risks-We have been impacted by the COVID-19 pandemic and may be substantially and negatively impacted by it in the future.’
+
+Business Strategy
+
+Willis Towers Watson is in the business of people, risk and capital. We believe that a unified approach to these areas can be a path to growth for our clients. Our integrated teams bring together our understanding of risk strategies and market analytics. This helps clients around the world to achieve their objectives.
+
+We operate in attractive markets – both growing and mature – with a diversified platform across geographies, industries, segments and lines of business. We aim to be the premier advisory, broking and solutions company, creating a competitive advantage and delivering sustainable growth.
+
+We believe we can achieve this by:
+
+ 
+
+•
+
+Driving profitable organic growth in our current core businesses and geographies – each has a role to play in Willis Towers Watson’s success;
+
+ 
+
+•
+
+Delivering a winning client experience – we are committed to always bringing the best of Willis Towers Watson to our clients – with a consistent standard across all of our businesses and geographies; and
+
+ 
+
+•
+
+Investing both organically and inorganically – with a focus on the most attractive markets for growth or where we can achieve a sustainable competitive advantage, including adjacencies, innovation and inorganic opportunities.
+
+We care as much about how we work as we do about the impact that we make. This means commitment to shared values, a framework that guides how we run our business and serve clients.
+
+4
+
+ 
+
+Through these strategies we aim to accelerate revenue, cash flow, earnings before interest, taxes, depreciation and amortization (‘EBITDA’), and earnings growth, and to generate compelling returns for investors, by delivering tangible growth in revenue.
+
+Principal Services
+
+We manage our business across four integrated reportable operating segments: Human Capital and Benefits; Corporate Risk and Broking; Investment, Risk and Reinsurance; and Benefits Delivery and Administration. Below are the percentages of revenue generated by each segment for each of the years ended December 31, 2020, 2019 and 2018.
+
+ 
+
+ 
+
+ 
+
+Year ended December 31,
+
+ 
+
+ 
+
+ 
+
+2020
+
+ 
+
+ 
+
+2019
+
+ 
+
+ 
+
+2018
+
+ 
+
+Human Capital and Benefits
+
+ 
+
+ 
+
+35
+
+%
+
+ 
+
+ 
+
+37
+
+%
+
+ 
+
+ 
+
+38
+
+%
+
+Corporate Risk and Broking
+
+ 
+
+ 
+
+32
+
+%
+
+ 
+
+ 
+
+33
+
+%
+
+ 
+
+ 
+
+34
+
+%
+
+Investment, Risk and Reinsurance
+
+ 
+
+ 
+
+18
+
+%
+
+ 
+
+ 
+
+18
+
+%
+
+ 
+
+ 
+
+19
+
+%
+
+Benefits Delivery and Administration
+
+ 
+
+ 
+
+15
+
+%
+
+ 
+
+ 
+
+12
+
+%
+
+ 
+
+ 
+
+9
+
+%
+
+ 
+
+ 
+
+Human Capital and Benefits
+
+For a description of our Human Capital and Benefits (‘HCB’) segment, see the link above to the 2019 Form 10-K, and see ‘Human Capital and Benefits’ within Part I, Item 1 Business in our Annual Report on Form 10-K for the year ended December 31, 2019, filed with the SEC on February 26, 2020. There have been no material updates to the description of our HCB segment since the 2019 Form 10-K.   
+
+Corporate Risk and Broking
+
+The Willis Towers Watson Corporate Risk and Broking (‘CRB’) segment provides a broad range of risk advice, insurance brokerage and consulting services to clients worldwide ranging from small businesses to multinational corporations, and places more than $20 billion of premiums into the insurance markets on an annual basis. The segment delivers integrated global solutions tailored to client needs and underpinned by data and analytics through a balanced matrix of global lines of business across all of the Company’s regions. The global lines of business as of December 31, 2020 are:
+
+Property and Casualty — Property and Casualty provides property and liability insurance brokerage services across a wide range of industries and segments including real estate, healthcare and retail. We also arrange insurance products and services for our affinity client partners to offer to their customers, employees, or members alongside, or in addition to, their principal business offerings.
+
+Aerospace — Aerospace provides specialist expertise to the aerospace and space industries. Our aerospace business provides insurance broking, risk management services, contractual and technical advisory expertise to aerospace clients worldwide, including the world’s leading airlines, aircraft manufacturers, air cargo handlers and other airport and general aviation companies. The specialist InSpace team is also prominent in providing insurance and risk management services to the space industry.
+
+Construction — Our Construction business provides services that include insurance broking, claims, loss control and specialized risk advice for a wide range of construction projects and activities. Clients include contractors, project owners, public entities, project managers, consultants and financiers, among others.
+
+ 
+
+Facultative — Facultative capabilities exist for each of CRB’s offerings to serve as a broker or intermediary for insurance companies seeking to arrange reinsurance solutions across various classes of risk for their clients, some of which may also be broking clients of Willis Towers Watson. The Facultative team also works closely with our treaty reinsurance business to structure reinsurance solutions that deliver capital and strategic benefits to insurance company clients.
+
+Financial, Executive and Professional Risks (‘FINEX’) — FINEX encompasses all financial and executive risks, delivering client solutions that range from management and professional liability, employment practices liability, crime, cyber and M&A-related insurances to risk consulting and advisory services. Specialist teams provide risk consulting and risk transfer solutions to a broad spectrum of clients across a multitude of industries, as well as the financial and professional service sectors.
+
+Financial Solutions — Financial Solutions provides insurance broking services and specialized risk advice related to credit, surety, terrorism and political risk to clients that range from corporate to professional services firms and financial institutions including, but not limited to, banks, export credit agencies, multilaterals/development finance institutions, private equity funds and special purpose vehicles.
+
+5
+
+ 
+
+Marine — Marine provides specialist expertise to the maritime and logistics industries. Our Marine business provides insurance broking services related to hull and machinery, cargo, protection and indemnity, fine art and general marine liabilities, among others. Our Marine clients include, but are not limited to, ship owners and operators, shipbuilders, logistics operations, port authorities, traders, shippers, exhibitors and secure transport companies.
+
+Natural Resources — Our Natural Resources practice encompasses the oil, gas and chemicals, mining and metals, power and utilities and renewable energy sectors. It provides sector-specific risk transfer solutions and insights, which include insurance broking, risk engineering, contractual reviews, wording analysis and claims management.
+
+Investment, Risk and Reinsurance
+
+For a description of our Investment, Risk and Reinsurance (‘IRR’) segment, see the link above to the 2019 Form 10-K, and see ‘Investment, Risk and Reinsurance’ within Part I, Item 1 Business in our Annual Report on Form 10-K for the year ended December 31, 2019, filed with the SEC on February 26, 2020. There have been no material updates to the description of our IRR segment since the 2019 Form 10-K other than the information provided below.
+
+In September 2020, the Company sold its Max Matthiessen business, which was included within the IRR segment. See Note 3 — Acquisitions and Divestitures within Item 8 of this Annual Report on Form 10-K for further information.
+
+Benefits Delivery and Administration
+
+For a description of our Benefits Delivery and Administration (‘BDA’) segment, see the link above to the 2019 Form 10-K, and see ‘Benefits Delivery and Administration’ within Part I, Item 1 Business in our Annual Report on Form 10-K for the year ended December 31, 2019, filed with the SEC on February 26, 2020. There have been no material updates to the description of our BDA segment since the 2019 Form 10-K.
+
+Human Capital
+
+Our success depends on our ability to attract, retain and motivate qualified personnel. The number of employees by segment for the year ended December 31, 2020 is approximated below:
+
+ 
+
+ 
+
+December 31, 2020
+
+ 
+
+Human Capital and Benefits
+
+ 
+
+ 
+
+14,800
+
+ 
+
+Corporate Risk and Broking
+
+ 
+
+ 
+
+13,200
+
+ 
+
+Investment, Risk and Reinsurance
+
+ 
+
+ 
+
+4,100
+
+ 
+
+Benefits Delivery and Administration
+
+ 
+
+ 
+
+6,700
+
+ 
+
+Corporate and Other
+
+ 
+
+ 
+
+7,300
+
+ 
+
+Total Employees
+
+ 
+
+ 
+
+46,100
+
+ 
+
+The number of employees by geography as of the year ended December 31, 2020 is approximated below:
+
+ 
+
+ 
+
+December 31, 2020
+
+ 
+
+North America
+
+ 
+
+ 
+
+16,700
+
+ 
+
+Great Britain
+
+ 
+
+ 
+
+8,200
+
+ 
+
+Western Europe
+
+ 
+
+ 
+
+7,700
+
+ 
+
+International
+
+ 
+
+ 
+
+13,500
+
+ 
+
+Total Employees
+
+ 
+
+ 
+
+46,100
+
+ 
+
+At December 31, 2020, Willis Towers Watson’s global workforce was 53.8% female and 46.2% male, and global and senior leadership was 27.7% female. Our Board of Directors was 33.3% female, including the Compensation Committee Chairman.  Voluntary turnover (rolling 12-month attrition) was 11.3% in 2020 compared to 11.2% in 2019.
+
+Inclusion and Diversity — We believe that a culture of inclusion and diversity (‘I&D’) is critical to our business. I&D has a direct impact on our ability to grow and excel.
+
+6
+
+ 
+
+Our enterprise-wide I&D priorities include the following:
+
+ 
+
+•
+
+Build a robust pipeline for underrepresented talent;
+
+ 
+
+•
+
+Meaningfully increase the level of overall diversity – including the number of women and underrepresented groups – in leadership; and
+
+ 
+
+•
+
+Promote an inclusive culture, one that respects each other's differences and celebrates what's unique about each of us.
+
+A key underlying theme of these priorities is a sharpened focus on our female talent and a goal to increase gender balance in leadership levels across the company. This focus directly supports the statement Willis Towers Watson made when we joined the Paradigm for Parity® (‘P4P’) coalition in 2016. P4P is committed to reaching gender parity in leadership by 2030.
+
+Our Operating Committee members have I&D objectives as part of their individual performance component, comprising 20% of their short-term incentive awards. In 2020, we continued to make progress increasing female representation in leadership roles to 27.7% (26.5% in 2019). Furthermore, female representation in our global workforce increased from 53.3% in 2019 to 53.8% in 2020.
+
+Each year our leaders cascade I&D-focused objectives throughout the organization, and we continue to look for ways to ensure an objective and fair process that mitigates human biases in all of our talent programs and processes. Examples of our I&D activities include:
+
+ 
+
+•
+
+Our global I&D council, sponsored by our Chief Executive Officer and by our Chief Administrative Officer and Head of Human Resources, sets the standard for our I&D initiatives globally. It is driven by regional I&D councils that provide local perspectives and help to translate our global priorities into actions within each region
+
+ 
+
+•
+
+Our inclusion networks are designed to engage our talent and better connect us to each other, our clients and the communities in which we work and live. Current inclusion networks include: Gender Equity, LGBT+, Multicultural, Workability (Asia, North America and the U.K.), and Young Professionals (Asia, the U.K. and Western Europe)
+
+Total Rewards — Willis Towers Watson invests significant resources in our most important asset – our colleagues. Our aim is to provide colleagues with pay-for-performance, benefits that support good health and a balanced life, as well as the ability to plan for the future, and a range of opportunities for professional development and career growth.
+
+Our Total Rewards program aims to ensure that colleagues are protected in the event of accident or illness, have sufficient paid time off and have the opportunity to accumulate capital for personal needs and retirement. We also aim to provide flexibility at work, including modified work arrangements and schedules (e.g. flex time, part-time, work-from-home) that enable and support colleagues to stay focused on their clients and business needs, while balancing personal commitments.
+
+COVID-19 Response: Health, Safety and Wellbeing — We mobilized incident management teams to ensure employee safety and client service continuity in the early stage of the COVID-19 pandemic. Most of our colleagues began working remotely through technology enhancements, full access to flexible work-life arrangements and open communication. We continued to collect feedback and well-being ideas to help our colleagues adapt, and chartered a multi-faceted team to develop a structured approach to the ‘new normal.’ Recognizing colleagues’ varied situations, their feedback was sought on these efforts. The June all-colleague engagement survey, with high participation, showed strong support for our efforts, with over 90% of staff feeling connected to their teams, having adequate access to their managers and appreciating the flexibility. Work has since shifted to ‘reimagining the workplace,’ using lessons from the crisis to define the evolving role offices will play in how our work is done. For information regarding the impact of COVID-19 on our business and additional measures we have taken in response, see Item 7 ‘Management’s Discussion and Analysis of Financial Condition and Results of Operations-Risks and Uncertainties of the COVID-19 Pandemic.’ In addition, risks relating to COVID-19 and other human resources risks are discussed under Item 1A ‘Risk Factors’.
+
+Competition
+
+For a description of our competition, see the link above to the 2019 Form 10-K, and see ‘Competition’ within Part I, Item 1 Business in our Annual Report on Form 10-K for the year ended December 31, 2019, filed with the SEC on February 26, 2020.  
+
+Regulation
+
+For a description of the regulations under which we operate, see the link above to the 2019 Form 10-K, and see ‘Regulation’ within Part I, Item 1 Business in our Annual Report on Form 10-K for the year ended December 31, 2019, filed with the SEC on February 26, 2020.  
+
+7
+
+ 
+
+Information about Executive Officers of the Registrant
+
+The executive officers of the Company as of February 23, 2021 were as follows:
+
+Nicolas Aubert (age 55) - Mr. Aubert has served as Head of Great Britain at Willis Towers Watson since January 4, 2016, and as the CEO of Willis Limited, the Company’s U.K. insurance and reinsurance broking subsidiary, since September 30, 2015.  Since 2020, Mr. Aubert also has served as the UK Branch Director of Willis Towers Watson’s Belgian entity, Willis Towers Watson SA/NV.  Prior to his appointment as Head of Great Britain in January 2015, Mr. Aubert served as CEO of Willis GB, the operating segment of Willis Group Holdings that included Willis’ London specialty businesses and facultative business, and the retail insurance business in Great Britain. Since 2016, Mr. Aubert has served as Chair and immediate Past Chair of the London Market Group (‘LMG’), remaining a member of LMG’s board, President and immediate Past President of the Insurance Institute of London. Mr. Aubert has also served on the Executive Committee of the London & International Brokers Association and is a member of TheCityUK’s Advisory Council. Prior to joining Willis, Mr. Aubert served as the Chief Operating Officer of American International Group (‘AIG’) in Europe, the Middle East and Africa, and formerly as the Managing Director of AIG in the U.K. After joining AIG in June 2002 to lead AIG France, Mr. Aubert served in various other senior management positions, including Managing Director of Southern Europe, where he oversaw operations in 12 countries, including Israel. Prior to AIG, Mr. Aubert worked in various leadership positions at ACE, CIGNA, GAN and started his career at GENERALI. He holds specialized master’s degrees in insurance law (DESS Assurances) from Pantheon-Sorbonne University of Paris and from Institut des Assurances de Paris (Université Paris-Dauphine) and an M.B.A. from the French High Insurance Studies Center.
+
+Anne D. Bodnar (age 64) - Ms. Bodnar has served as Chief Administrative Officer and Head of Human Resources since May 31, 2019. Prior to that, she served as Chief Human Resources Officer at Willis Towers Watson since January 4, 2016. Previously, Ms. Bodnar served on Towers Watson’s Management Committee since January 2015 and as Towers Watson’s Chief Administrative Officer since January 1, 2010. Ms. Bodnar previously served as Managing Director of HR at Towers Perrin beginning in 2001. From 1995 to 2000, Ms. Bodnar led Towers Perrin’s recruiting and learning and development efforts. Prior to that, she was a strategy consultant in Towers Perrin’s Human Capital business. Earlier in her career, Ms. Bodnar held several operational and strategic planning roles at what is now JPMorgan Chase. Additionally, Ms. Bodnar published a chapter entitled ‘HR as a Strategic Partner’ in Human Resources Leadership Strategies: Fifteen Ways to Enhance HR Value in Your Company. She was elected to the YWCA’s Academy of Women Achievers in 1999. Ms. Bodnar graduated cum laude and Phi Beta Kappa from Smith College and has an M.B.A. from Harvard Business School.
+
+Michael J. Burwell (age 57) - Mr. Burwell has served as Chief Financial Officer of Willis Towers Watson since October 3, 2017. Before joining Willis Towers Watson, Mr. Burwell spent over 30 years at PricewaterhouseCoopers LLP (‘PwC’), where he served in various senior leadership roles, including, most recently, as a Senior Partner driving transformation activities with various clients across industries since 2016. Prior to that, Mr. Burwell served as Vice Chairman, Global and US Transformation Leader from 2012 to 2016, as Vice Chairman, US Operations Leader, and Chief Financial Officer from 2007 to 2012, and as Leader of the Transaction Services practice from 2005 to 2007. During his initial time at PwC, Mr. Burwell served 11 years in the assurance practice working on numerous audit clients. He has a bachelor’s degree in business administration from Michigan State University and is a certified public accountant. In 2010, he was named Michigan State University’s Alumnus of the Year.
+
+Matthew S. Furman (age 51) - Mr. Furman has served as General Counsel at Willis Towers Watson since January 4, 2016. Previously, Mr. Furman served as Executive Vice President and Group General Counsel at Willis Group Holdings, where he was a member of the Operating Committee since April 2015. From 2007 until March 2015, Mr. Furman was Senior Vice President, Group General Counsel-Corporate and Governance, and Corporate Secretary for The Travelers Companies, Inc. From 2000 until 2007, Mr. Furman was an attorney at Goldman, Sachs & Co. in New York, where he was Vice President and Associate General Counsel in the finance and corporate legal group. Prior to that, he was in private practice, with almost six years’ experience at Simpson Thacher & Bartlett in New York. Mr. Furman also serves as a Trustee of the Jewish Theological Seminary and previously served as a Director of the Legal Aid Society and a member of the U.S. Securities and Exchange Commission’s Investor Advisory Committee, where he served on the Executive Committee and chaired the Market Structure Subcommittee. He holds a bachelor’s degree from Brown University and a law degree from Harvard Law School.
+
+Adam L. Garrard (age 55) - Mr. Garrard has served as Head of Corporate Risk and Broking since August 14, 2019. Prior to that, he served as Head of International at Willis Towers Watson since January 4, 2016. Previously, Mr. Garrard served as Chief Executive Officer for Willis Group Holdings in Asia since September 2012. Prior to that, Mr. Garrard served as Chief Executive Officer for Willis in Europe since January 2009, Chief Executive Officer for Willis in Australasia since May 2005 and Chief Executive Officer for Asia since January 2002. Mr. Garrard has resided in Singapore, Shanghai, Sydney and London while undertaking his Chief Executive Officer roles. After graduating from De Montfort University with a bachelor’s degree in Business Administration in 1992, Mr. Garrard joined SBJ Stephenson Insurance Brokers before joining Willis in 1994.
+
+8
+
+ 
+
+Julie J. Gebauer (age 59) - Ms. Gebauer has served as Head of Human Capital & Benefits at Willis Towers Watson since January 4, 2016. Previously, Ms. Gebauer served as Managing Director of Towers Watson’s Talent and Rewards business segment since January 1, 2010. Beginning in 2002, Ms. Gebauer served as a Managing Director of Towers Perrin and led Towers Perrin’s global Workforce Effectiveness practice and the global Towers Perrin-International Survey Research Corporation line of business. Ms. Gebauer was a member of Towers Perrin’s Board of Directors from 2003 through 2006. She joined Towers Perrin in 1986 as a consultant and held several leadership positions at Towers Perrin, serving as the Managing Principal for the New York office from 1999 to 2001 and the U.S. East Region Leader for the Human Capital Group from 2002 to 2006. Ms. Gebauer is a Fellow of the Society of Actuaries. Ms. Gebauer graduated Phi Beta Kappa and with high distinction from the University of Nebraska-Lincoln with a bachelor’s degree in mathematics and was designated a Chancellor’s Scholar.
+
+Joseph Gunn (age 50) - Mr. Gunn has served as Head of North America at Willis Towers Watson since October 27, 2016. Previously, Mr. Gunn served as the regional director for the Northeast region of Willis Towers Watson where he led the business in both Metro New York and New England since January 4, 2016. Prior to that, Mr. Gunn served as the National Partner for the Northeast Region at Willis North America since July 2009, and before that, as the Chief Growth Officer for Willis North America and regional executive officer for the South Central region of Willis North America since August 2006. Before joining Willis in 2004, Mr. Gunn led the Client Development team of Marsh & McLennan for the North Texas operations and served as a senior relationship officer on several large accounts. Mr. Gunn serves as a member of the board of trustees of Big Brothers Big Sisters of New York. He holds a bachelor’s degree in political science from Florida State University.
+
+John J. Haley (age 71) - Mr. Haley has served as Chief Executive Officer and Director at Willis Towers Watson since January 4, 2016. Previously, Mr. Haley served as the Chief Executive Officer and Chairman of the Board of Directors of Towers Watson since January 1, 2010, and as President since October 3, 2011. Prior to that, Mr. Haley served as President and Chief Executive Officer of Watson Wyatt beginning on January 1, 1999, as Chairman of the Board of Watson Wyatt beginning in 1999 and as a director of Watson Wyatt beginning in 1992. Mr. Haley joined Watson Wyatt in 1977. Prior to becoming President and Chief Executive Officer of Watson Wyatt, he was the Global Director of the Benefits group at Watson Wyatt. Mr. Haley is a Fellow of the Society of Actuaries and a member of the American Academy of Actuaries and the Conference of Consulting Actuaries. He is also a co-author of Fundamentals of Private Pensions (University of Pennsylvania Press). Additionally, Mr. Haley serves on the board of MAXIMUS, Inc., a provider of health and human services program management, consulting services and system solutions, and previously served on the board of Hudson Global, Inc., an executive search, specialty staffing and related consulting services firm. He has an A.B. in mathematics from Rutgers College and studied under a fellowship at the Graduate School of Mathematics at Yale University.
+
+Carl A. Hess (age 59) - Mr. Hess has served as Head of Investment, Risk and Reinsurance since October 27, 2016.  Previously, Mr. Hess served as the Co-Head of North America at Willis Towers Watson since January 4, 2016. Prior to that, Mr. Hess served as Managing Director, The Americas of Towers Watson since February 1, 2014, and before that, he served as the Managing Director of Towers Watson’s Investment business since January 1, 2010. Before his service at Towers Watson, Mr. Hess worked in a variety of roles for over 20 years at Watson Wyatt, lastly as Global Practice Director of Watson Wyatt’s Investment business. Mr. Hess is a Fellow of the Society of Actuaries and the Conference of Consulting Actuaries and a Chartered Enterprise Risk Analyst. He has a bachelor’s degree cum laude in logic and language from Yale University.
+
+Anne Pullum (age 38) - Ms. Pullum has served as Head of Western Europe since May 31, 2019. Prior to that, she served as the Chief Administrative Officer and Head of Strategy and Innovation at Willis Towers Watson since October 27, 2016. Beginning on January 4, 2016, Ms. Pullum served as Willis Towers Watson’s Head of Strategy, where she has played a key role in determining the Company’s strategy and worked across all business segments and functional areas. Previously, Ms. Pullum served as the Head of Strategy for Willis Group since May 2014.  Before joining Willis, Ms. Pullum worked at McKinsey & Company, where she served financial services and natural resource clients since October 2010. Prior to that, Ms. Pullum conducted economic research at Greenspan Associates in Washington, D.C. and served as an analyst in the Goldman Sachs Equities Division in London. Ms. Pullum holds an M.B.A. from INSEAD and a bachelor’s degree in international economics from Georgetown University’s School of Foreign Service. 
+
+Gene H. Wickes (age 68) - Mr. Wickes has served as the Head of Benefits Delivery and Administration at Willis Towers Watson since April 1, 2016. Prior to that, Mr. Wickes served as an Executive Sponsor of the combined Willis Towers Watson Merger integration team since January 4, 2016. Previously, he served as the Managing Director of the Benefits business segment of Towers Watson from January 1, 2010 until the closing of the Willis Towers Watson merger. Prior to that, he served as the Global Director of the Benefits practice of Watson Wyatt beginning in 2005 and as a member of Watson Wyatt’s Board of Directors from 2002 to 2007. Mr. Wickes was Watson Wyatt’s Global Retirement Practice Director in 2004 and the U.S. West Division’s Retirement Practice Leader from 1997 to 2004. Mr. Wickes joined Watson Wyatt in 1996 as a senior consultant and consulting actuary. Prior to joining Watson Wyatt, he spent 18 years with Towers Perrin, where he assisted organizations with welfare, retirement, and executive benefit issues. Mr. Wickes is a Fellow of the Society of Actuaries and a member of the Conference of Consulting Actuaries, and he has a B.S. in mathematics and economics, an M.S. in mathematics and an M.S. in economics, all from Brigham Young University.
+
+9
+
+ 
+
+Board of Directors
+
+A list of the members of the Board of Directors of the Company and their principal occupations is provided below:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+John J. Haley
+
+ 
+
+Brendan R. O’Neill
+
+ 
+
+Wilhelm Zeller
+
+Chief Executive Officer
+
+ 
+
+Former CEO of Imperial Chemical Industries PLC
+
+ 
+
+Former CEO of Hannover Re Group
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Anna C. Catalano
+
+ 
+
+Jaymin B. Patel
+
+ 
+
+ 
+
+Former Group Vice President, Marketing for BP plc
+
+ 
+
+Executive Chairman, Cloud Agronomics Inc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Victor F. Ganzi
+
+ 
+
+Linda D. Rabbitt
+
+ 
+
+ 
+
+Non-Executive Chairman of Willis Towers Watson, Former President & CEO of The Hearst Corporation
+
+ 
+
+Founder and Chairman of Rand Construction Corporation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Wendy E. Lane
+
+ 
+
+Paul D. Thomas
+
+ 
+
+ 
+
+Chairman of Lane Holdings, Inc.
+
+ 
+
+Former CEO of Reynolds Packaging Group
+
+ 
+
+ 
+
+
+

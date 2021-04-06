@@ -1,0 +1,879 @@
+ITEM 1. BUSINESS
+This Annual Report on Form 10-K contains forward-looking statements that involve risks and uncertainties relating to future events and the future performance of Regeneron Pharmaceuticals, Inc. (where applicable, together with its subsidiaries, "Regeneron," "Company," "we," "us," and "our"), and actual events or results may differ materially from these forward-looking statements. Words such as "anticipate," "expect," "intend," "plan," "believe," "seek," "estimate," variations of such words, and similar expressions are intended to identify such forward-looking statements, although not all forward-looking statements contain these identifying words. These statements concern, and these risks and uncertainties include, among others, the impact of SARS-CoV-2 (the virus that has caused the COVID-19 pandemic) on Regeneron's business and its employees, collaborators, and suppliers and other third parties on which Regeneron relies, Regeneron's and its collaborators’ ability to continue to conduct research and clinical programs, Regeneron's ability to manage its supply chain, net product sales of products marketed or otherwise commercialized by Regeneron and/or its collaborators (collectively, "Regeneron’s Products"), and the global economy; the nature, timing, and possible success and therapeutic applications of Regeneron's Products and product candidates being developed by Regeneron and/or its collaborators (collectively, "Regeneron's Product Candidates") and research and clinical programs now underway or planned, including without limitation EYLEA® (aflibercept) Injection, Dupixent® (dupilumab) Injection, Libtayo® (cemiplimab) Injection, Praluent® (alirocumab) Injection, Kevzara® (sarilumab) Injection, InmazebTM (atoltivimab, maftivimab, and odesivimab-ebgn), REGEN-COV™ (casirivimab and imdevimab), fasinumab, EvkeezaTM (evinacumab), garetosmab, pozelimab, odronextamab, itepekimab, REGN5458, REGN5713-5714-5715, Regeneron's other oncology programs (including its costimulatory bispecific portfolio), Regeneron's and its collaborators' earlier-stage programs, and the use of human genetics in Regeneron's research programs; the likelihood and timing of achieving any of our anticipated development milestones referenced in this report; safety issues resulting from the administration of Regeneron's Products and Regeneron's Product Candidates in patients, including serious complications or side effects in connection with the use of Regeneron's Products and Regeneron's Product Candidates in clinical trials; the likelihood, timing, and scope of possible regulatory approval and commercial launch of our late-stage product candidates and new indications for Regeneron's Products, including without limitation EYLEA, Dupixent, Libtayo, Praluent, Kevzara, REGEN-COV, fasinumab, Evkeeza, garetosmab, pozelimab, odronextamab, itepekimab, REGN5458, and REGN5713-5714-5715; the extent to which the results from the research and development programs conducted by us and/or our collaborators may be replicated in other studies and/or lead to advancement of product candidates to clinical trials, therapeutic applications, or regulatory approval; ongoing regulatory obligations and oversight impacting Regeneron's Products (such as EYLEA, Dupixent, Libtayo, Praluent, and Kevzara), research and clinical programs, and business, including those relating to patient privacy; determinations by regulatory and administrative governmental authorities which may delay or restrict our ability to continue to develop or commercialize Regeneron's Products and Regeneron's Product Candidates; competing drugs and product candidates that may be superior to, or more cost effective than, Regeneron's Products and Regeneron's Product Candidates; uncertainty of market acceptance and commercial success of Regeneron's Products and Regeneron's Product Candidates and the impact of studies (whether conducted by Regeneron or others and whether mandated or voluntary) on the commercial success of Regeneron's Products and Regeneron's Product Candidates; our ability to manufacture and manage supply chains for multiple products and product candidates; the ability of our collaborators, suppliers, or other third parties (as applicable) to perform manufacturing, filling, finishing, packaging, labeling, distribution, and other steps related to Regeneron's Products and Regeneron's Product Candidates; the availability and extent of reimbursement of Regeneron’s Products from third-party payors, including private payor healthcare and insurance programs, health maintenance organizations, pharmacy benefit management companies, and government programs such as Medicare and Medicaid (including the impact of the recently issued "most-favored-nation" interim final rule); coverage and reimbursement determinations by such payors and new policies and procedures adopted by such payors; unanticipated expenses; the costs of developing, producing, and selling products; our ability to meet any of our financial projections or guidance, including without limitation capital expenditures, and changes to the assumptions underlying those projections or guidance; the potential for any license or collaboration agreement, including our agreements with Sanofi, Bayer, and Teva Pharmaceutical Industries Ltd. (or their respective affiliated companies, as applicable), as well as Regeneron's agreement with Roche relating to REGEN-COV, to be cancelled or terminated; and risks associated with intellectual property of other parties and pending or future litigation relating thereto (including without limitation the patent litigation and other related proceedings relating to EYLEA, Dupixent, Praluent, and REGEN-COV described further in Note 15 to our Consolidated Financial Statements included in this report), other litigation and other proceedings and government investigations relating to the Company and/or its operations (including without limitation those described in Note 15 to our Consolidated Financial Statements included in this report), the ultimate outcome of any such proceedings and investigations, and the impact any of the foregoing may have on our business, prospects, operating results, and financial condition. These statements are made based on management's current beliefs and judgment, and the reader is cautioned not to rely on any such statements. In evaluating such statements, shareholders and potential investors should specifically consider the various factors identified under Part I, Item 1A. "Risk Factors," which could cause actual events and results to differ materially from those indicated by such forward-looking statements. We do not undertake any obligation to update (publicly or otherwise) any forward-looking statement, whether as a result of new information, future events, or otherwise.
+2
+
+Table of Contents
+
+General
+Regeneron Pharmaceuticals, Inc. is a fully integrated biotechnology company that discovers, invents, develops, manufactures, and commercializes medicines for the treatment of serious diseases. Our commercialized medicines and product candidates in development are designed to help patients with eye diseases, allergic and inflammatory diseases, cancer, cardiovascular and metabolic diseases, pain, infectious diseases, and rare diseases.
+Our core business strategy is to maintain a strong foundation in basic scientific research and discovery-enabling technologies, and to build on that foundation with our clinical development, manufacturing, and commercial capabilities. Our objective is to continue to be an integrated, multi-product biotechnology company that provides patients and medical professionals with important options for preventing and treating human diseases.
+Selected financial information is summarized as follows:
+Year Ended December 31,	(In millions, except per share data)		2020		
+2019*
+2018*
+Revenues		$	8,497.1 			$	6,557.6 			$	5,145.6 		Net income		$	3,513.2 			$	2,115.8 			$	2,444.4 		Net income per share - diluted		$	30.52 			$	18.46 			$	21.29 									
+* Certain revisions have been made to the previously reported revenues for the years ended December 31, 2019 and 2018. See Note 1 to our Consolidated Financial Statements for further details.
+ 
+For purposes of this report, references to our products encompass products marketed or otherwise commercialized by us and/or our collaborators and references to our product candidates encompass product candidates in development by us and/or our collaborators (in the case of collaborated products or product candidates under the terms of the applicable collaboration agreements), unless otherwise stated or required by the context.
+Products
+Products that have received marketing approval are summarized in the table below.
+Product		Disease Area		Territory			U.S.		EU		Japan		
+ROW(4)
+EYLEA (aflibercept) Injection(1)
+-	Neovascular age-related macular degeneration ("wet AMD")		a		a		a		a		-	Diabetic macular edema ("DME")		a		a		a		a		-	
+Macular edema following retinal vein occlusion ("RVO"), which includes macular edema following central retinal vein occlusion ("CRVO") and macular edema following branch retinal vein occlusion ("BRVO")
+a		a		a		a		-	Myopic choroidal neovascularization ("mCNV")				a		a		a		-	Diabetic retinopathy		a							
+
+-	Neovascular glaucoma ("NVG")						a			
+Dupixent (dupilumab) Injection(2)
+-	
+Atopic dermatitis (in adults and adolescents)(5)
+a		a		a		a		-	Atopic dermatitis (in pediatrics 6–11 years of age)		a		a				a		-	Asthma (in adults and adolescents)		a		a		a		a		-	Chronic rhinosinusitis with nasal polyposis ("CRSwNP")		a		a		a		a	
+Libtayo (cemiplimab) Injection(2)
+-	Metastatic or locally advanced cutaneous squamous cell carcinoma ("CSCC")		a		a				a											 
+3
+
+Table of Contents
+
+Product (continued)
+Disease Area		Territory			U.S.		EU		Japan		
+ROW(4)
+Praluent (alirocumab) Injection(3)
+-	LDL-lowering in heterozygous familial hypercholesterolemia ("HeFH") or clinical atherosclerotic cardiovascular disease ("ASCVD") (in adults)		a		a		
+(7)
+a		-	Cardiovascular risk reduction in patients with established cardiovascular disease		a		a				a	
+Kevzara (sarilumab) Solution for Subcutaneous Injection(2)
+-	Rheumatoid arthritis ("RA") (in adults)		a		a		a		a	Inmazeb (atoltivimab, maftivimab, and odesivimab-ebgn) Injection	-	
+Infection caused by Zaire ebolavirus
+a							
+ARCALYST® (rilonacept) Injection for Subcutaneous Use(8)
+-	Cryopyrin-Associated Periodic Syndromes ("CAPS"), including Familial Cold Auto-inflammatory Syndrome ("FCAS") and Muckle-Wells Syndrome ("MWS")		a								-	Deficiency of Interleukin-1 Receptor Antagonist ("DIRA") (in adults and pediatrics)		a							
+ZALTRAP® (ziv-aflibercept) Injection for Intravenous Infusion(6)
+-	Metastatic colorectal cancer ("mCRC")		a		a		a		a								Note 1: Refer to "Net Product Sales of Regeneron-Discovered Products" section below for information regarding whether net product sales for a particular product are recorded by us, Bayer, or Sanofi	
+Note 2: Refer to product label in each territory for specific information
+(1) In collaboration with Bayer (outside the United States)
+(2) In collaboration with Sanofi
+(3) In collaboration with Sanofi prior to April 2020. Effective April 2020, the Company is solely responsible for the development and commercialization of Praluent in the United States, and Sanofi is solely responsible for the development and commercialization of Praluent outside of the United States. Pursuant to the April 2020 agreement, Sanofi pays us a royalty on net product sales of Praluent outside the United States. Refer to "Collaboration, License, and Other Agreements - Sanofi" section below for further details.
+(4) Rest of world. Checkmark in this column indicates that the product has received marketing approval in at least one country outside of the United States, European Union ("EU"), or Japan.
+(5) Approval in Japan is for adults and adolescents 15 years of age and older
+(6) Pursuant to a 2015 amended and restated ZALTRAP agreement, Sanofi is solely responsible for the development and commercialization of ZALTRAP, and Sanofi pays us a percentage of aggregate net product sales of ZALTRAP
+(7) No longer marketed by Sanofi in Japan due to injunction (see Note 15 to our Consolidated Financial Statements for further details)
+(8) Pursuant to a 2017 license agreement with Kiniksa Pharmaceuticals, Ltd., we granted Kiniksa the right to develop and commercialize certain new indications for ARCALYST. We currently maintain exclusive rights to ARCALYST in the United States for existing indications. Commencing with the receipt of marketing approval by Kiniksa for the first new indication of ARCALYST in the United States, we will grant U.S. commercial rights to ARCALYST for all approved indications and Kiniksa will pay us a share of ARCALYST profits. Refer to "Collaboration, License, and Other Agreements - Kiniksa" section below for further details.
+ 
+Additional Information - Product Updates
+Inmazeb
+Inmazeb is a cocktail of three fully-human monoclonal antibodies that each bind to the Ebola virus at different points, which may serve to increase efficacy, reduce the development of viral sequences that lead to resistance, and potentially enable utility in future outbreaks as viruses continue to evolve. In October 2020, the U.S. Food and Drug Administration ("FDA") approved Inmazeb for the treatment of infection caused by Zaire ebolavirus in adult and pediatric patients, including newborns of mothers who have tested positive for the infection. In connection with this approval, we were also granted a material threat medical countermeasure priority review voucher by the FDA.
+REGEN-COV - Emergency Use Authorization
+In November 2020, REGEN-COV (antibody cocktail casirivimab and imdevimab administered together) received Emergency Use Authorization ("EUA") from the FDA for the treatment of mild to moderate COVID-19 in adults, as well as in pediatric patients at least 12 years of age and weighing at least 40 kg, who have received positive results of direct SARS-CoV-2 viral testing and are
+4
+
+Table of Contents
+
+at high risk for progressing to severe COVID-19 and/or hospitalization. The EUA is temporary and does not replace a formal Biologics License Application ("BLA") submission review and approval process. This use is authorized only for the duration of the declaration that circumstances exist justifying the authorization of the emergency use, unless terminated or revoked sooner. See information regarding ongoing clinical trials of REGEN-COV below.
+Net Product Sales of Regeneron-Discovered Products
+Net Product Sales Recorded by Regeneron		Year Ended December 31,				2020		2019		2018	(In millions)			U.S.		ROW		Total		U.S.		ROW		Total		U.S.		ROW		Total	
+EYLEA(a)
+U.S.		$	4,947.2 			$	2,961.5 			$	7,908.7 			$	4,644.2 			$	2,897.4 			$	7,541.6 			$	4,076.7 			$	2,668.9 			$	6,745.6 		Dupixent		
+(b)
+$	3,226.2 			$	818.6 			$	4,044.8 			$	1,871.2 			$	444.4 			$	2,315.6 			$	776.3 			$	145.7 			$	922.0 		
+Libtayo(b)
+U.S.		$	270.7 			$	77.5 			$	348.2 			$	175.7 			$	18.1 			$	193.8 			$	14.8 			— 			$	14.8 		
+Praluent(c)
+U.S.		$	186.0 			$	172.8 			$	358.8 			$	126.0 			$	162.7 			$	288.7 			$	181.3 			$	125.5 			$	306.8 		Kevzara		(b)		$	141.6 			$	128.3 			$	269.9 			$	129.0 			$	77.7 			$	206.7 			$	74.7 			$	21.9 			$	96.6 		
+REGEN-COV(d)
+U.S.		$	185.7 			— 			$	185.7 			— 			— 			— 			— 			— 			— 		ZALTRAP		(b)		$	5.8 			$	97.9 			$	103.7 			$	7.3 			$	101.1 			$	108.4 			$	9.0 			$	98.8 			$	107.8 		ARCALYST		U.S.		$	13.1 			— 			$	13.1 			$	14.5 			— 			$	14.5 			$	14.7 			— 			$	14.7 																							
+(a) Regeneron records net product sales of EYLEA in the United States. Bayer records net product sales of EYLEA outside the United States. The Company records its share of profits/losses in connection with sales of EYLEA outside the United States within Bayer collaboration revenue.
+(b) Regeneron records net product sales of Libtayo in the United States. Sanofi records net product sales of Libtayo outside the United States and global net product sales of Dupixent, Kevzara, and ZALTRAP. The Company records its share of profits/losses within Sanofi collaboration revenue in connection with (i) sales of Libtayo outside the United States, and (ii) global sales of Dupixent and Kevzara. Sanofi pays the Company a percentage of net sales of ZALTRAP.
+(c) Effective April 1, 2020, Regeneron records net product sales of Praluent in the United States. Also effective April 1, 2020, Sanofi records net product sales of Praluent outside the United States and pays the Company a royalty on such sales. Previously, Sanofi recorded global net product sales of Praluent and the Company recorded its share of profits/losses in connection with such sales within Sanofi collaboration revenue. Refer to "Products" section above and "Collaboration, License, and Other Agreements - Sanofi" section below for further details.
+(d) Regeneron records net product sales of REGEN-COV in connection with its agreements with the U.S. government. Refer to "Agreements Related to COVID-19 - U.S. Government" below for further details.
+ 
+Programs in Clinical Development
+Product candidates in clinical development, which are being developed by us and/or our collaborators, are summarized in the table below. We believe that our ability to develop product candidates is enhanced by the application of our VelociSuite® technology platforms (refer to "Research and Development Technologies - VelociSuite" section below). We continue to invest in the development of enabling technologies to assist in our efforts to identify, develop, manufacture, and commercialize new product candidates.
+There are numerous uncertainties associated with drug development, including uncertainties related to safety and efficacy data from each phase of drug development (including any post-approval studies), uncertainties related to the enrollment and performance of clinical trials, changes in regulatory requirements, changes to drug pricing and reimbursement regulations and requirements, and changes in the competitive landscape affecting a product candidate. The planning, execution, and results of our clinical programs are significant factors that can affect our operating and financial results.
+We and our collaborators conduct clinical trials in multiple countries across the world. The COVID-19 pandemic and the restrictions adopted around the globe to reduce the spread of the disease have impacted and will continue to impact our clinical development programs. We continue to evaluate the impact of the COVID-19 pandemic on an individual trial basis and oversee trial management while also working to ensure patient safety and provide sufficient supply of product candidates for the studies. At this time, we expect fully enrolled clinical studies to remain generally on track. However, the ongoing pandemic continues to impact clinical trial execution in many regions across the world for us and our collaborators. The ultimate impact (including possible delays in recruiting and/or obtaining data) resulting from the COVID-19 pandemic will depend, among other factors, on the extent of the pandemic in the areas with study sites and patient populations. It is possible that the COVID-19 pandemic may cause clinical disruptions beyond those we have described. In addition, there may be delays in the timing of regulatory review and other projected milestones discussed in the table below. 
+5
+
+Table of Contents
+
+Refer to Part I, Item 1A. "Risk Factors" for a description of these and other risks and uncertainties that may affect our clinical programs, including those related to the COVID-19 pandemic.
+6
+
+Table of Contents
+
+Clinical Program		Phase 1		Phase 2		Phase 3		
+Regulatory Review(i)
+2020 and 2021
+Events to Date		
+Select Upcoming Milestones(k)
+Ophthalmology														
+EYLEA(b)
+–High-dose formulation in wet AMD		
+–Retinopathy of prematurity ("ROP")(c)
+
+–High-dose formulation in wet AMD
+
+–High-dose formulation in DME
+–Approved by Ministry of Health, Labour and Welfare ("MHLW") for NVG in Japan
+
+–Pre-filled syringe approved by European Commission ("EC")		–Report results from Phase 2 study for high-dose formulation in wet AMD (second half 2021)
+Immunology & Inflammation														
+Dupixent (dupilumab)(a)
+Antibody to IL-4R alpha subunit
+–Peanut allergy
+
+–Grass allergy		
+–Atopic dermatitis in pediatrics (6 months–5 years of age) (Phase 2/3)(d)
+
+–Asthma in pediatrics (6–11 years of age)
+
+–Eosinophilic esophagitis ("EoE")(c) in adults(d), adolescents(d), and pediatrics
+
+–Chronic obstructive pulmonary disease ("COPD")
+
+–Bullous pemphigoid (Phase 2/3)(c)
+
+–Chronic spontaneous urticaria
+
+–Prurigo nodularis
+
+–Allergic bronchopulmonary aspergillosis ("ABPA")
+
+–Chronic inducible urticaria
+–Asthma in pediatrics (6–11 years of age) (U.S.)
+
+–Asthma longer term efficacy and safety (U.S.)
+
+–200 mg auto-injector (U.S.)
+–Approved by FDA and EC for expanded atopic dermatitis indication in pediatrics (6–11 years of age)
+
+–Approved by National Medical Products Administration ("NMPA") in China for adults with atopic dermatitis
+
+–Reported that Phase 3 trial for asthma in children aged 6 to 11 years met its primary and key secondary endpoints
+
+–Approved by MHLW for CRSwNP in Japan
+
+–Approved by FDA and MHLW for 300 mg auto-injector
+
+–Reported that Part A of the Phase 3 trial in adult and adolescent patients with EoE met both co-primary endpoints
+
+–Report results from Phase 3 study for atopic dermatitis in pediatric patients (6 months–5 years of age) (2022)
+
+–FDA decision on supplemental BLA ("sBLA") for asthma in pediatrics (6–11 years of age) (second half 2021)
+
+–FDA decision on sBLA for asthma longer term efficacy and safety label update (second half 2021)
+
+–Submit Marketing Authorization Application ("MAA") for asthma in pediatrics (6–11 years of age) (first quarter 2021)
+
+–Report results from Part B of the Phase 3 study in adults and adolescents with EoE (second half 2021)
+
+–Report results from Phase 2 monotherapy study in peanut allergy (second half 2021)
+
+
+ 
+7
+
+Table of Contents
+
+Clinical Program (continued)
+Phase 1		Phase 2		Phase 3		
+Regulatory Review(i)
+2020 and 2021
+Events to Date		
+Select Upcoming Milestones(k)
+Dupixent (dupilumab)(a)
+(continued)
+–Chronic sinusitis without nasal polyposis
+
+–Allergic fungal rhinosinusitis				
+–Reported that Phase 2 trial of Dupixent in combination with Aimmune Therapeutics' AR101, an oral immunotherapy, in pediatric patients with peanut allergy met its primary and key secondary endpoint
+
+–Presented results from Phase 2a trial in grass allergy
+
+–Initiated second confirmatory Phase 3 trial in COPD
+–FDA decision on sBLA for 200 mg auto-injector (mid-2021)
+
+–Report results from Phase 3 chronic spontaneous urticaria and prurigo nodularis studies (second half 2021)
+
+–Initiate Phase 3 study in hand and foot atopic dermatitis (first half 2021)
+Kevzara (sarilumab)(a)
+Antibody to IL-6R
+–Polyarticular-course juvenile idiopathic arthritis ("pcJIA")
+
+–Systemic juvenile idiopathic arthritis ("sJIA")						–Reported that Phase 3 studies in COVID-19 patients did not meet primary and key secondary endpoints
+
+–Discontinued clinical development in polymyalgia rheumatica and giant cell arteritis			
+Itepekimab(a) (REGN3500)
+Antibody to IL-33
+–COPD				–Discontinued further clinical development in atopic dermatitis due to lack of efficacy			
+REGN1908-1909(f)
+Multi-antibody therapy to Feld1
+–Cat allergy								–Report results from Phase 2 study in cat allergic asthmatics (first half 2021)	
+REGN5713-5714-5715
+Multi-antibody therapy to Betv1
+–Birch allergy							
+REGN6490
+Antibody to IL-36R
+–Palmo-plantar pustulosis																							 
+8
+
+Table of Contents
+
+Clinical Program (continued)
+Phase 1		Phase 2		Phase 3		
+Regulatory Review(i)
+2020 and 2021
+Events to Date		
+Select Upcoming Milestones(k)
+Solid Organ Oncology														
+Libtayo (cemiplimab)(a)(h)
+Antibody to PD-1
+
+–Basal cell carcinoma ("BCC")
+(pivotal study)
+
+–Metastatic or locally advanced CSCC(d)
+
+–Neoadjuvant CSCC
+–First-line non-small cell lung cancer ("NSCLC"), monotherapy
+
+–First-line NSCLC, chemotherapy combination
+
+–Second-line cervical cancer(e)
+
+–Adjuvant CSCC
+
+–First-line NSCLC, monotherapy (U.S. and EU)
+
+–Advanced BCC (U.S. and EU)		–Reported that Phase 3 monotherapy trial in first-line NSCLC met primary endpoint. Independent Data Monitoring Committee ("IDMC") recommended stopping the trial early due to highly significant improvement in overall survival
+
+–Completed patient enrollment in Phase 3 first-line NSCLC chemotherapy combination study
+
+–Reported that Phase 2 study in BCC demonstrated clinically-meaningful and durable responses
+
+–Presented positive data from pivotal NSCLC monotherapy and BCC studies at the European Society for Medical Oncology ("ESMO") Virtual Congress 2020
+
+–Adjuvant CSCC program under internal review		–FDA decision on sBLA (target action date of February 28, 2021) and EC decision on regulatory submission (mid-2021) for first-line NSCLC, monotherapy
+
+–Interim analysis from Phase 3 study in first-line NSCLC, chemotherapy combination (second half 2021)
+
+–FDA decision on sBLA (target action date of March 3, 2021) and EC decision on regulatory submission (mid-2021) for advanced BCC
+
+–Interim analysis from Phase 3 study in cervical cancer (2021)	
+REGN4018(a)
+Bispecific antibody targeting MUC16 and CD3
+–Platinum-resistant ovarian cancer										–Report results from Phase 1 study in platinum-resistant ovarian cancer (2022)	
+REGN5668
+Bispecific antibody targeting MUC16 and CD28
+–Ovarian cancer											
+REGN5678
+Bispecific antibody targeting PSMA and CD28
+–Prostate cancer										–Report results from Phase 1 study in prostate cancer (2022)													 
+9
+
+Table of Contents
+
+Clinical Program (continued)
+Phase 1		Phase 2		Phase 3		
+Regulatory Review(i)
+2020 and 2021
+Events to Date		
+Select Upcoming Milestones(k)
+REGN5093
+Bispecific antibody targeting two distinct MET epitopes
+–MET-altered advanced NSCLC											
+REGN3767(f)
+Antibody to LAG-3
+–Solid tumors and advanced hematologic malignancies											
+REGN6569
+Antibody to GITR
+–Solid tumors								–Dosing and enrollment in Phase 1 trial temporarily suspended due to a serious adverse event			
+REGN7075
+Bispecific antibody targeting EGFR and CD28
+–Solid tumors																								Hematology														
+Odronextamab (REGN1979)
+Bispecific antibody targeting CD20 and CD3
+–Certain B-cell malignancies(c)
+–B-cell non-Hodgkin lymphoma ("B-NHL") (potentially pivotal study)						–Expanded potentially pivotal Phase 2 program with different subtypes of NHL
+
+–Paused new enrollment of patients with B-NHL in compliance with FDA partial clinical hold		–Finalize protocol amendment and resume patient enrollment (first half 2021)
+
+–Complete patient enrollment in potentially pivotal Phase 2 study in B-NHL (second half 2021)
+
+–Initiate Phase 3 program (2021)	
+REGN5458(a)
+Bispecific antibody targeting BCMA and CD3
+–Multiple myeloma (potentially pivotal study)						–Presented updated results from Phase 1 study in multiple myeloma at ASH		–Complete patient enrollment in potentially pivotal Phase 2 study in multiple myeloma (second half 2021)
+
+–Initiate pivotal trials in earlier lines of multiple myeloma therapy (second half 2021)	
+REGN5459(a)
+Bispecific antibody targeting BCMA and CD3
+–Multiple myeloma																							 
+10
+
+Table of Contents
+
+Clinical Program (continued)
+Phase 1		Phase 2		Phase 3		
+Regulatory Review(i)
+2020 and 2021
+Events to Date		
+Select Upcoming Milestones(k)
+Pozelimab(f) (REGN3918)
+Antibody to C5
+–Paroxysmal nocturnal hemoglobinuria ("PNH"), cemdisiran combination(c)(p)
+–PNH, monotherapy(c)
+
+–CD55-deficient protein-losing enteropathy(c)
+–Initiate Phase 3 study in myasthenia gravis (second half 2021)
+Cemdisiran(p)
+siRNA therapeutic targeting C5
+–Immunoglobulin A nephropathy
+REGN7257
+Antibody to IL2Rg
+–Aplastic anemia											
+NTLA-2001(o)
+TTR gene knockout using CRISPR/Cas9
+–Hereditary transthyretin amyloidosis with polyneuropathy
+("hATTR-PN")																								General Medicine														
+REGEN-COV (casirivimab and imdevimab)(g)(n)
+Multi-antibody therapy to SARS-CoV-2 virus
+–COVID-19 multi-dose safety study		–COVID-19 dose-ranging virology study in non-hospitalized patients		
+–COVID-19 treatment in non-hospitalized patients
+
+–COVID-19 treatment in hospitalized patients
+
+–COVID-19 treatment in hospitalized patients (UK-based RECOVERY trial)
+
+–COVID-19 prevention(m)
+–European Medicines Agency ("EMA") Rolling Review of casirivimab and imdevimab data		–Reported results from first 799 non-hospitalized COVID-19 patients in Phase 2/3 trial showing that trial met primary and key secondary endpoints
+
+–Received EUA from FDA for mild to moderate COVID-19 in high risk non-hospitalized patients
+
+–Reported data from Phase 1/2/3 trial in hospitalized COVID-19 patients requiring low-flow oxygen and that Phase 3 program will continue based on passing futility analysis
+
+–IDMC recommended further enrollment of hospitalized patients requiring high-flow oxygen or mechanical ventilation be placed on hold		–Report additional data from Phase 3 portion of COVID-19 study in non-hospitalized patients (first half 2021)
+
+–Report results for lower 1,200 mg dose from Phase 3 portion of COVID-19 study in non-hospitalized patients (first half 2021)
+
+–Report additional data from Phase 3 portion of COVID-19 prevention study (second quarter 2021)
+
+–Data to be reported from Phase 3 RECOVERY trial in hospitalized patients (first half 2021)													 
+11
+
+Table of Contents
+
+Clinical Program (continued)
+Phase 1		Phase 2		Phase 3		
+Regulatory Review(i)
+2020 and 2021
+Events to Date		
+Select Upcoming Milestones(k)
+REGEN-COV (casirivimab and imdevimab)(g)(n)
+(continued)
+–Reported positive initial results from Phase 3 portion of COVID-19 prevention study
+
+–Papers published in Science and New England Journal of Medicine ("NEJM") describing REGEN-COV and initial trial results
+–Report data from Phase 2 dose-ranging virology study in non-hospitalized patients (first half 2021)
+
+–Submit BLA and MAA for COVID-19 (mid-2021)	
+Praluent (alirocumab)(j)
+Antibody to PCSK9
+–Homozygous familial hypercholesterolemia ("HoFH")(c) in pediatrics
+
+–HeFH in pediatrics
+–HoFH in adults (U.S.)		–Reported results from Phase 3 study in adult patients with HoFH		–FDA decision on sBLA for HoFH in adults (target action date of April 4, 2021)
+
+–Report interim results from Phase 3 study for HeFH in pediatrics (first half 2021)	
+Fasinumab(l)(f) (REGN475)
+Antibody to NGF
+–Osteoarthritis pain of the knee or hip(e)
+–Reported top-line results from Phase 3 trials in osteoarthritis pain of the knee or hip
+
+–Discontinued actively treating patients following recommendation from the IDMC that the program should be terminated		
+–Report additional longer-term safety results from Phase 3 studies in osteoarthritis pain of the knee or hip (first half 2021)
+
+–Continue discussions with regulatory authorities and determine next steps for the program (first half 2021)
+Evkeeza (evinacumab)(f)
+Antibody to ANGPTL3
+–Severe hypertriglyceridemia				
+–HoFH (U.S. and EU)(c)(d)
+–NEJM published positive results from Phase 3 trial in HoFH
+–FDA decision on BLA (target action date of February 11, 2021) and EC decision on MAA for HoFH (first half 2021)	
+Garetosmab(f) (REGN2477)
+Antibody to Activin A
+–Fibrodysplasia ossificans progressiva
+("FOP")(c)(d)(e) (potentially pivotal study)
+–Reported results from Phase 2 study in FOP
+
+–Paused dosing in the open-label portion of the Phase 2 study in FOP based on reports of serious adverse events		–Further review trial data and determine next steps for the program (first half 2021)	
+REGN4461(f)
+Agonist antibody to leptin receptor ("LEPR")
+–Generalized lipodystrophy(e)
+ 
+12
+
+Table of Contents
+
+Clinical Program (continued)
+Phase 1		Phase 2		Phase 3		
+Regulatory Review(i)
+2020 and 2021
+Events to Date		
+Select Upcoming Milestones(k)
+REGN5381
+Agonist antibody to NPR1
+–Heart failure											
+ALN-HSD(p)
+RNAi therapeutic targeting HSD17B13
+–Nonalcoholic steatohepatitis
+("NASH")										 
+Note 1: For purposes of the table above, a program is classified in Phase 1, 2, or 3 clinical development after recruitment for the corresponding study or studies has commenced	
+Note 2: We have discontinued further clinical development of REGN5069, an antibody to GFRα3, which was previously being studied in osteoarthritis pain of the knee
+(a) In collaboration with Sanofi
+(b) In collaboration with Bayer outside of the United States
+(c) FDA granted orphan drug designation
+(d) FDA granted Breakthrough Therapy designation
+(e) FDA granted Fast Track designation
+(f) Sanofi did not opt-in to or elected not to continue to co-develop the product candidate. Under the terms of our agreement, Sanofi is entitled to receive royalties on any future sales of the product candidate.
+(g) We and the Biomedical Advanced Research Development Authority ("BARDA") of the U.S. Department of Health and Human Services ("HHS") are parties to agreements whereby HHS provides certain funding to support research and development of this product candidate
+(h) Studied as monotherapy and in combination with other antibodies and treatments
+(i) Information in this column relates to U.S., EU, and Japan regulatory submissions only
+(j) In collaboration with Sanofi prior to April 2020. Effective April 2020, the Company is solely responsible for the development and commercialization of Praluent in the United States, and Sanofi is solely responsible for the development and commercialization of Praluent outside of the United States. Refer to "Collaboration, License, and Other Agreements" section below for further details.
+(k) As described in the section preceding the table above and Part I, Item 1A. "Risk Factors," development timelines may be further subject to change as a result of the impact of the COVID-19 pandemic
+(l) In collaboration with Teva and Mitsubishi Tanabe Pharma
+(m) Conducted with the National Institute of Allergy and Infectious Diseases ("NIAID"), part of the National Institutes of Health ("NIH")
+(n) In collaboration with Roche
+(o) In collaboration with Intellia
+(p) In collaboration with Alnylam
+ 
+13
+
+Table of Contents
+
+Additional Information - Clinical Programs
+Clinical Development Program Updates
+REGEN-COV (casirivimab and imdevimab)
+In April 2020, the Company moved its leading neutralizing antibodies into preclinical and clinical-scale cell production lines, and in June 2020, initiated its first clinical trial of REGEN-COV. Following a positive review from the IDMC of the REGEN-COV Phase 1 safety results in an initial cohort, the program advanced to late-stage clinical trials (see table above for further details). The REGEN-COV clinical program consists of the following separate study populations: non-hospitalized symptomatic and asymptomatic COVID-19 patients, hospitalized COVID-19 patients, uninfected people with close exposure to a COVID-19 patient (such as the patient's housemate), and healthy volunteers.
+In October 2020, we announced positive results from the first 799 patients in the ongoing Phase 2/3 seamless trial in non-hospitalized patients with COVID-19, showing that REGEN-COV significantly reduced viral load and patient medical visits (hospitalizations, emergency room, urgent care visits, and/or physician office/telemedicine visits). The trial met the primary and key secondary endpoints. In September 2020, we had announced initial data from the trial showing that the antibody cocktail reduced viral load and time to alleviate symptoms.
+In October 2020, the IDMC for the REGEN-COV treatment trials for COVID-19 recommended that the current hospitalized patient trial be modified. Specifically, based on a potential safety signal and an unfavorable risk/benefit profile at this time, the IDMC recommended that further enrollment of patients requiring high-flow oxygen or mechanical ventilation be placed on hold pending collection and analysis of further data on patients already enrolled. The IDMC also recommended continuing enrollment of hospitalized patients requiring either no or low-flow oxygen as the risk/benefit remains acceptable in these cohorts. Finally, the IDMC recommended continuation of the outpatient trial (described further above) without modification.
+In December 2020, we announced initial data from the ongoing Phase 1/2/3 trial in hospitalized COVID-19 patients requiring low-flow oxygen. The primary clinical objective of this initial analysis was to determine if there was sufficient efficacy in these patients to warrant continuing the trial (i.e., futility analysis). The Phase 3 program in hospitalized patients requiring low-flow oxygen will continue based on passing futility analysis, as seronegative patients (patients who did not have antibodies at baseline) treated with the antibody cocktail had a lower risk of death or receiving mechanical ventilation.
+In September 2020, we and the University of Oxford announced that the RECOVERY trial in the United Kingdom will evaluate REGEN-COV. The RECOVERY trial, which is a Phase 3 open-label trial in patients hospitalized with COVID-19, will compare the effects of adding the antibody cocktail to the usual standard-of-care versus standard-of-care on its own. The trial is being coordinated by researchers at the University of Oxford. The RECOVERY IDMC is aware of the IDMC recommendations made in connection with the REGEN-COV treatment trials (described above), and advised that they saw no cogent reason to modify the protocol or intake to the study and recommended continuing recruitment of eligible patients to all study arms.
+In January 2021, the Company announced positive initial results from an ongoing Phase 3 trial evaluating REGEN-COV used as a passive vaccine for the prevention of COVID-19 in people at high risk of infection (due to household exposure to a COVID-19 patient). An exploratory analysis was conducted on the first approximately 400 evaluable individuals enrolled in the trial, who were randomized to receive passive vaccination with REGEN-COV (1,200 mg via subcutaneous injections) or placebo.
+As described further under "Products - REGEN-COV - Emergency Use Authorization" above, in November 2020, REGEN-COV received EUA from the FDA for the treatment of mild to moderate COVID-19 who have received positive results of direct SARS-CoV-2 viral testing and are at high risk for progressing to severe COVID-19 and/or hospitalization. The EUA is temporary and does not replace a formal BLA submission review and approval process. Evaluation of the antibody cocktail's safety and efficacy is ongoing in multiple clinical trials, and data from these trials would be used to support a future BLA submission. Under the EUA, the current authorized dose is 2,400 mg, and we are currently evaluating the safety and efficacy of a lower 1,200 mg dose in an ongoing Phase 3 trial in non-hospitalized patients.
+In February 2021, the EMA announced it had commenced a Rolling Review of data for the casirivimab and imdevimab antibody cocktail. Data on the safety, tolerability, and efficacy of the antibody cocktail will be shared with the EMA as they become available in the coming months.
+14
+
+Table of Contents
+
+Fasinumab
+In August 2020, we announced that two Phase 3 trials, FACT OA1 and FACT OA2, achieved the co-primary endpoints for fasinumab 1 mg monthly, demonstrating significant improvements in pain and physical function over placebo at week 16 and week 24, respectively. Fasinumab 1 mg monthly also showed nominally significant benefits in physical function in both trials and pain in one trial, when compared to the maximum FDA-approved prescription doses of non-steroidal anti-inflammatory drugs for osteoarthritis.
+The FACT OA1 trial included an additional treatment arm, fasinumab 1 mg every two months, which showed numerical benefit over placebo, but did not reach statistical significance.
+In initial safety analyses from the Phase 3 trials, there was an increase in arthropathies reported with fasinumab. In a sub-group of patients from one Phase 3 long-term safety trial, there was an increase in joint replacement with fasinumab 1 mg monthly treatment during the off-drug follow-up period, although this increase was not seen in the other trials to date.
+In August 2020, we also announced that we discontinued actively treating patients with fasinumab, which at such time only involved dosing in an optional second-year extension phase of one trial. This followed a recommendation from the fasinumab program's IDMC that the program should be terminated, based on available evidence to date. We will continue to gather long-term safety data, which we expect to report in 2021, along with our decision on next steps for the program.
+Odronextamab
+In December 2020, we announced that we are pausing new enrollment of patients with B-NHL in our trials for odronextamab in compliance with an FDA partial clinical hold. The FDA requested that we amend the trial protocols in order to further reduce the incidence of ≥Grade 3 cytokine release syndrome ("CRS") during step-up dosing.
+Garetosmab
+In October 2020, we notified clinical investigators to pause dosing of garetosmab in the ongoing Phase 2 LUMINA-1 trial in patients with the ultra-rare genetic disorder FOP. The decision was based on reports of fatal serious adverse events in the trial during the open-label portion during which all patients received active treatment. These deaths are being further investigated to understand if they are related to garetosmab treatment. During the 28-week double-blind treatment period, there were no deaths in the trial.
+We also shared this update with the trial's IDMC and relevant regulatory authorities, and will conduct a review of the trial data to date to better understand the benefit/risk profile of garetosmab in people with FOP. The Company announced top-line 28-week results from the LUMINA-1 trial earlier this year; this is the only active trial evaluating garetosmab.
+Descriptions of Marketed Products Studied in Additional Indications and Product Candidates in Late-Stage Clinical Development
+EYLEA
+EYLEA is a soluble fusion protein that acts as a vascular endothelial growth factor ("VEGF") inhibitor, formulated as an injection for the eye. It is designed to block the growth of new blood vessels and decrease the ability of fluid to pass through blood vessels (vascular permeability) in the eye by blocking VEGF-A and PLGF, two growth factors involved in angiogenesis.
+Dupixent (dupilumab)
+Dupixent is a fully-human monoclonal antibody that inhibits the signaling pathway of IL-4 and IL-13. Data from Dupixent clinical trials have shown that IL-4 and IL-13 are key drivers of the type 2 inflammation that plays a major role in atopic dermatitis, asthma, and CRSwNP, as well as other immunological and inflammatory diseases.
+Kevzara (sarilumab)
+Kevzara is a fully-human monoclonal antibody that binds specifically to the IL-6 receptor and inhibits IL-6-mediated signaling. IL-6 is a signaling protein produced in increased quantities in patients with RA and has been associated with disease activity, joint destruction, and other systemic problems.
+Libtayo (cemiplimab)
+Libtayo is a fully-human monoclonal antibody targeting the immune checkpoint receptor PD-1. The PD-1/PD-L1 immune checkpoint pathway has emerged as a major mechanism by which cancers evade immune destruction. Regeneron is studying Libtayo as monotherapy and in combination with other anti-cancer agents in various indications. It is also being studied by other companies in combination with their proprietary assets.
+15
+
+Table of Contents
+
+Odronextamab
+Odronextamab is an investigational bispecific monoclonal antibody designed to bridge T-cells and tumor cells. It is designed to trigger tumor killing by binding to both a protein expressed on B-cell cancers (CD20) and a component of the T-cell receptor ("TCR") complex (CD3). At the tumor site, it activates T-cells by engaging their CD3 molecules and promotes T-cell mediated killing of the cancer cells.
+REGN5458
+REGN5458 is an investigational bispecific monoclonal antibody designed to bind to BCMA on multiple myeloma cells and the CD3 receptor on T-cells in order to bridge them together and activate T-cells to kill the cancer cells.
+Pozelimab
+Pozelimab is an investigational, fully-human monoclonal antibody designed to block complement factor C5 in order to treat diseases mediated by abnormal complement pathway activity, including PNH and CD55-deficient protein-losing enteropathy. Pozelimab is being studied as monotherapy and also in combination with Alnylam’s siRNA investigational therapy, cemdisiran.
+REGEN-COV (casirivimab and imdevimab)
+REGEN-COV is an investigational cocktail of two fully-human monoclonal antibodies designed to prevent and treat infection from the SARS-CoV-2 virus. The two potent, virus-neutralizing antibodies that form the cocktail bind non-competitively to the critical receptor binding domain of the virus's spike protein, which diminishes the ability of mutant viruses to escape treatment and protects against spike variants that have arisen in the human population.
+Praluent (alirocumab)
+Praluent is a fully-human monoclonal antibody that inhibits the binding of PCSK9 to the LDL receptor. Through inhibiting PCSK9, Praluent increases the number of available LDL receptors on the surface of liver cells to clear LDL, which lowers LDL cholesterol levels in the blood.
+Fasinumab
+Fasinumab is an investigational, fully-human monoclonal antibody that targets NGF, a protein that plays a central role in the regulation of pain signaling, and is a potential new way to manage pain without resorting to opioids.
+Evkeeza (evinacumab)
+Evkeeza is an investigational, fully-human monoclonal antibody that specifically binds to and blocks ANGPTL3. ANGPTL3 plays a key role in regulating plasma lipid levels, including triglycerides, LDL cholesterol, and HDL cholesterol, through inhibition of lipase enzymes (lipoprotein lipase and endothelial lipase).
+Garetosmab
+Garetosmab is an investigational, fully-human monoclonal antibody that binds and neutralizes Activin A, which is required for the development of additional bone outside the normal skeleton in patients with the ultra-rare genetic disorder, FOP. The abnormal bone formation in soft tissue outside of the normal skeleton, a process known as heterotopic ossification, leads to loss of mobility and premature death in FOP patients. Garetosmab reduces the formation of heterotopic bone lesions by neutralizing the Activin A protein.
+Itepekimab
+Itepekimab is an investigational, fully-human monoclonal antibody that inhibits IL-33, a protein that is believed to play a key role in lung inflammation, including in COPD.
+REGN5713-5714-5715
+REGN5713-5714-5715 is an investigational combination of three fully-human monoclonal antibodies designed to treat allergic inflammatory conditions caused by the allergen Betv1, which is the main allergen responsible for birch pollen allergies. Birch pollen allergy is one of the most common causes of seasonal allergies that occur in the spring, and is also believed to trigger "oral allergy syndrome" food reactions to related allergens found in fruits and nuts such as apples, pears, and cherries.
+16
+
+Table of Contents
+
+Other Programs
+Our preclinical research programs include the areas of oncology/immuno-oncology, angiogenesis, ophthalmology, metabolic and related diseases, muscle diseases and disorders, inflammation and immune diseases, bone and cartilage, pain and neurobiology, cardiovascular diseases, infectious diseases, and diseases related to aging.
+Research and Development Technologies
+Many proteins that play an important role in biology and disease are secreted by cells or located on the cell surface. Moreover, cells communicate through secreted factors and surface molecules. Our scientists have developed two different technologies to make protein therapeutics that potently and specifically block, activate, or inhibit the action of specific cell surface or secreted molecules. The first technology fuses receptor components to the constant region of an antibody molecule to make a class of drugs we call "Traps". EYLEA, ZALTRAP, and ARCALYST are drugs generated using our Trap technology. VelociSuite is our second technology platform, which is used for discovering, developing, and producing fully human antibodies that can address both secreted and cell-surface targets.
+VelociSuite
+VelociSuite consists of VelocImmune®, VelociGene®, VelociMouse®, VelociMab®, Veloci-Bi®, VelociT™, VelociHum®, and other related technologies. The VelocImmune mouse platform is utilized to produce fully human antibodies. VelocImmune was generated by leveraging our VelociGene technology (see below), in a process in which six megabases of mouse immune gene loci were replaced, or "humanized," with corresponding human immune gene loci. VelocImmune mice can be used efficiently to generate fully human antibodies to targets of therapeutic interest. VelocImmune and our entire VelociSuite offer the potential to increase the speed and efficiency through which human antibody therapeutics may be discovered and validated, thereby improving the overall efficiency of our early stage drug development activities. We are utilizing the VelocImmune technology to produce our next generation of therapeutic antibody drug candidates for preclinical and clinical development.
+Our VelociGene platform allows custom and precise manipulation of very large sequences of DNA to produce highly customized alterations of a specified target gene, or genes, and accelerates the production of knock-out and transgenic expression models without using either positive/negative selection or isogenic DNA. In producing knock-out models, a color or fluorescent marker may be substituted in place of the actual gene sequence, allowing for high-resolution visualization of precisely where the gene is active in the body during normal body functioning as well as in disease processes. For the optimization of preclinical development and pharmacology programs, VelociGene offers the opportunity to humanize targets by replacing the mouse gene with the human homolog. Thus, VelociGene allows scientists to rapidly identify the physical and biological effects of deleting or over-expressing the target gene, as well as to characterize and test potential therapeutic molecules.
+Our VelociMouse technology platform allows for the direct and immediate generation of genetically altered mice from embryonic stem cells ("ES cells"), thereby avoiding the lengthy process involved in generating and breeding knockout mice from chimeras. Mice generated through this method are normal and healthy and exhibit a 100% germ-line transmission. Furthermore, mice developed using our VelociMouse technology are suitable for direct phenotyping or other studies. We have also developed our VelociMab platform for the rapid screening of antibodies and rapid generation of expression cell lines for our Traps and our VelocImmune human antibodies.
+We have utilized our VelociSuite technologies to develop a class of potential drug candidates, known as bispecific antibodies. Veloci-Bi allows for the generation of full-length bispecific antibodies similar to native antibodies that are amenable to production by standard antibody manufacturing techniques, and are likely to have favorable antibody-like pharmacokinetic properties. In the area of immunotherapies in oncology, we are exploring the use of bispecific antibodies that target tumor antigens and the CD3 receptor on T-cells to harness the oncolytic properties of T-cells. Our first such CD3 bispecific antibody, odronextamab, targets CD20. We are exploring additional indications and applications for our bispecific technologies, such as other CD3 bispecific antibodies, as well as a new class of CD28 costimulatory bispecifics.
+The VelociT mouse extends our research and drug discovery capabilities into cell-mediated immunity and therapeutic TCRs for oncology and other indications. VelociT was developed by using our VelociGene technology to humanize genes encoding TCRα and TCRβ variable sequences, CD4 and CD8 co-receptors, β2m, and class-I and -II major histocompatibility complexes. As a result, VelociT mice generate fully human TCRs, providing for customized modeling of T-cell function in different diseases and a powerful platform for the discovery of unique TCR-based therapies.
+VelociHum is our immunodeficient mouse platform that can be used to accurately test human therapeutics against human immune cells and to study human tumor models. Through genetic humanizations, VelociHum mice have been optimized to allow for better development of human immune cells in vivo, as well as to allow for engraftment of primary patient-derived tumors that do not take in other commercially available mice.
+17
+
+Table of Contents
+
+Regeneron Genetics Center®
+Regeneron Genetics Center ("RGC"), a wholly owned subsidiary of Regeneron Pharmaceuticals, Inc., leverages de-identified clinical, genomic, and molecular data from human volunteers to identify medically relevant associations in a blinded fashion designed to preserve patients' privacy. The objective of RGC is to expand the use of human genetics for discovering and validating genetic factors that cause or influence a range of diseases where there are major unmet medical needs, with the prospect of improving the drug discovery and development process. RGC is undertaking multiple approaches, including large population-based efforts as well as family- and founder-based approaches. RGC utilizes laboratory automation and innovative approaches to cloud computing to achieve high-quality throughput.
+Central to the work of RGC are collaborations with over 100 academic and clinical collaborators around the world, including the University of Colorado, Geisinger Health System, UCLA Medical Center, UK Biobank, Mayo Clinic, and The University of Pennsylvania. These collaborations provide access to biological samples and associated phenotype data from consented patient volunteers for purposes of genomic research. RGC undertakes genetic sequencing of these samples to create a unique resource of de-identified genetic data and associated phenotype data for research.
+The RGC has completed genetic analysis of over 1.3 million samples as of December 31, 2020. The Company is currently advancing multiple drug discovery and development programs that have benefited from RGC's research effort.
+Agreements Related to COVID-19
+U.S. Government
+In the first quarter of 2020, the Company announced an expansion of its Other Transaction Agreement ("OTA") with BARDA, pursuant to which HHS was obligated to fund certain of our costs incurred for research and development activities related to COVID-19 treatments. In July 2020, the Company also announced an agreement with entities acting at the direction of BARDA and the U.S. Department of Defense to manufacture and deliver filled and finished drug product of REGEN-COV to the U.S. government. This agreement, as subsequently amended, could result in payments to the Company of up to $465.9 million in the aggregate for bulk manufacturing of the drug substance, as well as fill/finish, storage, and other activities. See "Results of Operations - Revenues" below for REGEN-COV net product sales recognized in connection with this agreement during 2020.
+In January 2021, the Company announced an agreement with an entity acting on behalf of the U.S. Department of Defense and HHS to manufacture and deliver additional filled and finished drug product of REGEN-COV to the U.S. government. Pursuant to the agreement, the U.S. government is obligated to purchase all filled and finished doses of drug product delivered by June 30, 2021, and may accept doses during the period from July 1, 2021 through September 30, 2021 at its discretion. The U.S. government has agreed to acquire up to 1.25 million doses at the lowest treatment dose authorized or approved by the FDA for the indication authorized under the EUA (as described under "Products - REGEN-COV - Emergency Use Authorization" above), resulting in payments to the Company of up to $2.625 billion in the aggregate. A number of factors may impact available filled and finished supply by June 30, 2021, including manufacturing considerations and authorized dose levels.
+Roche
+In August 2020, we entered into a collaboration agreement with Roche to develop, manufacture, and distribute REGEN-COV. We will continue to lead global development activities for REGEN-COV, and the parties will jointly fund certain on-going studies, as well as any mutually agreed additional new global studies to evaluate further the potential of REGEN-COV in treating or preventing COVID-19. Following the initial EMA approval (if any), Roche will be responsible for securing regulatory approvals outside the United States and conducting any additional studies specifically required for approval by regulators outside the United States.
+Under the terms of the agreement, each party is obligated to dedicate a certain amount of manufacturing capacity to REGEN-COV each year. We will distribute the product in the United States and Roche will distribute the product outside of the United States. The parties will share gross profits from worldwide sales based on a pre-specified formula, depending on the amount of manufactured product supplied by each party to the market. Any profit sharing will commence after product manufactured by Roche receives regulatory authorization.
+Collaboration, License, and Other Agreements
+Sanofi
+In May 2020, a secondary offering of 13,014,646 shares of our Common Stock held by Sanofi was completed. We also purchased 9,806,805 shares directly from Sanofi for an aggregate purchase amount of $5 billion. Pursuant to the offering and purchase, Sanofi disposed of all of its shares of common stock in Regeneron, other than 400,000 shares that it retained as of the closing of these transactions (see further details below regarding Sanofi's use of these shares for the funding of certain development costs).
+18
+
+Table of Contents
+
+In January 2018, we and Sanofi entered into a letter agreement (the "Letter Agreement") amending the LCA in connection with, among other matters, the allocation of additional funds to certain proposed activities relating to dupilumab and itepekimab (collectively, the "Dupilumab/Itepekimab Eligible Investments"). Pursuant to the Letter Agreement, we agreed to allow Sanofi to satisfy in whole or in part its funding obligations with respect to the Dupilumab/Itepekimab Eligible Investments for quarterly periods ending on September 30, 2020 by selling certain shares of our Common Stock directly or indirectly owned by Sanofi. Under the Letter Agreement, we also agreed to allow Sanofi to satisfy in whole or in part its funding obligation with respect to Libtayo development costs for quarterly periods and ending on September 30, 2020 by selling certain shares of our Common Stock. If Sanofi desired to sell shares of our Common Stock during the term of the Letter Agreement to satisfy a portion or all of its funding obligations for the Libtayo development and/or Dupilumab/Itepekimab Eligible Investments, we were able to elect to purchase, in whole or in part, such shares from Sanofi.
+Antibody
+We are collaborating with Sanofi on the global development and commercialization of Dupixent, Kevzara, and itepekimab (the "Antibody Collaboration"). See discussion below for updates related to the development and commercialization of Praluent effective April 1, 2020. Under the terms of the Antibody License and Collaboration Agreement (the "LCA"), Sanofi is generally responsible for funding 80%–100% of agreed-upon development costs. We are obligated to reimburse Sanofi for 30%–50% of worldwide development expenses that were funded by Sanofi based on our share of collaboration profits from commercialization of collaboration products. However, we are only required to apply 10% of our share of the profits from the Antibody Collaboration in any calendar quarter to reimburse Sanofi for these development costs.
+Under our collaboration agreement, Sanofi records product sales for commercialized products, and Regeneron has the right to co-commercialize such products on a country-by-country basis. We co-commercialize Dupixent in the United States, and have exercised our option to co-commercilaize Dupixent in certain countries outside the United States. We currently anticipate commencing co-commercialization of Dupixent in such countries outside the United States in 2021. We supply certain commercial bulk product to Sanofi. We and Sanofi equally share profits and losses from sales within the United States. We and Sanofi share profits outside the United States on a sliding scale based on sales starting at 65% (Sanofi)/35% (us) and ending at 55% (Sanofi)/45% (us), and share losses outside the United States at 55% (Sanofi)/45% (us). In addition to profit and loss sharing, we are entitled to receive sales milestone payments from Sanofi. In the third quarter of 2020, the Company earned, and recognized as revenue, the first $50.0 million sales-based milestone from Sanofi, upon aggregate annual sales of antibodies outside the United States (including Praluent) exceeding $1.0 billion on a rolling twelve-month basis. We are entitled to receive up to an aggregate of $200.0 million in additional milestone payments from Sanofi, including the second sales milestone in the amount of $50.0 million, when such sales outside the United States exceed $1.5 billion on a rolling twelve-month basis.
+In April 2020, the Company and Sanofi entered into an amendment to the LCA in connection with, among other things, the removal of Praluent from the LCA such that (i) effective April 1, 2020, the LCA no longer governs the development, manufacture, or commercialization of Praluent and (ii) the quarterly period ended March 31, 2020 was the last quarter for which Sanofi and the Company shared profits and losses for Praluent under the LCA. The parties also entered into a Praluent Cross License & Commercialization Agreement (the "Praluent Agreement") pursuant to which, effective April 1, 2020, the Company, at its sole cost, is solely responsible for the development and commercialization of Praluent in the United States, and Sanofi, at its sole cost, is solely responsible for the development and commercialization of Praluent outside of the United States. Under the Praluent Agreement, Sanofi will pay the Company a 5% royalty on Sanofi’s net product sales of Praluent outside the United States until March 31, 2032. The Company will not owe Sanofi royalties on the Company’s net product sales of Praluent in the United States. Although each party will be responsible for manufacturing Praluent for its respective territory, the parties have entered into definitive supply agreements under which, for a certain transitional period, the Company will continue to supply drug substance to Sanofi and Sanofi will continue to supply finished product to Regeneron. With respect to any intellectual property or product liability litigation relating to Praluent, the parties have agreed that, effective April 1, 2020, Regeneron and Sanofi each will be solely responsible for any such litigation (including damages and other costs and expenses thereof) in the United States and outside the United States, respectively, arising out of Praluent sales or other activities on or after April 1, 2020 (subject to Sanofi's right to set off a portion of any third-party royalty payments resulting from certain patent litigation proceedings against up to 50% of any Praluent royalty payment owed to Regeneron). The parties will each bear 50% of any damages arising out of Praluent sales or other activities prior to April 1, 2020.
+Immuno-Oncology
+We are collaborating with Sanofi on the development and commercialization of antibody-based cancer treatments in the field of immuno-oncology (the "IO Collaboration"). The IO Collaboration is governed by an Amended and Restated Immuno-oncology Discovery and Development Agreement (the "Amended IO Discovery Agreement"), and an Immuno-oncology License and Collaboration Agreement (the "IO License and Collaboration Agreement").
+19
+
+Table of Contents
+
+Effective December 31, 2018, the Company and Sanofi entered into the Amended IO Discovery Agreement, which narrowed the scope of the existing discovery and development activities conducted by the Company ("IO Development Activities") under the original 2015 Immuno-oncology Discovery and Development Agreement (the "2015 IO Discovery Agreement") to developing therapeutic bispecific antibodies targeting (i) BCMA and CD3 (the "BCMAxCD3 Program") and (ii) MUC16 and CD3 (the "MUC16xCD3 Program") through clinical proof-of-concept. The Amended IO Discovery Agreement provided for Sanofi's payment of $461.9 million to the Company as consideration for (x) the termination of the 2015 IO Discovery Agreement, (y) the prepayment for certain IO Development Activities regarding the BCMAxCD3 Program and the MUC16xCD3 Program, and (z) the reimbursement of costs incurred by the Company under the 2015 IO Discovery Agreement during the fourth quarter of 2018.
+Under the terms of the Amended IO Discovery Agreement, the Company is required to conduct development activities with respect to (i) the BCMAxCD3 Program through the earlier of clinical proof-of-concept or the expenditure of $70.0 million (the "BCMAxCD3 Program Costs Cap") and (ii) the MUC16xCD3 Program through the earlier of clinical proof-of-concept or the expenditure of $50.0 million (the "MUC16xCD3 Program Costs Cap"). We are obligated to reimburse Sanofi for half of the development costs they funded that are attributable to clinical development of antibody product candidates under the Amended IO Discovery Agreement from our share of profits from commercialized IO Collaboration products.
+With regard to the BCMAxCD3 Program and the MUC16xCD3 Program, when (i) clinical proof-of-concept is established, (ii) the applicable Program Costs Cap is reached, or (iii) in certain other limited circumstances, Sanofi will have the option to license rights to the product candidate and other antibodies targeting the same targets for, with regard to BCMAxCD3, immuno-oncology indications, and with regard to MUC16xCD3, all indications, pursuant to the IO License and Collaboration Agreement, as amended. Given the applicable Program Costs Cap for the BCMAxCD3 Program and MUC16xCD3 Program has been reached, we expect Sanofi to provide its decision on whether it will exercise its option to license rights to these product candidates in early 2021. If Sanofi does not exercise its option to license rights to a product candidate, we will retain the exclusive right to develop and commercialize such product candidate and Sanofi will receive a royalty on sales. Pursuant to the Amended IO Discovery Agreement, the parties agreed that (i) if Sanofi exercises its option with respect to a BCMAxCD3 Program antibody, Sanofi will lead the development and global commercialization of such BCMAxCD3 Program antibody; and (ii) if Sanofi exercises its option with respect to a MUC16xCD3 Program antibody, (x) we will lead the development of such MUC16xCD3 Program antibody and commercialization of such MUC16xCD3 Program antibody within the United States and (y) Sanofi will lead the commercialization of such MUC16xCD3 Program antibody outside of the United States.
+If Sanofi exercises its option to license rights to a BCMAxCD3 Program antibody or MUC16xCD3 Program antibody thereunder, it will co-develop these drug candidates with us through product approval under the terms of the IO License and Collaboration Agreement. Sanofi will fund development costs up front for a BCMAxCD3 Program antibody and we will reimburse half of the total development costs for such antibody from our share of future IO Collaboration profits to the extent they are sufficient for this purpose. In addition, we and Sanofi will share equally, on an ongoing basis, the development costs for a MUC16xCD3 Program antibody. Each party will have the right to co-commercialize licensed products in countries where it is not the lead commercialization party. The parties will share equally in profits and losses in connection with the commercialization of collaboration products. We are obligated to use commercially reasonable efforts to supply clinical requirements of each drug candidate under the IO License and Collaboration Agreement until commercial supplies of that IO drug candidate are being manufactured.
+Under the terms of the IO License and Collaboration Agreement, the parties are also co-developing and co-commercializing Libtayo, an antibody targeting PD-1. We have principal control over the development of Libtayo, and the parties share equally, on an ongoing basis, development and commercialization expenses for Libtayo.
+With regard to Libtayo, we lead commercialization activities in the United States, while Sanofi leads commercialization activities outside of the United States and the parties equally share profits from worldwide sales. Sanofi has exercised its option to co-commercialize Libtayo in the United States. We will be entitled to a milestone payment of $375.0 million in the event that global sales of certain licensed products targeting PD-1 (including Libtayo), together with sales of any other products licensed under the IO License and Collaboration Agreement and sold for use in combination with any of such licensed products targeting PD-1, equal or exceed $2.0 billion in any consecutive twelve-month period.
+Bayer
+EYLEA outside the United States
+We and Bayer are parties to a license and collaboration agreement for the global development and commercialization outside the United States of EYLEA. Under the agreement, we and Bayer collaborate on, and share the costs of, the development of EYLEA. Bayer markets EYLEA outside the United States, where, for countries other than Japan, the companies share equally in profits and losses from sales of EYLEA. In Japan, we are entitled to receive a tiered percentage of between 33.5% and 40.0% of EYLEA net sales through 2021, and thereafter, the companies will share equally in profits and losses from the sales of EYLEA.
+20
+
+Table of Contents
+
+We are obligated to reimburse Bayer for 50% of the development costs that it has incurred under the agreement from our share of the collaboration profits (including payments to us based on sales in Japan). The reimbursement payment in any quarter will equal 5% of the then outstanding repayment obligation, but never more than our share of the collaboration profits in the quarter unless we elect to reimburse Bayer at a faster rate.
+Within the United States, we retain exclusive commercialization rights to EYLEA and are entitled to all profits from such sales.
+Teva
+Fasinumab
+We and Teva are parties to a collaboration agreement to develop and commercialize fasinumab globally, excluding certain Asian countries that are subject to our collaboration agreement with Mitsubishi Tanabe Pharma Corporation ("MTPC"). In connection with the agreement, Teva made a $250.0 million non-refundable up-front payment. We lead global development activities, and the parties share equally, on an ongoing basis, development costs under a global development plan. As of December 31, 2020, we had earned an aggregate of $120.0 million of development milestones from Teva, and we are entitled to receive up to an aggregate of $340.0 million in additional development milestones and up to an aggregate of $1.890 billion in contingent payments upon achievement of specified annual net sales amounts. We are responsible for the manufacture and supply of fasinumab globally.
+Within the United States, we will lead commercialization activities, and the parties will share equally in any profits or losses in connection with commercialization of fasinumab. In the territory outside of the United States, Teva will lead commercialization activities and we will supply product to Teva at a tiered purchase price, which is calculated as a percentage of net sales of the product (subject to adjustment in certain circumstances).
+Zai Lab
+Odronextamab (REGN1979)
+In April 2020, we entered into an agreement with Zai Lab Limited to develop and commercialize odronextamab in mainland China, Hong Kong, Taiwan, and Macau (the "Zai Territories"). In connection with the agreement, Zai made a $30.0 million non-refundable up-front payment to the Company. We will continue to lead global development activities for odronextamab, and Zai will be responsible for funding a portion of the global development costs for certain clinical trials.
+We are responsible for the manufacture and supply of clinical and commercial product of odronextamab to Zai. If odronextamab is commercialized in the Zai Territories, we will supply the product to Zai at a tiered purchase price, which is calculated as a percentage of net sales of the product (subject to adjustment in certain circumstances), and are eligible to receive up to $160.0 million in additional regulatory and sales milestone payments.
+Alnylam
+In 2018, we and Alnylam Pharmaceuticals, Inc. entered into a collaboration to discover RNAi therapeutics for NASH and potentially other related diseases, as well as to research, co-develop and commercialize any therapeutic product candidates that emerge from these discovery efforts (including ALN-HSD, which is currently in Phase 1 clinical development). ALN-HSD is being co-developed with Alnylam with terms generally consistent with the form of a Co-Commercialization Collaboration Agreement in connection with the 2019 collaboration agreement as described below. Alnylam is conducting the Phase 1 clinical trial for ALN-HSD and Regeneron will be responsible for all other development as the lead party. The parties share equally, on an ongoing basis, development expenses for ALN-HSD.
+In April 2019, we and Alnylam entered into an additional global, strategic collaboration to discover, develop, and commercialize RNAi therapeutics for a broad range of diseases by addressing therapeutic disease targets expressed in the eye and central nervous system ("CNS"), in addition to a select number of targets expressed in the liver. The collaboration is governed by a Master Collaboration Agreement (the "Master Agreement") (including the form of a License Agreement and a Co-Commercialization Collaboration Agreement). Under the terms of the Master Agreement, we made an up-front payment of $400.0 million to Alnylam. For each program, we will provide Alnylam with a specified amount of funding at program initiation and at lead candidate designation, and Alnylam is eligible to receive up to an aggregate of $200.0 million in clinical proof-of-principle milestones for eye or CNS programs.
+Under the collaboration, the parties plan to perform discovery research until designation of lead candidates. Following designation of a lead candidate, the parties may further advance such lead candidate under either a License Agreement or a Co-Commercialization Collaboration Agreement structure. The initial target nomination and discovery period is five years (which may under certain situations automatically be extended for up to seven years in the aggregate) (the "Research Term"). In addition, we have an option to extend the Research Term for an additional five-year period for a research extension fee ranging from
+21
+
+Table of Contents
+
+$200.0 million to $400.0 million; the actual amount of the fee will be determined based on the acceptance of one or more Investigational New Drug Applications ("INDs") (or their equivalent in certain other countries) for programs in the eye and CNS.
+At the stage of designation of a lead candidate for CNS programs and liver programs, the parties have alternating rights to be a lead party for collaboration products. At the stage of designation of a lead candidate for eye programs, we have the sole right to take the product forward as a licensee. The lead party is required to take the program forward under the License Agreement structure unless the other party exercises its rights to opt-in to a Co-Commercialization Collaboration Agreement, in which case the lead party is required to take the program forward under the Co-Commercialization Collaboration Agreement structure. Alnylam does not have rights to opt-in to a Co-Commercialization Collaboration Agreement for eye programs.
+Under a License Agreement, the lead party is designated as the licensee and has the right to develop and commercialize the collaboration product under such program. The licensee will be responsible for its own costs and expenses incurred in connection with the development and commercialization of the collaboration products under the License Agreement. The licensee will pay to the licensor certain development and/or commercialization milestone payments, as well as certain tiered royalty payments to the licensor based on the aggregate annual net sales of the collaboration product.
+For CNS programs and liver programs, as soon as a party is designated as a lead party, the other company has rights to opt-in to a Co-Commercialization Collaboration Agreement as a participating party. Under a Co-Commercialization Collaboration Agreement, the party designated as the lead party will lead development and commercialization of the program and the parties will split profits and share costs equally, subject to certain co-funding opt-outs at specified clinical trial phases or under other conditions. If a party exercises its co-funding opt-out right, the lead party will be required to make certain tiered royalty payments to the other party based on the aggregate annual net sales of the collaboration product and the timing of the exercise of the co-funding opt-out right. If the non-lead party does not initially opt-in to a Co-Commercialization Collaboration Agreement, the lead party has the right to take the program forward under a License Agreement structure.
+Under the collaboration, when we are the licensee under a License Agreement or the lead party under a Co-Commercialization Collaboration Agreement, Alnylam will be responsible for the manufacture and supply of the product to us for Phase 1 and Phase 2 clinical trials.
+In connection with the collaboration, we and Alnylam also entered into a Stock Purchase Agreement. Pursuant to the terms of the Stock Purchase Agreement, we purchased 4,444,445 shares of Alnylam common stock for aggregate cash consideration of $400.0 million.
+In August 2019, the parties entered into a Co-Commercialization Collaboration Agreement for a silencing RNA ("siRNA") therapeutic targeting the C5 component of the human complement pathway being developed by Alnylam, with Alnylam as the lead party, and a License Agreement for a combination product consisting of cemdisiran and pozelimab, with us as the licensee. The C5 siRNA Co-Commercialization Collaboration Agreement is consistent with the financial terms contained in the form of the existing Co-Commercialization Collaboration Agreement with Alnylam. The C5 siRNA License Agreement contains a flat low double-digit royalty payable to Alnylam on our potential future net sales of the combination product only subject to customary reductions, as well as up to $325.0 million in commercial milestones.
+Intellia
+In 2016, we entered into a license and collaboration agreement with Intellia Therapeutics, Inc. to advance CRISPR/Cas9 gene-editing technology for in vivo therapeutic development. NTLA-2001, which is in Phase 1 clinical development, is subject to a co-development and co-commercialization arrangement pursuant to which Intellia will lead development and commercialization activities and the parties share an agreed-upon percentage of development expenses and profits (if commercialized).
+In May 2020, we expanded our existing collaboration with Intellia Therapeutics, Inc. to provide us with rights to develop products for additional in vivo CRISPR/Cas9-based therapeutic targets and for the companies to jointly develop potential products for the treatment of hemophilia A and B, with Regeneron leading development and commercialization activities. In addition, we also received non-exclusive rights to independently develop and commercialize ex vivo gene edited products. In connection with the May 2020 agreement, we made a $70.0 million up-front payment and purchased 925,218 shares of Intellia common stock for an aggregate purchase price of $30.0 million. The up-front payment and the amount paid in excess of the fair market value of the shares purchased, or $15.0 million, were recorded to Research and development expense in the second quarter of 2020.
+BARDA
+We and BARDA are parties to agreements pursuant to which HHS provided certain funding to develop, test, and manufacture a treatment for Ebola virus infection. In July 2020, HHS exercised its option under an existing agreement to provide up to $344.6 million of additional funding for the manufacture and supply of Inmazeb. We expect to deliver a pre-specified number of Inmazeb treatment doses over the course of approximately six years.
+22
+
+Table of Contents
+
+See "Agreements Related to COVID-19 - U.S. Government" section above for information related to our COVID-19 agreements.
+Kiniksa
+As described under "Products" above, pursuant to a 2017 license agreement, we granted Kiniksa the right to develop and commercialize certain new indications for ARCALYST. Commencing with the receipt of marketing approval by Kiniksa for the first new indication of ARCALYST in the United States, Kiniksa will be solely responsible for the U.S. development and commercialization of ARCALYST in all approved indications.
+During 2020, an sBLA for Kiniksa's first new indication for ARCALYST, recurrent pericarditis, was submitted and is currently under regulatory review, with a target action date of March 21, 2021. If the new indication is approved by the FDA, we are entitled to receive an additional $20.0 million milestone payment from Kiniksa, and Kiniksa will pay Regeneron 50% of its profits from sales of ARCALYST. The parties will not share in any losses incurred by Kiniksa in connection with commercialization of ARCALYST.
+Manufacturing
+We currently manufacture bulk drug materials and products at our manufacturing facilities in Rensselaer, New York and Limerick, Ireland. These facilities consist of owned and leased research, manufacturing, office, laboratory, and warehouse space. In addition, during 2021, we expect to continue the construction of a fill/finish facility in Rensselaer, New York.
+We currently have approximately 100,000 liters of cell culture capacity at our Rensselaer facility, and are approved by the FDA and other regulatory agencies to manufacture our bulk drug materials and products. In addition, we currently have approximately 130,000 liters of cell culture capacity at our Limerick facility which has received certain manufacturing approvals by regulatory agencies, including the FDA, and is in the process of further validation, as required by regulatory authorities, for the manufacture of our bulk drug materials and products.
+Certain bulk drug materials and products are also manufactured by our collaborators, and certain raw materials or products necessary for the manufacture and formulation of our products and product candidates are provided by single-source unaffiliated third-party suppliers. In addition, we rely on our collaborators or third parties to perform packaging, filling, finishing, labeling, distribution, laboratory testing, and other services related to the manufacture of our products and product candidates, and to supply various raw materials and other products. See Part I, Item 1A. "Risk Factors - Risks Related to Manufacturing and Supply" for further information.
+Among the conditions for regulatory marketing approval of a medicine is the requirement that the prospective manufacturer's quality control and manufacturing procedures conform to the good manufacturing practice ("GMP") regulations of the health authority. In complying with standards set forth in these regulations, manufacturers must continue to expend time, money, and effort in the areas of production and quality control to ensure full technical compliance. Manufacturing establishments, both foreign and domestic, are also subject to inspections by or under the authority of the FDA and by other national, federal, state, and local agencies.
+Commercial
+Our medicines are marketed through our commercial group, which includes experienced professionals in the fields of marketing, professional education, patient education, reimbursement and market access, trade and distribution, commercial operations, commercial analytics, market research, and forecasting.
+We sell our marketed products in the United States primarily to wholesalers and specialty distributors that serve pharmacies, hospitals, government agencies, physicians, and other healthcare providers. We had sales to two customers (Besse Medical, a subsidiary of AmerisourceBergen Corporation, and McKesson Corporation) that each accounted for more than 10% of total gross product revenue for the year ended December 31, 2020. On a combined basis, our product sales to these customers accounted for 83% of our total gross product revenue for the year ended December 31, 2020. We promote approved medicines to healthcare professionals via our team of U.S.-based field employees, as well medical journals, medical exhibitions, distribution of literature and samples, and online channels. In addition, we advertise certain products directly to U.S. consumers and maintain websites with information about our medicines. The commercial group also evaluates opportunities for our targets and product candidates, and prepares for market launches of new medicines.
+Additionally, we are a party to several collaboration agreements, whereby our collaborator is responsible for recording product sales of certain products either solely outside the United States or globally. We have exercised our option to co-commercialize some products in accordance with such collaboration agreements. Refer to "Collaboration, License, and Other Agreements" section above for additional information.
+23
+
+Table of Contents
+
+Competition
+We face substantial competition from pharmaceutical, biotechnology, and chemical companies. Many of our competitors have substantially greater research, preclinical and clinical product development, manufacturing capabilities, and financial, marketing, and human resources than we do. Competition from smaller competitors may also be or become more significant if those competitors acquire or discover patentable inventions, form collaborative arrangements, or merge with large pharmaceutical or biotechnology companies. Even if we are able to commercialize additional product candidates, one or more of our competitors may have brought a competitive product to market earlier than us or may have patent protection that dominates or adversely affects our activities or products. Our ability to compete depends, to a great extent, on how fast we can develop safe and effective product candidates, complete clinical testing and approval processes, and supply commercial quantities of the product to the market. Competition among product candidates approved for sale is based on efficacy, safety, reliability, availability, price, patent position, and other factors.
+Marketed Products
+The table below provides an overview of the current competitive landscape for the key products marketed by us and/or our collaborators under our collaboration agreements with them in such products' currently approved indications. The table below is provided for illustrative purposes only and is not exhaustive. For additional information regarding the substantial competition these marketed products face, including potential future competition from product candidates in clinical development, see also Part I, Item 1A. "Risk Factors - Risks Related to Commercialization of Our Marketed Products, Product Candidates, and New Indications for Our Marketed Products - The commercial success of our products and product candidates is subject to significant competition."
+Marketed Product		Competitor Product		Competitor		Indication		
+Territory(1)
+EYLEA		
+Lucentis® (ranibizumab injection)
+Novartis AG and Genentech/Roche		Wet AMD, DME, macular edema following RVO (including CRVO and BRVO), diabetic retinopathy, mCNV, and ROP		Worldwide			
+Avastin® (bevacizumab) (off-label and repackaged)
+Genentech/Roche		Wet AMD, DME, and macular edema following RVO		Worldwide			
+Beovu® (brolucizumab) Injection
+Novartis		Wet AMD		Worldwide			
+Ozurdex® (dexamethasone intravitreal implant)
+Allergan, PLC		DME, RVO		Worldwide			
+Iluvien® (fluocinolone acetonide intravitreal implant)
+Alimera Sciences, Inc.		DME		Worldwide			Conbercept		Chengdu Kanghong Pharmaceutical Group Co., Ltd.		Wet AMD, mCNV		China	Dupixent		
+Eucrisa®/Staquis® (crisaborole)
+Pfizer		Mild-to-moderate atopic dermatitis		United States, EU			
+Olumiant® (baricitinib)
+Eli Lilly/Incyte		Moderate-to-severe atopic dermatitis		EU, Japan			
+Xolair® (omalizumab)
+Roche/Novartis		Asthma, nasal polyps		Worldwide (asthma); United States, EU (nasal polyps)			
+Nucala® (mepolizumab)
+GlaxoSmithKline ("GSK")		Asthma		Worldwide			
+Cinqair® (reslizumab)
+Teva		Asthma		United States, EU			
+Fasenra® (benralizumab)
+AstraZeneca		Asthma		Worldwide									 
+24
+
+Table of Contents
+
+Marketed Product (continued)
+Competitor Product		Competitor		Indication		
+Territory(1)
+Libtayo		
+Keytruda® (pembrolizumab)
+Merck & Co., Inc.		Various cancers		Worldwide			
+Opdivo® (nivolumab)
+Bristol-Myers Squibb		Various cancers		Worldwide			
+Tecentriq® (atezolizumab)
+Roche		Various cancers		Worldwide			
+Imfinzi® (durvalumab)
+AstraZeneca		Various cancers		Worldwide			
+Bavencio® (avelumab)
+Pfizer/Merck KGaA		Various cancers		Worldwide	Praluent		
+Repatha® (evolocumab)
+Amgen		(1) Reduce the risk of myocardial infarction, stroke, and coronary revascularization in adults with established cardiovascular disease, (2) primary hyperlipidemia, and (3) HoFH		Worldwide
+Leqvio® (inclisiran)
+Novartis		
+Primary hypercholesterolemia (heterozygous familial and non-familial) or mixed dyslipidemia
+EU	Kevzara		
+Actemra® (tocilizumab)
+Genentech/Roche/Chugai Pharmaceutical Co., Ltd.		Rheumatoid arthritis		Worldwide			
+Orencia® (abatacept)
+Bristol-Myers Squibb		Rheumatoid arthritis		Worldwide			
+Xeljanz® (tofacitinib)
+Pfizer		Rheumatoid arthritis		Worldwide			
+Olumiant® (baricitinib)
+Eli Lilly/Incyte		Rheumatoid arthritis		Worldwide			
+Rinvoq® (upadacitinib)
+AbbVie		Rheumatoid arthritis		Worldwide			
+Jyseleca® (filgotinib)
+Gilead Sciences, Inc./Galapagos NV
+Rheumatoid arthritis		EU, Japan										
+(1) This table focuses primarily on the United States, EU, and Japan. "Worldwide" indicates that the relevant product is approved in at least the United States, EU, and Japan.
+ 
+Product Candidates
+Our late-stage and earlier-stage clinical candidates (including those being developed in collaboration with our collaborators) face competition from many pharmaceutical and biotechnology companies. For example, we are aware of other pharmaceutical and biotechnology companies actively engaged in the research and development of antibody-based products against targets that are also the targets of our early- and late-stage product candidates. These companies are using various technologies in competition with our VelocImmune technology and our other antibody generation technologies, including their own antibody generation technologies and other approaches such as RNA interference (RNAi) and chimeric antigen receptor T cell (CAR-T cell) technologies. We are also aware of several companies developing or marketing small molecules that may compete with our antibody product candidates in various indications, if such product candidates obtain regulatory approval in those indications.
+For additional information regarding our product candidates (including those being developed in collaboration with our collaborators) and the substantial competition they face, see also Part I, Item 1A. "Risk Factors - Risks Related to Commercialization of Our Marketed Products, Product Candidates, and New Indications for Our Marketed Products - The commercial success of our products and product candidates is subject to significant competition."
+Other Areas
+Many pharmaceutical and biotechnology companies are attempting to discover new therapeutics for indications in which we invest substantial time and resources. In these and related areas, intellectual property rights have been sought and certain rights have been granted to competitors and potential competitors of ours, and we may be at a substantial competitive disadvantage in such areas as a result of, among other things, our lack of experience, trained personnel, and expertise. A number of corporate and
+25
+
+Table of Contents
+
+academic competitors are involved in the discovery and development of novel therapeutics that are the focus of other research or development programs we are now conducting. Some of these competitors are currently conducting advanced preclinical and clinical research programs in these areas. These and other competitors may have established substantial intellectual property and other competitive advantages.
+If any of these or other competitors announces a successful clinical study involving a product that may be competitive with one of our product candidates or the grant of marketing approval by a regulatory agency for a competitive product, such developments may have an adverse effect on our business, operating results, financial condition, cash flows, or future prospects.
+We also compete with academic institutions, governmental agencies, and other public or private research organizations, which conduct research, seek patent protection, and establish collaborative arrangements for the development and marketing of products that would provide royalties or other consideration for use of their technology. These institutions are becoming more active in seeking patent protection and licensing arrangements to collect royalties or other consideration for use of the technology they have developed. Products developed in this manner may compete directly with products we develop. We also compete with others in acquiring technology from these institutions, agencies, and organizations.
+Patents, Trademarks, and Trade Secrets
+We rely on a combination of intellectual property laws, including patent, trademark, copyright, trade secret, and domain name protection laws, as well as confidentiality and license agreements, to protect our intellectual property and proprietary rights.
+Our success depends, in part, on our ability to obtain patents, maintain trade secret protection, and operate without infringing on the proprietary rights of third parties (see Part I, Item 1A. "Risk Factors - Risks Related to Intellectual Property and Market Exclusivity - We may be restricted in our development, manufacturing, and/or commercialization activities by patents or other proprietary rights of others, and could be subject to damage awards if we are found to have infringed such patents or rights"; and Note 15 to our Consolidated Financial Statements). Our policy is to file patent applications to protect technology, inventions, and improvements that we consider important to our business and operations. We hold an ownership interest in a number of issued patents in the United States and foreign countries with respect to our products and technologies. In addition, we hold an ownership interest in thousands of patent applications in the United States and foreign countries.
+Our patent portfolio includes granted patents and pending patent applications covering our VelociSuite technologies, including our VelocImmune mouse platform which produces fully human antibodies. Our issued patents covering these technologies generally expire between 2022 and 2032. However, we continue to file patent applications directed to improvements to these technology platforms.
+Our patent portfolio also includes issued patents and pending applications relating to commercialized products and our product candidates in clinical development. These patents cover the proteins and DNA encoding the proteins, manufacturing patents, method of use patents, and pharmaceutical compositions.
+The following table describes our U.S. patents and European patents ("EP") that we currently consider of primary importance to products marketed or otherwise commercialized by us and/or our collaborators, including the territory, patent number, general subject matter class, and expected expiration dates. The noted expiration dates include any patent term adjustments. Certain of these patents may also be entitled to term extensions. We continue to pursue additional patents and patent term extensions in the United States and other jurisdictions covering various aspects of our products that may, if issued, extend exclusivity beyond the expiration of the patents listed in the table below. One or more patents with the same or earlier expiry date may fall under the same "general subject matter class" for certain products and are not separately listed.
+
+26
+
+Table of Contents
+
+Product		Molecule		Territory		Patent No.		General Subject Matter Class		Expiration	
+EYLEA***
+aflibercept		US		7,070,959		Composition of Matter		
+June 16, 2023*
+US		8,092,803		Formulation		June 21, 2027					US		10,464,992		Formulation		June 14, 2027					US		10,857,231		Formulation		March 22, 2026					US		9,254,338		Methods of Treatment		May 22, 2032					US		10,857,205		Methods of Treatment		January 11, 2032					US		10,828,345		Methods of Treatment		January 11, 2032					US		10,406,226		Method of Manufacturing		March 22, 2026					EP		1183353		Composition of Matter (Supplementary Protection Certificate)		
+(May 23, 2025)**
+EP		2364691		Formulation		June 14, 2027	
+Dupixent***
+dupilumab		US		7,608,693		Composition of Matter		
+March 28, 2031****
+US		8,945,559		Formulation		October 17, 2032					US		8,075,887		Methods of Treatment		April 17, 2028					US		8,337,839		Methods of Treatment		October 2, 2027					US		9,290,574		Methods of Treatment		July 10, 2034					US		9,574,004		Methods of Treatment		December 22, 2033					US		10,485,844		Methods of Treatment		September 21, 2037					US		10,059,771		Methods of Treatment		June 20, 2034					EP		2356151		Composition of Matter		
+October 27, 2029**
+EP		2356151		(Supplementary Protection Certificate)		
+(September 28, 2032)**
+EP		3010539		Methods of Treatment		June 20, 2034					EP		2624865		Formulation		October 5, 2031	Libtayo		cemiplimab		US		9,987,500		Composition of Matter		September 18, 2035					US		10,457,725		Methods of Treatment		May 12, 2037	
+Praluent***
+alirocumab		US		8,062,640		Composition of Matter		December 15, 2029					US		10,023,654		Composition of Matter		December 15, 2029					US		10,472,425		Formulation		July 27, 2032					US		8,357,371		Methods of Treatment		December 21, 2029					US		9,550,837		Methods of Treatment		December 15, 2029					US		9,724,411		Methods of Treatment		January 15, 2031					US		10,428,157		Methods of Treatment		December 26, 2037					US		10,544,232		Methods of Treatment		March 13, 2035					EP		2358756		Composition of Matter		
+December 15, 2029**
+EP		2358756		(Supplementary Protection Certificate)		
+(September 25, 2030)**
+EP		2756004		Methods of Treatment		September 12, 2032					EP		3055333		Methods of Treatment		October 10, 2034					EP		3169353		Methods of Treatment		July 16, 2035					EP		3169362		Methods of Treatment		July 16, 2035	Kevzara		sarilumab		US		7,582,298		Composition of Matter		
+May 22, 2031*****
+US		10,072,086		Formulation		September 19, 2031					US		8,080,248		Methods of Treatment		June 1, 2027					US		8,568,721		Methods of Treatment		June 1, 2027					EP		2041177		Composition of Matter		
+June 1, 2027**
+ 
+27
+
+Table of Contents
+
+Product (continued)
+Molecule		Territory		Patent No.		General Subject Matter Class		Expiration	
+Kevzara (continued)
+EP		2041177		(Supplementary Protection Certificate)		
+(June 1, 2032)**
+EP		2766039		Methods of Treatment		October 10, 2032					EP		3071230		Methods of Treatment		November 21, 2034					EP		3409269		Formulation		January 7, 2031	
+REGEN-COV***
+casirivimab and imdevimab		US		10,787,501		Composition of Matter		June 25, 2040												
+* A patent term extension has been granted by the U.S. Patent and Trademark Office, extending the original patent term (May 23, 2020), insofar as it covers EYLEA, to June 16, 2023.
+** Supplementary protection certificates ("SPCs") are pending and/or have been granted in various European countries, extending the original patent terms in those countries, where granted, to the applicable dates indicated in parentheses.
+*** See Note 15 to our Consolidated Financial Statements for information regarding inter partes review and post-grant review petitions filed in the U.S. Patent and Trademark Office relating to EYLEA and patent infringement proceedings relating to Dupixent, Praluent, and REGEN-COV.
+**** A patent term extension has been granted by the U.S. Patent and Trademark Office, extending the original patent term (October 2, 2027), insofar as it covers Dupixent, to March 28, 2031.
+***** A patent term extension has been granted by the U.S. Patent and Trademark Office, extending the original patent term (January 4, 2028), insofar as it covers Kevzara, to May 22, 2031.
+ 
+In addition, in the United States and certain other countries, our competitive position may be enhanced due to the availability of market exclusivity under relevant law (for additional information regarding market exclusivity, see Part I, Item 1A. "Risk Factors - Risks Related to Intellectual Property and Market Exclusivity - Loss or limitation of patent rights, and new regulatory pathways for biosimilar competition, could reduce the duration of market exclusivity for our products"). The effect of expiration of a patent relating to a particular product also depends upon other factors, such as the nature of the market and the position of the product in it, the growth of the market, the complexities and economics of the process for manufacture of the active ingredient of the product, and the requirements of new drug provisions of the Federal Food, Drug and Cosmetic Act or similar laws and regulations in other countries.
+We also are the nonexclusive licensee of a number of additional patents and patent applications. These include a license agreement with Bristol-Myers Squibb, E. R. Squibb & Sons, L.L.C., and Ono Pharmaceutical Co., Ltd. to obtain a license under certain patents owned and/or exclusively licensed by one or more of these parties that includes the right to develop and sell Libtayo. Under the agreement, we and Sanofi pay royalties of 8.0% on worldwide sales of Libtayo through December 31, 2023, and royalties of 2.5% from January 1, 2024 through December 31, 2026. The royalties are shared equally by us and Sanofi.
+Patent law relating to the patentability and scope of claims in the biotechnology field is evolving and our patent rights are subject to this additional uncertainty. The degree of patent protection that will be afforded to our products in the United States and other important commercial markets is uncertain and is dependent upon the scope of protection decided upon by the patent offices, courts, and governments in these countries. There is no certainty that our existing patents or others, if obtained, will provide us protection from competition or provide commercial benefit.
+Others may independently develop similar products or processes to those developed by us, duplicate any of our products or processes or, if patents are issued to us, design around any products and processes covered by our patents. We expect to continue, when appropriate, to file product and process applications with respect to our inventions. However, we may not file any such applications or, if filed, the patents may not be issued. Patents issued to or licensed by us may be infringed by the products or processes of others.
+We seek to file and maintain trademarks around the world based on commercial activities in most jurisdictions where we have, or desire to have, a business presence for a particular product or service. Trademark protection varies in accordance with local law, and continues in some countries as long as the trademark is used and in other countries as long as the trademark is registered. Trademark registrations generally are for fixed but renewable terms.
+Defense and enforcement of our intellectual property rights is expensive and time consuming, even if the outcome is favorable to us. It is possible that patents issued or licensed to us will be successfully challenged, that a court may find that we are infringing validly issued patents of third parties, or that we may have to alter or discontinue the development of our products or pay licensing fees to take into account patent rights of third parties (see Part I, Item 1A. "Risk Factors - Risks Related to Intellectual Property and Market Exclusivity - We may be restricted in our development, manufacturing, and/or commercialization activities by patents
+28
+
+Table of Contents
+
+or other proprietary rights of others, and could be subject to damage awards if we are found to have infringed such patents or rights"; and Note 15 to our Consolidated Financial Statements).
+Government Regulation
+Regulation by government authorities in the United States and foreign countries is a significant factor in the research, development, manufacture, and marketing of our products and our product candidates. A summary of the primary areas of government regulation that are relevant to our business is provided below. For a description of material regulatory risks we face, also refer to Part I, Item 1A. "Risk Factors."
+Preclinical Requirements
+The activities required before a product candidate may be marketed in the United States or elsewhere begin with preclinical tests. Preclinical tests include laboratory evaluations of, among other things, product chemistry and formulation and toxicological and pharmacological studies in animal species to assess the toxicity and dosing of the product candidate. In the United States, certain preclinical trials must comply with the FDA's Good Laboratory Practice requirements ("GLPs") and the U.S. Department of Agriculture's Animal Welfare Act. The results of these studies must be submitted to the FDA or the relevant regulatory authority outside the United States as part of an IND or clinical trial application (as applicable), which must be reviewed by the FDA or the relevant government authority before proposed clinical testing can begin in the applicable country or jurisdiction. In the United States, unless the FDA raises concerns, the IND becomes effective 30 days following its receipt by the FDA, and the clinical trial proposed in the IND may begin. The FDA or other regulatory authorities may ask for additional data in order to begin a clinical trial. Rules that are equivalent in scope but which vary in application apply in foreign countries.
+Product Approval
+All of our product candidates require regulatory approval by relevant government authorities before they can be commercialized. In particular, human therapeutic products are subject to rigorous preclinical and clinical trials and other pre-market approval requirements by the FDA and foreign authorities. The structure and substance of the FDA and foreign pharmaceutical regulatory practices may evolve over time. The ultimate outcome and impact of such developments cannot be predicted.
+Clinical trials involve the administration of a drug to healthy human volunteers or to patients under the supervision of a qualified investigator. The conduct of clinical trials is subject to extensive regulation, including compliance with the FDA's bioresearch monitoring regulations and Good Clinical Practice requirements ("GCPs"), which establish standards for conducting, recording data from, and reporting the results of, clinical trials, and are intended to assure that the data and reported results are credible and accurate, and that the rights, safety, and well-being of study participants are protected. Clinical trials must be conducted under protocols that detail the study objectives, parameters for monitoring safety, and the efficacy criteria, if any, to be evaluated. In addition, each clinical trial must be reviewed and approved by, and conducted under the auspices of, an Institutional Review Board ("IRB") for each clinical site within the United States or, where applicable, an Ethics Committee and/or the competent authority for clinical sites outside the United States. Companies sponsoring the clinical trials, investigators, and IRBs/Ethics Committees also must comply with, as applicable, regulations and guidelines for obtaining informed consent from the study patients, following the protocol and investigational plan, adequately monitoring the clinical trial, and timely reporting of adverse events. Foreign studies conducted under an IND must meet the same requirements that apply to studies being conducted in the United States. Data from a foreign study not conducted under an IND may be submitted in support of a BLA if the study was conducted in accordance with GCPs and the FDA is able to validate the data.
+Typically, clinical testing involves a three-phase process. Phase 1 trials are usually conducted with a small number of healthy volunteers to determine the early safety profile, metabolism, and pharmacological actions of the product candidate, the side effects associated with increasing doses, and, if possible, to gain early evidence of effectiveness. Phase 2 clinical trials are conducted with a relatively small sample of the intended patient population to provide enough data to evaluate the preliminary safety, tolerability, and efficacy of different potential doses of the product candidate. Phase 3 clinical trials are larger trials conducted with patients with the target disease or disorder intended to gather additional information about dosage, safety, and effectiveness necessary to evaluate the drug's overall risk-benefit profile, and to provide a basis for regulatory approval. If concerns arise about the safety of the product candidate, the FDA or other regulatory authorities can stop clinical trials by placing them on a "clinical hold" pending receipt of additional data, which can result in a delay or termination of a clinical development program. The sponsoring company, the FDA or other regulatory authorities, or the IRB or Ethics Committee and competent authority may suspend or terminate a clinical trial at any time on various grounds, including a finding that the patients are being exposed to an unacceptable health risk.
+The results of the preclinical and clinical testing of a biologic product candidate are then submitted to the FDA in the form of a BLA for evaluation to determine whether the product candidate may be approved for commercial sale under the Public Health Service Act. Under the Prescription Drug User Fee Act, we typically must pay fees to the FDA for review of any BLA, which can
+29
+
+Table of Contents
+
+exceed $2 million per filing for new applications with clinical data review required, subject to certain limited deferrals, waivers, and reductions. The FDA reviews applications to determine, among other things, whether a product is safe and effective for its intended use and whether the manufacturing controls are adequate to assure and preserve the product's identity, strength, quality, and purity. For some BLAs, the FDA may convene an advisory committee to seek insights and recommendations on issues relevant to approval of the application. Although the FDA is not bound by the recommendation of an advisory committee, the agency considers such recommendations carefully when making decisions. Before approving a new drug or biologic product, the FDA also requires that the facilities at which the product will be manufactured or advanced through the supply chain be in compliance with current Good Manufacturing Practices, or cGMP, requirements and regulations governing, among other things, the manufacture, shipment, and storage of the product. The FDA also can audit the sponsor of the BLA to determine if the clinical studies were conducted in compliance with current GCPs. After review of a BLA, the FDA may grant marketing approval, request additional information, or issue a complete response letter ("CRL") outlining the deficiencies in the submission. The CRL may require additional testing or information, including additional preclinical or clinical data, for the FDA to reconsider the application. Even if such additional information and data are submitted, the FDA may decide that the BLA still does not meet the standards for approval. Data from clinical trials are not always conclusive and the FDA may interpret data differently than the sponsor. If FDA grants approval, an approval letter authorizes commercial marketing of the product candidate with specific prescribing information for specific indications.
+Any approval required by the FDA for any of our product candidates may not be obtained on a timely basis, or at all. The designation of a clinical trial as being of a particular phase is not necessarily indicative that such a trial will be sufficient to satisfy the parameters of a particular phase, and a clinical trial may contain elements of more than one phase notwithstanding the designation of the trial as being of a particular phase. The results of preclinical studies or early stage clinical trials may not predict long-term safety or efficacy of our compounds when they are tested or used more broadly in humans.
+Approval of a product candidate by comparable regulatory authorities in foreign countries is generally required prior to commencement of marketing of the product in those countries. The approval procedure varies among countries and may involve different or additional testing, and the time required to obtain such approval may differ from that required for FDA approval. Approval by a regulatory authority in one jurisdiction does not guarantee approval by comparable regulatory authorities in other jurisdictions. In the European Economic Area ("EEA") (which is comprised of 27 Member States of the EU plus Norway, Iceland, and Liechtenstein), medicinal products can only be commercialized after a related Marketing Authorization has been granted. Marketing authorization for biologics must be obtained through a centralized, mutual recognition procedure, which allows a company to submit a single application to the EMA. If a related positive opinion is provided by the EMA, the EC will grant a centralized marketing authorization that is valid in the EEA.
+In many jurisdictions, pediatric data or an approved Pediatric Investigation Plan ("PIP"), or a waiver of such studies, is required to have been approved by regulatory authorities prior to submission of a marketing application. In some EU countries, we may also be required to have an approved PIP before we can begin enrolling pediatric patients in a clinical trial. In the United States, a pediatric study plan is not required for orphan products and the timing of the submission is subject to negotiation with FDA, but such plan cannot be submitted later than submission of a BLA.
+Various federal, state, and foreign statutes and regulations also govern or influence the research, manufacture, safety, labeling, storage, record keeping, marketing, transport, and other aspects of developing and commercializing pharmaceutical product candidates. The lengthy process of seeking these approvals and the compliance with applicable statutes and regulations require the expenditure of substantial resources. Any failure by us or our collaborators or licensees to obtain, or any delay in obtaining, regulatory approvals could adversely affect the manufacturing or marketing of our products and our ability to receive product or royalty revenue.
+For additional information regarding U.S. and foreign regulatory approval processes and requirements, see Part I, Item 1A. "Risk Factors - Risks Related to Maintaining Approval of Our Marketed Products and the Development and Obtaining Approval of Our Product Candidates and New Indications for Our Marketed Products - Obtaining and maintaining regulatory approval for drug products is costly, time-consuming, and highly uncertain."
+Post-Approval Regulation
+The FDA and comparable regulatory authorities in other jurisdictions may also require us to conduct additional clinical trials or to make certain changes related to a product after granting approval of the product. The FDA has the explicit authority to require postmarketing studies (also referred to as post-approval or Phase 4 studies), labeling changes based on new safety information, and compliance with FDA-approved risk evaluation and mitigation strategies. Post-approval modifications to the drug, such as changes in indications, labeling, or manufacturing processes or facilities, may require a sponsor to develop additional data or conduct additional preclinical studies or clinical trials, to be submitted in a new or supplemental BLA, which would require FDA approval.
+30
+
+Table of Contents
+
+Following approval, the FDA and comparable regulatory authorities outside the United States regulate the marketing and promotion of our products, which must comply with the Food, Drug, and Cosmetic Act and applicable FDA regulations and standards thereunder and equivalent foreign laws. The review of promotional activities by the FDA and comparable regulatory authorities outside the United States includes, but is not limited to, healthcare provider-directed and direct-to-consumer advertising, communications regarding unapproved uses, industry-sponsored scientific and educational activities, promotional activities involving the Internet, and sales representatives' communications. After approval, product promotion can include only those claims relating to safety and effectiveness that are consistent with the labeling approved by the FDA and comparable foreign regulatory authorities. FDA and comparable foreign regulatory authorities' regulations impose restrictions on manufacturers' communications regarding unapproved uses, but under certain conditions may engage in non-promotional, balanced, scientific communication regarding such use. Failure to comply with applicable FDA and comparable foreign regulatory authorities' requirements and restrictions in this area may subject a company to adverse publicity and enforcement action by the FDA, the Department of Justice, or the Office of the Inspector General of the Department of Health and Human Services, as well as state authorities and comparable regulatory authorities outside the United States. This could subject a company to a range of penalties that could have a significant commercial impact, including civil and criminal fines and agreements that materially restrict the manner in which a company promotes or distributes a drug. See Part I, Item 1A. "Risk Factors - Other Regulatory and Litigation Risks - Our business activities have been, and may in the future be, challenged under federal or state healthcare laws, which may subject us to civil or criminal proceedings, investigations, or penalties."
+Adverse-event reporting and submission of periodic reports are required following marketing approval. The FDA requires BLA holders to employ a system for obtaining and reviewing safety information, adverse events, and product complaints associated with each drug and to submit safety reports to the FDA, with expedited reporting timelines in certain situations. Based on new safety information after approval, the FDA can, among other things, mandate product labeling changes, require new post-marketing studies, impose or modify a risk evaluation and mitigation strategy for the product, or suspend or withdraw approval of the product. We may be subject to audits by the FDA and other regulatory authorities to ensure that we are complying with the applicable requirements. Rules that are equivalent in scope but which vary in application apply in foreign countries in which we conduct clinical trials.
+The holder of an EU marketing authorization for a medicinal product must also comply with the EU's pharmacovigilance legislation. This includes requirements to conduct pharmacovigilance, or the assessment and monitoring of the safety of medicinal products. Marketing authorization holders are required to maintain a Pharmacovigilance System Master File ("PSMF") which supports and documents the compliance of the marketing authorization holder with the requirements of EU pharmacovigilance legislation. Marketing authorization holders are also required to have a Qualified Person for Pharmacovigilance ("QPPV") who, among other things, maintains the PSMF. A QPPV must reside in the EEA and must also prepare pharmacovigilance reports, respond to potential requests from competent authorities concerning pharmacovigilance on a 24 hour basis, and provide competent authorities with any other information that may be relevant to the safety of the medicinal product in accordance with Good Pharmacovigilance Practices.
+The EC can also require marketing authorization holders to conduct post-authorization safety and/or efficacy studies. A post-authorization safety study ("PASS") is a study that is carried out after a medicinal product has been authorized to obtain further information on a medicinal product's safety, or to measure the effectiveness of risk-management measures. Such studies may be clinical trials or non-interventional studies. A post-authorization efficacy study ("PAES") is a study that is carried out for complimenting available efficacy data in the light of well-reasoned scientific uncertainties on aspects of the evidence of benefits that is to be or only can be addressed post-authorization. The EC may, in particular, impose a PASS and/or PAES on marketing authorization holders when a marketing authorization is granted upon conditions. The EC may grant conditional marketing authorizations in the interest of public health, when there is less comprehensive clinical data available than would be required, if the EC considers that the benefit of immediate availability may outweigh the risk that the absence of the required clinical data poses.
+In addition, we and our third-party suppliers are required to maintain compliance with cGMPs, and are subject to inspections by the FDA or comparable regulatory authorities in other jurisdictions to confirm such compliance. Changes of suppliers or modifications of methods of manufacturing may require amending our application(s) to the FDA or such comparable foreign regulatory authorities and acceptance of the change by the FDA or such comparable foreign regulatory authorities prior to release of product(s). FDA regulations also require investigation and correction of any deviations from cGMP and impose reporting and documentation requirements upon us and our third-party suppliers. Prescription drug manufacturers in the U.S. must comply with applicable provisions of the Drug Supply Chain Security Act and provide and receive product tracing information, maintain appropriate licenses, ensure they only work with other properly licensed entities, and have procedures in place to identify and properly handle suspect and illegitimate products. We may also be subject to state regulations related to the manufacturing and distribution of our products.
+31
+
+Table of Contents
+
+Failure to comply with these laws, regulations, and conditions of product approval may lead the FDA and comparable regulatory authorities in other jurisdictions to take regulatory action or seek sanctions, including fines, issuance of warning letters, civil penalties, injunctions, suspension of manufacturing operations, operating restrictions, withdrawal of FDA approval of a product, seizure or recall of products, and criminal prosecution.
+Pricing and Reimbursement
+Sales in the United States of our marketed products are dependent, in large part, on the availability and extent of reimbursement from third-party payors, including private payor healthcare and insurance programs, health maintenance organizations, pharmacy benefit management companies, and government programs such as Medicare and Medicaid. Sales of our marketed products in other countries are dependent, in large part, on coverage and reimbursement mechanisms and programs administered by health authorities in those countries. See Part I, Item 1A. "Risk Factors - Risks Related to Commercialization of Our Marketed Products, Product Candidates, and New Indications for Our Marketed Products - Sales of our marketed products are dependent on the availability and extent of reimbursement from third-party payors, and changes to such reimbursement may materially harm our business, prospects, operating results, and financial condition."
+We participate in, and have certain price reporting obligations to, the Medicaid Drug Rebate program, state Medicaid supplemental rebate program(s), and other governmental pricing programs. We also have obligations to report the average sales price for certain drugs to the Medicare program. Under the Medicaid Drug Rebate program, we are required to pay a rebate to each state Medicaid program for our covered outpatient drugs that are dispensed to Medicaid beneficiaries and paid for by a state Medicaid program as a condition of having federal funds being made available to the states for our drugs under Medicaid and Part B of the Medicare program.
+Medicaid is a joint federal and state program that is administered by the states for low-income and disabled beneficiaries. Medicaid rebates are based on pricing data reported by us on a monthly and quarterly basis to the Centers for Medicare & Medicaid Services ("CMS"), the federal agency that administers the Medicaid and Medicare programs. These data include the average manufacturer price and, in the case of innovator products, the best price for each drug which, in general, represents the lowest price available from the manufacturer to any entity in the U.S. in any pricing structure, calculated to include all sales and associated rebates, discounts, and other price concessions. The amount of the rebate is adjusted upward if average manufacture price increases more than inflation (measured by reference to the Consumer Price Index - Urban). If we become aware that our reporting for a prior quarter was incorrect, or has changed as a result of recalculation of the pricing data, we are obligated to resubmit the corrected data for up to three years after those data originally were due, which revisions could affect our rebate liability for prior quarters. The federal Patient Protection and Affordable Care Act (the "PPACA") made significant changes to the Medicaid Drug Rebate program, and CMS issued a final regulation, which became effective on April 1, 2016, to implement the changes to the Medicaid Drug Rebate program under the PPACA. On December 21, 2020, CMS issued a final rule that modified Medicaid Drug Rebate program regulations to permit reporting multiple best price figures with regard to value‑based purchasing arrangements (beginning in 2022); provide definitions for "line extension," "new formulation," and related terms with the practical effect of expanding the scope of drugs considered to be line extensions (beginning in 2022); and revise best price and average manufacturer price exclusions of manufacturer-sponsored patient benefit programs, specifically regarding inapplicability of such exclusions in the context of pharmacy benefit manager "accumulator" programs (beginning in 2023).
+Medicare is a federal program that is administered by the federal government that covers individuals age 65 and over or that are disabled as well as those with certain health conditions. Medicare Part B generally covers drugs that must be administered by physicians or other health care practitioners; are provided in connection with certain durable medical equipment; or are certain oral anti-cancer drugs and certain oral immunosuppressive drugs. Medicare Part B pays for such drugs under a payment methodology based on the average sales price of the drugs. Manufacturers, including us, are required to report average sales price information to CMS on a quarterly basis. The manufacturer-submitted information is used by CMS to calculate Medicare payment rates. See Part I, Item 1A. "Risk Factors - Risks Related to Commercialization of Our Marketed Products, Product Candidates, and New Indications for Our Marketed Products - Sales of our marketed products are dependent on the availability and extent of reimbursement from third-party payors, and changes to such reimbursement may materially harm our business, prospects, operating results, and financial condition" for a discussion of recent actions at the federal level intended to reform Medicare Part B, including the "most-favored-nation" interim final rule issued in November 2020 by HHS, acting through CMS.
+Civil monetary penalties can be applied if we are found to have knowingly submitted any false pricing or other information to the government, if we are found to have made a misrepresentation in the reporting of our average sales price, or if we fail to submit the required data on a timely basis. Such conduct also could be grounds for CMS to terminate our Medicaid drug rebate agreement, in which case federal payments may not be available under Medicaid or Medicare Part B for our covered outpatient drugs.
+Federal law requires that any company that participates in the Medicaid Drug Rebate program also participate in the Public Health Service's 340B drug pricing program (the "340B program") in order for federal funds to be available for the manufacturer's drugs
+32
+
+Table of Contents
+
+under Medicaid and Medicare Part B. The 340B program, which is administered by the Health Resources and Services Administration, or HRSA, requires participating manufacturers to agree to charge statutorily defined covered entities no more than the 340B "ceiling price" for the manufacturer's covered outpatient drugs. Covered entities include hospitals that serve a disproportionate share of financially needy patients, community health clinics, and other entities that receive certain types of grants under the Public Health Service Act. The PPACA expanded the list of covered entities to include certain free-standing cancer hospitals, critical access hospitals, rural referral centers, and sole community hospitals, but exempts "orphan drugs" from the ceiling price requirements for these covered entities. The 340B ceiling price is calculated using a statutory formula, which is based on the average manufacturer price and Medicaid rebate amount for the covered outpatient drug as calculated under the Medicaid Drug Rebate program. In general, products subject to Medicaid price reporting and rebate liability are also subject to the 340B ceiling price calculation and discount requirement.
+HRSA issued a final regulation regarding the calculation of the 340B ceiling price and the imposition of civil monetary penalties on manufacturers that knowingly and intentionally overcharge covered entities, which became effective on January 1, 2019. It is currently unclear how HRSA will apply its enforcement authority under this regulation. Any charge by HRSA that we have violated the requirements of the regulation could result in civil monetary penalties. Moreover, under a final regulation effective January 13, 2021, HRSA established a new administrative dispute resolution ("ADR") process for claims by covered entities that a manufacturer has engaged in overcharging, and by manufacturers that a covered entity violated the prohibitions against diversion or duplicate discounts. Such claims are to be resolved through an ADR panel of government officials rendering a decision that could be appealed only in federal court. An ADR proceeding could subject us to onerous procedural requirements and could result in additional liability. HRSA also implemented a price reporting system under which we are required to report their 340B ceiling prices to HRSA on a quarterly basis, which then publishes them to 340B covered entities. In addition, legislation may be introduced that, if passed, would further expand the 340B program to additional covered entities or would require participating manufacturers to agree to provide 340B discounted pricing on drugs used in an inpatient setting.
+In order to be eligible to have our products paid for with federal funds under the Medicaid and Medicare Part B programs and purchased by certain federal agencies and grantees, we participate in the U.S. Department of Veterans Affairs ("VA") Federal Supply Schedule ("FSS") pricing program. FSS participation is required for our products to be purchased by the VA, Department of Defense ("DoD"), Coast Guard, and Public Health Service ("PHS"). Prices for innovator drugs purchased by the VA, DoD, Coast Guard, and PHS are subject to a cap (known as the "Federal Ceiling Price") equal to 76% of the annual non-federal average manufacturer price ("non-FAMP") minus, if applicable, an additional discount. The additional discount applies if non-FAMP increases more than inflation (measured by reference to the Consumer Price Index - Urban). We also participate in the Tricare Retail Pharmacy Program, under which we pay quarterly rebates to DoD for prescriptions of our innovator drugs dispensed to Tricare beneficiaries through Tricare Retail network pharmacies. The governing statute provides for civil monetary penalties for failure to provide information timely or for knowing submission of false information to the government.
+Medicare Part D provides coverage to enrolled Medicare patients for self-administered drugs (i.e., drugs that are not administered by a physician). Medicare Part D is administered by private prescription drug plans approved by the U.S. government and, subject to detailed program rules and government oversight, each drug plan establishes its own Medicare Part D formulary for prescription drug coverage and pricing, which the drug plan may modify from time to time. The prescription drug plans negotiate pricing with manufacturers and pharmacies, and may condition formulary placement on the availability of manufacturer discounts. In addition, for 2021, manufacturers, including us, are required to provide to CMS a 70% discount on brand name prescription drugs utilized by Medicare Part D beneficiaries when those beneficiaries are in the coverage gap phase of the Part D benefit design.
+Private payor healthcare and insurance providers, health maintenance organizations, and pharmacy benefit managers in the United States are adopting more aggressive utilization management techniques and are increasingly requiring significant discounts and rebates from manufacturers as a condition to including products on formulary with favorable coverage and copayment/coinsurance. As a consequence, these payors may not cover or adequately reimburse for use of our products or may do so at levels that disadvantage them relative to competitive products.
+Outside the United States, within the EU, our products are paid for by a variety of payors, with governments being the primary source of payment. Government health authorities in the EU determine or influence reimbursement of products, and set prices or otherwise regulate pricing. Negotiating prices with governmental authorities can delay commercialization of our products. Governments may use a variety of cost-containment measures to control the cost of products, including price cuts, mandatory rebates, value-based pricing, and reference pricing (i.e., referencing prices in other countries or prices of competitive products and using those reference prices to set a price). Budgetary pressures in many EU countries are continuing to cause governments to consider or implement various cost-containment measures, such as price freezes, increased price cuts and rebates, and expanded generic substitution and patient cost-sharing.
+33
+
+Table of Contents
+
+Other Regulatory Requirements
+We are subject to health care "fraud and abuse" laws, such as the federal civil False Claims Act, the anti-kickback provisions of the federal Social Security Act, and other state and federal laws and regulations. Federal and state anti-kickback laws prohibit, among other things, payments or other remuneration to induce or reward someone to purchase, prescribe, endorse, or recommend a product that is reimbursed under federal or state healthcare programs. Federal false claims laws prohibit any person from knowingly presenting, or causing to be presented, a false claim for payment of government funds, or knowingly making, or causing to be made, a false statement to get a false claim paid. See Part I, Item 1A. "Risk Factors - Other Regulatory and Litigation Risks - Our business activities have been, and may in the future be, challenged under federal or state healthcare laws, which may subject us to civil or criminal proceedings, investigations, or penalties."
+We are subject to the Foreign Corrupt Practices Act, or FCPA, and similar anti-bribery or anti-corruption laws, regulations or rules of other countries in which we operate, including the U.K. Bribery Act. See Part I, Item 1A. "Risk Factors - Other Regulatory and Litigation Risks - Risks from the improper conduct of employees, agents, contractors, or collaborators could adversely affect our reputation and our business, prospects, operating results, and financial condition."
+In the United States, there are numerous federal and state laws and regulations governing data privacy of personal data and the collection, use, disclosure, and protection of health data, genetic data, consumer data, and children's data. Such laws and regulations include the Health Insurance Portability and Accountability Act of 1996 and its implementing regulations (collectively, "HIPAA"), as well as state data breach notification laws, state health information and/or genetic privacy laws, and federal and state consumer protection laws (such as Section 5 of the Federal Trade Commission Act and the California Consumer Privacy Act (the "CCPA")). Many of these laws differ from each other in significant ways and have different effects. Many of the state laws enable a state attorney general to bring actions and provide private rights of action to consumers as enforcement mechanisms. There is also heightened sensitivity around certain types of health data, which may be subject to additional protections. Compliance with these laws requires a flexible privacy framework as they are constantly evolving. Failure to comply with these laws and regulations could result in government enforcement actions and create liability for us (which could include civil and/or criminal penalties), private litigation, and/or adverse publicity. Federal regulators, state attorneys general, and plaintiffs' attorneys have been active in this space.
+HIPAA imposes privacy and security obligations on covered entity health care providers, health plans, and health care clearinghouses, as well as their "business associates" – independent contractors or agents of covered entities that receive or obtain protected health information in connection with providing a service on behalf of a covered entity. Most health care providers, including research institutions from which we or our collaborators obtain clinical trial data, are subject to HIPAA. Although we are not directly subject to HIPAA other than with respect to providing certain employee benefits, we could potentially be subject to criminal penalties if we, our affiliates, or our agents knowingly obtain or disclose individually identifiable health information maintained by a HIPAA-covered entity in a manner that is not authorized or permitted by HIPAA.
+To the extent we collect California resident personal data for marketing and human resource activities, we are also subject to the CCPA. The CCPA, which became effective on January 1, 2020, establishes certain requirements for data use and sharing transparency and provides California residents certain rights concerning the use, disclosure, and retention of their personal data. The CCPA and its implementing regulations have already been amended multiple times since their enactment. Similarly, there are a number of legislative proposals in the United States, at both the federal and state level, that could impose new obligations or limitations in the area of consumer protection. These laws and regulations are evolving and may impose limitations on our business activities. The obligations to comply with the CCPA and evolving legislation require us, among other things, to update our notices and develop new processes internally and with our partners to facilitate data subject rights requests. We may be subject to fines, penalties, or private actions in the event of non-compliance with such laws.
+Outside the United States, our clinical trial programs, research collaborations, and other processing activities implicate international data protection laws, including the General Data Protection Regulation ("GDPR") in the EU. The GDPR became effective in May 2018, increasing our responsibility and liability in relation to the processing of personal data of EU subjects. The GDPR, together with the national legislation of the EU member states governing the processing of personal data, impose strict obligations and restrictions on the ability to collect, analyze and transfer personal data, including health data and samples from clinical trials and adverse event reporting. In particular, these obligations and restrictions concern the consent of the individuals to whom the personal data relates, the information provided to the individuals, the sharing of personal data with third parties, the transfer of personal data out of the EU, security breach notifications, security and confidentiality of the personal data and imposition of substantial potential fines for violations of the data protection obligations. Data protection authorities from the different EU member states have promulgated national privacy laws that impose additional requirements, which add to the complexity of processing and transferring personal data in the EU. Some countries outside of the EU have reacted to the GDPR by promulgating and enacting new privacy legislation that reflects similar principals and obligations on companies that operate and process their subject's personal data. Any failure or perceived failure to comply with privacy-related legal obligations, or any
+34
+
+Table of Contents
+
+compromise of security of personal data, may result in governmental enforcement actions, litigation, contractual indemnity claims, or restraining orders that would impact our ability to flow data globally. As we expand our presence into new countries, we must continue to assess our privacy controls to enable the processing of personal data. Guidance on implementation and compliance practices are often updated or otherwise revised. See Part I, Item 1A. "Risk Factors - Other Regulatory and Litigation Risks - We face potential liability related to the personal information we collect from individuals, data brokers, or research institutions or obtain from clinical trials sponsored by us or our collaborators."
+In addition to the foregoing, our present business is, and our future business may be, subject to regulation under the United States Atomic Energy Act, the Clean Air Act, the Clean Water Act, the Comprehensive Environmental Response, Compensation and Liability Act, the National Environmental Policy Act, the Toxic Substances Control Act, the Resource Conservation and Recovery Act, national restrictions, and other current and potential future local, state, federal, and foreign regulations.
+Business Segments
+We manage our business as one segment which includes all activities related to the discovery, development, and commercialization of medicines for the treatment of serious diseases. For financial information related to our one segment, see Part II, Item 6. "Selected Financial Data" and our Consolidated Financial Statements and related notes.
+Human Capital Resources
+We compete in the highly competitive biotechnology and pharmaceuticals industries. Attracting, developing, and retaining skilled and experienced employees in research and development, manufacturing, sales and marketing, and other positions is crucial to our ability to compete effectively. Our ability to recruit and retain such employees depends on a number of factors, including our corporate culture and work environment, informed by our values and behaviors (which we call The Regeneron Way) and our corporate philosophy of "Doing Well by Doing Good," talent development and career opportunities, and compensation and benefits.
+Employee Profile
+As of December 31, 2020, we had 9,123 full-time employees, consisting of 7,630 employed in the United States, 1,412 employed in Ireland, and 81 employed in the United Kingdom and other countries. Of these employees, 1,784 were within our research and preclinical development organization, 1,144 were within our global clinical development organization, and 4,445 were within our industrial operations and product supply organization. Company-wide, more than 1,000 of our full-time employees hold a Ph.D. and/or M.D. None of our employees are represented by a labor union, and our management considers its relations with our employees to be good.
+Diversity, Equity, and Inclusion
+Our employees represent a broad range of backgrounds, just like the people who take our medicines, and bring a wide array of perspectives and experiences that have helped us achieve our leadership position in the biotechnology and pharmaceuticals industries and the global marketplace. A key component of our corporate culture is our commitment to the promotion of diversity, equity, and inclusion ("DE&I"). We believe this commitment allows us to better drive innovation and achieve our mission to repeatedly bring important new medicines to patients with serious diseases. Our DE&I principles are reflected in our recruitment practices, our performance management processes, and our employee training. In addition, we support employee-led advocacy and interest groups that foster inclusion and provide meaningful professional development opportunities for our workforce, including Women in Science and Engineering at Regeneron and our Black Employee Resource Group.
+While we are proud of our workforce diversity representation shown in the table below, we seek to continuously improve in this area. In April 2020, we announced our 2025 global responsibility goals, including a commitment to increase diversity in leadership and foster inclusion. To this end, we appointed an interim DE&I leader in July 2020 and hired our permanent Chief Diversity, Equity & Inclusion Officer in January 2021 to advance our DE&I strategy. We also recently established a DE&I steering committee of senior leaders to provide oversight and guidance as we implement additional programs to increase diversity and promote inclusion.
+35
+
+Table of Contents
+
+2020 Workforce Diversity Representation*
+Female Representation (Global)
+49.1 	%	
+Minority Representation (U.S. Only)**
+24.9 	%				
+* Based on full-time employees as of December 31, 2020
+** Represents the percentage of our full-time employees employed in the United States that self-identified as belonging to a racial or ethnic minority group. The denominator used in this calculation includes employees who did not disclose information related to their race or ethnicity. Excluding those that did not disclose such information, the percentage shown in this table would be 31.5%.
+ 
+Externally, we support DE&I efforts in our community. For example, through our partnership with the Society for Science, we contribute a substantial amount annually to science, technology, engineering, and mathematics ("STEM") equity and outreach programs to help increase access to science research education and bridge opportunity gaps among students historically underrepresented in the sciences.
+Employee Wellness, Health, and Safety
+The wellbeing of our employees is a primary focus as we believe that the most productive people are those who are at their best, both physically and mentally. We provide several programs related to employee health and wellness, including onsite amenities and programs such as meditation rooms, gyms, and farmers' markets. We also provide support for work-life balance through flex-time, remote working arrangements, child and elder care, and paid parental leave, among others.
+Occupational health and safety is critical to our success. We are committed to meeting or exceeding all environmental, health, safety ("EHS"), and security regulations and have a range of programs, plans, and procedures to ensure the safety of all people who come to work at Regeneron. In addition, our 2025 global responsibility goals include a commitment to focus on workplace injury prevention in our drive toward zero incidents.
+In response to the COVID-19 pandemic, we implemented changes in our business beginning in March 2020 to protect our employees and support appropriate health and safety protocols. For example, we have implemented work-from-home policies for a significant portion of our employees. For these remote employees, we provide ergonomic evaluations of at-home workstations, support information technology needs, and provide guidance for managers to ensure that employees remain connected and maintain physical, mental, and emotional wellbeing. For our essential employees who remain onsite in our laboratories and manufacturing facilities, we provide personal protective equipment and require masks to be worn; we have also implemented increased physical distancing in workspaces and enhanced cleaning protocols. We currently administer COVID-19 tests to all onsite employees and contractors weekly and have been regularly administering these tests for designated employees since the spring of 2020. For any employee who contracts or is exposed to COVID-19, we provide full pay for their entire recovery and quarantine time.
+Employee Growth and Development
+We invest significant resources to develop talent with the right capabilities to deliver the growth and innovation needed to support our continued success. Our Talent Development department is dedicated to promoting individual, leader, team, and organizational development through a number of tools and services. We offer a variety of professional development courses for our employees and support employee continuing education, including through educational reimbursement and tuition forgiveness programs. In addition, we continue to invest in our current and future leaders through a number of leadership development courses and programs and feedback and coaching opportunities. In 2020, nearly 25% of job openings were filled by existing employees who were seeking career development opportunities.
+Employee Engagement
+We believe engaging our employees, from their first day and throughout their career, is key to fostering new ideas and driving commitment and productivity. We communicate frequently and transparently with our employees through a variety of communication methods, including video and written communications, company forums and summits, annual engagement surveys, and follow-up pulse surveys.
+We are also committed to fostering employee volunteerism to reach our 2025 global responsibility goal of driving employee volunteer levels above national standards. Employees are encouraged and empowered to support organizations and causes that are important to them including through, among other things, our matching gift program, volunteer-time-off policy, and our company-wide annual day of service, Day for Doing Good.
+36
+
+Table of Contents
+
+The success of our employee engagement efforts is demonstrated by our employee retention rate of 94.4% in 2020, as well as the fact that approximately 92% of our employees who responded to our annual engagement survey said Regeneron is a great place to work. Additionally, for the sixth consecutive year, we were recognized on the Fortune "100 Best Companies to Work For" list in 2020. In addition, we have placed either first or second for the past ten years in Science magazine’s annual "Top Employers Survey" of the global biotechnology and pharmaceutical industry, including a first-place finish in 2020.
+Compensation and Benefits
+We are committed to rewarding and supporting our employees in order to continue to attract and retain top talent. We believe this commitment supports our core strategy of creating and advancing a high-quality product pipeline. Employee engagement, commitment, and achievements are key drivers of pipeline success and therefore our long-term performance. The primary underpinning of our pay philosophy is to award equity-based pay to all eligible employees to ensure that when we deliver for patients and for shareholders, everyone shares in the upside growth. Our practice, therefore, has been to award initial equity grants to all new hires, in addition to our comprehensive annual equity program. Total employee compensation packages (which varies by country and region) include market-competitive pay (with the opportunity to receive above-market rewards), broad-based grants of equity-based awards, healthcare benefits, retirement savings options, and matching contributions.
+Corporate Information
+We were incorporated in the State of New York in 1988 and publicly listed in 1991. Our principal executive offices are located at 777 Old Saw Mill River Road, Tarrytown, New York 10591, and our telephone number at that address is (914) 847-7000.
+We make available free of charge on or through our Internet website (http://www.regeneron.com) our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and, if applicable, amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission ("SEC").
+Investors and other interested parties should note that we use our media and investor relations website (http://newsroom.regeneron.com) and our social media channels to publish important information about Regeneron, including information that may be deemed material to investors. We encourage investors and other interested parties to review the information we may publish through our media and investor relations website and the social media channels listed on our media and investor relations website, in addition to our SEC filings, press releases, conference calls, and webcasts.
+The information contained on our websites and social media channels is not included as a part of, or incorporated by reference into, this report.

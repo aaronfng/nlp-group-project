@@ -1,0 +1,446 @@
+Item 1.
+Business.
+ 
+OVERVIEW
+
+ViacomCBS Inc. is a leading global media and entertainment company that creates premium content and experiences for audiences worldwide. Driven by iconic consumer brands, our portfolio includes CBS, SHOWTIME, Paramount Pictures, Nickelodeon, MTV, Comedy Central, BET, Smithsonian Channel, CBS All Access (soon to be rebranded Paramount+) and Pluto TV, among others. We deliver the largest share of television audience in the United States (“U.S.”) and one of the industry’s most extensive libraries of television and film titles. In addition to offering innovative streaming services and digital video products, we provide powerful capabilities in production, distribution and advertising solutions.
+
+Through the synergistic combination of our studios, networks and streaming businesses, we strategically focus on creating value in three ways. First, we maximize the power of our content by leveraging our extensive intellectual property portfolio across our Company and by focusing on areas with growth potential. Second, we maximize value from our biggest lines of revenue: advertising, affiliate and content licensing. Third, we are accelerating our momentum in streaming by expanding our differentiated ecosystem of free, pay and premium streaming services to capitalize on the global opportunity in streaming. Ahead of the rebranding of CBS All Access as Paramount+, which is scheduled for March 4, 2021, we recently announced an integrated global streaming organization under new leadership to ensure a more holistic approach across our streaming services, more closely align our streaming initiatives globally and enhance our ability to leverage our content portfolio.
+
+As part of our ongoing integration strategy since the Merger (as defined below), in early 2020 we conducted a strategic review of our assets to identify and ultimately divest assets that do not fit within our focus on studios, networks and streaming. In connection with that review, in October 2020 we sold CNET Media Group and in November 2020 announced that we entered into an agreement to sell Simon & Schuster, which is expected to close in 2021, subject to customary closing conditions, including regulatory approvals. As a result, Simon & Schuster, which previously comprised our Publishing segment (“Publishing”), is presented as a discontinued operation in our consolidated financial statements for all periods presented in this Annual Report on Form 10-K.
+
+We operate through the following segments:
+
+•TV Entertainment. Our TV Entertainment segment (“TV Entertainment”) operates the CBS Television Network, our domestic broadcast network; CBS Studios and CBS Media Ventures, our television production and syndication operations; our CBS-branded streaming services, including CBS All Access/Paramount+; CBS Sports Network, our cable network focused on college athletics and other sports; and CBS Television Stations, our owned broadcast television stations. TV Entertainment accounted for approximately 42% of our consolidated revenues in 2020.
+
+•Cable Networks. Our Cable Networks segment (“Cable Networks”) operates a portfolio of streaming services, including Pluto TV, a leading free advertising-supported streaming television (“FAST”) service in the U.S., and Showtime Networks’ premium subscription streaming service (“SHOWTIME OTT”); premium subscription cable networks, including SHOWTIME; basic cable networks, including BET, Nickelodeon, MTV, Comedy Central, Paramount Network and Smithsonian Channel; international extensions of these brands; and our international free-to-air broadcast networks such as Network 10, Channel 5 and Telefe. Cable Networks accounted for approximately 50% of our consolidated revenues in 2020.
+
+•Filmed Entertainment. Our Filmed Entertainment segment (“Filmed Entertainment”) operates Paramount Pictures, Paramount Players, Paramount Animation and Paramount Television Studios, and also includes Miramax, a consolidated joint venture. Filmed Entertainment accounted for approximately 10% of our consolidated revenues in 2020.
+
+
+I-1
+                                                
+We were organized as a Delaware corporation in 1986. On December 4, 2019, Viacom Inc. (“Viacom”) merged with and into CBS Corporation (“CBS”), with CBS continuing as the surviving company (the “Merger”), pursuant to an Agreement and Plan of Merger dated as of August 13, 2019, as amended on October 16, 2019 (the “Merger Agreement”). At the effective time of the Merger, we changed our name to ViacomCBS Inc. Unless the context requires otherwise, references in this document to “ViacomCBS,” “Company,” “we,” “us” and “our” mean ViacomCBS Inc. and our consolidated subsidiaries, to “CBS” mean CBS Corporation and its consolidated subsidiaries prior to the Merger and to “Viacom” mean Viacom Inc. and its consolidated subsidiaries prior to the Merger.
+
+Our principal offices are located at 1515 Broadway, New York, New York 10036. Our telephone number is (212) 258-6000 and our website is www.ViacomCBS.com. Information included on or accessible through our website is not intended to be incorporated into this Annual Report on Form 10‑K.
+
+We have two classes of common stock, Class A Common Stock and Class B Common Stock, both of which are listed on The Nasdaq Stock Market LLC. Owners of our Class A Common Stock are entitled to one vote per share. Our Class B Common Stock does not have voting rights. As of December 31, 2020, National Amusements, Inc. (“NAI”), a closely held corporation that owns and operates movie screens in the U.S., the United Kingdom (“U.K.”) and South America and manages additional movie screens in South America, directly or indirectly owned approximately 79.4% of our voting Class A Common Stock, and approximately 10.2% of our Class A Common Stock and Class B Common Stock on a combined basis. NAI is not subject to the reporting requirements of the Securities Exchange Act of 1934, as amended.
+
+viac-20201231_g1.jpg
+
+TV ENTERTAINMENT
+
+Overview
+
+TV Entertainment operates the CBS Television Network, our domestic broadcast network; CBS Studios and CBS Media Ventures, our television production and syndication operations; our CBS-branded streaming services CBS All Access/Paramount+, CBSN, CBS Sports HQ and ET Live; CBS Sports Network, our cable network focused on college athletics and other sports; and CBS Television Stations, our owned broadcast television stations.
+ 
+TV Entertainment’s revenues are generated primarily from advertising sales; the licensing and distribution of content; and affiliate revenues comprised of fees received from television stations affiliated with the CBS Television Network (“reverse compensation”), fees for authorizing multichannel video programming distributors’ (“MVPDs”) and virtual MVPDs’ (“vMVPDs”) carriage of our owned television stations (“retransmission fees”), and subscription fees for our streaming services. In 2020, TV Entertainment advertising, affiliate and content licensing revenues generated approximately 47%, 29% and 22%, respectively, of the segment’s total revenues. TV Entertainment generated approximately 42%, 44% and 42% of our consolidated revenues in 2020, 2019 and 2018, respectively.
+
+CBS Television Network
+
+The CBS Television Network, through CBS Entertainment, CBS News and CBS Sports, distributes news and public affairs broadcasts, sports and entertainment programming. The CBS Television Network primarily derives revenue from the sale of advertising time for its network broadcasts and affiliation fees from television stations affiliated with the CBS Television Network.
+
+CBS Entertainment acquires or develops and schedules the programming on the CBS Television Network, which includes primetime comedies and dramas, reality, specials, kids’ programs, daytime dramas, game shows and late night. CBS Television Network’s top-rated series include NCIS, The Late Show with Stephen Colbert and The Price is Right. CBS News operates a worldwide news organization, providing the CBS Television Network and
+
+I-2
+                                                
+CBS News Radio with regularly scheduled news and public affairs broadcasts, including 60 Minutes, 48 Hours, CBS Evening News, CBS This Morning, CBS Sunday Morning and Face the Nation.
+
+CBS Sports broadcasts on CBS Television Network include: certain regular season games from the National Football League’s (the “NFL”) American Football Conference (“AFC”) and National Football Conference (NFC), as well as post-season AFC wild card playoff, AFC divisional playoff and championship games, and, on a rotating basis with other networks, the Super Bowl; the National Collegiate Athletic Association (the “NCAA”) Division I Men’s Basketball Tournament and marquee regular-season college basketball games, including conference championship games from the Big Ten, Mountain West, Atlantic 10 and Missouri Valley; regular-season college football games, including games from the Southeastern Conference; and PGA Tour golf tournaments, for which we have broadcast rights through 2030, the Masters and the PGA Championship. In 2020, CBS Sports, along with CBS All Access, became the exclusive English-language home in the U.S. of the Union of European Football Associations (“UEFA”) Champions League, UEFA Europa League and UEFA Europa Conference League.
+
+CBS Television Network content also is available on the internet, including through: CBS.com, CBSSports.com and related software applications (“apps”); our streaming services, such as CBS All Access and CBSN; and vMVPDs, such as Hulu with Live TV and YouTube TV.
+
+The CW, a broadcast network and our joint venture with Warner Bros. Entertainment, airs programming targeting younger viewers, including Charmed and The Flash. Eight of our owned television stations are affiliates of The CW.
+
+CBS Studios
+
+CBS Studios is a leading content supplier that produces nearly 70 series across broadcast television, premium subscription cable and streaming services. CBS Studios maintains an extensive library of intellectual property, including the genre-defining and ever-growing Star Trek universe. CBS Studios’ portfolio spans a diverse slate of commercially successful and critically acclaimed scripted programming. Broadcast television productions include Blue Bloods, the FBI franchise and the NCIS franchise for the CBS Television Network, and Nancy Drew and Walker for The CW. In premium cable, CBS Studios produced The Comey Rule and Our Cartoon President and produces Your Honor for SHOWTIME. Streaming productions include The Good Fight and The Stand for CBS All Access; Dead to Me and Unbelievable for Netflix; Diary of a Future President for Disney+; and Carpool Karaoke for Apple TV. CBS Studios also produces award-winning late night and daytime talk shows, such as The Late Show with Stephen Colbert, The Late Late Show with James Corden and The Talk. Internationally, CBS Studios develops, produces and distributes local language and international series originated outside of the U.S.
+
+CBS Media Ventures
+
+CBS Media Ventures produces or distributes first-run syndicated daily and weekly programming, across various dayparts and genres, including talk shows, court shows, game shows and newsmagazines. The programming is produced for television stations across the country and sold market by market. First-run syndication is programming exhibited on television stations without prior exhibition. Revenue is generated from licensing and distributing such programming, as well as through national advertising sales and integrations. CBS Media Ventures’ first-run series include Dr. Phil, Entertainment Tonight, Jeopardy!, Judge Judy and the new daytime series The Drew Barrymore Show. CBS Media Ventures also distributes programming produced by other divisions, such as CBS Studios, CBS News and Showtime Networks, after initial exhibition on broadcast television, basic or premium subscription cable networks or streaming services for domestic exhibition on television stations, cable networks or streaming services (known as “off-network syndicated programming”). Off-network syndicated programming and first‑run syndicated programming distributed domestically can be sold in successive sales cycles known as “first cycle” sales, “second cycle” sales, and so on, which may occur on an exclusive or non-exclusive basis. CBS Media Ventures operates Dabl, a multiplatform, advertiser-supported lifestyle network.
+
+
+I-3
+                                                
+CBS Television Stations
+
+The CBS Television Stations group consists of our 29 owned broadcast television stations, all of which operate under licenses granted by the Federal Communications Commission (“FCC”) pursuant to the Communications Act of 1934, as amended (the “Communications Act”). Licensees must seek to renew each license every eight years. The CBS Television Stations group principally derives revenue from the sale of advertising on our television stations and retransmission fees. Our television stations are located in the seven largest, and 15 of the top 20, television markets in the U.S. We own multiple television stations within the same designated market area (“DMA”) in 10 major markets, including New York, Los Angeles and Philadelphia. Our television stations enable us to reach a wide audience within and across geographically diverse markets in the U.S. The stations produce news and broadcast public affairs, sports and other programming to serve their local markets and offer CBS, The CW or MyNetworkTV (a national broadcast service that provides syndicated programming, including series from the ViacomCBS library, during primetime to stations across the country) programming and syndicated programming. The stations also broadcast free, advertiser-supported digital channels using available broadcast spectrum. These channels include local and syndicated programming, Dabl (a multiplatform, advertiser-supported lifestyle network operated by CBS Media Ventures) and Start TV, a national entertainment program service featuring classic television content focused on female audiences, which is our joint venture with Weigel Broadcasting. Local versions of our CBSN streaming service offers local news from certain of our owned television stations. Our television stations have local websites that promote the stations’ programming.
+
+Television Stations, Local Websites and CBSN Streaming Services
+
+The following table sets forth information regarding our owned television stations and related local websites and CBSN streaming services, as of February 22, 2021, within U.S. television markets:
+
+Television Market	
+DMA Rank(1)
+Stations	Type	Network Affiliation	
+Local Websites and CBSN
+Streaming Services(2)
+New York, NY	1	WCBS‑TV	UHF	CBS	newyork.cbslocal.com			WLNY‑TV	UHF	Independent	CBSN New York							Los Angeles, CA	2	KCAL‑TV	VHF	Independent	losangeles.cbslocal.com			KCBS‑TV	UHF	CBS	CBSN Los Angeles							Chicago, IL	3	WBBM‑TV	VHF	CBS	chicago.cbslocal.com						CBSN Chicago							Philadelphia, PA	4	KYW‑TV	UHF	CBS	philadelphia.cbslocal.com			WPSG‑TV	UHF	The CW	CBSN Philly							Dallas‑Fort Worth, TX	5	KTVT‑TV	UHF	CBS	dfw.cbslocal.com			KTXA‑TV	UHF	Independent	CBSN Dallas-Fort Worth							San Francisco, CA	6	KPIX‑TV	UHF	CBS	sanfrancisco.cbslocal.com			KBCW‑TV	UHF	The CW	CBSN Bay Area							Atlanta, GA	7	WUPA-TV	UHF	The CW	atlanta.cbslocal.com							Boston, MA	10	WBZ-TV	UHF	CBS	boston.cbslocal.com			WSBK-TV	UHF	MyNetworkTV	CBSN Boston							Seattle-Tacoma, WA	12	KSTW-TV	VHF	The CW	seattle.cbslocal.com							Tampa-St. Petersburg, FL	13	WTOG-TV	UHF	The CW	tampa.cbslocal.com							Minneapolis, MN	14	WCCO‑TV	UHF	CBS	minnesota.cbslocal.com			
+KCCW‑TV(3)
+VHF	CBS	CBSN Minnesota							Detroit, MI	15	WWJ‑TV	UHF	CBS	detroit.cbslocal.com			WKBD‑TV	UHF	The CW	 
+
+I-4
+                                                
+Television Market	
+DMA Rank(1)
+Stations	Type	Network Affiliation	
+Local Websites and CBSN
+Streaming Services(2)
+Denver, CO	16	KCNC‑TV	UHF	CBS	denver.cbslocal.com						CBSN Denver							Miami-Ft. Lauderdale, FL	18	WFOR‑TV	UHF	CBS	miami.cbslocal.com			WBFS‑TV	UHF	MyNetworkTV								Sacramento, CA	20	KOVR-TV	UHF	CBS	sacramento.cbslocal.com			KMAX-TV	UHF	The CW								Indianapolis, IN	25	
+WBXI-CA(4)
+UHF	Independent								Pittsburgh, PA	26	KDKA-TV	UHF	CBS	pittsburgh.cbslocal.com			WPCW-TV	VHF	The CW	CBSN Pittsburgh							Baltimore, MD	28	WJZ‑TV	VHF	CBS	baltimore.cbslocal.com						 
+
+(1)    Television market (DMA) rankings based on Nielsen Media Research Local Market Universe Estimates (September 2020).
+(2)    Our television stations’ websites and the local versions of CBSN feature and promote the stations’ programming and provide news, traffic, weather, entertainment and sports information, among other services for their local communities.
+(3)    KCCW-TV is operated as a satellite station of WCCO-TV.
+(4)    WBXI-CA is a Class A low power television station. Class A low power television stations do not implicate the FCC’s ownership rules.
+
+CBS Sports Network
+
+CBS Sports Network is a cable network that provides a diverse slate of sports and related content 24 hours a day, seven days a week (“24/7”), with a focus on college sports. CBS Sports Network generates revenue from carriage fees from MVPDs, vMVPDs and advertising sales. The network televises live professional, amateur and college events, including Division I college football, basketball, hockey and lacrosse, as well as professional bull riding. In addition, the network showcases a variety of original programming, including documentaries, features and studio shows, highlighted by NFL Monday QB, That Other Pre-Game Show (TOPS), Time to Schein and a first of its kind all-female panel sports talk show, We Need to Talk. CBS Sports Network also provides ancillary coverage for CBS Sports relating to major events, such as the NCAA Division I Men’s Basketball Tournament, The Masters Tournament and the PGA Championship, and for SHOWTIME relating to SHOWTIME Championship Boxing.
+
+CBS All Access/Paramount+
+
+CBS All Access is our direct-to-consumer digital subscription video-on-demand (“SVOD”) and live streaming service, which generates revenue from subscription fees and advertising, and has provided subscribers the ability to watch television and movies on-demand, as well as livestreamed sports and local CBS stations across the U.S.
+
+The streaming service is expected to be relaunched as Paramount+ on March 4, 2021 and will feature content from our leading portfolio of broadcast, news, sports and entertainment brands. Building on our legacy of great storytelling, Paramount+ will present original series such as: The Offer, a limited event series about the making of The Godfather, one of Paramount’s most legendary films; a new edition of Behind the Music from MTV; The Real Criminal Minds, a true crime docu-series; Kamp Koral: SpongeBob’s Under Years from Nickelodeon; and The SpongeBob Movie: Sponge on the Run. Paramount+ will also include current and past seasons of hit shows from the CBS Television Network; growing libraries from brands across our Cable Networks portfolio, including Nickelodeon, BET, Comedy Central, MTV, Paramount Network and Smithsonian Channel; and films from Paramount Pictures. Paramount+ will continue to be home to livestreamed CBS Sports programming, including golf, football and basketball, and every UEFA club competition match, including all UEFA Champions League and UEFA Europa League matches. Subscribers can also stream local CBS stations live across the U.S., as well as our other live channels: CBSN for news 24/7, CBS Sports HQ for sports news and analysis, and ET Live. The service is offered through mobile and connected devices, and third-party platforms.
+
+I-5
+                                                
+
+viac-20201231_g2.jpg
+
+CABLE NETWORKS
+
+Overview
+
+Cable Networks operates a portfolio of free, pay and premium streaming services — Pluto TV, a leading FAST service in the U.S.; Noggin, Nickelodeon’s preschool subscription streaming service; BET+, a subscription streaming service focused on the Black audience; and SHOWTIME OTT — and a portfolio of both premium subscription and basic cable networks. Our premium subscription cable networks consist of SHOWTIME, The Movie Channel and Flix, and our basic cable networks consist of BET, Nickelodeon, MTV, Comedy Central, Paramount Network, Smithsonian Channel, Pop TV, CMT, VH1, TV Land and Logo.
+ 
+Under ViacomCBS Networks International (“VCNI”), we operate international divisions of our domestic streaming and Cable Networks brands and businesses, program services created specifically for international audiences and our international free-to-air networks such as Channel 5 in the U.K., Televisión Federal S.A. (“Telefe”) in Argentina and Network 10 in Australia.
+
+Cable Networks’ revenues are generated primarily from affiliate revenues comprised of fees from MVPDs and vMVPDs for carriage of our cable networks, and subscription fees from our streaming services; advertising sales; and the licensing of our content and brands. In 2020, Cable Networks affiliate, advertising and content licensing revenues generated approximately 48%, 38% and 14%, respectively, of the segment’s total revenues. Cable Networks generated approximately 50%, 46% and 48% of our consolidated revenues in 2020, 2019 and 2018, respectively.
+
+Our most significant Cable Networks brands are discussed below.
+
+SHOWTIME
+
+Our three premium subscription cable networks in the U.S. are SHOWTIME, which offers original scripted and unscripted series, movies, documentaries and docu-series, sports, comedy and special events; The Movie Channel, which offers a variety of movies and related programming; and Flix, which primarily offers movies from the last several decades. Content highlights on SHOWTIME in 2020 include new seasons of The Chi, Billions, the final season of Homeland and the limited series The Good Lord Bird. SHOWTIME is also home to Shameless, The L Word: Generation Q, Black Monday, City on a Hill, Desus & Mero, the network’s first late-night talk show, a number of docu-series, including Couples Therapy, The Circus, and the news series Vice. SHOWTIME OTT, Showtime Networks’ premium subscription streaming service, is available for purchase without an MVPD subscription. SHOWTIME Anytime, an authenticated version of SHOWTIME, is available free of charge to SHOWTIME subscribers. Showtime Networks also produces and/or provides special events on a pay-per-view basis available for purchase by both SHOWTIME subscribers and non-subscribers through the SHOWTIME app and third-party distributors. Showtime Networks owns and operates Bellator, a leading mixed martial arts and kickboxing organization.
+
+Pluto TV
+
+Pluto TV is a leading FAST service in the U.S., delivering over 250 live, linear channels and thousands of movies and television series on-demand to 30.1 million domestic monthly active users (“MAUs”) and 43.1 million global MAUs as of December 31, 2020. Pluto TV has an international footprint that spans three continents and 24 countries throughout North America, Europe and Latin America. With over 100,000 hours of premium content, Pluto TV offers a broad and diverse lineup of third-party branded and original, thematically-curated channels featuring categories including movies and television, sports, news & opinion, comedy, gaming & anime, home &
+
+I-6
+                                                
+DIY, music, kids, reality, crime, classic TV and Latino. Over fifty channels, or approximately one-fifth of Pluto TV’s lineup, are dedicated to ViacomCBS titles and brands. Pluto TV has over 400 global content partners, including studios, networks, news and sports organizations, publishers, and digital media entities. With over 30 distribution partners, Pluto TV is widely available on mobile, web and connected devices, including on major connected television brands such as Samsung, LG, Fire TV, TiVo and Vizio.
+
+BET
+
+BET is the nation’s leading provider of entertainment, music, news and experiences that entertain, engage and empower African-American audiences. BET can be seen in the U.S., Canada, the Caribbean, the U.K. and sub-Saharan Africa. In 2020, BET aired an array of content addressing systemic racism, including Justice Now: A BET News Special/Town Hall, American Injustice: The Fight for Police Reform, A March for Action and BET Remembers: George Floyd. Other highlights include John Lewis: In His Own Words, No Limit Chronicles, Twenties and Tyler Perry’s The Oval and Sistas, the first two series in our multi-year partnership with award-winning writer, director, producer, actor and playwright Tyler Perry. BET’s tentpoles and live events include the BET Awards & Experience, which in 2020 aired as the number one cable awards show for the sixth consecutive year among adults, and the BET Hip Hop Awards.
+
+BET+, our joint venture with Tyler Perry Studios, is a subscription streaming service for the Black audience, with exclusive originals, thousands of television episodes and movies from leading Black content creators. The service is the official home of Tyler Perry’s film, television and stage works, and provides users with access to original content, including First Wives Club, Ruthless and Bigger. BET brands include: BET.com, a leading internet destination for Black entertainment, music, culture, and news; BET Her, an entertainment network targeting the African-American woman; BET Music Networks; BET Home Entertainment; BET Live; BET Mobile; and BET International, which operates BET around the globe.
+
+Kids & Family Entertainment Group
+
+Nickelodeon
+
+Nickelodeon, now in its 41st year, is one of the most globally recognized and widely distributed multimedia entertainment brands for kids and family. Nickelodeon has been the number-one-rated advertising-supported basic cable network for 25 consecutive years among kids 2 to 11. Nickelodeon features leading original and licensed kids’ series across animation, live-action and preschool genres. Content highlights in 2020 include Ryan’s Mystery Playdate, SpongeBob SquarePants, PAW Patrol, The Loud House, The Casagrandes and Blue’s Clues & You!. Nickelodeon brands include Nick Jr., Nick at Nite, TeenNick, Nicktoons and Nick Music.
+
+Noggin, Nickelodeon’s preschool subscription streaming service, features over 1,000 library episodes, interactive videos and short-form educational content. In partnership with Paramount, Nickelodeon Movies produces branded films based on some of Nickelodeon’s most iconic franchises and characters. Nickelodeon is a key part of our global consumer products business. In 2020, we entered into a licensing partnership with global toy brand Melissa & Doug to deliver PAW Patrol and Blue’s Clues and You! co-branded toys. Nickelodeon also licenses its brands for recreation and other location-based experiences such as hotels and theme parks and is involved in numerous live events such as the Kids’ Choice Awards.
+
+Awesomeness
+
+Awesomeness creates content focused on the global Gen Z audience through its digital publishing, film and television studio divisions. Awesomeness has become the destination for youth culture, cultivating a loyal audience with content such as To All the Boys I’ve Loved Before, Trinkets and Pen15.
+
+
+I-7
+                                                
+MTV Entertainment Group
+
+MTV
+
+MTV is the leading global youth media brand with operations that span cable and mobile networks, live events, films and MTV Studios, a unit focused on developing series for SVOD and other distribution platforms and partners. Content highlights in 2020 include The Challenge, Jersey Shore Family Vacation, Double Shot at Love with DJ Pauly D and Vinny, Floribama Shore, Teen Mom, Ridiculousness, Deliciousness, Wild ‘N Out, Catfish, Ghosted, Siesta Key, 16 & Recovering and the Oscar nominated St. Louis Superman from MTV Documentary Films. MTV’s signature event, the MTV Video Music Awards, drew 6.4 million viewers across its live linear simulcast and 41.1 million interactions across social media, making it the second most-social show of the year, behind only the Super Bowl. MTV’s annual tentpoles also include the MTV European Music Awards and the MTV Movie and TV Awards.
+
+Comedy Central
+
+Comedy Central is a leading destination for comedic and topical talent and all things comedy, providing viewers access to a world of funny, provocative and relevant comedy, ranging from award-winning late-night, scripted and animated series, to stand-up and short-form. Content highlights in 2020 include South Park: The Pandemic Special, The Daily ‘Social Distancing’ Show with Trevor Noah and Awkwafina is Nora From Queens. Comedy Central also produces a global podcast network and operates Comedy Central Radio on SiriusXM.
+
+Paramount Network
+
+Paramount Network is a premium entertainment destination with stories that are immersive, inclusive and deeply personal. Content highlights in 2020 include Yellowstone, written by Oscar nominee Taylor Sheridan and starring two-time Oscar winner Kevin Costner, and Dashing in December, an LGBTQ+ holiday film produced by the MTV Entertainment Group’s original movies and limited series division, which was launched in May 2020.
+
+Smithsonian Channel
+
+Smithsonian Channel is the home of popular genres such as air and space, travel, history, science, nature and pop culture. Among the brand’s series are Aerial America, America in Color, America’s Hidden Stories, Apollo’s Moon Shot, The Pacific War in Color and Air Disasters, as well as critically-acclaimed specials that include The Green Book: Guide to Freedom, Black in Space: Breaking the Color Barrier, Walk Against Fear: James Meredith and Princess Diana’s Wicked Stepmother.
+
+ViacomCBS Networks International (VCNI)
+
+VCNI operates international divisions of our domestic streaming and Cable Networks brands and businesses, as well as regional and free-to-air broadcast networks.
+
+Network 10
+
+Network 10 is one of the three major free-to-air commercial broadcast networks in Australia that focuses on delivering content targeted at the under 50s demographic across a variety of platforms and genres. Network 10 is home to popular franchises, including MasterChef Australia, Australian Survivor and I’m A Celebrity…Get Me Out of Here!, and news and current affairs show The Project. Network 10 brands consist of channel 10, 10 Bold, 10 Peach and 10 Shake, on-demand service 10 Play, and 10 All Access (soon to be rebranded Paramount+), a subscription streaming service in Australia featuring a collection of popular Network 10 series as well as exclusive CBS library content.
+
+
+I-8
+                                                
+Channel 5
+
+Channel 5 is a free-to-air public service broadcaster (PSB) in the U.K. Channel 5 channels include 5Star, 5USA and 5Select, as well as its corresponding SVOD service, My5, which together offer a broad mix of popular content, including factual programming, entertainment, reality, sports, acquired and original drama, and preschool programming through its award-winning Milkshake! brand. Content highlights in 2020 include All Creatures Great and Small and Our Yorkshire Farm.
+
+Telefe
+
+Telefe is the leading free-to-air entertainment broadcast network in Argentina and offers a wide range of programming, including Who Wants to Be a Millionaire? The Internationals: Buenos Aires Connection and MasterChef Celebrity. Telefe Noticias, Telefe’s flagship newscast, was in 2020 named Argentina’s most trusted news brand. Telefe also has an expansive digital presence that includes exclusive content, video-on-demand and a livestream.
+
+COLORS
+
+COLORS is a Hindi-language general entertainment pay television channel operated by Viacom18, our joint venture in India. COLORS is available in India and over 100 additional countries. Content highlights in 2020 include Khatron Ke Khiladi, Bigg Boss 14 and Barrister Babu. Other COLORS brands include COLORS Infinity, COLORS Rishtey and COLORS Cineplex. Viacom18 Studios, Viacom18’s filmed entertainment business, includes Viacom18 Motion Pictures, a fully-integrated motion pictures studio, and Tipping Point, a digital content unit. Viacom18 Motion Pictures also partners with Paramount to market and distribute Paramount films for theatrical exhibition in the Indian sub-continent.
+
+viac-20201231_g3.jpg
+
+FILMED ENTERTAINMENT
+
+Overview
+
+Filmed Entertainment operates Paramount Pictures, Paramount Players, Paramount Animation and Paramount Television Studios, and also includes Miramax, a consolidated joint venture. It partners on various projects with key TV Entertainment and Cable Networks brands. Films produced, acquired and/or distributed by Filmed Entertainment are generally first exhibited theatrically in domestic and/or international markets and then released in various markets and media.
+ 
+Filmed Entertainment’s revenues are generated primarily from the release and/or distribution of films theatrically, the release and/or distribution of film and television product through home entertainment, the licensing of film and television product to television, SVOD and other digital platforms and other ancillary activities. Our theatrical revenues in 2020 were negatively impacted by the closure or reduction in capacity of movie theaters as a result of COVID-19. We rescheduled certain planned 2020 theatrical releases to 2021, and licensed others to our owned or third-party streaming services. In 2020, Filmed Entertainment licensing, home entertainment and theatrical revenues generated approximately 62%, 28% and 7%, respectively, of the segment’s total revenues. Filmed Entertainment generated approximately 10%, 11% and 11% of our consolidated revenues in 2020, 2019 and 2018, respectively.
+
+Paramount Pictures
+
+Paramount Pictures is a major global producer and distributor of filmed entertainment and has an extensive library consisting of over 1,200 film titles produced by Paramount, acquired rights to nearly 2,900 additional films and a number of television programs. Paramount’s library includes many Academy Award winners, including Titanic, Braveheart, Forrest Gump, The Godfather, The Godfather Part II and Wings, which won the first ever Academy
+
+I-9
+                                                
+Award for Best Picture in 1929. The Paramount library also includes other Academy Award Best Picture nominees such as Arrival, Fences, The Big Short, Selma and The Wolf of Wall Street, classics such as The Ten Commandments, Breakfast at Tiffany’s and Sunset Boulevard, and a number of successful franchises such as Mission: Impossible, Transformers, Star Trek and Paranormal Activity. In 2020, Paramount’s theatrical releases included Sonic the Hedgehog, the highest-grossing movie ever in the U.S. based on a video game.
+
+Paramount Players
+
+Paramount Players is committed to creating genre films from unique, contemporary voices and properties, as well as drawing from Paramount’s rich library of content.
+
+Paramount Animation
+
+Paramount Animation is our animation division and develops and produces top-quality animated films. Paramount Animation co-produced The SpongeBob Movie: Sponge on the Run, which will be digitally released domestically in March 2021 simultaneously on premium video on demand and Paramount+.
+
+Paramount Television Studios
+
+Paramount Television Studios develops and finances a wide range of original, premium television content across all platforms for distribution worldwide. Paramount Television Studios’ productions include The Haunting of Hill House and The Haunting of Bly Manor for Netflix; 13 Reasons Why for Netflix; Tom Clancy’s Jack Ryan for Amazon Prime; The Alienist and The Angel of Darkness for TNT; Home Before Dark and Defending Jacob for AppleTV+; Catch-22 for Hulu; and Boomerang and First Wives Club for BET and BET+, respectively.
+
+Miramax
+
+Miramax, a consolidated joint venture with beIN Media Group, is a global film and television studio with an extensive library of content. We have exclusive, long-term rights to distribute Miramax’s library, adding nearly 700 titles to our existing library. We also have certain rights to co-produce, co-finance and/or distribute new film and television projects with Miramax.
+
+Film Production, Distribution and Financing
+
+We produce many of the films we release and also acquire films for distribution from third parties. In some cases, we co-finance and/or co-distribute films with third parties, including other studios. We also enter into film-specific financing and slate financing arrangements from time to time under which third parties participate in the financing of the costs of a film or group of films in exchange for an economic participation and a partial copyright interest. We distribute films worldwide or in select territories or media and may engage third-party distributors for certain films in certain territories. We have several multi-film production, distribution and financing relationships, including with Skydance Productions, Hasbro Inc. and New Republic Pictures.
+
+Domestically, we generally market and distribute our own theatrical and home entertainment releases. Internationally, we generally distribute theatrical releases through our international affiliates or, in territories where we have no operating presence, through United International Pictures, our joint venture with Universal Studios. For home entertainment releases, DVD and Blu-ray discs are distributed internationally by local licensees. We also license films and television shows domestically and/or internationally to a variety of platforms.
+
+
+I-10
+                                                
+viac-20201231_g4.jpg
+
+PUBLISHING
+
+Publishing consists of Simon & Schuster, which publishes and distributes adult and children’s consumer books in printed, digital and audio formats in the U.S. and internationally. Its digital formats include electronic books and audio books. In November 2020, we announced that we entered into an agreement to sell Simon & Schuster, which is expected to close in 2021, subject to customary closing conditions, including regulatory approvals. Simon & Schuster is presented as a discontinued operation in our consolidated financial statements for all periods presented in this Annual Report on Form 10-K.
+ 
+Simon & Schuster’s major children’s imprints include Simon & Schuster Books For Young Readers, Aladdin and Little Simon. Simon & Schuster also develops special imprints and publishes titles based on the products of certain of our businesses as well as those of third parties and distributes products for other publishers. Simon & Schuster distributes its products directly and through third parties. Simon & Schuster also delivers content and promotes its products on its own websites, social media, and general internet sites as well as those dedicated to individual titles. International publishing includes the international distribution of English-language titles through Simon & Schuster in the U.K., Canada, Australia and India and other distributors, as well as the publication of locally originated titles by its international companies.
+
+Best-selling titles in 2020 include: Mary Trump’s Too Much and Never Enough: How My Family Created the World’s Most Dangerous Man; Bob Woodward’s Rage; John Bolton’s The Room Where it Happened; Stephen King’s If It Bleeds and The Outsider; and Cassandra Clare’s Chain of Gold.
+
+COMPETITION
+
+All of our businesses operate in highly competitive environments, and compete for creative talent and intellectual property, as well as for audiences and distribution of our content.
+
+TV Entertainment, Cable Networks and Filmed Entertainment compete with a variety of media, technology and entertainment companies that have substantial resources to produce and acquire content worldwide, including broadcast networks, basic and premium cable networks, streaming services, film and television studios, production groups, independent producers and syndicators, television stations and television station groups. These segments compete with other content creators for creative talent including producers, directors, actors and writers, as well as for new program ideas and intellectual property and for the acquisition of popular programming. Similarly, Publishing competes with many other publishers for the rights to works by authors, and competition is particularly strong for well-known authors and public personalities.
+
+Our businesses also face significant competition for audiences from various sources. Filmed Entertainment competes for audiences for its films and television content with releases from other film studios, television producers and streaming services, as well as with other forms of entertainment and consumer spending outlets. TV Entertainment and Cable Networks compete for audiences and advertising revenues primarily with other cable and broadcast television networks; streaming services; social media platforms; websites, apps and other online experiences; radio programming; and print media. In addition, our television and basic cable networks businesses face increasing competition from technologies providing digital audio and visual content in ways that allow audiences to consume content of their choosing while avoiding traditional commercial advertising. Moreover, our businesses face competition from the many other entertainment options available to consumers including video games, sports, travel and outdoor recreation.
+
+We also face competition for distribution of our content. TV Entertainment and Cable Networks compete for distribution of our program services (and receipt of related fees) with other broadcast networks, cable networks and programmers. The CBS Television Network competes with other broadcast networks to secure affiliations with independently owned television stations to ensure the effective distribution of network programming
+
+I-11
+                                                
+nationwide. TV Entertainment, Cable Networks and Filmed Entertainment compete with studios and other producers of entertainment content for distribution on third-party platforms.
+
+For additional information regarding competition, see “Item 1A. Risk Factors — Our businesses operate in industries that are highly competitive.”
+
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE STRATEGY
+
+The media and entertainment industry is uniquely positioned to shape culture, social attitudes and societal outcomes. As a global content company that reaches billions of people, we take seriously the opportunity and responsibility that comes with that reach.
+
+We are committed to advancing and strengthening our approach to environmental, social and governance (“ESG”) topics to help serve our partners, audiences, employees and shareholders — and to enhance our success as a business. Our approach is grounded in an understanding of where our biggest impacts, risks and opportunities lie.
+
+ViacomCBS is committed to responsible and sustainable business practices, which strengthen our ability to innovate and better serve our partners, audiences and stockholders. In 2020, we built upon the momentum at each of CBS and Viacom and established three pillars for our ESG strategy moving forward: On-Screen Content and Social Impact, Workforce and Culture, and Sustainable Production and Operations. We also published our first companywide Materiality Assessment and our first ESG report. We are committed to continuing to identify, measure, and map the ESG impacts of our global operations and report on those impacts with stakeholders.
+
+Human Capital Management
+
+We aim to build a culture that attracts and retains the best employees and a workplace where everyone feels welcome, safe and inspired to bring their whole self to work. As of December 31, 2020, we employed approximately 22,109 full-time and part-time employees worldwide, and had approximately 4,231 additional project-based staff on our payroll. We also use other temporary employees in the ordinary course of our business. Our human capital management strategy is intended to address the following areas:
+
+A Culture of Diversity, Equity and Inclusion
+
+We seek to foster a culture of diversity, equity and inclusion through a range of partnerships, collaborations, programs and initiatives, some of which are described below.
+
+•We partner with approximately 70 diversity-focused institutions that are committed to supporting women, BIPOC and LGBTQ+ individuals, veterans and/or persons with disabilities. We have placed a particular focus on organizations advancing the causes of racial justice, anti-hate and social equity on a global basis.
+
+•Our job postings reach an expansive network that includes approximately 70 diversity-focused job boards. We leverage technology with the goal of removing potentially biasing language from our job descriptions and recruitment correspondence.
+
+•We sponsor internal and external professional development programs and campus-to-career initiatives aimed at underrepresented groups. We nominate and support women and BIPOC employees for leadership training opportunities.
+
+•We conduct a variety of training and other initiatives designed to educate our employees on unconscious bias, inclusive leadership, allyship, anti-Semitism and anti-racism, which are intended to help disrupt systemic bias and racism in the workplace.
+
+•We conduct surveys to gather information about our employee population that self-identifies as LGBTQ+ or as having a disability and we provide education across the business intended to address associated stigma.
+
+
+I-12
+                                                
+•We support nine active employee-led Employee Resource Groups (ERGs) with 48 chapters in 14 locations worldwide. Our ERGs provide support for certain business and corporate initiatives.
+
+•We are a founding participant of the Black Equity at Work Certification, designed to benchmark and index our performance to other companies to advance diversity and inclusion in the workplace, and of the CEO Action for Diversity Pledge.
+
+Of our U.S. employees, as of December 31, 2020, approximately 49% were female and approximately 37% self-identified as part of a racial or ethnic minority group. Of our U.S. employees with Vice President titles and above, as of December 31, 2020, approximately 48% were female and approximately 26% self-identified as part of a racial or ethnic minority group. We have set measurable goals intended to improve the diversity of our workforce through hiring and promotions.
+
+Preventing Harassment and Discrimination
+
+We have enacted policies addressing harassment, discrimination and other behaviors that could create a hostile workplace, some of which are described below.
+
+•We make available to our employees, globally, training on preventing sexual harassment, discrimination and retaliation. We also make available to workers on ViacomCBS productions, including freelancers and others not directly employed by ViacomCBS, training on preventing sexual harassment.
+
+•We monitor employee diversity data for trends that could suggest discrimination or unconscious bias.
+
+•We expect employees to report any violations of Company policies, including sexual harassment, they witness. Among other ways, employees can report incidents of harassment using our anonymous complaint and reporting hotline, called OPENLINE.
+
+Employee Attraction, Retention and Training
+
+We provide a range of training, mentoring and career mobility programs aimed at attracting, retaining and engaging our employees. Some of these programs are described below.
+
+•We offer our employees formal, six-month mentoring programs and “pop up” mentoring events. We also offer our employees leadership-specific training.
+
+•We offer a range of financial and nonfinancial compensation and benefits, including health, life and disability insurance; matching retirement contributions; flexible paid time off; and paid volunteer time. In 2020, we implemented new parental, caregiving, bereavement and military leave benefits. We also offer tuition support for certain employees.
+
+•We offer flexible work hours for many of our full-time and part-time employees.
+
+Health, Safety and Security
+
+We endeavor to take a proactive approach to identifying and mitigating health, safety and security risks. Some of the steps we take are described below.
+
+•We have on-site health care at some office and production sites, as well as medics and medical support at many production sites.
+
+•We perform risk assessments of daily work processes across our productions, offices and other work sites and develop hazard reduction, avoidance and mitigation plans. We also track and report safety, health and security incident data across the Company.
+
+
+I-13
+                                                
+•Our Global Security Operations Center oversees security and emergency response efforts and undertakes risk scans in an effort to identify potential security risks.
+
+•Early in the COVID-19 pandemic, we closed our offices and productions out of an abundance of caution and concern for the safety of our workforce. While our workforce continues to be predominantly remote, we restarted some productions beginning in mid-2020 in accordance with local requirements. We also committed $100 million to help provide support to those impacted by COVID-19.
+
+Social Impact and Corporate Social Responsibility
+
+The content we produce both reflects and shapes culture and influences how people perceive and understand important issues. We endeavor to earn our viewers’ trust through a variety of practices, and we are focused on using our platforms to create positive social impacts.
+
+Using our platforms for good includes community projects, philanthropy and employee engagement. Across the organization, we focus our social impact efforts on such issues as civic engagement, social justice, mental health, and diversity and inclusion, among others, and our brands also have strategic focus areas based on their diverse audiences and unique strengths. For example, we heighten social awareness on important issues through CBS Cares public service announcement campaigns, produce arts education programming for students through Paramount Animation’s Arts Matter initiative, and partner with social justice organizations to disseminate content that will combat systemic racism and inequality through BET’s Content for Change initiative. Our focus is also on our audiences: we spread messages to keep our audiences safe and informed from the earliest days of the COVID-19 pandemic with our award-winning #AloneTogether campaign, recruited hundreds of thousands of new poll workers and millions of new early voters with our civic engagement initiatives such as the Vote for Your Life and Reclaim Your Vote campaigns, and are bringing the entertainment industry together for a collaboration to transform mental-health storytelling with a first-of-its-kind Mental Health Media Guide for content creators.
+
+REGULATION
+
+Our businesses and the intellectual property they create or acquire are subject to and affected by laws and regulations of U.S. federal, state and local governmental authorities, as well as laws and regulations of countries other than the U.S. and pan-national bodies such as the European Union (“E.U.”). The laws and regulations affecting our businesses are constantly subject to change, as are the protections that those laws and regulations afford us. The discussion below describes certain, but not all, present and proposed laws and regulations affecting our businesses.
+
+FCC and Similar Regulation
+
+The FCC regulates broadcast television, and some aspects of cable network programming and certain programming in the U.S. delivered by internet protocol, pursuant to U.S. federal law, including the Communications Act. Violation of FCC regulations can result in substantial monetary fines, the imposition of reporting obligations, limited renewals of licenses and, in egregious cases, denial of license renewal or revocation of a license.
+
+License Renewals
+
+Each of our owned television stations in the U.S. must be licensed by the FCC. Television broadcast licenses are typically granted for eight-year terms, and we must obtain renewals as they expire to continue operating our stations. The Communications Act requires the FCC to renew a broadcast license if the FCC finds that (1) the station has served the public interest, convenience and necessity; (2) with respect to the station, there have been no serious violations by the licensee of either the Communications Act or FCC regulations; and (3) there have been no other violations by the licensee of the Communications Act or FCC regulations that, taken together, constitute a pattern of abuse. As of February 22, 2021, we had four pending renewal applications, and we will be filing applications with respect to most of our remaining stations on a staggered basis between 2021 and 2023. A station remains authorized to operate while its license renewal application is pending. In addition, the
+
+I-14
+                                                
+Communications Act requires prior FCC approval for the assignment of a license or transfer of control of an FCC licensee.
+
+Broadcast Ownership Regulation
+
+The Communications Act and FCC regulations impose limitations on local and national broadcast television ownership in the U.S. The following broadcast ownership rules are the most relevant to our operations. In 2019, a federal appellate court vacated an FCC decision issued in 2017 that would have relaxed some of the broadcast ownership rules. The U.S. Supreme Court is currently reviewing that decision, the outcome of which could have significant implications for the FCC’s broadcast ownership regulatory framework.
+
+Local Television Ownership. The FCC’s local television ownership rule limits the number of full-power television stations that may be commonly owned in the same DMA. For example, common ownership of two full-power stations in a market generally is allowed only if, at the time the common ownership is created, at least eight independently owned and operating full-power stations remain in the market, and at least one of the owned stations is outside of the top-four ranked stations in the market based on audience share.
+
+Dual Network Rule. The dual network rule prohibits any of the four major U.S. broadcast networks — ABC, CBS, FOX and NBC — from combining or being under common control.
+
+Television National Audience Reach Limitation. Under the national television ownership rule, one party may not own television stations that reach more than 39% of all U.S. television households. However, for purposes of this rule, a UHF station is afforded a “discount” and is therefore attributed with reaching only 50% of the television households in its market. We currently own and operate television stations that reach approximately 38% of all U.S. television households, but we are attributed with reaching 25% of all such households for purposes of the national ownership rule because of the discount.
+
+Foreign Ownership. In general, the Communications Act restricts foreign individuals or entities from collectively owning more than 25% of our voting power or equity. FCC approval is required to exceed the 25% threshold. The FCC has recently approved foreign ownership levels of up to 100% in certain instances, subsequent to its review and approval of specific, named foreign individuals.
+
+Cable and Satellite Carriage of Television Broadcast Stations
+
+The Communications Act and FCC rules govern the retransmission of broadcast television stations by cable system operators, direct broadcast satellite operators, and other MVPDs in the U.S. Pursuant to these regulations, we have elected to negotiate with MVPDs for the right to carry our broadcast television stations via retransmission consent agreements. The Communications Act and FCC regulations require that broadcasters and some types of MVPDs negotiate in good faith for retransmission consent. Some MVPDs have sought changes to federal law that would eliminate or otherwise limit the ability of broadcasters to obtain fair compensation for the grant of retransmission consent.
+
+Program Regulation
+
+The FCC also regulates the content of broadcast, cable network, and other video programming. The FCC prohibits broadcasters from airing obscene material at any time and indecent or profane material between 6 a.m. and 10 p.m. The FCC’s maximum forfeiture penalty per station for broadcasting indecent or profane programming is approximately $419,000 per indecent or profane utterance or image, with a maximum forfeiture exposure of approximately $3.87 million for any continuing violation arising from a single act or failure to act. The FCC also actively monitors compliance with requirements that apply to broadcasters and cable networks relating to political advertising, identification of program sponsors, and the use and integrity of the Emergency Alert System. In addition, FCC regulations require the closed captioning of almost all broadcast and cable programming, as well as certain programming in the U.S. delivered by internet protocol, among other requirements intended to ensure that video programming is accessible to persons with disabilities.
+
+
+I-15
+                                                
+Children’s Programming
+
+Our business is subject to various regulations in the U.S. and abroad applicable to children’s programming. U.S. federal law and FCC rules limit the amount and content of commercial matter that may be shown on broadcast television stations and cable networks during programming designed for children 12 years of age and younger, and the FCC also limits the display of certain commercial website addresses during children’s programming. Moreover, each of our broadcast television stations is required to air, in general, three hours per week of educational and informational programming designed for children 16 years of age and younger.
+
+In addition, some policymakers have sought limitations on food and beverage marketing in media popular with children and teens. For example, restrictions on the television advertising of foods high in fat, salt and sugar (“HFSS”) to children aged 15 and under have been in place in the U.K. since 2007. The U.K. government is currently considering tighter controls, including a ban on all HFSS advertising before 9:00 p.m. Various laws with similar objectives have also been enacted in Ireland, Turkey, Mexico, Chile, Peru, Taiwan and South Korea, and significant pressure for similar restrictions continues to be felt globally, most acutely in Australia, Brazil, Canada, Colombia, India, Hungary, Singapore, South Africa and France. The implementation of these or similar limitations and restrictions could have a negative impact on our Cable Networks advertising revenues, particularly for our networks with programming for children and teens.
+
+Broadcast Transmission Standard
+
+In 2017, the FCC adopted rules to permit television broadcasters to voluntarily broadcast using the “Next Generation” broadcast television transmission standard developed by the Advanced Television Systems Committee, Inc., also called “ATSC 3.0.” Those full-service television stations using the new standard are subject to certain requirements, including the obligation to continue broadcasting a generally identical program stream in the current ATSC 1.0 broadcast standard. The ATSC 3.0 standard can be used to offer better picture quality and improved mobile broadcast viewing. A television station converting to ATSC 3.0 operation will incur significant costs in equipment purchases and upgrades. In addition, consumers may be required to obtain new television sets or other equipment that are capable of receiving ATSC 3.0 broadcasts. We are participating in ATSC 3.0 partnerships with other broadcasters and may enter into additional partnerships in the future.
+
+Global Data Protection Laws and Children’s Privacy Laws
+
+A number of data protection laws impact, or may impact, the manner in which ViacomCBS collects, processes and transfers personal data. In the E.U., the General Data Protection Regulation (“GDPR”) mandates data protection compliance obligations and authorizes significant fines for noncompliance, requiring extensive compliance resources and efforts on our part. Further, a number of other regions where we do business, including the U.S., Asia and Latin America, have enacted or are considering new data protection regulations that may impact our business activities that involve the processing of personal data. For example, in the U.S., the California Consumer Privacy Act, which went into effect on January 1, 2020, creates a host of new obligations for businesses regarding how they handle the personal information of California residents, including creating new data access, data deletion and opt out rights. In addition, some of the mechanisms ViacomCBS relies upon for the transfer of personal data from the E.U. to the U.S., such as utilizing standard contractual clauses approved by the European Commission, have been subject to legal challenges, and the E.U.-U.S. Privacy Shield framework, which permits the transfer of personal data from the E.U. to the U.S., has been challenged by the relevant E.U. authorities. The outcomes of these proceedings continue to be uncertain and will require changes to our international data transfer mechanisms.
+
+In addition, we are subject to other laws and regulations intended specifically to protect the interests of children, including the privacy of minors online. The U.S. Children’s Online Privacy Protection Act (“COPPA”) limits the collection by operators of websites or online services of personal information online from children under the age of 13. In July 2019, the Federal Trade Commission initiated a review of its regulations implementing COPPA, which we anticipate will be updated to address changes in technology. In the E.U., GDPR also limits our ability to process data from children under the age of 16. Such regulations also restrict the types of advertising we are able to sell on these sites and apps and impose strict liability on us for certain actions of ViacomCBS, advertisers and
+
+I-16
+                                                
+other third parties, which could affect advertising demand and pricing. Recently, laws in Brazil and China that govern the processing of children’s data also went into effect. These laws will likely have similar impacts to COPPA and GDPR, especially with respect to data collected in connection with advertising. State and federal policymakers are also considering regulatory and legislative methods to protect consumer privacy on the internet, and these efforts have focused particular attention on children and teens.
+
+Compliance with enhanced data protection laws, which may be inconsistent with one another, requires additional resources and efforts on our part, and noncompliance with personal data protection regulations could result in increased regulatory enforcement and significant monetary fines or private litigation.
+
+INTELLECTUAL PROPERTY
+
+We are fundamentally a content company, and the trademark, copyright, patent and other intellectual property laws that protect our brands and content are extremely important to us. It is our practice to protect our films, programs, content, brands, formats, characters, games, publications and other original and acquired works, and ancillary goods and services. The unauthorized reproduction, distribution, exhibition or other exploitation of copyrighted material interferes with the market for copyrighted works and disrupts our ability to distribute and monetize our content. The infringement of our intellectual property rights in films, television and digital programming, books, consumer products and other entertainment content presents a significant challenge to our industry, and we take a number of steps to address this concern. For example, where possible, we use technologies, such as encryption, watermarking, and digital rights management tools, to protect our content from piracy and infringement. We are also actively engaged in enforcement and other activities to protect our intellectual property, including: monitoring online destinations that distribute or otherwise infringe our content and sending takedown or cease and desist notices in appropriate circumstances; using filtering technologies employed by some social networks and other platforms hosting our content; working with intermediaries and other third parties to address current infringements and prevent more in the future; and pursuing litigation and referrals to law enforcement with respect to websites and other online platforms that distribute or facilitate the distribution and exploitation of our content without authorization. Through partnerships with various organizations, we also are actively involved in educational outreach to the creative community, state and federal government officials and other stakeholders in an effort to marshal greater resources to combat intellectual property infringement. Additionally, we participate in various industry-wide enforcement initiatives, public relations programs and legislative activities on a worldwide basis. For example, we have had notable success with site-blocking efforts in parts of Europe and Asia, which can be effective in steering consumers away from piracy platforms and toward legitimate platforms.
+
+Notwithstanding these efforts and the many legal protections that exist to combat piracy, the proliferation of content infringement and the technological tools with which to carry out those illicit activities continues to be a challenge. The failure to maintain enhanced legal protections and enforcement tools and to update those tools as threats evolve could make it more difficult for us to adequately protect our intellectual property, which could negatively impact its value and further increase the costs of enforcing our rights as we continue to expend substantial resources to protect our content.
+
+
+I-17
+                                                
+OUR EXECUTIVE OFFICERS
+
+ViacomCBS’ executive officers as of February 22, 2021 are as follows:
+
+Name	Age	Position	Robert M. Bakish	57	President and Chief Executive Officer, Director	Naveen Chopra	47	Executive Vice President, Chief Financial Officer	Christa A. D’Alimonte	52	Executive Vice President, General Counsel and Secretary	Katherine Gill-Charest	56	Executive Vice President, Controller and Chief Accounting Officer	Richard M. Jones	55	Executive Vice President, General Tax Counsel and Chief Veteran Officer	Doretha (DeDe) Lea	56	Executive Vice President, Global Public Policy and Government Relations	Julia Phelps	43	Executive Vice President, Chief Communications and Corporate Marketing Officer	Nancy Phillips	53	Executive Vice President, Chief People Officer 
+
+Robert M. Bakish has been our President and Chief Executive Officer and a member of our Board since December 2019. Mr. Bakish served as President and Chief Executive Officer and a member of the board of Viacom from December 2016 to December 2019, having served as Acting President and Chief Executive Officer beginning earlier in 2016. Mr. Bakish joined Viacom’s predecessor (“Former Viacom”) in 1997 and held positions throughout the organization, including as President and Chief Executive Officer of Viacom International Media Networks and its predecessor company, MTV Networks International, from 2007 to 2016; Executive Vice President, Operations and Viacom Enterprises; Executive Vice President and Chief Operating Officer, MTV Networks Advertising Sales; and Senior Vice President, Planning, Development and Technology. Before joining Former Viacom, Mr. Bakish was a partner with Booz Allen Hamilton in its Media and Entertainment practice. Mr. Bakish has served as a director of Avid Technology, Inc. since 2009.
+
+Naveen Chopra has been our Executive Vice President, Chief Financial Officer since August 2020. Prior to that, he served as Vice President and Chief Financial Officer of Amazon Devices & Services, beginning in 2019. Prior to joining Amazon Devices & Services, Mr. Chopra served as Chief Financial Officer of Pandora Media from 2017 to 2019 and as its Interim Chief Executive Officer during part of this time, having previously served as Interim Chief Executive Officer of TiVo Inc. in 2016 and as its Chief Financial Officer from 2012 to 2016.
+
+Christa A. D’Alimonte has been our Executive Vice President, General Counsel and Secretary since December 2019. Prior to that, she served as Executive Vice President, General Counsel and Secretary of Viacom beginning in 2017, having previously served as Senior Vice President, Deputy General Counsel and Assistant Secretary beginning in 2012. Prior to joining Viacom, Ms. D’Alimonte was a partner of Shearman & Sterling LLP, where she was Deputy Practice Group Leader of the Firm’s Global Mergers & Acquisitions group. She first joined Shearman & Sterling in 1993 and became a partner in 2001.
+
+Katherine Gill-Charest has been our Executive Vice President, Controller and Chief Accounting Officer since December 2019. Prior to that, she served as Senior Vice President, Controller and Chief Accounting Officer of Viacom beginning in 2010, having previously served as Senior Vice President, Deputy Controller of Viacom during 2010 and Vice President, Deputy Controller beginning in 2007. Prior to that, Ms. Gill-Charest was the Chief Accounting Officer of WPP Group from 2001 to 2007 and was the Vice President and Worldwide Controller of Young & Rubicam Inc. from 1998 to 2000. Ms. Gill-Charest also held roles in financial reporting and accounting policy at Time Warner Inc. from 1991 to 1998 and at NYNEX Corporation from 1988 to 1991 and served in the audit practice of Price Waterhouse for two years.
+
+Richard M. Jones has been our Executive Vice President, General Tax Counsel and Chief Veteran Officer since August 2014. Prior to that, he served as Senior Vice President and General Tax Counsel of CBS Corporation beginning in 2006 and of Former Viacom beginning in 2005. Prior to that, he served as Vice President of Tax, Assistant Treasurer and Tax Counsel for NBC Universal, Inc. beginning in 2003 and he served 13 years with Ernst & Young in its media & entertainment and transaction advisory services practices. Mr. Jones served honorably as a non-commissioned officer in the U.S. Army’s 75th Ranger Regiment and 10th Mountain Division.
+
+I-18
+                                                
+
+Doretha (DeDe) Lea has been our Executive Vice President, Global Public Policy and Government Relations since December 2019. Prior to that, she served as Executive Vice President, Global Government Affairs of Viacom beginning in 2013, having previously served as Executive Vice President, Government Relations beginning in 2005. Prior to that, Ms. Lea served in various government relations positions at Former Viacom beginning in 1997, with the exception of 2004 to 2005, when she served as Vice President of Government Affairs at Belo Corp. Prior to joining Former Viacom, she was Senior Vice President of Government Relations at the National Association of Broadcasters.
+
+Julia Phelps has been our Executive Vice President, Chief Communications and Corporate Marketing Officer since December 2019. Prior to that, she served as Executive Vice President, Communications, Culture and Marketing of Viacom beginning in 2017, having previously served as Senior Vice President, Communications and Culture of Viacom beginning earlier in 2017. Prior to that, she served as Executive Vice President of Communications for Viacom International Media Networks beginning in 2012, after having served as Vice President of Corporate Communications for Viacom. Ms. Phelps joined Former Viacom in 2005 from DeVries Public Relations, a New York-based communications agency.
+
+Nancy Phillips has been our Executive Vice President, Chief People Officer since December 2019. Prior to that, she served as Executive Vice President and Chief Human Resources Officer of Nielsen Holdings PLC beginning in 2017, having served as Executive Vice President and Chief Human Resources Officer of Broadcom Corporation from 2014 to 2016. From 2010 to 2014, Ms. Phillips was Senior Vice President, Human Resources for the Imaging and Printing Group at Hewlett-Packard Company, and previously served as Senior Vice President, Human Resources, Enterprise Services. From 2008 to 2010, Ms. Phillips served as Executive Vice President and Chief Human Resources Officer at Fifth Third Bancorp. Prior to that, Ms. Phillips spent 11 years at General Electric Company, holding various human resources positions. Ms. Phillips practiced law from 1993 to 1997.
+
+AVAILABLE INFORMATION
+
+We file annual, quarterly and current reports, proxy and information statements and other information with the SEC. Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and any amendments to such reports filed with or furnished to the SEC pursuant to the Securities Exchange Act of 1934, as amended, will be available free of charge on our website at www.ViacomCBS.com (under “Investors”) as soon as reasonably practicable after the reports are filed with the SEC. These documents are also available on the SEC’s website at www.sec.gov.
+
+CAUTIONARY NOTE CONCERNING FORWARD-LOOKING STATEMENTS
+
+This Annual Report on Form 10-K contains both historical and forward-looking statements. All statements that are not statements of historical fact are, or may be deemed to be, forward-looking statements within the Private Securities Litigation Reform Act of 1995. Forward-looking statements reflect our current expectations concerning future results, objectives, plans and goals, and involve known and unknown risks, uncertainties and other factors that are difficult to predict, and which may cause our actual results, performance or achievements to be different from any future results, performance or achievements expressed or implied by these statements. These risks, uncertainties and other factors are discussed in “Item 1A. Risk Factors” below. Other risks, or updates to the risks discussed below, may be described in our news releases and filings with the SEC, including but not limited to our reports on Form 10-Q and Form 8-K. The forward-looking statements included in this Annual Report on Form 10‑K are made only as of the date of this document, and we do not undertake any obligation to publicly update any forward-looking statements to reflect subsequent events or circumstances.

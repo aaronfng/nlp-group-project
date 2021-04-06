@@ -1,0 +1,211 @@
+PART I
+ 
+ITEM 1.     BUSINESS
+
+All currency amounts are in millions unless specified
+
+Our Business
+
+Roper Technologies, Inc. (“Roper,” the “Company,” “we,” “our” or “us”) is a diversified technology company. We operate businesses that design and develop software (both license and Software-as-a-Service (“SaaS”)) and engineered products and solutions for a variety of niche end markets.
+
+We pursue consistent and sustainable growth in earnings and cash flow by emphasizing continuous improvement in the operating performance of our existing businesses and by acquiring other businesses that offer high value-added software, services, engineered products and solutions that we believe are capable of achieving growth and maintaining high margins. We compete in many niche markets and believe we are the market leader or a competitive alternative to the market leader in most of these markets. In 2020, we deployed $6 billion of capital toward acquisitions, including approximately $5.4 billion for the acquisition of Vertafore, Inc., a leading provider of SaaS solutions for the property and casualty insurance industry.
+
+We were incorporated on December 17, 1981 under the laws of the State of Delaware.
+
+Market Share, Market Expansion, and Product Development
+
+Leadership with Engineered Content for Niche Markets - We maintain a leading position in many of our markets. We believe our market positions are attributable to the technical sophistication of our products and software, the applications expertise used to create our advanced products and systems, and our distribution and service capabilities. Our businesses realize growth from new and existing customers in their niche markets through successfully executing go-to-market strategies, developing new products and applications, and delivering professional services.
+
+Diversified End Markets and Geographic Reach - We have a global presence, with sales to customers outside the U.S. totaling $1,304.6 in 2020. Information regarding our international operations is set forth in Note 13 of the Notes to Consolidated Financial Statements included in this Annual Report.
+
+Our Reportable Segments
+
+Our operations are reported in four segments based upon business models and capital deployment strategy and objectives. The segments are: Application Software, Network Software & Systems, Measurement & Analytical Solutions and Process Technologies. Financial information about our reportable segments is presented in Note 13 of the Notes to Consolidated Financial Statements included in this Annual Report.
+
+Application Software
+
+Our Application Software segment had net revenues of $1,799.9 for the year ended December 31, 2020, representing 32.6% of our total net revenues. Below is a description of the products offered by business that comprise the Application Software segment.
+
+Aderant - provides comprehensive management software solutions for law and other professional services firms, including business development, calendar/docket matter management, time and billing and case management.
+
+CBORD - provides campus solutions software including access and cashless systems and food and nutrition service management serving primarily higher education and healthcare markets.
+
+CliniSys - provides laboratory information management software solutions.
+
+Data Innovations - provides software solutions that enable enterprise management of hospitals and independent laboratories.
+
+Deltek - provides enterprise software and information solutions for government contractors, professional services firms and other project-based businesses.
+
+4
+
+Horizon - provides software, services, and technologies for foodservice operations–specializing in K-12.
+
+IntelliTrans - provides transportation management software and services to bulk and break-bulk commodity producers.
+
+PowerPlan - provides financial and compliance management software and solutions to large complex companies in asset-intensive industries.
+
+Strata - provides cloud-based financial analytics and performance management software that is used by healthcare providers for financial planning, decision support and continuous cost improvement.
+
+Sunquest - provides diagnostic and laboratory information systems to health care providers worldwide.
+
+Vertafore - provides cloud-based software to the property and casualty insurance industry, including agency management, compliance, workflow, and data solutions.
+
+Network Software & Systems
+
+Our Network Software & Systems segment had net revenues of $1,738.6 for the year ended December 31, 2020, representing 31.4% of our total net revenues. Below is a description of the products offered by business that comprise the Network Software & Systems segment.
+
+ConstructConnect - provides cloud-based data, collaboration and estimating automation software solutions to a network of pre-construction contractors.
+
+DAT - provides electronic marketplaces that connect available capacity of trucking units with the available loads of freight throughout North America.
+
+Foundry - provides software technologies used to deliver visual effects and 3D content for the entertainment and digital design industries.
+
+Inovonics - provides high performance wireless sensor network and solutions for a variety of applications.
+
+iPipeline - provides cloud-based software solutions for the life insurance and financial services industries.
+
+iTradeNetwork - provides electronic marketplaces and supply chain software that connect food suppliers, distributors and vendors, primarily in the perishable food sector.
+
+Link Logistics - provides electronic marketplaces that connect available capacity of trucking units with the available loads of freight throughout Canada.
+
+MHA - provides health care service and software solutions to alternate site health care markets.
+
+RF IDeas - provides RFID card readers used in numerous identity access management applications across a variety of vertical markets.
+
+SHP - provides data analytics and benchmarking information for the post-acute healthcare provider marketplace.
+
+SoftWriters - provides software solutions to pharmacies that primarily serve the long term care marketplace.
+
+TransCore - provides toll systems and toll products, transaction and violation processing services, and intelligent traffic systems to governmental and private sector entities.
+ 
+Measurement & Analytical Solutions
+
+Our Measurement & Analytical Solutions segment had net revenues of $1,469.9 for the year ended December 31, 2020, representing 26.6% of our total net revenues. Below is a description of the products offered by business that comprise the Measurement & Analytical Solutions segment.
+
+Alpha - provides precision rubber and polymer testing instruments, and data analysis software.
+5
+
+CIVCO Medical Solutions - provides accessories focused on guidance and infection control for ultrasound procedures.
+
+CIVCO Radiotherapy - provides radiotherapy solutions, including patient positioning and immobilization devices, and patient care products.
+
+Dynisco - provides solutions for testing and analyzing plastics used in a variety of end markets.
+
+FMI - provides dispensers and metering pumps which are utilized in a broad range of applications requiring precision fluid control.
+
+Hansen - provides control valves for large industrial refrigeration systems.
+
+Hardy - provides precision weighing equipment for process and packaging for a variety of industries including food processing, automated manufacturing, chemical, plastics, and rubber.
+
+IPA - provides automated surgical scrub and linen dispensing equipment for healthcare providers.
+
+Logitech - provides equipment and consumables used for sample preparation and material analysis used primarily in the semiconductor and geological science industries.
+
+Neptune - provides water meters, enabling water utilities to remotely monitor their customers utilizing Automatic Meter Reading (AMR) and Advanced Metering Infrastructure (AMI) technologies.
+
+Northern Digital - provides optical and electromagnetic precision measurement systems for medical and industrial applications.
+
+Struers - provides equipment and consumables for sample preparation and testing of solid materials used across a variety of end markets.
+
+Technolog - provides products and services to water and gas utilities, used for network monitoring, pressure control, and remote meter reading.
+
+Uson - provides automated leak detection equipment for a variety of end markets, including automotive, medical device, pharmaceutical, and general industrial.
+
+Verathon - provides medical devices that enable airway management and bladder volume measurement solutions for healthcare providers.
+
+Process Technologies
+
+Our Process Technologies segment had net revenues of $518.7 for the year ended December 31, 2020, representing 9.4% of our total net revenues. Below is a description of the products offered by business that comprise the Process Technologies segment.
+
+AMOT - provides temperature control and emergency shutoff valves used by customers in the energy and general industrial end markets.
+
+CCC - provides turbomachinery control hardware, software, and services for customers across the upstream, midstream, and downstream energy markets.
+
+Cornell - provides specialized pumps used across a variety of end markets, including agriculture, energy, food processing, mining, waste water processing, and general industrial.
+
+FTI - provides flow meter calibrators, and controllers used primarily in the aerospace, automotive, energy, and general industrial end markets.
+
+Metrix - provides vibration monitoring systems and controls across a variety of end markets.
+
+PAC - provides analytical instruments used by energy refineries and laboratories.
+
+6
+
+Roper Pump - provides specialty pumps and drilling power sections used by customers in the energy, general industrial, and transportation end markets.
+
+Viatran - provides pressure and level sensors for energy and general industrial end markets.
+
+Zetec - provides non-destructive testing equipment and solutions used primarily in the power generation and other industrial end markets.
+
+Materials and Suppliers
+
+We believe most materials and supplies we use are readily available from numerous sources and suppliers throughout the world. However, some components and sub-assemblies are currently available from only a limited number of suppliers. We regularly investigate and identify alternative sources where possible, and we believe these conditions equally affect our competitors. Supply shortages have not had a material adverse effect on our revenues although delays in shipments have occurred following such supply interruptions.
+ 
+Remaining Performance Obligations and Backlog
+
+Remaining performance obligations represents the transaction price of firm orders for which work has not been performed and excludes unexercised contract options. As of December 31, 2020 and December 31, 2019, the aggregate amount of the transaction price allocated to remaining performance obligations was $4,298.0 and $3,553.5, respectively.
+
+Backlog is equal to our remaining performance obligations expected to be recognized as revenue within the next 12 months. Backlog was $2,516.1 at December 31, 2020, and $1,985.4 at December 31, 2019.
+
+Distribution and Sales
+
+Distribution and sales occur primarily through direct sales offices, manufacturers’ representatives, resellers and distributors. 
+
+Governmental Regulations
+
+We face extensive government regulation both within and outside the United States relating to the development, manufacture, marketing, sale and distribution of our products, software, and services. The following sections describe certain significant regulations to which we are subject, but these are not the only regulations to which our businesses must comply. For a description of the risks related to the regulations that our businesses are subject to, please refer to “Item 1A. Risk Factors.”
+Privacy and Data Security
+
+We are subject to the privacy and data security laws of the United States and internationally. A number of states in the United States have passed or introduced bills, which, if passed, impose operational requirements on U.S. companies similar to the requirements reflected in the General Data Protection Regulation (“GDPR”) in the European Union ("EU"). For example, the California Consumer Privacy Act of 2018 (“CCPA”), which came into effect on January 1, 2020, requires covered companies that process personal information on California residents to make disclosures to consumers about their data collection, use and sharing practices, allows consumers to opt out of certain data sharing with third parties and provides a new private right of action for data breaches. The compliance and other burdens imposed by the EU's GDPR, CCPA and similar privacy laws and regulations may be substantial to our businesses as they are subject to differing interpretations and implementation among jurisdictions.
+
+Healthcare Regulations
+
+The manufacture, sale, lease and service of medical diagnostic and surgical devices intended for commercial use are subject to extensive governmental regulation by the FDA in the U.S. and by a variety of regulatory agencies in other countries for some of our businesses. Under the Federal Food, Drug and Cosmetic Act, known as the FD&C Act, manufacturers of medical products and devices must comply with certain regulations governing the design, testing, manufacturing, packaging, servicing and marketing of medical products. FDA product approvals may be withdrawn or suspended if compliance with regulatory standards is not maintained or if problems occur following initial marketing. We are also subject to a variety of federal, state and foreign laws which broadly relate to our interactions with healthcare practitioners and other participants in the healthcare system, including, among others, anti-kickback law, and laws regulating the confidentiality of sensitive personal information and the circumstances under which such information may be released and/or collected, such as the Health Insurance Portability
+7
+
+and Accountability Act of 1996, or HIPAA, the Health Information Technology for Economic and Clinical Health Act, or HITECH Act, and the GDPR.
+
+Anti-Corruption and Anti-Bribery Laws and Regulations
+
+We are subject to the U.S. Foreign Corrupt Practices Act (FCPA) and anti-corruption laws, and similar laws in foreign countries, such as the UK Anti-Bribery Act. Any violation of these laws by us or our agents or distributors could create substantial liability for us, subject our officers and directors to personal liability, and cause a loss of reputation in the market. Increased business in higher risk countries could subject us and our officers and directors to increased scrutiny and increased liability. In addition, becoming familiar with and implementing the infrastructure necessary to comply with laws, rules and regulations applicable to new business activities and mitigating and protecting against corruption risks could be quite costly.
+
+Export Controls and Trade Policies
+
+We are subject to numerous domestic and foreign regulations relating to our operations worldwide. In particular, our sales activities must comply with restrictions relating to the export of controlled technology and sales to denied or sanctioned parties contained in the U.S. Export Administration Regulations, U.S. International Traffic in Arms Regulations (ITAR), and sanctions administered by the Office of Foreign Asset Controls of the U.S. Treasury Department (OFAC). Our businesses may also be impacted by additional domestic or foreign trade regulations ensuring fair trade practices, including trade restrictions, tariffs and sanctions.
+
+Environmental Regulations
+
+Our operations and properties are subject to laws and regulations relating to environmental protection, including those governing air emissions, water discharges, waste management and workplace safety. We use, generate and dispose of hazardous substances and waste in our operations and could be subject to material liabilities relating to the investigation and clean-up of contaminated properties and related claims. We are required to conform our operations and properties to these laws and adapt to regulatory requirements in all countries as these requirements change. In connection with our acquisitions, we may assume significant environmental liabilities, some of which we may not be aware of, or may not be quantifiable, at the time of acquisition. In addition, new laws and regulations, the discovery of previously unknown contamination or the imposition of new requirements could increase our costs or subject us to new or increased liabilities.
+
+Customers
+
+No customer accounted for 10% or more of net revenues for 2020 for any of our segments or for our Company as a whole.
+
+Competition
+
+Generally, our products and solutions face significant competition, usually from a limited number of competitors. We believe that we are a leader in most of our markets, and no single company competes with us over a significant number of product lines. Competitors might be large or small in size, often depending on the size of the niche market we serve. We compete primarily on product quality, performance, innovation, technology, price, applications expertise, system and service flexibility, distribution channel access and customer service capabilities.
+
+Intellectual Property
+
+In addition to trade secrets, including unpatented know-how and other intellectual property like software source code, we own or license the rights under numerous patents, trademarks, trade dress and copyrights relating to certain of our products and businesses. We also employ various methods, including confidentiality and non-disclosure agreements with individuals and companies we do business with, including employees, distributors, representatives, independent contractors and customers to protect our intellectual property. We believe none of our operating units are substantially dependent on any single item of intellectual property, including a trade secret, patent, trademark, trade dress, or copyright.
+
+Human Capital Management
+
+Roper is a diversified technology company that utilizes a decentralized operating model across our many businesses which serve a diverse set of end markets. Subject to oversight and guidance from Roper executive management, each business operates as an individual unit with its managers empowered to make day to day operating decisions, including decisions with respect to human capital management. As a result, apart from guidance with respect to: (i) compliance with regulatory requirements or corporate policies; and (ii) the implementation of compensation and benefit programs provided by corporate
+8
+
+management, managers at individual businesses are the primary decision makers with respect to human capital management and development. Though our individual businesses are primarily responsible for these decisions, because of the importance of the subject to our enterprise, we provide guidance and share best practices on key aspects of selection, development, engagement and diversity of talent within our workforce.
+
+As of December 31, 2020, we employed approximately 18,400 people worldwide on a consolidated basis, of which approximately 12,200 were employed in the United States and approximately 6,200 were outside of the United States. Management believes that the Company's employee relations are favorable.
+
+A very small portion of the Company’s U.S. employees are unionized. Outside the U.S., we have some employees, particularly in Europe, that are represented by an employee representative organization, such as a union, works council or employee association.
+
+Roper has identified and implemented other human capital priorities, including providing competitive wages and benefits, and promoting a diverse and inclusive work environment. The Company is committed to increasing diversity and fostering an inclusive work environment that supports our large global workforce and helps us innovate for our customers. We continue to focus on building a pipeline for talent to create more opportunities for workplace diversity and to support greater representation within the Company.
+
+In December 2020, we became a founding member of the OneTen Coalition. OneTen is an organization that plans to combine the power of over 30 committed large, public American companies to upskill, hire and promote one million Black Americans over the next 10 years into family-sustaining jobs with opportunities for advancement. Among the coalition’s founding members, Roper is uniquely situated to connect Black Americans with employment opportunities at many of our smaller and growing businesses.
+
+In response to the COVID-19 pandemic and related mitigation measures, in March 2020 we implemented changes in our business in an effort to protect our employees and customers, and to support appropriate health and safety protocols. For example, we implemented cleaning and sanitation processes for both production and office administration spaces and implemented broad work-from-home initiatives. Additionally, employees in our Application Software and Network Software & Solutions businesses, as well as employees in corporate and administrative functions throughout the Company have effectively worked remotely since mid-March 2020, though some employees are gradually returning to offices where such can be done in a safe manner. Employees at our manufacturing and assembly facilities (primarily in our Measurement & Analytical Solutions and Process Solutions businesses) have continued to work throughout the pandemic with only minor disruption.
+
+Available Information
+
+All reports we file electronically with the SEC, including our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and our annual proxy statements, as well as any amendments to those reports, are accessible at no cost on our website at www.ropertech.com as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. These filings are also accessible on the SEC’s website at www.sec.gov. Our Corporate Governance Guidelines; the charters of our Audit Committee, Compensation Committee, and Nominating and Governance Committee; and our Business Code of Ethics and Standards of Conduct are also available on our website. Any amendment to the Business Code of Ethics and Standards of Conduct and any waiver applicable to our directors, executive officers or senior financial officers will be posted on our website within the time period required by the SEC and the New York Stock Exchange (the “NYSE”). The information posted on our website is not incorporated into this Annual Report.

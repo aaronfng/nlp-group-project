@@ -1,0 +1,1102 @@
+PART I
+
+Item 1
+
+ 
+
+RESMED INC. AND SUBSIDIARIES
+
+ 
+
+ 
+
+PART I
+
+ 
+
+Cautionary Note Regarding Forward-Looking Statements 
+
+ 
+
+This report contains or may contain certain forward-looking statements and information that are based on the beliefs of our management as well as estimates and assumptions made by, and information currently available to, our management. All statements other than statements regarding historical facts are forward-looking statements. The words “believe,” “expect,” “intend,” “anticipate,” “will continue,” “will,” “estimate,” “plan,” “future” and other similar expressions, and negative statements of such expressions, generally identify forward-looking statements, including, in particular, statements regarding expectations of future revenue or earnings, expenses, new product development, new product launches, new markets for our products, litigation, and tax outlook.  These forward-looking statements are made in accordance with the safe harbor provisions of the Private Securities Litigation Reform Act of 1995.  You are cautioned not to place undue reliance on these forward-looking statements. Forward-looking statements reflect the views of our management at the time the statements are made and are subject to a number of risks, uncertainties, estimates and assumptions, including, without limitation, and in addition to those identified in the text surrounding such statements, those identified in Item 1A “Risk Factors” and elsewhere in this report.  
+
+ 
+
+In addition, important factors to consider in evaluating such forward-looking statements include changes or developments in healthcare reform, social, economic, market, legal or regulatory circumstances, including the impact of public health crises such as the novel strain of coronavirus (COVID-19) that has spread globally; changes in our business or growth strategy or an inability to execute our strategy due to changes in our industry or the economy generally, the emergence of new or growing competitors, the actions or omissions of third parties, including suppliers, customers, competitors and governmental authorities, and various other factors. If any one or more of these risks or uncertainties materialize, or underlying estimates or assumptions prove incorrect, actual results may vary significantly from those expressed in our forward-looking statements, and there can be no assurance that the forward-looking statements contained in this report will in fact occur.
+
+ 
+
+ITEM 1  BUSINESS
+
+ 
+
+General
+
+ 
+
+We are a global leader in digital health and cloud-connected medical devices. We design innovative solutions to treat and keep people out of the hospital, empowering them to live healthier, higher-quality lives. Our digital health technologies and cloud-connected medical devices transform care for people with sleep apnea, chronic obstructive pulmonary disease, or COPD, and other chronic diseases. Our comprehensive out-of-hospital software platforms support the professionals and caregivers who help people stay healthy in the home or care setting of their choice. By enabling better care, our products improve quality of life, reduce the impact of chronic disease, and lower costs for consumers and healthcare systems.
+
+ 
+
+Following our formation in 1989, we commercialized a treatment for obstructive sleep apnea, or OSA. This treatment, nasal continuous positive airway pressure, or CPAP, was the first successful noninvasive treatment for OSA. CPAP systems deliver pressurized air, typically through a nasal mask, to prevent collapse of the upper airway during sleep.
+
+ 
+
+Since the development of CPAP, we have expanded our business by developing or acquiring a number of innovative products and solutions for a broad range of respiratory disorders including technologies to be applied in medical and consumer products, ventilation devices, diagnostic products, mask systems for use in the hospital and home, headgear and other accessories, dental devices, portable oxygen concentrators, or POCs, and cloud-based software informatics solutions to manage patient outcomes and customer and provider business processes. Today, we offer a comprehensive digital solution suite for patients with COPD, including those using inhalers or supplemental oxygen as well as non-invasive or invasive ventilation. We also provide management software to agencies providing out-of-hospital care, including home medical equipment, or HME, home health and hospice, skilled nursing, life plan community and senior living, and private duty services. Our growth has been fueled by geographic expansion, our research and product development efforts, acquisitions and an increasing awareness of sleep apnea and respiratory conditions like COPD as significant health concerns. We are also a leading provider of cloud-based software health applications and devices designed to provide connected care, improving patient outcomes and efficiencies for healthcare providers. These tools are designed to enable clinicians to manage more patients efficiently and effectively, as well as enable and encourage patients’ long-term adherence to and satisfaction with their therapy.
+
+ 
+
+We employ approximately 7,800 people and sell our products in approximately 140 countries through a combination of wholly owned subsidiaries and independent distributors.
+
+ 
+
+ 
+
+-1-
+
+Table of Contents
+ 
+
+PART I
+
+Item 1
+
+ 
+
+RESMED INC. AND SUBSIDIARIES
+
+ 
+
+ 
+
+Our web site address is www.resmed.com. Information contained on our website is not part of or incorporated into this report. We make our periodic reports, together with any amendments, available on our website, free of charge, as soon as reasonably practicable after we electronically file or furnish the reports with the Securities and Exchange Commission, or SEC. The SEC maintains an internet site, www.sec.gov, which contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. 
+
+ 
+
+Corporate History
+
+ 
+
+ResMed Inc., a Delaware corporation, was formed in March 1994 as the ultimate holding company for our operating subsidiaries. In June 1995, we completed an initial public offering of common stock and our common stock began trading on the NASDAQ National Market. In September 1999, we transferred our principal listing to the New York Stock Exchange, or NYSE, trading under the ticker symbol “RMD”. In November 1999, we established a secondary listing of our common stock via Chess Depositary Instruments, or CDIs, on the Australian Stock Exchange (now known as the Australian Securities Exchange), or ASX, also under the symbol “RMD”. Ten CDIs on the ASX represent one share of our common stock on the NYSE. 
+
+ 
+
+Our Australian subsidiary, ResMed Holdings Limited, was originally organized in 1989 by Dr. Peter Farrell to acquire from Baxter Center for Medical Research Pty Limited, or Baxter, the rights to certain technology relating to CPAP treatment as well as Baxter’s existing CPAP device business. Baxter acquired the rights to the technology in 1987, and sold CPAP devices in Australia from 1988 until our acquisition of the business.
+
+ 
+
+Since formation we have acquired a number of businesses, including distributors, suppliers, developers of medical equipment and related technologies and software solution providers.
+
+ 
+
+Segment Information 
+
+ 
+
+We operate in two segments, which are the Sleep and Respiratory Care segment and the software as a service, or SaaS, segment.  See Note 15 – Segment Information of the Notes to Financial Statements (Part II, Item 8) for financial information regarding segment reporting.  Financial information about our revenues from and assets located in foreign countries is also included in the notes to our consolidated financial statements.
+
+ 
+
+The Market
+
+ 
+
+We are focused on the sleep and related respiratory care markets, both of which we believe are globally underpenetrated markets, and where we believe our products can improve patient outcomes, create efficiencies for our customers, help physicians and providers better manage chronic disease and reduce overall healthcare system costs. Additionally, our software solutions are focused on the out-of-hospital care market, which we believe is fragmented and underserved and where we see significant opportunity to transform and significantly improve out-of-hospital healthcare through a strategy of enabling better patient care, improving clinical decision support, and driving interoperability across out-of-hospital care settings.
+
+ 
+
+Sleep and Respiratory Care
+
+ 
+
+Sleep
+
+ 
+
+Sleep is a complex neurological process that includes two distinct states: rapid eye movement, or REM, sleep and non-rapid eye movement, or non-REM, sleep. REM sleep, which is about 20-25% of total sleep experienced by adults, is characterized by a high level of brain activity, bursts of rapid eye movement, increased heart and respiration rates, and paralysis of many muscles. Non-REM sleep is subdivided into four stages that generally parallel sleep depth; stage 1 is the lightest and stage 4 is the deepest.
+
+ 
+
+The upper airway has no rigid support and is held open by active contraction of upper airway muscles. Normally, during REM sleep and deeper levels of non-REM sleep, upper airway muscles relax and the airway narrows. Individuals with narrow upper airways or poor muscle tone are prone to temporary collapses of the upper airway during sleep, called apneas, and to near closures of the upper airway called hypopneas. These breathing events result in a lowering of blood oxygen concentration, causing the central nervous system to react to the lack of oxygen or increased carbon dioxide and signaling the body to respond. Typically, the individual subconsciously arouses from sleep, causing the throat muscles to contract, opening the airway. After a few gasping breaths, blood oxygen levels increase and the individual can resume a deeper sleep until the cycle repeats itself. Sufferers of OSA typically experience ten or more such cycles per hour. While these awakenings greatly impair the quality of sleep, the individual is not normally aware of these disruptions. In addition, OSA has been recognized as a cause of hypertension and a significant comorbidity for heart disease, stroke and diabetes.
+
+ 
+
+ 
+
+-2-
+
+Table of Contents
+ 
+
+PART I
+
+Item 1
+
+ 
+
+RESMED INC. AND SUBSIDIARIES
+
+ 
+
+ 
+
+A long-term epidemiology study published in 2013 estimated that 26% of adults age 30-70 have some form of obstructive sleep apnea. Another study published in 2019 estimated that mild to severe OSA impacts more than 936 million people worldwide, including 54 million Americans. Of those impacted, it was estimated that more than 424 million would have moderate to severe sleep apnea. Despite the high prevalence of OSA, there is a general lack of awareness of OSA among both the medical community and the general public. It is estimated that less than 20% of those with OSA have been diagnosed or treated. Many healthcare professionals are often unable to diagnose OSA because they are unaware that such non-specific symptoms as excessive daytime sleepiness, snoring, hypertension and irritability are characteristic of OSA.
+
+ 
+
+While sleep apnea has been diagnosed in a broad cross-section of the population, until recently, it has typically been diagnosed among middle-aged men who are obese. However, we believe the importance of sleep apnea in women is increasingly being recognized, with nearly 40% of new PAP patients being female. A strong association has been discovered between sleep apnea and a number of cardiovascular and metabolic diseases. Studies have shown that sleep apnea is present in approximately 83% of patients with drug-resistant hypertension, approximately 77% of patients with obesity, approximately 76% of patients with chronic heart failure and approximately 72% of patients with type 2 diabetes. 
+
+ 
+
+Sleep-Disordered Breathing and Obstructive Sleep Apnea.    Sleep-disordered breathing encompasses all disease processes that cause abnormal breathing patterns during sleep. Manifestations include OSA, central sleep apnea, or CSA, and hypoventilation syndromes that occur during sleep. Hypoventilation syndromes are generally associated with obesity, chronic obstructive lung disease and neuromuscular disease. OSA is the most common form of SDB.
+
+ 
+
+Sleep fragmentation and the loss of the deeper levels of sleep caused by OSA can lead to excessive daytime sleepiness, reduced cognitive function, including memory loss and lack of concentration, depression and irritability. OSA sufferers also experience an increase in heart rate and an elevation of blood pressure during the cycle of apneas. Several studies indicate that the oxygen desaturation, increased heart rate and elevated blood pressure caused by OSA may be associated with increased risk of cardiovascular morbidity and mortality due to angina, stroke and heart attack. Patients with OSA have been shown to have impaired daytime performance in a variety of cognitive functions including problem solving, response speed and visual motor coordination, and studies have linked OSA to increased occurrences of traffic and workplace accidents.
+
+ 
+
+Generally, an individual seeking treatment for the symptoms of OSA is referred by a general practitioner to a sleep specialist for further evaluation. The diagnosis of OSA typically requires monitoring the patient during sleep at either a sleep clinic or the patient’s home. During overnight testing, respiratory parameters and sleep patterns may be monitored, along with other vital signs such as heart rate and blood oxygen levels. Simpler tests, using devices such as our ApneaLink Air, or our automatic positive airway pressure devices, monitor airflow during sleep, and use computer programs to analyze airflow patterns. These tests allow sleep clinicians to detect any sleep disturbances such as apneas, hypopneas or subconscious awakenings. 
+
+ 
+
+Before 1981, the primary treatment for OSA was a tracheotomy, a surgical procedure to create a hole in the patient’s windpipe. Alternative surgical treatments have involved either uvulopalatopharyngoplasty, or UPPP, in which surgery is performed on the upper airway to remove excess tissue and to streamline the shape of the airway or implanting a device to add support to the soft palate. UPPP alone has a poor success rate; however, when performed in conjunction with multi-stage upper airway surgical procedures, a greater success rate has been claimed. These combined procedures, performed by highly specialized surgeons, are expensive and involve prolonged and often painful recovery periods.  Surgical treatments are not considered first line therapy for OSA.  Other alternative treatments available today include nasal surgery, mandibular advancement surgery, dental appliances, palatal implants, somnoplasty, nasal devices and electrical stimulation of the nerves or muscles.  Alternative pharmaceutical therapy treatments are reported to be under development.
+
+ 
+
+A variety of devices are marketed for the treatment of OSA. Most are only partially effective, but CPAP is a reliable treatment for all severities of OSA and is considered first-line therapy. Use of mandibular advancement devices is increasing as a second-line option in patients unable to use CPAP or those with mild OSA. These devices cause the mandible and tongue to be pulled forward and improve the dimensions of the upper airway. CPAP is a non-invasive means of treating OSA. CPAP was first used as a treatment for OSA in 1980 by Dr. Colin Sullivan, the past Chairman of our Medical Advisory Board and was commercialized for treatment of OSA in the United States in the mid-1980s. During CPAP treatment, a patient sleeps with a nasal interface connected to a small portable air device that delivers room air at a positive pressure. The patient breathes in air from the device and breathes out through an exhaust port in the interface. Continuous air pressure applied in this manner acts as a pneumatic splint to keep the upper airway open and unobstructed. Interfaces include nasal masks and nasal pillows. Sometimes, when a patient leaks air through their mouth, a full-face mask may need to be used, rather than a nasal interface.
+
+ 
+
+ 
+
+-3-
+
+Table of Contents
+ 
+
+PART I
+
+Item 1
+
+ 
+
+RESMED INC. AND SUBSIDIARIES
+
+ 
+
+ 
+
+CPAP is not a cure and, therefore, must be used on a nightly basis as long as treatment is required. Patient compliance has been a major factor in the efficacy of CPAP treatment. Early generations of CPAP units provided limited patient comfort and convenience. Patients experienced soreness from the repeated use of nasal masks and had difficulty falling asleep with the CPAP device operating at the prescribed pressure. In more recent years, product innovations to improve patient comfort and compliance have been developed. These include more comfortable patient interface systems; delay timers that gradually raise air pressure allowing the patient to fall asleep more easily; bilevel air devices, including our AirCurve 10 Series and Lumis devices, which provide different air pressures for inhalation and exhalation; heated humidification systems to make the airflow more comfortable; and autotitration devices that modulate the average pressure delivered during the night.
+
+ 
+
+Respiratory Care
+
+ 
+
+Our aim is to provide respiratory care solutions to patients with COPD, asthma, and other chronic respiratory diseases, such as overlap syndrome, obesity hypoventilation syndrome, or OHS, and neuromuscular disease, including amyotrophic lateral sclerosis, or ALS.  We aim to improve their quality of life, slow down disease progression and reduce the costs of patient management.
+
+ 
+
+Our products cover patients ranging from those who only require therapy from CPAP systems at night, to those who are dependent on non-invasive or invasive ventilation for life-support and those who require portable oxygen concentrators, or POCs. Our devices are predominantly used in the home and, to a lesser extent, in general hospital wards and respiratory wards. We supply CPAP and bilevel device systems, non-invasive and invasive ventilators, humidifiers and accessories, including masks and tubing. We also offer stationary and portable battery-powered oxygen concentrators for the administration of long-term oxygen therapy in the home as well as data management systems designed to improve the management of patients.
+
+ 
+
+In March 2020, the World Health Organization declared the outbreak of a novel strain of coronavirus, or COVID-19, as a pandemic. We have observed increased demand for our ventilator devices and masks, and we are working with governments, health authorities, hospitals, physicians, and patients worldwide to assess their needs, and to deliver the ventilation therapy that is essential to treat the respiratory complications of COVID-19. Our primary focus is to maximize the availability of ResMed ventilators and other respiratory support devices for the patients that need them most.
+
+ 
+
+Chronic Obstructive Pulmonary Disease.    COPD encompasses a group of lung diseases defined by persistent airflow limitation, prolongation of exhalation and loss of elasticity in the lungs. It is a progressive and debilitating disease and is associated with an increased inflammatory response in the airways. Symptoms encountered with COPD include shortness of breath as well as chronic cough and increased sputum production. COPD includes diseases such as emphysema and chronic bronchitis. A recent study based on recent epidemiology data estimates that there are over 380 million people worldwide who suffer from COPD, the world’s third leading cause of death.
+
+ 
+
+Patients with COPD can have different clinical presentations. Patients with chronic bronchitis present with low level of oxygen (hypoxemia) and elevated levels of carbon dioxide (hypercapnia), a chronic productive cough, cor pulmonale and are commonly overweight. Patients with emphysema have more normal blood gases, are usually thin and hyperinflated and have a decreased diffusion capacity. During sleep, chronic bronchitic patients display more severe hypoxemia. In general, the more hypoxic a COPD patient is during the day the more severe the hypoxemia experienced during sleep. Hypercapnia as a consequence of hypoventilation also occurs in COPD patients and is more pronounced in REM sleep. Some COPD patients may also suffer from comorbid OSA, a condition known as Overlap Syndrome.
+
+ 
+
+Home non-invasive ventilation has the potential to reduce healthcare costs associated with the management of patients with severe COPD by significantly increasing the time between hospital readmissions.
+
+ 
+
+Overlap Syndrome.    In patients with Overlap Syndrome, CPAP has been shown to provide benefits in relation to reducing mortality, decreasing hospitalizations and improving lung function and gas exchange. Non-invasive ventilation, or NIV, has been demonstrated to improve outcomes in patients with acute exacerbations of COPD through its ability to improve respiratory acidosis and decrease dyspnea and work of breathing. It may also increase survival rates and reduce length of hospital stays, as well as reducing complicating factors such as ventilator-associated pneumonia. In patients with stable COPD, the advantages of home NIV are less clear, but clinical studies have shown improvements in dyspnea scores and health-related quality-of-life measures and reductions in hospital readmissions and intensive care stays.
+
+ 
+
+ 
+
+-4-
+
+Table of Contents
+ 
+
+PART I
+
+Item 1
+
+ 
+
+RESMED INC. AND SUBSIDIARIES
+
+ 
+
+ 
+
+Long-term oxygen therapy, or LTOT, is indicated in chronic respiratory failure patients. The administration of LTOT has been shown to increase survival rates in patients with severe resting hypoxemia. In hypoxemic COPD patients, LTOT is associated with a lower mortality compared to nocturnal oxygen therapy alone and also associated with improved health-related quality of life measures. In long-term COPD survivors with a history of congestive heart failure, LTOT is associated with a slowing of respiratory failure progression.
+
+ 
+
+Obesity Hypoventilation Syndrome.    OHS is characterized by the combination of obesity, chronic alveolar hypoventilation leading to daytime hypercapnia and hypoxia and sleep apnea after the exclusion of other causes of alveolar hypoventilation. An estimated 90% of patients with OHS also have OSA. In patients with OHS, positive airway therapy, both CPAP and NIV, has been shown to effectively treat upper airway obstruction and reverse daytime respiratory failure as well as reduce the work of breathing and improve respiratory drive. 
+
+ 
+
+Neuromuscular Disease.    Neuromuscular disease is a broad term that encompasses many diseases that either directly (via intrinsic muscle pathology) or indirectly (via nerve pathology) impair the functioning of muscles. Symptoms of neuromuscular disease and respiratory failure include increasing generalized weakness and fatigue, dysphagia, dyspnoea on exertion and at rest, sleepiness, morning headache, difficulties with concentration and mood changes. Most neuromuscular diseases are characterized by progressive muscular impairment leading to loss of ambulation, being wheelchair-bound, swallowing difficulties, respiratory muscle weakness and, eventually, death from respiratory failure. Neuromuscular disorders can progress rapidly or slowly.  Rapidly progressive conditions, such as ALS and Duchenne muscular dystrophy in teenagers, are characterized by muscle impairment which worsens over months and can result in death within a few years. Variable or slowly progressive conditions, such as myotonic muscular dystrophy, are characterized by muscle impairment that worsens over years and may mildly reduce life expectancy. 
+
+ 
+
+NIV treatment to patients with neuromuscular disease may lead to improvements in respiratory failure symptoms and daytime arterial blood gases. In ALS patients, NIV treatment has been associated with an improvement in quality of life measures, sleep-related symptoms and survival. Studies have demonstrated that patients with Duchenne muscular dystrophy may improve in quality of life measures and may increase chance of survival with NIV treatment.
+
+ 
+
+Software as a Service
+
+ 
+
+Due to multiple acquisitions, including Brightree in April 2016, HEALTHCAREfirst in July 2018 and MatrixCare in November 2018, our operations now include platforms that comprise our SaaS business. Our SaaS strategy is to develop a portfolio that assists durable medical equipment, or DME, HME, and other long-term care providers operate more effectively and efficiently across various out-of-hospital care settings. Our SaaS portfolio provides services across the HME, home health and hospice, skilled nursing, life plan community and senior living, and private duty services. Our offerings can help providers perform analytics, manage documentation and implement new reimbursement requirements as well as more effectively transfer data as patients move between different care settings. 
+
+ 
+
+Business Strategy
+
+ 
+
+We believe that the sleep apnea and respiratory care markets will continue to grow in the future due to a number of factors, including increasing awareness of OSA, CSA and COPD, improved understanding of the role of sleep apnea treatment in the management of cardiac, neurologic, metabolic and related disorders, improved understanding of the role of non-invasive ventilation in the management of COPD, and an increase in the use of digital and product technology to improve patient outcomes and create efficiencies for customers and providers. Additionally, the continued impact of COVID-19 or a resurgence of COVID-19 may create more demand for our ventilator products. Our strategy for expanding our business operations and capitalizing on the growth of the sleep apnea and respiratory care markets, as well as growth in out-of-hospital care settings, consists of the following key elements:
+
+Continue Product Development and Innovation in Sleep Apnea Products.    We are committed to ongoing innovation in developing products for the diagnosis and treatment of sleep apnea. We have been a leading innovator of products designed to treat sleep apnea more effectively, increase patient comfort and encourage compliance with prescribed therapy. In recent years we have introduced a full suite of masks in our AirTouch and AirFit ranges, advanced and expanded the integrations of our therapy-based software solutions, including AirView, to promote greater patient adherence and during the COVID-19 pandemic, we released ResMed MaskSelector in the United States, an easy-to-use digital tool to make mask selection and sizing easier and more effective, both remotely and during in-person clinical setups. We believe that the combination of continued product development, product and technology acquisitions and innovation are key factors to our ongoing success. Our recent acquisitions have included a portfolio of sleep apnea products through our acquisition of Curative Medical. Approximately 16% of our employees are devoted to research and development activities. 
+
+ 
+
+ 
+
+ 
+
+-5-
+
+Table of Contents
+ 
+
+PART I
+
+Item 1
+
+ 
+
+RESMED INC. AND SUBSIDIARIES
+
+ 
+
+ 
+
+ 
+
+Continue Product Development and Innovation in Respiratory Care Products.    We are committed to ongoing innovation of our respiratory care products that serve the needs of patients with COPD and neuromuscular diseases.  With the addition of Inova Labs POCs and our non-invasive ventilator devices with masks and accessories, we intend to continue to expand and enhance our product offerings in this area. In recent years, we launched Mobi, which is our first ResMed-branded portable oxygen concentrator as well as advanced and expanded the integrations of our therapy-based software solutions including AirView for Respiratory Care, enabling clinicians to remotely monitor patients on some ventilation devices and bilevel devices. Additionally, we acquired a digital health platform for inhalers through our acquisition of Propeller Health in 2019, rounding out our portfolio to treat COPD patients through their therapy journey across different stages of their disease.
+
+Expand SaaS Solutions in Out-of-Hospital Care Settings.    Our vision is to transform and significantly improve out-of-hospital (OOH) healthcare through a strategy of enabling better patient care, improving clinical decision support, and driving interoperability across out-of-hospital healthcare settings. Since acquiring Brightree in 2016, plus MatrixCare and HEALTHCAREfirst in 2018, we offer software solutions across multiple out-of-hospital healthcare settings including HME, home health and hospice, skilled nursing, life plan communities, senior living and private duty. We are connecting capabilities across the platforms in these out-of-hospital care settings to help our customers be more efficient, better serve people, keep them out-of-hospital, and in lower-cost, higher-quality care settings. Today, our SaaS solutions serve OOH customers combining over 90 million individual accounts.
+
+Expand Geographic Presence.    We market our products in more than 140 countries to sleep clinics, home healthcare dealers, patients and third-party payors. We intend to increase our sales and marketing efforts in our principal markets, as well as expand the depth of our presence in other high-growth geographic regions. In 2016, we acquired Curative Medical to invest in the China market and expand our growth potential in sleep apnea, COPD and respiratory care in China. In 2019, we acquired HB Healthcare, a privately owned HME that serves both reimbursed and cash-pay customers of sleep and respiratory care devices in South Korea.
+
+Increase Public and Clinical Awareness.    We continue to expand our existing promotional activities to increase awareness of sleep apnea, COPD and other clinical conditions that can be treated with our industry-leading solutions. These promotional activities target both the population predisposed to sleep apnea and medical specialists, such as pulmonologists, sleep medicine specialists, primary care physicians, cardiologists, neurologists and other medical subspecialists who treat these conditions and their associated comorbidities. We target special interest groups, including the National Stroke Association, the American Heart Association, COPD Foundation and the National Sleep Foundation, to further increase awareness of the relationship between OSA, COPD, neuromuscular disease and comorbidities such as cardiac disease, diabetes, hypertension and obesity.  The programs also support our efforts to inform the community of the dangers of sleep apnea with regard to occupational health and safety, especially in the transport industry. We have helped establish a center for clinical care and medical research at the University of California, San Diego in the fields of sleep apnea and COPD.  
+
+Expand into New Clinical Applications.    We continually seek to identify new applications of our technology for significant unmet medical needs. Studies have established a clinical association between OSA and both stroke and congestive heart failure, and have recognized sleep apnea as a cause of hypertension or high blood pressure. Research also indicates that sleep apnea is independently associated with glucose intolerance and insulin resistance. Additionally, research supported by ResMed has demonstrated that the addition of non-invasive ventilation to patients with severe COPD who are receiving oxygen therapy, provides meaningful clinical benefits to the patient, and the broader healthcare system. We maintain close working relationships with a number of prominent physicians to explore new medical applications for our products and technology.
+
+Leverage the Experience of our Management Team.    Our senior management team has extensive experience in the medical device industry in general, and in the fields of sleep apnea, respiratory care and healthcare informatics in particular. We intend to continue to leverage the experience and expertise of these individuals to maintain our innovative approach to the development of products and solutions, and to increase awareness of the serious medical problems caused by sleep apnea and the use of oxygen, non-invasive ventilation, and in-home life support ventilation to treat COPD.
+
+ 
+
+Products
+
+ 
+
+Our portfolio of products includes devices, diagnostic products, mask systems, headgear and other accessories, dental devices, POCs and cloud-based software informatics solutions. For purposes of the following discussion, we refer to our air flow generators, ventilators and oxygen concentrators collectively as devices.
+
+ 
+
+ 
+
+-6-
+
+Table of Contents
+ 
+
+PART I
+
+Item 1
+
+ 
+
+RESMED INC. AND SUBSIDIARIES
+
+ 
+
+ 
+
+Devices
+
+ 
+
+We produce cloud-connected CPAP, APAP, bilevel, and ASV devices that deliver positive airway pressure through a patient interface, either a mask or cannula.  Our APAP devices, known as AutoSet, are based on a proprietary technology to monitor breathing and can also be used in the diagnosis, treatment and management of OSA. During fiscal year 2017, we launched AirMini, a small portable CPAP combining the same proven therapy modes used in the AirSense 10 with effective waterless humidification enabling portable convenience. We also acquired a line of Chinese-developed and manufactured sleep and ventilation devices with the acquisition of Curative Medical in fiscal year 2016. Devices in total accounted for approximately 51%, 52% and 56% of our net revenues in fiscal years 2020, 2019 and 2018, respectively.
+
+ 
+
+The tables below provide a selection of products, as known by our trademarks.
+
+ 
+
+CPAP
+‎PRODUCTS
+
+DESCRIPTION
+
+AirSense 10 Elite
+
+An advanced fixed-pressure therapy device with an integrated humidifier and built-in wireless connectivity. It is designed to be intuitive and easy-to-use. 
+
+ 
+
+AirSense 10 CPAP
+
+The AirSense 10 CPAP is a fixed-pressure therapy device and built-in wireless connectivity. It also provides compliance, AHI and leak data reporting.
+
+ 
+
+ 
+
+ 
+
+AUTOSET
+‎PRODUCTS
+
+DESCRIPTION
+
+AirSense 10 Auto
+
+A premium auto-adjusting therapy device featuring AutoRamp™ with sleep onset detection, expiratory pressure relief (EPR™) and Easy-Breathe technology.  The device also features built-in wireless connectivity.
+
+ 
+
+AirMini
+
+A small portable CPAP device featuring the same auto-adjusting therapy modes used in the AirSense™ 10 Auto. The device also features built-in Bluetooth connectivity and effective waterless humidification enabled by HumidX technology.
+
+ 
+
+ 
+
+ 
+
+BILEVEL
+‎PRODUCTS
+
+DESCRIPTION
+
+AirCurve 10 S
+
+A bilevel device for patients who need extra pressure support or find it difficult to adjust to therapy on a fixed pressure continuous positive airway pressure device. The device features built-in wireless connectivity and works with our AirView™ patient monitoring software.
+
+ 
+
+AirCurve 10 V Auto
+
+An auto-adjusting bilevel device for patients who need greater pressure support to treat their obstructive sleep apnea. The device features built-in wireless connectivity and works with our AirView™ patient monitoring software.
+
+ 
+
+AirCurve 10 ST
+
+A bilevel device with backup rate that provides exceptional patient-ventilator synchrony, reducing the work of breathing so patients remain comfortable and well ventilated. The device features built-in wireless connectivity and works with our AirView™ patient monitoring software.
+
+ 
+
+AirCurve 10 ASV and CS
+
+Adaptive servo-ventilators specifically designed to treat patients exhibiting central sleep apnea (CSA), mixed sleep apnea and periodic breathing, with or without obstructive sleep apnea. These devices also feature built-in wireless connectivity and works with our AirView™ patient monitoring software.
+
+ 
+
+ 
+
+ 
+
+VENTILATION
+‎PRODUCTS
+
+DESCRIPTION
+
+Stellar 100 and 150
+
+Pressure support and volume non-invasive ventilators with invasive capabilities designed to suit a range of environments and for various respiratory patient types. 
+
+ 
+
+Astral 100 and 150
+
+Pressure support and volume ventilators for invasive and non-invasive purposes so it can be used from the hospital to the home. 
+
+ 
+
+Lumis 100 and 150
+
+Pressure support non-invasive ventilators that support a variety of therapy modes with built-in wireless connectivity and integrated humidification.
+
+ 
+
+Lumis ST-A
+
+A Pressure support non-invasive ventilator that supports a variety of therapy modes with built-in wireless connectivity, integrated humidification and a range of fixed and adjustable alarms.
+
+ 
+
+Mobi
+
+A portable oxygen concentrator system with a lightweight design and extended battery life to promote greater mobility for patients on oxygen therapy.
+
+ 
+
+ 
+
+ 
+
+-7-
+
+Table of Contents
+ 
+
+PART I
+
+Item 1
+
+ 
+
+RESMED INC. AND SUBSIDIARIES
+
+ 
+
+ 
+
+Mask Systems, Diagnostic Products, Accessories and Other Products 
+
+ 
+
+Masks, diagnostic products and accessories together accounted for approximately 37%, 37% and 38% of our net revenues in fiscal years 2020, 2019 and 2018, respectively. 
+
+ 
+
+Mask Systems
+
+ 
+
+Mask systems are one of the most important elements of sleep apnea treatment systems. Masks are a primary determinant of patient comfort and as such may drive or impede patient compliance with therapy. We have been a consistent innovator in small nasal, nasal pillows and full-face masks, by improving patient comfort while minimizing size and weight.
+
+ 
+
+The table below provides an of overview of our mask systems by category.
+
+ 
+
+CATEGORY
+
+DESCRIPTION
+
+Minimalist
+
+AirFit F30, AirFit P10 and AirFit N30 minimalist masks feature our lightest, lowest profile designs. The features of these masks are focused on minimizing contact with the patient’s face to reduce red marks and irritation. 
+
+ 
+
+Freedom
+
+AirFit N30i, AirFit P30i and AirFit F30i freedom masks, which feature top-of-head tubing design allowing flexibility to easily switch sleep positions. 
+
+ 
+
+Ultra Soft
+
+The AirTouch F20 mask features a soft and breathable AirTouch cushion designed to enhance CPAP mask comfort. 
+
+ 
+
+Universal Fit
+
+AirFit F20 and AirFit N20 masks are designed to fit a wide range of faces due to the InfinitySeal silicone cushion that adapts to unique facial contours, which increases comfort, improves the fit and reduces leakage. 
+
+ 
+
+ 
+
+Diagnostic Products
+
+ 
+
+We market sleep recorders for the diagnosis and titration of sleep apnea in sleep clinics and hospitals. These diagnostic systems record relevant respiratory and sleep data, which can be analyzed by a sleep specialist or physician who can then tailor an appropriate OSA treatment regimen for the patient. 
+
+ 
+
+PRODUCTS
+
+DESCRIPTION
+
+ApneaLink Air
+
+A portable diagnostic device which measures oximetry, respiratory effort, pulse, nasal flow and snoring. Works with AirView Diagnostics to provide comprehensive diagnostic solution to clinicians.
+
+ 
+
+ 
+
+Connected Solutions and Other Products
+
+ 
+
+We have a suite of products that are designed to allow fewer professionals to manage more patients and empower patients to track their own health outcomes. We are expanding our cloud-based patient management and engagement platforms, such as AirView, enabling remote monitoring, over-the-air trouble shooting and changing of device settings, U-Sleep enabling automated patient coaching through a text, email or interactive voice phone call and myAir, a patient engagement application that provides sleep data and a daily score based on their previous night’s data.
+
+ 
+
+PRODUCTS
+
+DESCRIPTION
+
+AirView
+
+A cloud-based system enabling remote monitoring and changing of patients’ device settings. AirView also makes it easier to simplify workflows and collaborate more efficiently across the patient’s care network.
+
+ 
+
+myAir
+
+A personalized therapy management application for patients with sleep-disordered breathing providing support, education and troubleshooting tools for increased patient engagement and improved compliance.
+
+ 
+
+U-Sleep
+
+A compliance monitoring solution that enables HMEs to streamline their sleep programs to achieve better business and patient outcomes. 
+
+ 
+
+Connectivity Module
+
+A module providing cellular connection between our compatible ventilation devices (i.e. Astral Stellar) and our AirView™ system.
+
+ 
+
+Propeller 
+
+Solutions
+
+Propeller's inhaler sensors track medication usage and pair with a companion smartphone application, giving people with asthma or COPD a better understanding of their disease and while promoting increased adherence to treatment. The Propeller Provider Portal gives clinicians the timely and accurate information they need to make better treatment decisions. 
+
+ 
+
+ 
+
+ 
+
+-8-
+
+Table of Contents
+ 
+
+PART I
+
+Item 1
+
+ 
+
+RESMED INC. AND SUBSIDIARIES
+
+ 
+
+ 
+
+SaaS Products 
+
+ 
+
+Following multiple acquisitions, including Brightree in April 2016, HEALTHCAREfirst in July 2018 and MatrixCare in November 2018, we now supply out-of-hospital software products designed to support the professionals and caregivers helping people stay healthy in the home or care setting of their choice. SaaS revenue accounted for approximately 12%, 11% and 7% of our net revenue in fiscal years 2020, 2019 and 2018, respectively.
+
+ 
+
+PRODUCTS
+
+DESCRIPTION
+
+Brightree solutions
+
+Brightree enables out-of-hospital care organizations to improve their business performance and deliver better health outcomes. As an industry-leading cloud-based healthcare IT company, Brightree provides solutions and services for thousands of organizations in home medical equipment and pharmacy, orthotic and prosthetic, and home infusion. 
+
+ 
+
+HEALTHCAREfirst 
+
+solutions
+
+ 
+
+HEALTHCAREfirst offers electronic health record, or EHR, software, billing and coding services, and advanced analytics that enable home health and hospice agencies to optimize their clinical, financial and administrative processes.
+
+ 
+
+MatrixCare solutions
+
+MatrixCare’s EHR software as a service solutions are used by skilled nursing and senior living providers, life plan communities (CCRCs), and home health and hospice organizations to prosper in an ever-changing healthcare system. 
+
+ 
+
+ 
+
+Product Development and Clinical Trials 
+
+ 
+
+We have a strong track record of innovation in the sleep and respiratory care markets. In 1989, we introduced our first CPAP device. Since then we have been committed to an ongoing program of product advancement and development. Currently, our product development and clinical trial efforts are focused on not only improving our current product offerings and usability, but also expanding into new product applications. 
+
+ 
+
+We continually seek to identify new applications of our technology for significant unmet medical needs. Sleep apnea is associated with a number of symptoms beyond excessive daytime sleepiness and irritability. Studies have established a clinical association between untreated sleep apnea and systemic hypertension, diabetes, coronary artery disease, stroke, atrial fibrillation, congestive heart failure, and mortality. 
+
+ 
+
+Across the sleep and respiratory care platforms, we support clinical trials in many countries including the United States, Germany, Netherlands, France, Japan, the United Kingdom, Switzerland, China, Spain, Canada, Singapore and Australia to develop new clinical applications for our technology. We have also begun presenting and publishing research findings based on the industry-leading connectivity platform and data assets that are unique to us. We continue to support some of the largest sleep apnea studies in history by performing advanced statistical analyses on millions of clinical data points using real-world data.
+
+ 
+
+We consult with physicians at major medical centers throughout the world to identify clinical and technological trends in the treatment of sleep apnea, COPD and the other conditions associated with these diseases. New product ideas are also identified by our marketing staff, direct sales force and network of distributors, customers, clinicians and patients. 
+
+ 
+
+Sales and Marketing 
+
+ 
+
+We currently market our products in more than 140 countries through a network of distributors and our direct sales force. We attempt to tailor our marketing approach to each national market, based on regional awareness of sleep apnea as a health problem, physician referral patterns, consumer preferences and local reimbursement policies.  See Note 15 – Segment Information of the Notes to Consolidated Financial Statements (Part II, Item 8) for financial information about our geographic areas.
+
+ 
+
+United States, Canada and Latin America.    Our products are typically purchased by a home healthcare dealer who then sells the products to the patient. The decision to purchase our products, as opposed to those of our competitors, is made or influenced by one or more of the following individuals or organizations: the prescribing physician and his or her staff; the home healthcare dealer; the insurer and the patient. In the United States, Canada and Latin America, our sales and marketing activities are conducted through a field sales organization made up of regional territory representatives, program development specialists and regional sales directors. Our field sales organization markets and sells products to home healthcare dealer branch locations throughout the United States, Canada and Latin America. 
+
+ 
+
+We also market our products directly to physicians and sleep clinics. Patients who are diagnosed with OSA or another respiratory condition and prescribed our products are typically referred by the diagnosing physician or sleep clinic to a home healthcare dealer to fill the prescription. The home healthcare dealer, in consultation with the referring physician, will assist the patient in selecting the equipment, fit the patient with the appropriate mask and set the device pressure to the prescribed level. 
+
+ 
+
+-9-
+
+Table of Contents
+ 
+
+PART I
+
+Item 1
+
+ 
+
+RESMED INC. AND SUBSIDIARIES
+
+ 
+
+ 
+
+ 
+
+Our SaaS solutions are sold to providers of healthcare in various out-of-hospital settings. We market and sell our Brightree business management software and service solutions to providers in the U.S. and our primary markets are HME, pharmacy, home infusion, orthotics and prosthetics. Our sales activities for Brightree products are conducted through a sales organization made up of strategic account managers, sales engineers and sales directors. We develop, market and sell our MatrixCare care management and related ancillary solutions to providers in the U.S. and our primary markets are senior living, skilled nursing; life plan communities; home health, home care, and hospice agencies as well as related accountable care organizations. Our MatrixCare management solutions are primarily sold through direct sales and ancillary solutions are sold both through direct sales and channel partners.
+
+ 
+
+Combined Europe, Asia and other markets.    We market our products in most major countries in combined Europe, Asia and other markets. We have wholly-owned subsidiaries in Austria, Czech Republic, Denmark, Finland, France, Germany, Ireland, Netherlands, Norway, Poland, Sweden, Switzerland, the United Kingdom, Australia, China, India, Japan, Korea, New Zealand, Taiwan, and Thailand. We use a combination of our direct sales force and independent distributors to sell our products in combined Europe, Asia and other markets. We select independent distributors in each country based on their knowledge of respiratory medicine and a commitment to sleep apnea therapy. In countries where we sell our products direct, a local senior manager is responsible for direct national sales. In many countries we sell our products to home healthcare dealers or hospitals who then sell the products to the patients. In Germany, Australia, New Zealand, and South Korea, we also operate a home healthcare company, in which we provide products and services directly to patients. 
+
+ 
+
+We do not sell our SaaS products in combined Europe, Asia and other markets.
+
+ 
+
+Manufacturing 
+
+ 
+
+We operate a globally distributed manufacturing network designed for supply chain resilience, that is intended to control costs and minimize risks. Our manufacturing operations consist of specialist component production as well as assembly and testing of our devices, masks and accessories. Of the numerous raw materials, parts and components purchased for assembly of our therapeutic and diagnostic sleep disorder products, many are off-the-shelf items available from multiple vendors. We also purchase uniquely configured components from various suppliers, including some who are single-source suppliers for us.  Any reduction or halt in supply from one of these single-source suppliers could limit our ability to manufacture our products or devices until a replacement supplier is found and qualified. We generally manufacture to our internal sales forecasts and fill orders as received. We strive for continuous improvement in manufacturing processes to deliver year-on-year improvement in output, cost and product quality. Each manufacturing site and team are responsible for the quality of their product group and decisions are based on performance and quality measures, including customer feedback. 
+
+ 
+
+Our quality management system is based upon the requirements of ISO 9001, ISO 13485, FDA Quality System Regulations for Medical Devices, the Medical Device Directive (93/42/EEC) and other applicable regulations for the markets in which we sell.  Our main manufacturing sites are certified to ISO 13485 and audited at regular intervals by a Notified Body. Additionally, our Sydney, Loyang, San Diego, Atlanta and Moreno Valley sites are certified under the Medical Device Single Audit Program or MDSAP, an audit of medical device manufacturers’ quality management system to satisfy multiple regulatory requirements. MDSAP audits are conducted by a MDSAP recognized auditing organization and can fulfill the needs of multiple regulatory jurisdictions (i.e. Australia, Brazil, Canada, Japan, and the United States of America).
+
+ 
+
+Our main manufacturing facilities are located in Loyang, Singapore; Sydney, Australia; Chatsworth, California; Johor Bahru, Malaysia; Atlanta, Georgia and Suzhou, China. We are establishing a new manufacturing facility in Tuas, Singapore that will eventually replace our Loyang facility. Refer to Item 2 for additional details on these properties. 
+
+ 
+
+Third-Party Coverage and Reimbursement
+
+ 
+
+The cost of medical care in many of the countries in which we operate is funded in substantial part by government and private insurance programs. In Germany and Korea, we receive payments directly from these payors but in other countries, although we do not generally receive payments for our products directly from these payors, our success in major markets depends on the ability of patients to obtain coverage and adequate reimbursement from third-party payors for our products. 
+
+ 
+
+ 
+
+-10-
+
+Table of Contents
+ 
+
+PART I
+
+Item 1
+
+ 
+
+RESMED INC. AND SUBSIDIARIES
+
+ 
+
+ 
+
+In the United States, our products are purchased primarily by home healthcare dealers, hospitals or sleep clinics, who invoice third-party payors directly for reimbursement. Domestic third-party payors include government payors such as Medicare and Medicaid and commercial health insurance plans. These payors may deny coverage and reimbursement if they determine that a device is not used in accordance with certain covered treatment methods, or is experimental, unnecessary or inappropriate. The long-term trend towards cost-containment, through managed healthcare, or other legislative proposals to reform healthcare, could control or significantly influence the purchase of healthcare services and products and could result in lower prices for our products.  In some foreign markets, such as France, Germany, and Japan, government reimbursement is currently available for purchase or rental of our products, subject to constraints such as price controls or unit sales limitations.  In Australia, China, and some other foreign markets, there is currently limited or no reimbursement for devices that treat OSA.
+
+ 
+
+Healthcare reform in the United States continues to bring significant changes to the third-party payor landscape. In 2011, the Centers for Medicare & Medicaid Services, or CMS, implemented the competitive bidding program, which included DME that we manufacture and develop, specifically, oxygen, CPAP and respiratory assist devices (or bilevel devices), and related supplies and accessories. CMS is required by law to recompete these contracts at least once every three years. In addition, the 2010 Patient Protection and Affordable Care Act, as amended by the Health Care and Education Reconciliation Act, or collectively, the ACA, required CMS to roll out the competitive bidding process nationally or adjust prices in non-competitive bidding areas, also known as the non-bid or Round 3 areas, to match competitive bidding prices by 2016.  CMS phased in the new rates beginning January 1, 2016, and the rates became fully effective July 1, 2016. The implementation of the competitive acquisition program has resulted in reduced Medicare payment for oxygen, CPAP and respiratory assist devices, and related supplies and accessories in both competitive bidding areas and non-competitive bidding areas. Through an Interim Final Rule issued in May 2018, CMS increased the fee schedule amounts for certain DME in non-bid areas that qualify as rural and non-contiguous, setting payment for these areas for June 1, 2018 to December 31, 2018 at a 50/50 blended reimbursement rate based on the pre-competitive bidding reimbursement rate and the adjusted reimbursement rate set through competitive bidding.
+
+ 
+
+Due to the lapse of competitive bid contracts as of December 31, 2018, effective January 1, 2019, Medicare beneficiaries may receive DME from any Medicare-enrolled supplier until new contracts are in effect under the next round of competitive bidding, which is expected to take effect on January 1, 2021. Pricing in competitive bidding areas and non-rural, contiguous non-bid areas will continue to use adjusted fee schedule amounts, subject to annual Consumer Price Index (CPI) adjustments, beginning in 2019, until the next bidding round takes place. CMS also extended the blended fee schedule amounts for non-bid rural and non-contiguous areas through December 31, 2020. Under the Coronavirus Aid, Relief, and Economic Security Act, or the CARES Act, the blended fee schedule amounts for non-bid rural and non-contiguous areas was extended through the end of the COVID-19 public health emergency, should it extend beyond December 31, 2020, and a blended fee schedule amount was implemented for all other areas for the same period.
+
+ 
+
+In the next round of Durable Medical Equipment, Prosthetics, Orthotics and Supplies (DMEPOS) competitive bidding program, expected to take effect on January 1, 2021, there have been some revisions to the bidding methodology including the plan to implement surety bond requirements, lead item pricing, and setting reimbursement rates at the maximum winning bid rate instead of the median winning bid rate.  Although CMS previously expanded the categories of devices subject to competitive bidding to include non-invasive ventilators, or NIVs, starting in 2021, in response to the COVID-19 pandemic, CMS removed NIVs from Round 2021 of the DMEPOS Competitive Bidding Program.
+
+ 
+
+The ACA, which was passed both to expand the number of individuals with healthcare coverage and to develop additional revenue sources, also included, among other things, a deductible excise tax equal to 2.3% of the price for which medical devices are sold in the United States on any entity that manufactures or imports medical devices, with limited exceptions, beginning in 2013. However, this excise tax was subsequently suspended by the U.S. Congress for medical device sales, beginning in 2016 and permanently repealed, effective January 1, 2020.  The ACA also provided for a number of Medicare regulatory requirements, including new face-to-face encounter requirements for DME and home health services.
+
+ 
+
+ 
+
+-11-
+
+Table of Contents
+ 
+
+PART I
+
+Item 1
+
+ 
+
+RESMED INC. AND SUBSIDIARIES
+
+ 
+
+ 
+
+We cannot predict at this time the full impact that the ACA, or any U.S. legislation enacted in the future, will have on our revenues, profit margins, profitability, operating cash flows and results of operations. There have been judicial and Congressional challenges to certain aspects of the ACA, as well as recent efforts by the Trump administration to repeal or replace certain aspects of the ACA, and we expect such challenges and amendments to continue. For example, the Tax Cuts and Jobs Act of 2017 includes a provision repealing, effective January 1, 2019, the tax-based shared responsibility payment imposed by the ACA on certain individuals who fail to maintain qualifying health coverage for all or part of a year that is commonly referred to as the “individual mandate.” On December 14, 2018, a U.S. District Court Judge in the Northern District of Texas ruled that the individual mandate is a critical and inseverable feature of the ACA, and therefore, because it was repealed as part of the U.S. Tax Act, the remaining provisions of the ACA are invalid as well. On December 18, 2019, the U.S. Court of Appeals for the 5th Circuit upheld the District Court ruling that the individual mandate was unconstitutional and remanded the case back to the District Court to determine whether the remaining provisions of the ACA are invalid as well. On March 2, 2020, the U.S. Supreme Court granted the petitions for writs of certiorari to review this case, although it is unclear when or how the Supreme Court will rule. It is also unclear how other efforts to challenge, repeal or replace the ACA will impact the law or our business.
+
+ 
+
+Service and Warranty 
+
+ 
+
+We generally offer either one-year or two-year limited warranties on our devices. In some regions and for certain customers we also offer extended warranties on our devices for one to three years in addition to our limited warranty. Warranties on mask systems are for 90 days. Our distributors either repair our products with parts supplied by us or arrange shipment of products to our facilities for repair or replacement. We receive returns of our products from the field for various reasons. We believe that the level of returns experienced to date is consistent with levels typically experienced by manufacturers of similar devices. We provide for warranties and returns based on historical data. 
+
+ 
+
+Competition
+
+ 
+
+The markets for our products and services are highly competitive. We believe that the principal competitive factors in all of our markets are product features, value-added solutions, reliability and price. Customer support, reputation and efficient distribution are also important factors. We compete on a market-by-market basis with various companies, some of which have greater financial, research, manufacturing and marketing resources than us. The disparity between our resources and those of our competitors may increase as a result of the trend towards consolidation in the healthcare industry. In addition, some of our competitors are affiliates of customers of ours, which may make it difficult to compete with them. 
+
+ 
+
+Our primary Sleep and Respiratory Care competitors include Philips BV; Fisher & Paykel Healthcare Corporation Limited; DeVilbiss Healthcare; Apex Medical Corporation; BMC Medical Co. Ltd.; and regional manufacturers. Finally, our products compete with surgical procedures, nerve stimulation devices and dental appliances designed to treat OSA and other sleep apnea-related respiratory conditions. The development of new or innovative procedures or devices by others could result in our products becoming obsolete or noncompetitive, which would harm our revenues and financial condition.
+
+ 
+
+For our SaaS business, the market is highly competitive, rapidly evolving, and subject to changing technology, low barriers to entry, shifting customer needs and frequent introductions of new products and services. The development of new or innovative solutions by others could result in our solutions becoming obsolete or noncompetitive, which would harm our revenues and financial condition.
+
+ 
+
+Any product developed by us will have to compete for market acceptance and market share. An important factor in such competition may be the timing of market introduction of competitive products and solutions. Accordingly, the speed with which we can develop products and solutions, complete clinical testing and regulatory clearance processes and provide commercial supply of products and solutions to the market are important competitive factors. In addition, our ability to compete will continue to be dependent on successfully protecting our patents and other intellectual property. 
+
+ 
+
+Patents and Proprietary Rights and Related Litigation 
+
+ 
+
+We rely on a combination of patents, designs, trademarks, trade secrets, copyrights, and non-disclosure agreements to protect our proprietary technology and rights. Some of these patents, patent applications and designs relate to significant aspects and features of our products. We believe the combination of these rights, in aggregate, are of material importance to each of our businesses. Through our various subsidiaries, as of the date of this report, we own or have licensed rights to over 6,200 pending, allowed or granted patents and designs. Patents and designs have various statutory terms based on the legislation in individual jurisdictions which may be subject to change. Of our patents, 570 U.S. patents and 1,452 foreign patents are due to expire in the next five years. We believe that the expiration of these patents will not have a material adverse impact on our competitive position.
+
+ 
+
+ 
+
+-12-
+
+Table of Contents
+ 
+
+PART I
+
+Item 1
+
+ 
+
+RESMED INC. AND SUBSIDIARIES
+
+ 
+
+ 
+
+Litigation has been necessary in the past and may be necessary in the future to enforce patents issued to us, to protect our rights, or to defend third-party claims of infringement by us of the proprietary rights of others. The defense and prosecution of patent claims, including pending claims, as well as participation in other inter-party proceedings, can be expensive and time-consuming, even in those instances in which the outcome is favorable to us. Patent laws regarding the enforceability of patents vary from country to country. Therefore, there can be no assurance that patent issues will be uniformly resolved, or that local laws will provide us with consistent rights and benefits.
+
+ 
+
+Government Regulations 
+
+ 
+
+FDA
+
+ 
+
+Our products are subject to extensive regulation particularly as to safety, efficacy and adherence to FDA Quality System Regulation, and related manufacturing standards. Medical device products are subject to rigorous FDA and other governmental agency regulations in the United States and similar regulations of foreign agencies abroad. The FDA regulates the design, development, research, preclinical and clinical testing, introduction, manufacture, advertising, labeling, packaging, marketing, distribution, import and export, and record keeping for such products, in order to ensure that medical products distributed in the United States are safe and effective for their intended use. In addition, the FDA is authorized to establish special controls to provide reasonable assurance of the safety and effectiveness of most devices. Non-compliance with applicable requirements can result in import detentions, fines, civil and administrative penalties, injunctions, suspensions or losses of regulatory approvals, recall or seizure of products, operating restrictions, refusal of the government to approve product export applications or allow us to enter into supply contracts, and criminal prosecution. 
+
+ 
+
+Unless an exemption applies, the FDA requires that a manufacturer introducing a new medical device or a new indication for use of an existing medical device obtain either a Section 510(k) premarket notification clearance or a premarket approval, or PMA, before introducing it into the U.S. market. The type of marketing authorization is generally linked to the classification of the device.   The FDA classifies medical devices into one of three classes (Class I, II or III) based on the degree of risk the FDA determines to be associated with a device and the level of regulatory control deemed necessary to ensure the device’s safety and effectiveness.
+
+ 
+
+Our products currently marketed in the United States are marketed pursuant to 510(k) pre-marketing clearances and are either Class I or Class II devices. The process of obtaining a Section 510(k) clearance generally requires the submission of performance data and often clinical data, which in some cases can be extensive, to demonstrate that the device is “substantially equivalent” to a device that was on the market before 1976 or to a device that has been found by the FDA to be “substantially equivalent” to such a pre-1976 device, a predecessor device is referred to as “predicate device.” As a result, FDA clearance requirements may extend the development process for a considerable length of time. In addition, in some cases, the FDA may require additional review by an advisory panel, which can further lengthen the process. The PMA process, which is reserved for new devices that are not substantially equivalent to any predicate device and for high-risk devices or those that are used to support or sustain human life, may take several years and requires the submission of extensive performance and clinical information. 
+
+ 
+
+Medical devices can be marketed only for the indications for which they are cleared or approved.  After a device has received 510(k) clearance for a specific intended use, any change or modification that significantly affects its safety or effectiveness, such as a significant change in the design, materials, method of manufacture or intended use, may require a new 510(k) clearance or PMA approval and payment of an FDA user fee.  The determination as to whether or not a modification could significantly affect the device’s safety or effectiveness is initially left to the manufacturer using available FDA guidance; however, the FDA may review this determination to evaluate the regulatory status of the modified product at any time and may require the manufacturer to cease marketing and recall the modified device until 510(k) clearance or PMA approval is obtained.  The manufacturer may also be subject to significant regulatory fines or penalties.  
+
+ 
+
+Any devices we manufacture and distribute pursuant to clearance or approval by the FDA are subject to pervasive and continuing regulation by the FDA and certain state agencies.  These include product listing and establishment registration requirements, which help facilitate FDA inspections and other regulatory actions.  As a medical device manufacturer, all of our manufacturing facilities are subject to inspection on a routine basis by the FDA. We are required to adhere to applicable regulations setting forth detailed cGMP requirements, as set forth in the QSR, which require, manufacturers, including third-party manufacturers, to follow stringent design, testing, control, documentation and other quality assurance procedures during all phases of the design and manufacturing process. Noncompliance with these standards can result in, among other things, fines, injunctions, civil penalties, recalls or seizures of products, total or partial suspension of production, refusal of the government to grant 510(k) clearance or PMA approval of devices, withdrawal of marketing approvals and criminal prosecutions. We believe that our design, manufacturing and quality control procedures are in compliance with the FDA’s regulatory requirements. 
+
+ 
+
+ 
+
+-13-
+
+Table of Contents
+ 
+
+PART I
+
+Item 1
+
+ 
+
+RESMED INC. AND SUBSIDIARIES
+
+ 
+
+ 
+
+We must also comply with post-market surveillance regulations, including medical device reporting, or MDR, requirements which require that we review and report to the FDA any incident in which our products may have caused or contributed to a death or serious injury. We must also report any incident in which our product has malfunctioned if that malfunction would likely cause or contribute to a death or serious injury if it were to recur.
+
+ 
+
+Labeling and promotional activities are subject to scrutiny by the FDA and, in certain circumstances, by the Federal Trade Commission. Medical devices approved or cleared by the FDA may not be promoted for unapproved or uncleared uses, otherwise known as “off-label” promotion. The FDA and other agencies actively enforce the laws and regulations prohibiting the promotion of off-label uses, and a company that is found to have improperly promoted off-label uses may be subject to significant liability, including substantial monetary penalties and criminal prosecution.
+
+ 
+
+Sales of medical devices outside the United States are subject to regulatory requirements that vary widely from country to country.  
+
+ 
+
+EEA
+
+ 
+
+In the European Economic Area, (which is comprised of the 27 member states of the European Union plus Norway, Iceland and Liechtenstein), or EEA, manufacturers of medical devices need to comply with the Essential Requirements laid out in Annex I to the EU Medical Devices Directive (Council Directive 93/42/EEC). Compliance with these requirements is a prerequisite to be able to affix the CE mark to medical devices, without which they cannot be marketed or sold in the EEA. To demonstrate compliance with the Essential Requirements and obtain the right to affix the CE Mark, manufacturers of medical devices must undergo a conformity assessment procedure, which varies according to the type of medical device and its classification. Except for low-risk medical devices (Class I with no measuring function and which are not sterile), where the manufacturer can issue an EC Declaration of Conformity based on a self-assessment of the conformity of its products with the Essential Requirements, a conformity assessment procedure requires the intervention of a Notified Body, which is an organization designated by a competent authority of an EEA country to conduct conformity assessments. Depending on the relevant conformity assessment procedure, the Notified Body would audit and examine the Technical File and the quality system for the manufacture, design and final inspection of the devices. The Notified Body issues a CE Certificate of Conformity following successful completion of a conformity assessment procedure conducted in relation to the medical device and its manufacturer and their conformity with the Essential Requirements. This Certificate entitles the manufacturer to affix the CE mark to its medical devices after having prepared and signed a related EC Declaration of Conformity.
+
+ 
+
+As a general rule, demonstration of conformity of medical devices and their manufacturers with the essential requirements must be based, among other things, on the evaluation of clinical data supporting the safety and performance of the products during normal conditions of use. Specifically, a manufacturer must demonstrate that the device achieves its intended performance during normal conditions of use, that the known and foreseeable risks, and any adverse events, are minimized and acceptable when weighed against the benefits of its intended performance, and that any claims made about the performance and safety of the device are supported by suitable evidence. 
+
+ 
+
+All manufacturers placing medical devices into the market in the EEA must comply with the EU Medical Device Vigilance System. Under this system, incidents must be reported to the relevant authorities of the member states of the EEA, and manufacturers are required to take Field Safety Corrective Actions, or FSCAs, to reduce a risk of death or serious deterioration in the state of health associated with the use of a medical device that is already placed on the market. An incident is defined as any malfunction or deterioration in the characteristics and/or performance of a device, as well as any inadequacy in the labeling or the instructions for use which, directly or indirectly, might lead to or might have led to the death of a patient or user or of other persons or to a serious deterioration in their state of health. An FSCA may include the recall, modification, exchange, destruction or retrofitting of the device. FSCAs must be communicated by the manufacturer or its legal representative to its customers and/or to the end users of the device through Field Safety Notices. Where appropriate, our products commercialized in Europe are CE marked and classified as either Class I or Class II.  
+
+ 
+
+On April 5, 2017, the European Parliament passed the Medical Devices Regulation, which repeals and replaces the EU Medical Devices Directive. Unlike directives, which must be implemented into the national laws of the EEA member states, the regulations would be directly applicable (i.e., without the need for adoption of EEA member State laws implementing them) in all EEA member states and are intended to eliminate current differences in the regulation of medical devices among EEA member States. The Medical Devices Regulation, among other things, is intended to establish a uniform, transparent, predictable and sustainable regulatory framework across the EEA for medical devices and in vitro diagnostic devices and ensure a high level of safety and health while supporting innovation. 
+
+ 
+
+
+ 
+
+-14-
+
+Table of Contents
+ 
+
+PART I
+
+Item 1
+
+ 
+
+RESMED INC. AND SUBSIDIARIES
+
+ 
+
+The Medical Device Regulation was meant to become applicable three years after publication (in May 2020). However, on April 23, 2020, to allow EEA national authorities, notified bodies, manufacturers and other actors to focus fully on urgent priorities related to the COVID-19 pandemic, the European Council and Parliament adopted Regulation 2020/561, postponing the date of application of the Medical Device Regulation by one year (to May 2021). Once applicable, the new regulations will among other things:
+
+strengthen the rules on placing devices on the market and reinforce surveillance once they are available;
+
+establish explicit provisions on manufacturers' responsibilities for the follow-up of the quality, performance and safety of devices placed on the market;
+
+improve the traceability of medical devices throughout the supply chain to the end-user or patient through a unique identification number;
+
+set up a central database to provide patients, healthcare professionals and the public with comprehensive information on products available in the EU; and
+
+strengthen rules for the assessment of certain high-risk devices, such as implants, which may have to undergo an additional check by experts before they are placed on the market.
+
+ 
+
+These modifications may have an impact on the way we design and manufacture products and the way we conduct our business in the EEA. We are progressing in our plans to meet the new requirements.
+
+ 
+
+Other regulatory bodies
+
+ 
+
+Our devices are sold in multiple countries and often need to be registered with local regulatory bodies such as the Therapeutic Goods Administration in Australia, Health Canada in Canada and CFDA in China. 
+
+ 
+
+Other Healthcare Laws
+
+ 
+
+We are subject to a number of laws and regulations that may restrict our business practices, including, without limitation, anti-kickback, false claims, physician payment transparency and data privacy and security laws.  The government has interpreted these laws broadly to apply to the marketing and sales activities of manufacturers and distributors like us.
+
+ 
+
+The federal Anti-Kickback Statute prohibits, among other things, persons or entities from knowingly and willfully soliciting, receiving, offering or providing remuneration, directly or indirectly, in cash or in kind, in exchange for or to induce either the referral of an individual for, or the purchase, lease, order or recommendation of, any good, facility, item or service for which payment may be made, in whole or in part, under federal healthcare programs such as Medicare and Medicaid. In addition, a person or entity does not need to have actual knowledge of this statute or specific intent to violate it in order to have committed a violation. Violations of the federal Anti-Kickback Statute may result in significant civil monetary penalties for each violation, plus up to three times the remuneration involved. Violations of the Federal Anti-Kickback Statute can also result in criminal penalties, including significant criminal fines and imprisonment. In addition, violations can result in debarment, suspension or exclusion from participation in government healthcare programs, including Medicare and Medicaid.
+
+ 
+
+The federal civil False Claims Act prohibits, among other things, any person or entity from knowingly presenting, or causing to be presented, a false or fraudulent claim for payment or approval to the federal government or knowingly making, using or causing to be made or used a false record or statement material to a false or fraudulent claim to the federal government. A claim includes “any request or demand” for money or property presented to the U.S. government. The civil False Claims Act also applies to false submissions that cause the government to be paid less than the amount to which it is entitled, such as a rebate. Intent to deceive is not required to establish liability under the civil False Claims Act. In addition, a claim including items or services resulting from a violation of the federal Anti-Kickback Statute constitutes a false or fraudulent claim for purposes of the federal civil False Claims Act. When an entity is determined to have violated the federal civil False Claims Act, the government may impose significant civil fines and penalties for each false claim, plus treble damages, and exclude the entity from participation in Medicare, Medicaid and other federal healthcare programs. Private suits filed under the civil False Claims Act, known as qui tam actions, can be brought by individuals on behalf of the government. These individuals may share in any amounts paid by the entity to the government in fines or settlement.
+
+ 
+
+The federal Civil Monetary Penalties Law prohibits, among other things, the offering or transfer of remuneration to a Medicare or state healthcare program beneficiary if the person knows or should know it is likely to influence the beneficiary’s selection of a particular provider, practitioner, or supplier of services reimbursable by Medicare or a state healthcare program, unless an exception applies.
+
+ 
+
+Additionally, there has been a recent trend of increased federal and state regulation of payments and transfers of value provided to healthcare professionals or entities. 
+
+ 
+
+-15-
+
+Table of Contents
+ 
+
+PART I
+
+Item 1
+
+ 
+
+RESMED INC. AND SUBSIDIARIES
+
+ 
+
+ 
+
+ 
+
+The federal Physician Sunshine Act, which requires certain manufacturers of drugs, biologicals, and medical devices or supplies that require premarket approval by or notification to the FDA, and for which payment is available under Medicare, Medicaid or the Children’s Health Insurance Program, to report annually to the CMS information related to (i) payments and other transfers of value to teaching hospitals, physicians (as defined by statute) and, beginning in 2022, physician assistants, nurse practitioners and other practitioners, and (ii) ownership and investment interests held by such providers and their immediate family members. Applicable manufacturers are required to submit annual reports to CMS. Failure to submit required information may result in significant civil monetary penalties for each failure and additional penalties for “knowing failures”, for all payments, transfers of value or ownership or investment interests that are not timely, accurately, and completely reported in an annual submission, and may result in liability under other federal laws or regulations. Certain states also mandate implementation of commercial compliance programs, impose restrictions on device manufacturer marketing practices and/or require the tracking and reporting of gifts, compensation and other remuneration to healthcare professionals and entities.
+
+ 
+
+The federal Health Insurance Portability and Accountability Act of 1996, or HIPAA, created federal criminal statutes that prohibit among other actions, knowingly and willfully executing, or attempting to execute, a scheme to defraud any healthcare benefit program, including private third-party payors, knowingly and willfully embezzling or stealing from a healthcare benefit program, willfully obstructing a criminal investigation of a healthcare offense, and knowingly and willfully falsifying, concealing or covering up a material fact or making any materially false, fictitious or fraudulent statement in connection with the delivery of or payment for healthcare benefits, items or services. Like the Anti-Kickback Statute, a person or entity does not need to have actual knowledge of these statutes or specific intent to violate them in order to have committed a violation.
+
+ 
+
+Also, many U.S. states and countries outside the U.S. have similar fraud and abuse statutes or regulations that may be broader in scope and may apply regardless of payor, in addition to items and services reimbursed under government programs.
+
+ 
+
+Under HIPAA, as amended by the Health Information Technology for Economic and Clinical Health Act of 2009, or HITECH, which we collectively refer to as HIPAA, the Department of Health and Human Services, or HHS, has issued regulations, including the HIPAA Privacy, Security and Breach Notification Rules, to protect the privacy and security of protected health information, or PHI, used or disclosed by covered entities including health care providers and their business associates. HIPAA also regulates standardization of data content, codes and formats used in health care transactions and standardization of identifiers for health plans and providers. Penalties for violations of HIPAA regulations include significant civil and criminal penalties for each violation. In addition to federal privacy and security regulations, there are a number of state laws governing confidentiality and security of personally identifiable information that are applicable to our business. For example, the California Consumer Privacy Act, or the CCPA, became effective on January 1, 2020. The CCPA gives California residents expanded rights to access and delete their personal information, opt out of certain personal information sharing and receive detailed information about how their personal information is used by requiring covered companies to provide new disclosures to California consumers (as that term is broadly defined) and provide such consumers new ways to opt-out of certain sales of personal information. The CCPA provides for civil penalties for violations, as well as a private right of action for data breaches that is expected to increase data breach litigation. Although the law includes limited exceptions, including for “protected health information” maintained by a covered entity or business associate, it may regulate or impact our processing of personal information depending on the context. CCPA’s implementation standards and enforcement practices are likely to remain uncertain for the foreseeable future, and the CCPA may increase our compliance costs and potential liability. Similar privacy laws have been proposed at the federal level and in other states.
+
+ 
+
+In some of our operations, such as those involving our cloud-based software digital health applications, we are a business associate under HIPAA and therefore required to comply with the HIPAA Security Rule, Breach Notification Rule and certain provisions of the HIPAA Privacy Rule, as well as the terms of our business associate agreements that we enter into with our covered entity customers, and are subject to significant civil and criminal penalties for failure to do so.
+
+ 
+
+In addition, the General Data Protection Regulation, or GDPR, went into effect in May 2018. The GDPR imposes stringent data protection requirements for the processing of personal data in the European Economic Area, or EEA. The GDPR imposes several stringent requirements for controllers and processors of personal data, and has increased our obligations, for example, by imposing higher standards for obtaining consent from individuals to process their personal data, requiring more robust disclosures to individuals, strengthening individual data rights, shortening timelines for data breach notifications, limiting retention periods and secondary use of information (including for research purposes), increasing requirements pertaining to health data and pseudonymised (i.e., key-coded) data and imposing additional obligations when we contract with third party processors in connection with the processing of the personal data. The GDPR also imposes strict rules on the transfer of personal data out of the EEA, including to the United States; recent legal developments in Europe have created complexity and uncertainty regarding such transfers of personal data from the EEA to the United States. For example, on July 16, 2020, the Court of Justice of the European Union, or CJEU, invalidated the EU-US Privacy Shield Framework, or Privacy Shield, under which personal data could be transferred from the EEA to United States entities that had self-
+
+ 
+
+-16-
+
+Table of Contents
+ 
+
+PART I
+
+Item 1
+
+ 
+
+RESMED INC. AND SUBSIDIARIES
+
+ 
+
+certified under the Privacy Shield scheme. While the CJEU upheld the adequacy of the standard contractual clauses (a standard form of contract approved by the European Commission as an adequate personal data transfer mechanism, and potential alternative to the Privacy Shield), it made clear that reliance on them alone may not necessarily be sufficient in all circumstances. Use of the standard contractual clauses must now be assessed on a case-by-case basis taking into account the legal regime applicable in the destination country, in particular applicable surveillance laws and rights of individuals and additional measures and/or contractual provisions may need to be put in place, however, the nature of these additional measures is currently uncertain. European data protection law provides that EEA member states may make their own further laws and regulations limiting the processing of genetic, biometric or health data, which could limit our ability to use and share personal data or could cause our costs could increase, and harm our business and financial condition. The GDPR and other similar regulations impose additional conditions in order to satisfy such consent for electronic marketing, such as a prohibition on pre-checked tick boxes and bundled consents, thereby requiring customers to affirmatively consent for a given purpose through separate tick boxes or other affirmative action. Failure to comply with the requirements of GDPR and the applicable national data protection and marketing laws of the EEA member states may result in fines of up to €20,000,000 or up to 4% of the total worldwide annual turnover of the preceding financial year, whichever is higher, and other administrative penalties as well as individual claims for compensation. 
+
+ 
+
+Further, following the United Kingdom’s departure from the EU and EEA on January 31, 2020 and the end of the transition period on December 31, 2020, we will have to comply with the GDPR and the GDPR as incorporated into the United Kingdom domestic law, the Data Protection Act 2018, the latter regime having the ability to separately fine up to the greater of £17.5 million or 4% of global turnover. Compliance with these and any other applicable privacy and data security laws and regulations is a rigorous and time-intensive process, and we may be required to put in place additional mechanisms ensuring compliance with the new data protection rules. If we fail to comply with any such laws or regulations, we may face significant fines and penalties that could adversely affect our business, financial condition and results of operations.
+
+ 
+
+Numerous other state, federal and foreign laws, including consumer protection laws and regulations, govern the collection, dissemination, use, access to, confidentiality and security of patient health information. In addition, Congress and some states are considering new laws and regulations that further protect the privacy and security of medical records or medical information. With the recent increase in publicity regarding data breaches resulting in improper dissemination of consumer information, all 50 states have passed laws regulating the actions that a business must take if it experiences a data breach, such as prompt disclosure to affected customers. Generally, these laws are limited to electronic data and make some exemptions for smaller breaches. Congress has also been considering similar federal legislation relating to data breaches. The Federal Trade Commission, or FTC, and states’ Attorneys General have also brought enforcement actions and prosecuted some data breach cases as unfair and/or deceptive acts or practices under the FTC Act. In addition to data breach notification laws, some states have enacted statutes and rules requiring businesses to reasonably protect certain types of personal information they hold or to otherwise comply with certain specified data security requirements for personal information. These laws may apply directly to our business or indirectly by contract when we provide services to other companies. We intend to continue to comprehensively protect all personal information and to comply with all applicable laws regarding the protection of such information.
+
+ 
+
+The shifting commercial compliance environment and the need to build and maintain robust systems to comply with different compliance or reporting requirements in multiple jurisdictions increase the possibility that a healthcare company may fail to comply fully with one or more of these requirements.  If our operations are found to be in violation of any of the health regulatory laws described above or any other laws that apply to us, we may be subject to penalties, including potentially significant criminal and civil and administrative penalties, damages, fines, disgorgement, imprisonment, exclusion from participation in government healthcare programs, contractual damages, reputational harm, administrative burdens, diminished profits and future earnings, and the curtailment or restructuring of our operations, any of which could adversely affect our ability to operate our business and our results of operations. 
+
+ 
+
+Employees 
+
+ 
+
+As of June 30, 2020, we had approximately 7,770 employees or full-time consultants, of which approximately 3,490 were employed in cost of sales activities including areas such as warehousing and manufacturing, 1,280 in research and development and 3,000 in sales, marketing and administration. Of our employees and consultants, approximately 3,030 were located in the United States, Canada and Latin America, 1,560 in Australia, 1,260 in Europe and 1,920 in Asia. We believe that the success of our business will depend, in part, on our ability to attract and retain qualified personnel. 
+
+ 
+
+ 
+
+ 
+
+

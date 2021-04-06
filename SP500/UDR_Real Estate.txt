@@ -1,0 +1,833 @@
+PART I
+
+Forward-Looking Statements
+
+This Report contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Such forward-looking statements include, without limitation, statements concerning property acquisitions and dispositions, development activity and capital expenditures, capital raising activities, rent growth, occupancy, rental expense growth and expected or potential impacts of the novel coronavirus disease (“COVID-19”) pandemic. Words such as “expects,” “anticipates,” “intends,” “plans,” “likely,” “will,” “believes,” “seeks,” “estimates,” and variations of such words and similar expressions are intended to identify such forward-looking statements. Such statements involve known and unknown risks, uncertainties and other factors which may cause our actual results, performance or achievements to be materially different from the results of operations or plans expressed or implied by such forward-looking statements. Such factors include, among other things, the impact of the COVID-19 pandemic and measures intended to prevent its spread or address its effects, unfavorable changes in the apartment market, changing economic conditions, the impact of inflation/deflation on rental rates and property operating expenses, expectations concerning the availability of capital and the stability of the capital markets, the impact of competition and competitive pricing, acquisitions, developments and redevelopments not achieving anticipated results, delays in completing developments and redevelopments, delays in completing lease-ups on schedule or at expected rent and occupancy levels, expectations on job growth, home affordability and demand/supply ratio for multifamily housing, expectations concerning development and redevelopment activities, expectations on occupancy levels and rental rates, expectations concerning joint ventures and partnerships with third parties, expectations that automation will help grow net operating income, and expectations on annualized net operating income.
+
+The following factors, among others, could cause our future results to differ materially from those expressed in the forward-looking statements:
+
+● the impact of the COVID-19 pandemic and measures intended to prevent its spread or address its effects;
+
+● general economic conditions;
+
+● unfavorable changes in apartment market and economic conditions that could adversely affect occupancy levels and rental rates, including as a result of COVID-19;
+
+● the failure of acquisitions to achieve anticipated results;
+
+● possible difficulty in selling apartment communities;
+
+● competitive factors that may limit our ability to lease apartment homes or increase or maintain rents;
+
+● insufficient cash flow that could affect our debt financing and create refinancing risk;
+
+● failure to generate sufficient revenue, which could impair our debt service payments and distributions to stockholders;
+
+● development and construction risks that may impact our profitability;
+
+● potential damage from natural disasters, including hurricanes and other weather-related events, which could result in substantial costs to us;
+
+● risks from climate change that impacts our properties or operations;
+
+● risks from extraordinary losses for which we may not have insurance or adequate reserves;
+
+● risks from cybersecurity breaches of our information technology systems and the information technology systems of our third party vendors and other third parties;
+
+● uninsured losses due to insurance deductibles, self-insurance retention, uninsured claims or casualties, or losses in excess of applicable coverage;
+
+1
+
+Table of Contents
+
+● delays in completing developments and lease-ups on schedule;
+
+● our failure to succeed in new markets;
+
+● risks that third parties who have an interest in or are otherwise involved in projects in which we have an interest, including mezzanine borrowers, joint venture partners or other investors, do not perform as expected;
+
+● changing interest rates, which could increase interest costs and affect the market price of our securities;
+
+● potential liability for environmental contamination, which could result in substantial costs to us;
+
+● the imposition of federal taxes if we fail to qualify as a REIT under the Code in any taxable year;
+
+● our internal control over financial reporting may not be considered effective which could result in a loss of investor confidence in our financial reports, and in turn have an adverse effect on our stock price; and
+
+● changes in real estate laws, tax laws, rent control or stabilization laws or other laws affecting our business.
+
+A discussion of these and other factors affecting our business and prospects is set forth in Part I, Item 1A. Risk Factors. We encourage investors to review these risk factors.
+
+Although we believe that the assumptions underlying the forward-looking statements contained herein are reasonable, any of the assumptions could be inaccurate, and therefore such statements included in this Report may not prove to be accurate. In light of the significant uncertainties inherent in the forward-looking statements included herein, the inclusion of such information should not be regarded as a representation by us or any other person that the results or conditions described in such statements or our objectives and plans will be achieved.
+
+Forward-looking statements and such risks, uncertainties and other factors speak only as of the date of this Report, and we expressly disclaim any obligation or undertaking to update or revise any forward-looking statement contained herein, to reflect any change in our expectations with regard thereto, or any other change in events, conditions or circumstances on which any such statement is based, except to the extent otherwise required by law.
+
+Summary of Risk Factors
+
+Our business is subject to a number of risks, including risks that may prevent us from achieving our business objectives or may adversely affect our business, financial condition, results of operations, cash flows and prospects. These risks are discussed more fully in Item 1A. Risk Factors herein. These risks include, but are not limited to, the following:
+
+●	The Ongoing COVID-19 Pandemic and Measures Intended to Prevent its Spread Could Have a Material Adverse Effect on our Business, Results of Operations, Cash Flows and Financial Condition.
+●	Unfavorable Apartment Market and Economic Conditions Could Adversely Affect Occupancy Levels, Rental Revenues and the Value of Our Real Estate Assets.
+●	The Geographic Concentration of Our Communities in Certain Markets Could Have an Adverse Effect on Our Operations if a Particular Market is Adversely Impacted by Economic or Other Conditions.
+●	We May Be Unable to Renew Leases or Relet Apartment Units as Leases Expire, or the Terms of Renewals or New Leases May Be Less Favorable Than Current Leases.
+●	Competition Could Limit Our Ability to Lease Apartment Homes or Increase or Maintain Rents.
+●	We May Not Realize the Anticipated Benefits of Past or Future Acquisitions, and the Failure to Integrate Acquired Communities and New Personnel Successfully Could Create Inefficiencies.
+●	Competition Could Adversely Affect Our Ability to Acquire Properties.
+●	Development and Construction Risks Could Impact Our Profitability.
+●	Bankruptcy or Defaults of Our Counterparties Could Adversely Affect Our Performance.
+2
+
+Table of Contents
+
+●	We Could Incur Significant Insurance Costs and Some Potential Losses May Not Be Adequately Covered by Insurance.
+●	The Adoption of, or Changes to, Rent Control, Rent Stabilization, Eviction, Tenants’ Rights and Similar Laws and Regulations in Our Markets Could Have an Adverse Effect on Our Results of Operations and Property Values.
+●	Insufficient Cash Flow Could Affect Our Debt Financing and Create Refinancing Risk.
+●	Failure to Generate Sufficient Income Could Impair Debt Service Payments and Distributions to Stockholders.
+●	Changing Interest Rates Could Increase Interest Costs and Adversely Affect Our Cash Flow and the Market Price of Our Securities.
+●	Failure To Maintain Our Current Credit Ratings Could Adversely Affect Our Cost of Funds, Related Margins, Liquidity, and Access to Capital Markets.
+●	Disruptions in Financial Markets May Adversely Impact Availability and Cost of Credit and Have Other Adverse Effects on Us and the Market Price of UDR’s Stock.
+●	We Would Incur Adverse Tax Consequences if UDR Failed to Qualify as a REIT.
+●	Changes in Market Conditions and Volatility of Stock Prices Could Adversely Affect the Market Price of UDR’s Common Stock.
+●	We May Change the Dividend Policy for UDR’s Common Stock in the Future.
+●	Limitations on Share Ownership and Limitations on the Ability of UDR’s Stockholders to Effect a Change in Control of Our Company Restricts the Transferability of UDR’s Stock and May Prevent Takeovers That are Beneficial to UDR’s Stockholders.
+
+
+3
+
+Table of Contents
+
+Item 1. BUSINESS
+
+General
+
+UDR is a self-administered real estate investment trust, or REIT, that owns, operates, acquires, renovates, develops, redevelops, disposes of, and manages multifamily apartment communities generally located in high barrier-to-entry markets throughout the United States. The high barrier-to-entry markets are characterized by limited land for new construction, difficult and lengthy entitlement processes, low single-family home affordability and strong employment growth potential. At December 31, 2020, our consolidated real estate portfolio consisted of 149 communities located in 21 markets, consisting of 48,283 completed apartment homes, which are held directly or through our subsidiaries, including the Operating Partnership and the DownREIT Partnership, and consolidated joint ventures. In addition, we have an ownership interest in 5,295 completed or to-be-completed apartment homes through unconsolidated joint ventures or partnerships, including 2,165 apartment homes owned by entities in which we hold preferred equity investments. At December 31, 2020, the Company was developing five wholly-owned communities totaling 1,378 homes, 202 of which have been completed.
+
+At December 31, 2020, the Operating Partnership’s consolidated real estate portfolio included 53 communities located in 15 markets, with a total of 17,174 completed apartment homes. The Operating Partnership owns, operates, acquires, renovates, develops, redevelops, disposes of, and manages multifamily apartment communities generally located in high barrier-to-entry markets located throughout the United States. During the year ended December 31, 2020, rental revenues of the Operating Partnership represented approximately 35% of our total rental revenues.
+
+UDR has elected to be taxed as a REIT under the Internal Revenue Code of 1986, as amended, which we refer to in this Report as the “Code.” To continue to qualify as a REIT, we must continue to meet certain tests which, among other things, generally require that our assets consist primarily of real estate assets, our income be derived primarily from real estate assets, and that we distribute at least 90% of our REIT taxable income (other than our net capital gains) to our stockholders annually. As a REIT, we generally will not be subject to U.S. federal income taxes at the corporate level on our net income to the extent we distribute such net income to our stockholders annually. In 2020, we declared total distributions of $1.44 per common share and paid dividends of $1.4225 per common share.
+
+
+
+
+
+
+
+
+
+    
+
+Dividends
+
+    
+
+Dividends
+
+
+
+Declared in
+
+
+Paid in
+
+
+
+2020
+
+
+2020
+
+First Quarter
+
+
+$
+
+ 0.3600
+
+
+$
+
+ 0.3425
+
+Second Quarter
+
+
+ 
+
+ 0.3600
+
+
+ 
+
+ 0.3600
+
+Third Quarter
+
+
+ 
+
+ 0.3600
+
+
+ 
+
+ 0.3600
+
+Fourth Quarter
+
+
+ 
+
+ 0.3600
+
+
+ 
+
+ 0.3600
+
+Total
+
+
+$
+
+ 1.4400
+
+
+$
+
+ 1.4225
+
+
+UDR was formed in 1972 as a Virginia corporation. In June 2003, we changed our state of incorporation from Virginia to Maryland. The Operating Partnership is the successor-in-interest to United Dominion Realty, L.P., a limited partnership formed under the laws of Virginia, which commenced operations in 1995. The Operating Partnership was redomiciled in 2004 as a Delaware limited partnership. Our corporate offices are located at 1745 Shea Center Drive, Suite 200, Highlands Ranch, Colorado and our telephone number is (720) 283-6120. Our website is www.udr.com. The information contained on our website, including any information referred to in this Report as being available on our website, is not a part of or incorporated into this Report.
+
+Human Capital Management
+
+
+As of February 16, 2021, we had 1,263 full-time associates and 8 part-time associates, all of whom were employed by UDR. Of such number 994 associates are employed in roles that are located at or that are solely related to our communities and the remainder are employed in corporate roles. Recruiting and retaining our associates, as well as assisting them in their professional development, are critically important in successfully managing our business. UDR’s culture is one based on innovation, inclusion, empowerment, adaptability, and execution, and understanding and maintaining our culture is fundamental to recruiting and retaining associates. To that end, in 2020 we updated our culture statement and launched an associate facing culture website to ensure that our associates understand our culture and have an opportunity to participate in its evolution.
+
+
+4
+
+Table of Contents
+
+Associate Compensation
+
+
+Attracting, developing, and retaining high-quality, and diverse associates across our business is critical to the long-term success of the Company. A crucial factor in ensuring this occurs is compensation practices that are attractive and that are fair and non-biased. We use a number of recruiting methods depending on the job function for which candidates are needed including an associate referral program, internet-based recruiting platforms, and third-party recruiting agencies.  With respect to compensation, we utilize market surveys and other third party information when determining salary ranges and we design our compensation programs to include bonus potential in order to incentivize performance.  In addition, we annually evaluate and analyze our compensation on gender and diversity bases for each job title in order to monitor pay equity and to identify areas for further action.  The results of our evaluation and analysis are provided annually to our Board of Directors.
+
+
+Associate Growth and Development
+
+
+We believe that training is important to our associates’ job satisfaction, is essential to furthering their effectiveness, and assists in associate career advancement and retention, helping us to create a more efficient workforce. Accordingly, we offer a wide variety of training opportunities. In addition to required training designed to address regulatory and statutory matters (e.g., harassment, cybersecurity, fair housing, etc.), associates have the option of participating in management development through our Certified Manager and Career Mobility Programs. These programs are designed to enable our associates to acquire skills that will be useful to them as they progress in their career. Our training program also includes annual “refreshment” training, as appropriate.  In total, there are over 5,000 courses available to our associates. Examples of program topics include: leasing skills, basic property maintenance, customer service, project management, and system applications. In 2020, we enhanced our training through creating a better process to ensure required training is taken in a timely manner and by increasing or modifying training availability and training programs, including in the areas of safety and cybersecurity.  
+
+
+Certifications are important in the apartment business and we encourage our associates to become professionally certified in areas that interest them and are beneficial to the Company. Certifications range from master’s degree programs to certified property manager programs, to technical licenses for HVAC systems, all of which equip our associates with knowledge and the potential for career-expansion opportunities. UDR offers partial tuition reimbursement related to attaining these certifications.
+
+
+Each UDR associate is required to engage in an annual performance review with their direct supervisor. Among other things, the performance review establishes the associate’s training plans for the upcoming year and provides feedback on career development for each associate.
+
+
+In addition, we monitor associate turnover and take action when issues are identified if appropriate.
+
+
+Diversity and Inclusion
+
+
+We are committed to creating and maintaining a diverse and inclusive workplace environment that supports the development and advancement of all associates.
+
+
+As of December 31, 2020, our total workforce is 61% male and 39% female. The ethnicity of our workforce is 55% White, 26% Hispanic/Latino, 11% Black, 3% Asian and 5% Other. “Other” includes: American Indian, Alaska Native, Native Hawaiian, Pacific Islander, Not Specified or two or more races.
+
+
+As of December 31, 2020, our management team (associates with the title of community director or director and higher job classifications) is 45% male and 55% female.  The ethnicity of our management team is 80% White and 20% non-White.
+
+
+Over the three-year period ending December 31, 2020, 740 associates were promoted. Of the associates that were promoted to the positions of community director, director, or a higher job classification during the period, 60% were female and 15% were non-White.
+
+
+5
+
+Table of Contents
+
+Associate Engagement and Outreach
+
+
+We conduct an associate engagement survey every two years, which surveys all associates on a variety of issues. In our 2019 survey, the results showed that 97% of associates are proud to work at the Company, 87% of associates feel that people from diverse backgrounds can succeed at the Company, and 84% of associates feel that the Company is innovative.
+
+
+We believe that our associates should also be involved in their communities and that we should assist with those efforts.  In 2019, UDR provided 2,558 hours of paid time off for our associates to be used for volunteer work with more than 25 local organizations that make a difference in the communities in which we operate. UDR provides paid time off during specified, Company-wide volunteer days in 2019 and our associates responded with a 25% year-over-year increase in volunteer hours. While the COVID-19 pandemic negatively affected the program in 2020, we intend to continue it when we are able.
+
+
+COVID-19 and Employee Safety, Health and Wellness
+
+
+The safety, health and wellness of our associates is a top priority. The COVID-19 pandemic presented a unique challenge with regard to maintaining associate safety, health and wellness while continuing to operate our business.
+
+During the pandemic, through the adaptability of our management and our associates, we were and continue to be able to transition to a work schedule allowing employees to work from remote locations and provide a safe working environment for associates performing resident-facing activities at our communities.  
+
+
+We have taken a number of actions to promote the health and well-being of our associates during the pandemic and to ensure that our associates understand their value to the Company. Among other things, we have:
+
+
+●	asked all associates not to come to work (and to work remotely, if possible) when they experienced or have been in contact with others who experienced signs or symptoms of a possible COVID-19 infection;
+●	provided up to two weeks of paid time off if an associate had an absence due to having COVID-19 symptoms or a COVID-19 diagnosis or are caring for others who have COVID-19 symptoms or a COVID-19 diagnosis;
+●	provided flexible work arrangements;
+●	provided a one-time bonus for the front-line associates at our communities;
+●	increased communication internally, including frequent calls or webinars with our associates and our Chairman and Chief Executive Officer; and
+●	offered a vacation buy-back program twice during 2020 whereby associates could sell a portion of their accrued but unused vacation back to the Company.  
+In addition, in connection with on-going efforts with respect to associate health and well-being in 2020, we created and distributed to all associates a brochure setting forth the mental health programs that our associates may access.  We also provide all associates with the opportunity to participate in a wide set of employee benefits, including health, dental and vision insurance coverage.
+
+
+Reporting Segments
+
+We report in two segments: Same-Store Communities and Non-Mature Communities/Other.
+
+Our Same-Store Communities segment represents those communities acquired, developed, and stabilized prior to January 1, 2019, and held as of December 31, 2020. These communities were owned and had stabilized occupancy and operating expenses as of the beginning of the prior year, there is no plan to conduct substantial redevelopment activities, and the communities are not classified as held for disposition at year end. A community is considered to have stabilized occupancy once it achieves 90% occupancy for at least three consecutive months.
+
+Our Non-Mature Communities/Other segment represents those communities that do not meet the criteria to be included in Same-Store Communities, including, but not limited to, recently acquired, developed and redeveloped communities, and the non-apartment components of mixed use properties. For additional information regarding our operating segments, see Note 16, Reportable Segments, in the Notes to the UDR Consolidated Financial Statements included in this Report and Note 12, Reportable Segments, in the Notes to the Operating Partnership’s Consolidated Financial Statements included in this Report.
+
+6
+
+Table of Contents
+
+Business Objectives
+
+Our principal business objective is to maximize the economic returns of our apartment communities to provide our stockholders with the greatest possible total return and value. To achieve this objective, we intend to continue to pursue the following goals and strategies:
+
+●	own and operate apartments in high barrier-to-entry markets, which are characterized by limited land for new construction, difficult and lengthy entitlement processes, low single-family home affordability and strong employment growth potential, thus enhancing stability and predictability of returns to our stockholders;
+●	manage real estate cycles by taking an opportunistic approach to buying, selling, renovating, redeveloping, and developing apartment communities;
+●	empower site associates to manage our communities efficiently and effectively;
+●	measure and reward associates based on specific performance targets; and
+●	manage our capital structure to help enhance predictability of liquidity, earnings and dividends.
+2020 Highlights
+
+Commitment to Shareholders
+
+● In July 2020, the Company marked its 48th year as a REIT and, in October 2020, paid its 192nd consecutive quarterly dividend. The Company’s annualized declared 2020 dividend of $1.44 represented a 5.1% increase over the previous year.
+
+Property Operations
+
+●
+
+Net income attributable to common stockholders was $60.0 million as compared to $180.9 million in the prior year. The decrease was primarily driven by an increase in depreciation expense and interest expense in 2020 and a decrease in gains on the sale of unconsolidated real estate in 2020, partially offset by higher total net operating income (“NOI”) in 2020 and higher gains on the sale of real estate in 2020.
+
+●
+
+Total revenues increased 7.7% and total NOI increased 5.6% over the prior year primarily due to communities acquired during 2020 and 2019, partially offset by negative rent growth in the San Francisco, New York, and Boston markets.
+
+Investing and Developments
+
+● We acquired one to-be-developed land parcel located in King of Prussia, Pennsylvania, for a total of approximately $16.2 million.
+
+● We commenced the development of two communities located in Washington, D.C., and King of Prussia, Pennsylvania, with a total of 500 apartment homes.
+
+● We acquired three communities with a total of 1,366 apartment homes located in Tampa, Florida, and Herndon, Virginia, for a total of approximately $335.6 million.
+
+● We increased our ownership interest in one community from our West Coast Development joint venture with a total of 276 apartment homes, located in Hillsboro, Oregon, for a total cash purchase price of approximately $21.6 million after the repayment of joint venture construction financing.
+
+● We recognized gains of $119.3 million from the sale of three operating communities located in Kirkland, Washington, Bellevue, Washington, and Alexandria, Virginia.
+
+● We contributed $66.3 million to four investments under our Developer Capital Program, which earn preferred returns ranging between 8.5% to 13.0%.
+
+7
+
+Table of Contents
+
+● Our full investment in one Development Capital Program investment was repaid, which earned an 11.0% preferred return. We received cash of $53.7 million, consisting of our investment of $38.6 million and contractually accrued interest of $15.1 million.
+
+Balance Sheet
+
+●	We issued $950.0 million of senior unsecured medium-term notes (including a $350.0 million “green bond”) at a weighted average contractual interest rate of 2.3%, and prepaid $300.0 million of senior unsecured medium-term notes at a weighted average interest rate of 3.69%.
+
+●	We repaid $425.8 million of secured debt at a weighted average contractual interest rate of 4.4% through the issuance of senior unsecured notes and the proceeds from the issuance of secured debt of $160.9 million at a weighted average interest rate of 2.62%
+● We sold 2.1 million shares of common stock through a forward sales agreement for aggregate net proceeds of $102.2 million at a weighted average price per share of $48.23 under our ATM program.
+
+● We repurchased 0.6 million shares of common stock at an average price of $33.11 per share for total consideration of approximately $19.8 million under our share repurchase program.
+
+Corporate Responsibility Report
+
+We have published our 2020 Annual Corporate Responsibility Report on our website, which discloses our environmental and social programs and performance. The report’s Environmental, Social, and Governance (ESG) disclosures were prepared in accordance with the Global Reporting Initiative (GRI) Standards (core), the Sustainability Accounting Standards Board (SASB) standards, and the Task Force for Climate-related Financial Disclosure (TCFD) framework.
+
+
+Refer to Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations, for further information on the Company’s and the Operating Partnership’s activities in 2020.
+
+COVID-19 Update
+
+On March 11, 2020, the World Health Organization declared COVID-19 a pandemic, and on March 13, 2020, the United States declared a national emergency with respect to COVID-19. The pandemic has led governments and other authorities around the world, including federal, state and local authorities in the United States, to impose measures intended to control its spread, including restrictions on freedom of movement and business operations such as travel bans, border closings, business closures, quarantines and shelter-in-place or similar orders. While vaccines have been developed and are being administered it is unclear when or if the vaccine may allow a return to pre-pandemic activity levels.
+
+While operations in certain areas have been allowed to fully or partially re-open, many areas are experiencing new closures or restrictions subsequent to re-opening and no assurance can be given that such closures or restrictions will not continue to occur. Our headquarters, all of our properties and our corporate offices are located in areas that are or have been subject to shelter-in-place orders and restrictions on the types of businesses that may continue to operate. These orders and restrictions and other impacts of the COVID-19 pandemic have adversely affected, and could continue to adversely affect, the ability of our residents and retail and commercial tenants to pay their rent. It is still uncertain how various legislation or orders adopted by the federal government and state and local governments, or those that may be modified or enacted in the future, may continue to impact, the ability of our residents and retail and commercial tenants to pay their rent. The governmental actions intended to prevent the spread of COVID-19 have also caused us to reduce staffing at certain of our locations, and have impacted, and may continue to impact, our ability to conduct our business in the ordinary course. Further, the federal government and a number of the states, counties and municipalities in which we operate have adopted, and may extend, eviction moratoriums, either directly or indirectly (such as through direction to law enforcement or courts not to serve notices or take actions related to eviction), which have negatively impacted, and may continue to negatively impact, our ability to enforce our legal and contractual rights and our ability to remove residents or retail and commercial tenants who are not paying their rent and our ability to rent their units or other space to new residents or retail and commercial tenants, respectively. In addition, certain jurisdictions have restricted our ability to charge certain fees, including fees for late payment of rent. We have received, and continue to receive, more
+
+8
+
+Table of Contents
+
+requests from our residents and retail and commercial tenants for assistance with respect to paying rent than we have historically received. In response, we have instituted a number of initiatives to assist residents and other tenants, including rent deferrals, payment plans, and waiving late payment fees when appropriate. In addition, we have seen an increase in tenant rent concessions compared to prior year periods, as discussed further below. In particular, the urban core markets of New York, NY, San Francisco Bay Area, CA, and Boston, MA have been more adversely impacted by the COVID-19 pandemic in comparison to our other markets, resulting in larger decreases in rental income from elevated rent concessions and lower occupancy in those markets. We also have experienced an increase in resident move-outs and turnover on an annualized basis. With respect to leasing activities, leasing traffic and visits by potential residents had decreased during much of the year; however, they increased during the quarter ended December 31, 2020 as compared to the same quarter in 2019. Our percentage of leases entered into with a prospective tenant has increased year over year.
+
+
+During the year ended December 31, 2020, the Company performed an analysis in accordance with the ASC 842, Leases, guidance to assess the collectibility of its operating lease receivables in light of the COVID-19 pandemic. This analysis included an assessment of collectibility of current and future rents and whether those lease payments were no longer probable of collection. In accordance with the leases guidance, if lease payments are no longer deemed to be probable over the life of the lease contract, we recognize revenue only when cash is received, and all existing contractual operating lease receivables and straight-line lease receivables are reserved.
+
+
+As a result of its analysis, the Company reserved approximately $13.5 million of multifamily tenant lease receivables and approximately $6.0 million of retail tenant lease receivables (inclusive of $3.3 million of reserves on straight-line lease receivables) for its wholly-owned communities and communities held by joint ventures. In aggregate, the reserve is reflected as an $18.4 million reduction to Rental income and a $1.1 million reduction to Income/(loss) from unconsolidated entities on the Consolidated Statements of Operations for the year ended December 31, 2020. The impact to deferred leasing commissions was not material for the year ended December 31, 2020.
+
+
+During the year ended December 31, 2020, the Company recorded an impairment charge of $3.1 million on its investment in equity securities of a non-core investment. The Company did not recognize any other adjustments to the carrying amounts of assets or asset impairment charges due to the COVID-19 pandemic for the year ended December 31, 2020.
+
+As of January 31, 2021, we had collected 97.0%, 96.1% and 95.2% of billed monthly rents for our multifamily residents for October, November and December, respectively. While our cash rent collections in November, December, and January showed marginal declines versus October, this slight seasonal deterioration is consistent with historical collection trends in prior years.
+
+
+The Operating Partnership reserved approximately $5.5 million of multifamily tenant lease receivables and approximately $3.5 million of retail tenant lease receivables (inclusive of $2.2 million of reserves on straight-line lease receivables) for its wholly-owned communities. In aggregate, the reserve is reflected as a $9.0 million reduction to Rental income on the Consolidated Statements of Operations for the year ended December 31, 2020. The impact to deferred leasing commissions was not material for the year ended December 31, 2020.
+
+
+The Operating Partnership did not recognize any other adjustments to the carrying amounts of assets or asset impairment charges due to the COVID-19 pandemic for the year ended December 31, 2020.
+
+
+Our Strategic Vision
+
+Our strategic vision is to be the multifamily public REIT of choice. We intend to realize this vision by executing on our strategic objectives, which are:
+
+1.	Maintaining a Diversified Portfolio and Allocating Capital to Accretive Investment Opportunities
+2.	Maintaining a Strong Balance Sheet
+3.	Consistently Driving Operating Excellence
+4.	Advancing a Strong Corporate Culture and Ensuring High Resident Satisfaction
+9
+
+Table of Contents
+
+Maintaining a Diversified Portfolio and Allocating Capital to Accretive Investment Opportunities
+
+We believe greater portfolio diversification, as defined by geographic concentration, location within a market (i.e., urban or suburban) and property quality (i.e., A or B), reduces the volatility of our same-store growth throughout the real estate cycle, appeals to a wider renter and investor audience and lessens the market risk associated with owning a homogenous portfolio. Diversified characteristics of our portfolio include:
+
+●	our consolidated apartment portfolio includes 149 communities located in 21 markets throughout the U.S., including both coastal and sunbelt locations; and
+●	our mix of urban/suburban communities is approximately 37%/63% and our mix of A/B quality properties is approximately 55%/45%.
+We are focused on increasing our presence in markets with favorable job formation, high propensity to rent, low single-family home affordability, and a favorable demand/supply ratio for multifamily housing. Portfolio investment decisions consider internal analyses and third-party research.
+
+Acquisitions and Dispositions
+
+When evaluating potential acquisitions, we consider a wide variety of factors, including:
+
+●	whether it is located in a high barrier-to-entry market;
+●	population growth, cost of alternative housing, overall potential for economic growth and the tax and regulatory environment of the market in which the property is located;
+●	geographic location, including proximity to jobs, entertainment, transportation, and our existing communities which can deliver significant economies of scale;
+●	construction quality, condition and design of the property;
+●	current and projected cash flow of the property and the ability to increase cash flow;
+●	ability of the property’s projected returns to exceed our cost of capital;
+●	potential for capital appreciation of the property;
+●	ability to increase the value and profitability of the property through operations and redevelopment;
+●	terms of resident leases, including the potential for rent increases;
+●	occupancy and demand by residents for properties of a similar type in the vicinity;
+●	prospects for liquidity through sale, financing or refinancing of the property; and
+●	competition from existing multifamily communities and the potential for the construction of new multifamily properties in the area.
+We regularly monitor our assets to increase the quality and performance of our portfolio. Factors we consider in deciding whether to dispose of a property include:
+
+●	whether it is in a market targeted for divestment or a reduction in investment;
+●	current market price for an asset compared to projected economics for that asset;
+●	potential increases in new construction in the market area;
+●	areas with low job growth prospects;
+●	near- and long-term capital expenditure needs for the asset; and
+10
+
+Table of Contents
+
+●	operating efficiencies.
+The following table summarizes our apartment community acquisitions and dispositions and our consolidated year-end ownership position for the past five years (dollars in thousands):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+2020
+
+    
+
+2019
+
+    
+
+2018
+
+    
+
+2017
+
+    
+
+2016
+
+Homes acquired
+
+ 
+
+
+ 1,642
+
+ 
+
+
+ 7,079
+
+ 
+
+
+ —
+
+ 
+
+
+ 462
+
+ 
+
+
+ 508
+
+Homes disposed
+
+ 
+
+
+ 599
+
+ 
+
+
+ —
+
+ 
+
+
+ 868
+
+ 
+
+
+ 218
+
+ 
+
+
+ 1,782
+
+Homes owned at December 31, 
+
+ 
+
+
+ 48,283
+
+ 
+
+
+ 47,010
+
+ 
+
+
+ 39,931
+
+ 
+
+
+ 39,998
+
+ 
+
+
+ 39,454
+
+Total real estate owned, at cost
+
+
+$
+
+ 13,071,472
+
+
+$
+
+ 12,602,101
+
+
+$
+
+ 10,196,159
+
+
+$
+
+ 10,177,206
+
+
+$
+
+ 9,615,753
+
+
+The following table summarizes the Operating Partnership’s apartment community acquisitions and dispositions and year-end ownership position for the past five years (dollars in thousands):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+2020
+
+    
+
+2019
+
+    
+
+2018
+
+    
+
+2017
+
+    
+
+2016
+
+ 
+
+Homes acquired
+
+ 
+
+
+ 1,072
+
+ 
+
+
+ —
+
+ 
+
+
+ —
+
+ 
+
+
+ 218
+
+
+
+ —
+
+
+Homes disposed
+
+ 
+
+
+ 332
+
+ 
+
+
+ —
+
+ 
+
+
+ 264
+
+ 
+
+
+ 218
+
+
+
+ 276
+
+
+Homes owned at December 31, 
+
+ 
+
+
+ 17,174
+
+ 
+
+
+ 16,434
+
+ 
+
+
+ 16,434
+
+ 
+
+
+ 16,698
+
+
+
+ 16,698
+
+
+Total real estate owned, at cost
+
+
+$
+
+ 4,043,725
+
+
+$
+
+ 3,875,160
+
+
+$
+
+ 3,811,985
+
+
+$
+
+ 3,816,956
+
+
+$
+
+ 3,674,704
+
+
+
+Development Activities
+
+Our objective in developing a community is to create value while improving the quality of our portfolio. How demographic trends, economic drivers, and multifamily fundamentals and valuations have trended over the long-term and our portfolio strategy generally govern our review process on where and when to allocate development capital. At December 31, 2020, the Company was developing five wholly-owned communities located in Addison, Texas, Denver, Colorado, Dublin, California, Washington, D.C., and King of Prussia, Pennsylvania, totaling 1,378 homes, 202 of which have been completed, with a budget of $491.5 million, in which we have an investment of $247.9 million. The communities are estimated to be completed between the first quarter of 2021 and the second quarter of 2023.
+
+Redevelopment Activities
+
+Our objective in redeveloping a community is twofold: we aim to grow rental rates while also producing a higher yielding and more valuable asset through asset quality improvement. During the year ended December 31, 2020, we incurred $48.3 million in major renovations, which included major structural changes and/or architectural revisions to existing buildings. As of December 31, 2020, the Company was not redeveloping any communities.
+
+Joint Venture and Partnership Activities
+
+We have entered into, and may continue in the future to enter into, joint ventures (including limited liability companies or partnerships) through which we would own an indirect economic interest of less than 100% of the community or communities owned directly by such joint ventures. Our decision to either hold an apartment community in fee simple or have an indirect interest in the community through a joint venture is based on a variety of factors and considerations, including: (i) the economic and tax terms required by the seller of land or a community; (ii) our desire to diversify our portfolio of communities by market, submarket and product type; (iii) our desire at times to preserve our capital resources to maintain liquidity or balance sheet strength; and (iv) our projections, in some circumstances, that we will achieve higher returns on our invested capital or reduce our risk if a joint venture vehicle is used. Each joint venture agreement is individually negotiated, and our ability to operate and/or dispose of a community in our sole discretion may be limited to varying degrees depending on the terms of the joint venture agreement.
+
+Maintaining a Strong Balance Sheet
+
+We maintain a capital structure that we believe allows us to proactively source potential investment opportunities in the marketplace. We have structured our debt maturity schedule to be able to opportunistically access both secured and unsecured debt markets when appropriate.
+
+As part of our plan to finance our activities, we utilize proceeds from debt and equity offerings and refinancings to extend maturities, pay down existing debt, fund development and redevelopment activities, and acquire apartment communities.
+
+11
+
+Table of Contents
+
+Consistently Driving Operational Excellence
+
+Investment in new technologies continues to drive operating efficiencies in our business and help us to better meet the changing needs of our business and our residents. Our residents can conduct business with us 24 hours a day, 7 days a week and complete online leasing applications and renewals throughout our portfolio using our web-based resident internet portal or, increasingly, a smart-device application.
+
+As a result of transforming our operations through technology, residents’ satisfaction has improved, and our operating teams have become more efficient. Web-based technologies have also resulted in declining marketing and advertising costs, improved cash management, and better pricing management of our available apartment homes.
+
+Operating Partnership Strategies and Vision
+
+The Operating Partnership’s long-term strategic vision is the same as that of the Company described above.
+
+Competitive Conditions
+
+Competition for new residents is generally intense across our markets. Some competing communities offer amenities that our communities do not have. Competing communities can use rental concessions or lower rents to obtain temporary competitive advantages. Also, some competing communities are larger or newer than our communities. The competitive position of each community is different depending upon many factors, including sub-market supply and demand. In addition, other real estate investors compete with us to acquire existing properties, redevelop existing properties, and to develop new properties. These competitors include insurance companies, pension and investment funds, public and private real estate companies, investment companies and other public and private apartment REITs, some of which may have greater resources, or lower capital costs, than we do.
+
+We believe that, in general, we are well-positioned to compete effectively for residents and investments. We believe our competitive advantages include:
+
+●	a fully integrated organization with property management, development, redevelopment, acquisition, marketing, sales and financing expertise;
+●	scalable operating and support systems, which include automated systems to meet the changing electronic needs of our residents and to effectively focus on our internet marketing efforts;
+●	access to sources of capital;
+●	geographic diversification with a presence in 21 markets across the country; and
+●	significant presence in many of our major markets that allows us to be a local operating expert.
+Moving forward, we will continue to optimize lease management, improve expense control, increase resident retention efforts and align employee incentive plans with metrics that impact our bottom-line performance. We believe this plan of operation, coupled with the portfolio’s strengths in targeting renters across a geographically diverse platform, should position us for continued operational upside.
+
+Communities
+
+At December 31, 2020, our consolidated real estate portfolio included 149 communities with a total of 48,283 completed apartment homes, which included the Operating Partnership’s consolidated real estate portfolio of 53 communities with a total of 17,174 completed apartment homes. The overall quality of our portfolio generally enables us to raise rents and to attract residents with higher levels of disposable income who are more likely to absorb such rents.
+
+At December 31, 2020, the Company was developing five wholly-owned communities located in Addison, Texas, Denver, Colorado, Dublin, California, Washington, D.C., and King of Prussia, Pennsylvania, totaling 1,378 homes, 202 of which have been completed, with a budget of $491.5 million, in which we have an investment of $247.9 million. The communities are estimated to be completed between the first quarter of 2021 and the second quarter of 2023.
+
+At December 31, 2020, the Company was not redeveloping any communities.
+
+12
+
+Table of Contents
+
+Same-Store Community Comparison
+
+We believe that one pertinent quantitative measurement of the performance of our portfolio is tracking the results of our Same-Store Communities’ NOI, which is total rental revenue, less rental and other operating expenses excluding property management. Our Same-Store Community population is comprised of operating communities which we own and have stabilized occupancy, revenues and expenses as of the beginning of the prior year.
+
+Net income attributable to common stockholders was $60.0 million as compared to $180.9 million in the prior year. The decrease was primarily driven by an increase in depreciation expense and interest expense in 2020 and a decrease in gains on the sale of unconsolidated real estate in 2020, partially offset by higher total NOI in 2020 and higher gains on the sale of real estate in 2020.
+
+For the year ended December 31, 2020, our Same-Store NOI decreased by $(40.2) million compared to the prior year. Our Same-Store Community properties provided 75.5% of our total NOI for the year ended December 31, 2020. The decrease in NOI for the 37,607 Same-Store apartment homes, or 77.9% of our portfolio, was primarily driven by an increase in our reserve on multifamily tenant lease receivables, higher rent concessions, economic occupancy loss, higher repair and maintenance expense and real estate taxes, partially offset by an increase in rental rates, an increase in reimbursement, ancillary and fee income, and a decrease in personnel expense.
+
+For the year ended December 31, 2020, the Operating Partnership’s Same-Store NOI decreased by $17.7 million compared to the prior year. The Operating Partnership’s Same-Store Community properties provided 93.1% of its total NOI for the year ended December 31, 2020. The decrease in NOI for the 15,607 Same-Store apartment homes, or 90.9% of the Operating Partnership’s portfolio, was primarily driven by an increase in our reserve on multifamily tenant lease receivables, higher rent concessions, economic occupancy loss, higher repair and maintenance expense and real estate taxes, partially offset by an increase in rental rates, an increase in reimbursement, ancillary and fee income, and a decrease in personnel expense.
+
+Revenue growth in 2021 may be impacted by adverse developments affecting the general economy, inclusive of economic conditions as a result of the COVID-19 pandemic, reduced occupancy rates, increased rental concessions, new supply, increased bad debt and other factors which may adversely impact our ability to increase rents.
+
+Tax Matters
+
+UDR has elected to be taxed as a REIT under the Code. To continue to qualify as a REIT, UDR must continue to meet certain tests that, among other things, generally require that our assets consist primarily of real estate assets, our income be derived primarily from real estate assets, and that we distribute at least 90% of our REIT taxable income (other than net capital gains) to our stockholders annually. Provided we maintain our qualification as a REIT, we generally will not be subject to U.S. federal income taxes at the corporate level on our net income to the extent such net income is distributed to our stockholders annually. Even if we continue to qualify as a REIT, we will continue to be subject to certain federal, state and local taxes on our income and property.
+
+We may utilize our taxable REIT subsidiary (“TRS”) to engage in activities that REITs may be prohibited from performing, including the provision of management and other services to third parties and the conduct of certain nonqualifying real estate transactions. Our TRS generally is taxable as a regular corporation, and therefore, subject to federal, state and local income taxes.
+
+The Operating Partnership intends to qualify as a partnership for federal income tax purposes. As a partnership, the Operating Partnership generally is not a taxable entity and does not incur federal income tax liability. However, any state or local revenue, excise or franchise taxes that result from the operating activities of the Operating Partnership are incurred at the entity level.
+
+Inflation
+
+We believe that the direct effects of inflation on our operations have been immaterial. While the impact of inflation primarily impacts our results of operations as a result of wage pressures and increases in utilities and material costs, the majority of our apartment leases have initial terms of 12 months or less, which generally enables us to compensate for any inflationary effects by increasing rents on our apartment homes. Although an extreme escalation in costs could have a negative impact on our residents and their ability to absorb rent increases, we do not believe this has had a material impact on our results for the year ended December 31, 2020.
+
+13
+
+Table of Contents
+
+Environmental Matters
+
+Various environmental laws govern certain aspects of the ongoing operation of our communities. Such environmental laws include those regulating the existence of asbestos-containing materials in buildings, management of surfaces with lead-based paint (and notices to residents about the lead-based paint), use of active underground petroleum storage tanks, and waste-management activities. The failure to comply with such requirements could subject us to a government enforcement action and/or claims for damages by a private party.
+
+To date, compliance with federal, state and local environmental protection regulations has not had a material effect on our capital expenditures, earnings or competitive position. We have a property management plan for hazardous materials. As part of the plan, Phase I environmental site investigations and reports have been completed for each property we acquire. In addition, all proposed acquisitions are inspected prior to acquisition. The inspections are conducted by qualified environmental consultants, and we review the issued report prior to the purchase or development of any property. Nevertheless, it is possible that the environmental assessments will not reveal all environmental liabilities, or that some material environmental liabilities exist of which we are unaware. In some cases, we have abandoned otherwise economically attractive acquisitions because the costs of removal or control of hazardous materials have been prohibitive or we have been unwilling to accept the potential risks involved. We do not believe we will be required to engage in any large-scale abatement at any of our properties. We believe that through professional environmental inspections and testing for asbestos, lead paint and other hazardous materials, coupled with a relatively conservative posture toward accepting known environmental risk, we can minimize our exposure to potential liability associated with environmental hazards.
+
+Federal legislation requires owners and landlords of residential housing constructed prior to 1978 to disclose to potential residents or purchasers of the communities any known lead paint hazards and imposes treble damages for failure to provide such notification. In addition, lead based paint in any of the communities may result in lead poisoning in children residing in that community if chips or particles of such lead based paint are ingested, and we may be held liable under state laws for any such injuries caused by ingestion of lead based paint by children living at the communities.
+
+We are unaware of any environmental hazards at any of our properties that individually or in the aggregate may have a material adverse impact on our operations or financial position. We have not been notified by any governmental authority, and we are not otherwise aware, of any material non-compliance, liability, or claim relating to environmental liabilities in connection with any of our properties. We do not believe that the cost of continued compliance with applicable environmental laws and regulations will have a material adverse effect on us or our financial condition or results of operations. Future environmental laws, regulations, or ordinances, however, may require additional remediation of existing conditions that are not currently actionable. Also, if more stringent requirements are imposed on us in the future, the costs of compliance could have a material adverse effect on our results of operations and our financial condition.
+
+Insurance
+
+We carry comprehensive general liability coverage on our communities, with limits of liability customary within the multi-family apartment industry to insure against liability claims and related defense costs. We are also insured, with limits of liability customary within the multi-family apartment industry, against the risk of direct physical damage in amounts necessary to reimburse us on a replacement cost basis for costs incurred to repair or rebuild each property, including loss of rental income during the reconstruction period.
+
+Available Information
+
+Both UDR and the Operating Partnership file electronically with the Securities and Exchange Commission their respective annual reports on Form 10-K, quarterly reports on Form 10-Q, and current reports on Form 8-K, pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934. You may obtain a free copy of our annual reports on Form 10-K, quarterly reports on Form 10-Q, and current reports on Form 8-K, and amendments to those reports on the day of filing with the SEC on our website at www.udr.com, or by sending an e-mail message to ir@udr.com.
+
+
