@@ -20,7 +20,7 @@ def kl_div(mu, log_sigma):
 
 class NVDM(nn.Module):
     """ Neural Variational Document Model -- BOW VAE. """
-    def __init__(self, vocab_size, n_hidden, n_topic, n_sample, device):
+    def __init__(self, vocab_size, n_hidden, n_topic, n_sample, device, learn_embeddings=False):
         super().__init__()
         self.vocab_size = vocab_size
         self.n_hidden = n_hidden
@@ -36,14 +36,17 @@ class NVDM(nn.Module):
         # This converts variable-length sentences into BOW representations
         # Disable learning word embeddings for now.
         self.embed_bow = nn.EmbeddingBag(vocab_size, vocab_size, mode="sum")
-        self.embed_bow.requires_grad_(False)
-        assert not self.embed_bow.weight.requires_grad
-        assert self.embed_bow.weight.size() == (vocab_size, vocab_size)
 
-        # Convert "embeddings" into non-trainable identity matrix
-        # (i.e. word embeddings are one-hot)
-        self.embed_bow.weight.zero_()
-        self.embed_bow.weight.fill_diagonal_(1.0)
+        if not learn_embeddings:
+            # Convert "embeddings" into non-trainable identity matrix
+            # (i.e. word embeddings are always one-hot)
+            # So this effectively becomes a CountVectorizer.
+            self.embed_bow.requires_grad_(False)
+            assert not self.embed_bow.weight.requires_grad
+            assert self.embed_bow.weight.size() == (vocab_size, vocab_size)
+
+            self.embed_bow.weight.zero_()
+            self.embed_bow.weight.fill_diagonal_(1.0)
 
         # Encoder: takes the bag-of-words representation of a document
         # and generates an intermediate/hidden representation.
@@ -98,7 +101,7 @@ class NVDM(nn.Module):
         logits = torch.log_softmax(self.decoder(doc_vec), dim=1)
         return logits
 
-    def forward(self, text, offsets):
+    def forward(self, text, offsets, kl_weight=1.0):
         """ Here we compute both the logits and total loss. """
         X_bow, mu, log_sigma = self.encode(text, offsets)
         logits = self.decode(X_bow, mu, log_sigma)
@@ -112,5 +115,8 @@ class NVDM(nn.Module):
         # KL divergence loss
         loss_kl = kl_div(mu, log_sigma)
 
-        loss_total = loss_rec + loss_kl
+        # Possible improvement: can add a hyperparameter (beta)
+        # control the weighting of KL.
+        # e.g. loss_total = loss_rec + b * loss_kl
+        loss_total = loss_rec + kl_weight * loss_kl
         return logits, {"rec": loss_rec, "kl": loss_kl, "total": loss_total}
