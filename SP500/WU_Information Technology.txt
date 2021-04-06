@@ -1,0 +1,620 @@
+PART I
+
+FORWARD-LOOKING STATEMENTS
+
+This Annual Report on Form 10-K and materials we have filed or will file with the Securities and Exchange Commission (“SEC”) (as well as information included in our other written or oral statements) contain or will contain certain statements that are forward-looking within the meaning of the Private Securities Litigation Reform Act of 1995. These statements are not guarantees of future performance and involve certain risks, uncertainties, and assumptions that are difficult to predict. Actual outcomes and results may differ materially from those expressed in, or implied by, our forward-looking statements. Words such as “expects,” “intends,” “targets,” “anticipates,” “believes,” “estimates,” “guides,” “provides guidance,” “provides outlook,” and other similar expressions or future or conditional verbs such as “may,” “will,” “should,” “would,” “could,” and “might” are intended to identify such forward-looking statements. Readers of the Annual Report on Form 10-K of The Western Union Company (the “Company,” “Western Union,” “we,” “our,” or “us”) should not rely solely on the forward-looking statements and should consider all uncertainties and risks discussed in Part I, Item 1A, Risk Factors and throughout this Annual Report on Form 10-K. The statements are only as of the date they are made, and the Company undertakes no obligation to update any forward-looking statement.
+
+Possible events or factors that could cause results or performance to differ materially from those expressed in our forward-looking statements include the following:
+
+Events Related to Our Business and Industry
+
+●	changes in general economic conditions and economic conditions in the regions and industries in which we operate, including global economic downturns and trade disruptions, or significantly slower growth or declines in the money transfer, payment service, and other markets in which we operate, including downturns or declines related to interruptions in migration patterns or other events, such as public health emergencies, epidemics, or pandemics, such as COVID-19, civil unrest, war, terrorism, natural disasters, or non-performance by our banks, lenders, insurers, or other financial services providers;
+●	failure to compete effectively in the money transfer and payment service industry, including among other things, with respect to price, with global and niche or corridor money transfer providers, banks and other money transfer and payment service providers, including digital, mobile and internet-based services, card associations, and card-based payment providers, and with digital currencies and related protocols, and other innovations in technology and business models;
+●	political conditions and related actions, including trade restrictions and government sanctions, in the United States and abroad, which may adversely affect our business and economic conditions as a whole, including interruptions of United States or other government relations with countries in which we have or are implementing significant business relationships with agents, clients, or other partners;
+●	deterioration in customer confidence in our business, or in money transfer and payment service providers generally;
+●	failure to maintain our agent network and business relationships under terms consistent with or more advantageous to us than those currently in place;
+●	our ability to adopt new technology and develop and gain market acceptance of new and enhanced services in response to changing industry and consumer needs or trends;
+●	changes in, and failure to manage effectively, exposure to foreign exchange rates, including the impact of the regulation of foreign exchange spreads on money transfers and payment transactions;
+3
+
+Table of Contents
+
+●	any material breach of security, including cybersecurity, or safeguards of or interruptions in any of our systems or those of our vendors or other third parties;
+●	cessation of or defects in various services provided to us by third-party vendors;
+●	mergers, acquisitions, and the integration of acquired businesses and technologies into our Company, divestitures, and the failure to realize anticipated financial benefits from these transactions, and events requiring us to write down our goodwill;
+●	decisions to change our business mix;
+●	our ability to realize the anticipated benefits from restructuring-related initiatives, which may include decisions to downsize or to transition operating activities from one location to another, and to minimize any disruptions in our workforce that may result from those initiatives;
+●	failure to manage credit and fraud risks presented by our agents, clients, and consumers;
+●	changes in tax laws, or their interpretation, any subsequent regulation, and potential related state income tax impacts, and unfavorable resolution of tax contingencies;
+●	adverse rating actions by credit rating agencies;
+●	our ability to protect our trademarks, patents, copyrights, and other intellectual property rights, and to defend ourselves against potential intellectual property infringement claims;
+●	our ability to attract and retain qualified key employees and to manage our workforce successfully;
+●	material changes in the market value or liquidity of securities that we hold;
+●	restrictions imposed by our debt obligations;
+Events Related to Our Regulatory and Litigation Environment
+
+●	liabilities or loss of business resulting from a failure by us, our agents, or their subagents to comply with laws and regulations and regulatory or judicial interpretations thereof, including laws and regulations designed to protect consumers, or detect and prevent money laundering, terrorist financing, fraud, and other illicit activity;
+●	increased costs or loss of business due to regulatory initiatives and changes in laws, regulations and industry practices and standards, including changes in interpretations, in the United States and abroad, affecting us, our agents or their subagents, or the banks with which we or our agents maintain bank accounts needed to provide our services, including related to anti-money laundering regulations, anti-fraud measures, our licensing arrangements, customer due diligence, agent and subagent due diligence, registration and monitoring requirements, consumer protection requirements, remittances, and immigration;
+●	liabilities, increased costs or loss of business and unanticipated developments resulting from governmental investigations and consent agreements with or enforcement actions by regulators;
+●	liabilities resulting from litigation, including class-action lawsuits and similar matters, and regulatory enforcement actions, including costs, expenses, settlements, and judgments;
+4
+
+Table of Contents
+
+●	failure to comply with regulations and evolving industry standards regarding consumer privacy, data use, the transfer of personal data between jurisdictions, and information security, including with respect to the General Data Protection Regulation (“GDPR”) in the European Union ("EU") and the California Consumer Privacy Act;
+●	failure to comply with the Dodd-Frank Wall Street Reform and Consumer Protection Act (the “Dodd-Frank Act”), as well as regulations issued pursuant to it and the actions of the Consumer Financial Protection Bureau (“CFPB”) and similar legislation and regulations enacted by other governmental authorities in the United States and abroad related to consumer protection and derivative transactions;
+●	effects of unclaimed property laws or their interpretation or the enforcement thereof;
+●	failure to maintain sufficient amounts or types of regulatory capital or other restrictions on the use of our working capital to meet the changing requirements of our regulators worldwide;
+●	changes in accounting standards, rules and interpretations, or industry standards affecting our business;
+Other Events
+
+●	catastrophic events; and
+●	management’s ability to identify and manage these and other risks.
+
+
+5
+
+Table of Contents
+
+Item 1. Business
+
+Overview
+
+The Western Union Company (the “Company,” “Western Union,” “we,” “our,” or “us”) is a leader in global money movement and payment services, providing people and businesses with fast, reliable and convenient ways to send money and make payments around the world.
+
+The Western Union® brand is globally recognized and represents speed, reliability, trust and convenience. Our Consumer-to-Consumer money transfer service enables people to use our well-recognized brand to send money around the world, usually within minutes. As of December 31, 2020, our global network included over 550,000 agent locations in more than 200 countries and territories and many Western Union branded or partner websites in a growing number of countries and territories. Each location in our agent network is capable of facilitating a consumer’s use of one or more of our services, with the majority offering a Western Union branded service. As of December 31, 2020, more than 65% of our agent locations had conducted money transfer activity in the previous 12 months.
+
+Our Business Solutions services facilitate payment and foreign exchange solutions, primarily cross-border, cross-currency transactions, for small and medium size enterprises and other organizations and individuals. The majority of this business relates to exchanges of currency at spot rates, which enable customers to make cross-currency payments. In addition, in certain countries, we write foreign currency forward and option contracts for customers to facilitate future payments.
+
+We believe that brand strength, size and reach of our global network, convenience, reliability and value for the price paid have been important to the growth of our business. As we continue to seek to meet the needs of our customers for fast, reliable, and convenient global money movement and payment services, with a continued focus on regulatory compliance, we are also working to provide consumers and our business clients with access to an expanding portfolio of payment and other financial services and to expand the ways our services can be accessed.
+
+Our Segments
+
+We manage our business around the consumers and businesses we serve and the types of services we offer. Each of our segments addresses a different combination of customer groups, distribution networks, and services offered. Our segments are Consumer-to-Consumer and Business Solutions.
+
+All businesses and other services that have not been classified in these segments are reported as Other, which primarily includes our bill payment services, which facilitate payments from consumers to businesses and other organizations. In May 2019, we sold a substantial majority of our United States based electronic bill payments services, as discussed below. Our money order and other services, in addition to certain corporate costs such as costs related to strategic initiatives, including costs for the review and closing of mergers, acquisitions, and divestitures, are also included in Other.
+
+The table below presents the components of our consolidated revenue.
+
+
+
+
+
+
+
+
+
+
+
+
+Year Ended December 31, 
+
+ 
+
+
+    
+
+2020
+
+    
+
+2019
+
+    
+
+2018
+
+    
+
+Consumer-to-Consumer
+
+ 
+
+ 87
+
+%  
+
+ 83
+
+%  
+
+ 80
+
+%
+
+Business Solutions
+
+ 
+
+ 8
+
+%  
+
+ 7
+
+%  
+
+ 7
+
+%
+
+Other
+
+ 
+
+ 5
+
+%  
+
+ 10
+
+%  
+
+ 13
+
+%
+
+
+ 
+
+ 100
+
+%  
+
+ 100
+
+%  
+
+ 100
+
+%
+
+
+No individual country or territory outside the United States accounted for more than 7% of our consolidated revenue for each of the years ended December 31, 2020, 2019, and 2018.
+
+See Part I, Item 1A, Risk Factors, for a discussion of certain risks relating to our foreign operations.
+
+6
+
+Table of Contents
+
+Consumer-to-Consumer Segment
+
+Money transfers from one consumer to another are the core of our business, representing 87% of our total consolidated revenues for 2020. A substantial majority of these transfers were cross-border transactions. Our money transfer service is mainly conducted through our retail agent locations worldwide but also includes our fast-growing money transfer transactions conducted and funded through websites and mobile applications marketed under our brands (“westernunion.com”) and transactions initiated on internet and mobile applications hosted by our third-party white label or co-branded digital partners (together with westernunion.com, “Digital Money Transfer”). This segment includes five geographic regions whose functions are primarily related to generating, managing, and maintaining agent relationships and localized marketing activities. We include Digital Money Transfer transactions in these regions, including transactions from our arrangements with financial institutions and other third parties to enable such entities to offer money transfer services to their own customers under their brands, as further discussed below. By means of common processes and systems, these regions, including Digital Money Transfer, create one interconnected global network for consumer transactions, thereby constituting one Consumer-to-Consumer money transfer business and one operating segment.
+
+Operations
+
+Our revenues are primarily derived from consideration paid by customers to transfer money. These revenues vary by transaction based upon factors such as channel, send and receive locations, the principal amount sent, whether the money transfer involves different send and receive currencies, the difference between the exchange rate set by us to the consumer and the rate available in the wholesale foreign exchange market, and speed of service, as applicable.
+
+In a typical money transfer transaction, a consumer provides information, either at one of our agent or subagent locations or online, specifying, among other things, the name and other identifying information regarding the recipient and the principal amount of the transfer. The consumer also provides funds for the transaction, including fees. Certain of these processes are streamlined for consumers who participate in our loyalty programs or are registered westernunion.com customers. This information is entered into our money transfer system and the funds are made available for pick-up by the recipient within our system, usually within minutes, in the country or territory specified by the consumer, or paid into the designated account of the recipient. In some jurisdictions, the principal and fees are not collected until after the presentation of our written disclosure that generally identifies the exchange rate and all fees and charges associated with the transaction and the consumer has agreed to the transaction, as described in the disclosure. Consumers then receive a unique identifying number assigned by our system, which the consumer must communicate to the recipient in order to obtain the principal. The recipient generally enters an agent location in the designated receiving country or territory, presents the unique identifying number and identification, where applicable, and is paid the transferred amount by our agent based on the information in our system. Recipients generally do not pay a fee. However, in limited circumstances, a tax may be imposed by the local government on the receipt of the money transfer, or a fee may be charged by the recipient’s institution related to the use of an account. We determine the fee paid by the sender, which generally is based on the principal amount of the transaction, the send and receive country or territory, speed of service, and channel.
+
+In a retail transaction, we generally pay our agents a commission based on a percentage of revenue. A commission is usually paid to both the agent that initiated the transaction, the “send agent,” and the agent that paid the transaction, the “receive agent.” For most agents, the costs of providing the physical infrastructure and staff are typically covered by the agent’s primary business (e.g., postal services, banking, check cashing, travel, and retail businesses), making the economics of being a Western Union agent attractive. Western Union’s global reach and large consumer base allow us to attract agents we believe to be well-positioned to deliver our services. In a westernunion.com transaction, we typically pay a credit card processor or bank a fee for collecting the principal, and we are also responsible for losses from chargebacks and fraud, in addition to commissions owed to the receive agent.
+
+No individual country or territory outside the United States accounted for greater than 8% of this segment’s revenue during all periods presented.
+
+7
+
+Table of Contents
+
+Services
+
+We offer money transfer services in more than 200 countries and territories, with a number of options for sending funds that provide consumers convenience and choice, through both our retail and Digital Money Transfer channels.
+
+●	Retail money transfer - The majority of our remittances constitute retail transactions in which payment is collected by one of our agents and is available for pick-up at another agent location, usually within minutes. We offer a variety of methods for consumers to initiate transactions. In select markets, consumers may stage a transaction either online or using a mobile device and subsequently pay for the transaction at one of our agent locations. Additionally, in certain agent locations, consumers can enter a transaction at a self-service kiosk and subsequently pay for the transaction at the counter of the location.
+●	Digital Money Transfer - In many countries and territories, consumers can initiate a money transfer from a Western Union branded website or mobile application or from sites and applications hosted by our third-party white label or co-branded digital partners.
+Although the majority of transactions are funded with cash, consumers can fund a transaction in a variety of ways. For example, at certain of our agent locations, consumers can fund a transaction using a debit card, and, where available, consumers can fund a money transfer from an account and through an account using an automated teller machine (“ATM”). In Digital Money Transfer channels, consumers can generally fund transactions using a credit card, debit card, electronic funds transfer processed through the automated clearing house (“ACH”) payment system or similar system outside the United States, online banking direct payment methods, or other bank account-based payment.
+
+We also provide several options for the receipt of funds. At our retail agent locations, consumers generally receive payments in cash. However, in certain countries, our retail agents may also issue a money order or check or provide payout through an ATM. Funds can also be directed to a bank account in many countries, by either the sender or receiver, and in more limited circumstances, can be directed to a mobile wallet, a stored-value card, or debit card.
+
+Distribution and Marketing Channels
+
+We offer our Consumer-to-Consumer services around the world primarily through our global network of third-party agents and sub-agents in most countries and territories, with approximately 90% of our agent locations being located outside the United States. Our agents facilitate the global distribution and convenience associated with our brands, which in turn helps create demand for our services, and helps us to recruit and retain agents. Western Union agents include large networks such as post offices, banks and retailers, and other established organizations as well as smaller independent retail locations, which typically provide other consumer products and services. Many of our agents have multiple locations. Our agents know the markets that they serve and leverage this local knowledge to develop business plans for their markets. In some regions, our agents contribute financial resources to, or otherwise support, our efforts to market our services. Many agents operate in locations that are open outside of traditional banking hours, for example on nights and weekends. Our top 40 agents and partners globally have been with us for more than 20 years, on average, and in 2020, these long-standing relationships accounted for transactions that generated nearly 60% of our Consumer-to-Consumer revenue. No individual agent or partner accounted for greater than 10% of the segment’s revenue during all periods presented.
+
+We provide our third-party agents with access to our multi-currency, real-time money transfer processing systems, which are used to originate and pay money transfers. Our systems and processes enable our agents to pay money transfers in over 130 currencies worldwide. Certain of our agents can pay in multiple currencies at a single location. Our agents provide the point-of-sale presence and facilitate the interface with Western Union required to complete the transfers. Western Union provides central operating functions such as transaction processing, settlement, marketing support, and consumer relationship management to our agents, as well as compliance training and related support. Some of our agents outside the United States manage subagents. We refer to these agents as superagents. Although the subagents are under contract with these superagents (and not with Western Union directly), the subagent locations typically have access to similar technology and services as our other agent locations. Our international agents often customize services as appropriate for their geographic markets. In some markets, individual agents are independently offering specific services
+
+8
+
+Table of Contents
+
+such as stored-value card or account payout options. While we typically perform services under the Western Union brand, in certain geographic regions, we operate under other brands targeted to the local market.
+
+We market our services to consumers in a number of ways, directly and indirectly through our agents and their subagents, leveraging promotional activities, grassroots, direct-to-consumer communications and digital advertising. Our marketing strategy includes a loyalty program such as “My WUSM” which is available in certain countries and territories. These programs offer consumers faster service at the point-of-sale and the opportunity to earn points on eligible products, such as money transfers and bill payments, and channels (including westernunion.com and mobile applications) that can be redeemed for rewards, such as reduced transaction fees. Redemption activity has been insignificant to the results of our operations.
+
+We cooperate with various partners around the world to offer a variety of branded, co-branded, and unbranded money transfer services, including services offered exclusively under the partners’ brands. While the terms of these arrangements vary, these services are often marketed by the third-party partner and offered under the partner’s license to provide money transfer services. As a result, the regulatory requirements applicable to us under these arrangements may also vary.
+
+Industry Trends
+
+Trends in the volume of cross-border money transfer activity correlate with migration, global economic opportunity and related employment levels worldwide. A significant trend currently impacting the money transfer industry is increasing regulation. Regulations in the United States and elsewhere focus, in part, on anti-money laundering, anti-terrorist financing, consumer protection, consumer privacy, data protection, and information security. Regulations require money transfer providers, banks and other financial institutions to develop systems to prevent, detect, monitor and report certain transactions. Such regulations increase the costs to provide money transfer services and can make it more difficult or less desirable for consumers and businesses to use money transfer services, either of which could have an adverse effect on money transfer providers’ revenues and operating income. For further discussion of the regulatory impact on our business, see the Regulation discussion in this section, Part I, Item 1A, Risk Factors, and the Enhanced Regulatory Compliance section in Part II, Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations. Additionally, our ability to enter into or maintain exclusive arrangements with our agents has been and may continue to be challenged by both regulators and certain of our current and prospective agents.
+
+We are seeing increased competition from, and increased market acceptance of, electronic, mobile, and internet-based money transfer services as well as digital currencies. This trend accelerated during 2020, as consumers responded to the COVID-19 pandemic by sending money increasingly through digital channels. We believe this shift in consumer preference will continue beyond the pandemic, resulting in an increasing proportion of remittances being sent through digital means in the future.
+
+Competition
+
+We face robust competition in the highly fragmented Consumer-to-Consumer money transfer industry. We compete with a variety of remittance providers, including:
+
+●	Global money transfer providers - Global money transfer providers allow consumers to send money to a wide variety of locations, in both their home countries and abroad.
+●	Regional money transfer providers - Regional money transfer providers, or “niche” providers, provide the same services as global money transfer providers, but focus on a smaller group of geographic corridors or services within one region, such as North America to the Caribbean, Central or South America, or Western Europe to North Africa.
+●	Digital channels - Digital money transfer service providers, including certain payment providers, allow consumers to send and receive money digitally using the internet or through mobile devices. Digital channels also include digital wallets, digital currencies, and social media and other predominantly communication or commerce-oriented platforms that offer money transfer services.
+9
+
+Table of Contents
+
+●	Banks, postbanks, and post offices - Banks, postbanks, and post offices of all sizes compete with us in a number of ways, including money transfers, bank transfer and wire services, payment instrument issuances, and card-based services.
+●	Informal networks - Informal networks enable people to transfer funds without formal mechanisms and often without compliance with government reporting requirements. We believe that such networks comprise a significant share of the market.
+●	Alternative channels - Alternative channels for sending and receiving money include mail and commercial courier services, and card-based options, such as ATM cards and stored-value cards.
+We believe the most significant competitive factors in Consumer-to-Consumer remittances relate to the overall consumer value proposition, including brand recognition, trust, reliability, consumer experience, price, speed of delivery, distribution network, variety of send and receive payment methods, and channel options.
+
+Business Solutions Segment
+
+In our Business Solutions segment, which represented 8% of our total consolidated revenues for 2020, we facilitate payment and foreign exchange solutions, primarily cross-border, cross-currency transactions, for small and medium size enterprises, and other organizations and individuals.
+
+Operations
+
+The significant majority of our revenue in this segment is derived from foreign exchange resulting from the difference between the exchange rate set by us to the customer and the rate available in the wholesale foreign exchange market. The significant majority of Business Solutions revenue was generated outside the United States during all periods presented.
+
+Services
+
+The majority of our Business Solutions business relates to exchanges of currency at spot rates, which enable customers to make cross-currency payments. For certain industries such as educational institutions, financial institutions, and law firms, we provide tailored payment solutions. In addition, in certain countries, we write foreign currency forward and option contracts for customers to facilitate future payments, which usually generate higher revenue per transaction than spot payments. Payments are made predominantly through electronic transfers, wire transfers, or checks.
+
+Distribution and Marketing Channels
+
+Our Business Solutions services are offered primarily through digital channels, including through the internet and third-party channels, and over the phone. Our internet services are marketed through our own websites as well as, from time to time, co-branding arrangements with third-party websites.
+
+Our customer relationships are a core component of our business payments services. No individual customer accounted for greater than 10% of this segment’s revenue.
+
+Industry Trends
+
+The business-to-business payments industry has evolved rapidly with technological innovations that have created new competitors and methods of processing payments from businesses to other businesses. The various products and services within the business-to-business payments industry are in varying stages of development. Business-to-business payments, especially cross-border, cross-currency transactions are also dependent on global trade trends and regulations. Increased anti-money laundering, anti-terrorist financing, consumer protection regulations and compliance requirements, and increased regulations and compliance requirements applicable to the offering of derivatives are impacting the business-to-
+
+10
+
+Table of Contents
+
+business payments industry. We believe these increases in competition and regulatory costs are likely to continue in this segment.
+
+Competition
+
+Our Business Solutions segment competes with a diverse set of service providers offering payment services and foreign exchange risk management solutions, including financial institutions, other non-bank competitors, and electronic payment providers. We believe the most significant competitive factors in this segment relate to recurring relationships founded on customer service and expertise in payments and foreign exchange, customized solutions for specific industries and clients, convenience and speed of payments network, availability of derivative products, variety of inbound and outbound payment methods, brand recognition, and price.
+
+Other
+
+Our remaining businesses and services, which primarily consist of our bill payment services in Argentina and the United States and money order services, are included in Other, which also includes certain corporate costs such as costs related to strategic initiatives, including for the review and closing of mergers, acquisitions, and divestitures. Other revenue is derived primarily from transaction fees paid by customers and billers and represented 5% of our total consolidated revenues for 2020.
+
+Our bill payment services provide fast and convenient options to make payments from consumers to businesses and other organizations, including utilities, auto finance companies, mortgage servicers, financial service providers and government agencies. Generally, these bill payment services are initiated by consumers making a cash payment at an agent or at a Company-operated location. We believe our business partners who receive payments through our services benefit from their relationship with Western Union as it provides them with real-time or near real-time posting of their customers’ payments. In many circumstances, our relationships with business partners also provide them with an additional source of income and reduce their expenses for handling of payments.
+
+On February 28, 2019, we entered into an agreement with ACI Worldwide Corp. and ACW Worldwide, Inc. to sell our United States electronic bill payments business known as “Speedpay,” which had been included as a component of Other in our segment reporting. We received approximately $750 million and recorded a pre-tax gain on the sale of approximately $523 million in the all-cash transaction that closed on May 9, 2019.
+
+Consumers use our money orders for making purchases, paying bills, and as an alternative to checks. We derive investment income from interest generated on our money order settlement assets, which are primarily held in United States tax exempt state and municipal debt securities.
+
+Intellectual Property
+
+The Western Union® and WU® trademarks and service marks, and the Company’s Black & Yellow trade dress are used and/or registered worldwide and are material to our Company. We offer money transfer services under the Western Union®, Orlandi Valuta®, and Vigo® brands. We also provide various payment and other financial services under many brands and product names, including Western Union Business SolutionsSM, Pago Fácil®, Quick Collect®, Quick PaySM, Pay@WUSM, Quick Cash®, My WUSM, and Western Union Convenience Pay®. Our operating results have allowed us to invest significantly each year to support our brands, and in some regions, our agents have also contributed financial resources to assist with marketing our services. Additionally, we own patents and patent applications covering various aspects of our products and services, covering a broad range of technologies, including those related to money transfer, compliance analytics, fraud prevention, and mobile applications. We also own a number of application programming interfaces.
+
+Regulation
+
+Our business is subject to a wide range of laws and regulations enacted by the United States federal government, each of the states, many localities, and many other countries and jurisdictions, including the EU. These include increasingly
+
+11
+
+Table of Contents
+
+strict legal and regulatory requirements intended to help detect and prevent money laundering, terrorist financing, fraud, and other illicit activity. These also include laws and regulations regarding financial services, consumer disclosure and consumer protection, currency controls, money transfer and payment instrument licensing, payment services, credit and debit cards, electronic payments, foreign exchange hedging services and the sale of spot, forward and option currency contracts, unclaimed property, the regulation of competition, consumer privacy, data protection, and information security. Failure by Western Union, our agents, or their subagents (agents and subagents are third parties, over whom Western Union has limited legal and practical control), and certain of our service providers to comply with any of these requirements or their interpretation could result in regulatory action, the imposition of civil and criminal penalties, including fines and restrictions on our ability to offer services, the suspension or revocation of a license or registration required to provide money transfer services and/or payment services or foreign exchange products, the limitation, suspension or termination of services, changes to our business model, loss of consumer confidence, private class action litigation, and/or the seizure of our assets. For example, in early 2017, we entered into a Deferred Prosecution Agreement with the United States Department of Justice and certain United States Attorney’s Offices (the “DPA”), a Stipulated Order for Permanent Injunction and Final Judgment (the “FTC Consent Order”) with the United States Federal Trade Commission (“FTC”), a Consent to the Assessment of Civil Money Penalty with the Financial Crimes Enforcement Network (“FinCEN”) of the United States Department of Treasury (the “FinCEN Agreement”), and settlement agreements with various state attorneys general (collectively, the “Joint Settlement Agreements”) and in early 2018, we agreed to a consent order which resolved a matter with the New York State Department of Financial Services (the “NYDFS Consent Order”). For further discussion of these agreements, please see Part I, Item 1A, Risk Factors - “Our business is the subject of consent agreements with or enforcement actions by regulators.”
+
+We have developed and continue to enhance our global compliance programs, including our anti-money laundering program, comprised of policies, procedures, systems, and internal controls to monitor and to address various legal and regulatory requirements. In addition, we continue to adapt our business practices and strategies to help us comply with current and evolving legal standards and industry practices, including heightened regulatory focus on compliance with anti-money laundering or fraud prevention requirements. As of December 31, 2020, these programs included dedicated compliance personnel, training and monitoring programs, suspicious activity reporting, regulatory outreach and education, and support and guidance to our agent network on regulatory compliance. Our money transfer and payment service networks operate through third-party agents in most countries, and, therefore, there are limitations on our legal and practical ability to completely control those agents’ compliance activities.
+
+Money Transfer and Payment Instrument Licensing and Regulation
+
+Most of our services are subject to anti-money laundering laws and regulations, including the Bank Secrecy Act in the United States, as amended (collectively, the “BSA”), and similar laws and regulations in the United States and abroad. The BSA, among other things, requires money transfer companies and the issuers and sellers of money orders to develop and implement risk-based anti-money laundering programs, to report large cash transactions and suspicious activity, and in some cases, to collect and maintain information about consumers who use their services and maintain other transaction records. In addition to United States federal laws and regulations, many other countries and states impose similar and, in some cases, more stringent requirements. These requirements may also apply to our agents and their subagents. In addition, the United States Department of the Treasury has interpreted the BSA to require money transfer companies to conduct due diligence into and risk-based monitoring of their agents and subagents inside and outside the United States, and certain states also require money transfer companies to conduct similar due diligence reviews. Compliance with anti-money laundering laws and regulations continues to be a focus of regulatory attention, with recent settlement agreements being reached with Western Union, other money transfer providers, and several large financial institutions. For example, in early 2017, we entered into the Joint Settlement Agreements, and in early 2018, we agreed to the NYDFS Consent Order.
+
+Economic and trade sanctions programs administered by the United States Department of the Treasury’s Office of Foreign Assets Control (“OFAC”) and by certain foreign jurisdictions prohibit or restrict transactions to or from (or dealings with or involving) certain countries, regions, governments, and in certain circumstances, specified foreign nationals, as well as with certain individuals and entities such as narcotics traffickers, terrorists, and terrorist organizations. We provide limited money transfer and payment services to parties in Syria and the Crimea region of Ukraine in accordance with United States laws authorizing such services, and pursuant to and as authorized by advisory opinions of,
+
+12
+
+Table of Contents
+
+or specific or general licenses issued by, OFAC. In October 2020, OFAC amended its Cuban Assets Control Regulations, requiring us to suspend our money transfer services to Cuba.
+
+In the United States, almost all states license certain of our services and many exercise authority over the operations of certain aspects of our business and, as part of this authority, regularly examine us. Many states require us to invest the principal of outstanding money orders, money transfers, or payments in highly-rated, investment grade securities, and our use of such investments is restricted to satisfying outstanding settlement obligations. We regularly monitor credit risk and attempt to mitigate our exposure by investing in highly-rated securities in compliance with these regulations. The substantial majority of our investment securities, classified within Settlement assets in the Consolidated Balance Sheets, are held in order to comply with state licensing requirements in the United States and are required to have credit ratings of “A-” or better from a major credit rating agency.
+
+These licensing laws also cover matters such as government approval of controlling shareholders and senior management of our licensed entities, regulatory approval of agents and in some instances their locations, consumer disclosures and the filing of periodic reports by the licensee, and they may require the licensee to demonstrate and maintain certain net worth levels. Many states also require money transfer providers and their agents to comply with federal and/or state anti-money laundering laws and regulations.
+
+Outside the United States, our money transfer business is subject to some form of regulation in almost all of the countries and territories in which we offer those services. These laws and regulations may include limitations on what types of entities may offer money transfer services, agent registration requirements, limitations on the amount of principal that can be sent into or out of a country, limitations on the number of money transfers that may be sent or received by a consumer, and controls on the rates of exchange between currencies. They also include laws and regulations intended to detect and prevent money laundering or terrorist financing, including obligations to collect and maintain information about consumers, recordkeeping, reporting and due diligence, and supervision of agents and subagents similar to and in some cases exceeding those required under the BSA. In most countries, either we or our agents are required to obtain licenses or to register with a government authority in order to offer money transfer services, and in certain countries, we must maintain sufficient cash or other funds to satisfy payout obligations in these countries. Where we cooperate with partners around the world to offer other branded and unbranded money transfer services, including services offered and marketed exclusively under the partners’ brands, the regulatory requirements applicable to us may vary.
+
+The majority of our EU business is managed through our Irish payment institution subsidiary, which is regulated by the Central Bank of Ireland under the Second EU Payment Services Directive EU 2015/2366 (“PSD2”) and local implementing regulations. PSD2 imposes rules on payment service providers like Western Union. It became EU law in January 2016 and required EU member states to transpose it into their national laws by January 2018. Its aim is to drive increased competition, innovation, and transparency across the EU payments market, while enhancing consumer protection and the security of internet payments and account access. To achieve this, PSD2: (i) has increased the supervisory powers granted to member states with respect to activities performed by companies such as Western Union, and our agent network, (ii) provides for customer identity verification and authentication measures, and agent monitoring responsibilities, (iii) provides member states with the ability to limit the types, nature, and amount of charges we may assess, increases customer refund rights, and (iv) increases information security and incident reporting responsibilities.
+
+Under our PSD2 license and local EU member states’ implementing legislation and associated regulatory supervisory powers, we are responsible for the regulatory compliance of our agents and their subagents. We are also subject to requirements such as capital and safeguarding rules, certain consumer protection requirements, information technology, and operational security risk management requirements, outsourcing oversight requirements, and periodic regulatory examinations similar to those in the United States. These rules have resulted in increased compliance and agent monitoring costs and the increased risk of adverse regulatory action against us resulting from the actions of our agents in those areas. In addition to increasing our compliance costs, PSD2 increases the regulatory supervision and enforcement associated with non-compliance with it and the associated increasing body of applicable European Banking Authority guidelines and regulatory technical standards. PSD2 may also result in increased competition arising from other service providers utilizing the enhanced payment initiation and account information access provisions or by our failure to utilize those provisions to innovate our own service offerings. We continue to monitor PSD2’s impact, including indicators of potential increases in competition such as the number of new payment and electronic money license authorizations, including those by
+
+13
+
+Table of Contents
+
+multinational online service and technology companies, and the number of newly-licensed payment initiation and account information service providers.
+
+
+In addition to our Irish PSD2 license, which covers most of our retail money transfer business in Europe, our European digital money transfer business is managed through our Austrian banking subsidiary, which is regulated by the Austrian Financial Market Authority under the Austrian Banking Act. Its digital money transfer business is subject to payment services regulated under PSD2 and local implementing legislation.
+
+
+The United Kingdom (“UK”) left the EU on January 31, 2020 (“Brexit”), following a referendum and a notification to the EU, under Article 50 of the Treaty on the European Union. In advance of Brexit, the UK and the EU ratified an agreement governing the terms of the UK’s withdrawal from the EU (the “Withdrawal Agreement”). Under the terms of the Withdrawal Agreement, certain regulated financial service providers were permitted to continue to rely on EU regulatory “passport” rights until December 31, 2020 to provide services between the UK and EU without needing to obtain separate local regulatory authorizations in the relevant jurisdictions. To ensure that our operations will continue in the UK, which represented approximately 6% of our consolidated revenues for the year ended December 31, 2020, we set up a new payment institution to conduct money remittance in the UK, which was authorized by the Financial Conduct Authority in April 2019, and presently offers retail money transfer services via UK agents.
+
+We have also applied for the UK branch of our Austrian banking subsidiary to be authorized by the UK Prudential Regulation Authority (the “PRA”) as a Third Country Branch (i.e., a UK branch of a non-UK bank) in order to continue to conduct our UK Business Solutions and digital money transfer operations. The PRA has a period of 3 years from December 31, 2020 to determine the application. In the period from December 31, 2020 and the date of the UK branch being authorized, it will operate under the Temporary Permissions Regime established by the UK for this purpose. This UK branch will be subject to certain additional UK regulatory requirements upon authorization. Further, as a result of Brexit, including under the terms of any new regulatory authorizations we have and may obtain, we could be required to comply with differing regulatory requirements in the UK as a result of divergence from established EU regulation. This could make it more costly for us to provide our services.
+
+Regulators worldwide are exercising heightened supervision of money transfer providers and requiring increasing efforts to ensure compliance, including as a result of PSD2 and the 4th and 5th Anti-Money Laundering Directives in the EU. As a result, we continue to incur significant compliance costs related to customer, agent, and subagent due diligence, verification, transaction approval, disclosure, and reporting requirements, including requirements to report transaction data to a greater extent or frequency than previously required, along with other requirements that have had and will continue to have a negative impact on our financial condition and results of operations.
+
+Government agencies both inside and outside the United States may impose new or additional rules on money transfers affecting us, our agents, or their subagents, including regulations that:
+
+●	prohibit, restrict, and/or impose taxes or fees on money transfer transactions in, to, or from certain countries or with certain governments, individuals, and entities;
+●	impose additional customer identification and customer, agent, and subagent due diligence requirements;
+●	impose additional reporting or recordkeeping requirements, or require enhanced transaction monitoring;
+●	limit the types of entities capable of providing money transfer services, impose additional licensing or registration requirements on us, our agents, or their subagents, or impose additional requirements on us with regard to selection or oversight of our agents or their subagents;
+●	impose minimum capital or other financial requirements on us or our agents and their subagents;
+●	limit or restrict the revenue which may be generated from money transfers, including transaction fees and revenue derived from foreign exchange;
+14
+
+Table of Contents
+
+●	require enhanced disclosures to our money transfer customers;
+●	require the principal amount of money transfers originated in a country to be invested in that country or held in a trust until they are paid;
+●	limit the number or principal amount of money transfers, which may be sent to or from a jurisdiction, whether by an individual, through one agent, or in aggregate;
+●	impose more stringent information technology, cybersecurity, data, and operational security requirements on us or our agents and their subagents, including relating to data transfers and the use of cloud infrastructure;
+●	impose additional risk management and related governance and oversight requirements, including relating to the outsourcing of services to other group companies or to third parties; and
+●	prohibit or limit exclusive arrangements with our agents and subagents.
+Consumer Protection Regulations
+
+The Dodd-Frank Act created the CFPB, which implements, examines compliance with, and enforces federal consumer protection laws governing financial products and services, including money transfer services. The CFPB has created additional regulatory obligations for us and has the authority to examine and supervise us and our larger competitors, including for matters related to unfair, deceptive, or abusive acts and practices. The CFPB’s regulations implementing the remittance provisions of the Dodd-Frank Act have affected our business in a variety of areas. These include: (i) a requirement to provide consumers sending funds internationally from the United States enhanced, written, pre-transaction disclosures and transaction receipts, including the disclosure of fees, foreign exchange rates and taxes, (ii) an obligation to resolve various errors, including certain errors that may be outside our control, and (iii) an obligation at a consumer’s request to cancel transactions that have not been completed. We have modified certain of our systems, business practices, service offerings, and procedures to comply with these regulations. We also face liability for the failure of our money transfer agents to comply with the rules and have implemented and are continuing to enhance additional policies, procedures, and oversight measures designed to foster compliance by our agents. The extent of our and our agents’ implementation of these policies, procedures, and measures may be considered by the CFPB in any action or proceeding against us for noncompliance with the rules by our agents. The CFPB has also implemented a direct portal for gathering information regarding consumer complaints, including with respect to money transfers. The CFPB uses the information collected to help improve its supervision of companies, enforcement of federal consumer financial laws, and writing of rules and regulations. This effort may lead to additional regulations and regulatory scrutiny of our business.
+
+In addition, various jurisdictions in the United States and outside the United States have consumer protection laws and regulations, and numerous governmental agencies are tasked with enforcing those laws and regulations. Consumer protection principles continue to evolve globally, and new or enhanced consumer protection laws and regulations may be adopted. Governmental agencies tasked with enforcing consumer protection laws or regulations are communicating more frequently and coordinating their efforts to protect consumers. For instance, the International Consumer Protection and Enforcement Network (“ICPEN”) is an organization composed of consumer protection authorities from over 60 countries that provides a forum for developing and maintaining regular contact between consumer protection agencies and focusing on consumer protection concerns. By encouraging cooperation between agencies, ICPEN aims to enable its members to have a greater impact with their consumer protection laws and regulations. As the scope of consumer protection laws and regulations change, we may experience increased costs to comply and other adverse effects to our business.
+
+Derivatives Regulations
+
+Rules adopted under the Dodd-Frank Act by the Commodity Futures Trading Commission (the “CFTC”), as well as the provisions of the European Market Infrastructure Regulation and its technical standards, which are directly applicable in the member states of the EU and in the UK, have subjected most of our foreign exchange hedging transactions, including certain intercompany hedging transactions, certain of the corporate interest rate hedging transactions we may enter into in
+
+15
+
+Table of Contents
+
+the future, and certain of the foreign exchange derivatives contracts we offer as part of our Business Solutions segment, to reporting, recordkeeping, and other requirements. Additionally, certain of the corporate interest rate hedging transactions and foreign exchange derivatives transactions we may enter into in the future may be subject to centralized clearing requirements or may be subject to margin requirements in the United States, the EU, and the UK. Other jurisdictions outside of the United States, the EU, and the UK are considering, have implemented, or are implementing regulations similar to those described above. Derivatives regulations have added costs to our business and any additional requirements, such as future registration requirements and increased regulation of derivatives contracts, will result in additional costs or impact the way we conduct our hedging activities as well as impact how we conduct our business within our Business Solutions segment. Although currently unlikely due to our derivative activity levels, there is some risk that we will have to register one or more of our subsidiaries with the CFTC as a swap dealer in the future. Swap dealers are subject to a comprehensive regulatory framework and compliance with this framework would lead to additional costs, including costs relating to regulatory capital and margin requirements, and could impact how we conduct our hedging activities and derivatives business with customers. For further discussion of these risks, see Part I, Item 1A, Risk Factors - “The Dodd-Frank Act, as well as the regulations required by that Act and the actions of the Consumer Financial Protection Bureau and similar legislation and regulations enacted by other government authorities, could adversely affect us and the scope of our activities, and could adversely affect our financial condition, results of operations, and cash flows.” Our implementation of these requirements has resulted, and will continue to result, in additional costs to our business.
+
+Additionally, the regulatory regimes for derivatives in the United States, the EU, and the UK, such as under the Dodd-Frank Act and the European Markets in Financial Instruments Directive known as “MiFID II,” are continuing to evolve. Any changes to such regimes, or our designation or the implementation of new rules under these regimes, such as future registration requirements and increased regulation of derivatives contracts, may result in additional costs to our business. Other jurisdictions outside the United States, the EU, and the UK are considering, have implemented, or are implementing regulations similar to those described above and these will result in greater costs to us as well. Moreover, as a result of Brexit, we could be required to comply with differing regulatory requirements in the UK as a result of divergence from established EU regulation. This could make it more costly for us to provide our services. Furthermore, our failure to implement these requirements correctly could result in fines and other sanctions, as well as necessitate a temporary or permanent cessation to some or all of our derivative related activities. Any such fines, sanctions, or limitations on our business could adversely affect our operations and financial results.
+
+Unclaimed Property Regulations
+
+Our Company is subject to unclaimed property laws in the United States and in certain other countries, and our agents are subject to unclaimed property laws in some jurisdictions. These laws require us or our agents, as applicable, to turn over to certain government authorities the property of others held by our Company that has been unclaimed for a specified period of time, such as unpaid money transfers and money orders. We hold property subject to unclaimed property laws and we have an ongoing program designed to help us comply with these laws. We are subject to audits with regard to our escheatment practices. For further discussion of the risks associated with unclaimed property, see Part I, Item 1A, Risk Factors - “We are subject to unclaimed property laws, and differences between the amounts we have accrued for unclaimed property and amounts that are claimed by a state or foreign jurisdiction could have a significant impact on our results of operations and cash flows.”
+
+Privacy Regulations and Information Security Standards
+
+We must collect, transfer, disclose, use, and store personal information in order to provide our services. These activities are subject to information security, data privacy, data protection, data breach, and related laws and regulations in the United States, the EU, and many other countries in which we provide services. These laws and requirements continue to evolve and may become increasingly difficult to comply with.
+
+In the United States, federal data privacy laws such as the federal Gramm-Leach-Bliley Act and various state laws, such as data privacy and breach laws, apply to a broad range of financial institutions including money transfer providers like Western Union, and to companies that provide services to or on behalf of those institutions. The United States Federal Trade Commission (“FTC”), which has jurisdiction over companies such as Western Union, has brought numerous enforcement actions, resulting in multi-year settlements, against companies whose privacy or data security practices
+
+16
+
+Table of Contents
+
+allegedly violated the law. We are also subject to privacy and data breach laws in various states, such as the California Consumer Privacy Act, which became effective on January 1, 2020, that imposes heightened data privacy requirements on companies that collect information from California residents and creates a broad set of privacy rights and remedies modeled in part on the GDPR, as discussed below. The FTC, CFPB, and some states continue to actively investigate companies’ privacy practices including those related to online and mobile applications. Most state laws require notification to be provided to affected individuals, state authorities, and consumer reporting agencies, in the event of a breach of certain types of personal data contained in computer databases and in some cases physical documents. Such notification requirements may be subject to various factors, including the level of encryption, the data elements involved in the incident, and the potential harm to consumers. In addition, we are also subject to United States federal reporting requirements in connection with some such incidents.
+
+Increasingly, data protection laws of countries outside of the United States are having a significant impact on our operations and the manner in which we provide our services. The EU has been particularly active in regulating the collection, transfer, disclosure, use, storage, and other processing of personal information, and the EU’s approach is frequently followed by other jurisdictions. The trend in this area is one of increasingly more stringent regulation, particularly with the EU’s GDPR which took effect on May 25, 2018. The GDPR imposes additional obligations and risks upon our businesses, including the risk of substantially increased penalties for non-compliance. We have incurred and we expect to continue to incur expenses to meet the obligations of the GDPR, which have required us to make changes to our business operations. The GDPR, and other national and provincial laws throughout the world are frequently not uniform, and cover one or more of the following objectives: (i) regulating the collection, transfer (including in some cases, the transfer outside of the country or region of collection), processing, storage, use and disclosure of personal information, (ii) requiring notice to individuals of the processing of their personal information and our privacy practices, (iii) giving individuals certain access, correction and other rights with respect to their personal information, and (iv) restricting the use or disclosure of personal information for secondary purposes such as marketing. Under certain circumstances, some of these laws require us to provide notification to affected individuals, data protection authorities, and/or other regulators in the event of a data breach.
+
+The pending e-Privacy Regulation in the EU, which will replace the current e-Privacy Directive, will introduce a new privacy legal framework for electronic communications including direct marketing communications and the use of cookies and tracking technologies. The new regulation likely will contain penalty provisions that could result in significant costs for non-compliance.
+
+An emerging trend is the increase in data localization laws which either require that personal information be hosted on local servers or restrict the transfer of personal information outside national borders. These laws present operational and technology challenges that can require companies to make significant changes to the management of personal information and can potentially increase our costs and impact our ability to process personal information. These laws may also restrict or limit our ability to process transactions using centralized databases, including cloud computing infrastructure and software, for example, by requiring that transactions be processed using a database maintained in a particular country or region.
+
+Data privacy regulations, laws, and industry standards also impose requirements for safeguarding personal information. We seek to maintain and upgrade our systems and processes to protect the security of our computer systems, software, networks, and other technology assets to help protect against the risks presented by hackers, nation-states and other threat actors. For further discussion of these risks, see Part I, Item 1A, Risk Factors - “Breaches of our information security safeguards could adversely affect our ability to operate and could damage our reputation and adversely affect our business, financial condition, results of operations, and cash flows.”
+
+In connection with regulatory requirements to assist in the prevention of money laundering and terrorist financing and pursuant to legal obligations and authorizations, we make information available to certain United States federal, state, and foreign government agencies when required by law. In recent years, we have experienced an increasing number of data sharing requests by these agencies, particularly in connection with efforts to prevent terrorist financing or reduce the risk of identity theft. During the same period, there has also been increased public attention to the corporate use and disclosure of personal information, accompanied by legislation and regulations intended to strengthen data protection, information security, and consumer privacy. These regulatory goals - the prevention of money laundering, terrorist financing, and
+
+17
+
+Table of Contents
+
+identity theft and the protection of the individual’s right to privacy - may conflict, and the law in these areas is not consistent or settled. The legal, political, and business environments in these areas are rapidly changing, and subsequent legislation, regulation, litigation, court rulings, or other events could expose us to increased program costs, liability, and reputational damage.
+
+For further discussion of risks related to current and proposed data privacy and security laws and regulations, see Part I, Item 1A, Risk Factors - “Current and proposed regulation addressing consumer privacy and data use and security could increase our costs of operations, which could adversely affect our operations, results of operations and financial condition.”
+
+Banking Regulations
+
+We have subsidiaries that operate under banking licenses granted by the Austrian Financial Market Authority and the Brazilian Central Bank. We are also subject to regulation, examination, and supervision by the New York State Department of Financial Services (“NYDFS”), which has regulatory authority over our subsidiary that holds our Austrian banking license. Further, an Agreement of Supervision with the NYDFS imposes various regulatory requirements including operational limitations, capital requirements, affiliate transaction limitations, and notice and reporting requirements on this entity and its Austrian subsidiary. However, because this entity and its Austrian subsidiary do not exercise banking powers in the United States, we are not subject to the Bank Holding Company Act in the United States.
+
+Other
+
+Some of our services are subject to card association rules and regulations. For example, an independent standards-setting organization, the Payment Card Industry (“PCI”) Security Standards Council developed a set of comprehensive requirements concerning payment card account security through the transaction process, called the Payment Card Industry Data Security Standard (“PCI DSS”). All merchants and service providers that store, process and transmit payment card data are required to comply with PCI DSS as a condition to accepting credit cards. We are subject to annual reviews to ensure compliance with PCI regulations worldwide and are subject to fines if we are found to be non-compliant.
+
+Human Capital Management
+
+Our People
+
+
+As of December 31, 2020, our businesses employed approximately 11,000 individuals, of which approximately 1,700 employees are located inside the United States. Our employees span more than 50 countries.
+
+Attracting, Developing, and Engaging Employees
+
+
+Recruitment
+
+
+Our recruitment efforts focus on identifying internal and external talent with skills that are critical to our business strategy, including those individuals with cloud, data architecture, cybersecurity, payment systems, and many other areas of expertise. We actively assess our new talent needs, evaluate the extent to which current staff have those critical skills, and provide development to build these capabilities. Our recruiting team uses multiple channels to find, assess, and hire employees, including channels that focus on diverse candidates.
+
+Training and Professional Development
+
+
+We invest in our people and their growth. Our talent processes endeavor to strike an appropriate balance between global scale and local responsiveness. Our development and training organization has members in many countries, so that training can be made available to all regions of our global workforce.
+
+Our employee development philosophy centers around learning and empowerment. To position our people for success, we provide our employees with access to a variety of learning, including self-paced digital and facilitated formats.
+
+18
+
+Table of Contents
+
+Employees also gain valuable experiences through on the job learning, special assignments and projects, and coaching and mentoring. We use a variety of assessments to help employees identify and develop areas to both improve current performance as well as areas that prepare them for future opportunities.
+
+Reflecting our commitment to a culture of ethics and compliance, new employees receive mandatory education related to compliance, ethics, privacy, and information security. Existing employees receive continuing education on these same topics every year.
+
+Engagement
+
+
+We assess employee engagement regularly, and our employee engagement system utilizes monthly surveys, artificial intelligence, and machine learning to help leaders better understand what our employees are thinking, what they value, and what they need. We benchmark our engagement results against global peers to better understand our strengths and areas of opportunity. One of our ongoing goals is to foster greater communication to help ensure that our employees are informed, believe that their concerns are heard, and feel empowered to make decisions. To that end, we have implemented employee engagement and culture teams in certain of our offices worldwide. While each site varies somewhat in its approach, these “Empower” teams are supported by on-site business leaders to focus on the “culture of the customer,” diversity and inclusion, community, the environment, and other issues that are meaningful to employees in those locations.
+
+Diversity, Equity, and Inclusion
+
+
+We are committed to fostering a diverse and inclusive work environment. We recognize the strategic importance of talent and diversity in our workforce and promote diversity through:
+
+●	our policies and practices in hiring, promotion, and compensation;
+●	encouraging ethical decision-making via our Code of Conduct and ethics training program;
+●	offering diversity training programs, sponsorship, and mentoring initiatives;
+●	unconscious bias training;
+●	goal setting; and
+●	providing support for grassroots affinity groups and belonging initiatives.  
+For example, as of December 31, 2020, over 50% of our global workforce were women, over 35% of senior management-level and above positions were held by women, and one-third of our executive officers were women. Our leadership team has diverse backgrounds, with wide-ranging, global experience. In addition, our Board of Directors considers diversity in gender, ethnicity, geography, background, and cultural viewpoints when selecting nominees. As of December 31, 2020, five of our eleven directors were diverse, including three directors who were female and three directors who identify as Latinx, Asian, or LGBTQ+.
+
+Compensation, Benefits, and Wellness
+
+
+We seek to provide compensation that motivates, retains, and rewards our employees and attracts future talent. We offer packages designed to inspire the delivery of exceptional performance and results to help us deliver on our business strategy, stockholder commitments, and Company values. To guide our annual compensation assessment, we examine and benchmark market data for countries where we operate, as available data allows.
+
+We strive to achieve equal pay for equal work. We consistently review and update salary ranges and perform internal pay equity reviews, with the goal of developing impartial and competitive pay practices and aligning salaries to local
+
+19
+
+Table of Contents
+
+market conditions and cost-of-labor changes. We also offer employees multiple channels to raise pay equity concerns, such as our human resources team, ethics helpline, and legal department.
+
+Our benefit packages aim to support the health and well-being of our employees and their families, including same and opposite sex domestic partners in most countries. Our benefit packages vary among countries based on laws, cultural norms, and market practices. Benefits generally available to all full-time employees include medical benefits, risk insurance benefits (life, disability, and accidental death and dismemberment), global adoption assistance, our employee assistance program (counseling, legal, and other professional services), paid leave, a scholarship program available to employees with college-age children, a global recognition and reward program, and business travel assistance and insurance.  
+
+During the COVID-19 pandemic, we have introduced multiple new benefits, working arrangements, and trainings to support the mental and physical health and financial security of our employees. These included the ability to work from home for the majority of employees, along with work-from-home tools, resources, and support, and in certain cases, enhanced back-up and in-home child and elder care, additional paid sick and family leave for employees affected by COVID-19, and telehealth doctor visits and enhanced health insurance services. In addition, we have introduced an internet subsidy and a one-time equipment support bonus for a portion of the employee population below the senior management level. To continue support for employees in 2021, we have expanded the back-up child and elder care benefit to multiple countries, implemented a global tutoring benefit for employees and their children to support remote learning, and supported our employees’ mental and emotional health through the implementation of an award-winning meditation and sleep application.
+
+Available Information
+
+The Western Union Company is a Delaware corporation and its principal executive offices are located at 7001 East Belleview Avenue, Denver, CO, 80237, telephone (866) 405-5012. The Company’s Annual Report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports are available free of charge through the “Investor Relations” portion of the Company’s website, www.westernunion.com, as soon as reasonably practical after they are filed with the SEC. The SEC maintains a website, www.sec.gov, which contains reports, proxy and information statements, and other information filed electronically with the SEC by the Company.
+
+
+20
+
+Table of Contents
+
+Information About our Executive Officers
+
+As of February 19, 2021, our executive officers consist of the individuals listed below:
+
+
+
+
+
+
+Name
+
+    
+
+Age
+
+    
+
+Position
+
+Hikmet Ersek
+
+ 
+
+ 60
+
+ 
+
+President, Chief Executive Officer, and Director
+
+Raj Agrawal
+
+ 
+
+ 55
+
+ 
+
+Chief Financial Officer
+
+Jean Claude Farah
+
+ 
+
+ 50
+
+ 
+
+President, Global Network
+
+Khalid Fellahi
+
+
+ 56
+
+
+President, Consumer Money Transfer
+
+Jacqueline Molnar
+
+
+ 57
+
+
+Chief Transformation Officer
+
+Michelle Swanback
+
+
+ 52
+
+
+President, Product and Platform
+
+Andrew Summerill
+
+
+ 47
+
+
+President, Payments
+
+Caroline Tsai
+
+ 
+
+ 51
+
+ 
+
+Chief Legal Officer and Corporate Secretary
+
+Richard Williams
+
+ 
+
+ 55
+
+ 
+
+Chief People Officer
+
+
+Hikmet Ersek is our President and Chief Executive Officer and a member of the Company’s Board of Directors (from 2010). Also during 2010, Mr. Ersek served as the Company’s Chief Operating Officer. Prior to 2010, Mr. Ersek served as the Company’s Executive Vice President and Managing Director, Europe, Middle East, Africa and Asia Pacific Region from 2008. From 2006 to 2008, Mr. Ersek served as the Company’s Executive Vice President and Managing Director, Europe/Middle East/Africa/South Asia. Prior to 2006, Mr. Ersek held various positions of increasing responsibility with Western Union. Prior to joining Western Union in 1999, Mr. Ersek was with GE Capital specializing in European payment systems and consumer finance.
+
+Raj Agrawal is our Chief Financial Officer (from 2014), and previously served as Executive Vice President of Global Operations (from 2017 to 2019), and Executive Vice President and Interim Chief Financial Officer during 2014. From 2011 to 2014, Mr. Agrawal served as President, Western Union Business Solutions. From 2010 to 2011, Mr. Agrawal served as General Manager, Business Solutions, and as Senior Vice President of Finance for Business Units. Previously, Mr. Agrawal served as Senior Vice President of Finance of the Company’s Europe, Middle East, and Africa and Asia Pacific regions from 2008 to 2010, and as Senior Vice President and Treasurer of Western Union from 2006 to 2008. Prior to joining Western Union in 2006, Mr. Agrawal served as Treasurer and Vice President of Investor Relations at Deluxe Corporation, and worked at General Mills, Inc., Chrysler Corporation, and General Motors Corporation.
+
+Jean Claude Farah is our President, Global Network (from 2019). From 2017 to 2019, Mr. Farah served as Executive Vice President and President, Global Payments, from 2013 to 2017, Mr. Farah served as Executive Vice President and President, Middle East, Africa, APAC, Eastern Europe and CIS, and from 2009 to 2013, Mr. Farah served as Senior Vice President for the Middle East and Africa region. Mr. Farah joined Western Union in 1999 as Marketing Manager, Middle East & North Africa. He has held a variety of progressively responsible positions with the company, including Regional Director, Regional Vice President and Senior Vice President for the Middle East, Pakistan and Afghanistan region. Mr. Farah started his career in 1995 with Renault SA. Prior to joining Western Union, he was Area Manager for Orangina Pernod Ricard.
+
+Khalid Fellahi is our President, Consumer Money Transfer (from 2019). From 2011 to 2019, Mr. Fellahi served as Senior Vice President and General Manager for Western Union Digital, and Head of our Mobile Transaction Services group from 2009 to 2010. Prior to that, Mr. Fellahi served as Head of our Africa region from 2002 to 2009. Prior to joining Western Union in 2002, Mr. Fellahi held roles within SIS-Groupe Compagnie Bancaire (Paribas) and Price Waterhouse Management Consultants. In addition, he has held senior leadership positions at small and medium enterprises in the service industry.
+
+Jacqueline Molnar is our Chief Transformation Officer (from 2020). Ms. Molnar served as Chief Transformation Officer and Global Head of Compliance from 2019 to 2020, Chief Compliance Officer from 2016 to 2019, Interim Chief Compliance Officer from 2015 to 2016, and Senior Vice President and Deputy Chief Compliance Officer from 2013 to 2015. Prior to joining Western Union in 2013, Ms. Molnar served as Vice President, Associate Global Anti-Money Laundering Officer at Toronto Dominion Bank Group, as Vice President, Assistant General Counsel at Wells Fargo & Company, and in various roles at Gibson Dunn, Latham & Watkins LLP, and at Herbert Smith Freehills.
+
+21
+
+Table of Contents
+
+Michelle Swanback is our President, Product and Platform (from 2020). From 2014 to 2020, Ms. Swanback served as the Group Operating Officer at Accenture Digital. She previously served as the lead for Accenture Technology, North America from 2012 to 2014. Prior to that, she served as a managing director in the North American operating unit of the Accenture Communications, Media, and Technology operating group from 2011 to 2012.
+
+Andrew Summerill is our President, Payments (from 2020). From 2019 to 2020, Mr. Summerill served as our Interim President, Payments. From 2015 to 2019, Mr. Summerill served as Chief Financial Officer of Western Union Business Solutions and as Vice-President of Finance for Asia Pacific of Western Union Business Solutions from 2010 to 2015. Mr. Summerill joined Western Union with the 2011 acquisition of Travelex Global Business Payments, where he held various positions.  
+
+Caroline Tsai is our Chief Legal Officer and Corporate Secretary (from 2019). From 2017 to 2019, Ms. Tsai served as Executive Vice President, General Counsel and Secretary. Prior to joining Western Union in 2017, Ms. Tsai served as Deputy General Counsel and Chief Regulatory Officer of BMO Financial Group, a banking and financial services provider, from 2015 to 2017 and from 2014 to 2015, Ms. Tsai served as Chief Legal Officer, U.S. Personal and Commercial Banking at BMO Harris Bank. Prior to joining BMO Financial Group, Ms. Tsai was Senior Vice President and Associate General Counsel of Bank of America Corporation, a banking and financial services provider, from 2012 to 2013, and from 2005 to 2011, Ms. Tsai served as Senior Vice President and Assistant General Counsel. Ms. Tsai began her legal career as an Associate with the law firm Jones Day, based in Washington, D.C.
+
+Richard Williams is our Chief People Officer (from 2019). Mr. Williams previously served as Executive Vice President, Chief Human Resources Officer from 2013 to 2019, Interim Chief Human Resources Officer during 2013 and as Senior Vice President, Human Resources - Global Consumer Financial Services from 2011 to 2013. Mr. Williams joined Western Union in 2009 as the Vice President of Human Resources for the Americas and Global Cards. Before joining Western Union, Mr. Williams worked for Fullerton Financial Holdings (a wholly-owned subsidiary of Temasek Holdings) as its Senior Vice President of Human Resources for Central and Eastern Europe, Middle East and Africa, based in Dubai, United Arab Emirates from 2007 to 2009. Previously, Mr. Williams spent 17 years with American Express Company.
+
+
+

@@ -1,0 +1,154 @@
+PART I
+
+Unless otherwise indicated, or the context otherwise requires, references in this report to “the Company”, “we”, “us”, “our” and “West” refer to West Pharmaceutical Services, Inc. and its majority-owned subsidiaries.
+
+All trademarks and registered trademarks used in this report are our property, either directly or indirectly through our subsidiaries, unless noted otherwise. Daikyo Crystal Zenith® (“Crystal Zenith”) is a registered trademark of Daikyo Seiko, Ltd. (“Daikyo”).
+
+Throughout this report, references to “Notes” refer to the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K (“Form 10-K”), unless otherwise indicated.
+
+Information in this Form 10-K is current as of February 23, 2021, unless otherwise specified.
+
+ITEM 1. BUSINESS
+General
+
+We are a leading global manufacturer in the design and production of technologically advanced, high-quality, integrated containment and delivery systems for injectable drugs and healthcare products. Our products include a variety of primary packaging, containment solutions, reconstitution and transfer systems, and drug delivery systems, as well as contract manufacturing, analytical lab services and integrated solutions. Our customers include the leading biologic, generic, pharmaceutical, diagnostic, and medical device companies in the world. Our top priority is delivering quality products that meet the exact product specifications and quality standards customers require and expect. This focus on quality includes a commitment to excellence in manufacturing, scientific and technical expertise and management, which enables us to partner with our customers in order to deliver safe, effective drug products to patients quickly and efficiently.
+
+Business Segments
+
+Our business operations are organized into two reportable segments, Proprietary Products and Contract-Manufactured Products.
+
+Proprietary Products Segment
+
+Our Proprietary Products reportable segment offers proprietary packaging, containment and drug delivery products, along with analytical lab services and other integrated services and solutions, primarily to biologic, generic and pharmaceutical drug customers. Our packaging products include stoppers and seals for injectable packaging systems, which are designed to help ensure drug compatibility and stability with active drug products, while also supporting operational efficiency for customers. This product portfolio also includes syringe and cartridge components, including custom solutions for the specific needs of injectable drug applications, as well as administration systems that can enhance the safe delivery of drugs through advanced reconstitution, mixing and transfer technologies. We also provide films, coatings, washing, vision inspection and sterilization processes and services to enhance the quality of packaging components and mitigate the risk of contamination and compatibility issues.
+
+This segment’s product portfolio also includes drug containment solutions, including Crystal Zenith, a cyclic olefin polymer, in the form of vials, syringes and cartridges. These products can provide a high-quality solution to glass incompatibility issues and can stand up to cold storage environments, while reducing the risk of breakage that exists with glass. In addition, we offer a variety of self-injection devices, designed to address the need to provide at-home delivery of injectable therapies. These devices are patient-centric technologies that are easy-to-use and can be combined with connected health technologies that have the potential to increase adherence.
+
+3
+
+In addition to our Proprietary Products product portfolio, we provide our customers with a range of integrated solutions, including analytical lab services, pre-approval primary packaging support and engineering development, regulatory expertise, and after-sales technical support. Offering the combination of primary packaging components, containment solutions, and drug delivery devices, as well as a broad range of integrated services, helps to position us as a leader in the integrated containment and delivery of injectable medicines.
+
+This reportable segment has manufacturing facilities in North and South America, Europe, and Asia Pacific, with affiliated companies in Mexico and Japan. Please refer to Item 2, Properties, for additional information on our manufacturing and other sites.
+
+Contract-Manufactured Products Segment
+
+Our Contract-Manufactured Products reportable segment serves as a fully integrated business, focused on the design, manufacture, and automated assembly of complex devices, primarily for pharmaceutical, diagnostic, and medical device customers. These products include a variety of custom contract-manufacturing and assembly solutions, which use such technologies as multi-component molding, in-mold labeling, ultrasonic welding, clean room molding and device assembly. We manufacture customer-owned components and devices used in surgical, diagnostic, ophthalmic, injectable, and other drug delivery systems, as well as consumer products.
+
+We have vast expertise in product design and development, including in-house mold design, process design and validation and high-speed automated assemblies.
+
+This reportable segment has manufacturing operations in North America and Europe. Please refer to Item 2, Properties, for additional information on our manufacturing and other sites.
+
+International
+
+We have significant operations outside of the United States (“U.S.”), which are managed through the same business segments as our U.S. operations – Proprietary Products and Contract-Manufactured Products. Sales outside of the U.S. accounted for 54.6% of our consolidated net sales in 2020. Please refer to Item 2, Properties, for additional information on our manufacturing and other sites.
+
+Although the general business processes are similar to the domestic business, international operations are exposed to additional risks. These risks include currency fluctuations relative to the U.S. Dollar (“USD”), multiple tax jurisdictions and, particularly in South America, Israel and the Middle East, uncertain or changing regulatory regimes, or political and social issues, that could destabilize local markets and affect the demand for our products.
+
+See further discussion of our international operations, the risks associated with our international operations, and our attempt to minimize some of these risks in Part I, Item 1A, Risk Factors; Part II, Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations under the caption Financial Condition, Liquidity and Capital Resources; Part II, Item 7A, Quantitative and Qualitative Disclosures About Market Risk; Note 1 under the captions Financial Instruments and Foreign Currency Translation; and Note 11, Derivative Financial Instruments.
+
+Raw Materials
+
+We use three basic raw materials in the manufacture of our products: elastomers, aluminum and plastic. Elastomers include both synthetic and natural materials. We currently have access to adequate supplies of these raw materials to meet our production needs through agreements with suppliers.
+4
+
+We employ a supply chain management strategy in our business segments, which involves purchasing from integrated suppliers that control their own sources of supply. Due to regulatory control over our production processes, sole source availability, and the cost and time involved in qualifying suppliers, we rely on single-source suppliers for many critical raw materials. We generally purchase certain raw materials in the open market. This strategy increases the risk that our supply chain may be interrupted in the event of a supplier production or distribution problem. These risks are managed, when and where possible, by selecting suppliers with multiple manufacturing sites, rigorous quality control systems, surplus inventory levels and other methods of maintaining supply in case of an interruption in production or distribution.
+
+Intellectual Property
+
+Intellectual property, including patents, trademarks, copyrights, and trade secrets, is important to our business. We own or license intellectual property rights, including know-how and issued patents and pending patent applications in the U.S. and in other countries, that relate to various aspects of our products. In 2020, more than 290 patents were issued to West across the globe. Some key value-added and proprietary products and processes are exclusively licensed from Daikyo. Our intellectual property rights help protect our products and are critical to the growth of our business.
+
+Working Capital
+
+We are required to carry significant amounts of inventory to meet customer requirements. In addition, some of our supply agreements require us to purchase inventory in bulk orders, which increases inventory levels but decreases the risk of supply interruption. For a more detailed discussion of working capital, please refer to the discussion in Part II, Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations under the caption Financial Condition, Liquidity and Capital Resources.
+
+Government Regulation
+
+The design, development, manufacturing, marketing and labeling of certain of our products and our customers’ products that incorporate our products are subject to regulation by governmental authorities in the U.S., Europe and other countries, including the U.S. Food and Drug Administration (“FDA”), the European Medicines Agency and the National Medical Products Administration (China). Regulatory authorities, including regulatory review and oversight, can impact the time and cost associated with the development and continued availability of our products, and they have the authority to take various administrative and legal actions against West, such as product recalls. There were no required material capital expenditures for adherence to our government-led regulatory standards in our facilities in 2020 outside the normal course of business and there are currently no needed or planned material expenditures for 2021.
+
+West is also subject to various federal and state laws, and laws outside the United States, concerning fraud and abuse, global anti-corruption, and export control. With the recent increased regulations, we remain committed as a company to comply with all laws and regulations applicable to our business.
+
+Environmental Regulations
+
+We are subject to various national, state and local provisions regulating the discharge of materials into the environment or otherwise relating to the protection of the environment. Our compliance with these laws and regulations has not had a material impact on our financial position, results of operations or cash flows. There were no required material capital expenditures for environmental controls in our facilities in 2020 and there are currently no needed or planned material expenditures for 2021.
+5
+
+Marketing
+
+Our Proprietary Products customers primarily include many of the major biologic, generic, and pharmaceutical drug companies in the world, which incorporate our components and other offerings into their injectable products for distribution to the point of care and ultimate end-user - the patient.
+
+Our Contract-Manufactured Products customers include many of the world’s largest pharmaceutical, diagnostic, and medical device companies. Contract-Manufactured Products components generally are incorporated into our customers’ manufacturing lines for further processing or assembly.
+
+Our products and services are sold and distributed primarily through our own sales force and distribution network, with limited use of contract sales agents and regional distributors.
+
+Our ten largest customers accounted for 42.0% of our consolidated net sales in 2020, but none of these customers individually accounted for more than 10% of consolidated net sales. Please refer to Note 3, Revenue, and Note 19, Segment Information, for additional information on our consolidated net sales.
+
+Competition
+
+With our range of proprietary technologies, we compete with several companies across our Proprietary Products product lines. Competition for these components is based primarily on product design and performance, quality, regulatory, and scientific expertise, along with total cost.
+
+In addition, there are a number of competitors supplying medical devices and medical device components, including a number of pharmaceutical manufacturers who are also potential customers of our medical devices and components. We compete in this market on the basis of our reputation for quality and reliability in engineering and project management, as well as our knowledge of, and experience in, compliance with regulatory requirements.
+
+We have specialized knowledge of container closure components, which is integral to developing delivery systems. With our range of proprietary technologies, we compete with new and established companies in the area of drug delivery devices, including suppliers of prefillable syringes, auto-injectors, safety needles, and other proprietary systems.
+
+We seek to differentiate ourselves from our competition by serving as an integrated drug containment and delivery systems global supplier that can provide pre-approval primary packaging support and engineering development, analytical lab services and integrated solutions, regulatory expertise, and after-sale technical support. Customers also appreciate the global scope of our manufacturing capability and our ability to produce many products at multiple sites.
+
+Our Contract-Manufactured Products business operates in very competitive markets for its products. The competition varies from smaller regional companies to large global assembly manufacturers. Given the cost pressures they face, many of our customers look to reduce costs by sourcing from low-cost locations. We seek to differentiate ourselves by leveraging our global capabilities and by employing new technologies such as high-speed automated assembly, insert-molding, multi-shot precision molding, and expertise with multiple-piece closure systems.
+
+Research and Development Activities
+
+We maintain our own research-scale production facilities and laboratories for developing new products and offer contract engineering design and development services to assist customers with new product development. Our quality control, regulatory and laboratory testing capabilities are used to ensure compliance with applicable manufacturing and regulatory standards for primary and secondary pharmaceutical packaging components and delivery systems.
+
+6
+
+Commercial development of our new products and services for medical and pharmaceutical applications commonly requires several years. New products that we develop may require separate approval as medical devices, and products that are intended to be used in the packaging and delivery of pharmaceutical products are subject to both customer acceptance of our products and regulatory approval of the customer’s products following our development period.
+
+We continue to pursue innovative strategic platforms in prefillable syringes, injectable containers, advanced injection, and safety and administration systems.
+
+We also continue to seek new innovative opportunities for acquisition, licensing, partnering or development of products, services and technologies.
+
+Human Capital Management
+
+Our People
+
+As of December 31, 2020, we employed approximately 9,200 people, excluding contractors and temporary workers, in our operations throughout the world. During 2020, West hired approximately 1,900 new team members and experienced an attrition rate of 15.1%. The following table presents the approximate percentage of our employees by region:
+
+North America	44%	Europe	41%	Asia Pacific	12%	South America	3%	Total	100% 
+
+As of December 31, 2020, the following table presents the approximate percentage of our employees by business unit:
+
+Global Operations	83%	Sales and Marketing	5%	Corporate	5%	Digital & Technology (D&T)	4%	Research & Development	3%	Total	100% 
+
+As of December 31, 2020, we had the following global gender demographics:
+
+Men	Women	West Global Employees	63%	37% 
+
+7
+
+Diversity and Inclusion
+We actively foster an inclusive and collaborative culture for our team members where different views and perspectives are welcomed and valued. We are convinced that this approach brings forth innovation, learning and growth for our team members on a global basis. The Chief Executive Officer ("CEO") and the executive team members review diversity and inclusion objectives throughout the year to ensure continuous focus and improvement. As of December 31, 2020, three out of the ten members of West's Leadership Team are women, with five out of the ten members being women and/or people of color.
+
+Training, Compliance and Talent Development
+We strongly encourage our team members to engage in continuous learning, and we provide development opportunities and build talent from within. We are proud to offer resources like our tuition reimbursement program and our online learning catalog, with approximately 1,300 courses available. We centrally manage and organize on-the-job training, instructor-led trainings and online trainings in many different languages and topics through our one global Learning Management System, where we tracked approximately 33,500 training completions during 2020 from our team members around the globe.
+
+Our team members live the values of our ethical culture. They are responsible for adhering to our core values as they work together to support our mission to improve patient lives. West’s Code of Business Conduct, available in multiple languages on westpharma.com, provides guidance to our team members on appropriate conduct. Every team member is required to undergo Code of Business Conduct and respect in the workplace training annually.
+
+Our focus on talent acquisition, performance management, resource planning and leadership assessment are strongly aligned with our diversity and inclusion strategies. We understand that diversity leads to greater innovation, more opportunities, better access to talent and stronger business performance.
+
+Compensation and Benefits
+West is committed to providing fair and competitive compensation and benefits programs to attract, retain and reward high-performing team members at all levels. We offer a comprehensive total rewards program to support the health, financial and home-life needs of our team members. Total Rewards at West are defined as the value of the Compensation and Benefits programs offered to employees, which aim to reflect the value of the job and the contribution of the individual, while linking employees’ performance to business and personal results. Based on country of employment, West may provide health care and retirement savings programs as well as paid time off, flexible work schedules, a Global Employee Assistance Program and an Employee Stock Purchase Program.
+
+Health, Safety and Wellness
+The health and safety of our team members has always been both a top priority and a cultural value. West's commitment to the safety of our teams starts at the top and is driven throughout our business by every level of management and by every team member across the globe. In 2020, West formed a Health, Safety, and Environment ("HSE") Executive Council consisting of C-suite and executive operations leaders to monitor and guide our HSE process. West’s global HSE team is also a critical component in leading the safety efforts at our sites. Each manufacturing location has dedicated and trained HSE professionals, responsible for general safety oversight at the site. Our Recordable Injury Rate in 2020 was 0.94 per 100 employees. Our HSE focus can also be seen in our proactive global response to the novel coronavirus ("COVID-19") pandemic which includes training and active screening of employees for COVID-19 illness; enhanced gowning and cleaning protocols at all locations; mask requirements for all employees, vendors and contractors; eliminating all non-critical international and domestic business travel; requiring administrative and support personnel to work-from-home; modifying production operations to facilitate social distancing; and regular communications regarding COVID-19 protocols, precautions and information for both on and off the job use.
+
+8
+
+Available Information
+
+We maintain a website at www.westpharma.com. Our Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (the “Exchange Act”) are available on our website under the Investors - SEC Filings caption as soon as reasonably practical after we electronically file the material with, or furnish it to, the U.S. Securities and Exchange Commission (“SEC”). These filings are also available to the public over the Internet at the SEC’s website, www.sec.gov.
+
+In Part II of this Form 10-K, we incorporate by reference certain information from parts of other documents filed with the SEC and from our Proxy Statement for the 2021 Annual Meeting of Shareholders (“2021 Proxy Statement”), which will be filed with the SEC within 120 days following the end of our 2020 fiscal year. Our 2021 Proxy Statement will be available on our website on or about March 25, 2021, under the caption Investors - Annual Reports & Proxy.
+
+Information about our corporate governance, including our Corporate Governance Principles and Code of Business Conduct, as well as information about our Directors, Board Committees, Committee Charters, and instructions on how to contact the Board, is available on our website under the Investors - Corporate Governance heading. We intend to make any required disclosures regarding any amendments of our Code of Business Conduct or waivers granted to any of our directors or executive officers under the caption Investors - Code of Business Conduct on our website. Information relating to the West Pharmaceutical Services Dividend Reinvestment Plan is also available on our website under the Investors - Transfer Agent/Dividend Reinvestment caption.
+
+Information on our website does not constitute part of this document.
+
+We will provide any of the foregoing information without charge upon written request to our Corporate Secretary, West Pharmaceutical Services, Inc., 530 Herman O. West Drive, Exton, PA 19341.

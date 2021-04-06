@@ -1,0 +1,809 @@
+PART I
+
+Item 1.
+
+BUSINESS
+
+Unless the context otherwise requires, “we”, “us”, “our”, “WestRock” and “the Company” refer to the business of WestRock Company, its wholly-owned subsidiaries and its partially-owned consolidated subsidiaries for periods on or after November 2, 2018 and to WRKCo Inc. (formerly known as WestRock Company, “WRKCo”) for periods prior to November 2, 2018.
+
+General
+
+WestRock is a multinational provider of sustainable, fiber-based paper and packaging solutions. We partner with our customers to provide differentiated paper and packaging solutions that help them win in the marketplace. Our team members support customers around the world from our operating and business locations in North America, South America, Europe, Asia and Australia.
+
+On November 2, 2018, pursuant to the Agreement and Plan of Merger (the “Merger Agreement”), dated as of January 28, 2018, among WRKCo, KapStone Paper and Packaging Corporation (“KapStone”), WestRock Company (formerly known as Whiskey Holdco, Inc.), Whiskey Merger Sub, Inc. and Kola Merger Sub, Inc., the Company acquired all of the outstanding shares of KapStone through a transaction in which: (i) Whiskey Merger Sub, Inc. merged with and into WRKCo, with WRKCo surviving the merger as a wholly owned subsidiary of the Company and (ii) Kola Merger Sub, Inc. merged with and into KapStone, with KapStone surviving the merger as a wholly owned subsidiary of the Company (together, the “KapStone Acquisition”). As a result, among other things, the Company became the ultimate parent of WRKCo, KapStone and their respective subsidiaries, and the Company changed its name to “WestRock Company” and WRKCo changed its name to “WRKCo Inc.”. WRKCo was the accounting acquirer in the transaction; therefore, the historical consolidated financial statements of WRKCo for periods prior to the KapStone Acquisition are also considered to be the historical financial statements of the Company. The Company is the successor issuer to both WRKCo and KapStone pursuant to Rule 12g-3(c) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”). See “Note 3. Acquisitions and Investments” of the Notes to Consolidated Financial Statements for more information.
+
+ 
+
+We report our financial results of operations in the following three reportable segments: Corrugated Packaging, which consists of our containerboard mills, corrugated packaging and distribution operations, as well as our merchandising displays and recycling procurement operations; Consumer Packaging, which consists of our consumer mills, food and beverage and partition operations; and Land and Development, which previously sold real estate, primarily in the Charleston, SC region. We completed the monetization of our assets in the Land and Development segment during fiscal 2020; therefore, this segment no longer exists.
+
+Products
+
+Corrugated Packaging Segment
+
+We are one of the largest integrated producers of linerboard and corrugating medium (“containerboard”), corrugated products and specialty papers (including kraft papers and saturating kraft) in North America measured by tons produced, one of the largest producers of high-graphics preprinted linerboard measured by net sales in North America and one of the largest manufacturers of temporary promotional point-of-purchase displays in North America measured by net sales. We have integrated corrugated operations in North America, Brazil and India. We believe we are one of the largest paper recyclers in North America and our recycling operations provide substantially all of the recycled fiber to our containerboard and paperboard mills, as well as to third parties. Our Brazil operations own and operate forestlands that provide virgin fiber to our mill in Brazil.
+
+We operate an integrated corrugated packaging system that manufactures primarily containerboard, corrugated sheets, corrugated packaging and preprinted linerboard for sale to consumer and industrial products manufacturers and corrugated box manufacturers. We produce a full range of high-quality corrugated containers designed to protect, ship, store, promote and display products made to our customers’ merchandising and distribution specifications. We convert corrugated sheets into corrugated products ranging from one-color protective cartons to graphically brilliant point-of-purchase packaging. Our corrugated container plants serve local customers and regional and large national accounts. Corrugated packaging is used to provide protective
+
+3
+
+ 
+
+packaging for shipment and distribution of food, paper, health and beauty, and other household, consumer, commercial and industrial products. Corrugated packaging may also be graphically enhanced for retail sale, particularly in club store locations. We provide customers with innovative packaging solutions to help them promote and sell their products. We provide structural and graphic design, engineering services and custom, proprietary and standard automated packaging machines, offering customers turn-key installation, automation, line integration and packaging solutions. We offer a machinery solution that creates pouches that replace single-use plastics, including bubble mailers. We also distribute corrugated packaging materials and other specialty packaging products, including stretch film, void fill, carton sealing tape and other specialty tapes, through our network of warehouses and distribution facilities. To make corrugated sheet stock, we feed linerboard and corrugating medium into a corrugator that flutes the medium to specified sizes, glues the linerboard and fluted medium together, and slits and cuts the resulting corrugated paperboard into sheets to customer specifications. Our containerboard mills and corrugated container operations are integrated with the majority of our containerboard production used internally by our corrugated container operations. The balance is either used in trade swaps with other manufacturers or sold domestically and internationally.
+
+We design, manufacture and, in certain cases, pack temporary displays for sale to consumer products companies and retailers. These displays are used as marketing tools to support new product introductions and specific product promotions in mass merchandising stores, supermarkets, convenience stores, home improvement stores and other retail locations. We also design, manufacture and, in some cases, pre-assemble permanent displays for these customers. We make temporary displays primarily from corrugated paperboard. Unlike temporary displays, permanent displays are restocked with our customers’ product; therefore, they are constructed primarily from metal, plastic, wood and other durable materials. We provide contract packing services, such as multi-product promotional packing and product manipulation, such as multipacks and onpacks. We manufacture and distribute point of sale material utilizing litho, screen and digital printing technologies. We manufacture lithographic laminated packaging for sale to our customers that require packaging with high quality graphics and strength characteristics.
+
+Our recycling operations primarily procure recovered paper (also known as recycled fiber) from our converting facilities and from third parties, such as factories, warehouses, commercial printers, office complexes, grocery and retail stores, document storage facilities, paper converters and other wastepaper collectors. We handle a wide variety of grades of recovered paper, including old corrugated containers, office paper, box clippings, newspaper and print shop scraps. We operate recycling facilities that collect, sort, grade and bale recovered paper and, after sorting and baling, we transfer it to our containerboard and paperboard mills for processing or sell it principally to manufacturers of paperboard or containerboard in the United States (“U.S.”), as well as manufacturers of tissue, newsprint, roofing products and insulation, and to export markets. We operate a nationwide fiber marketing and brokerage system that serves large regional and national accounts, as well as our containerboard and paperboard mills, and sells scrap materials from our converting businesses and mills. Many of our recycling facilities are located close to our containerboard and paperboard mills, which helps promote the availability of supply with reduced shipping costs. We conduct our recycling operations as a procurement function, focusing on the procurement of low cost, high quality recycled fiber for our mill system and, therefore, we do not record recycling net sales and the margin from these operations has reduced cost of goods sold.
+
+Sales of corrugated packaging products to external customers accounted for 64.6%, 64.2% and 59.0% of our net sales in fiscal 2020, 2019 and 2018, respectively. See “Note 7. Segment Information” of the Notes to Consolidated Financial Statements, as well as Item 7. “Management’s Discussion and Analysis of Financial Condition and Results of Operations”, for additional information.
+
+Consumer Packaging Segment
+
+We operate integrated virgin and recycled fiber paperboard mills and consumer packaging converting operations, which convert items such as folding cartons, interior partitions, inserts and labels. Our integrated system of virgin and recycled mills produces paperboard for our converting operations and third parties. We internally consume or sell to manufacturers of folding cartons and other paperboard products our coated natural kraft, bleached paperboard and coated recycled paperboard, and internally consume or sell to manufacturers of solid fiber interior packaging, tubes and cores, book covers and other paperboard products our specialty recycled paperboard. The mill owned by our Seven Hills Paperboard LLC (“Seven Hills”) joint venture in Lynchburg, VA manufactures gypsum paperboard liner for sale to our joint venture partner.
+
+4
+
+ 
+
+We are one of the largest manufacturers of folding cartons in North America. We believe we are the largest manufacturer of solid fiber partitions in North America measured by net sales. Our folding cartons are used to package items such as food, paper, beverages, dairy products, tobacco, confectionery, health and beauty and other household consumer, commercial and industrial products, primarily for retail sale. Our folding cartons are also used by our customers to attract consumer attention at the point-of-sale. We manufacture express mail packages for the overnight courier industry, provide inserts and labels, as well as rigid packaging and other printed packaging products, such as transaction cards (e.g., credit, debit, etc.), brochures, product literature, marketing materials (such as booklets, folders, inserts, cover sheets and slipcases) and grower tags and plant stakes for the horticultural market. For the global healthcare market, we manufacture paperboard packaging for over-the-counter and prescription drugs. Our customers generally use our inserts and labels to provide customer product information either inside a secondary package (e.g., a folding carton) or affixed to the outside of a primary package (e.g., a bottle). Folding cartons typically protect customers’ products during shipment and distribution, and employ graphics to promote them at retail. We manufacture folding cartons from recycled and virgin paperboard, laminated paperboard and various substrates with specialty characteristics, such as grease masking and microwaveability. We print, coat, die-cut and glue the cartons to customer specifications and ship finished cartons to customers for assembling, filling and sealing. We employ a broad range of offset, flexographic, gravure, backside printing, coating and finishing technologies, as well as iridescent, holographic, textured and dimensional effects to provide differentiated packaging products, and support our customers with new package development, innovation and design services and package testing services. We manufacture and sell our solid fiber and corrugated partitions and die-cut paperboard components principally to glass container manufacturers, producers of beer, food, wine, spirits, cosmetics and pharmaceuticals, and the automotive industry.
+
+Sales of consumer packaging products to external customers accounted for 35.3%, 35.7% and 40.1% of our net sales in fiscal 2020, 2019 and 2018, respectively. See “Note 7. Segment Information” of the Notes to Consolidated Financial Statements, as well as Item 7. “Management’s Discussion and Analysis of Financial Condition and Results of Operations”, for additional information.
+
+Land and Development Segment
+
+During fiscal 2020, we completed the monetization of the various real estate holdings that we owned that were concentrated in the Charleston, SC region. Sales in our Land and Development segment to external customers accounted for 0.1%, 0.1% and 0.9% of our net sales in fiscal 2020, 2019 and 2018, respectively. See “Note 7. Segment Information” for additional information. We completed the monetization of our assets in the Land and Development segment during fiscal 2020; therefore, this segment no longer exists.
+
+Seasonality
+
+While our businesses are not materially impacted by seasonality, there is some variability in demand that occurs from quarter to quarter, with net sales in the first quarter of each fiscal year typically being the lowest. As such, we disclose net sales, segment income and shipment data by segment by quarter in Item 7. “Management’s Discussion and Analysis of Financial Condition and Results of Operations”. Generally, we expect more of our earnings and cash flows to be generated in the second half of the fiscal year than in the first half of the fiscal year due to these variations and other factors, including the timing of scheduled mill maintenance outages.
+
+Raw Materials
+
+The primary raw materials used by our mill operations are recycled fiber at our recycled containerboard and paperboard mills and virgin fiber from hardwoods and softwoods at our virgin containerboard and paperboard mills. Certain of our virgin containerboard is manufactured with some recycled fiber content. Recycled fiber prices and virgin fiber prices can fluctuate significantly. While virgin fiber prices have generally been more stable than recycled fiber prices, they also fluctuate, particularly due to significant changes in weather, such as during prolonged periods of heavy rain or drought, or during housing construction slowdowns or accelerations.
+
+Containerboard and paperboard are the primary raw materials used by our converting operations. Our converting operations use many different grades of containerboard and paperboard. We supply substantially all of our converting operations' needs for containerboard and paperboard from our own mills and through the use of trade swaps with other manufacturers. These arrangements allow us to optimize our mill system and reduce freight costs. Because there are other suppliers that produce the necessary grades of containerboard and paperboard used in our converting operations, we believe we would be able to source significant replacement quantities from
+
+5
+
+ 
+
+other suppliers in the event that we incur production disruptions for recycled or virgin containerboard and paperboard. See Item 1A. “Risk Factors — We May Face Increased Costs For, or Inadequate Availability of, Raw Materials, Energy and Transportation”.
+
+Energy
+
+Energy is one of the most significant costs of our mill operations. The cost of natural gas, coal, oil, electricity and wood by-products (biomass) at times has fluctuated significantly. In our recycled paperboard mills, we use primarily natural gas and electricity, supplemented with coal and fuel oil to generate steam used in the paper making process and, at a few mills, to generate electricity used on site. In our virgin fiber mills, we use natural gas, biomass and coal to generate steam used in the pulping and paper making processes and to generate some or all of the electricity used on site. We primarily use electricity and natural gas to operate our converting facilities. We generally purchase these products from suppliers at market or tariff rates. See Item 1. “Business — Governmental Regulation — Environmental” for additional information. See also Item 1A. “Risk Factors — We May Face Increased Costs For, or Inadequate Availability of, Raw Materials, Energy and Transportation”. See also Item 7A. “Quantitative and Qualitative Disclosures About Market Risk — “Energy” and “Derivative Instruments / Forward Contracts” for additional information regarding our energy consumption.
+
+Transportation
+
+Inbound and outbound freight is a significant cost for us. Factors that influence our freight expense are distance between our shipping and delivery locations, distance from our facilities to our customers and suppliers, mode of transportation (rail, truck, intermodal and ocean) and freight rates, which are influenced by supply and demand and fuel costs. While we experienced higher freight costs in fiscal 2019, freight costs declined in fiscal 2020. The principal markets for our products are in North America, South America, Europe, Asia and Australia. See Item 1A. “Risk Factors — We May Face Increased Costs For, or Inadequate Availability of, Raw Materials, Energy and Transportation”.
+
+Sales and Marketing
+
+None of our external customers individually accounted for more than 10% of our consolidated net sales in fiscal 2020. We generally manufacture our products pursuant to our customers’ orders. We believe that we have good relationships with our customers. See Item 1A. “Risk Factors — We Depend on Certain Large Customers”.
+
+As a result of our vertical integration, our mills’ sales volumes may be directly impacted by changes in demand for our packaging products. During fiscal 2020, approximately two-thirds of our coated natural kraft tons shipped, approximately three-fifths of our coated recycled paperboard tons shipped and approximately one-fifth of our bleached paperboard tons shipped were delivered to our converting operations, primarily to manufacture folding cartons, and approximately three-fourths of our containerboard tons shipped, including trade swaps and buy/sell transactions, were delivered to our converting operations to manufacture corrugated products. Under the terms of our Seven Hills joint venture arrangement, our joint venture partner is required to purchase all of the qualifying gypsum paperboard liner produced by Seven Hills. Excluding the production from Seven Hills and from our Aurora, IL mill, which is converted into book covers and other products, approximately one-third of our specialty recycled paperboard tons shipped in fiscal 2020 were delivered to our converting operations, primarily to manufacture interior partitions. We have the ability to move our internal sourcing among certain of our mills to optimize the efficiency of our operations.
+
+As a result of our broad portfolio of differentiated and sustainable paper and packaging solutions, we serve more than 15,000 customers, including 160 customers who buy at least $1 million from both our Corrugated Packaging and Consumer Packaging segments. We believe that our ability to leverage our full portfolio of differentiated solutions and capabilities enables us to set ourselves apart from our competitors.
+
+We market our products primarily through our own sales force. We also market a number of our products through independent sales representatives and independent distributors. We generally pay our sales personnel a combination of base salary, commissions and annual bonus. We pay our independent sales representatives on a commission basis. Orders from our customers generally do not have significant lead times. We discuss foreign net sales to unaffiliated customers and other non-U.S. operations’ financial and other segment information in “Note 7. Segment Information” of the Notes to Consolidated Financial Statements.
+
+6
+
+ 
+
+Competition
+
+We operate in a competitive global marketplace and compete with many large, well established and highly competitive manufacturers and service providers. Our business is affected by a range of macroeconomic conditions, including industry capacity changes, global competition, economic conditions in the U.S. and abroad, as well as fluctuations in currency exchange rates.
+
+The industries in which we operate are highly competitive, and no single company dominates any of those industries. Our containerboard and paperboard operations compete with integrated and non-integrated national and regional companies operating primarily in North America, and to a limited extent, manufacturers outside of North America. Our competitors include large and small, vertically integrated companies and numerous smaller non-integrated companies. In the corrugated packaging and folding carton markets, we compete with a significant number of national, regional and local packaging suppliers in North America and abroad. In the solid fiber interior packaging, promotional point-of-purchase display and converted paperboard products markets, we primarily compete with a smaller number of national, regional and local companies offering highly specialized products.
+
+Since all of our businesses operate in highly competitive industry segments, we regularly discuss sales opportunities for new business or for renewal of existing business with customers. Our packaging products compete with packaging made from other materials, including plastics. The primary competitive factors we face include price, design, product innovation, quality, service and sustainability, with varying emphasis on these factors depending on the product line and customer preferences. Our machinery solutions represent one example of how we compete by providing differentiated solutions that create value for our customers. We believe that we compete effectively with respect to each of these factors and we obtain feedback on our performance with periodic customer surveys, among other means.
+
+The industries in which we operate have undergone consolidation. Within the packaging products industry, larger customers, with an expanded geographic presence, have tended to seek suppliers that can, because of their broad geographic presence, efficiently and economically supply all or a range of their packaging needs. In addition, our customers continue to demand higher quality products meeting stricter quality control requirements. Increasing demand for more sustainable products is also impacting our industry. See Item 1. “Business — Sustainability” for additional information.
+
+See Item 1A. “Risk Factors — We Face Intense Competition” and “Risk Factors — We May Be Adversely Affected by Factors That Are Beyond Our Control, Such as U.S. and Worldwide Economic and Financial Market Conditions, and Social and Political Change”.
+
+Governmental Regulation
+
+Health and Safety
+
+Our business involves the use of heavy equipment, machinery and chemicals and requires the performance of activities that create safety exposures. The health and safety of our teammates is our first priority, and we have established safety policies, programs, procedures and training for our manufacturing operations. We are subject to a broad range of foreign, federal, state and local laws and regulations relating to occupational health and safety, and our safety program includes measures required for compliance. In addition, our program includes the ongoing identification and elimination of workplace exposures that can lead to injuries and sharing of health and safety best practices.
+
+Certain governmental authorities in locations where we do business have established asbestos standards for the workplace. Although we do not use asbestos in manufacturing our products, asbestos containing material (“ACM”) is present in some of the facilities we lease or own. For those facilities where ACM is present and ACM is subject to regulation, we have established procedures for properly managing it.
+
+We do not believe that future compliance with occupational health and safety laws and regulations will have a material adverse effect on our results of operations, financial condition or cash flows.
+
+7
+
+ 
+
+Environmental
+
+Environmental compliance requirements are a significant factor affecting our business. We employ manufacturing processes that involve discharges to water, air emissions, water intake and waste handling activities. These processes are subject to numerous federal, state, local and international environmental laws and regulations, as well as the requirements of environmental permits and similar authorizations issued by various governmental authorities. Complex and lengthy processes may be required to obtain and renew approvals, permits, and licenses for new, existing or modified facilities. Additionally, the use and handling of various chemicals or hazardous materials require release prevention plans and emergency response procedures. Our integrated chemical pulping mills in the U.S. and Brazil are subject to more stringent environmental programs and regulations, but all of our manufacturing facilities have environmental compliance obligations.
+
+On January 31, 2013, the U.S. Environmental Protection Agency (the “EPA”) published a set of four interrelated final rules establishing national air emissions standards for hazardous air pollutants from industrial, commercial and institutional boilers and process heaters, commonly known as “Boiler MACT.” The U.S. Court of Appeals for the District of Columbia Circuit issued a ruling on the consolidated cases challenging Boiler MACT on July 29, 2016 vacating key portions of the rule, including emission limits for certain subcategories of solid fuel boilers, and sending it back to the EPA for further rulemaking. On August 24, 2020, a proposed EPA rule to amend Boiler MACT was published in the Federal Register in response to issues raised in multiple court decisions concerning the rule. The EPA’s proposal would change several numeric emission limits for new and existing boilers and process heaters, including new fluidized bed boilers and existing coal-fired boilers like those at several WestRock paper mills. Based on our evaluation of the proposed rule, emissions data and testing, we do not believe that the capital or operating costs for us to comply with the proposed Boiler MACT limits will be material; however, we are continuing to track the development of the proposed rule and its potential impacts on us. We anticipate that we will have up to three years after the effective date of the final rule to demonstrate compliance with the new Boiler MACT limits.
+
+In addition to Boiler MACT, we are subject to several other federal, state, local and international environmental rules that may impact our business, including other Maximum Achievable Control Technology standards, National Ambient Air Quality Standards for nitrogen oxide, sulfur dioxide, fine particulate matter and ozone for facilities and National Pollutant Discharge Elimination System permitting requirements in the U.S. Legal requirements to review and revise existing environmental regulations applicable to our business, as well as litigation challenging these regulations, could result in more stringent or additional compliance obligations that may require capital investments or increase our operating costs.
+
+We are involved in various administrative and other proceedings relating to environmental matters that arise in the normal course of business, and we may become involved in similar matters in the future. Although the ultimate outcome of these proceedings cannot be predicted with certainty and we cannot at this time estimate any reasonably possible losses based on available information, we do not believe that the currently expected outcome of any environmental proceedings and claims that are pending or threatened against us will have a material adverse effect on our results of operations, financial condition or cash flows.
+
+We face potential liability under federal, state, local and international laws as a result of releases, or threatened releases, of hazardous substances into the environment from various sites owned and operated by third parties at which Company-generated wastes have allegedly been deposited. Generators of hazardous substances sent to off-site disposal locations at which environmental problems exist, as well as the owners of those sites and certain other classes of persons, are liable for response costs for the investigation and remediation of such sites under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (“CERCLA”) and analogous laws. While joint and several liability is authorized under CERCLA, liability is typically shared with other potentially responsible parties (“PRPs”) and costs are commonly allocated according to relative amounts of waste deposited and other factors.
+
+In addition, certain of our current or former locations are being investigated or remediated under various environmental laws, including CERCLA. Based on information known to us and assumptions, we do not believe that the costs of these investigation and remediation projects will have a material adverse effect on our results of operations, financial condition or cash flows. However, the discovery of contamination or the imposition of additional obligations, including natural resources damages at these or other sites in the future, could result in additional costs.
+
+8
+
+ 
+
+We believe that we can assert claims for indemnification pursuant to existing rights we have under purchase and other agreements in connection with certain remediation sites. In addition, we believe that we have insurance coverage, subject to applicable deductibles or retentions, policy limits and other conditions, for certain environmental matters. However, there can be no assurance that we will be successful with respect to any claim regarding these insurance or indemnification rights or that, if we are successful, any amounts paid pursuant to the insurance or indemnification rights will be sufficient to cover all our costs and expenses. We also cannot predict with certainty whether we will be required to perform remediation projects at other locations, and it is possible that our remediation requirements and costs could increase materially in the future and exceed current reserves. In addition, we cannot currently assess with certainty the impact that future changes in cleanup standards or federal, state or other environmental laws, regulations or enforcement practices will have on our results of operations, financial condition or cash flows.
+
+See Item 1A. “Risk Factors — We are Subject to a Wide Variety of Laws, Regulations and Other Requirements That are Subject to Change and May Impose Substantial Compliance Costs”.
+
+We estimate that we will invest approximately $27 million for capital expenditures during fiscal 2021 in connection with matters relating to environmental compliance. It is possible that our capital expenditure assumptions and the project completion dates may change, and our projections are subject to change due to items such as the finalization of ongoing engineering projects and changes in environmental laws and regulations.
+
+Climate Change
+
+Some of our paper mills, our most energy-intensive manufacturing facilities, burn renewable biomass to generate more than 60 percent of their energy needs based on overall fuel mix. Most of these facilities also self-generate the steam and power needed for their manufacturing processes using combined heat and power or “cogeneration” systems. Our recycling operations help to divert approximately 8 million tons of paper and packaging from landfills where it would otherwise degrade and release greenhouse gases in the form of methane, which has a high global warming potential. Our fiber procurement activities create economic incentives for landowners and family tree farmers to maintain their holdings as working forests that sequester carbon and provide many other environmental benefits, including protection for fresh water supplies and habitats for diverse species of plants and animals.
+
+ 
+
+In 2015, the Company established a goal to reduce its Scope 1 and Scope 2 greenhouse gas emissions per ton of production by 20% from a 2015 baseline by 2020. As of September 30, 2019, we achieved a 15% reduction of greenhouse gas (“GHG”) per ton of production and an absolute reduction of 21% from our baseline. We have accomplished these reductions primarily by displacing coal with natural gas and investing in new biomass boilers at our Covington, VA and Demopolis, AL mills. Our strategy for achieving our existing target includes continued investments in natural gas projects and infrastructure, as well as implementation of measures to improve the energy efficiency of our manufacturing operations. Responsibility for tracking performance against our GHG target is led by our sustainability group, which reports to our Chief Innovation Officer, and the data is verified by our internal audit department.
+
+ 
+
+Climate change presents opportunities for our business. For example, we produce renewable energy in abundant amounts and generates renewable energy credits (“RECs”). An entity seeking to reduce its greenhouse gas profile can purchase our RECs and receive the rights to the environmental attributes of the renewable electricity generated by our integrated Kraft paper mills. The RECs we generate are flexible, market-based tools that support the renewable energy market and advance climate-related sustainability initiatives. Our recycling activities also may present the opportunity to generate offsets that could be used to meet climate-related obligations for ourselves or others.
+
+ 
+
+Climate change also presents potential risks and uncertainties for us. With respect to physical climate risks, our manufacturing operations may be impacted by weather-related events such as hurricanes and floods, potentially resulting in lost production, supply chain disruptions and increased material costs. Unpredictable weather patterns also may impact virgin fiber prices, which may fluctuate during prolonged periods of heavy rain or drought. On the other hand, changes in climate also could result in more accommodating weather patterns for greater periods of time in certain areas, which may create favorable fiber market conditions. We incorporate a review of meteorological forecast data into our fiber procurement decisions and strategies. To the extent that
+
+9
+
+ 
+
+climate-related risks materialize, and we are unprepared for them, we may incur unexpected costs, which could have a material effect on our financial results of operations.
+
+Responses to climate change may result in regulatory risks as new laws and regulations aimed at mandating GHG reductions come into effect. These rules and regulations could take the form of cap-and-trade, carbon taxes, or GHG reductions mandates for utilities that could increase the cost of purchased electricity. New climate rules and regulations also may result in higher fossil fuel prices or fuel efficiency standards that could increase transportation costs. Certain jurisdictions in which we have manufacturing facilities or other investments have already taken actions to address climate change. In the U.S, the EPA has issued the Clean Air Act permitting regulations applicable to certain facilities that emit GHG. The EPA also has promulgated a rule requiring certain industrial facilities that emit 25,000 metric tons or more of carbon dioxide equivalent per year to file an annual report of their emissions. While we have facilities subject to existing GHG permitting and reporting requirements, the impact of these requirements has not been material to date.
+
+In addition to these national efforts, some U.S. states in which we have manufacturing operations, including Washington, New York and Virginia, are taking measures to reduce GHG emissions, such as requiring GHG emissions reporting or developing regional cap-and-trade programs. In addition, several of our international facilities are located in countries that have already adopted GHG emissions trading schemes. For example, Quebec has become a member of the Western Climate Initiative, which is a collaboration among California and certain Canadian provinces that have joined together to create a cap-and-trade program to reduce GHG emissions. In 2009, Quebec adopted a target of reducing GHG emissions by 20% below 1990 levels by 2020 and 37.5% from 1990 levels by 2030. In 2011, Quebec issued a final regulation establishing a regional cap-and-trade program that required reductions in GHG emissions from covered emitters as of January 1, 2013. Our mill in Quebec is subject to these cap-and-trade requirements, although the direct impact of this regulation has not been material to date. Other countries in which we conduct business, including China, European Union member states and India, have set GHG reduction targets in accordance with the agreement signed in April 2016 among over 170 countries that established a framework for reducing global GHG emissions (also known as the “Paris Agreement”), which became effective in November 2016.
+
+Regulation related to climate change continues to develop in the areas of the world where we conduct business. We have systems in place for tracking the GHG emissions from our energy-intensive facilities, and we carefully monitor developments in climate related laws, regulations and policies to assess the potential impact of such developments on our results of operations, financial condition, cash flows and disclosure obligations. Compliance with climate programs may require future expenditures to meet GHG emission reduction obligations in future years. These obligations may include carbon taxes, the requirement to purchase GHG credits, or the need to acquire carbon offsets. Also, we may be required to make capital and other investments to displace traditional fossil fuels, such as fuel oil and coal, with lower carbon alternatives, such as biomass and natural gas.  
+
+Sustainability
+
+ 
+
+At WestRock, we say sustainability is in every fiber of our company. In truth, it forms an integral part of our busines plan where our goal is to embed sustainability into our culture and strategy to innovate, create value and build competitive advantage. Our vision, Imagining and Delivering on the Promise of a Sustainable Future, is represented by three pillars:
+
+ 
+
+▪
+
+Supporting People and Communities
+
+ 
+
+▪
+
+Bettering the Planet
+
+ 
+
+▪
+
+Innovating for Our Customers and Their Customers
+
+We deliver our fiber-based packaging solutions by way of our core purpose, Connecting People to Products® through safe and sustainable packaging. Paper-based packaging has many attributes that make it well-suited to helping our customers deliver more sustainable solutions to their customers. It is lightweight, durable, versatile, made with renewable materials and, in many instances, recyclable or compostable. We believe that our size and scale, coupled with our history of developing innovative products and solutions, uniquely positions us to help our customers meet or exceed their sustainability objectives.
+
+We are one of the largest recyclers in the paper industry. We recover 8 million tons annually of paper, cardboard and other materials, representing waste that would otherwise go into landfills. We use the majority of
+
+10
+
+ 
+
+that recovered fiber in our own paper mills to make new products. All of the virgin fiber used by our paper mills in North America is certified through the Sustainable Forestry Initiative’s Fiber Sourcing Standard.
+
+By operating across the entire supply chain, we are an example of the circular economy in action, using raw materials that are either recovered or that in many instances can be reused, recycled or composted in a more sustainable “closed loop” business model. Our customers are increasingly interested in our commitment to sustainability as our progress with developing more sustainable products helps them achieve their sustainability goals.
+
+Other examples of our commitment to sustainability include having one of the industry’s largest certified virgin fiber procurement systems and heading industry-leading foodservice recycling initiatives. We have been recognized for our sustainability efforts through, among other things, industry award programs and inclusion in the FTSE 4 Good index.
+
+We are committed to our vision of Imagining and Delivering on the Promise of a More Sustainable Future to create long-term value for our people, communities, customers and the planet.
+
+Patents and Other Intellectual Property
+
+We hold a substantial number of foreign and domestic trademarks, trademark applications, trade names, patents, patent applications and licenses relating to our business, our products and our production processes. Our patent portfolio consists primarily of utility and design patents relating to our products and manufacturing operations. It also includes exclusive rights to substantial proprietary packaging system technology in the U.S. or other licenses obtained from a third party. Our brand name and logo, and certain of our products and services, are protected by domestic and foreign trademark rights. Our patents, trademarks and other intellectual property rights, particularly those relating to our converting operations, are important to our operations as a whole. Our intellectual property has various expiration dates.
+
+Employees
+
+At September 30, 2020, we employed approximately 49,300 people, of which approximately 78% were located in the U.S. and Canada and 22% were located in Europe, South America, Mexico and Asia Pacific. Of the approximately 49,300 employees, approximately 71% were hourly and 29% were salaried. Approximately 56% of our hourly employees in the U.S. and Canada are covered by collective bargaining agreements (“CBAs”), which typically have four to six-year terms. Approximately 21% of those employees covered under CBAs are operating under agreements that expire within one year and approximately 15% of those employees are working under expired contracts.
+
+While we have experienced isolated work stoppages in the past, we have been able to resolve them, and we believe that working relationships with our employees are generally good. While the terms of our CBAs vary, we believe the material terms of the agreements are customary for the industry, the type of facility, the classification of the employees and the geographic location covered.
+
+In December 2019, the United Steelworkers Union (“USW”) ratified a new master agreement that applies to substantially all of our U.S. facilities represented by the USW. The agreement has a four-year term and covers a number of specific items, including wages, medical coverage and certain other benefit programs, substance abuse testing, and safety. Individual facilities will continue to have local agreements for subjects not covered by the master agreement and those agreements will continue to have staggered terms. The master agreement permits us to apply its terms to USW employees who work at facilities we acquire during the term of the agreement, including most former MeadWestvaco Corporation, KapStone and other acquired facilities. The master agreement covers approximately 63 of our U.S. operating locations and approximately 8,700 of our employees.
+
+See Item 1A. “Risk Factors — We May Be Adversely Impacted By Work Stoppages and Other Labor Relations Matters”.
+
+11
+
+ 
+
+Human Capital
+
+Human Capital Management
+
+The attraction, retention and development of exceptional teammates is critical to our success. We accomplish this, in part, by developing the capabilities of our team members through our continuous learning, development and performance management programs. These programs include our safety, six sigma, supply chain, Leadership Excellence, Commercial Excellence and Manager Fundamentals programs. We sponsor early in career rotations and college hire programs that support our functions and local operations. We build partnerships with schools, universities and associations to promote future careers in manufacturing.
+
+The capabilities of our workforce have evolved as our business and strategy have evolved. We have established new roles reflecting the talent and capabilities needed by our business, both now and for what we expect in the future. In 2019, we created the roles of Chief Commercial Officer and Chief Innovation Officer, reflecting our evolving go-to-market strategy and our focus on innovation and organic growth. In 2020, we invested in roles and capabilities in our workforce to support our business strategy, including hiring a new Chief Marketing Officer, Chief Sustainability Officer and Senior Vice President of Science and Innovation. We have invested in our e-commerce and digital technology capabilities through new roles, talent and programs. These investments reflect our focus on enhancing our capabilities in the areas of sustainability, organic growth, innovation and material science. As our business evolves, we will remain focused on having the right human capital capabilities, systems and processes in place to support our strategy.
+
+Safety
+
+The safety of our teammates remains the primary focus of our leaders. Our goal is to create a 100% safe work environment for our team members. Our safety strategy focuses on the “Four Ps”: people, process, prevention and performance. We seek to reduce exposures and eliminate life changing events through engagement, execution of targeted, results-driven activities, and implementing systems that promote continuous improvement. Our commitment to safety is reinforced by our use of the WestRock Safety Excellence Management System, a robust safety program and training curriculum.
+
+Throughout the COVID-19 crisis, we have remained focused on protecting the health and safety of our team members while meeting the needs of our customers. Shortly after the outset of COVID-19, we were an early adopter of enhanced safety measures and practices across our facilities to protect employee health and safety and ensure a reliable supply of essential products to our customers. We monitor and track the impact of the pandemic on our teammates and within our operations, and proactively modify or adopt new practices to promote their health and safety.
+
+ 
+
+Diversity, Inclusion, Equity and Belonging
+
+Our Diversity, Inclusion, Equity and Belonging objective is to be a company where each of us genuinely belongs, is respected and valued, and can do our best work, and where diversity, inclusion and equity are competitive advantages.
+
+At September 30, 2020, 21% of our global workforce was comprised of females and 31% of our U.S. based workforce was comprised of people of color. Our board of directors includes four females (representing 33% of directors) and one person of color (representing 8% of directors). We are implementing a multi-year Diversity, Inclusion, Equity and Belonging action plan that we expect will increase our workforce diversity, advance inclusion, equity and belonging at all our locations, accelerate the development and career movement of diverse talent and ensure diverse succession plans such that we continue to create future opportunities for all of our teammates.
+
+In collaboration with organizations, such as the Executive Leadership Council, Pathways and Signature, we are providing external development opportunities for our diverse talent.
+
+We have included a diversity, inclusion, equity and belonging modifier in our fiscal 2021 short-term incentive plan for our top 12 executives. The modifier will be tied to the achievement of certain performance measures under our Diversity, Inclusion, Equity and Belonging action plan.
+
+12
+
+ 
+
+International Operations
+
+Our operations outside the U.S. are conducted through subsidiaries located in Canada, Mexico, South America, Europe, Asia and Australia. Sales attributable to non-U.S. operations were 17.7%, 18.2% and 19.9% of our net sales in fiscal 2020, 2019 and 2018, respectively, some of which were transacted in U.S. dollars. See “Note 7. Segment Information” of the Notes to Consolidated Financial Statements for additional information. See also Item 1A. “Risk Factors — We are Exposed to Risks Related to International Sales and Operations”.
+
+Available Information
+
+Our Internet address is www.westrock.com. Our Internet address is included herein as an inactive textual reference only. The information contained on our website is not incorporated by reference herein and should not be considered part of this report. We file annual, quarterly and current reports, proxy statements and other information with the Securities and Exchange Commission (“SEC”) and we make available free of charge most of our SEC filings through our Internet website as soon as reasonably practicable after filing with the SEC. You may access these SEC filings via the hyperlink that we provide on our website to a third-party SEC filings website. We also make available on our website our board committee charters, as well as the corporate governance guidelines adopted by our board of directors, our Code of Conduct for employees, our Code of Conduct and Ethics for the Board of Directors and our Code of Ethical Conduct for Chief Executive Officer (“CEO”) and Senior Financial Officers. Any amendments to, or waiver from, any provision of these codes that are required to be disclosed will be posted on our website. We will also provide copies of these documents, without charge, at the written request of any stockholder of record. Requests for copies should be mailed to: WestRock Company, 1000 Abernathy Road NE, Atlanta, Georgia 30328, Attention: Corporate Secretary. 
+
+Forward-Looking Information
+
+This report contains statements that relate to future, rather than past, events. These statements are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. The forward-looking statements made in this report often address our expected future business and financial performance and financial conditions, and often contain words such as “may”, “will”, “could”, “would”, “anticipate”, “intend”, “estimate”, “project”, “plan”, “believe”, “expect”, “target” and “potential”, or refer to future time periods. Forward-looking statements are based on currently available information and our current expectations, beliefs, plans or forecasts, and include statements made in this report regarding, among other things:
+
+ 
+
+•
+
+that the global impact of COVID-19 continues to evolve rapidly and the extent of its effect on our operational and financial performance in future periods will depend on future developments, which are highly uncertain and cannot be predicted with confidence, including the duration, scope and severity of the pandemic, the actions taken to contain or mitigate its impact, and the direct and indirect economic effects of the pandemic and related containment measures, among others;
+
+ 
+
+•
+
+that our financial results in fiscal 2021 will continue to be impacted by COVID-19;
+
+ 
+
+•
+
+that as the situation with COVID-19 continues to evolves, we will re-evaluate the level of our dividend;
+
+ 
+
+•
+
+our expectation that the actions we have undertaken and will continue to undertake pursuant to the WestRock Pandemic Action Plan will provide an additional $1 billion in cash through the end of fiscal 2021 that we will be able to use to reduce our outstanding indebtedness;
+
+ 
+
+•
+
+our expectation that our actions under the WestRock Pandemic Action Plan will continue to position us both to sustain our business in a range of economic and market conditions and position us for long-term success;
+
+ 
+
+•
+
+that we will continue to take actions to protect the health and safety of our teammates during COVID-19;
+
+ 
+
+•
+
+that we expect to continue to incur expenses for cleaning, safety supplies and equipment, screening resources and other items related to COVID-19 as needed in the future;
+
+13
+
+ 
+
+ 
+
+•
+
+our belief that we have substantial liquidity to navigate the current dynamic environment;
+
+ 
+
+•
+
+that, in accordance with the CARES Act (as hereinafter defined), we expect to postpone an estimated $120 million of employment tax payments over the three quarters ended December 31, 2020 and will be required to pay 50% of these amounts in December 2021 and the remaining 50% in December 2022;
+
+ 
+
+•
+
+that although we are not certain whether end market demand trends will continue into future reporting periods and, if so, for how long and to what degree, we believe the decline in specialty SBS, in particular for certain end markets, is more systemic;
+
+ 
+
+•
+
+our belief that our diverse portfolio of paper and packaging products positions us well to adapt and meet our customers’ changing needs across a broad cross-section of the economy;
+
+ 
+
+•
+
+that we expect to generate strong cash flows and reduce our debt meaningfully in fiscal 2021;
+
+ 
+
+•
+
+that we expect to add more than $125 million in EBITDA in fiscal 2021 from capturing synergies related to the KapStone Acquisition, the new paper machine at our Florence, SC mill, our box plant in Porto Feliz, Brazil and the reconfiguration at our North Charleston, SC mill;
+
+ 
+
+•
+
+that in the first quarter of fiscal 2021 we expect a sequential decline in net sales and earnings from the fourth quarter reflecting the normal seasonal sequential volume declines in many of our businesses;
+
+ 
+
+•
+
+that we expect higher North American Corrugated box shipments to be offset by three fewer shipping days during the first quarter of fiscal 2021;
+
+ 
+
+•
+
+that while volume should remain strong in Brazil, we will execute a significant outage to support our Tres Barras mill upgrade and estimate 27,000 tons of maintenance downtime;
+
+ 
+
+•
+
+our expectation of higher energy and transportation costs entering the winter season along with increased health insurance costs prior to the annual reset of employee deductibles;
+
+ 
+
+•
+
+our expectation that we will begin accruing short-term incentive payouts for fiscal 2021 at a target level that is higher than the payout level for fiscal 2020;
+
+ 
+
+•
+
+we may further modify the WestRock Pandemic Action Plan;
+
+ 
+
+•
+
+our belief that our payment terms will not be shortened significantly in the near future, and that we do not expect our net cash provided by operating activities to be significantly impacted by additional extensions of payment terms; our belief that we are one of the largest paper recyclers in North America;
+
+ 
+
+•
+
+our belief that we are the largest manufacturer of solid fiber partitions in North America measured by net sales;
+
+ 
+
+•
+
+our belief that we would be able to source significant replacement quantities from other suppliers in the event we incur production disruptions for recycled or virgin containerboard and paperboard;
+
+ 
+
+•
+
+our belief that we have good relationships with our customers;
+
+ 
+
+•
+
+our belief that our ability to leverage our full portfolio of differentiated solutions and capabilities enables us to set ourselves apart from our competitors;
+
+ 
+
+•
+
+our belief that we compete effectively on price, design, product innovation, quality, service and sustainability;
+
+14
+
+ 
+
+ 
+
+•
+
+our belief that future compliance with occupational health and safety laws and regulations will not have a material adverse effect on our results of operations, financial condition or cash flows;
+
+ 
+
+•
+
+our belief that, based on our evaluation of the proposed Boiler MACT (as defined herein) rule, emissions data and testing, the capital or operating costs for the Company to comply with the proposed Boiler MACT limits will not be material;
+
+ 
+
+•
+
+that concerns about climate change may result in new laws and regulations that could take the form of cap-and-trade, carbon taxes or greenhouse gas reductions mandates for utilities that could increase the cost of purchased electricity;
+
+ 
+
+•
+
+that China’s ban of all imports of solid waste beginning in 2021 may impact the cost of recycled fiber in the markets in which we compete and benefit producers that have a high concentration of recycled fiber mills;
+
+ 
+
+•
+
+our belief that the currently expected outcome of any environmental proceedings and claims that are pending or threatened against us will not have a material adverse effect on our results of operations, financial condition or cash flows;
+
+ 
+
+•
+
+our belief that the costs associated with investigations or remediations under various environmental laws and regulations, including CERCLA, will not have a material adverse effect on our results of operations, financial condition or cash flows but that the discovery of contamination or the imposition of additional obligations, including natural resources damaged at these or other sites in the future, could result in additional costs;
+
+ 
+
+•
+
+our belief that we can assert claims for indemnification pursuant to existing rights we have under purchase and other agreements in connection with certain remediation sites and have insurance coverage, subject to applicable deductibles or retentions, policy limits and other conditions, for certain environmental matters;
+
+ 
+
+•
+
+that compliance with climate programs may require future expenditures to meet GHG emission reduction obligations in future years;
+
+ 
+
+•
+
+our belief that our size and scale, coupled with our history of developing innovative products and solutions, uniquely positions us to help our customers meet or exceed their sustainability objectives;
+
+ 
+
+•
+
+that our businesses are likely to continue experiencing cycles relating to industry capacity and general economic conditions;
+
+ 
+
+•
+
+our belief that working relationships with our employees are generally good;
+
+ 
+
+•
+
+as our business evolves, we will remain focused on having the right human capital capabilities, systems and processes in place to support our strategy;
+
+ 
+
+•
+
+our expectation that the benefits from potential, as well as completed, acquisitions and joint ventures will include synergies, cost savings, growth opportunities or access to new markets (or a combination thereof), and in the case of divestitures, the realization of proceeds from the sale of businesses and assets to purchasers that place higher strategic value on these businesses and assets than we do;
+
+ 
+
+•
+
+our expectation that the KapStone Acquisition will generate run-rate synergies and performance improvements of more than $200 million by the end of fiscal 2021;
+
+ 
+
+•
+
+our expectation that we will continue to incur significant capital, operating and other expenditures complying with applicable environmental regulations;
+
+15
+
+ 
+
+ 
+
+•
+
+that we may be required to incur additional indebtedness or issue equity securities in order to satisfy our payment or investment obligations with respect to our joint venture with Grupo Gondi (as hereinafter defined);
+
+ 
+
+•
+
+that we may form additional joint ventures;
+
+ 
+
+•
+
+our belief that certain multiemployer pension plans (“MEPP” or “MEPPs”) in which we participate or have participated, including Pace Industry Union-Management Pension Fund (“PIUMPF”), have material unfunded vested benefits;
+
+ 
+
+•
+
+that we expect to challenge the PIUMPF accumulated funding deficiency demands;
+
+ 
+
+•
+
+that we may withdraw from other MEPPs in the future;
+
+ 
+
+•
+
+our belief that our existing production capacity is adequate to serve existing demand for our products and that our plants and equipment are in good condition;
+
+ 
+
+•
+
+our belief that the resolution of lawsuits and claims will not have a material adverse effect on our consolidated financial condition, results of operations or cash flows;
+
+ 
+
+•
+
+that we expect in the future to continue to evaluate potential acquisitions similar to those completed in the past, although the size of individual acquisitions may vary;
+
+ 
+
+•
+
+our belief that our strong balance sheet and cash flow provide us the flexibility to continue to invest to sustain and improve our operating performance;
+
+ 
+
+•
+
+that the upgrade of our mill located in Tres Barras, Brazil is expected to be completed in the first half of 2021;
+
+ 
+
+•
+
+our general expectation that the integration of a closed facility’s assets and production with other facilities will enable the receiving facilities to better leverage their fixed costs while eliminating fixed costs from the closed facility;
+
+ 
+
+•
+
+that we will likely engage in future restructuring initiatives;
+
+ 
+
+•
+
+our expectation that funding for our domestic operations in the foreseeable future to come from sources of liquidity within our domestic operations, including cash and cash equivalents, and available borrowings under our credit facilities, and that our foreign cash and cash equivalents are not expected to be a key source of liquidity to our domestic operations;
+
+ 
+
+•
+
+that with the completion of certain of our strategic projects, we had expected to transition to our long-range capital expenditure run-rate of approximately $900 million to $1.0 billion a year in fiscal 2021, however, we expect to invest $800 million to $900 million in fiscal 2021; that at these capital investment levels, we are confident that we will continue to invest in the appropriate safety, environmental and maintenance projects, and complete our strategic mill projects while also making investments to support productivity and growth in our business; and that it is possible that our capital expenditure assumptions or future estimates may change, project completion dates may change, or we may decide to invest a different amount depending upon opportunities we identify, or changes in market conditions, or to comply with environmental or other regulatory changes;
+
+ 
+
+•
+
+our estimation that we will invest approximately $27 million for capital expenditures during fiscal 2021 in connection with matters relating to environmental compliance;
+
+ 
+
+•
+
+our expectation that based on current projections, we will utilize nearly all of the remaining U.S. federal net operating losses and other U.S. federal credits during the current fiscal year and that foreign and state net operating losses and credits will be used over a longer period of time;
+
+16
+
+ 
+
+ 
+
+•
+
+that, barring significant changes in our current assumptions, including changes in tax laws or tax rates, forecasted taxable income, levels of capital expenditures and other items, we expect our cash tax rate to be slightly higher than our income tax rate in fiscal 2021, 2022 and 2023 primarily due to the absence of certain nonrecurring tax credits, the reduction in capital investments as well as reversal of prior years’ accelerated tax depreciation causing taxable income to be higher;
+
+ 
+
+•
+
+our expectation that, based on current facts and assumptions, we will contribute approximately $23 million to our U.S. and non-U.S. pension plans in fiscal 2021;
+
+ 
+
+•
+
+our estimation that, based on current facts and assumptions, minimum pension contributions to our U.S. and non-U.S. pension plans will be in the range of approximately $22 million to $23 million annually in fiscal 2022 through 2025;
+
+ 
+
+•
+
+our expectation that we will continue to make contributions in the coming years to our pension plans in order to ensure that our funding levels remain adequate in light of projected liabilities and to meet the requirements of the Pension Protection Act of 2006 (“Pension Act”) and other regulations;
+
+ 
+
+•
+
+our anticipation that we will be able to fund our capital expenditures, interest payments, dividends and stock repurchases, pension payments, working capital needs, note repurchases, restructuring activities, repayments of current portion of long-term debt and other corporate actions for the foreseeable future from cash generated from operations, borrowings under our credit facilities, proceeds from our A/R Sales Agreement (as hereinafter defined), proceeds from the issuance of debt or equity securities or other additional long-term debt financing, including new or amended facilities;
+
+ 
+
+•
+
+that we may seek to refinance existing indebtedness, to extend maturities, reduce borrowing costs or otherwise improve the terms and composition of our indebtedness;
+
+ 
+
+•
+
+that if actual results are not consistent with our assumptions and estimates used to calculate impairment losses, we may be exposed to additional impairment losses that could be material;
+
+ 
+
+•
+
+that the global impact of the COVID-19 pandemic may affect our accounting estimates, which may materially change from period to period due to changing market factors;
+
+ 
+
+•
+
+that nearly all of our remaining salaried and non-union hourly employees accruing benefits will cease accruing benefits as of December 31, 2020;
+
+ 
+
+•
+
+our belief that our estimates for restructuring costs and other costs are reasonable, considering our knowledge of the industries we operate in, previous experience in exiting activities and valuations we may obtain from independent third parties;
+
+ 
+
+•
+
+our belief that our assumptions are appropriate with respect to health insurance costs, workers’ compensation cost and pension and other postretirement benefit obligations;
+
+ 
+
+•
+
+our expectation of the impact of implementation of various accounting standards, including that certain of these standards will not have a material impact on our consolidated financial statements;
+
+ 
+
+•
+
+our belief that our restructuring actions have allowed us to more effectively manage our business;
+
+ 
+
+•
+
+our belief that by investing in a variety of asset classes and utilizing multiple investment management firms, we can create a portfolio for our pension plans that yields adequate returns with reduced volatility;
+
+ 
+
+•
+
+that MWV TN (as defined herein) expects to only repay the liability at maturity from the Timber Note (as defined herein) proceeds;
+
+ 
+
+•
+
+our belief that the liability for environmental matters was adequately reserved at September 30, 2020;
+
+17
+
+ 
+
+ 
+
+•
+
+our belief that we have substantial insurance coverage, subject to applicable deductibles and policy limits, with respect to asbestos claims;
+
+ 
+
+•
+
+our belief that we have valid defenses to asbestos-related personal injury claims and intend to continue to defend them vigorously, and that should the volume of asbestos-related personal injury litigation grow substantially, it is possible that we could incur significant costs resolving these cases;
+
+ 
+
+•
+
+our expectation that the resolution of pending asbestos litigation and proceedings will not have a material adverse effect on results of operations, financial condition or cash flows but that in any given period or periods, it is possible that asbestos-related proceedings or matters could have a material adverse effect on our results of operations, financial condition or cash flows;
+
+ 
+
+•
+
+our estimation that the exposure with respect to certain guarantees we have made could be approximately $50 million;
+
+ 
+
+•
+
+our belief that our exposure related to guarantees will not have a material impact on our results of operations, financial condition or cash flows;
+
+ 
+
+•
+
+our expectation that we will not issue additional SARs;
+
+ 
+
+•
+
+that we may enter into various hedging transactions;
+
+ 
+
+•
+
+our belief that in the event of a distribution in the form of dividends or dispositions of our foreign subsidiaries, we may be subject to incremental U.S. income taxes, subject to an adjustment for foreign tax credits, and withholding taxes or income taxes payable to the foreign jurisdictions;
+
+ 
+
+•
+
+that it is reasonably possible that our unrecognized tax benefits will decrease by up to $21.9 million in the next twelve months due to expiration of various statues of limitations and settlement of issues;
+
+ 
+
+•
+
+our belief that our tax positions are appropriate;
+
+ 
+
+•
+
+the expected impact of market risks, such as interest rate risk, pension plan risk, foreign currency risk, commodity price risks, energy price risk, rates of return, the risk of investments in derivative instruments, and the risk of counterparty nonperformance, and expected factors affecting those risks, including our exposure to foreign currency rate fluctuations;
+
+ 
+
+•
+
+that the net proceeds from issuances of notes under our commercial paper program are expected to continue to be used for general corporate purposes; and
+
+ 
+
+•
+
+our belief that the decision by the Supreme Court of Brazil with respect to certain state value added tax reduced our gross receipts tax in Brazil prospectively and retrospectively, and will allow us to recover tax amounts collected by the government.
+
+Forward-looking statements are based on currently available information and our current assumptions, expectations and projections about future events. You should not rely on our forward-looking statements. Our forward-looking statements are not guarantees of future performance and are subject to future events, risks and uncertainties — many of which are beyond our control, dependent on actions of third parties or currently unknown to us — as well as potentially inaccurate assumptions that could cause actual results to differ materially from our expectations and projections. Particular uncertainties that could cause our actual results to be materially different than those expressed in our forward-looking statements include: our ability to respond effectively to the impact of COVID-19; our ability to achieve benefits from acquisitions (including the KapStone Acquisition) and the timing thereof, including synergies, performance improvements; our ability to successfully implement capital projects (including our strategic capital projects); the level of demand for our products; our ability to successfully identify and make performance and productivity improvements; anticipated returns on our capital investments; the possibility of and uncertainties related to planned and unplanned mill outages or production disruptions; investment performance, discount rates, return on pension plan assets and expected compensation levels; fluctuations in energy, raw materials, shipping and capital equipment costs; fluctuations in selling prices and volumes; intense competition; the impact of operational restructuring activities; potential liability for outstanding guarantees and
+
+18
+
+ 
+
+indemnities and the potential impact of such liabilities; the potential loss of key customers; changes in law, economic and financial conditions, including interest and exchange rate volatility, commodity and equity prices; our ability to maintain our current credit rating and the impact on our funding costs and competitive position if we do not do so; the amount and timing of our cash flows and earnings and other conditions, which may affect our ability to pay our quarterly dividend at the planned level or to repurchase shares at planned levels; our capital allocation plans, as such plans may change including with respect to the timing and size of share repurchases, acquisitions, joint ventures, dispositions and other strategic actions; the impact of announced price increases or decreases and the impact of the gain and loss of customers; compliance with governmental laws and regulations, including those related to the environment; the scope, and timing and outcome of any litigation, claims, or other proceedings or dispute resolutions and the impact of any such litigation (including the Brazil Tax Liability), claims or other proceedings or dispute resolutions on our results of operations, financial condition or cash flows; income tax rates, future deferred tax expense and future cash tax payments; future debt repayment; the occurrence of severe weather or a natural disasters, such as hurricanes or other unanticipated problems, such as labor difficulties, equipment failure or unscheduled maintenance and repair, which could result in operational disruptions of varied duration; and other factors that are discussed in Item 1A. “Risk Factors”.
+
+Forward-looking statements speak only as of the date they are made, and we do not undertake to update these statements other than as required by law. You are advised, however, to review any further disclosures we make on related subjects in our periodic filings with the SEC.
