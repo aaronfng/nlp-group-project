@@ -103,7 +103,10 @@ def collate_batch(batch):
 # Create data loader to iterate over dataset in batches during training/evaluation
 dataset = BDDataset(BDs)
 batch_size = 64
-data_loader = DataLoader(dataset, batch_size=batch_size, shuffle=False, collate_fn=collate_batch)
+data_loader = DataLoader(dataset,
+                         batch_size=batch_size,
+                         shuffle=True,
+                         collate_fn=collate_batch)
 hidden_size = 500
 num_topics = args.num_topics
 
@@ -148,7 +151,7 @@ for epoch in range(outer_epochs):
 
     print(f"[Time: {timedelta(seconds=timer() - start_time)}, Epoch {epoch + 1}] Loss {loss_sum/n}, Rec {rec_sum/n}, KL {kl_sum/n}")
 
-print("Save model...")
 MODELSAVE_PATH = f"./modelsaves/nvdm_k{num_topics}_{outer_epochs}epochs.pt"
+print(f"Save model... to {MODELSAVE_PATH}")
 torch.save(model.state_dict(), MODELSAVE_PATH)
 print("Done.")
