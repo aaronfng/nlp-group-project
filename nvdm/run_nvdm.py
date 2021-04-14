@@ -135,18 +135,17 @@ for epoch in range(outer_epochs):
         offsets = offsets.to(device)
 
         optimizer.zero_grad()
-        logits, loss_dict = model(text, offsets, kl_weight=1.0)
-        loss = loss_dict["total"]
+        loss_dict = model(text, offsets, kl_weight=1.0)
+        loss = loss_dict["total"].sum()
         loss.backward()
 
         optimizer.step()
 
         # For printing
         loss_sum += loss.item()
-        rec_sum += loss_dict["rec"].item()
-        kl_sum += loss_dict["kl"].item()
+        rec_sum += loss_dict["rec"].sum().item()
+        kl_sum += loss_dict["kl"].sum().item()
 
-    model_str = "All" # "Enc" if switch == 0 else "Dec"
     print(f"[Time: {timedelta(seconds=timer() - start_time)}, Epoch {epoch + 1}] Loss {loss_sum/n}, Rec {rec_sum/n}, KL {kl_sum/n}")
 
 print("Save model...")

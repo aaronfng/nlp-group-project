@@ -15,7 +15,7 @@ def kl_div(mu, log_sigma):
     # in the author's code.
     K = 1
     # logdet(diag(s^2)) = log(prod_i s_i^2) = sum_i log s_i^2 = 2 sum_i log s_i
-    return -0.5 * torch.sum(K - mu.pow(2) + 2 * log_sigma - torch.exp(2 * log_sigma))
+    return -0.5 * torch.sum(K - mu.pow(2) + 2 * log_sigma - torch.exp(2 * log_sigma), dim=1)
 
 
 class NVDM(nn.Module):
@@ -101,22 +101,37 @@ class NVDM(nn.Module):
         logits = torch.log_softmax(self.decoder(doc_vec), dim=1)
         return logits
 
-    def forward(self, text, offsets, kl_weight=1.0):
+    def forward(self, text, offsets, kl_weight=1.0, n_sample=None):
         """ Here we compute both the logits and total loss. """
-        X_bow, mu, log_sigma = self.encode(text, offsets)
-        logits = self.decode(X_bow, mu, log_sigma)
 
-        # Reconstruction loss
-        # Negative log likelihood,
-        # but each logit p(x_i) is weighted by the number
-        # of occurrence of x_i in the text, (BoW frequencies).
-        loss_rec = -(X_bow * logits).sum(dim=1).mean()
+        if n_sample is None:
+            n_sample = self.n_sample
+
+        # Encoding step
+        X_bow, mu, log_sigma = self.encode(text, offsets)
+
+        # Reconstruction loss: estimate by sampling.
+        loss_rec = 0.0
+        for _ in range(n_sample):
+            # decode() randomly samples from the Gaussian.
+            logits = self.decode(X_bow, mu, log_sigma)
+
+            # Log likelihood. Each logit p(x_i) is weighted by its
+            # frequency in the document (retrieved from BoW)
+            loss_rec_sample = (X_bow * logits).sum(dim=1)
+            loss_rec += loss_rec_sample
+
+        # Negate (important!) and sample mean (i.e. negative log likelihood)
+        loss_rec = -loss_rec / n_sample
 
         # KL divergence loss
+        # Computed once only unlike reconstruction loss.
         loss_kl = kl_div(mu, log_sigma)
 
-        # Possible improvement: can add a hyperparameter (beta)
-        # control the weighting of KL.
-        # e.g. loss_total = loss_rec + b * loss_kl
+        # Total loss = L_rec + L_kl
+        # During training, we might want to weight the KL more as a form of
+        # regularization, so multiply it by kl_weight.
+        # But for the variational lower bound/estimating perplexity etc.,
+        # kl_weight must be 1.
         loss_total = loss_rec + kl_weight * loss_kl
-        return logits, {"rec": loss_rec, "kl": loss_kl, "total": loss_total}
+        return {"rec": loss_rec, "kl": loss_kl, "total": loss_total}
