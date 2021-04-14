@@ -5,6 +5,7 @@ Command line version of notebook.
 
 
 import argparse
+import pickle
 from timeit import default_timer as timer
 from datetime import timedelta
 
@@ -51,11 +52,14 @@ for desc in BDs:
 
 # PyTorch torchtext vocabulary converts tokens to indices and vice versa.
 # Also has an '<unk>' for OOV words (might be useful later).
-vocab = Vocab(counter,
-              max_size=10000,
-              min_freq=1,
-              specials=['<unk>'])
-print(len(vocab))
+# vocab = Vocab(counter,
+#               max_size=10000,
+#               min_freq=1,
+#               specials=['<unk>'])
+# print(len(vocab))
+# Load the same precomputed vocabulary each time for consistency.
+with open("./vocabs/vocab_bds_1_clean_10000.pickle", "rb") as f:
+    vocab = pickle.load(f)
 
 
 class BDDataset(Dataset):
