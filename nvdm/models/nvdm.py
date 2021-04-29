@@ -79,9 +79,13 @@ class NVDM(nn.Module):
         # Torch device (GPU/CPU)
         self.device = device
 
-    def encode(self, text, offsets):
-        # Convert text into BoW representations.
-        X_bow = self.embed_bow(text, offsets)
+    def encode(self, text, offsets=None):
+        """ If offsets is none, the we assume text is already a BoW representation. """
+        # Convert text into BoW representation if required.
+        if offsets is not None:
+            X_bow = self.embed_bow(text, offsets)
+        else:
+            X_bow = text
 
         # Compute Gaussian parameters
         pi = self.encoder(X_bow)
@@ -101,7 +105,7 @@ class NVDM(nn.Module):
         logits = torch.log_softmax(self.decoder(doc_vec), dim=1)
         return logits
 
-    def forward(self, text, offsets, kl_weight=1.0, n_sample=None):
+    def forward(self, text, offsets=None, kl_weight=1.0, n_sample=None):
         """ Here we compute both the logits and total loss. """
 
         if n_sample is None:
