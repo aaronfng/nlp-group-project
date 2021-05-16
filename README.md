@@ -20,6 +20,5 @@ Each file is a BD of a specific company.
 - **`NLP Project Demo.ipynb`: the demo notebook. It is expected to be uploaded and run from Google Colab.**
 - `All_Models_Selecting_K.ipynb`: aggregates our training and evaluation code for all three models.
 - `Final_Models.ipynb`: trains all three models with the best `K` and saves them.
-- `LDA_Companies.ipynb`: data exploration and visualization experiments for LDA.
 - `Visualisations.ipynb`: basic data visualizations such as word clouds and topic-word plots. 
 - `S AND P.xlsx`:  spreadsheet containing additional information about the S&P500 data (Security name, GICS sector etc.) extracted from Wikipedia.
